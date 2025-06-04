@@ -1,0 +1,130 @@
+{
+  "id": 935,
+  "name": "Ocrolus",
+  "description": "Ocrolus is a document AI platform that enables faster and more accurate financial decision-making. The company analyzes documents with over 99% accuracy, regardless of format or quality, supporting hundreds of document types including bank statements, pay stubs, and tax forms. Ocrolus provides a trusted solution to detect fraud, analyze cash flows and income, and streamline decisions for 400+ clients. Use-cases range from small business, mortgage, and consumer lending to tax preparation and Medicaid eligibility. Customers such as Enova, PayPal, Brex, CrossCountry Mortgage, Plaid, and SoFi leverage Ocrolus automation to build delightful user-experiences",
+  "features": [
+    "We offer a comprehensive health package, including dental and vision, to support your physical and mental wellbeing.",
+    "Be empowered to grow personally and professionally with our annual learning and development stipend.",
+    "It\u2019s important that Ocrolus employees feel invested in the company. Equity packages are available to most staff."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Internet of things",
+    "Blockchain"
+  ],
+  "tags": [
+    "Employee happiness",
+    "Employee well being"
+  ],
+  "headquarter": "",
+  "launch_date": "2014",
+  "order": 21161,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Ocrolus is a document AI platform that enables faster and more accurate financial decision-making.",
+  "ProductId": null,
+  "ShortDescription": "Ocrolus believe companies work best when they focus on their core business and let automation take care of the rest.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": [],
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": false,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:37:13.718Z",
+  "enhanced_description": "Ocrolus is a document AI platform designed to enable faster and more accurate financial decision-making. The platform analyzes documents with over 99% accuracy, regardless of format or quality, supporting hundreds of document types including bank statements, pay stubs, and tax forms. It provides a trusted solution for clients to detect fraud, analyze cash flows and income, and streamline decisions. Ocrolus's automation allows companies to focus on their core business, serving use-cases across small business, mortgage, and consumer lending, as well as tax preparation and Medicaid eligibility. Prominent customers include Enova, PayPal, Brex, CrossCountry Mortgage, Plaid, and SoFi, who leverage Ocrolus to build delightful user-experiences.",
+  "target_industries": [
+    "Financial Services",
+    "Lending",
+    "Mortgage",
+    "Fintech",
+    "Tax Preparation",
+    "Government (for eligibility programs)"
+  ],
+  "key_use_cases": [
+    "Financial document analysis",
+    "Fraud detection",
+    "Cash flow analysis",
+    "Income analysis",
+    "Loan application processing",
+    "Tax document processing",
+    "Eligibility verification (e.g., Medicaid)",
+    "Streamlining financial decisions"
+  ],
+  "competitive_advantages": [
+    "Over 99% accuracy in document analysis",
+    "Ability to process documents regardless of format or quality",
+    "Support for hundreds of document types",
+    "Automated financial decision streamlining",
+    "Fraud detection capabilities",
+    "Improved user experience through automation"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence",
+    "Document AI"
+  ],
+  "integration_capabilities": [
+    "API integrations (inferred from Plaid customer mention)"
+  ],
+  "roi_benefits": [
+    "Faster financial decision-making",
+    "More accurate financial decision-making",
+    "Reduced fraud losses",
+    "Improved efficiency in financial operations",
+    "Enhanced user experiences",
+    "Optimized resource allocation by enabling focus on core business"
+  ],
+  "searchable_keywords": [
+    "Ocrolus",
+    "document AI",
+    "AI platform",
+    "financial decision-making",
+    "document analysis",
+    "data extraction",
+    "financial automation",
+    "fraud detection",
+    "cash flow analysis",
+    "income analysis",
+    "lending automation",
+    "mortgage automation",
+    "consumer lending",
+    "tax preparation automation",
+    "Medicaid eligibility",
+    "fintech",
+    "artificial intelligence",
+    "document processing"
+  ],
+  "primary_users": [
+    "Financial institutions",
+    "Lending businesses",
+    "Mortgage lenders",
+    "Fintech companies",
+    "Tax preparation services",
+    "Government agencies (for eligibility programs)",
+    "Underwriters",
+    "Loan officers",
+    "Fraud prevention teams",
+    "Financial analysts"
+  ],
+  "_weight": 1
+}

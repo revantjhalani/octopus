@@ -1,0 +1,124 @@
+{
+  "id": 596,
+  "name": "FuzeMee",
+  "description": "FuzeMee is a social media app that helps college students connect with each other and explore on-campus events through a personalized feed. The app was founded in 2020 and is headquartered in Philadelphia, Pennsylvania, United States12. It enables students to grow their social circles, find roommates, and chat in groups. FuzeMee has raised $800K in funding so far1.",
+  "features": [
+    "Connect student with people and places",
+    "Student can buy and sell products",
+    "Connect with marketplaces"
+  ],
+  "founders": [
+    "David",
+    "Chris"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency",
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Training methodologies",
+    "Learning efficiency",
+    "Talent sourcing"
+  ],
+  "headquarter": "Pennsylvania",
+  "launch_date": "2020",
+  "order": 20554,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "The App for Your College Experience",
+  "ProductId": null,
+  "ShortDescription": "FuzeMee is a social media app for your whole college experience. With FuzeMee, students can grow their social circles, discover events on and around campus, and chat in groups",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:30:42.823Z",
+  "enhanced_description": "FuzeMee is a social media app designed specifically for college students, enabling them to connect with peers, discover on-campus events through a personalized feed, and expand their social circles. Beyond core social features like finding roommates and participating in group chats, the platform also facilitates practical student needs by allowing users to buy and sell products and connect with local marketplaces. Founded in 2020 and headquartered in Philadelphia, Pennsylvania, FuzeMee has raised $800K in funding.",
+  "target_industries": [
+    "Education"
+  ],
+  "key_use_cases": [
+    "Facilitating student community building and engagement on campus.",
+    "Discovery and participation in on-campus events and activities.",
+    "Supporting peer-to-peer connections for social growth and practical needs (e.g., roommate search).",
+    "Enabling informal learning and skill development through peer interaction and event participation (aligned with Learning & Development objectives).",
+    "Potentially supporting talent sourcing and connections for student opportunities within the campus environment or local community (aligned with Recruiting objectives).",
+    "Providing a student-centric marketplace for peer-to-peer transactions of goods.",
+    "Connecting students with relevant local services and businesses."
+  ],
+  "competitive_advantages": [
+    "Niche focus specifically on college students, catering to their unique social and practical needs.",
+    "Integration of diverse functionalities including social networking, event discovery, roommate matching, and a student marketplace within a single platform.",
+    "Personalized feed for tailored event and connection recommendations."
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Recruiting",
+    "Talent Management"
+  ],
+  "roi_benefits": [
+    "Improved student engagement and retention through enhanced social connections and campus involvement.",
+    "Accelerated informal skill development and learning efficiency among the student population.",
+    "Potential for more efficient identification and connection with student talent for campus or local opportunities."
+  ],
+  "searchable_keywords": [
+    "FuzeMee",
+    "social media app",
+    "college students",
+    "on-campus events",
+    "personalized feed",
+    "student networking",
+    "social circles",
+    "roommates",
+    "group chat",
+    "buy and sell products",
+    "marketplaces",
+    "Learning and Development",
+    "Recruiting",
+    "Talent Management",
+    "Training eLearning software",
+    "Training methodologies",
+    "Learning efficiency",
+    "Talent sourcing",
+    "student experience",
+    "peer connection",
+    "student engagement",
+    "education technology",
+    "campus life"
+  ],
+  "primary_users": [
+    "College Students"
+  ],
+  "deployment_options": [
+    "Mobile Application"
+  ],
+  "_weight": 1
+}

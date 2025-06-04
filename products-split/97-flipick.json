@@ -1,0 +1,154 @@
+{
+  "id": 97,
+  "name": "Flipick",
+  "description": "Flipick aims to provide an unmatched learning experience, catering to individuals, businesses, and consumers alike with customized learning solutions. Our platform supports diverse learning and training goals with cutting-edge tools, inviting users to explore our multifaceted offerings in Education, B2B, and B2C sectors. Join us in achieving your learning and professional aims with Flipick's revolutionary resources.",
+  "features": [
+    "Transform Learning: Make Education Engaging and Effective with Flipick.",
+    "Tailoring Content to Meet Educational Imperatives Your Expertise, Their Learning Odyssey.",
+    "Modern Learning Platform, Powerful Features: Flipick - Your One-Stop Shop for All Your Learning Needs."
+  ],
+  "founders": [
+    "Tanveen Dugal "
+  ],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Corporate LMS",
+    "Machine learning HR",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Learning efficiency",
+    "Learning speed",
+    "Training methodologies",
+    "Adaptive learning",
+    "Learning analytics",
+    "Continuous learning"
+  ],
+  "headquarter": "Pune",
+  "launch_date": "2014",
+  "order": 20067,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Revolutionizing Publishing with AI-Enhanced Curated Collections Elevating to New Heights.",
+  "ProductId": null,
+  "ShortDescription": "Revolutionize the way you teach and learn with Flipick. And now, we're thrilled to announce the launch of CourseBOT - the AI-assisted automation tool that makes creating and modifying course content easier than ever before.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Automating textbook content for e-learning.",
+      "sequence": 0,
+      "description": "Re-purpose textbook content designed for traditional classroom learning into engaging e-learning courses that are tailored to specific learning objectives. Automate the process of content creation and modification, save time and money while ensuring that the content is of the highest quality."
+    },
+    {
+      "name": "Keywords and images for effective e-learning.",
+      "sequence": 1,
+      "description": "Generate keywords to search and link images, video, and audio assets, creating a multimedia experience that is engaging and effective. Create courses that are not only informative but also visually appealing and interactive."
+    },
+    {
+      "name": "Workflow for automation.",
+      "sequence": 2,
+      "description": "Analyze and break down textbook content into its component parts before generating a Voice over script tailored to the specific course. AI selects and links relevant images, video, and audio assets, resulting in a multimedia course that is both engaging and effective."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-26T12:02:31.380Z",
+  "enhanced_description": "Flipick is an AI-enhanced learning platform that provides customized learning solutions for individuals, businesses, and consumers across Education, B2B, and B2C sectors. It specializes in revolutionizing content creation by automating the transformation of traditional textbook content into engaging e-learning courses using its AI-assisted tool, CourseBOT. The platform offers powerful features to streamline content creation and modification, including automated keyword generation, multimedia asset linking (images, video, audio), and voice-over script generation, aiming to make education and training more engaging, effective, and efficient.",
+  "target_industries": [
+    "Education",
+    "Corporate Training",
+    "Publishing"
+  ],
+  "key_use_cases": [
+    "Transforming traditional textbook content into e-learning courses",
+    "Automating e-learning content creation and modification",
+    "Creating engaging multimedia-rich learning experiences (integrating images, video, audio)",
+    "Generating voice-over scripts for e-learning courses",
+    "Tailoring educational content for specific learning objectives",
+    "Providing customized learning solutions for diverse audiences (B2B, B2C, education)"
+  ],
+  "competitive_advantages": [
+    "AI-assisted automation for course content creation and modification (CourseBOT)",
+    "Ability to re-purpose textbook content into engaging e-learning courses",
+    "Automated generation and linking of multimedia assets (images, video, audio) for e-learning",
+    "Automated voice-over script generation from textbook content",
+    "Potential for significant time and cost savings in content development"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Corporate Training"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence",
+    "Machine Learning"
+  ],
+  "roi_benefits": [
+    "Time and cost savings in content creation and modification",
+    "Enhanced quality of e-learning content",
+    "Increased engagement and effectiveness of learning experiences",
+    "Streamlined content development workflow"
+  ],
+  "searchable_keywords": [
+    "Flipick",
+    "Learning and Development",
+    "Training eLearning software",
+    "Corporate LMS",
+    "Machine learning HR",
+    "Artificial intelligence",
+    "Learning efficiency",
+    "Learning speed",
+    "Training methodologies",
+    "Adaptive learning",
+    "Learning analytics",
+    "Continuous learning",
+    "AI-Enhanced Publishing",
+    "Curated Collections",
+    "CourseBOT",
+    "AI-assisted automation",
+    "Course content creation",
+    "Course modification",
+    "Textbook to e-learning",
+    "Content re-purposing",
+    "Multimedia e-learning",
+    "Voice over script generation",
+    "Automated content workflow",
+    "Customized learning solutions",
+    "Engaging education",
+    "Professional aims",
+    "B2B learning",
+    "B2C learning",
+    "Digital learning platform"
+  ],
+  "primary_users": [
+    "Educators",
+    "Corporate Trainers",
+    "Content Creators",
+    "Instructional Designers",
+    "Publishers",
+    "Learners"
+  ],
+  "_weight": 1
+}

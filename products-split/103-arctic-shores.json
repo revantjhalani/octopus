@@ -1,0 +1,154 @@
+{
+  "id": 103,
+  "name": "Arctic Shores",
+  "description": "Arctic Shores\u2019 behaviour-based assessments give every individual the opportunity to show their potential, and every employer the means to see it.\n\nToday, their assessments help employers like BBC, PwC and Capita see beyond the CV \u2013 beyond the ordinary measures of human potential. This way, they can counter natural bias, and build the diverse, successful, extraordinary teams they need most. And, what\u2019s more, we\u2019ve also delivered an engaging, stress free experience for over two million candidates \u2013 and counting.",
+  "features": [
+    "Psychometric testing",
+    "Recruitment Innovation",
+    "Data Driven Hiring",
+    "Behaviour based Assessment",
+    "Workplace Intelligence Testing"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Pre-employment screening software",
+    "Pre-employment testing software",
+    "Reference check software",
+    "Recruiting automation software",
+    "Talent acquisition suites",
+    "Applicant tracking system (ATS)",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Diversity and inclusion",
+    "Workforce diversity",
+    "Employee diversity",
+    "Diversity hiring"
+  ],
+  "headquarter": "London",
+  "launch_date": "2013",
+  "order": 20073,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Assessments that give every individual the opportunity to show their potential.",
+  "ProductId": null,
+  "ShortDescription": "Arctic Shores exists to help businesses build teams in a better way. Frustrated by the frequent ineffectiveness in recruitment, the founders saw the potential for tools that give everybody the opportunity to excel in the right place. Whatever their background.\n",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "New Approach to Recruitment: Task-Based Assessments",
+      "sequence": 0,
+      "description": "Arctic Shores offers a new recruitment method that uses task-based assessments to analyze a candidate's skills and potential, rather than their background or what they say they can do."
+    },
+    {
+      "name": "Benefits of Using Arctic Shores Assessments",
+      "sequence": 1,
+      "description": "Arctic Shores assessments reduced turnover by 40% ,increase the diversity of candidate pools and improved the completion rate of assessments."
+    },
+    {
+      "name": "Limitations of Traditional Hiring Methods",
+      "sequence": 2,
+      "description": "Traditional CV-based hiring and question-based psychometric assessments These methods are not effective at predicting candidate success."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-26T12:20:26.053Z",
+  "enhanced_description": "Arctic Shores provides behaviour-based and task-based assessments designed to help businesses build diverse and successful teams by seeing beyond traditional hiring methods like CVs and question-based psychometric assessments. Their tools aim to counter natural bias and give every individual the opportunity to show their potential, regardless of their background, by analyzing skills and potential. The platform delivers an engaging and stress-free experience for candidates, having served over two million individuals. Using Arctic Shores assessments has been shown to reduce turnover by 40%, increase the diversity of candidate pools, and improve assessment completion rates.",
+  "key_use_cases": [
+    "Pre-employment candidate assessment",
+    "Reducing bias in hiring processes",
+    "Improving workforce diversity and inclusion",
+    "Predicting candidate potential and success beyond traditional metrics",
+    "Reducing employee turnover",
+    "Enhancing candidate experience during the assessment phase"
+  ],
+  "competitive_advantages": [
+    "Utilizes behaviour-based assessments instead of traditional CVs or question-based psychometrics",
+    "Focuses on assessing candidate potential and skills regardless of background",
+    "Aids in countering natural hiring bias",
+    "Proven results in reducing turnover by 40%",
+    "Increases diversity of candidate pools",
+    "Improves assessment completion rates",
+    "Offers an engaging and stress-free candidate experience"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Pre-employment screening",
+    "Pre-employment testing",
+    "Talent acquisition",
+    "Diversity and inclusion initiatives within recruitment"
+  ],
+  "technology_stack": [
+    "Artificial intelligence"
+  ],
+  "roi_benefits": [
+    "Reduced employee turnover by 40%",
+    "Increased diversity of candidate pools",
+    "Improved assessment completion rates",
+    "Ability to build more diverse, successful, and extraordinary teams",
+    "Mitigation of hiring bias leading to better talent identification"
+  ],
+  "searchable_keywords": [
+    "Arctic Shores",
+    "Psychometric testing",
+    "Recruitment Innovation",
+    "Data Driven Hiring",
+    "Behaviour based Assessment",
+    "Workplace Intelligence Testing",
+    "Recruiting",
+    "Technology",
+    "Recruiting software",
+    "Pre-employment screening software",
+    "Pre-employment testing software",
+    "Reference check software",
+    "Recruiting automation software",
+    "Talent acquisition suites",
+    "Applicant tracking system",
+    "Artificial intelligence",
+    "Diversity and inclusion",
+    "Workforce diversity",
+    "Employee diversity",
+    "Diversity hiring",
+    "Candidate assessment",
+    "Task-based assessments",
+    "Bias reduction",
+    "Candidate potential",
+    "Employee turnover reduction",
+    "Candidate experience",
+    "Hiring innovation"
+  ],
+  "primary_users": [
+    "Employers",
+    "HR professionals",
+    "Recruiters"
+  ],
+  "_weight": 1
+}

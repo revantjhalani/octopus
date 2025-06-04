@@ -1,0 +1,127 @@
+{
+  "id": 812,
+  "name": "Lawencon Internasional",
+  "description": "Lawencon mainstay product is LinovHR, Human capital management system which is designed to help organization manage and develop their human resources. We provide powerful, simple and affordable products since we develop modules organically from the ground up.",
+  "features": [
+    "Offer consulting in various industries",
+    "Ready to use ERP solution",
+    "Offer HCMS service"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing services providers",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring efficiency"
+  ],
+  "headquarter": "Jakarta",
+  "launch_date": "2009",
+  "order": 20765,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "take charge of any IT challange",
+  "ProductId": null,
+  "ShortDescription": "We deliver practical IT solutions tailored to address your most crucial business challenges.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "IT Support",
+      "sequence": 0,
+      "description": "Lawencon also offers application services which can transform a business process into a software application. "
+    },
+    {
+      "name": "Customer Software Applications ",
+      "sequence": 1,
+      "description": "awencon International is an IT solution company that offers a variety of services including Enterprise Resource Planning (ERP) and Human Capital Management Systems (HCMS)"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:56.862Z",
+  "enhanced_description": "Lawencon Internasional is an IT solutions company based in Jakarta, established in 2009. Their flagship product is LinovHR, a Human Capital Management System (HCMS) designed to help organizations manage and develop their human resources effectively. LinovHR is marketed as powerful, simple, and affordable, with modules developed organically from the ground up. Beyond HCMS, Lawencon offers a comprehensive suite of services including ready-to-use ERP solutions, custom software application development, IT support, and HR consulting services across various industries, alongside staffing services. They primarily target Large and Global Enterprise clients.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Human Capital Management",
+    "Recruiting and Hiring",
+    "Enterprise Resource Planning (ERP)",
+    "HR Consulting",
+    "Custom Software Application Development",
+    "IT Support"
+  ],
+  "competitive_advantages": [
+    "Offers powerful, simple, and affordable products",
+    "Develops modules organically from the ground up",
+    "Provides a comprehensive suite of IT solutions including HCMS, ERP, custom software, and IT support",
+    "Offers HR consulting and staffing services alongside technology products"
+  ],
+  "hr_functions_supported": [
+    "Human Capital Management",
+    "Recruiting",
+    "Hiring",
+    "Employee Engagement"
+  ],
+  "roi_benefits": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Improve Employee Happiness and Engagement",
+    "Enhance Hiring Efficiency",
+    "Cost-effectiveness through affordable products"
+  ],
+  "searchable_keywords": [
+    "Lawencon Internasional",
+    "LinovHR",
+    "Human Capital Management System",
+    "HCMS",
+    "HR",
+    "Human Resources",
+    "IT solutions",
+    "ERP solution",
+    "Enterprise Resource Planning",
+    "Recruiting",
+    "Hiring",
+    "Hiring efficiency",
+    "Staffing services",
+    "HR consulting",
+    "IT Support",
+    "Customer Software Applications"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Hiring Managers",
+    "Company Leadership/Management",
+    "Employees",
+    "IT Departments"
+  ],
+  "_weight": 1
+}

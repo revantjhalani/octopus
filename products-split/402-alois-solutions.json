@@ -1,0 +1,176 @@
+{
+  "id": 402,
+  "name": "ALOIS Solutions",
+  "description": "ALOIS Solutions is a dynamic Talent and Technology Solutions company driving rapid expansion through innovation and strategic problem-solving. Specializing in complex challenges, we partner with top MSP programs such as Magnit, Kelly, Tapfin, Allegis, and Guidant Group, ensuring consistent excellence. Our commitment to transformative solutions and enduring partnerships defines us, guiding organizations toward strategic growth and distinction in service delivery.",
+  "features": [
+    "Demonstrated Results",
+    "Recruiting Specialists",
+    "Trusted MSP Partner"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Workforce management",
+    "HR management suites",
+    "Recruitment agencies",
+    "HR consulting providers",
+    "Recruiting automation software",
+    "Software and Services Related to HR Software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "San Francisco, California",
+  "launch_date": "2016",
+  "order": 20363,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Global Technology & Talent Solutions Organization",
+  "ProductId": null,
+  "ShortDescription": "Global IT Services and Enterprise Staffing Solutions, designed to meet the needs of today's businesses.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Diversity, Equity, and Inclusion",
+      "sequence": 0,
+      "description": "We understand that DE&I is not just the right thing to do; it brings real value to organizations, increasing profitability and innovation."
+    },
+    {
+      "name": "Diversity Recruiting Training Program",
+      "sequence": 1,
+      "description": "Our goal is to create an environment where all are welcome and our employer partners can meet their diversity initiatives."
+    },
+    {
+      "name": "EEOC Program",
+      "sequence": 2,
+      "description": "Lastly, our opt-in EEOC program helps our clients reach their D&I goals by providing EEOC data. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:26:20.702Z",
+  "enhanced_description": "ALOIS Solutions is a global Talent and Technology Solutions company that provides IT Services and Enterprise Staffing Solutions. Specializing in resolving complex talent and technology challenges, ALOIS drives rapid expansion through innovation and strategic problem-solving. They partner with leading Managed Service Provider (MSP) programs, including Magnit, Kelly, Tapfin, Allegis, and Guidant Group, to ensure consistent excellence in service delivery. Their commitment is to transformative solutions and enduring partnerships, guiding organizations towards strategic growth and distinction. Key offerings include expert recruiting specialists and a strong focus on Diversity, Equity, and Inclusion (DE&I), featuring a dedicated Diversity Recruiting Training Program and an opt-in EEOC program designed to help employer partners and clients achieve their diversity initiatives and increase profitability and innovation.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Talent acquisition and staffing for IT and enterprise roles",
+    "Optimizing hiring processes for efficiency and speed",
+    "Boosting hiring manager confidence and productivity",
+    "Reducing the cost of hiring qualified employees",
+    "Achieving Diversity, Equity, and Inclusion (DE&I) goals",
+    "Workforce management consulting and support",
+    "Strategic problem-solving for complex talent challenges"
+  ],
+  "competitive_advantages": [
+    "Demonstrated Results",
+    "Expert Recruiting Specialists",
+    "Trusted Partner to top MSP programs (Magnit, Kelly, Tapfin, Allegis, Guidant Group)",
+    "Specialization in complex talent and technology challenges",
+    "Focus on innovation and strategic problem-solving",
+    "Commitment to transformative solutions and enduring partnerships",
+    "Global reach for technology and talent solutions",
+    "Dedicated Diversity, Equity, and Inclusion initiatives (including training and EEOC program)"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Recruiting",
+    "Workforce management",
+    "HR consulting",
+    "Talent acquisition",
+    "Hiring process optimization",
+    "Diversity, Equity, and Inclusion"
+  ],
+  "roi_benefits": [
+    "Faster and more efficient hiring of top talent",
+    "Increased hiring manager confidence and productivity",
+    "Reduced cost of hiring qualified employees",
+    "Increased profitability through DE&I initiatives",
+    "Enhanced organizational innovation through DE&I initiatives",
+    "Achieving strategic growth",
+    "Meeting diversity and inclusion goals"
+  ],
+  "searchable_keywords": [
+    "ALOIS Solutions",
+    "Talent Solutions",
+    "Technology Solutions",
+    "IT Services",
+    "Enterprise Staffing",
+    "Staffing Solutions",
+    "Recruiting",
+    "Talent Acquisition",
+    "HR Consulting",
+    "Workforce Management",
+    "MSP Partner",
+    "Managed Service Provider",
+    "Magnit",
+    "Kelly",
+    "Tapfin",
+    "Allegis",
+    "Guidant Group",
+    "Hiring Optimization",
+    "Cost Reduction Hiring",
+    "Diversity Equity Inclusion",
+    "DE&I",
+    "Diversity Recruiting",
+    "EEOC Program",
+    "Global Talent",
+    "Recruiting Specialists",
+    "Hiring Best Practices",
+    "Hiring Automation",
+    "Data-driven Hiring",
+    "San Francisco",
+    "California"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Professionals",
+    "Recruiters",
+    "Organizational Leadership",
+    "Employer Partners",
+    "Clients"
+  ],
+  "compliance_features": [
+    "EEOC Program"
+  ],
+  "scalability_features": [
+    "Ability to serve Small, Large, and Global Enterprise clients"
+  ],
+  "_weight": 1
+}

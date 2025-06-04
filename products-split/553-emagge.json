@@ -1,0 +1,147 @@
+{
+  "id": 553,
+  "name": "Emagge",
+  "description": "Emgage puts your HR on autopilot with a dedicated Virtual HR Manager, Streamlines your Human Resource policies and practices, and Automates your employee life cycle management from Onboarding to Separation. 70% of MSMEs in India do not have an HR department and at Emgage our vision is to empower 50,000 MSMEs in the next 5 years by providing enterprise-level HR experience at an affordable cost.",
+  "features": [
+    "Leave & Attendance",
+    "Payroll & Compliances",
+    "Performance Management"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting",
+    "Total Rewards",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Payroll services providers",
+    "HR management suites",
+    "Workforce management",
+    "Time tracking",
+    "Talent management software",
+    "Recruiting software",
+    "Software and Services Related to HR Software",
+    "Talent acquisition suites"
+  ],
+  "tags": [
+    "Data driven Hiring",
+    "Hiring best practices",
+    "Hiring manager productivity"
+  ],
+  "headquarter": "Ahmedabad, Gujarat",
+  "launch_date": "2018",
+  "order": 20513,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "On a mission to empower 50k MSMEs through Virtual HR Team",
+  "ProductId": null,
+  "ShortDescription": "A lot of people ask me \u201cWhy do we build Emgage?\u201d I agree, there are plenty of HRMS options out there, but the problem is, none of them are built keeping in mind the challenges of growing startups or SMEs or their founders!",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:29:48.229Z",
+  "enhanced_description": "Emgage offers a comprehensive HR solution designed to put HR on autopilot for Micro, Small, and Medium Enterprises (MSMEs), particularly addressing the needs of growing startups and SMEs and their founders in India. It provides a dedicated Virtual HR Manager to streamline human resource policies and practices and automate the entire employee lifecycle, from onboarding to separation. Emgage aims to empower 50,000 MSMEs in India within the next five years by delivering an affordable, enterprise-level HR experience. Core features include Leave & Attendance management, Payroll & Compliances, and Performance Management. The platform also focuses on helping businesses hire top talent faster and more efficiently, boosting hiring manager confidence and productivity through data-driven hiring and best practices, acknowledging that many existing HRMS options do not adequately cater to the specific challenges faced by these growing businesses.",
+  "ideal_company_sizes": [
+    "MSMEs",
+    "Growing Startups",
+    "SMEs"
+  ],
+  "key_use_cases": [
+    "Automating employee lifecycle management (Onboarding to Separation)",
+    "Streamlining Human Resource policies and practices",
+    "Managing employee leave and attendance",
+    "Processing payroll and ensuring compliance",
+    "Tracking and improving employee performance",
+    "Hiring top talent efficiently"
+  ],
+  "competitive_advantages": [
+    "Dedicated Virtual HR Manager service",
+    "Specifically built to address challenges of growing startups and SMEs/founders",
+    "Provides enterprise-level HR experience at an affordable cost for MSMEs",
+    "Targets the market of MSMEs lacking an HR department (70% in India)",
+    "Focuses on data-driven hiring and best practices"
+  ],
+  "hr_functions_supported": [
+    "Virtual HR Management",
+    "HR Policy & Practice Management",
+    "Employee Lifecycle Management",
+    "Onboarding",
+    "Separation",
+    "Leave Management",
+    "Attendance Management",
+    "Payroll Processing",
+    "Compliance Management",
+    "Performance Management",
+    "Talent Management",
+    "Recruiting",
+    "Workforce Management",
+    "Time Tracking",
+    "Talent Acquisition"
+  ],
+  "roi_benefits": [
+    "HR on autopilot",
+    "Empowering MSMEs with HR capabilities",
+    "Access to enterprise-level HR experience at affordable cost",
+    "Faster and more efficient talent acquisition",
+    "Boosted hiring manager confidence and productivity"
+  ],
+  "searchable_keywords": [
+    "Emagge",
+    "HR on autopilot",
+    "Virtual HR Manager",
+    "HR policies",
+    "Employee lifecycle management",
+    "Onboarding software",
+    "Employee separation",
+    "Leave management system",
+    "Attendance tracking software",
+    "Payroll software",
+    "HR compliance",
+    "Performance management system",
+    "Talent management software",
+    "Recruiting software",
+    "Total rewards solution",
+    "HR management suite",
+    "Workforce management",
+    "Time tracking software",
+    "Talent acquisition suite",
+    "Data-driven hiring",
+    "Hiring best practices",
+    "Hiring manager productivity",
+    "HRMS for SMEs",
+    "HR for startups",
+    "MSME HR India",
+    "Affordable HR software"
+  ],
+  "primary_users": [
+    "Founders of startups and SMEs",
+    "Business owners of MSMEs",
+    "HR managers (if present in SME)"
+  ],
+  "_weight": 1
+}

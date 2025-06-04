@@ -1,0 +1,162 @@
+{
+  "id": 1271,
+  "name": "Emp Trust",
+  "description": "EMP Trust pioneers comprehensive workforce management solutions across industries worldwide. Renowned for regulatory compliance and efficient employee resource management, we serve over 850 customers in 52 countries, including 24 Fortune 500 companies. Our solutions streamline operations and ensure compliance with ease, empowering organizations to focus on growth and productivity. EMP Trust stands as a trusted partner in optimizing workforce efficiency and regulatory adherence globally.",
+  "features": [
+    "Effortless I-9 Compliance",
+    "E-Verify Made Easy",
+    "Onboard Remotely with Confidence"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Talent Management",
+    "Total Rewards",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Capital Management",
+    "Talent management software",
+    "Payroll services providers",
+    "Performance management solutions"
+  ],
+  "tags": [
+    "Hiring automation",
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring",
+    "Recruiting"
+  ],
+  "headquarter": "Gaithersburg, Maryland",
+  "launch_date": "2009",
+  "order": 21099,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Next Generation Employee Onboarding Software",
+  "ProductId": null,
+  "ShortDescription": "EMP Trust has the full suite of solutions to take your HR management to the next level.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Streamline Your Hiring",
+      "sequence": 0,
+      "description": "Reduce time-to-hire and find the perfect fit with our integrated Applicant Tracking System. "
+    },
+    {
+      "name": "Simplify Policy Management",
+      "sequence": 1,
+      "description": "Keep everyone informed and on the same page with our easy-to-use Policy Hub."
+    },
+    {
+      "name": "Automate Onboarding Compliance",
+      "sequence": 2,
+      "description": "Eliminate onboarding headaches with our automated State Compliance Solution."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:13:41.606Z",
+  "enhanced_description": "Emp Trust provides a comprehensive suite of next-generation workforce management solutions, specifically specializing in employee onboarding software. The platform is designed to streamline operations, optimize workforce efficiency, and ensure regulatory adherence globally. It supports organizations by simplifying crucial HR processes like I-9 and E-Verify compliance, facilitating remote onboarding, managing policies through an easy-to-use hub, and reducing time-to-hire with an integrated Applicant Tracking System. Serving over 850 customers in 52 countries, including 24 Fortune 500 companies, Emp Trust empowers organizations to focus on growth and productivity by automating compliance and managing employee resources effectively.",
+  "target_industries": [
+    "Cross-industry"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Ensuring I-9 compliance",
+    "Simplifying E-Verify processes",
+    "Facilitating remote employee onboarding",
+    "Streamlining and automating hiring processes",
+    "Managing and distributing company policies",
+    "Automating state-specific onboarding compliance",
+    "Optimizing overall workforce efficiency and regulatory adherence"
+  ],
+  "competitive_advantages": [
+    "Renowned expertise in regulatory compliance",
+    "Global customer base, including Fortune 500 companies, indicating strong market trust and proven track record",
+    "Comprehensive suite covering onboarding, compliance, ATS, and policy management",
+    "Ease of use for streamlining operations and ensuring compliance",
+    "Automated State Compliance Solution",
+    "Integrated Applicant Tracking System"
+  ],
+  "hr_functions_supported": [
+    "Workforce Management",
+    "Regulatory Compliance",
+    "Employee Onboarding",
+    "Talent Acquisition",
+    "Hiring",
+    "Policy Management",
+    "Human Capital Management (HCM)"
+  ],
+  "roi_benefits": [
+    "Reduced time-to-hire",
+    "Eliminated onboarding headaches",
+    "Streamlined operations",
+    "Enhanced regulatory compliance with ease",
+    "Improved workforce efficiency",
+    "Increased organizational focus on growth and productivity"
+  ],
+  "searchable_keywords": [
+    "Emp Trust",
+    "employee onboarding",
+    "HR technology",
+    "workforce management",
+    "I-9 compliance",
+    "E-Verify",
+    "remote onboarding",
+    "applicant tracking system",
+    "policy management",
+    "HRMS",
+    "HCM",
+    "talent management",
+    "hiring automation",
+    "talent acquisition",
+    "recruiting",
+    "HR solutions",
+    "compliance software",
+    "onboarding software"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Hiring Managers",
+    "Employees (for policy access and onboarding tasks)"
+  ],
+  "compliance_features": [
+    "I-9 Compliance",
+    "E-Verify",
+    "State Compliance Solution",
+    "Regulatory Compliance"
+  ],
+  "scalability_features": [
+    "Supports small, large, and global enterprise companies",
+    "Serves customers in 52 countries",
+    "Used by 24 Fortune 500 companies"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,161 @@
+{
+  "id": 416,
+  "name": "Appcast",
+  "description": "Appcast is the award-winning, global leader in programmatic job advertising technology. With advanced technology, unmatched market data and a team of the industry's best recruitment marketers, Appcast's technology and services drive hiring outcomes for more than 2,000 clients. In July 2023, Appcast acquired Bayard Advertising, a pioneer in the recruitment marketing space. Appcast is headquartered in Lebanon, N.H. with offices throughout North America and Europe.",
+  "features": [
+    "Industry-leading Programmatic Technology",
+    "Impression-to-Hire Tracking & Optimization",
+    "Best-in-Industry Recruitment Marketing Experts"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement",
+    "Hire Top Talent Faster and More Efficiently",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Workforce management",
+    "HR management suites",
+    "Recruitment agencies",
+    "HR consulting providers",
+    "Recruiting automation software",
+    "Software and Services Related to HR Software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "Lebanon, NH",
+  "launch_date": "2014",
+  "order": 20376,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We make recruitment marketing work",
+  "ProductId": null,
+  "ShortDescription": "Appcast is the #1 component of our talent acquisition strategy",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Leading Programmatic Technology",
+      "sequence": 0,
+      "description": "Our technology efficiently distributes job ads across thousands of sites using source-neutral methods."
+    },
+    {
+      "name": "Programmatic Insights",
+      "sequence": 1,
+      "description": "Tracking and optimizing impressions to hires, we've managed billions of ad clicks and millions of applications."
+    },
+    {
+      "name": "Expert Recruitment Marketing",
+      "sequence": 2,
+      "description": "With the acquisition of Bayard, Appcast now offers top-tier solutions throughout the recruitment process."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:26:43.503Z",
+  "enhanced_description": "Appcast is an award-winning global leader in programmatic job advertising technology, launched in 2014. It leverages advanced technology, unmatched market data, and a team of industry-best recruitment marketers to drive superior hiring outcomes for over 2,000 clients across small, large, and global enterprises. Their industry-leading programmatic technology efficiently distributes job ads across thousands of sites using source-neutral methods, offering impression-to-hire tracking and optimization that has managed billions of ad clicks and millions of applications. Following the acquisition of Bayard Advertising in July 2023, Appcast now provides comprehensive and top-tier recruitment marketing solutions throughout the entire recruitment process, aiming to help organizations hire top talent faster and more efficiently, reduce the cost of hiring qualified employees, and improve overall employee engagement.",
+  "target_industries": [],
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Programmatic job advertising and distribution",
+    "Optimizing job ad spend for hiring outcomes",
+    "Comprehensive recruitment marketing strategy and execution",
+    "Tracking and optimizing impressions to hires",
+    "Automating job ad placement and management",
+    "Reducing the cost of hiring",
+    "Accelerating talent acquisition"
+  ],
+  "competitive_advantages": [
+    "Award-winning global leadership in programmatic job advertising technology",
+    "Advanced, industry-leading programmatic technology",
+    "Unmatched market data for optimization",
+    "Team of best-in-industry recruitment marketing experts",
+    "Comprehensive recruitment marketing solutions enhanced by Bayard Advertising acquisition",
+    "Proven track record with billions of ad clicks and millions of applications managed",
+    "Impression-to-Hire tracking and optimization capabilities",
+    "Efficient, source-neutral job ad distribution across thousands of sites"
+  ],
+  "implementation_scenarios": [],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Recruitment Marketing",
+    "Hiring Process Optimization"
+  ],
+  "technology_stack": [],
+  "integration_capabilities": [],
+  "roi_benefits": [
+    "Faster and more efficient hiring of top talent",
+    "Reduced cost of hiring qualified employees",
+    "Improved overall hiring outcomes",
+    "Optimized return on recruitment advertising spend",
+    "Potential for improved employee happiness and engagement through better hires"
+  ],
+  "searchable_keywords": [
+    "Appcast",
+    "Programmatic job advertising",
+    "Recruitment marketing",
+    "Talent acquisition",
+    "Hiring technology",
+    "Job ad distribution",
+    "Impression-to-hire tracking",
+    "Hiring optimization",
+    "Data-driven hiring",
+    "Recruitment automation",
+    "Talent acquisition costs",
+    "Hiring best practices",
+    "Job ads",
+    "Applications",
+    "Talent Management",
+    "Recruiting software",
+    "Workforce management (related to TA)"
+  ],
+  "primary_users": [
+    "Recruitment marketing teams",
+    "Talent acquisition professionals",
+    "HR managers responsible for hiring"
+  ],
+  "deployment_options": [],
+  "compliance_features": [],
+  "scalability_features": [
+    "Global leader status",
+    "Serves over 2,000 clients, including small, large, and global enterprises",
+    "Manages billions of ad clicks and millions of applications",
+    "Operations with offices throughout North America and Europe"
+  ],
+  "security_features": [],
+  "_weight": 1
+}

@@ -1,0 +1,166 @@
+{
+  "id": 729,
+  "name": "INGO Digital Transformation",
+  "description": "INGO, a well-established Italian company, successfully operates in the development of solutions able to ensure a smooth and efficient, as well as increasingly multichannel and up-to-date customer experience. Through an integrated ecosystem of services and products dedicated to the innovative management of customer relations, INGO provides companies with consultancy, technologies and cross-channel services for digital transformation. We support companies in digital transformation processes, offering consultancy , services and technologies dedicated to the innovative and omnichannel management of relationships . 5 offices in Italy, over 100 partners worldwide, 800 employees, a technological research and development hub , more than 450 projects carried out every year .",
+  "features": [
+    "Promotion Lead generation and management",
+    "Hospitality Support and assistance Customer Satisfaction",
+    "Retention Up and cross sales"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce",
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Training & development companies",
+    "Machine learning HR"
+  ],
+  "tags": [
+    "Diversity and inclusion",
+    "Learning analytics"
+  ],
+  "headquarter": "Paderno Dugnano, Milano",
+  "launch_date": "1999",
+  "order": 20682,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Omnichannel and up-to-date solutions for your customer experience",
+  "ProductId": null,
+  "ShortDescription": "INGO  successfully operates in the development of solutions able to ensure a smooth and efficient customer experience.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Outbound Solutions",
+      "sequence": 0,
+      "description": "Turn contacts into wins with INGO's Outbound services. From Teleselling to Appointment Taking and Customer Surveys, our experience enables us to create advanced strategies to maximize sales and consolidate your market presence."
+    },
+    {
+      "name": "Inbound Solutions",
+      "sequence": 1,
+      "description": "Explore the world of customer service excellence with INGO's Inbound Services. Our customized multichannel support, operating 24/7, is based on innovative technologies and a highly specialized team."
+    },
+    {
+      "name": "Sectoral Expertise",
+      "sequence": 2,
+      "description": "We have a history as a solution provider that allows us to provide outstanding services in a variety of industries, such as healthcare, finance, utilities, e-commerce, manufacturing, and green tech. This industry knowledge enables INGO to offer customized solutions for specific customer needs."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:23.669Z",
+  "enhanced_description": "INGO Digital Transformation provides a comprehensive suite of consultancy, technologies, and cross-channel services to support companies in their digital transformation journeys. While primarily focused on enabling a smooth, efficient, and omnichannel customer experience, INGO's integrated ecosystem of services and products also addresses key HR business objectives. These include building a more diverse and inclusive workforce and accelerating skill development and learning efficiency, leveraging solutions like Corporate LMS and machine learning for HR, and offering specialized services in learning and development and diversity and inclusion. With a global footprint through 5 offices in Italy and over 100 worldwide partners, INGO delivers customized solutions backed by a technological research and development hub and a highly specialized team, catering to industries such as healthcare, finance, utilities, e-commerce, manufacturing, and green tech.",
+  "target_industries": [
+    "Healthcare",
+    "Finance",
+    "Utilities",
+    "E-commerce",
+    "Manufacturing",
+    "Green tech"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Enhancing omnichannel customer experience",
+    "Optimizing lead generation and management processes",
+    "Providing multi-channel customer support and assistance (inbound & outbound)",
+    "Improving customer satisfaction and retention strategies",
+    "Facilitating up-selling and cross-selling initiatives",
+    "Conducting customer surveys and market research",
+    "Building and nurturing a diverse and inclusive workforce",
+    "Accelerating employee skill development and learning efficiency",
+    "Managing corporate learning programs and platforms"
+  ],
+  "competitive_advantages": [
+    "Extensive experience and establishment (founded 1999)",
+    "Global reach with over 100 partners worldwide",
+    "Large operational scale with 800 employees and a technological R&D hub",
+    "High project volume (450+ projects annually)",
+    "Integrated ecosystem of services and products for holistic digital transformation",
+    "Customization capabilities for specific industry needs",
+    "24/7 multichannel customer support",
+    "Leveraging innovative technologies combined with specialized team expertise"
+  ],
+  "implementation_scenarios": [
+    "Project-based digital transformation consultancy and service delivery"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Diversity & Inclusion",
+    "Corporate Training",
+    "Learning Management",
+    "HR Analytics (specifically learning analytics)"
+  ],
+  "technology_stack": [
+    "Machine learning",
+    "Corporate LMS"
+  ],
+  "roi_benefits": [
+    "Improved customer experience (smooth, efficient, multichannel)",
+    "Increased sales and market presence through lead generation and retention",
+    "Enhanced customer satisfaction and loyalty",
+    "Accelerated employee skill development and learning efficiency",
+    "Contribution to a more diverse and inclusive workforce"
+  ],
+  "searchable_keywords": [
+    "INGO",
+    "Digital Transformation",
+    "Customer Experience",
+    "Omnichannel",
+    "Customer Relations Management",
+    "Consultancy",
+    "Cross-channel services",
+    "Lead Generation",
+    "Customer Satisfaction",
+    "Retention",
+    "Up Sales",
+    "Cross Sales",
+    "Teleselling",
+    "Customer Surveys",
+    "Multichannel Support",
+    "Learning and Development",
+    "Corporate LMS",
+    "Training & Development",
+    "Machine Learning HR",
+    "Diversity and Inclusion",
+    "Learning Analytics",
+    "Workforce Diversity",
+    "Skill Development"
+  ],
+  "primary_users": [
+    "Customer Service Managers",
+    "Sales Managers",
+    "Marketing Managers",
+    "Contact Center Agents",
+    "HR Professionals",
+    "Learning & Development Managers",
+    "Diversity & Inclusion Leaders"
+  ],
+  "_weight": 1
+}

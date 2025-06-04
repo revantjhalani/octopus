@@ -1,0 +1,143 @@
+{
+  "id": 1292,
+  "name": "Altimetrik",
+  "description": "Altimetrik is a data and digital engineering services company focused on delivering business outcomes with an agile, product-oriented approach. Our digital business methodology provides a blueprint to develop, scale, and launch new products to market faster. Our teams of 5,500+ practitioners with software, data, cloud engineering skills help create a culture of innovation and agility that optimizes teams performance, modernizes technology, and builds new business models. As a strategic partner and catalyst, Altimetrik quickly delivers results without disruption to the business. ",
+  "features": [
+    "Product Engineering",
+    "Platform Engineering",
+    "Talent Assessment",
+    "Talent Transformation",
+    "Data and Analytics"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Talent management software"
+  ],
+  "tags": [
+    "Talent Pipeline"
+  ],
+  "headquarter": "Southfield, MI",
+  "launch_date": "2012",
+  "order": 21117,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Enabling Digital Business",
+  "ProductId": null,
+  "ShortDescription": "Altimetrik is a data and digital engineering services company focused on delivering business outcomes with an agile, product-oriented approach.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Getting Results",
+      "sequence": 0,
+      "description": "Business and engineering teams collaborate and take an end-to-end perspective to deliver bite-sized outcomes with speed"
+    },
+    {
+      "name": "Accelerated business growth",
+      "sequence": 1,
+      "description": "Enable growth through digital business without disrupting existing business. Realize outcomes faster, be more profitable, and create a competitive advantage in the market"
+    },
+    {
+      "name": "Modernize technology",
+      "sequence": 2,
+      "description": "In today\u2019s \u201ctech-celerated\u201d business world, keeping pace with changing trends and technologies is essential. Enterprises need modularization with open architecture for flexibility, scalability, and continuity"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:11.362Z",
+  "enhanced_description": "Altimetrik is a data and digital engineering services company that acts as a strategic partner and catalyst for businesses. They focus on delivering measurable business outcomes through an agile, product-oriented approach. Their digital business methodology provides a blueprint to develop, scale, and launch new products to market faster. With a team of over 5,500 practitioners specializing in software, data, and cloud engineering, Altimetrik helps clients create a culture of innovation and agility, optimize team performance, modernize technology, and build new business models. Key service offerings include Product Engineering, Platform Engineering, Talent Assessment, Talent Transformation, and Data and Analytics. They aim to deliver results quickly without disruption, enabling accelerated business growth and competitive advantage by modernizing technology with a focus on modularization and open architecture.",
+  "key_use_cases": [
+    "Developing and launching new digital products to market faster",
+    "Modernizing existing technology and infrastructure for flexibility, scalability, and continuity",
+    "Optimizing team performance and fostering a culture of innovation and agility",
+    "Transforming organizational talent capabilities",
+    "Leveraging data and analytics for improved business outcomes",
+    "Building new business models through digital transformation"
+  ],
+  "competitive_advantages": [
+    "Agile, product-oriented approach for faster delivery of business outcomes",
+    "Extensive team of 5,500+ skilled practitioners in software, data, and cloud engineering",
+    "Focus on delivering measurable business outcomes with speed",
+    "Strategic partnership approach that aims for results without disruption",
+    "Expertise in modernizing technology with open architecture for flexibility and scalability",
+    "Ability to accelerate business growth and create competitive advantage"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Talent Assessment",
+    "Talent Transformation",
+    "Talent Pipeline",
+    "Team Performance Optimization"
+  ],
+  "technology_stack": [
+    "Software Engineering",
+    "Data Engineering",
+    "Cloud Engineering",
+    "Open Architecture"
+  ],
+  "roi_benefits": [
+    "Faster time to market for new products",
+    "Accelerated business growth",
+    "Increased profitability",
+    "Creation of competitive advantage",
+    "Optimized team performance",
+    "Faster realization of outcomes",
+    "Reduced disruption to existing business operations"
+  ],
+  "searchable_keywords": [
+    "Altimetrik",
+    "Data Engineering",
+    "Digital Engineering",
+    "Agile Development",
+    "Product Engineering",
+    "Platform Engineering",
+    "Talent Assessment",
+    "Talent Transformation",
+    "Data and Analytics",
+    "Talent Management",
+    "Talent Pipeline",
+    "Digital Business",
+    "Technology Modernization",
+    "Innovation",
+    "Agility",
+    "Business Outcomes",
+    "Strategic Partner",
+    "Cloud Engineering",
+    "Team Performance",
+    "Digital Transformation"
+  ],
+  "primary_users": [
+    "Business Leaders",
+    "Technology Leaders (e.g., CTOs, VPs of Engineering)",
+    "Product Leaders",
+    "HR/Talent Leaders"
+  ],
+  "scalability_features": [
+    "Digital business methodology designed to develop and scale products",
+    "Modernization of technology with open architecture for flexibility and scalability"
+  ],
+  "_weight": 1
+}

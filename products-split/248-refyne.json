@@ -1,0 +1,134 @@
+{
+  "id": 248,
+  "name": "Refyne",
+  "description": "Refyne is Asia\u2019s leading financial wellness suite, empowering employees to achieve financial well-being. We champion financial wellness as a basic right, addressing the underserved with Salary On-Demand since 2021. Our holistic approach includes immediate liquidity access, financial education, and protection, ensuring a comprehensive financial journey. Refyne is committed to making financial wellness accessible and transforming lives across the working class in Asia.",
+  "features": [
+    "100% Customisation",
+    "Zero Integration Cost",
+    "Compatible with any HRMS"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Payroll services providers",
+    "Compensation management software"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Employee happiness"
+  ],
+  "headquarter": "Bengaluru, Karnataka  ",
+  "launch_date": "2021",
+  "order": 20213,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "360\u00b0 Financial Wellness Platform for your Employees",
+  "ProductId": null,
+  "ShortDescription": "Pioneer of income streaming for the workforce of India",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Financial Tools",
+      "sequence": 0,
+      "description": "Access various financial tools like PF tracker, Tax Calculator & many more."
+    },
+    {
+      "name": "Salary On-Demand",
+      "sequence": 1,
+      "description": "Flexibility to withdraw earned salary in advance for short-term and long-term needs at 0% interest."
+    },
+    {
+      "name": "Refyne Privileges",
+      "sequence": 2,
+      "description": "Discounts and cashback of up to 35% on your favourite electronic gadgets and tools on transactions with Refyne."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:04.136Z",
+  "enhanced_description": "Refyne is Asia\u2019s leading financial wellness suite, pioneering income streaming for the workforce of India since 2021. It empowers employees to achieve financial well-being through a holistic approach that includes immediate liquidity access via Salary On-Demand (at 0% interest), financial education with tools like PF tracker and Tax Calculator, and financial protection. Additionally, it offers Refyne Privileges providing discounts and cashback. The platform emphasizes accessibility and aims to improve employee happiness and engagement across the working class in Asia, featuring 100% customisation, zero integration cost, and compatibility with any HRMS.",
+  "ideal_company_sizes": [
+    "Small",
+    "Global"
+  ],
+  "key_use_cases": [
+    "Enabling employees to access earned salary in advance (Salary On-Demand)",
+    "Providing immediate liquidity access for employees' short-term and long-term needs",
+    "Offering financial education and planning tools (e.g., PF tracker, Tax Calculator)",
+    "Providing employee benefits through discounts and cashback programs"
+  ],
+  "competitive_advantages": [
+    "Pioneering income streaming for the workforce of India",
+    "Zero integration cost",
+    "Compatibility with any HRMS",
+    "100% Customisation",
+    "Salary On-Demand with 0% interest",
+    "Holistic financial wellness approach (liquidity, education, protection)"
+  ],
+  "implementation_scenarios": [
+    "Integration with existing HRMS and payroll systems"
+  ],
+  "hr_functions_supported": [
+    "Payroll management",
+    "Compensation management",
+    "Employee benefits administration",
+    "Employee engagement",
+    "Financial wellness programs"
+  ],
+  "integration_capabilities": [
+    "Seamless integration with any HRMS"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Enhanced employee financial well-being",
+    "Reduced employee financial stress"
+  ],
+  "searchable_keywords": [
+    "Refyne",
+    "Financial wellness",
+    "Salary on-demand",
+    "Income streaming",
+    "Earned wage access",
+    "EWA",
+    "Employee financial well-being",
+    "Financial education",
+    "Payroll services",
+    "Compensation management",
+    "Employee benefits",
+    "Employee happiness",
+    "Immediate liquidity",
+    "PF tracker",
+    "Tax calculator",
+    "Employee discounts",
+    "Cashback"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Administrators"
+  ],
+  "_weight": 1
+}

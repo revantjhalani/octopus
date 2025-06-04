@@ -1,0 +1,149 @@
+{
+  "id": 360,
+  "name": "Zaggle",
+  "description": "Zaggle offer an ecosystem-based approach across SaaS and fintech, with low customer acquisition and retention costs in the business-to-business (\u201cB2B\u201d) segment. Our approach revolves around cross-selling, up-selling, and offering our products and services in partnership with other players in the operating ecosystems. Through our arrangements with partner banks and fintechs, our Customers are able to offer their employees, channel partners and consumers a suite of SaaS and fintech solutions. Zaggle offer an integrated value proposition through our SaaS platform, providing a combination of payment instruments as well as an integrated mobile application that digitises business and employee spends. Application programming interface (\u201cAPI\u201d) integrations on the platforms provided to our Customers offer them enhanced convenience and an efficient user experience through a simplified dashboard. This enables a clear, distinct and integrated access to our products, and gives us an opportunity to promote and offer our third-party associations through the same dashboard. Our ability to offer diversified SaaS offerings to an existing customer base enables us to launch new products and cross-sell products to our wide User base.",
+  "features": [
+    ""
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Employee recognition software",
+    "Benefits administration services",
+    "Performance management solutions",
+    "Benefits administration software",
+    "Compensation management software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee happiness",
+    "Employee well being",
+    "Employee happiness programs",
+    "Employee benefits",
+    "Employee satisfaction",
+    "Company culture",
+    "Employee recognition",
+    "Employee happiness metrics"
+  ],
+  "headquarter": "null",
+  "launch_date": "2011",
+  "order": 20322,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Business Spends Simplified",
+  "ProductId": null,
+  "ShortDescription": "Zaggle is a B2B SaaS FinTech company digitizing spends to drive growth and unlock value through automated and innovative workflows",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:25:10.365Z",
+  "enhanced_description": "Zaggle is a B2B SaaS FinTech company that provides an ecosystem-based platform to digitize business and employee spends, driving growth and unlocking value through automated and innovative workflows. It offers an integrated value proposition combining a SaaS platform, payment instruments, and a mobile application. Through strategic partnerships with banks and other fintechs, Zaggle enables its customers to provide a suite of SaaS and fintech solutions to their employees, channel partners, and consumers. The platform leverages API integrations to offer enhanced convenience and an efficient user experience via a simplified dashboard, also facilitating the cross-selling of diversified SaaS offerings and third-party associations. Zaggle supports core HR functions such as Total Rewards, including employee recognition, benefits administration, performance management, and compensation management, with a key objective to improve employee happiness and engagement.",
+  "key_use_cases": [
+    "Digitizing business and employee spends",
+    "Automated workflow for spend management",
+    "Managing employee recognition programs",
+    "Administering employee benefits",
+    "Facilitating performance management processes",
+    "Managing employee compensation"
+  ],
+  "competitive_advantages": [
+    "Ecosystem-based approach with partnerships (banks, fintechs, third-party associations)",
+    "Integrated value proposition (SaaS platform, payment instruments, mobile application)",
+    "API integrations for enhanced convenience and efficient user experience",
+    "Ability to cross-sell and up-sell diversified SaaS offerings",
+    "Low customer acquisition and retention costs in the B2B segment"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards",
+    "Employee Recognition",
+    "Benefits Administration",
+    "Performance Management",
+    "Compensation Management",
+    "Employee Engagement",
+    "Employee Happiness & Well-being"
+  ],
+  "technology_stack": [
+    "SaaS platform",
+    "FinTech solutions",
+    "Mobile application"
+  ],
+  "integration_capabilities": [
+    "API integrations",
+    "Partnerships with banks",
+    "Partnerships with other fintechs",
+    "Third-party associations"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness and Engagement",
+    "Low customer acquisition costs",
+    "Low customer retention costs",
+    "Enhanced convenience for customers and users",
+    "Efficient user experience",
+    "Drives business growth for customers",
+    "Unlocks value through automated workflows",
+    "Simplified business and employee spends"
+  ],
+  "searchable_keywords": [
+    "Zaggle",
+    "SaaS",
+    "FinTech",
+    "B2B",
+    "Business spend management",
+    "Employee spend management",
+    "Spend digitization",
+    "Automated workflows",
+    "Payment solutions",
+    "Mobile app",
+    "API integration",
+    "Expense management",
+    "Total Rewards",
+    "Employee recognition",
+    "Benefits administration",
+    "Performance management",
+    "Compensation management",
+    "Employee engagement",
+    "Employee happiness",
+    "Employee well-being",
+    "Company culture",
+    "Corporate payments"
+  ],
+  "primary_users": [
+    "Customers (Zaggle's direct business clients)",
+    "Employees (of Zaggle's customers)",
+    "Channel partners (of Zaggle's customers)",
+    "Consumers (of Zaggle's customers)"
+  ],
+  "deployment_options": [
+    "Cloud (SaaS platform)"
+  ],
+  "scalability_features": [
+    "Ability to launch new products and cross-sell to a wide user base",
+    "Ability to offer diversified SaaS offerings to an existing customer base"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,148 @@
+{
+  "id": 738,
+  "name": "Inside IIM",
+  "description": "The domain InsideIIM.com was bought in a hostel room at IIM Indore in February 2011 without a team, a business plan or desire to get funding. It was driven by a passion to help students make informed career decisions. Our only tool was Stories - Real-life stories, inspiration and motivation, analysis and insights using data from admissions and recruitment (placements). Alumni and students came together to help future students and job seekers. We didn't understand business models or 'scale'. The business models developed on their own later. Our primary responsibility was towards the student and will continue to be towards the student. We have made many mistakes over the years. We will make mistakes in the future too. But we will strive hard to Delight our community and our partners. How you score us on the delight meter is the only metric that matters.",
+  "features": [
+    "Quality Content - Created",
+    "Curated and Crowd-Sourced from Users",
+    "Community of High Calibre Students & Professionals"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Course authoring",
+    "Corporate LMS"
+  ],
+  "tags": [
+    "Learning optimisation",
+    "Continuous learning"
+  ],
+  "headquarter": "Mumbai, Mh",
+  "launch_date": "2013",
+  "order": 20691,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We are a unique community of India's Top Talent. We help them learn, make better career decisions and find jobs.",
+  "ProductId": null,
+  "ShortDescription": "InsideIIM.com is India's largest community of India's top talent that pursues or aspires to pursue a career in Management.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "MBA Placement Reports: Up-to-Date Salary & Recruitment Data",
+      "sequence": 0,
+      "description": "InsideIIM focuses on providing in-depth placement reports for various Indian Institutes of Management (IIMs) and other business schools. "
+    },
+    {
+      "name": "News & Insights for MBA Applicants",
+      "sequence": 1,
+      "description": "The website offers news articles and analysis relevant to MBA aspirants in India. This includes information about entrance exams, application tips, and industry trends."
+    },
+    {
+      "name": "Focus on IIMs & Top Business Schools",
+      "sequence": 2,
+      "description": "InsideIIM primarily covers news and information related to IIMs and other premier business schools in India."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:32.559Z",
+  "enhanced_description": "Inside IIM is a community-driven platform established in 2013, originating from IIM Indore, focused on assisting students and job seekers in making informed career decisions and finding jobs. It achieves this by providing quality content, including real-life stories, motivational pieces, and in-depth analysis. The platform leverages data from admissions and recruitment (placements) to offer insights. It hosts a community of high-calibre students and professionals, and its content is created, curated, and crowd-sourced. Inside IIM specifically focuses on MBA placement reports, up-to-date salary and recruitment data, and news and insights for MBA applicants, primarily covering Indian Institutes of Management (IIMs) and other premier business schools in India. The platform's core objective is to accelerate skill development and learning efficiency for India's top talent aspiring to or pursuing careers in Management.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Making informed career decisions for aspiring management professionals",
+    "Accessing real-life stories, inspiration, and motivation related to management careers",
+    "Analyzing admissions and recruitment data for career planning",
+    "Finding jobs for students and job seekers in the management sector",
+    "Accelerating skill development and learning efficiency for management professionals",
+    "Obtaining up-to-date MBA placement reports, salary, and recruitment data",
+    "Staying informed with news and insights relevant to MBA applicants in India",
+    "Networking and engaging with a community of high-calibre students and professionals"
+  ],
+  "competitive_advantages": [
+    "India's largest community of top talent pursuing or aspiring to management careers",
+    "Community comprised of high-calibre students and professionals",
+    "Content sourced and curated from users, offering diverse perspectives",
+    "Strong focus on real-life stories, inspiration, and motivation",
+    "Offers analysis and insights derived from admissions and recruitment data",
+    "Provides extensive and up-to-date MBA placement reports and salary data",
+    "Specialized focus on Indian Institutes of Management (IIMs) and other premier Indian business schools",
+    "Commitment to student-centric support and community delight"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development for users",
+    "Improved learning efficiency for users",
+    "Better informed career decisions for users",
+    "Enhanced job placement opportunities for users"
+  ],
+  "searchable_keywords": [
+    "Inside IIM",
+    "IIM",
+    "MBA",
+    "Management careers",
+    "Career decisions",
+    "Job search",
+    "Learning",
+    "Skill development",
+    "Learning efficiency",
+    "Quality content",
+    "Curated content",
+    "Crowd-sourced content",
+    "Community",
+    "Students",
+    "Professionals",
+    "MBA placement reports",
+    "Salary data",
+    "Recruitment data",
+    "News",
+    "Insights",
+    "MBA applicants",
+    "Top business schools",
+    "India's top talent",
+    "Learning and Development",
+    "Course authoring",
+    "Corporate LMS",
+    "Learning optimisation",
+    "Continuous learning"
+  ],
+  "primary_users": [
+    "Students",
+    "Job seekers",
+    "MBA applicants",
+    "MBA aspirants",
+    "High calibre students & professionals",
+    "Alumni of business schools",
+    "India's Top Talent aiming for management careers"
+  ],
+  "_weight": 1
+}

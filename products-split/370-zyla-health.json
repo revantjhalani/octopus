@@ -1,0 +1,149 @@
+{
+  "id": 370,
+  "name": "Zyla Health",
+  "description": "India\u2019s leading AI-based healthcare management platform that offers high quality, personalized, and real-time 24*7 care. Zyla is on a mission to personalise care to every individual & is leading this paradigm shift in the healthcare industry based on assessing the risk profile, recommending the health interventions, and delivering it by a world-class team of in-house Doctors and healthcare professionals backed by data-driven and empathetic technology. To the world, we are the personal healthcare expert for millions of families in India and around the world, that are always by their side.",
+  "features": [
+    "High-impact, high-quality work, work on building the core products from day one",
+    "Fully remote team, work from anywhere",
+    "Solve the broken health care management with the potential of impacting millions of lives"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee well being",
+    "Employee benefits"
+  ],
+  "headquarter": "Gurugram, Haryana",
+  "launch_date": "2017",
+  "order": 20331,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Building a healthier tomorrow",
+  "ProductId": null,
+  "ShortDescription": "Zyla is the personal healthcare expert for millions of families in India and around the world.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Zyla for Insurance",
+      "sequence": 0,
+      "description": "Care management to reduce claim costs"
+    },
+    {
+      "name": "Zyla for Corporates",
+      "sequence": 1,
+      "description": "Employee wellness for a health-focused workplace"
+    },
+    {
+      "name": "Zyla for Pharma",
+      "sequence": 2,
+      "description": "Patient support programs for improved therapy outcomes"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:25:30.022Z",
+  "enhanced_description": "Zyla Health is an AI-based healthcare management platform that provides high-quality, personalized, and real-time 24/7 care. It leverages a data-driven and empathetic technology approach, supported by in-house doctors and healthcare professionals, to assess individual risk profiles, recommend health interventions, and deliver comprehensive care. Positioned as a personal healthcare expert for millions of families globally, Zyla also offers specialized solutions for enterprises, including care management for insurance companies to reduce claim costs, employee wellness programs for corporates to foster a health-focused workplace, and patient support programs for pharmaceutical companies to improve therapy outcomes.",
+  "target_industries": [
+    "Insurance",
+    "Pharmaceutical"
+  ],
+  "key_use_cases": [
+    "AI-based personalized healthcare management",
+    "Individual risk profile assessment for health",
+    "Health intervention recommendations",
+    "Delivery of care by medical professionals",
+    "Care management for insurance companies to reduce claim costs",
+    "Employee wellness program implementation for corporates",
+    "Patient support programs for pharmaceutical companies",
+    "Corporate wellness software utilization",
+    "Health and safety provision"
+  ],
+  "competitive_advantages": [
+    "India's leading AI-based healthcare management platform",
+    "Personalized and real-time 24/7 care",
+    "World-class team of in-house Doctors and healthcare professionals",
+    "Backed by data-driven and empathetic technology",
+    "Comprehensive care model covering risk assessment, intervention, and delivery",
+    "Specialized offerings for insurance, corporate, and pharma sectors"
+  ],
+  "hr_functions_supported": [
+    "Employee Benefits Management",
+    "Employee Wellness Programs",
+    "Employee Engagement",
+    "Health & Safety"
+  ],
+  "technology_stack": [
+    "AI-based"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness and Engagement",
+    "Reduced claim costs for insurance companies",
+    "Improved therapy outcomes for pharmaceutical patients"
+  ],
+  "searchable_keywords": [
+    "Zyla Health",
+    "AI healthcare",
+    "personalized care",
+    "24/7 care",
+    "healthcare management",
+    "risk profile assessment",
+    "health interventions",
+    "in-house doctors",
+    "healthcare professionals",
+    "data-driven technology",
+    "empathetic technology",
+    "personal healthcare expert",
+    "corporate wellness software",
+    "health & safety providers",
+    "employee engagement",
+    "employee well-being",
+    "employee benefits",
+    "total rewards",
+    "corporate wellness",
+    "employee happiness",
+    "insurance care management",
+    "claim cost reduction",
+    "pharma patient support",
+    "therapy outcomes"
+  ],
+  "primary_users": [
+    "Individuals",
+    "Families",
+    "HR/Benefits Teams (in Corporates)",
+    "Insurance Companies",
+    "Pharmaceutical Companies"
+  ],
+  "deployment_options": [
+    "Cloud (SaaS)"
+  ],
+  "_weight": 1
+}

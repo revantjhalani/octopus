@@ -1,0 +1,173 @@
+{
+  "id": 51,
+  "name": "HRCI",
+  "description": "HRCI\u00ae is a global leader in HR certification since 1973, offering advanced professional credentials to enhance HR expertise and credibility. With over 145,000 certified professionals in 100 countries, HRCI's rigorous exams and commitment to continuing development elevate HR practices and ethical standards worldwide.",
+  "features": [
+    "Demonstrated Expertise & Commitment to HR",
+    "A Competitive Edge for HR Leadership Roles ",
+    "A Strong Complement to Formal Education "
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Training & development companies",
+    "Learning Experience Systems (LXPs)"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Adaptive learning",
+    "Personalised learning",
+    "Continuous learning",
+    "Learning retention",
+    "Learning analytics",
+    "Personalised Learning",
+    "Adaptive Learning",
+    "Training methodologies",
+    "Learning optimisation",
+    "Learning speed"
+  ],
+  "headquarter": "Alexandria, Virginia",
+  "launch_date": "1973",
+  "order": 20028,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Let's prepare for the future, together.",
+  "ProductId": null,
+  "ShortDescription": "World-class credentialing and learning for human resources professionals",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Accreditation & Credibility",
+      "sequence": 0,
+      "description": "HRCI is the only HR certification body that seeks and maintains third-party accreditation for its credentials through the National Commission for Certifying Agencies (NCCA)."
+    },
+    {
+      "name": "Unrivaled Experience ",
+      "sequence": 1,
+      "description": "Since 1973, HRCI has set the global standard for HR expertise and excellence.  More than 500,000 HRCI-certified professionals in 150+ countries. "
+    },
+    {
+      "name": "Value & Affordability",
+      "sequence": 2,
+      "description": "HRCI certification costs remain competitive with other HR certifying organizations and are significantly less expensive than an advanced degree. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-15T12:05:42.845Z",
+  "enhanced_description": "HRCI\u00ae is a global leader in HR certification since 1973, offering advanced professional credentials to enhance HR expertise and credibility. As the only HR certification body that seeks and maintains third-party accreditation for its credentials through the National Commission for Certifying Agencies (NCCA), HRCI has certified over 500,000 HR professionals across 150+ countries. Their rigorous exams and commitment to continuing development elevate HR practices and ethical standards worldwide, providing a competitive edge for HR leadership roles and serving as a strong complement to formal education.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Enhancing HR expertise and credibility",
+    "Accelerating HR skill development and learning efficiency",
+    "Gaining a competitive edge for HR leadership roles",
+    "Complementing formal HR education",
+    "Elevating HR practices and ethical standards"
+  ],
+  "competitive_advantages": [
+    "Global leadership and extensive experience since 1973",
+    "Accreditation by the National Commission for Certifying Agencies (NCCA), making it the only HR certification body with this third-party accreditation",
+    "Large global community of certified professionals (over 500,000 professionals in 150+ countries)",
+    "Rigorous exams and commitment to continuing professional development",
+    "Competitive cost compared to other HR certifying organizations and significantly less expensive than an advanced degree"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Skill Development",
+    "Training and Certification",
+    "Professional Development",
+    "Talent Management (upskilling)"
+  ],
+  "roi_benefits": [
+    "Enhanced HR expertise and credibility for individuals",
+    "Provides a competitive edge for career advancement in HR leadership roles",
+    "Accelerates skill development and learning efficiency",
+    "Offers a cost-effective alternative to advanced degrees for professional validation",
+    "Elevates organizational HR practices and ethical standards"
+  ],
+  "searchable_keywords": [
+    "HRCI",
+    "HR certification",
+    "professional credentials",
+    "HR expertise",
+    "credibility",
+    "HR practices",
+    "ethical standards",
+    "skill development",
+    "learning efficiency",
+    "training effectiveness",
+    "skill acquisition",
+    "adaptive learning",
+    "personalized learning",
+    "continuous learning",
+    "learning retention",
+    "learning analytics",
+    "training methodologies",
+    "learning optimization",
+    "learning speed",
+    "HR leadership roles",
+    "formal education",
+    "credentialing",
+    "human resources professionals",
+    "Accreditation",
+    "NCCA",
+    "Unrivaled Experience",
+    "HR excellence",
+    "Value",
+    "Affordability",
+    "Learning and Development",
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Training & development companies",
+    "Learning Experience Systems (LXPs)"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "Individuals seeking HR certification",
+    "Individuals seeking career advancement in HR"
+  ],
+  "compliance_features": [
+    "Third-party accreditation for its credentials through the National Commission for Certifying Agencies (NCCA)",
+    "Commitment to elevating ethical standards worldwide"
+  ],
+  "scalability_features": [
+    "Global reach with certified professionals in over 150+ countries",
+    "History of certifying over 500,000 professionals"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,132 @@
+{
+  "id": 223,
+  "name": "Policy Bazaar",
+  "description": "Today, policy bazaar India\u2019s best & largest online insurance marketplace. Over 9+ million (90 lakh+) individuals have come to us & bought the best insurance plans from the top insurers in the country. We have sold over 19 million policies since inception, and this number is only growing. While we are happy with how we are changing insurance for the country, we know there is still a lot of work to be done. Our vision to bring pioneering technologies & innovations to the field continues to grow. We aspire to build a health & financial safety net for more households in India in the coming years.",
+  "features": [
+    "\nOver 9 million customers trust us & have bought their insurance on Policybazaar",
+    "50+ insurers partnered with us so that you can compare easily & transparently",
+    "Claims support built in with every policy for help, when you need it the most"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Compensation management software"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee satisfaction"
+  ],
+  "headquarter": "Gurgaon, Haryana ",
+  "launch_date": "2008",
+  "order": 20189,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Let's find you the Best Insurance",
+  "ProductId": null,
+  "ShortDescription": "Policybazaar was founded in 2008 with one objective: bringing transparency in insurance",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Quick Decision Making",
+      "sequence": 0,
+      "description": "Our online platform helps you make an informed insurance decision simply and conveniently."
+    },
+    {
+      "name": "High Coverage at Low Premium",
+      "sequence": 1,
+      "description": "As compared to the offline mode of buying insurance, we offer high insurance coverage at the lower insurance premium."
+    },
+    {
+      "name": "Seamless navigation",
+      "sequence": 2,
+      "description": "We have a strong technological edge that makes the insurance application process seamless. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:42.387Z",
+  "enhanced_description": "Policy Bazaar, established in 2008, operates as India's premier online insurance marketplace, focused on bringing transparency to the insurance sector. It enables over 9 million individuals to compare and purchase optimal insurance plans from a network of more than 50 top insurers. With over 19 million policies sold, Policy Bazaar provides an online platform that facilitates quick, informed insurance decisions and a seamless application process, often offering higher coverage at lower premiums compared to traditional offline methods. The platform also includes integrated claims support, aiming to build a health and financial safety net for more households in India and to improve employee happiness and engagement through total rewards offerings.",
+  "ideal_company_sizes": [
+    "Small Enterprise"
+  ],
+  "key_use_cases": [
+    "Comparing and purchasing a wide range of insurance plans from top insurers online.",
+    "Receiving integrated claims support for purchased insurance policies.",
+    "Making informed insurance decisions simply and conveniently through an online platform.",
+    "Accessing high insurance coverage at lower premiums compared to offline options.",
+    "Providing employees with a comprehensive selection of insurance plans to enhance well-being and financial safety.",
+    "Utilizing as a component of total rewards strategies to improve employee happiness and engagement."
+  ],
+  "competitive_advantages": [
+    "India's largest online insurance marketplace with over 9 million trusted customers.",
+    "Partnerships with 50+ insurers, offering extensive comparison options.",
+    "Integrated claims support for policyholders.",
+    "Online platform designed for quick, informed, and convenient decision-making.",
+    "Offers high insurance coverage at lower premiums compared to offline channels.",
+    "Strong technological edge enabling seamless navigation and application processes.",
+    "Foundational commitment to bringing transparency in insurance."
+  ],
+  "hr_functions_supported": [
+    "Total Rewards",
+    "Compensation management software",
+    "Employee Well-being",
+    "Benefits Administration"
+  ],
+  "roi_benefits": [
+    "Enables access to high insurance coverage at lower premiums, potentially leading to cost savings for individuals/employees.",
+    "Contributes to improved employee happiness and engagement through comprehensive insurance benefits.",
+    "Enhances employee satisfaction by providing a health and financial safety net.",
+    "Facilitates quick decision-making and seamless application processes, saving time for users."
+  ],
+  "searchable_keywords": [
+    "Policy Bazaar",
+    "insurance",
+    "online insurance marketplace",
+    "insurance plans",
+    "insurers",
+    "claims support",
+    "employee well-being",
+    "employee satisfaction",
+    "total rewards",
+    "compensation management software",
+    "health safety net",
+    "financial safety net",
+    "online platform",
+    "high coverage",
+    "low premium",
+    "transparency in insurance"
+  ],
+  "primary_users": [
+    "Individuals seeking to purchase insurance plans",
+    "Employees (as beneficiaries of employer-provided access to insurance)",
+    "HR Professionals (for managing total rewards and employee well-being initiatives)"
+  ],
+  "deployment_options": [
+    "Cloud-based / SaaS"
+  ],
+  "_weight": 1
+}

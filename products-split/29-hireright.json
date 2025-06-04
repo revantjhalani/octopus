@@ -1,0 +1,170 @@
+{
+  "id": 29,
+  "name": "HireRight",
+  "description": "HireRight delivers global background checks, drug testing, and employment verification services through an innovative platform. We want all of our clients to grow successfully and efficiently \u2013 no matter their size or location. \n\nWe do this by offering a comprehensive screening solution that can be tailored to the unique needs of any organization, giving enterprises peace of mind about their people and processes. Our platform is easy to use and can be integrated with existing HR systems. ",
+  "features": [
+    "Criminal Background Services",
+    "Financial Background Services",
+    "Due Diligence Services",
+    "Drug & Health Screening Services"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Background check software",
+    "Pre-employment screening software",
+    "Pre-employment testing software",
+    "Reference check software"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring Efficiency",
+    "Quality of Hire",
+    "Hiring process optimization",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Hiring best practices",
+    "Candidate screening"
+  ],
+  "headquarter": "Nashville, US",
+  "launch_date": "1995",
+  "order": 20011,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Trusted to be the world's global partner for background screening.",
+  "ProductId": null,
+  "ShortDescription": "Speed. Precision. Innovation. That\u2019s how you hire right!",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Global ID Check",
+      "sequence": 0,
+      "description": "Validates your candidate's passport or national identity document to determine if it is authentic"
+    },
+    {
+      "name": "Global Employment Verification",
+      "sequence": 1,
+      "description": "Verifies employment history provided by your candidate with employers or other authorised agents around the world"
+    },
+    {
+      "name": "Social Media Search",
+      "sequence": 2,
+      "description": "Searches publicly available social media profiles and content to help identify potentially adverse behaviours"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": null,
+  "New_Arrival": null,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-15T04:39:15.412Z",
+  "enhanced_description": "HireRight offers a comprehensive global screening solution delivered through an innovative and easy-to-use platform. It provides essential services like criminal background checks, financial background checks, due diligence services, drug and health screening, global ID verification, global employment verification, and social media searches. Designed to be tailored to the unique needs of any organization, it aims to help clients hire top talent faster and more efficiently, integrating seamlessly with existing HR systems to provide peace of mind regarding their people and processes.",
+  "target_industries": [],
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Pre-employment background screening",
+    "Global identity verification",
+    "Global employment history verification",
+    "Drug and health screening for candidates",
+    "Financial background checks",
+    "Criminal background checks",
+    "Due diligence investigations for hiring",
+    "Social media screening for adverse behavior",
+    "Optimizing hiring processes for speed and efficiency",
+    "Enhancing quality of hire"
+  ],
+  "competitive_advantages": [
+    "Global service delivery capabilities",
+    "Comprehensive suite of screening services",
+    "Innovative platform",
+    "Customization to unique organizational needs",
+    "Ease of use",
+    "Integration with existing HR systems",
+    "Focus on speed and precision in screening",
+    "Trusted global partner for background screening"
+  ],
+  "implementation_scenarios": [
+    "Integration with existing HR systems"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Recruiting",
+    "Pre-employment Screening",
+    "Risk Management (related to hiring)"
+  ],
+  "integration_capabilities": [
+    "Integration with existing HR systems"
+  ],
+  "roi_benefits": [
+    "Faster hiring cycles",
+    "Improved hiring efficiency",
+    "Enhanced quality of hire",
+    "Reduced hiring risks",
+    "Streamlined hiring processes",
+    "Increased peace of mind regarding workforce"
+  ],
+  "searchable_keywords": [
+    "HireRight",
+    "background check",
+    "drug testing",
+    "employment verification",
+    "pre-employment screening",
+    "criminal background services",
+    "financial background services",
+    "due diligence services",
+    "drug & health screening services",
+    "global ID check",
+    "global employment verification",
+    "social media search",
+    "recruiting",
+    "hiring",
+    "candidate screening",
+    "hiring efficiency",
+    "quality of hire",
+    "hiring process optimization",
+    "hiring automation",
+    "data-driven hiring",
+    "HR systems integration",
+    "pre-employment testing",
+    "reference check"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Recruiters",
+    "Hiring Managers",
+    "Talent Acquisition Teams"
+  ],
+  "deployment_options": [
+    "Cloud-based Platform"
+  ],
+  "scalability_features": [
+    "Supports organizations of various sizes and locations",
+    "Caters to Large Enterprise needs",
+    "Comprehensive solution tailorable to unique organizational requirements"
+  ],
+  "_weight": 1
+}

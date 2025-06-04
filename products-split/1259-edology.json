@@ -1,0 +1,173 @@
+{
+  "id": 1259,
+  "name": "Edology",
+  "description": "All the programs of Edology are built with the objective of providing its learners career enhancement and strong CV credentials, along with a quality learning experience. The courses offered by Edology include Data Science, Certification in AI & Machine Learning, Data Analytics, PGP in International Business, PGP in Renewable Energy Management, PGP in Oil & Gas Management among others.",
+  "features": [
+    "courses offered by Edology include Data Science, Certification in AI & Machine Learning, Data Analytics, PGP in International Business, PGP in Renewable Energy Management, PGP in Oil & Gas Management among others",
+    "Offerings are done through hands-on industry projects, interactive live classes, global peer-to-peer learning and other facilities.",
+    "Newest launched courses include a PGP in Data Science and AI&ML with IBM and UCI."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [],
+  "tags": [
+    "Training effectiveness",
+    "Training methodologies",
+    "Diversity Training",
+    "Employee satisfaction"
+  ],
+  "headquarter": "London",
+  "launch_date": "2007",
+  "order": 21087,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "A leading global Ed-tech company providing online education that is futuristic and transformative to meet the dynamic needs of organizations and equip individuals with relevant skills for their continuous career growth.",
+  "ProductId": null,
+  "ShortDescription": "Edology is a global platform to learn Data Science, Oil & Gas Management, Project management, Logistics & Supply chain management and many more programs.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [
+    "Arden University",
+    "ACCA",
+    "Brunel University London",
+    "London School of Business & Finance",
+    "London College of Contemporary Arts",
+    "Industry Qualifications",
+    "University of Bradford School of Management",
+    "Geneva Business School",
+    "Vtct"
+  ],
+  "Highlights": [
+    {
+      "name": "Career development opportunities",
+      "sequence": 0,
+      "description": "Edology gives you access to a wide range of career development opportunities. We\u2019re here to help you enrol on innovative distance learning degree programmes, professional qualifications, and short executive education courses from business schools and universities across the UK."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": true,
+  "PublishedAt": "2024-03-05T11:13:25.609Z",
+  "enhanced_description": "Edology is a global Ed-tech company, launched in 2007 and headquartered in London, specializing in online education and professional development. Its programs are designed to foster career enhancement and provide strong CV credentials through a high-quality learning experience, aiming to equip individuals with relevant skills for continuous career growth and to meet the dynamic needs of organizations. The extensive curriculum includes distance learning degree programs, professional qualifications, and short executive education courses across fields such as Data Science, AI & Machine Learning, Data Analytics, International Business, Renewable Energy Management, Oil & Gas Management, Project Management, and Logistics & Supply Chain Management. Edology's pedagogical approach emphasizes hands-on industry projects, interactive live classes, and global peer-to-peer learning. The platform also features newly launched courses, including a PGP in Data Science and AI&ML, developed in collaboration with IBM and UCI.",
+  "target_industries": [
+    "Oil & Gas",
+    "Renewable Energy",
+    "Logistics",
+    "Supply Chain",
+    "International Business",
+    "Technology & Data"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee Skill Development & Upskilling",
+    "Career Advancement & Professional Growth",
+    "Attainment of Professional Qualifications & Degrees",
+    "Continuous Learning Initiatives",
+    "Workforce Competency Building"
+  ],
+  "competitive_advantages": [
+    "Global reach and an extensive academic/industry network.",
+    "Partnerships with renowned academic institutions (e.g., Arden University, Brunel University London) and industry organizations (e.g., IBM, UCI) for specialized course offerings.",
+    "Diverse portfolio of specialized programs across in-demand fields (Data Science, AI/ML, Oil & Gas, Renewable Energy, etc.).",
+    "Hands-on learning methodology emphasizing industry projects and interactive live classes.",
+    "Strong focus on career enhancement and developing robust CV credentials.",
+    "Established presence since 2007."
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Talent Management (Career Development)",
+    "Training Effectiveness",
+    "Employee Engagement (via satisfaction and growth opportunities)",
+    "Diversity & Inclusion (via Diversity Training offerings)"
+  ],
+  "integration_capabilities": {
+    "academic_and_industry_partnerships": [
+      "Arden University",
+      "ACCA",
+      "Brunel University London",
+      "London School of Business & Finance",
+      "London College of Contemporary Arts",
+      "Industry Qualifications",
+      "University of Bradford School of Management",
+      "Geneva Business School",
+      "Vtct",
+      "IBM",
+      "UCI"
+    ]
+  },
+  "roi_benefits": [
+    "Enhanced employee skills and competencies, leading to a more capable workforce.",
+    "Accelerated individual and organizational learning efficiency.",
+    "Improved employee career progression and retention through growth opportunities.",
+    "Development of a future-ready workforce equipped with relevant, in-demand skills.",
+    "Stronger employee CV credentials and marketability."
+  ],
+  "searchable_keywords": [
+    "Edology",
+    "Ed-tech",
+    "online education",
+    "learning",
+    "development",
+    "skill development",
+    "career growth",
+    "data science",
+    "AI",
+    "machine learning",
+    "data analytics",
+    "international business",
+    "renewable energy management",
+    "oil & gas management",
+    "project management",
+    "logistics",
+    "supply chain management",
+    "distance learning",
+    "professional qualifications",
+    "executive education",
+    "training effectiveness",
+    "training methodologies",
+    "diversity training",
+    "employee satisfaction",
+    "online courses",
+    "PGP",
+    "professional development",
+    "upskilling",
+    "global learning",
+    "online degree programs",
+    "career enhancement"
+  ],
+  "primary_users": [
+    "Individual learners (employees, professionals, students)",
+    "HR departments",
+    "Learning & Development (L&D) departments"
+  ],
+  "deployment_options": [
+    "Cloud-based / Online platform"
+  ],
+  "_weight": 1
+}

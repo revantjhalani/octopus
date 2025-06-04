@@ -1,0 +1,185 @@
+{
+  "id": 1258,
+  "name": "Edge Networks",
+  "description": "EDGE Mobility, our innovative internal talent management suite, enables companies to internally allocate resources based on open demands to evaluate against competencies skills. It seamlessly integrates with 3rd party systems, making it easy to optimize the workforce for profitability",
+  "features": [
+    "Edge Recruit - It enables you to hire collaboratively, engage effectively, and ingest profiles efficiently on a skill-based lens. Tap professional insights from social footprints.",
+    "Edge Pathfinder - It is a talent marketplace that helps you empower your workforce & re-create their career goals; upskill their capabilities to drive business impact.",
+    "Edge mobility - Drives agility within the organization, helping you find the right person for the right job internally."
+  ],
+  "founders": [
+    "Rahul Kulhari"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management",
+    "Total Rewards",
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "HR analytics software",
+    "HR management suites",
+    "Career management software",
+    "Employee engagement software",
+    "Employee recognition software",
+    "Background check software"
+  ],
+  "tags": [
+    "Employee well being",
+    "Recruiting",
+    "Hiring",
+    "Employee development"
+  ],
+  "headquarter": "Bangalore, Karnataka",
+  "launch_date": "2012",
+  "order": 21086,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "EDGE is an AI-powered HR technology provider focused on helping organizations solve their toughest talent acquisition & transformation challenges.",
+  "ProductId": null,
+  "ShortDescription": "EDGE is an AI powered innovative HR tech provider helping organizations simplify their talent acquisition decisions",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [
+    "SAP",
+    "Oracle",
+    "Bullhorn, Inc.",
+    "Gartner Inc"
+  ],
+  "Highlights": [
+    {
+      "name": "EDGE Pathfinder.",
+      "sequence": 0,
+      "description": "We help your employees discover careers and jobs that match their skills, experience, potentials, and goals"
+    },
+    {
+      "name": "EDGE Recruit",
+      "sequence": 1,
+      "description": "Reduce your hiring cycle; Leverage AI driven powerful search & match capabilities. Source across multiple channels from one application; including job boards, social networking sites and ATS database pool."
+    },
+    {
+      "name": "EDGE Mobility.",
+      "sequence": 2,
+      "description": "Increase internal talent fulfilment percentages, driven by employee aspirations and organization policies"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": true,
+  "PublishedAt": "2024-03-05T11:13:24.482Z",
+  "enhanced_description": "EDGE Networks is an AI-powered HR technology provider offering an innovative internal talent management suite. It focuses on solving talent acquisition and transformation challenges, enabling organizations to internally allocate resources based on open demands and evaluate against competencies and skills. The suite seamlessly integrates with third-party systems to optimize the workforce for profitability and simplify talent acquisition decisions.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Internal talent allocation and resource optimization",
+    "Skill-based hiring and external candidate sourcing",
+    "Employee career development and upskilling",
+    "Creation of an internal talent marketplace",
+    "Improving organizational agility through internal mobility",
+    "Reducing recruitment cycle time",
+    "Leveraging AI for powerful search and match in recruiting"
+  ],
+  "competitive_advantages": [
+    "AI-powered search and match capabilities",
+    "Seamless integration with 3rd party systems",
+    "Comprehensive internal talent management suite",
+    "Focus on skill-based talent evaluation",
+    "Ability to tap professional insights from social footprints for recruiting",
+    "Centralized sourcing across multiple channels (job boards, social networking sites, ATS)",
+    "Talent marketplace for employee empowerment and career re-creation",
+    "Drives agility and increases internal talent fulfillment percentages driven by employee aspirations and organization policies"
+  ],
+  "implementation_scenarios": [
+    "Integration with existing HCM/ATS platforms",
+    "Deployment as an internal talent management suite"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Recruiting",
+    "Internal Mobility",
+    "Career Management",
+    "Employee Development",
+    "Upskilling",
+    "Workforce Planning",
+    "Resource Allocation",
+    "HR Analytics",
+    "Employee Engagement",
+    "Hiring",
+    "Competency Management"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)"
+  ],
+  "integration_capabilities": [
+    "SAP",
+    "Oracle",
+    "Bullhorn, Inc.",
+    "Third-party systems",
+    "Job boards",
+    "Social networking sites",
+    "ATS databases"
+  ],
+  "roi_benefits": [
+    "Optimized workforce for profitability",
+    "Improved employee happiness and engagement",
+    "Reduced hiring cycle time",
+    "Increased internal talent fulfillment percentages",
+    "Enhanced business impact through workforce upskilling"
+  ],
+  "searchable_keywords": [
+    "Edge Networks",
+    "EDGE Mobility",
+    "EDGE Recruit",
+    "EDGE Pathfinder",
+    "HR Tech",
+    "HR Technology",
+    "AI HR",
+    "AI powered",
+    "Talent Management",
+    "Internal Talent",
+    "Internal Mobility",
+    "Recruiting",
+    "Hiring",
+    "Talent Acquisition",
+    "Workforce Optimization",
+    "Skill-based hiring",
+    "Talent Marketplace",
+    "Employee Development",
+    "Career Management",
+    "Upskilling",
+    "Employee Engagement",
+    "Resource Allocation",
+    "Competency Management",
+    "HR Analytics",
+    "Social Recruiting"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Hiring Managers",
+    "Employees",
+    "Organizations"
+  ],
+  "_weight": 1
+}

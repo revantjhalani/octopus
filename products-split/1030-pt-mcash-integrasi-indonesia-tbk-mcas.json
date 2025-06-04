@@ -1,0 +1,143 @@
+{
+  "id": 1030,
+  "name": "PT Mcash Integrasi Indonesia Tbk (MCAS)",
+  "description": "The digital infrastructure at the core of its business has now grown to encompass a cornucopia of offerings. Woven together, these strands of initiatives create a digital ecosystem far more valuable than the sum of its parts. Imprinted within its DNA are solid digital expertise and a long-term vision for sustainable growth.",
+  "features": [
+    "Offer WhatsApp Business",
+    "Provide content and entertainment",
+    "Provide e-catalogue"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Internet of things",
+    "VR and AR Software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee happiness",
+    "Employee well being",
+    "Employee happiness programs"
+  ],
+  "headquarter": "Jakarta",
+  "launch_date": "2010",
+  "order": 20973,
+  "weightage": false,
+  "HCM": null,
+  "Headline": null,
+  "ProductId": null,
+  "ShortDescription": "MCAS has been setting the groundwork to thrive in this fast-paced digital world",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Technology Platform Company with Diverse Services",
+      "sequence": 0,
+      "description": "MCAS is a technology platform company offering a variety of services. These include digital advertising, logistics solutions, and electric motorcycle sales."
+    },
+    {
+      "name": "Partnership-Driven Approach",
+      "sequence": 1,
+      "description": "The company partners with other businesses to provide these services. This partnership model allows them to potentially expand their reach and service offerings."
+    },
+    {
+      "name": "Growing Subsidiary Network: ",
+      "sequence": 2,
+      "description": " MCAS has a network of subsidiaries including NFCX, DMMX, and Telefast. This suggests that they are growing and expanding their operations."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:39:09.790Z",
+  "enhanced_description": "PT Mcash Integrasi Indonesia Tbk (MCAS) functions as a technology platform company, establishing a robust digital infrastructure that underpins a comprehensive digital ecosystem. This ecosystem encompasses a diverse range of service offerings, including digital advertising, logistics solutions, and electric motorcycle sales. MCAS adopts a strategic partnership-driven approach, complemented by a growing network of subsidiaries such as NFCX, DMMX, and Telefast, to expand its market reach and service capabilities. The company is built upon solid digital expertise and a long-term vision for sustainable growth, positioning itself to thrive in the dynamic digital world.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Facilitating employee communication via WhatsApp Business",
+    "Delivering internal content and entertainment for employee engagement and happiness programs",
+    "Providing e-catalogues for potential employee benefits or resources"
+  ],
+  "competitive_advantages": [
+    "Comprehensive digital ecosystem providing diverse services beyond traditional HR (e.g., digital advertising, logistics, electric motorcycles).",
+    "Strategic partnership-driven approach enabling expanded reach and service offerings.",
+    "Extensive and growing network of subsidiaries, indicating broad capabilities and market presence.",
+    "Solid digital expertise and a long-term vision for sustainable growth."
+  ],
+  "hr_functions_supported": [
+    "Employee Happiness and Engagement",
+    "Employee Well-being",
+    "Employee Happiness Programs",
+    "Internal Communication"
+  ],
+  "technology_stack": [
+    "Artificial intelligence",
+    "Internet of things",
+    "VR and AR Software"
+  ],
+  "integration_capabilities": [
+    "WhatsApp Business API integration",
+    "API-based integrations with partner systems for broader service delivery"
+  ],
+  "roi_benefits": [
+    "Potential for improved employee retention and productivity through enhanced happiness and engagement programs."
+  ],
+  "searchable_keywords": [
+    "MCAS",
+    "PT Mcash Integrasi Indonesia Tbk",
+    "WhatsApp Business",
+    "content and entertainment",
+    "e-catalogue",
+    "technology platform",
+    "digital infrastructure",
+    "digital ecosystem",
+    "Artificial intelligence",
+    "Internet of things",
+    "VR and AR Software",
+    "Employee engagement",
+    "Employee happiness",
+    "Employee well being",
+    "Employee happiness programs",
+    "digital advertising",
+    "logistics solutions",
+    "electric motorcycle sales",
+    "NFCX",
+    "DMMX",
+    "Telefast"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Professionals",
+    "Internal Communications Teams"
+  ],
+  "scalability_features": [
+    "Underlying digital infrastructure capable of supporting a growing ecosystem of diverse services.",
+    "Expansion through a growing network of subsidiaries and partnerships."
+  ],
+  "_weight": 1
+}

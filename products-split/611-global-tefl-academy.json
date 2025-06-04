@@ -1,0 +1,106 @@
+{
+  "id": 611,
+  "name": "Global TEFL Academy",
+  "description": "Global TEFL Academy provides world-class TEFL certification classes , personalized job search guidance and alumni networks. GTA is committed to ensuring that all of our TEFL graduates can have a life-changing experience teaching English abroad / online.",
+  "features": [
+    "Help to build career",
+    "All over employment support",
+    "Easy to achieve"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Staffing & management software",
+    "HR management suites"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs"
+  ],
+  "headquarter": "Hyderabad",
+  "launch_date": "2020",
+  "order": 20569,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Your Gateway to International Career",
+  "ProductId": null,
+  "ShortDescription": "Global TEFL Academy provides world-class TEFL certification classes , personalized job search guidance and alumni networks.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:31:04.983Z",
+  "enhanced_description": "Global TEFL Academy offers world-class TEFL certification classes, personalized job search guidance, and access to alumni networks, serving as a gateway to international careers. It provides comprehensive employment support to help graduates achieve life-changing experiences teaching English abroad or online.",
+  "key_use_cases": [
+    "Obtaining TEFL certification for teaching English.",
+    "Securing employment opportunities teaching English abroad.",
+    "Securing employment opportunities teaching English online.",
+    "Receiving personalized guidance for job search in English teaching.",
+    "Accessing professional alumni networks for career support.",
+    "Career building for aspiring English teachers."
+  ],
+  "competitive_advantages": [
+    "World-class TEFL certification classes.",
+    "Personalized job search guidance.",
+    "Strong alumni networks.",
+    "Commitment to ensuring life-changing experiences for graduates.",
+    "Ease of achieving certification."
+  ],
+  "searchable_keywords": [
+    "Global TEFL Academy",
+    "GTA",
+    "TEFL certification",
+    "job search guidance",
+    "alumni networks",
+    "teaching English abroad",
+    "teaching English online",
+    "career building",
+    "employment support",
+    "Recruiting",
+    "Hiring",
+    "Talent Management",
+    "Talent sourcing",
+    "Recruiting costs",
+    "Recruiting software",
+    "Staffing & management software",
+    "HR management suites",
+    "International Career"
+  ],
+  "primary_users": [
+    "Individuals seeking TEFL certification",
+    "Aspiring English teachers",
+    "Individuals interested in teaching English abroad",
+    "Individuals interested in teaching English online",
+    "TEFL graduates"
+  ],
+  "_weight": 1
+}

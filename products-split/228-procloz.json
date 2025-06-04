@@ -1,0 +1,137 @@
+{
+  "id": 228,
+  "name": "Procloz",
+  "description": "Discover Procloz, where technology meets tailored excellence. As pioneering problem-solvers, we adapt swiftly to market shifts, fashioning bespoke solutions that resonate with your enterprise. Our seasoned experts, boasting industry prowess, drive innovation as we navigate the intricate fusion of technology and business. Beyond services, we cultivate enduring alliances, enriching your journey with unrivaled value.",
+  "features": [
+    "ProEmp\n",
+    "ProPay",
+    "ProTech"
+  ],
+  "founders": [
+    "Gaurav Soni"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Onboarding software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring"
+  ],
+  "headquarter": "Gurugram, Haryana",
+  "launch_date": "2016",
+  "order": 20194,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Unveiling Our Tech-Powered Journey!",
+  "ProductId": null,
+  "ShortDescription": "Procloz is an engine which accelerates organization\u2019s growth through its services coupled with technology at its core",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Tailored Solutions",
+      "sequence": 0,
+      "description": "Our core focus is flexibility, catering to businesses of all sizes, from startups to enterprises, each with unique needs and ambitions."
+    },
+    {
+      "name": "Transformational Tech",
+      "sequence": 1,
+      "description": "We proudly define ourselves as a Servtech company, where service excellence meets the transformative potential of technology."
+    },
+    {
+      "name": "Global Servicescape",
+      "sequence": 2,
+      "description": "Our global approach leverages a network of experts well-versed in local nuances, regulations, and trends."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:46.339Z",
+  "enhanced_description": "Procloz is a 'Servtech' company offering bespoke HR technology solutions that accelerate organizational growth. Leveraging technology and service excellence, it provides tailored solutions to businesses of all sizes, from startups to global enterprises. Its core features, ProEmp, ProPay, and ProTech, address key HR functions like recruiting and onboarding, aiming to boost hiring manager confidence and productivity. Procloz operates with a global approach, utilizing experts well-versed in local nuances and trends.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Streamlining recruiting processes",
+    "Enhancing onboarding experiences",
+    "Accelerating organizational growth through technology and services",
+    "Improving hiring manager confidence and productivity",
+    "Providing tailored HR technology solutions for various business needs"
+  ],
+  "competitive_advantages": [
+    "Bespoke and tailored solutions catering to businesses of all sizes with unique needs",
+    "Operates as a 'Servtech' company, combining service excellence with transformative technology",
+    "Global service delivery leveraging a network of experts well-versed in local nuances and regulations",
+    "Pioneering problem-solvers capable of swift adaptation to market shifts",
+    "Team of seasoned experts boasting industry prowess"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Onboarding",
+    "Employee Management",
+    "Payroll",
+    "HR Technology Services"
+  ],
+  "roi_benefits": [
+    "Accelerates organization\u2019s growth",
+    "Boosts Hiring Manager Confidence and Productivity",
+    "Enriches business journey with unrivaled value"
+  ],
+  "searchable_keywords": [
+    "Procloz",
+    "HR Tech",
+    "Technology",
+    "Recruiting",
+    "Onboarding",
+    "Hiring",
+    "ProEmp",
+    "ProPay",
+    "ProTech",
+    "Employee Management",
+    "Payroll",
+    "Bespoke solutions",
+    "Tailored excellence",
+    "Servtech",
+    "Global services",
+    "HR software",
+    "Problem solvers",
+    "Business growth",
+    "Hiring manager productivity",
+    "Recruiting software",
+    "Onboarding software"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Professionals",
+    "Business Leaders"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,153 @@
+{
+  "id": 309,
+  "name": "TCS Ion",
+  "description": "TCS iON is focused on empowering people and organizations with tech-led education to transform themselves for the new world. It uses uniquely built \u2018Phygital\u2019 platforms that overlay digital technologies over physical assets. For recruitment boards, corporate entities, and education institutions, TCS iON offers a range of interventions that reimagine and transform all the key processes. For individual learners, it offers a plethora of multi-modal learning courses imparting a varied range of skills and proficiencies. With all this, TCS iON serves every stakeholder in the education domain: school students, schools, education boards, youth, colleges, universities, skilling institutes, working professionals, corporate entities and recruiting organizations.",
+  "features": [
+    "Digital Learning",
+    "Digital Campus",
+    "Digital Exams"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Course authoring"
+  ],
+  "tags": [
+    "Training effectiveness",
+    "Learning efficiency"
+  ],
+  "headquarter": "Mumbai, IN",
+  "launch_date": "2011",
+  "order": 20271,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We would like to know you better",
+  "ProductId": null,
+  "ShortDescription": "TCS iON is a strategic business unit of Tata Consultancy Services (TCS). TCS iON, a unit of Tata Consultancy Services, is focussed on empowering people and organisations with tech-led solutions to transform educational and skill development domains for the new world. We use a uniquely built \u2018phygital\u2019 platform that connects the digital and physical worlds.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Digital Learning",
+      "sequence": 0,
+      "description": "Transform learning at your institution with the TCS iON Digital Learning Platform. Our community-driven approach, powered by a state-of-the-art LMS, provides a perfect environment for an improved outcome. From course delivery, assessments to evaluations and beyond, we are here to help you achieve your goals and your full potential"
+    },
+    {
+      "name": "Digital Assessments",
+      "sequence": 1,
+      "description": "Assessments play a crucial role at every step of a student's academic journey. However, ensuring assessments are transparent, efficient and fair, requires significant planning, effort, and resources from the institution. TCS iON Digital Assessments Solution - The ultimate solution to seamlessly conduct exams online and offline"
+    },
+    {
+      "name": "Digital Marking",
+      "sequence": 2,
+      "description": "Transform your institution's evaluation process with the TCS iON Digital Marking (iDM) solution. Our simple yet effective solution takes care of all manual tasks such as totaling, validation of maximum marks awarded, ensuring all answers are marked and handling optional sections/questions."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:00.134Z",
+  "enhanced_description": "TCS iON, a strategic business unit of Tata Consultancy Services, is dedicated to empowering individuals and organizations through tech-led education and skill development solutions. It leverages uniquely built 'Phygital' platforms, overlaying digital technologies over physical assets, to transform key processes for recruitment boards, corporate entities, and educational institutions. The platform offers a comprehensive range of interventions, including a state-of-the-art Learning Management System (LMS) for digital learning, supporting community-driven course delivery, assessments, and evaluations. Its Digital Assessments solution enables seamless conduct of exams both online and offline, emphasizing transparency, efficiency, and fairness. Additionally, the Digital Marking (iDM) solution automates manual evaluation tasks such as totaling, validation, and handling optional questions, thereby transforming the evaluation process for institutions. TCS iON serves a broad spectrum of stakeholders, from school students, colleges, and universities to working professionals and recruiting organizations, offering multi-modal learning courses to impart diverse skills and proficiencies.",
+  "target_industries": [
+    "Education",
+    "Corporate",
+    "Recruitment"
+  ],
+  "key_use_cases": [
+    "Skill Development and Learning",
+    "Digital Transformation of Educational Processes",
+    "Course Delivery and Management (LMS)",
+    "Online and Offline Examinations/Assessments",
+    "Automated Digital Marking and Evaluation",
+    "Campus Management",
+    "Recruitment Process Transformation"
+  ],
+  "competitive_advantages": [
+    "Unique 'Phygital' platform approach combining digital and physical assets",
+    "Transparent, efficient, and fair digital assessment capabilities",
+    "Automation of manual evaluation and marking tasks"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Training",
+    "Skill Development",
+    "Recruitment (Assessments & Evaluation)"
+  ],
+  "technology_stack": [
+    "Learning Management System (LMS)"
+  ],
+  "roi_benefits": [
+    "Accelerate Skill Development",
+    "Improve Learning Efficiency",
+    "Enhance Training Effectiveness",
+    "Increase Assessment Efficiency",
+    "Ensure Fair Assessments",
+    "Automate Manual Evaluation Tasks",
+    "Reduce Errors in Evaluation"
+  ],
+  "searchable_keywords": [
+    "TCS Ion",
+    "Digital Learning",
+    "Digital Campus",
+    "Digital Exams",
+    "Learning and Development",
+    "Training eLearning software",
+    "Course authoring",
+    "Training effectiveness",
+    "Learning efficiency",
+    "Phygital",
+    "Online exams",
+    "Offline exams",
+    "Digital assessments",
+    "Digital marking",
+    "LMS",
+    "Education technology",
+    "Skill development",
+    "Corporate training",
+    "Recruitment assessments",
+    "Evaluation process",
+    "eLearning",
+    "Higher education",
+    "Schools",
+    "Universities"
+  ],
+  "primary_users": [
+    "Individual Learners",
+    "Students",
+    "Working Professionals",
+    "Educational Institutions (Schools, Colleges, Universities, Skilling Institutes)",
+    "Education Boards",
+    "Corporate HR Departments",
+    "Corporate L&D Departments",
+    "Recruitment Boards",
+    "Recruiting Organizations"
+  ],
+  "deployment_options": [
+    "Online (for assessments)",
+    "Offline (for assessments)"
+  ],
+  "_weight": 1
+}

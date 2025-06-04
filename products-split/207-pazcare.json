@@ -1,0 +1,150 @@
+{
+  "id": 207,
+  "name": "Pazcare",
+  "description": "Pazcare simplifies employee benefits management through a user-friendly tech platform. Each employee enjoys a dedicated app for convenient benefit claiming and usage. Say goodbye to coordination hassles with multiple stakeholders\u2014we digitally connect everything for you. Our transparent approach, guided by insurance experts and success managers, ensures a smooth, healthy employer-employee relationship. Experience freedom from conventional insurance complexities with Pazcare.",
+  "features": [
+    "Simplify benefits management",
+    "Claims and benefits analytics",
+    "Easy HRMS integration"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee benefits"
+  ],
+  "headquarter": "Bengaluru, Karnataka",
+  "launch_date": "2020",
+  "order": 20174,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Comprehensive Benefits, Uncomplicated Experience",
+  "ProductId": null,
+  "ShortDescription": "Employee Insurance & Benefits for the modern Indian workforce.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Accessible Benefits",
+      "sequence": 0,
+      "description": "Ensure benefits are utilized to the fullest, promoting employee satisfaction."
+    },
+    {
+      "name": "Efficient Digital Management",
+      "sequence": 1,
+      "description": "Streamline benefit administration, saving valuable time."
+    },
+    {
+      "name": "Supportive Claims Service",
+      "sequence": 2,
+      "description": "Compassionate assistance for stress-free claims processing."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:28.791Z",
+  "enhanced_description": "Pazcare offers comprehensive employee insurance and benefits management for the modern Indian workforce through a user-friendly tech platform. It simplifies the entire process by providing a dedicated app for employees for convenient benefit claiming and usage, ensuring accessibility and utilization. The platform digitally connects all stakeholders, eliminating coordination hassles and streamlining benefit administration for efficiency. Pazcare emphasizes transparency, supported by insurance experts and success managers, to foster healthy employer-employee relationships and stress-free claims processing. It also provides claims and benefits analytics and offers easy HRMS integration, aiming to improve employee happiness and engagement.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee benefits administration",
+    "Employee benefits claiming and usage",
+    "Digital coordination of benefits stakeholders",
+    "Claims processing for employee benefits",
+    "Benefits analytics and reporting",
+    "HRMS integration for benefits data",
+    "Improving employee happiness and engagement through benefits"
+  ],
+  "competitive_advantages": [
+    "User-friendly tech platform",
+    "Dedicated employee app for convenient benefit claiming and usage",
+    "Digital connection of multiple stakeholders to eliminate coordination hassles",
+    "Transparent approach to benefits management",
+    "Guidance from insurance experts and success managers",
+    "Simplifies conventional insurance complexities",
+    "Easy HRMS integration",
+    "Focus on ensuring benefits are utilized to the fullest",
+    "Efficient digital administration for time savings",
+    "Supportive and stress-free claims processing"
+  ],
+  "hr_functions_supported": [
+    "Benefits Administration",
+    "Total Rewards Management",
+    "Employee Wellness",
+    "Claims Management",
+    "HR Analytics (for benefits)"
+  ],
+  "integration_capabilities": [
+    "HRMS integration"
+  ],
+  "roi_benefits": [
+    "Simplified employee benefits management",
+    "Reduced coordination hassles",
+    "Streamlined benefit administration saving valuable time",
+    "Increased employee satisfaction",
+    "Improved employee engagement",
+    "Enhanced benefits utilization",
+    "Stress-free claims processing",
+    "Healthier employer-employee relationships"
+  ],
+  "searchable_keywords": [
+    "Pazcare",
+    "employee benefits",
+    "benefits management",
+    "HR benefits",
+    "insurance management",
+    "corporate wellness",
+    "employee well-being",
+    "claims processing",
+    "benefits analytics",
+    "HRMS integration",
+    "employee app",
+    "total rewards",
+    "digital benefits",
+    "benefits administration",
+    "employee insurance",
+    "uncomplicated experience",
+    "modern Indian workforce",
+    "benefit claiming",
+    "benefit usage",
+    "stakeholder coordination"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Administrators",
+    "HR Managers"
+  ],
+  "deployment_options": [
+    "SaaS"
+  ],
+  "_weight": 1
+}

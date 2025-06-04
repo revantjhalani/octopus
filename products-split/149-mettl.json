@@ -1,0 +1,181 @@
+{
+  "id": 149,
+  "name": "Mettl",
+  "description": "Mercer | Mettl enables organizations to build winning teams through credible people decisions in acquisition and development. Since 2010, we've partnered with 4000+ corporates, 31 government departments, and 500+ educational institutions across 80+ countries. Our research-backed assessments, cloud platform, and analytics deliver transformative results, customizing evaluations for hiring, skills, training, development, and certification exams.",
+  "features": [
+    "All in one assessment platform",
+    "Learning and Development with technology",
+    "Cheating prevention protocols"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Talent Management",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "HR management suites",
+    "Employee engagement software",
+    "Training management system",
+    "Performance Review software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning"
+  ],
+  "headquarter": "Gurgaon, Haryana ",
+  "launch_date": "2010",
+  "order": 20116,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "One Step Solutions for Online Assessment",
+  "ProductId": null,
+  "ShortDescription": "Mettl: The Global Leaders in Talent Assessment",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Customizable Solutions",
+      "sequence": 0,
+      "description": "We design our solutions to suit your unique requirements."
+    },
+    {
+      "name": "Scalable Solutions",
+      "sequence": 1,
+      "description": "We conduct 200,000+ proctored assessments in a day."
+    },
+    {
+      "name": "Best-in-class AI-based Proctoring",
+      "sequence": 2,
+      "description": "Leading AI-based remote proctoring technology."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:25.502Z",
+  "enhanced_description": "Mettl, a Mercer company, is a global leader in talent assessment since 2010. It serves over 4000 corporates, 31 government departments, and 500 educational institutions across 80+ countries. Mettl provides an all-in-one cloud-based assessment platform leveraging research-backed evaluations, analytics, and best-in-class AI-based proctoring with cheating prevention protocols. The platform offers customizable and scalable solutions capable of conducting over 200,000 proctored assessments daily, designed to support credible people decisions in acquisition and development for hiring, skills assessment, training, employee development, and certification exams.",
+  "target_industries": [
+    "Corporate",
+    "Government",
+    "Education"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Talent acquisition and hiring",
+    "Skills assessment",
+    "Training needs analysis",
+    "Employee development programs",
+    "Certification exams",
+    "Performance reviews",
+    "Building diverse and inclusive workforces"
+  ],
+  "competitive_advantages": [
+    "All-in-one assessment platform",
+    "Research-backed assessments",
+    "Cloud-based platform",
+    "Advanced analytics capabilities",
+    "Customizable solutions",
+    "High scalability (200,000+ proctored assessments/day)",
+    "Best-in-class AI-based proctoring",
+    "Comprehensive cheating prevention protocols",
+    "Global presence and experience (80+ countries)"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based deployment"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Learning & Development",
+    "Talent Management",
+    "Performance Management",
+    "HR Analytics",
+    "Skill Management"
+  ],
+  "technology_stack": [
+    "Cloud",
+    "Artificial Intelligence (AI)"
+  ],
+  "roi_benefits": [
+    "Enables credible people decisions in acquisition and development",
+    "Delivers transformative results for organizations",
+    "Supports building a more diverse and inclusive workforce"
+  ],
+  "searchable_keywords": [
+    "Mettl",
+    "Mercer",
+    "Online Assessment",
+    "Talent Assessment",
+    "Assessment Platform",
+    "Learning and Development",
+    "L&D",
+    "Talent Management",
+    "Training eLearning",
+    "Training Management System",
+    "Performance Review",
+    "Recruiting Software",
+    "Hiring",
+    "Skills Assessment",
+    "Employee Development",
+    "Certification Exams",
+    "Cheating Prevention",
+    "Proctoring",
+    "AI Proctoring",
+    "Remote Proctoring",
+    "Cloud Platform",
+    "HR Analytics",
+    "Learning Analytics",
+    "Learning Retention",
+    "Continuous Learning",
+    "Customizable Assessments",
+    "Scalable Assessments",
+    "Skill Testing"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Recruiters",
+    "Learning & Development Managers",
+    "Training Managers",
+    "Hiring Managers",
+    "Educators",
+    "Government HR/Training Departments"
+  ],
+  "deployment_options": [
+    "Cloud"
+  ],
+  "scalability_features": [
+    "Capable of conducting 200,000+ proctored assessments in a day"
+  ],
+  "security_features": [
+    "Cheating prevention protocols",
+    "AI-based remote proctoring technology"
+  ],
+  "_weight": 1
+}

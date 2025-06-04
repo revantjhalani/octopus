@@ -1,0 +1,157 @@
+{
+  "id": 739,
+  "name": "Inspirit",
+  "description": "Inspirit is a virtual experiential learning platform that provides students with immersive simulations, 3D models, and more. Experiential learning is a process in which students \u201clearn by doing,\u201d and stimulates academic inquiry through reflection, engagement, and analysis. Through our virtual reality and 3D technology, students can learn about complex STEM concepts, gain practical skills and techniques for future careers, and directly correlate this knowledge to a \u201creal world\u201d setting without ever leaving the classroom.",
+  "features": [
+    "Facilitate active learning: Inspirit provides students with hands-on experience in real-world situations, allowing them to experiment, explore, and solve problems.",
+    "Improve comprehension: VR can improve students\u2019 comprehension of complex STEM concepts by providing visual and interactive representations of abstract ideas.",
+    "Increases efficiency and safety: Virtual simulations can save teachers time and effort, eliminating the need for elaborate setups or costly equipment while providing a safe learning space."
+  ],
+  "founders": [
+    "Aditya Vishwanath"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Course authoring",
+    "Corporate LMS",
+    "VR and AR Software"
+  ],
+  "tags": [
+    "Learning optimisation",
+    "Continuous learning"
+  ],
+  "headquarter": "Palo Alto, California",
+  "launch_date": "2017",
+  "order": 20692,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Experience the Future of Education",
+  "ProductId": null,
+  "ShortDescription": "Inspirit is the first and only education solution to combine powerful virtual and augmented reality technology with Stanford research-based instructional practices.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Easy School Implementation",
+      "sequence": 0,
+      "description": "With our easy to navigate platform, teachers can easily integrate Inspirit into their existing lessons."
+    },
+    {
+      "name": "Student Centered Learning",
+      "sequence": 1,
+      "description": "\u25cf Interactive learning modules fostering a deep understanding of complex concepts."
+    },
+    {
+      "name": "Professional Development for Educators",
+      "sequence": 2,
+      "description": "\u25cf Benefit from unparalleled training provided by our experts in immersive education, specializing in the deployment of innovative technology tailored to your school\u2019s specific needs."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:33.532Z",
+  "enhanced_description": "Inspirit is an innovative virtual experiential learning platform leveraging powerful virtual reality (VR) and 3D technology, combined with Stanford research-based instructional practices. Designed for students, it provides immersive simulations and 3D models to facilitate active, hands-on learning in real-world scenarios. The platform aims to improve students' comprehension of complex STEM concepts, accelerate skill development for future careers, and enhance learning efficiency and safety by eliminating the need for elaborate setups or costly equipment. Inspirit is built for easy school implementation, fostering student-centered learning through interactive modules, and offers unparalleled professional development for educators.",
+  "target_industries": [
+    "Education"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Virtual experiential learning",
+    "STEM education",
+    "Practical skill development",
+    "Educator professional development",
+    "Active learning facilitation",
+    "Improving comprehension of complex concepts",
+    "Providing safe learning environments"
+  ],
+  "competitive_advantages": [
+    "First and only education solution combining VR/AR technology with Stanford research-based instructional practices",
+    "Eliminates need for elaborate setups or costly equipment",
+    "Provides a safe learning space",
+    "Easy school implementation",
+    "Fosters student-centered learning",
+    "Offers unparalleled professional development for educators"
+  ],
+  "implementation_scenarios": [
+    "Integration into existing classroom lessons"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development"
+  ],
+  "technology_stack": [
+    "Virtual Reality (VR)",
+    "Augmented Reality (AR)",
+    "3D Technology"
+  ],
+  "roi_benefits": [
+    "Saves teachers time and effort",
+    "Eliminates the need for costly equipment",
+    "Provides a safe learning environment",
+    "Improves comprehension of complex concepts",
+    "Accelerates skill development",
+    "Enhances learning efficiency"
+  ],
+  "searchable_keywords": [
+    "Inspirit",
+    "Virtual experiential learning",
+    "Immersive simulations",
+    "3D models",
+    "Learn by doing",
+    "Virtual reality",
+    "Augmented reality",
+    "STEM concepts",
+    "Practical skills",
+    "Active learning",
+    "Hands-on experience",
+    "Comprehension improvement",
+    "Learning efficiency",
+    "Safety",
+    "Education solution",
+    "Stanford research",
+    "School implementation",
+    "Student-centered learning",
+    "Interactive learning modules",
+    "Professional development for educators",
+    "Learning optimisation",
+    "Continuous learning",
+    "Course authoring",
+    "Corporate LMS",
+    "VR and AR Software"
+  ],
+  "primary_users": [
+    "Students",
+    "Teachers",
+    "Educators"
+  ],
+  "deployment_options": [
+    "Software accessible via virtual and augmented reality devices"
+  ],
+  "_weight": 1
+}

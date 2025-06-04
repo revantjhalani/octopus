@@ -1,0 +1,164 @@
+{
+  "id": 339,
+  "name": "Virgin Pulse",
+  "description": "At Virgin Pulse, we\u2019re passionate about changing lives and businesses for good\u00ae. We want to make a difference in the world by helping people be their best, every day, at work and home. Our people drive our business and our culture reflects that. As an organization, we focus on our four core values: We Deliver, People Matter, One Team One Dream, and Grow Forward. We understand that our diversity is our strength, we have a responsibility to innovate and lead the industry, and we embody a culture of health and wellbeing that inspires our clients as well as our own employees. Virgin Pulse impacts over 100 million people across 190 countries by helping Fortune 500, national health plans and many other organisations change lives \u2013 and businesses \u2013 for good.",
+  "features": [
+    "Employer Wellbeing + Engagement",
+    "Patient Acquisition + Retention",
+    "Medicare Quality + Risk"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Performance management system",
+    "Employee recognition software",
+    "Performance Review software",
+    "Employee engagement software",
+    "Corporate wellness software"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring efficiency",
+    "Employee engagement",
+    "Employee happiness",
+    "Employee well being",
+    "Employee happiness programs"
+  ],
+  "headquarter": "Providence, RI",
+  "launch_date": "2004",
+  "order": 20301,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Changing lives for good\n as the world\u2019s #1 digital health and wellbeing solution",
+  "ProductId": null,
+  "ShortDescription": "We're unifying and simplifying the health and wellbeing journey with Homebase for Health.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Personalised health and wellbeing",
+      "sequence": 0,
+      "description": "Purpose-built to engage members daily and cultivate healthy habits, we deliver a truly personalised experience, empowering and motivating each employee to create their own path to health and wellbeing success.\u200b"
+    },
+    {
+      "name": "Science-backed and proven behaviour change",
+      "sequence": 1,
+      "description": "Our behaviour change model is backed by clinical and population health expertise, and is supported and validated by Virgin Pulse Science Advisory Board."
+    },
+    {
+      "name": "Personalised content driving engagement",
+      "sequence": 2,
+      "description": "We provide value by creating an irresistible employee experience one person at a time, combining daily wellbeing content, gamification, and personalisation in a mobile-first platform\u200b."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:38.892Z",
+  "enhanced_description": "Virgin Pulse is positioned as the world's #1 digital health and wellbeing solution, dedicated to changing lives and businesses for good. Their mission is to empower people to be their best daily, both at work and home. The platform unifies and simplifies the health and wellbeing journey through 'Homebase for Health', impacting over 100 million people across 190 countries, including Fortune 500 companies and national health plans. Virgin Pulse delivers a truly personalized experience, purpose-built to engage members daily and cultivate healthy habits, leveraging a science-backed and proven behavior change model validated by their Science Advisory Board. It provides an irresistible employee experience by combining daily wellbeing content, gamification, and personalization within a mobile-first platform.",
+  "target_industries": [
+    "Healthcare"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Employer Wellbeing Programs",
+    "Employee Engagement Initiatives",
+    "Patient Acquisition and Retention (for health plans)",
+    "Medicare Quality and Risk Management (for health plans)",
+    "Cultivating Healthy Habits",
+    "Improving Employee Happiness",
+    "Boosting Hiring Manager Confidence and Productivity"
+  ],
+  "competitive_advantages": [
+    "Claimed as the world's #1 digital health and wellbeing solution",
+    "Provides a truly personalized health and wellbeing experience",
+    "Utilizes a science-backed and proven behavior change model",
+    "Features a mobile-first platform with gamification and personalized content",
+    "Designed for daily member engagement and habit cultivation"
+  ],
+  "hr_functions_supported": [
+    "Employee Wellbeing",
+    "Employee Engagement",
+    "Employee Recognition",
+    "Performance Management",
+    "Performance Review",
+    "Total Rewards"
+  ],
+  "technology_stack": [
+    "Mobile-first platform"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness and Engagement",
+    "Enhanced Employee Wellbeing",
+    "Increased Patient Acquisition and Retention (for health plans)",
+    "Improved Medicare Quality Scores and Risk Management (for health plans)",
+    "Boosted Hiring Manager Confidence and Productivity"
+  ],
+  "searchable_keywords": [
+    "Virgin Pulse",
+    "digital health",
+    "wellbeing solution",
+    "employee wellbeing",
+    "corporate wellness",
+    "employee engagement",
+    "employee happiness",
+    "total rewards",
+    "talent management",
+    "performance management system",
+    "employee recognition software",
+    "performance review software",
+    "patient acquisition",
+    "patient retention",
+    "Medicare quality",
+    "risk management",
+    "health plans",
+    "behavior change",
+    "gamification",
+    "mobile-first",
+    "HR technology"
+  ],
+  "primary_users": [
+    "Employees (members)",
+    "HR Professionals",
+    "Hiring Managers",
+    "Health Plan Administrators",
+    "Patients (members of health plans)"
+  ],
+  "deployment_options": [
+    "Cloud/SaaS (inferred from mobile-first digital platform)"
+  ],
+  "scalability_features": [
+    "Proven to impact over 100 million people across 190 countries",
+    "Supports Global Enterprise deployments"
+  ],
+  "_weight": 1
+}

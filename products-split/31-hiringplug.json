@@ -1,0 +1,165 @@
+{
+  "id": 31,
+  "name": "Hiringplug",
+  "description": "Hiringplug\u2122 is an award-winning AI marketplace connecting employers with specialist recruiters. Their \"RaaS\" platform streamlines hiring with features like matching, parsing, ATS, and scheduling. Hire top talent faster across sectors, functions, and levels. ",
+  "features": [
+    "Increased productivity",
+    "Hassle-freepayments",
+    "Leverage AI & get ahead"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Talent acquisition suites",
+    "Recruitment marketing platforms",
+    "Recruitment agencies",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Quick Hiring",
+    "Hiring speed",
+    "Recruiting efficiency",
+    "Talent pipeline",
+    "Quick hiring strategies",
+    "Urgent hiring"
+  ],
+  "headquarter": "New Delhi",
+  "launch_date": "2016",
+  "order": 20012,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Curated Marketplace of Recruitment Agencies",
+  "ProductId": null,
+  "ShortDescription": "Plug-in for Faster Hiring",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "RaaSTM Marketplace",
+      "sequence": 0,
+      "description": "Gain complete visibility on the performance of agencies to make data-driven decisions."
+    },
+    {
+      "name": "Single window",
+      "sequence": 1,
+      "description": "Engage instantly and cut down on your administrative efforts of vendor onboarding."
+    },
+    {
+      "name": "Replacement Guarantee",
+      "sequence": 2,
+      "description": "With up to 90 days of replacement guarantee against any early attrition, your risks are covered."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": null,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-01-10T07:19:36.269Z",
+  "enhanced_description": "Hiringplug\u2122 is an award-winning AI marketplace that connects employers with specialist recruiters through its 'Recruitment as a Service' (RaaS\u2122) platform. It streamlines the hiring process with core features such as AI-powered candidate matching, resume parsing, an integrated Applicant Tracking System (ATS), and scheduling capabilities. The platform serves as a single window for engaging with and onboarding recruitment vendors, significantly reducing administrative efforts. It also provides complete visibility into the performance of recruitment agencies, enabling data-driven decision-making. To mitigate risks for employers, Hiringplug offers a replacement guarantee for up to 90 days against early attrition. The service is designed to help organizations of all sizes hire top talent faster across diverse sectors, functions, and levels, aiming to fill open positions more quickly.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Connecting employers with specialist recruitment agencies",
+    "Streamlining the end-to-end hiring process",
+    "Automating candidate matching and resume parsing",
+    "Managing applicant tracking and candidate progression",
+    "Facilitating interview scheduling",
+    "Reducing administrative overhead in managing recruitment vendors",
+    "Monitoring and evaluating recruitment agency performance",
+    "Mitigating risks associated with early candidate attrition",
+    "Accelerating time-to-hire for open positions"
+  ],
+  "competitive_advantages": [
+    "AI-powered talent marketplace model",
+    "Comprehensive 'Recruitment as a Service' (RaaS\u2122) platform",
+    "Integrated suite of hiring tools (matching, parsing, ATS, scheduling)",
+    "Centralized 'single window' for recruitment vendor engagement and management",
+    "Data-driven insights into agency performance",
+    "Risk mitigation through a replacement guarantee for up to 90 days",
+    "Hassle-free payment processing",
+    "Award-winning recognition"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Vendor Management (Recruitment-specific)"
+  ],
+  "technology_stack": [
+    "AI"
+  ],
+  "roi_benefits": [
+    "Faster time-to-hire for open positions",
+    "Reduced administrative effort and operational costs",
+    "Increased productivity for HR and talent acquisition teams",
+    "Mitigated financial risks associated with early candidate churn",
+    "Improved data-driven decision-making regarding recruitment agencies",
+    "Streamlined and hassle-free payment processes for recruitment services"
+  ],
+  "searchable_keywords": [
+    "Hiringplug",
+    "Recruiting",
+    "Talent Acquisition",
+    "Recruitment Software",
+    "AI Recruiting",
+    "AI Marketplace",
+    "Recruitment Agencies",
+    "Specialist Recruiters",
+    "RaaS Platform",
+    "Recruitment as a Service",
+    "Candidate Matching",
+    "Candidate Parsing",
+    "Applicant Tracking System",
+    "ATS",
+    "Interview Scheduling",
+    "Faster Hiring",
+    "Quick Hiring",
+    "Hiring Speed",
+    "Recruiting Efficiency",
+    "Talent Pipeline",
+    "Urgent Hiring",
+    "Curated Marketplace",
+    "Vendor Management",
+    "Recruitment Vendor Management",
+    "Replacement Guarantee",
+    "HR Tech",
+    "Talent Acquisition Suites",
+    "Recruitment Marketing Platforms"
+  ],
+  "primary_users": [
+    "Employers",
+    "HR Professionals",
+    "Talent Acquisition Teams",
+    "Recruitment Managers",
+    "Specialist Recruiters",
+    "Recruitment Agencies"
+  ],
+  "scalability_features": [
+    "Designed to support small, large, and global enterprise organizations"
+  ],
+  "_weight": 1
+}

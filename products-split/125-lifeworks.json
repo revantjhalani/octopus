@@ -1,0 +1,149 @@
+{
+  "id": 125,
+  "name": "LifeWorks",
+  "description": "LifeWorks, previously Morneau Shepell, was a Toronto-based human resources services and technology company founded in 1966. Serving 24,000 clients across North America, LifeWorks combines digital and human elements seamlessly. Their AI-driven solutions simplify complexities for individuals and HR leaders across diverse industries, communities, and households, ensuring accessibility and ease of use in every interaction.",
+  "features": [
+    "Empower people by supporting their wellbeing",
+    "Strengthen organizational resiliency",
+    "AI-based technologies"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Software and Services Related to HR Software",
+    "Talent management software",
+    "Employee engagement software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee happiness",
+    "Employee satisfaction"
+  ],
+  "headquarter": "Toronto, Ontario, Canada",
+  "launch_date": "1966",
+  "order": 20092,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Happy, healthy and empowered people are the heart of high-performing organizations",
+  "ProductId": null,
+  "ShortDescription": "LifeWorks provides personalized solutions that feature the level of support that people need",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "End-to-end wellbeing",
+      "sequence": 0,
+      "description": " Virtual and in-person care, financial planning seminars, and cost-saving strategies prioritize your wellbeing."
+    },
+    {
+      "name": "Expand your benefits",
+      "sequence": 1,
+      "description": "Our team ensures customized care, providing timely support to employees"
+    },
+    {
+      "name": "Help attract and retain talent",
+      "sequence": 2,
+      "description": "Prioritizing wellbeing fosters positive cultures and strengthens recruitment and retention efforts."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:20:53.140Z",
+  "enhanced_description": "LifeWorks, formerly Morneau Shepell, is a Toronto-based human resources services and technology company established in 1966. Serving 24,000 clients across North America, LifeWorks delivers personalized, AI-driven solutions that seamlessly integrate digital tools with human support. Their offerings simplify complexities for individuals, employees, and HR leaders across diverse industries, focusing on improving employee happiness, engagement, and overall wellbeing. By providing end-to-end wellbeing support, including virtual and in-person care, financial planning, and cost-saving strategies, LifeWorks aims to empower people, strengthen organizational resiliency, and enhance talent attraction and retention efforts, ensuring accessibility and ease of use in every interaction.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee wellbeing support (virtual, in-person, financial planning)",
+    "Employee engagement and happiness improvement",
+    "Talent attraction and retention",
+    "Organizational resiliency building",
+    "Benefits management and expansion"
+  ],
+  "competitive_advantages": [
+    "Seamless combination of digital and human support elements",
+    "AI-driven solutions for simplifying HR and individual complexities",
+    "Comprehensive end-to-end wellbeing solutions (virtual and in-person care, financial planning)",
+    "Focus on customized and timely employee support",
+    "Emphasis on accessibility and ease of use"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Management",
+    "Employee Engagement",
+    "Employee Wellbeing",
+    "Benefits Administration"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Enhanced talent attraction and retention",
+    "Strengthened organizational resiliency",
+    "Potential cost savings through wellbeing strategies"
+  ],
+  "searchable_keywords": [
+    "LifeWorks",
+    "Morneau Shepell",
+    "HR technology",
+    "HR services",
+    "human resources",
+    "employee wellbeing",
+    "organizational resiliency",
+    "AI-based technologies",
+    "AI-driven solutions",
+    "employee happiness",
+    "employee engagement",
+    "employee satisfaction",
+    "recruiting",
+    "talent management software",
+    "employee engagement software",
+    "digital and human elements",
+    "personalized solutions",
+    "high-performing organizations",
+    "virtual care",
+    "in-person care",
+    "financial planning",
+    "cost-saving strategies",
+    "benefits expansion",
+    "attract talent",
+    "retain talent",
+    "positive cultures",
+    "HR leaders",
+    "employees support",
+    "human capital management"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "Employees",
+    "Individuals"
+  ],
+  "_weight": 1
+}

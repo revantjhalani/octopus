@@ -1,0 +1,143 @@
+{
+  "id": 304,
+  "name": "Talent Pool",
+  "description": "Since 2006, Talentpool has been adopted by enterprises for its ease of use and configurability. We leverage the emerging technologies to help recruitment teams meet the rapidly evolving expectations. With an intuitive interface, easily-configurable workflow and AI- enabled virtual assistant, Talentpool is a smart applicant tracking software that helps you get the best applicants, on board.",
+  "features": [
+    "Best-in-class software",
+    "Easy to Adopt",
+    "Integration Ready"
+  ],
+  "founders": [
+    "Andrew Lavelle"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Onboarding software",
+    "Job boards"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Recruiting efficiency",
+    "Talent sourcing"
+  ],
+  "headquarter": "Pune, Maharashtra ",
+  "launch_date": "2005",
+  "order": 20266,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Take Data-Driven\n Recruitment Decisions",
+  "ProductId": null,
+  "ShortDescription": "Enable recruiters to add quality and reduce cost per hire with our recruiting software, designed specifically for fast-growing lean organizations.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Gain Competitive Edge\u200b",
+      "sequence": 0,
+      "description": "Today with strong foundations and access to world-class technology TKII\u2019s plant making capabilities are helping the industry become competitive world over"
+    },
+    {
+      "name": "Smooth Adoption",
+      "sequence": 1,
+      "description": "By recruitment as well as non-recruitment stakeholders"
+    },
+    {
+      "name": "Best Practices",
+      "sequence": 2,
+      "description": "Implement the latest recruitment best practices"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:55.408Z",
+  "enhanced_description": "Talentpool is an intuitive, configurable, AI-enabled applicant tracking software that has been adopted by enterprises since 2006. Designed for fast-growing lean organizations as well as global and large enterprises, it leverages emerging technologies and an easily-configurable workflow to help recruitment teams make data-driven decisions, attract top talent, and streamline the onboarding process. The software is known for its ease of adoption and integration readiness.",
+  "ideal_company_sizes": [
+    "Small",
+    "Mid-market",
+    "Large",
+    "Enterprise"
+  ],
+  "key_use_cases": [
+    "Applicant Tracking",
+    "Talent Sourcing",
+    "Onboarding",
+    "Recruitment Workflow Management",
+    "Data-Driven Recruitment Decisions"
+  ],
+  "competitive_advantages": [
+    "Ease of Use",
+    "Configurability",
+    "AI-Enabled Virtual Assistant",
+    "Integration Readiness",
+    "Supports Recruitment Best Practices"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Onboarding",
+    "Talent Acquisition"
+  ],
+  "technology_stack": [
+    "AI",
+    "Virtual Assistant Technology",
+    "Emerging Technologies"
+  ],
+  "integration_capabilities": [
+    "Integration Ready"
+  ],
+  "roi_benefits": [
+    "Hire Top Talent Faster",
+    "Increased Hiring Efficiency",
+    "Improved Hiring Speed",
+    "Reduced Cost Per Hire",
+    "Improved Quality of Hires",
+    "Enable Data-Driven Recruitment Decisions"
+  ],
+  "searchable_keywords": [
+    "Talent Pool",
+    "ATS",
+    "Applicant Tracking Software",
+    "Recruiting Software",
+    "Onboarding Software",
+    "Job Boards",
+    "AI",
+    "Virtual Assistant",
+    "Talent Sourcing",
+    "Hiring Speed",
+    "Recruitment Efficiency",
+    "Cost Per Hire",
+    "Data-Driven Recruitment",
+    "Enterprise Recruiting",
+    "Lean Organizations",
+    "Fast-Growing Organizations"
+  ],
+  "primary_users": [
+    "Recruitment Teams",
+    "Recruiters",
+    "Non-recruitment Stakeholders"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,154 @@
+{
+  "id": 584,
+  "name": "First Meridian",
+  "description": "We are a Human Resources platform formed by World-Renowned Investors with an objective to build a leading organization empowered by technology & innovation. With the established brands under our umbrella, InnovSource, V5 Global Services, Affluent Global Services, CBSI Global and RLabs Enterprise Services, our goal is to be at the fore front of the industry by leveraging latest technology and with exceptional commitment to Integrity, Customer Service, Innovation.",
+  "features": [
+    "Permanent Recruitment",
+    "Recruitment Process Outsourcing (RPO)",
+    "Engineering and Technical Staffing"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Recruiting software",
+    "HR management suites",
+    "Staffing services providers"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Recruiting",
+    "Talent acquisition"
+  ],
+  "headquarter": "Bengaluru, Karnataka",
+  "launch_date": "2018",
+  "order": 20542,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Building Partnerships, Creating Value",
+  "ProductId": null,
+  "ShortDescription": "We combine our extensive experience in HR solutioning with future-ready technology to help organizations and talented individuals achieve their objectives and aspirations.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "End-to-End HR Solutions Provider",
+      "sequence": 0,
+      "description": "FirstMeridian is a human resources investment platform designed to deliver comprehensive HR solutions . They aim to build a strong workforce that can adapt to change."
+    },
+    {
+      "name": "Serving a Large Network of Clients and Employeesvvvvvv",
+      "sequence": 1,
+      "description": "The document says that FirstMeridian works with over 1200 clients and provides employment to over 126,824 people across 3500+ locations ."
+    },
+    {
+      "name": "Vision to Transform Lives",
+      "sequence": 2,
+      "description": "FirstMeridian's vision is to transform lives by enhancing economic opportunities for the workforce."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:30:29.850Z",
+  "enhanced_description": "First Meridian is a human resources platform, formed by world-renowned investors, focused on building a leading organization powered by technology and innovation. It operates through established brands including InnovSource, V5 Global Services, Affluent Global Services, CBSI Global, and RLabs Enterprise Services. As an end-to-end HR solutions provider, First Meridian combines extensive experience in HR solutioning with future-ready technology to help organizations and talented individuals achieve their objectives. The platform serves a large network, working with over 1200 clients and providing employment to over 126,824 people across more than 3500 locations, demonstrating its comprehensive reach and ability to deliver full-spectrum HR solutions.",
+  "target_industries": [
+    "Any industry requiring permanent recruitment",
+    "Any industry requiring recruitment process outsourcing",
+    "Industries requiring engineering and technical staffing"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Permanent talent acquisition",
+    "Recruitment process outsourcing (RPO)",
+    "Specialized staffing for engineering and technical roles",
+    "Streamlining hiring processes",
+    "Improving hiring manager effectiveness and productivity",
+    "Providing comprehensive HR solutions"
+  ],
+  "competitive_advantages": [
+    "Backed by world-renowned investors",
+    "Leverages latest and future-ready technology",
+    "Extensive experience in HR solutioning",
+    "Offers end-to-end HR solutions",
+    "Combines strength and reach through multiple established subsidiary brands",
+    "Proven capability serving a large network of over 1200 clients and 126,824 employees across 3500+ locations",
+    "Commitment to integrity, customer service, and innovation"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Management",
+    "HR Management",
+    "Staffing"
+  ],
+  "roi_benefits": [
+    "Hire top talent faster",
+    "Achieve more efficient talent acquisition",
+    "Boost hiring manager confidence",
+    "Improve hiring manager productivity"
+  ],
+  "searchable_keywords": [
+    "First Meridian",
+    "HR platform",
+    "Human Resources",
+    "Recruiting",
+    "Recruitment",
+    "Talent Management",
+    "Staffing",
+    "Permanent Recruitment",
+    "Recruitment Process Outsourcing",
+    "RPO",
+    "Engineering Staffing",
+    "Technical Staffing",
+    "Talent Acquisition",
+    "Hiring speed",
+    "HR management suites",
+    "HR solutioning",
+    "Workforce solutions",
+    "Global HR",
+    "Enterprise HR",
+    "InnovSource",
+    "V5 Global Services",
+    "Affluent Global Services",
+    "CBSI Global",
+    "RLabs Enterprise Services",
+    "Comprehensive HR"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Recruiters",
+    "Hiring Managers"
+  ],
+  "scalability_features": [
+    "Demonstrated ability to serve over 1200 clients and manage employment for over 126,824 people across 3500+ locations",
+    "Aimed at Large and Global Enterprise organizations"
+  ],
+  "_weight": 1
+}

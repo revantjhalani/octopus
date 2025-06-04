@@ -1,0 +1,152 @@
+{
+  "id": 411,
+  "name": "Anaplan",
+  "description": "Anaplan is building a future where connected leaders and teams are able to constantly adapt, transform and reinvent their businesses. We make it possible to share actionable insights, empower and unleash creativity, and drive innovation. With Anaplan, finance and operational leaders across the organization can model complex scenarios, forecast continuously with added intelligence, and make agile decisions with confidence.",
+  "features": [
+    "2,000+ market-leading customers, including over half of the Fortune 50",
+    "200+ accomplished partners,\nprioritizing our mutual clients",
+    "2,000+ expert employees, strategically located worldwide"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "HR analytics software",
+    "HR management suites",
+    "Employee scheduling software",
+    "Talent management software",
+    "Workforce management"
+  ],
+  "tags": [
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "Hiring efficiency"
+  ],
+  "headquarter": "Miami, Florida",
+  "launch_date": "2006",
+  "order": 20372,
+  "weightage": false,
+  "HCM": null,
+  "Headline": " Unlock Decision Excellence",
+  "ProductId": null,
+  "ShortDescription": "The future of planning is here. Let's get connected.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Enterprise-wide connected planning",
+      "sequence": 0,
+      "description": "Connect your entire enterprise on a single platform, scaling as you grow and handling real-time changes at any size."
+    },
+    {
+      "name": "Scalable, intelligent architecture",
+      "sequence": 1,
+      "description": "Gives you that all-important agility to adapt and pivot as your market changes."
+    },
+    {
+      "name": "Incredible time to value",
+      "sequence": 2,
+      "description": "With no time to waste, give all your users a powerful, intuitive planning experience \u2013 fast."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:26:34.097Z",
+  "enhanced_description": "Anaplan is a comprehensive platform designed for enterprise-wide connected planning, enabling finance and operational leaders across the organization to constantly adapt, transform, and reinvent their businesses. It facilitates sharing actionable insights, empowering creativity, and driving innovation. With Anaplan, users can model complex scenarios, forecast continuously with added intelligence, and make agile decisions with confidence, ultimately unlocking decision excellence. The platform offers a scalable and intelligent architecture that adapts to market changes and delivers incredible time to value, providing a powerful and intuitive planning experience.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Complex scenario modeling",
+    "Continuous forecasting with added intelligence",
+    "Agile decision-making",
+    "Enterprise-wide connected planning",
+    "Boosting hiring manager confidence",
+    "Boosting hiring manager productivity",
+    "Improving hiring efficiency"
+  ],
+  "competitive_advantages": [
+    "Enterprise-wide connected planning on a single platform",
+    "Scalable and intelligent architecture for adaptability and agility",
+    "Rapid time to value for powerful and intuitive planning",
+    "Proven track record with over 2,000 market-leading customers, including over half of the Fortune 50"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "HR Analytics",
+    "HR Management",
+    "Employee Scheduling",
+    "Workforce Management",
+    "Hiring Efficiency"
+  ],
+  "roi_benefits": [
+    "Improved business adaptability and transformation",
+    "Enhanced decision-making confidence and agility",
+    "Increased actionable insights and innovation",
+    "Faster time to value for planning initiatives",
+    "Boosted hiring manager confidence",
+    "Boosted hiring manager productivity"
+  ],
+  "searchable_keywords": [
+    "Anaplan",
+    "connected planning",
+    "enterprise planning",
+    "business planning",
+    "financial planning",
+    "operational planning",
+    "scenario modeling",
+    "forecasting",
+    "agile decision making",
+    "decision excellence",
+    "actionable insights",
+    "business transformation",
+    "talent management",
+    "HR analytics",
+    "workforce management",
+    "employee scheduling",
+    "HR management suites",
+    "hiring efficiency",
+    "hiring manager productivity",
+    "scalable planning",
+    "intelligent planning",
+    "time to value",
+    "Fortune 50"
+  ],
+  "primary_users": [
+    "Finance leaders",
+    "Operational leaders",
+    "Business leaders",
+    "Hiring Managers",
+    "Teams across the organization"
+  ],
+  "scalability_features": [
+    "Ability to scale as the enterprise grows",
+    "Handles real-time changes at any size",
+    "Scalable architecture"
+  ],
+  "_weight": 1
+}

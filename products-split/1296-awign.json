@@ -1,0 +1,175 @@
+{
+  "id": 1296,
+  "name": "Awign",
+  "description": "\nAwign is India's largest work-as-a-service platform, helping enterprises run their business at scale through end-to-end management and outcome-based execution of core business functions. This is done through our mobile and distributed community of 1.5mn+ gig partners across 12,000+ pin codes in India. Our tech-driven solution allows enterprises to variabilize their fixed costs, optimize toplines and focus on business profitability. \n \n We work with enterprises to take up recurring business functions, such as auditing, due diligence, invigilation, proctoring, last-mile delivery, new business development, telecalling along with content & data operations. Our division for high-skill gig talent, Awign Expert helps enterprises hire high-skill talent on a contractual basis and manage the entire lifecycle of those professionals",
+  "features": [
+    "Business Development Outsourcing",
+    "Market Research",
+    "PAN India Operations",
+    "Influencer Marketing",
+    "Customer Acquisition"
+  ],
+  "founders": [
+    "Annanya Sarthak"
+  ],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Recruiting",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Job boards",
+    "Training eLearning software"
+  ],
+  "tags": [
+    "Hiring tools",
+    "Talent sourcing",
+    "Hiring automation",
+    "Recruiting",
+    "Interview scheduling"
+  ],
+  "headquarter": "Bengaluru, India",
+  "launch_date": "2016",
+  "order": 21120,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Awign Ek Mauke Anek",
+  "ProductId": null,
+  "ShortDescription": "Awign is India's largest work-as-a-service platform, helping enterprises run their business at scale through end-to-end management and outcome-based execution of core business functions.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Delivery Partner Jobs",
+      "sequence": 0,
+      "description": "Delivery Partner Jobs are a type of job advertised on Awign. The basic requirements to be a Delivery Partner Job are 18+ age, a 2 wheeler, and a Driving License. The pay is between \u20b920000 and \u20b925000 per month."
+    },
+    {
+      "name": "Exam Invigilator Jobs:",
+      "sequence": 1,
+      "description": "The document says that Exam Invigilator jobs require a minimum of a bachelor's degree and pay up to \u20b920,000 per month."
+    },
+    {
+      "name": "Other Job Opportunities",
+      "sequence": 2,
+      "description": "The document lists a variety of job opportunities including Delivery Partner, Exam Invigilator, and Field Survey."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:16.947Z",
+  "key_use_cases": [
+    "Outsourcing of core business functions (e.g., auditing, due diligence, invigilation, proctoring, last-mile delivery, new business development, telecalling, content operations, data operations)",
+    "Customer acquisition through distributed operations",
+    "Market research execution",
+    "Business development outsourcing",
+    "Executing PAN India operations",
+    "Influencer marketing campaign execution",
+    "Hiring high-skill talent on a contractual basis",
+    "End-to-end management of contractual professionals' lifecycle",
+    "Staffing for specific roles like Delivery Partner, Exam Invigilator, and Field Survey"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "competitive_advantages": [
+    "Positioned as India's largest work-as-a-service platform",
+    "Extensive network of 1.5 million+ gig partners across 12,000+ pin codes in India, enabling broad reach and scale",
+    "Tech-driven solution for efficient operations",
+    "Outcome-based execution model",
+    "Ability to variabilize fixed costs for enterprises",
+    "Expertise in managing the entire lifecycle of high-skill contractual professionals"
+  ],
+  "implementation_scenarios": [
+    "Managed service for specific business functions",
+    "Outsourcing solution for contingent workforce needs",
+    "Contractual talent acquisition and management"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Contingent Workforce Management",
+    "Hiring Automation",
+    "Talent Sourcing",
+    "Interview Scheduling"
+  ],
+  "roi_benefits": [
+    "Variabilize fixed costs",
+    "Optimize toplines (revenue)",
+    "Improve business profitability",
+    "Enable business operations at scale",
+    "Focus on core business functions by outsourcing non-core tasks"
+  ],
+  "searchable_keywords": [
+    "Awign",
+    "Work-as-a-service",
+    "Gig platform",
+    "Gig partners",
+    "Enterprise solutions",
+    "Outsourcing",
+    "Business functions outsourcing",
+    "Auditing",
+    "Due diligence",
+    "Invigilation",
+    "Proctoring",
+    "Last-mile delivery",
+    "New business development",
+    "Telecalling",
+    "Content operations",
+    "Data operations",
+    "Contractual hiring",
+    "High-skill talent",
+    "Contingent workforce",
+    "Business Development Outsourcing",
+    "Market Research",
+    "PAN India Operations",
+    "Influencer Marketing",
+    "Customer Acquisition",
+    "Recruiting",
+    "Recruiting software",
+    "Job boards",
+    "Hiring tools",
+    "Talent sourcing",
+    "Hiring automation",
+    "Interview scheduling",
+    "Delivery Partner jobs",
+    "Exam Invigilator jobs",
+    "Field Survey jobs",
+    "Gig economy India",
+    "Outcome-based services"
+  ],
+  "primary_users": [
+    "Enterprise Clients",
+    "Business Operations Leaders",
+    "HR Leaders",
+    "Procurement Leaders"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)",
+    "Managed Service"
+  ],
+  "scalability_features": [
+    "Extensive network of 1.5 million+ gig partners",
+    "Operations across 12,000+ pin codes in India",
+    "Designed to help enterprises run business at scale"
+  ],
+  "_weight": 1
+}

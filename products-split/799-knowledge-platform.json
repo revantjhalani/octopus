@@ -1,0 +1,161 @@
+{
+  "id": 799,
+  "name": "KNOWLEDGE PLATFORM",
+  "description": "Knowledge Platform is an education company that provides next-generation learning opportunities in Asia. Although Knowledge Platform started out as a corporate training company in 2000, it has progressively expanded and improved the scope of its solution to include a full spectrum of learning and education related services and products. Seventeen years after its incorporation, Knowledge Platform provides a complete learning solution: from designing learning strategies, to creating content, to deploying the technology, and providing support to teachers. Knowledge Platform has also implemented teacher and instructor training programs in Brunei, China, Indonesia, Pakistan, Qatar and Singapore.",
+  "features": [
+    "Full Media Custom Content",
+    "Learning Management System",
+    "E-Learning, Consulting Services"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training & development companies",
+    "Training eLearning software"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Employee engagement",
+    "Employee satisfaction"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "1999",
+  "order": 20752,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "A leading ed-tech company, providing holistic learning solutions in the form of strategy, content, technology & support.",
+  "ProductId": null,
+  "ShortDescription": "Knowledge Platform is an education company that provides next-generation learning opportunities in Asia.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Educational Technology Company in Southeast Asia",
+      "sequence": 0,
+      "description": "Knowledge Platform is a company in Southeast Asia that provides digital learning content and technology solutions. They collaborate with partners in the region to deliver educational materials."
+    },
+    {
+      "name": "Multilingual Educational Content",
+      "sequence": 1,
+      "description": "The company's team consists of members from various countries, allowing them to create educational content in multiple subjects, including science, English, and environmental literacy. This caters to a diverse audience and promotes multilingual learning."
+    },
+    {
+      "name": "Focus on Digital Learning Solutions",
+      "sequence": 2,
+      "description": "Knowledge Platform offers digital learning content and technology solutions, indicating a focus on providing educational resources through digital platforms. This can make learning more accessible and engaging for students."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:40.268Z",
+  "enhanced_description": "Knowledge Platform is a seasoned education technology (ed-tech) company, established in 1999, specializing in providing next-generation and holistic learning opportunities primarily across Asia, including Southeast Asia. Initially focused on corporate training, the company has evolved to offer a full spectrum of learning and education-related services and products. Their comprehensive solution encompasses designing learning strategies, creating full media custom content, deploying advanced learning technology (including a Learning Management System), and providing direct support to teachers and instructors. Knowledge Platform is particularly noted for its focus on digital learning solutions, enabling accessible and engaging educational experiences, and its capability to create multilingual educational content in various subjects like science, English, and environmental literacy, catering to a diverse regional audience. They have implemented teacher and instructor training programs in multiple countries such as Brunei, China, Indonesia, Pakistan, Qatar, and Singapore.",
+  "target_industries": [
+    "Corporate Training",
+    "Education"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerate Skill Development",
+    "Improve Learning Efficiency",
+    "Corporate Training & Development",
+    "E-learning Content Creation and Delivery",
+    "Learning Management System (LMS) Implementation",
+    "Learning Strategy Design and Consulting",
+    "Teacher and Instructor Training Programs",
+    "Digital Learning Solutions Deployment"
+  ],
+  "competitive_advantages": [
+    "Comprehensive end-to-end learning solution (strategy, content, technology, support)",
+    "Extensive experience and long-standing presence since 1999/2000",
+    "Specialization in next-generation and digital learning opportunities",
+    "Capability to create multilingual educational content for diverse audiences",
+    "Strong regional presence and expertise in Asia, particularly Southeast Asia"
+  ],
+  "implementation_scenarios": [
+    "Full-service learning solution implementation including strategy, content, and technology deployment",
+    "Consulting-led implementation of e-learning initiatives"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Training",
+    "Employee Engagement",
+    "Employee Satisfaction"
+  ],
+  "roi_benefits": [
+    "Accelerated Skill Development",
+    "Improved Learning Efficiency",
+    "Enhanced Training Effectiveness",
+    "Increased Employee Engagement",
+    "Higher Employee Satisfaction"
+  ],
+  "searchable_keywords": [
+    "Knowledge Platform",
+    "Education Company",
+    "Learning Opportunities",
+    "Asia",
+    "Corporate Training",
+    "Learning Solutions",
+    "Learning Strategy",
+    "Content Creation",
+    "Technology Deployment",
+    "Teacher Support",
+    "Instructor Training",
+    "Full Media Custom Content",
+    "Learning Management System",
+    "LMS",
+    "E-Learning",
+    "Consulting Services",
+    "Skill Development",
+    "Learning Efficiency",
+    "Training Effectiveness",
+    "Employee Engagement",
+    "Employee Satisfaction",
+    "Ed-Tech",
+    "Digital Learning",
+    "Multilingual Content",
+    "Southeast Asia",
+    "Online Learning",
+    "Training and Development"
+  ],
+  "primary_users": [
+    "Employees",
+    "Teachers",
+    "Instructors",
+    "Students",
+    "Learning & Development Professionals",
+    "HR Professionals"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "_weight": 1
+}

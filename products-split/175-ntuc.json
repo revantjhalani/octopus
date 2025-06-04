@@ -1,0 +1,152 @@
+{
+  "id": 175,
+  "name": "NTUC",
+  "description": "Pioneering workers' rights since 1961, the National Trades Union Congress (NTUC) unites 58 trade unions, seven trade associations, seven social enterprises, and other enterprise partners as we create better lives for workers here in Singapore. Our work cuts across the different ages and stages of life as we walk the ground and respond to everyday needs. We support workers by protecting them, transforming careers, managing costs, and nurturing relationships to improve wages, welfare, and work prospects.",
+  "features": [
+    "Build a strong, responsible, and caring Labour Movement.",
+    "Enhance the social status and well-being of our members and workers.",
+    "Help Singapore stay competitive, and workers remain employable."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Internet of things"
+  ],
+  "tags": [
+    "Workforce diversity",
+    "Workplace diversity"
+  ],
+  "headquarter": "Singapore, Singapore",
+  "launch_date": "1961",
+  "order": 20142,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Taking Action With You, For You \u2014 Because Every Worker Matters.",
+  "ProductId": null,
+  "ShortDescription": "The National Trades Union Congress (NTUC) is a national confederation of trade unions in the industrial, service and public sectors in Singapore. ",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Develop your career",
+      "sequence": 0,
+      "description": "Get a headstart, upgrade and upskill to stay relevant and competitive."
+    },
+    {
+      "name": "Protect your work rights",
+      "sequence": 1,
+      "description": "Tap on support and advisory services to safeguard your interests."
+    },
+    {
+      "name": "Care for your family and health",
+      "sequence": 2,
+      "description": "Gain access to benefits for every family member."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:56.600Z",
+  "enhanced_description": "The National Trades Union Congress (NTUC), established in 1961, is a national confederation of 58 trade unions, seven trade associations, seven social enterprises, and other enterprise partners in Singapore. Serving workers across industrial, service, and public sectors, NTUC is dedicated to creating better lives for workers by protecting their rights, transforming careers through upskilling and development, managing costs, and nurturing relationships to improve wages, welfare, and overall work prospects. A core objective is to build a more diverse and inclusive workforce and to enhance the social status and well-being of its members, ultimately helping Singapore remain competitive and its workers employable.",
+  "target_industries": [
+    "Industrial",
+    "Service",
+    "Public Sector"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Protecting workers' rights and interests through support and advisory services.",
+    "Facilitating career development, upgrading, and upskilling for workers to enhance employability.",
+    "Improving workers' wages, welfare, and work prospects.",
+    "Providing access to family and health benefits for workers and their families.",
+    "Promoting and building a more diverse and inclusive workforce.",
+    "Supporting the competitiveness of Singapore's workforce."
+  ],
+  "competitive_advantages": [
+    "Long-standing history and experience in workers' rights advocacy since 1961.",
+    "Extensive national network uniting 58 trade unions, trade associations, and social enterprises.",
+    "Comprehensive support for workers covering rights protection, career transformation, cost management, and relationship nurturing."
+  ],
+  "hr_functions_supported": [
+    "Employee Relations",
+    "Labor Relations",
+    "Learning & Development",
+    "Talent Management",
+    "Benefits Administration",
+    "Employee Well-being",
+    "Compensation",
+    "Workforce Planning",
+    "Diversity, Equity & Inclusion (DE&I)"
+  ],
+  "roi_benefits": [
+    "Improved worker wages, welfare, and overall work prospects.",
+    "Enhanced social status and well-being for members and workers.",
+    "Increased worker employability and competitiveness.",
+    "Better protection of work rights for employees.",
+    "Access to career development, upgrading, and upskilling opportunities.",
+    "Access to benefits for family and health care.",
+    "Contribution to building a diverse and inclusive workforce."
+  ],
+  "searchable_keywords": [
+    "NTUC",
+    "National Trades Union Congress",
+    "Singapore",
+    "workers' rights",
+    "trade unions",
+    "labour movement",
+    "worker well-being",
+    "career development",
+    "upskilling",
+    "work prospects",
+    "employee welfare",
+    "wages",
+    "industrial sector",
+    "service sector",
+    "public sector",
+    "workforce diversity",
+    "workplace diversity",
+    "employee employability",
+    "worker protection",
+    "labour relations",
+    "employee benefits",
+    "family care",
+    "health benefits",
+    "advisory services",
+    "talent development",
+    "human resources"
+  ],
+  "primary_users": [
+    "Workers",
+    "Union Members"
+  ],
+  "compliance_features": [
+    "Support for safeguarding workers' rights and interests, implying adherence to labour laws and regulations."
+  ],
+  "_weight": 1
+}

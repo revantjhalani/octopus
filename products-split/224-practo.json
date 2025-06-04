@@ -1,0 +1,148 @@
+{
+  "id": 224,
+  "name": "Practo",
+  "description": "As India's leading integrated healthcare company, Practo has been on a mission to make quality healthcare accessible and affordable to all by connecting the entire healthcare ecosystem including patients, doctors, clinics, hospitals, pharmacies, and diagnostics in a seamless and cohesive manner. Practo effortlessly streamlines the patient's healthcare journey right from primary healthcare, viz. finding and booking an appointment with verified doctors, consulting doctors online with ETA as low as 60 seconds, getting medicines delivered and lab tests conducted at home, providing health plans to corporates, to secondary healthcare procedures.",
+  "features": [
+    "Comprehensive medical directory",
+    "Online appointment booking ",
+    "Subscription-based health plans"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Benefits administration software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee happiness",
+    "Employee happiness programs",
+    "Employee satisfaction",
+    "Employee well being",
+    "Employee benefits",
+    "Company culture",
+    "Employee happiness metrics"
+  ],
+  "headquarter": "Bangalore, Karnataka",
+  "launch_date": "2008",
+  "order": 20190,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Your Workplace Health and Wellness Partner",
+  "ProductId": null,
+  "ShortDescription": "Making quality healthcare affordable and accessible to over a billion+ Indians",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Connect",
+      "sequence": 0,
+      "description": "We understand healthcare goes beyond signs, symptoms, diagnosis, and treatment."
+    },
+    {
+      "name": "Trust",
+      "sequence": 1,
+      "description": "We are aware of the responsibility placed on us by 30 crore+ patients and over a lakh doctors. "
+    },
+    {
+      "name": "Transparency",
+      "sequence": 2,
+      "description": "We believe in communicating openly and honestly, and holding ourselves to the highest ethical standards."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:43.059Z",
+  "enhanced_description": "Practo, India's leading integrated healthcare company, is dedicated to making quality healthcare accessible and affordable for all. It seamlessly connects the entire healthcare ecosystem, including patients, doctors, clinics, hospitals, pharmacies, and diagnostics. The platform streamlines the patient's healthcare journey from primary care, offering features like finding and booking appointments with verified doctors, online consultations with an ETA as low as 60 seconds, and at-home services for medicine delivery and lab tests, to secondary healthcare procedures. Positioned as 'Your Workplace Health and Wellness Partner', Practo also extends its services to corporates by providing health plans, functioning as a corporate wellness software, benefits administration software, and health & safety provider, with a core business objective to improve employee happiness and engagement.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Finding and booking appointments with verified doctors",
+    "Online doctor consultations",
+    "At-home medicine delivery",
+    "At-home lab test collection",
+    "Provision of health plans to corporates",
+    "Corporate wellness program management",
+    "Employee benefits administration",
+    "Employee health and safety provision"
+  ],
+  "competitive_advantages": [
+    "India's leading integrated healthcare company status",
+    "Comprehensive ecosystem integration (patients, doctors, clinics, hospitals, pharmacies, diagnostics)",
+    "Fast online doctor consultation (ETA as low as 60 seconds)",
+    "High user and provider trust (30 crore+ patients and over a lakh doctors)",
+    "Commitment to transparency and ethical standards"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards",
+    "Corporate Wellness",
+    "Benefits Administration",
+    "Employee Health & Safety",
+    "Employee Engagement"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Enhanced accessibility and affordability of healthcare for employees",
+    "Streamlined healthcare journey for individuals",
+    "Increased employee well-being and satisfaction"
+  ],
+  "searchable_keywords": [
+    "Practo",
+    "healthcare",
+    "integrated healthcare",
+    "medical directory",
+    "online appointment booking",
+    "doctor consultation",
+    "online doctor",
+    "medicine delivery",
+    "lab tests",
+    "health plans",
+    "corporate health",
+    "corporate wellness software",
+    "benefits administration software",
+    "health & safety providers",
+    "employee happiness",
+    "employee well-being",
+    "employee benefits",
+    "employee satisfaction",
+    "company culture",
+    "workplace wellness",
+    "India healthcare"
+  ],
+  "primary_users": [
+    "Patients",
+    "Doctors",
+    "Clinics",
+    "Hospitals",
+    "Pharmacies",
+    "Diagnostic Centers",
+    "Corporates (HR/Benefits teams)",
+    "Employees"
+  ],
+  "_weight": 1
+}

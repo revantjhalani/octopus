@@ -1,0 +1,185 @@
+{
+  "id": 308,
+  "name": "Talview",
+  "description": "Talview\u2019s award-winning Talent Measurement Platform seamlessly orchestrates talent workflows for screening, interviews, assessments, and proctoring. Organizations looking to make more efficient, effective, and intelligent decisions throughout the talent lifecycle can now access a single, AI-powered platform that helps them do that. With a 360-degree view of talent potential, you can make quick, confident and bias-free decisions to provide an equal opportunity for all.",
+  "features": [
+    "Digital Interviews",
+    "Psychometric Assessments",
+    "Recruitment Automation Software"
+  ],
+  "founders": [
+    "Jobin Jose"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Video interviewing software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Data-driven hiring",
+    "Recruiting",
+    "Hiring speed",
+    "Hiring efficiency"
+  ],
+  "headquarter": "San Mateo, California",
+  "launch_date": "2017",
+  "order": 20270,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Gen AI-Powered Interviewing and Proctoring Platform for Hiring & Exam Delivery",
+  "ProductId": null,
+  "ShortDescription": "Talview believes every person deserves the right to realize their full potential both academically and professionally. That\u2019s why hundreds of thousands of recruiters and education services leaders in more than 120 countries trust Talview to reimagine, humanize, and democratize their large-scale hiring and credentialing processes.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Live Interview Rooms",
+      "sequence": 0,
+      "description": "Experience the simplicity of smooth live video interviews on our all-in-one platform. Identify proxy candidates using face and voice authentication Switch to coding editor for instant skill assessment Ensure interview consistency with our real-time builder "
+    },
+    {
+      "name": "Assessments",
+      "sequence": 1,
+      "description": "Discover the ultimate screening solution with our extensive array of assessments, covering 500+ job-specific skills.  2,000+ unique assessments Comprehensive assessment library that can be tailored to meet your specific requirements"
+    },
+    {
+      "name": "Remote Proctoring",
+      "sequence": 2,
+      "description": "Explore the capabilities of our AI-driven remote proctoring to safeguard the integrity of your exams. Secondary camera for a comprehensive view of the test-taker Pick from Automated, Live or Record & Review Highly scalable"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:59.283Z",
+  "enhanced_description": "Talview offers an award-winning, Gen AI-powered Talent Measurement Platform designed to seamlessly orchestrate talent workflows across screening, digital interviews, psychometric assessments, and remote proctoring. This single, AI-powered platform provides a 360-degree view of talent potential, enabling organizations to make quick, confident, and bias-free decisions for hiring and exam delivery, promoting equal opportunity. Trusted by recruiters and education services leaders in over 120 countries, Talview helps humanize and democratize large-scale hiring and credentialing processes by facilitating smoother live video interviews with features like face and voice authentication and coding editors, offering an extensive library of over 2,000 job-specific skill assessments, and providing highly scalable AI-driven remote proctoring options (Automated, Live, or Record & Review) to safeguard exam integrity.",
+  "target_industries": [
+    "Education services",
+    "Any industry engaged in large-scale hiring"
+  ],
+  "key_use_cases": [
+    "Talent screening",
+    "Digital interviews",
+    "Live video interviews with instant skill assessment",
+    "Psychometric assessments",
+    "Job-specific skill assessments",
+    "Remote proctoring for exams and assessments",
+    "Orchestrating talent workflows",
+    "Large-scale hiring processes",
+    "Credentialing processes",
+    "Identifying proxy candidates during interviews/assessments",
+    "Ensuring interview consistency"
+  ],
+  "competitive_advantages": [
+    "Gen AI-Powered platform",
+    "Single, unified platform for screening, interviews, assessments, and proctoring",
+    "360-degree view of talent potential",
+    "Enables quick, confident, and bias-free hiring decisions",
+    "Supports equal opportunity initiatives",
+    "Award-winning Talent Measurement Platform",
+    "Seamless orchestration of talent workflows",
+    "Extensive assessment library with over 500 job-specific skills and 2,000 unique, customizable assessments",
+    "AI-driven remote proctoring with multiple modes (Automated, Live, Record & Review) and secondary camera view",
+    "Face and voice authentication for integrity and proxy candidate detection",
+    "Integrated coding editor for instant skill assessment during live interviews",
+    "Real-time builder for interview consistency",
+    "Highly scalable proctoring solution"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Candidate Screening",
+    "Interview Management",
+    "Assessment Management",
+    "Employee Selection"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Generative AI (Gen AI)",
+    "Face authentication",
+    "Voice authentication",
+    "Video conferencing technology",
+    "Coding environment"
+  ],
+  "roi_benefits": [
+    "Increased hiring manager confidence",
+    "Improved hiring manager productivity",
+    "Faster hiring cycle",
+    "More efficient hiring processes",
+    "Ability to hire top talent",
+    "More effective and intelligent talent decisions",
+    "Reduced bias in hiring decisions",
+    "Enhanced integrity of exams and assessments"
+  ],
+  "searchable_keywords": [
+    "Talview",
+    "Talent Measurement Platform",
+    "Talent workflows",
+    "Screening software",
+    "Interviewing software",
+    "Digital interviews",
+    "Video interviewing software",
+    "Psychometric assessments",
+    "Skill assessments",
+    "Remote proctoring software",
+    "Exam proctoring",
+    "AI-powered hiring",
+    "Gen AI hiring",
+    "Recruitment automation",
+    "Recruiting software",
+    "Data-driven hiring",
+    "Hiring speed",
+    "Hiring efficiency",
+    "Live interview rooms",
+    "Face authentication",
+    "Voice authentication",
+    "Coding editor",
+    "Assessment library",
+    "Credentialing software",
+    "Large-scale hiring",
+    "Bias-free hiring",
+    "Equal opportunity hiring",
+    "Talent acquisition",
+    "Human resources technology"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Hiring Managers",
+    "Education Services Leaders",
+    "HR Professionals"
+  ],
+  "scalability_features": [
+    "Highly scalable remote proctoring",
+    "Designed for large-scale hiring and credentialing processes"
+  ],
+  "security_features": [
+    "Face authentication for proxy detection",
+    "Voice authentication for proxy detection",
+    "AI-driven proctoring to safeguard exam integrity",
+    "Secondary camera support for comprehensive proctoring view"
+  ],
+  "_weight": 1
+}

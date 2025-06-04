@@ -1,0 +1,149 @@
+{
+  "id": 132,
+  "name": "Lumenore",
+  "description": "\nChatGPT\nDiscover Lumenore: Your partner in democratizing data-driven decision-making. Our all-in-one analytics platform integrates diverse data sources into a unified, intuitive interface. Enjoy no-code actionable insights, 50+ connectors, and advanced analytics tools for swift, informed decisions. Empower your team with real-time visualizations and predictive analytics, driving unparalleled business growth and efficiency. Experience the future of analytics with Lumenore today.",
+  "features": [
+    "Predictive Intelligence",
+    "Self-Service Analytics",
+    "Conversational Intelligence"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Data-driven hiring",
+    "Hiring analytics"
+  ],
+  "headquarter": " Madison Heights, Michigan",
+  "launch_date": "2013",
+  "order": 20099,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Lumenore Unifies your Data Teams",
+  "ProductId": null,
+  "ShortDescription": "An end-to-end decision intelligence platform that drives business growth.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Unified Data Truth",
+      "sequence": 0,
+      "description": "Integrate all sources into one truth with ready-to-use connectors and rapid data refresh, enhancing performance with large volumes."
+    },
+    {
+      "name": "AI Automated Insights",
+      "sequence": 1,
+      "description": "Analyze your data with complex machine learning models easily, without being a data scientist."
+    },
+    {
+      "name": "Powerful Analytics, Simplified",
+      "sequence": 2,
+      "description": "Get crucial insights with a few clicks for faster analysis and decision-making without needing technical expertise."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:01.529Z",
+  "enhanced_description": "Lumenore is an all-in-one, end-to-end decision intelligence and analytics platform designed to democratize data-driven decision-making. It unifies diverse data sources into a single truth using over 50 ready-to-use connectors and rapid data refresh, enhancing performance even with large data volumes. The platform offers no-code actionable insights through powerful self-service analytics and AI-automated insights, enabling users to leverage complex machine learning models and predictive intelligence without requiring data science or extensive technical expertise. With real-time visualizations, conversational intelligence, and simplified analysis, Lumenore empowers teams to make swift, informed decisions, driving unparalleled business growth and efficiency.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Democratizing data-driven decision-making",
+    "Unifying diverse data sources into a single source of truth",
+    "Generating AI-automated insights from complex data",
+    "Performing self-service data analytics without technical expertise",
+    "Enabling predictive analytics for future insights",
+    "Driving business growth and efficiency through data insights",
+    "Boosting hiring manager confidence and productivity through data analytics"
+  ],
+  "competitive_advantages": [
+    "All-in-one unified analytics platform",
+    "Extensive data integration with 50+ ready-to-use connectors",
+    "No-code and simplified analytics for non-technical users",
+    "AI-automated insights and complex machine learning model utilization without data science expertise",
+    "Predictive intelligence capabilities",
+    "Real-time data visualization",
+    "Conversational intelligence for data interaction",
+    "Efficiently handles large data volumes"
+  ],
+  "hr_functions_supported": [
+    "Hiring Analytics",
+    "Data-driven Hiring"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence",
+    "Machine Learning"
+  ],
+  "integration_capabilities": [
+    "Integrates diverse data sources via 50+ ready-to-use connectors"
+  ],
+  "roi_benefits": [
+    "Improved decision-making speed and quality",
+    "Increased business growth and efficiency",
+    "Enhanced hiring manager confidence and productivity",
+    "Democratization of data-driven insights across the organization"
+  ],
+  "searchable_keywords": [
+    "Lumenore",
+    "analytics platform",
+    "data-driven decision-making",
+    "data integration",
+    "no-code analytics",
+    "actionable insights",
+    "connectors",
+    "advanced analytics",
+    "real-time visualizations",
+    "predictive analytics",
+    "business growth",
+    "efficiency",
+    "decision intelligence",
+    "predictive intelligence",
+    "self-service analytics",
+    "conversational intelligence",
+    "artificial intelligence",
+    "data-driven hiring",
+    "hiring analytics",
+    "unified data truth",
+    "AI automated insights",
+    "machine learning",
+    "unified data teams"
+  ],
+  "primary_users": [
+    "Business users",
+    "Non-technical users",
+    "Hiring Managers",
+    "Data Teams"
+  ],
+  "scalability_features": [
+    "Enhanced performance with large volumes of data"
+  ],
+  "_weight": 1
+}

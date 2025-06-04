@@ -1,0 +1,175 @@
+{
+  "id": 406,
+  "name": "Altudo",
+  "description": "Altudo specializes in enhancing customer experience through personalized engagement, leveraging its expertise as a Sitecore Platinum partner. With a team of over 500 professionals across 9 locations and numerous certifications, including 8 Sitecore MVPs, Altudo has completed 2000+ projects for 200+ clients, including 45 Fortune 500 companies. Their focus spans CX strategy, marketing automation, and data analytics to drive significant ROI for clients through their MarTech solutions.",
+  "features": [
+    "Trusted by Top Brands",
+    "Recognized by the Experts",
+    "MarTech Ecosystem"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Software and Services Related to HR Software",
+    "Machine learning HR"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "New York, New York",
+  "launch_date": "1999",
+  "order": 20367,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Empowering Growth through Personalization, CX Excellence, and Digital Ecosystem Synergy",
+  "ProductId": null,
+  "ShortDescription": "We help enterprises transform digital ecosystems and thrive across customer touch points",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Trusted by Top Brands",
+      "sequence": 0,
+      "description": "45+ fortune 500 brands served."
+    },
+    {
+      "name": "MarTech Ecosystem",
+      "sequence": 1,
+      "description": "20+ partnerships to help you scale."
+    },
+    {
+      "name": "2000+ Projects Delivered",
+      "sequence": 2,
+      "description": "Across 7 Global locations."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:26:27.593Z",
+  "enhanced_description": "Altudo is a global digital transformation and CX (Customer Experience) agency that leverages its deep expertise in personalized engagement, marketing automation, and data analytics to deliver significant ROI for clients. As a Sitecore Platinum partner with a team of over 500 professionals, 8 Sitecore MVPs, and operations across 9 global locations, Altudo has successfully completed more than 2000 projects for over 200 clients, including 45 Fortune 500 companies. While their core strength lies in transforming digital ecosystems and optimizing customer touchpoints through MarTech solutions, their services are also applied to HR technology challenges. Altudo aims to help enterprises in talent acquisition by leveraging AI and machine learning to drive efficiency, boost hiring manager confidence, and reduce the cost of hiring qualified employees through data-driven and automated approaches.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Enhancing customer experience through personalized engagement",
+    "CX strategy development and implementation",
+    "Marketing automation implementation and optimization",
+    "Data analytics for business insights",
+    "Digital ecosystem transformation",
+    "Talent acquisition process optimization",
+    "Boosting hiring manager productivity and confidence",
+    "Reducing hiring costs",
+    "Implementing AI and Machine Learning in HR workflows",
+    "Personalized candidate experience"
+  ],
+  "competitive_advantages": [
+    "Sitecore Platinum partner status",
+    "Team of over 500 professionals and 8 Sitecore MVPs",
+    "Extensive project experience (2000+ projects delivered)",
+    "Strong client base including 45 Fortune 500 companies",
+    "Global presence across 9 locations",
+    "Strong MarTech ecosystem with 20+ partnerships",
+    "Expert recognition (implied by MVPs and partnerships)",
+    "Established company (launched 1999)"
+  ],
+  "implementation_scenarios": [
+    "Consulting and implementation services for digital transformation initiatives",
+    "Project-based engagements for MarTech and HR technology solutions"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Hiring Process Optimization",
+    "Hiring Automation",
+    "HR Data Analytics",
+    "Candidate Experience Management"
+  ],
+  "technology_stack": [
+    "Sitecore",
+    "Artificial Intelligence (AI)",
+    "Machine Learning (ML)",
+    "MarTech Solutions"
+  ],
+  "integration_capabilities": [
+    "Integration within MarTech ecosystems (20+ partnerships)",
+    "Sitecore platform integration"
+  ],
+  "roi_benefits": [
+    "Driving significant ROI for clients",
+    "Hiring top talent faster and more efficiently",
+    "Boosting hiring manager confidence and productivity",
+    "Reducing the cost of hiring qualified employees"
+  ],
+  "searchable_keywords": [
+    "Altudo",
+    "Customer Experience",
+    "CX",
+    "Personalized Engagement",
+    "Sitecore",
+    "Marketing Automation",
+    "Data Analytics",
+    "MarTech",
+    "Digital Transformation",
+    "Digital Ecosystems",
+    "Talent Acquisition",
+    "Hiring Best Practices",
+    "Hiring Process Optimization",
+    "Talent Acquisition Costs",
+    "Hiring Automation",
+    "Data-driven Hiring",
+    "Artificial Intelligence",
+    "AI",
+    "Machine Learning",
+    "ML",
+    "HR Technology",
+    "HR Software",
+    "HR Services",
+    "Enterprise Solutions",
+    "Global",
+    "Consulting",
+    "Candidate Experience"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "Recruitment Teams",
+    "Hiring Managers",
+    "Marketing Teams (within client organizations)",
+    "Digital Transformation Leads (within client organizations)"
+  ],
+  "scalability_features": [
+    "Leveraging 20+ partnerships to help clients scale",
+    "Focus on enabling growth through digital ecosystem transformation"
+  ],
+  "_weight": 1
+}

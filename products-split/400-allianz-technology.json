@@ -1,0 +1,173 @@
+{
+  "id": 400,
+  "name": "Allianz technology",
+  "description": "With its headquarters in Munich, Germany, Allianz Technology is Allianz's global IT service provider and delivers IT solutions that drive the group's digitalization. With more than 13,000 employees in more than 20 countries around the world, Allianz Technology is tasked to run, optimize, transform, and innovate the infrastructure, applications, and services together with Allianz companies to co-create the best customer experience.\n",
+  "features": [
+    "Transitional Applications & Decommissioning",
+    "Finance, Actuarial, Investment, Procurement & Reporting",
+    "Business Intelligence, Big Data & AI"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee satisfaction",
+    "Employee empowerment"
+  ],
+  "headquarter": "Unterf\u00f6hring, Bavaria",
+  "launch_date": "2010",
+  "order": 20361,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Let's care for tomorrow. You. IT",
+  "ProductId": null,
+  "ShortDescription": "Leading the digital transformation of the financial services industrital.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Hybrid Cloud Services",
+      "sequence": 0,
+      "description": "We are driving the transformation of the Allianz Cloud Journey with our wide range of infrastructure business and technical services."
+    },
+    {
+      "name": "Information Security",
+      "sequence": 1,
+      "description": "We bundle all security operations related responsibilities to ensure end-to-end coverage and protection for the Allianz Group. "
+    },
+    {
+      "name": "Blockchain",
+      "sequence": 2,
+      "description": "We bring real, tangible business value for Allianz by using the emerging technology like blockchain."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:26:16.521Z",
+  "enhanced_description": "Allianz Technology, headquartered in Unterf\u00f6hring, Bavaria, and launched in 2010, serves as Allianz's global IT service provider. With over 13,000 employees operating in more than 20 countries, it is tasked with leading the digital transformation of the financial services industry. The company runs, optimizes, transforms, and innovates the IT infrastructure, applications, and services in collaboration with Allianz companies to co-create the best customer experience. Its core offerings include managing transitional applications and decommissioning legacy systems, providing solutions for finance, actuarial, investment, procurement, and reporting functions, and leveraging Business Intelligence, Big Data, and AI. Additionally, Allianz Technology drives the Allianz Cloud Journey through Hybrid Cloud Services, ensures end-to-end Information Security operations, and brings tangible business value using emerging technologies like Blockchain. A key business objective for Allianz Technology is to improve employee happiness and engagement within the Allianz Group.",
+  "target_industries": [
+    "Financial Services"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "IT infrastructure management and optimization",
+    "Application transformation and innovation",
+    "Legacy application decommissioning",
+    "Financial systems management (Actuarial, Investment, Procurement, Reporting)",
+    "Business intelligence and data analytics solutions",
+    "Artificial intelligence development and implementation",
+    "Hybrid cloud strategy and implementation",
+    "Information security operations and protection",
+    "Blockchain technology integration for business applications"
+  ],
+  "competitive_advantages": [
+    "Global IT service provider with extensive reach (13,000+ employees in 20+ countries)",
+    "Deep expertise and focus on digital transformation within the financial services industry",
+    "Comprehensive IT lifecycle management capabilities (run, optimize, transform, innovate)",
+    "Advanced capabilities in Hybrid Cloud, Information Security, Blockchain, Business Intelligence, Big Data, and AI",
+    "Dedicated to improving employee happiness and engagement within its parent group"
+  ],
+  "implementation_scenarios": [
+    "Internal IT transformation projects for a global financial services group",
+    "Deployment of IT solutions across various business units and geographies within a large enterprise"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Employee Happiness",
+    "Employee Empowerment",
+    "HR Technology Support"
+  ],
+  "technology_stack": [
+    "Business Intelligence",
+    "Big Data",
+    "Artificial Intelligence",
+    "Hybrid Cloud",
+    "Blockchain"
+  ],
+  "roi_benefits": [
+    "Accelerated digitalization and digital transformation within the financial services sector",
+    "Improved operational efficiency through optimized IT infrastructure and applications",
+    "Enhanced customer experience through innovative IT solutions",
+    "Increased employee happiness and engagement within the group",
+    "Leveraging emerging technologies for tangible business value"
+  ],
+  "searchable_keywords": [
+    "Allianz Technology",
+    "IT service provider",
+    "digitalization",
+    "digital transformation",
+    "financial services IT",
+    "global IT services",
+    "IT infrastructure",
+    "application management",
+    "transitional applications",
+    "application decommissioning",
+    "finance IT solutions",
+    "actuarial IT",
+    "investment IT",
+    "procurement IT",
+    "reporting solutions",
+    "business intelligence",
+    "big data",
+    "artificial intelligence",
+    "AI solutions",
+    "hybrid cloud",
+    "information security",
+    "cybersecurity",
+    "blockchain technology",
+    "employee engagement IT",
+    "employee satisfaction IT",
+    "employee empowerment IT",
+    "HR technology",
+    "Munich"
+  ],
+  "primary_users": [
+    "Allianz Group employees",
+    "IT departments within Allianz",
+    "Finance professionals",
+    "Actuarial professionals",
+    "Investment professionals",
+    "Procurement professionals",
+    "HR professionals"
+  ],
+  "scalability_features": [
+    "Designed to support global enterprise operations across 20+ countries",
+    "Scalable IT infrastructure and application management through Hybrid Cloud Services"
+  ],
+  "security_features": [
+    "End-to-end information security operations",
+    "Comprehensive protection for Allianz Group's IT landscape"
+  ],
+  "_weight": 1
+}

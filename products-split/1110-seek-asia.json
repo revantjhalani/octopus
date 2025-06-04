@@ -1,0 +1,117 @@
+{
+  "id": 1110,
+  "name": "SEEK Asia",
+  "description": "Founded in 1997, SEEK has evolved into a leading tech company, investing in technology to create innovative products, which connect people with jobs and employers with talent in the most efficient way possible. From its origins in Australia, the ASX-listed company has expanded globally and now has a strong international presence in Asia, where it operates the leading online employment marketplaces Jobstreet and Jobsdb. SEEK also has operations across New Zealand, Latin America and holds minority investments in Korea (JobKorea) and Bangladesh (Bdjobs).",
+  "features": [
+    "Support for parents",
+    "Coverage for dependents",
+    "Mental health support"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Recruiting",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Learning & Development"
+  ],
+  "tags": [
+    "Training methodologies",
+    "Skill acquisition"
+  ],
+  "headquarter": "Kuala Lumpur City, Federal Territory of Kuala Lumpur",
+  "launch_date": "1997",
+  "order": 21053,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "We help people live more fulfilling and productive working lives and help organisations succeed.",
+  "ProductId": null,
+  "ShortDescription": "Founded in 1997, SEEK has evolved into a leading tech company, investing in technology to create innovative products, which connect people with jobs and employers with talent in the most efficient way possible.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:40:45.613Z",
+  "enhanced_description": "Founded in 1997, SEEK Asia operates as a leading technology company and online employment marketplace, primarily connecting job seekers with opportunities and employers with talent across Asia, notably through its prominent platforms Jobstreet and Jobsdb. Beyond recruitment software, SEEK Asia's offerings extend into learning and development solutions, aimed at accelerating skill development and improving learning efficiency, leveraging modern training methodologies and techniques for skill acquisition. The company maintains a strong international presence, with operations spanning New Zealand, Latin America, and strategic investments in Korea (JobKorea) and Bangladesh (Bdjobs).",
+  "key_use_cases": [
+    "Facilitating job matching between candidates and employers",
+    "Sourcing and attracting talent for employers",
+    "Providing online platforms for job search and application",
+    "Supporting employee skill development initiatives",
+    "Enhancing organizational learning efficiency"
+  ],
+  "competitive_advantages": [
+    "Market leadership in online employment marketplaces in Asia (Jobstreet and Jobsdb)",
+    "Strong international and regional presence in Asia, New Zealand, and Latin America",
+    "Technology-driven approach for innovative product development",
+    "Stated efficiency in connecting job seekers and employers"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Learning and Development",
+    "Training",
+    "Skill Management"
+  ],
+  "roi_benefits": [
+    "Increased efficiency in talent acquisition and job matching processes",
+    "Accelerated employee skill development",
+    "Enhanced organizational learning efficiency"
+  ],
+  "searchable_keywords": [
+    "SEEK Asia",
+    "Jobstreet",
+    "Jobsdb",
+    "Online employment marketplace",
+    "Job portal",
+    "Recruitment",
+    "Recruiting software",
+    "Talent acquisition",
+    "Job matching",
+    "Employer solutions",
+    "Job seeker solutions",
+    "Learning and Development",
+    "L&D",
+    "Skill development",
+    "Learning efficiency",
+    "Training methodologies",
+    "Skill acquisition",
+    "HR tech",
+    "HR technology",
+    "Asia jobs",
+    "Global recruitment"
+  ],
+  "primary_users": [
+    "Job seekers",
+    "Employers",
+    "HR Professionals",
+    "Learning & Development Professionals"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "_weight": 1
+}

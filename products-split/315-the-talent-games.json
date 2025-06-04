@@ -1,0 +1,171 @@
+{
+  "id": 315,
+  "name": "The Talent Games",
+  "description": "An award-winning HR Technology company that empowers recruiting teams with gamified virtual hiring solutions. We're helping organizations attract, assess and hire top candidates remotely with online gamified assessments. We gamify and digitize the HR recruitment processes by combining Gamification and Neuroscience. Our technology stacks and games are EU data and GDPR compliant, we also have the ISO certification to our name. Till date, we have conducted 750,000+ candidate assessments for more than 50 clients across Asia, Africa, Oceania and Europe. Some of our clients are: Shell, Nestl\u00e9, Masan Group, IHH Healthcare Singapore, Novartis, Coca Cola, Bank Alfalah, Pfizer, FrieslandCampina Engro and CitiBank.",
+  "features": [
+    "Reduced Time-to-Hire",
+    "Lower Candidate Drop-Off",
+    "Superior Candidate Experience"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Total Rewards",
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Employee recognition software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning speed"
+  ],
+  "headquarter": "Fredericton, New Brunswick",
+  "launch_date": "2016",
+  "order": 20277,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Attract, Assess & Hire Talent\n with Online Gamified Recruitment",
+  "ProductId": null,
+  "ShortDescription": "An award-winning HR Technology company that empowers recruiting teams with gamified virtual hiring solutions. We're helping organizations attract, assess and hire top candidates remotely with online gamified assessments.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Cheat-Proof Tests",
+      "sequence": 0,
+      "description": "Ensuring rigorous safety, test integrity, and candidate performance."
+    },
+    {
+      "name": "In-depth Analytics",
+      "sequence": 1,
+      "description": "Take better hiring decisions with in-depth analytics."
+    },
+    {
+      "name": "Secured Platform",
+      "sequence": 2,
+      "description": "Robust data protection to safeguard sensitive information."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:05.478Z",
+  "enhanced_description": "The Talent Games is an award-winning HR Technology company specializing in gamified virtual hiring solutions. It empowers recruiting teams to attract, assess, and hire top candidates remotely through online gamified assessments. The platform digitizes HR recruitment processes by combining Gamification and Neuroscience, ensuring cheat-proof tests, in-depth analytics for better hiring decisions, and a secured platform with robust data protection. The technology is EU data and GDPR compliant and ISO certified. The company has successfully conducted over 750,000 candidate assessments for more than 50 clients globally, including Shell, Nestl\u00e9, Novartis, Coca Cola, and CitiBank, across Asia, Africa, Oceania, and Europe.",
+  "target_industries": [
+    "Energy",
+    "FMCG",
+    "Healthcare",
+    "Pharmaceuticals",
+    "Banking & Financial Services"
+  ],
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Remote Candidate Attraction",
+    "Online Candidate Assessment",
+    "Virtual Hiring Solutions",
+    "Improving Candidate Experience",
+    "Reducing Recruitment Cycle Time",
+    "Ensuring Assessment Integrity",
+    "Data-driven Hiring Decisions"
+  ],
+  "competitive_advantages": [
+    "Award-winning HR Technology company",
+    "Proprietary blend of Gamification and Neuroscience",
+    "Proven track record with 750,000+ candidate assessments globally",
+    "EU data and GDPR compliant",
+    "ISO certified",
+    "Ability to ensure cheat-proof tests",
+    "Provides in-depth analytics for hiring decisions",
+    "Focus on superior candidate experience",
+    "Demonstrated ability to reduce time-to-hire and candidate drop-off"
+  ],
+  "implementation_scenarios": [
+    "Remote Recruitment Programs",
+    "Online Candidate Assessment Programs"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Candidate Assessment"
+  ],
+  "roi_benefits": [
+    "Reduced Time-to-Hire",
+    "Lower Candidate Drop-Off",
+    "Superior Candidate Experience",
+    "Improved Hiring Efficiency",
+    "Enhanced Candidate Engagement",
+    "Data-Driven Decision Making in Recruitment"
+  ],
+  "searchable_keywords": [
+    "HR Tech",
+    "Recruitment",
+    "Gamified Assessment",
+    "Virtual Hiring",
+    "Online Assessment",
+    "Talent Acquisition",
+    "Candidate Experience",
+    "Time-to-Hire",
+    "Candidate Drop-Off",
+    "Gamification",
+    "Neuroscience in HR",
+    "GDPR Compliant HR",
+    "ISO Certified HR Tech",
+    "Remote Hiring",
+    "Talent Games",
+    "Skill Development",
+    "Learning Efficiency",
+    "Cheat-Proof Assessments",
+    "Hiring Analytics",
+    "Secure HR Platform",
+    "Total Rewards",
+    "Employee Recognition Software"
+  ],
+  "primary_users": [
+    "Recruiting Teams",
+    "Hiring Managers",
+    "HR Professionals"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "SaaS"
+  ],
+  "compliance_features": [
+    "GDPR Compliance",
+    "EU Data Compliance",
+    "ISO Certification"
+  ],
+  "scalability_features": [
+    "Proven ability to conduct high volumes of candidate assessments (750,000+)",
+    "Supports a global client base across Asia, Africa, Oceania, and Europe"
+  ],
+  "security_features": [
+    "Robust Data Protection",
+    "Secured Platform Design",
+    "GDPR Compliance"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,165 @@
+{
+  "id": 720,
+  "name": "Indusion Consulting",
+  "description": "Indusion Consulting is a leading executive search firm, focused on mid to senior-level hiring across multiple sectors and locations in India. As former industry professionals, our consultants offer first-hand insight into business challenges, the deepest domain knowledge, and extensive talent networks to the clients and candidates they work with. Our class-leading expertise inclosing critical roles has helped us create an unparalleled track record in C-Suite, Business & Functional leadership, and other senior management roles across all our Practice Groups.",
+  "features": [
+    "Success lies in the connections we create. We strongly believe in the power of creating and nurturing trustworthy relationships based on mutual respect.",
+    "Mindset matters most for creating success. We grow with our clients by investing in the knowledge and skills of business models and culture that help organizations outperform.",
+    "Innovative solutions require a disciplined approach along with informed and quick action."
+  ],
+  "founders": [
+    "Vijay Vaishnav",
+    "Ajit Sahu"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Employee engagement software",
+    "Talent acquisition suites"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    "Employee well being",
+    "Employee development"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2007",
+  "order": 20674,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "INNOVATE. ACCELERATE. TRANSFORM.\n Boundaryless Markets Are Transforming The Rules Of Leadership Hiring.",
+  "ProductId": null,
+  "ShortDescription": "Indusion is your preferred partner in the search for exceptional talent. We specialize in leadership and mid to senior level recruitment for companies across multiple sectors and locations in India.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Banking, Financials & Insurance",
+      "sequence": 0,
+      "description": "Our Banking, Financials & Insurance Practice has been at the forefront of the sector's evolution for nearly two decades and covers companies across Institutional, Consumer Banking & Finance, Insurance and FinTech domains among others."
+    },
+    {
+      "name": "Diversified Industry",
+      "sequence": 1,
+      "description": "Our Diversified Industry Practice brings together consultant teams that cover a wide variety of sectors and functions with a high degree of collaboration to find relevant talent."
+    },
+    {
+      "name": "Technology & Digital",
+      "sequence": 2,
+      "description": "Our Technology & Digital Practice brings together consultant teams that cover a wide variety of sectors and functions with a high degree of collaboration to find relevant talent."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:09.853Z",
+  "enhanced_description": "Indusion Consulting is a premier executive search firm specializing in mid to senior-level hiring, including C-Suite, Business & Functional leadership, and other senior management roles. They focus on multiple sectors and locations within India, leveraging consultants who are former industry professionals. Their expertise spans across key practice groups including Banking, Financials & Insurance (covering Institutional, Consumer Banking & Finance, Insurance, and FinTech), Diversified Industry, and Technology & Digital. Indusion Consulting is committed to building trustworthy relationships, offering deep domain knowledge, and utilizing extensive talent networks to facilitate the recruitment of exceptional talent.",
+  "target_industries": [
+    "Banking",
+    "Financial Services",
+    "Insurance",
+    "FinTech",
+    "Diversified Industry",
+    "Technology",
+    "Digital"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Executive search for C-Suite and senior leadership roles",
+    "Mid to senior-level talent acquisition",
+    "Strategic talent sourcing for critical roles",
+    "Leadership hiring across multiple sectors"
+  ],
+  "competitive_advantages": [
+    "Consultants are former industry professionals offering first-hand insight into business challenges",
+    "Deepest domain knowledge in target sectors",
+    "Extensive talent networks",
+    "Class-leading expertise in closing critical roles with an unparalleled track record",
+    "Strong belief in creating and nurturing trustworthy relationships",
+    "Client-centric approach focused on understanding business models and culture to help organizations outperform",
+    "Disciplined approach combined with informed and quick action for innovative solutions"
+  ],
+  "hr_functions_supported": [
+    "Executive Recruitment",
+    "Talent Acquisition",
+    "Leadership Hiring",
+    "Talent Sourcing",
+    "Recruiting",
+    "Talent Management"
+  ],
+  "roi_benefits": [
+    "Boosted Hiring Manager Confidence and Productivity",
+    "Faster and more efficient top talent acquisition",
+    "Improved Employee Happiness and Engagement (through effective talent placement)",
+    "Successful placement of critical C-Suite, Business & Functional leadership, and senior management roles",
+    "Contribution to client organizations outperforming through strategic talent placement"
+  ],
+  "searchable_keywords": [
+    "Indusion Consulting",
+    "executive search",
+    "leadership hiring",
+    "mid-senior recruitment",
+    "talent acquisition",
+    "C-Suite",
+    "senior management",
+    "India recruitment",
+    "recruiting firm",
+    "talent sourcing",
+    "Mumbai",
+    "Maharashtra",
+    "Banking recruitment",
+    "Financial services hiring",
+    "Insurance recruitment",
+    "FinTech hiring",
+    "Technology recruitment",
+    "Digital talent",
+    "business leadership",
+    "functional leadership",
+    "employee engagement",
+    "talent management",
+    "hiring solutions",
+    "talent networks",
+    "domain expertise",
+    "critical roles",
+    "organizational performance",
+    "HR consulting"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Leaders",
+    "C-Suite Executives",
+    "Candidates (seeking roles)"
+  ],
+  "_weight": 1
+}

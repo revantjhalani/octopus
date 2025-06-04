@@ -1,0 +1,184 @@
+{
+  "id": 184,
+  "name": "Omega Healthcare",
+  "description": "Founded in 2003, Omega Healthcare empowers healthcare organizations to deliver exceptional care while enhancing financial performance. We help clients increase revenues, decrease costs, and improve the overall patient-provider-payer experience through our comprehensive portfolio of technology and clinically enabled solutions. Omega Healthcare has 30,000 employees across 14 delivery centers in the United States, India, Colombia, and the Philippines.",
+  "features": [
+    "1000+ Bots designed and delivered to leading healthcare companies.",
+    "\n118+ Million Medical charts coded annually.",
+    "8 Million Patient support calls and inbox emails handled per year."
+  ],
+  "founders": [
+    "Anurag Mehta"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Benefits administration software"
+  ],
+  "tags": [
+    "Learning efficiency",
+    "Adaptive learning"
+  ],
+  "headquarter": "Boca Raton, Florida",
+  "launch_date": "2003",
+  "order": 20151,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Accelerate cash flow. Reduce administrative costs.",
+  "ProductId": null,
+  "ShortDescription": "Leading provider of technology-enabled RCM, real world data, pharma access, and payer risk solutions in healthcare.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Providers",
+      "sequence": 0,
+      "description": "Enhance the patient experience while improving reimbursement, reducing costs, and increasing efficiencies."
+    },
+    {
+      "name": "Payers",
+      "sequence": 1,
+      "description": "dollar sign icon Payers Optimize financial results by improving member satisfaction, delivering appropriate care, and complying with industry regulations."
+    },
+    {
+      "name": " Pharma Companies",
+      "sequence": 2,
+      "description": "Provide a seamless continuity of care for patients with our Market Access Services."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:05.821Z",
+  "enhanced_description": "Founded in 2003, Omega Healthcare is a leading provider of technology-enabled Revenue Cycle Management (RCM), real-world data, pharma access, and payer risk solutions. Their comprehensive portfolio of technology and clinically enabled solutions empowers healthcare organizations to deliver exceptional care while enhancing financial performance. They help clients accelerate cash flow, increase revenues, decrease administrative costs, and improve the overall patient-provider-payer experience. With 30,000 employees across 14 delivery centers in the United States, India, Colombia, and the Philippines, Omega Healthcare leverages extensive automation, having designed and delivered over 1000 bots. Annually, they code more than 118 million medical charts and handle 8 million patient support calls and inbox emails. Their services are designed to enhance the patient experience, improve reimbursement, and increase efficiencies for providers; optimize financial results, improve member satisfaction, and ensure compliance for payers; and provide seamless market access services for pharma companies. Omega Healthcare also offers solutions in Learning and Development and Total Rewards, including Training eLearning software and Benefits administration software, aimed at accelerating skill development and learning efficiency for their clients.",
+  "target_industries": [
+    "Healthcare"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Revenue Cycle Management (RCM)",
+    "Real World Data Analysis",
+    "Pharma Market Access",
+    "Payer Risk Solutions",
+    "Medical Coding",
+    "Patient Support & Communication Management",
+    "Process Automation",
+    "Financial Performance Optimization",
+    "Cost Reduction",
+    "Efficiency Improvement",
+    "Skill Development and Learning",
+    "Benefits Administration"
+  ],
+  "competitive_advantages": [
+    "Global delivery model with 30,000 employees across 14 centers",
+    "Extensive automation capabilities (1000+ bots designed and delivered)",
+    "High volume processing capacity (118+ Million Medical charts coded annually)",
+    "Proven experience in patient communication (8 Million Patient support calls and inbox emails handled per year)",
+    "Comprehensive portfolio of technology and clinically enabled solutions",
+    "Deep domain expertise in healthcare RCM, data, pharma access, and payer risk"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Benefits Administration"
+  ],
+  "technology_stack": [
+    "Automation/RPA (Robotic Process Automation)"
+  ],
+  "roi_benefits": [
+    "Increased revenues",
+    "Decreased costs",
+    "Accelerated cash flow",
+    "Reduced administrative costs",
+    "Improved reimbursement",
+    "Increased efficiencies",
+    "Optimized financial results",
+    "Improved member satisfaction",
+    "Enhanced patient experience",
+    "Compliance with industry regulations",
+    "Accelerated skill development and learning efficiency"
+  ],
+  "searchable_keywords": [
+    "Omega Healthcare",
+    "Healthcare organizations",
+    "Financial performance",
+    "Revenue Cycle Management",
+    "RCM",
+    "Real World Data",
+    "Pharma Access",
+    "Payer Risk Solutions",
+    "Technology-enabled solutions",
+    "Clinically enabled solutions",
+    "Medical coding",
+    "Patient support",
+    "Bots",
+    "Automation",
+    "Revenue enhancement",
+    "Cost reduction",
+    "Patient experience",
+    "Provider solutions",
+    "Payer solutions",
+    "Pharma company solutions",
+    "Market Access Services",
+    "Cash flow acceleration",
+    "Administrative cost reduction",
+    "Reimbursement improvement",
+    "Efficiency improvement",
+    "Member satisfaction",
+    "Industry regulations compliance",
+    "Learning and Development",
+    "Total Rewards",
+    "Training eLearning software",
+    "Benefits administration software",
+    "Learning efficiency",
+    "Adaptive learning"
+  ],
+  "primary_users": [
+    "Healthcare Providers (e.g., hospitals, clinics)",
+    "Healthcare Payers (e.g., insurance companies)",
+    "Pharmaceutical Companies",
+    "Healthcare Financial Departments",
+    "Revenue Cycle Management (RCM) Teams",
+    "Medical Coders",
+    "Patient Support Teams",
+    "Compliance Teams",
+    "Market Access Teams",
+    "HR Professionals (for L&D and Benefits solutions)",
+    "Employees (accessing training/benefits)"
+  ],
+  "compliance_features": [
+    "Support for compliance with industry regulations (for payers)"
+  ],
+  "scalability_features": [
+    "Global delivery network (30,000 employees across 14 centers)",
+    "High volume processing capabilities (118+ Million charts, 8 Million calls)",
+    "Extensive automation through bots"
+  ],
+  "_weight": 1
+}

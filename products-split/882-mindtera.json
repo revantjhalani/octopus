@@ -1,0 +1,167 @@
+{
+  "id": 882,
+  "name": "Mindtera",
+  "description": "Mindtera is digital platform that helps leaders and organizations build a sustainable workforce by optimizing employee well-being, efficiency, and productivity. Founded in 2021, we believe that human resources are the most valuable asset of organizations and that increasing the quality of their well-being will support the growth of the organizations and help them live their best lives.",
+  "features": [
+    "Professionals Coaching      ",
+    " Employee Assistance Program ",
+    "360 Performance Analytics "
+  ],
+  "founders": [
+    "Bayu Puspito Bhaskoro"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce",
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Diversity and inclusion",
+    "Learning analytics"
+  ],
+  "headquarter": "Greater Jakarta, Greater Jakarta",
+  "launch_date": "2021",
+  "order": 20835,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Building the Workforce of the Future, Today.",
+  "ProductId": null,
+  "ShortDescription": "Mindtera is digital platform that helps leaders and organizations build a sustainable workforce by optimizing employee well-being, efficiency, and productivity.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Employee Assistance Platform (EAP)",
+      "sequence": 0,
+      "description": "Personalized features, seamless connectivity, and data-driven. Equipped with tools for consulting, work management, stress reduction, and work-life balance, it empowers employees to thrive and contribute to a successful and harmonious work environment."
+    },
+    {
+      "name": "School Assistance Platform (SAP)",
+      "sequence": 1,
+      "description": "Facilitating schools in implementing the global education system to optimize student connectivity and development with teachers, schools & parents easily and without obstacles."
+    },
+    {
+      "name": "ESQ Group Coaching",
+      "sequence": 2,
+      "description": "ESQ Group Coaching offers the most complete soft skills training using the Self Mind Mastery curriculum, focusing on emotional and social intelligence. Enhance personal and professional development through specialized programs that equip you with the essential skills for success. Unlock your potential with an innovative approach to self-improvement."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:36:17.420Z",
+  "enhanced_description": "Mindtera is a digital platform designed to help leaders and organizations, including schools, build a sustainable workforce by optimizing employee (and student) well-being, efficiency, and productivity. Founded in 2021, the platform emphasizes human resources as the most valuable asset, asserting that improved well-being directly supports organizational growth and individual flourishing. It offers solutions like professional coaching, a data-driven Employee Assistance Program (EAP) for stress reduction and work-life balance, 360-degree performance analytics, and ESQ Group Coaching for soft skills development, focusing on emotional and social intelligence. Mindtera also includes a School Assistance Platform (SAP) to optimize student-teacher-parent connectivity and development. Its objectives include building a more diverse and inclusive workforce and accelerating skill development and learning efficiency.",
+  "target_industries": [
+    "Corporate",
+    "Education"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Optimizing employee well-being",
+    "Improving employee efficiency",
+    "Boosting employee productivity",
+    "Building a sustainable workforce",
+    "Providing professional coaching",
+    "Offering employee assistance programs (EAP) for stress reduction and work-life balance",
+    "Conducting 360-degree performance analytics",
+    "Accelerating skill development and learning efficiency",
+    "Delivering soft skills training (emotional and social intelligence)",
+    "Fostering diversity and inclusion initiatives",
+    "Facilitating student connectivity and development in schools"
+  ],
+  "competitive_advantages": [
+    "Focus on optimizing employee well-being, efficiency, and productivity for a sustainable workforce",
+    "Data-driven Employee Assistance Platform (EAP)",
+    "Offers comprehensive soft skills training through ESQ Group Coaching with Self Mind Mastery curriculum",
+    "Supports both corporate and educational sectors (schools)",
+    "Commitment to human-centric approach recognizing HR as most valuable asset"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Employee Well-being",
+    "Performance Management",
+    "Diversity, Equity, and Inclusion",
+    "Employee Relations"
+  ],
+  "roi_benefits": [
+    "Supports organizational growth",
+    "Helps employees live their best lives",
+    "Empowers employees to thrive",
+    "Contributes to a successful and harmonious work environment",
+    "Optimizes student connectivity and development",
+    "Enhances personal and professional development"
+  ],
+  "searchable_keywords": [
+    "Mindtera",
+    "digital platform",
+    "leaders",
+    "organizations",
+    "sustainable workforce",
+    "employee well-being",
+    "efficiency",
+    "productivity",
+    "human resources",
+    "professionals coaching",
+    "employee assistance program",
+    "360 performance analytics",
+    "diversity and inclusion",
+    "skill development",
+    "learning efficiency",
+    "learning and development",
+    "corporate LMS",
+    "training & development companies",
+    "learning analytics",
+    "Employee Assistance Platform",
+    "EAP",
+    "School Assistance Platform",
+    "SAP",
+    "ESQ Group Coaching",
+    "soft skills training",
+    "Self Mind Mastery",
+    "emotional intelligence",
+    "social intelligence",
+    "work management",
+    "stress reduction",
+    "work-life balance",
+    "student development",
+    "school education system",
+    "well-being platform"
+  ],
+  "primary_users": [
+    "Leaders",
+    "HR Professionals",
+    "Employees",
+    "Students",
+    "Teachers",
+    "Parents"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,149 @@
+{
+  "id": 712,
+  "name": "IMI EDU",
+  "description": "Over the years, IMI has continued to expand its footprint to help aspiring management professionals build a solid foundation for a stellar career in management practice, consulting, and entrepreneurship. IMI Kolkata was established in 2010, and IMI Bhubaneshwar in 2011. IMI has global linkages with leading schools in Europe, North America, and Asia.",
+  "features": [
+    "Work with corporate sponsorship",
+    "Associate with SAQS",
+    "Offer Fellow program in management"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Training & development companies",
+    "Machine learning HR"
+  ],
+  "tags": [
+    "Diversity and inclusion",
+    "Learning analytics"
+  ],
+  "headquarter": "Delhi",
+  "launch_date": "1981",
+  "order": 20666,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Growing legacies",
+  "ProductId": null,
+  "ShortDescription": "IMI is India's first corporate-sponsored Business School",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "A Variety of Programs",
+      "sequence": 0,
+      "description": "The document discusses IMI, a business school in India [1]. IMI offers various programs including PGDM, PGDM (HRM), PGDM (B&FS), and the Fellow Programme in Management (FPM) [1]. This means that IMI can provide students with a well-rounded education in a variety of business disciplines."
+    },
+    {
+      "name": "Internationally Accredited",
+      "sequence": 1,
+      "description": "The document says that IMI is accredited by AACSB, AMBA, SAQS, and NBA [1]. These are all internationally recognized accreditation bodies. This suggests that IMI is a high-quality business school that meets rigorous international standards."
+    },
+    {
+      "name": "Focus on Industry Engagement",
+      "sequence": 2,
+      "description": "The Institute mentions industry partnerships for its programs [1]. This suggests that IMI has a strong focus on industry engagement and that their programs are designed to prepare students for successful careers in the business world."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:59.650Z",
+  "enhanced_description": "IMI EDU, established in 1981, is India's first corporate-sponsored Business School with campuses in Kolkata (2010) and Bhubaneshwar (2011). It offers a variety of management programs including PGDM, PGDM (HRM), PGDM (B&FS), and a Fellow Programme in Management (FPM), designed to build strong foundations for careers in management practice, consulting, and entrepreneurship. IMI EDU is internationally accredited by AACSB, AMBA, SAQS, and NBA, ensuring high-quality education and global linkages. The institution emphasizes industry engagement and aims to contribute to building a more diverse and inclusive workforce through its offerings and corporate partnerships. Its services extend to corporate training and development, potentially leveraging learning analytics and machine learning for HR.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Developing future management professionals for careers in management, consulting, and entrepreneurship.",
+    "Providing corporate-sponsored management education and specialized training.",
+    "Conducting advanced management research through Fellow programs.",
+    "Supporting corporate objectives for building a more diverse and inclusive workforce.",
+    "Providing training and development services to companies."
+  ],
+  "competitive_advantages": [
+    "India's first corporate-sponsored Business School.",
+    "Internationally accredited by AACSB, AMBA, SAQS, and NBA.",
+    "Strong focus on industry engagement and partnerships.",
+    "Extensive global linkages with leading schools in Europe, North America, and Asia.",
+    "Offers a variety of management programs including PGDM, PGDM (HRM), PGDM (B&FS), and FPM.",
+    "Long-standing legacy and established presence since 1981."
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Diversity and Inclusion",
+    "Training Management"
+  ],
+  "technology_stack": [
+    "Machine learning HR"
+  ],
+  "roi_benefits": [
+    "Access to high-quality, industry-ready management talent.",
+    "Support for corporate diversity and inclusion initiatives.",
+    "Provision of specialized training and development programs for employees."
+  ],
+  "searchable_keywords": [
+    "IMI EDU",
+    "management professionals",
+    "management practice",
+    "consulting",
+    "entrepreneurship",
+    "corporate sponsorship",
+    "SAQS",
+    "Fellow program in management",
+    "Diverse workforce",
+    "Inclusive workforce",
+    "Learning and Development",
+    "Corporate LMS",
+    "Training & development companies",
+    "Machine learning HR",
+    "Diversity and inclusion",
+    "Learning analytics",
+    "Business School",
+    "India",
+    "PGDM",
+    "HRM",
+    "B&FS",
+    "FPM",
+    "AACSB",
+    "AMBA",
+    "NBA",
+    "internationally accredited",
+    "industry engagement",
+    "executive education"
+  ],
+  "primary_users": [
+    "Aspiring management professionals (students)",
+    "Corporate HR departments",
+    "Corporate Talent Acquisition teams",
+    "Corporate Learning & Development departments",
+    "Entrepreneurs",
+    "Management Consultants",
+    "Researchers"
+  ],
+  "_weight": 1
+}

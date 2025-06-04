@@ -1,0 +1,170 @@
+{
+  "id": 164,
+  "name": "Naman HR",
+  "description": "NamanHR is a strategic management-consulting firm tackling HR and Management challenges. With offices across India, we are among the fastest-growing people and culture consultants, partnering with 600+ clients globally. Our expertise spans end-to-end HR consulting, including training, OD interventions, organizational design, compensation benchmarking, performance management, talent management, HR system design, psychometric services, and recruitment.",
+  "features": [
+    "60+ Professionals ",
+    "600+ Clients across India,",
+    "1,00,000+ Professionals up-skilled globally"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Talent management software",
+    "Workforce management"
+  ],
+  "tags": [
+    "Talent acquisition.",
+    "Hiring manager productivity"
+  ],
+  "headquarter": "Vadodara, Gujarat",
+  "launch_date": "2004",
+  "order": 20131,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Talent Development, Assessment, & HR Solutions",
+  "ProductId": null,
+  "ShortDescription": "Ensuring all your HR needs are addressed with speed, accuracy, and impact under one roof",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Organisation Development",
+      "sequence": 0,
+      "description": "Enhancing performance & potential of businesses."
+    },
+    {
+      "name": "Talent Development",
+      "sequence": 1,
+      "description": "Assessing & transforming employee performance."
+    },
+    {
+      "name": "Talent Management",
+      "sequence": 2,
+      "description": "Establishing HR systems based on global best practices."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:44.830Z",
+  "enhanced_description": "NamanHR is a strategic management-consulting firm specializing in tackling diverse HR and management challenges. As fast-growing people and culture consultants with offices across India and a global client base of 600+ organizations, their expertise spans end-to-end HR consulting services. These services include training, OD interventions, organizational design, compensation benchmarking, performance management, talent management, HR system design, psychometric services, and recruitment. NamanHR focuses on organization development, talent development, and establishing HR systems based on global best practices, aiming to enhance business performance and potential, transform employee performance, and boost hiring manager confidence and productivity.",
+  "target_industries": [],
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Addressing end-to-end HR and management challenges for businesses",
+    "Improving organizational performance and potential through Organisation Development (OD) interventions",
+    "Assessing and transforming employee performance through Talent Development programs",
+    "Designing and establishing HR systems based on global best practices",
+    "Managing and developing talent across the employee lifecycle",
+    "Conducting recruitment and talent acquisition processes",
+    "Performing compensation benchmarking to ensure competitive compensation",
+    "Advising on and implementing organizational design improvements",
+    "Providing psychometric assessment services",
+    "Boosting hiring manager confidence and productivity in talent acquisition"
+  ],
+  "competitive_advantages": [
+    "Offers comprehensive, end-to-end HR consulting services under a single roof",
+    "Extensive global client base of 600+ organizations",
+    "Proven track record with over 1,00,000 professionals up-skilled globally",
+    "Strategic partnership approach to addressing HR and management challenges",
+    "Strong geographic presence with multiple offices across India",
+    "Expertise in establishing HR systems aligned with global best practices"
+  ],
+  "implementation_scenarios": [
+    "Strategic HR and management consulting engagements",
+    "Project-based interventions for specific HR functions (e.g., OD, talent development, HR system design)"
+  ],
+  "hr_functions_supported": [
+    "Organizational Development (OD)",
+    "Training and Development",
+    "Organizational Design",
+    "Compensation and Benefits",
+    "Performance Management",
+    "Talent Management",
+    "HR System Design (Consulting/Advisory)",
+    "Psychometric Assessment",
+    "Recruitment and Talent Acquisition",
+    "Workforce Management"
+  ],
+  "technology_stack": [],
+  "integration_capabilities": [],
+  "roi_benefits": [
+    "Enhanced organizational performance and business potential",
+    "Improved and transformed employee performance",
+    "Development and establishment of effective HR systems based on global best practices",
+    "Increased hiring manager confidence",
+    "Higher hiring manager productivity",
+    "Streamlined and efficient HR operations delivered with speed, accuracy, and impact"
+  ],
+  "searchable_keywords": [
+    "Naman HR",
+    "HR consulting",
+    "management consulting",
+    "strategic HR",
+    "people and culture consultants",
+    "HR challenges",
+    "management challenges",
+    "talent management",
+    "talent development",
+    "organizational development",
+    "OD interventions",
+    "training",
+    "organizational design",
+    "compensation benchmarking",
+    "performance management",
+    "HR system design",
+    "psychometric services",
+    "recruitment",
+    "talent acquisition",
+    "workforce management",
+    "HR solutions",
+    "HR assessment",
+    "hiring manager productivity",
+    "hiring manager confidence",
+    "end-to-end HR",
+    "HR systems",
+    "HR advisory",
+    "India HR consultants",
+    "global HR consultants",
+    "talent management software"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "HR Managers",
+    "Hiring Managers",
+    "Business Leaders",
+    "C-suite Executives"
+  ],
+  "deployment_options": [],
+  "compliance_features": [],
+  "scalability_features": [],
+  "security_features": [],
+  "_weight": 1
+}

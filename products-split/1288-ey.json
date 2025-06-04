@@ -1,0 +1,115 @@
+{
+  "id": 1288,
+  "name": "EY",
+  "description": "EY helps clients create long-term value for all stakeholders. Enabled by data and technology, our services and solutions provide trust through assurance and help clients transform, grow and operate.",
+  "features": [
+    "Leverage robust frameworks and governance that instill confidence and empower responsible transformation.",
+    "Optimize performance, enrich customer and employee experiences, and unlock new sources of sustainable growth."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Employee engagement software",
+    "Talent management software"
+  ],
+  "tags": [
+    "Diversity and inclusion",
+    "Workforce diversity",
+    "Workplace diversity",
+    "Employee diversity"
+  ],
+  "headquarter": "London, England",
+  "launch_date": "1849",
+  "order": 21114,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "EY exists to build a better working world, helping create long-term value for clients, people and society and build trust in the capital markets.",
+  "ProductId": null,
+  "ShortDescription": "People analytics provides data-driven insight for workforce strategy and planning, so that talent can be managed and developed to deliver clear business outcomes.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:06.793Z",
+  "enhanced_description": "EY offers services and solutions leveraging data and technology to help clients achieve long-term value, transformation, growth, and operational efficiency. Specifically, their offerings in talent management and employee engagement provide data-driven insights through people analytics for workforce strategy and planning. This enables clients to manage and develop talent, optimize performance, enrich employee experiences, unlock sustainable growth, and build a more diverse and inclusive workforce, all supported by robust frameworks and governance.",
+  "key_use_cases": [
+    "Workforce strategy and planning",
+    "Talent management and development",
+    "Building a diverse and inclusive workforce",
+    "Employee experience enhancement",
+    "Performance optimization"
+  ],
+  "competitive_advantages": [
+    "Leveraging robust frameworks and governance",
+    "Data and technology-enabled services",
+    "Focus on instilling confidence and trust through assurance"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Employee Engagement",
+    "Workforce Planning",
+    "People Analytics",
+    "Diversity and Inclusion"
+  ],
+  "roi_benefits": [
+    "Creation of long-term value",
+    "Improved organizational transformation and growth",
+    "Optimized performance",
+    "Enriched customer and employee experiences",
+    "Unlocking sustainable growth",
+    "Delivery of clear business outcomes"
+  ],
+  "searchable_keywords": [
+    "EY",
+    "Talent Management",
+    "Employee Engagement",
+    "People Analytics",
+    "Workforce Strategy",
+    "Workforce Planning",
+    "Diversity and Inclusion",
+    "Workforce Diversity",
+    "Workplace Diversity",
+    "Employee Diversity",
+    "HR Transformation",
+    "Organizational Growth",
+    "Performance Optimization",
+    "Employee Experience",
+    "Data-driven HR",
+    "HR Consulting",
+    "Business Outcomes",
+    "Responsible Transformation",
+    "Sustainable Growth"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "Workforce Strategists",
+    "Talent Management Professionals",
+    "Diversity & Inclusion Leaders",
+    "HR Business Partners"
+  ],
+  "_weight": 1
+}

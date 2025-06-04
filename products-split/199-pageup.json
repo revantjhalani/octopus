@@ -1,0 +1,153 @@
+{
+  "id": 199,
+  "name": "Pageup",
+  "description": "Pageup believe in the power of teamwork and innovation. We\u2019re passionate about helping organisations build, develop and retain high-performing teams with great tech. With our industry-leading software and unbeatable customer support, you\u2019ll have everything you need to hire the best people, faster. Customers love PageUp for its deep functionality, world-class support and ability to be configured for a range of workflows and industries.",
+  "features": [
+    "On-time, on-budget implementation guaranteed",
+    "All-inclusive support with awesome customer service",
+    "Technology you\u2019ll love to use now and in the future."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Onboarding software",
+    "Recruiting software",
+    "Talent management software"
+  ],
+  "tags": [
+    "Hiring",
+    "Hiring process optimization",
+    "Talent acquisition"
+  ],
+  "headquarter": "Melbourne, Victoria\n",
+  "launch_date": "1997",
+  "order": 20166,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "HR tech done differently",
+  "ProductId": null,
+  "ShortDescription": "All your hiring needs in one place Recruit, develop and retain high performing teams with PageUp",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Recruitment Marketing",
+      "sequence": 0,
+      "description": "Automate an exceptional candidate experience to build high quality talent pipelines."
+    },
+    {
+      "name": "Applicant Tracking System",
+      "sequence": 1,
+      "description": "Improve efficiency and effectiveness of recruitment to deliver ROI."
+    },
+    {
+      "name": "Onboarding",
+      "sequence": 2,
+      "description": "Automated tasks and workflows ensure compliance and speed to competency."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:21.349Z",
+  "enhanced_description": "PageUp offers industry-leading HR technology designed to help organizations build, develop, and retain high-performing teams. The platform provides deep functionality for all hiring needs, including Recruitment Marketing for building quality talent pipelines, an Applicant Tracking System (ATS) to improve recruitment efficiency and deliver ROI, and Onboarding with automated tasks and workflows to ensure compliance and speed to competency. PageUp aims to boost Hiring Manager confidence and productivity with its configurable software, backed by guaranteed on-time, on-budget implementation and world-class, all-inclusive customer support.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Building, developing, and retaining high-performing teams",
+    "Hiring the best people faster",
+    "Automating candidate experience and building high-quality talent pipelines",
+    "Improving recruitment efficiency and effectiveness to deliver ROI",
+    "Ensuring compliance and accelerating speed to competency during onboarding",
+    "Boosting Hiring Manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "Guaranteed on-time, on-budget implementation",
+    "All-inclusive, world-class customer support",
+    "Deep functionality across recruiting and talent management",
+    "Configurable for a range of workflows and industries",
+    "Technology designed for future use"
+  ],
+  "implementation_scenarios": [
+    "Managed implementation with guaranteed on-time and on-budget delivery"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Management",
+    "Onboarding",
+    "Recruitment Marketing",
+    "Applicant Tracking System (ATS)",
+    "Hiring Process Optimization",
+    "Talent Acquisition"
+  ],
+  "roi_benefits": [
+    "Improved recruitment efficiency and effectiveness",
+    "Accelerated time-to-hire",
+    "Increased Hiring Manager productivity and confidence",
+    "Enhanced compliance",
+    "Reduced time to employee competency"
+  ],
+  "searchable_keywords": [
+    "Pageup",
+    "HR technology",
+    "recruiting",
+    "talent management",
+    "onboarding",
+    "hiring",
+    "talent acquisition",
+    "applicant tracking system",
+    "ATS",
+    "recruitment marketing",
+    "candidate experience",
+    "talent pipelines",
+    "hiring manager productivity",
+    "high-performing teams",
+    "compliance",
+    "enterprise HR software",
+    "configurable HR solution",
+    "customer support",
+    "implementation guarantee",
+    "employee development",
+    "employee retention"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Professionals",
+    "Recruiters"
+  ],
+  "compliance_features": [
+    "Automated tasks and workflows for compliance during onboarding"
+  ],
+  "scalability_features": [
+    "Designed for Small, Large, and Global Enterprise companies",
+    "Configurable for a range of workflows and industries",
+    "Future-proof technology"
+  ],
+  "_weight": 1
+}

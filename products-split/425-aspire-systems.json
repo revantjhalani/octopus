@@ -1,0 +1,162 @@
+{
+  "id": 425,
+  "name": "Aspire Systems",
+  "description": "Founded in 1996, Aspire Systems has been a beacon of growth among leading global technology service providers the world over. We serve as a trusted partner for our customers in the US, UK, LATAM, Europe, Middle East, India, and Asia Pacific regions and have a strong nearshore presence providing real-time service in Poland and Mexico. With in-depth expertise in technology and a core DNA of Software Engineering, Aspire delivers holistic services across industry verticals such as Independent Software Vendors, Retail, Banking & Financial Services, and Insurance. ",
+  "features": [
+    "4900+ Employees",
+    "19% Growing at close to 19% CAGR since 2020",
+    "275+ Active customers"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Internet of things",
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Company culture",
+    "Employee empowerment"
+  ],
+  "headquarter": "Chennai, Tamil Nadu",
+  "launch_date": "1996",
+  "order": 20385,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Our people-centric culture and innovation mindset act as the key drivers of our growth",
+  "ProductId": null,
+  "ShortDescription": "A global technology services firm ",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Modernize Your Technology",
+      "sequence": 0,
+      "description": "Vault into the future with modernized technology that revolutionizes your operations. "
+    },
+    {
+      "name": "Unlock Data\u2019s Magic",
+      "sequence": 1,
+      "description": "Unleash your data's magic! Transform raw data into powerful insights that drive smart, unstoppable AI success."
+    },
+    {
+      "name": "Operational Excellence",
+      "sequence": 2,
+      "description": "Elevate operational excellence by harnessing the power of automation.  "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:26:58.652Z",
+  "enhanced_description": "Aspire Systems, founded in 1996, is a global technology service provider with a strong core DNA in Software Engineering. They deliver holistic technology services across various industry verticals including Independent Software Vendors, Retail, Banking & Financial Services, and Insurance. With a global presence serving customers in the US, UK, LATAM, Europe, Middle East, India, and Asia Pacific regions, they also maintain a strong nearshore presence in Poland and Mexico to provide real-time service. Aspire Systems focuses on helping clients modernize technology, unlock data's potential for AI success, and achieve operational excellence through automation, while also supporting HR-related initiatives.",
+  "target_industries": [
+    "Independent Software Vendors",
+    "Retail",
+    "Banking & Financial Services",
+    "Insurance"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Modernizing technology to revolutionize operations",
+    "Transforming raw data into powerful insights for AI success",
+    "Elevating operational excellence through automation",
+    "Supporting employee happiness and engagement initiatives",
+    "Enhancing company culture and employee empowerment"
+  ],
+  "competitive_advantages": [
+    "In-depth expertise and core DNA in Software Engineering",
+    "Delivery of holistic technology services across diverse verticals",
+    "Extensive global presence across multiple regions",
+    "Strong nearshore presence providing real-time service in Poland and Mexico"
+  ],
+  "implementation_scenarios": [
+    "Technology modernization projects",
+    "Data transformation and AI solution implementations",
+    "Automation solution deployments",
+    "Software and services related to HR software initiatives"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Company Culture Management",
+    "Employee Empowerment"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Internet of Things (IoT)",
+    "Software Engineering",
+    "Automation Technologies"
+  ],
+  "roi_benefits": [
+    "Revolutionized operations through modernized technology",
+    "Powerful insights from data leading to AI success",
+    "Elevated operational excellence via automation",
+    "Improved employee happiness and engagement"
+  ],
+  "searchable_keywords": [
+    "Aspire Systems",
+    "Technology services",
+    "Global technology provider",
+    "Software engineering",
+    "Artificial intelligence services",
+    "Internet of Things services",
+    "HR software services",
+    "Employee engagement",
+    "Company culture",
+    "Employee empowerment",
+    "Technology modernization",
+    "Data transformation",
+    "AI solutions",
+    "Automation solutions",
+    "Operational excellence",
+    "ISV services",
+    "Retail technology",
+    "Banking technology",
+    "Financial services technology",
+    "Insurance technology",
+    "Nearshore services",
+    "Poland nearshore",
+    "Mexico nearshore"
+  ],
+  "primary_users": [
+    "Client organizations' IT Departments",
+    "Client organizations' Business Operations Teams",
+    "Client organizations' Human Resources (HR) Departments",
+    "Independent Software Vendors (ISVs)"
+  ],
+  "scalability_features": [
+    "Capable of serving Global and Large Enterprises",
+    "Extensive global delivery presence",
+    "Supports a large active customer base (275+ customers)",
+    "Offers holistic services for diverse client needs"
+  ],
+  "_weight": 1
+}

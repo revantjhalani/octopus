@@ -1,0 +1,137 @@
+{
+  "id": 81,
+  "name": "Intellipaat",
+  "description": "Intellipaat combines a unique approach to the ideation and creation of the course content. It then collaborates with SMEs for training. Further, it offers its learners lifelong support and lifetime access to the course materials.It also provides professional help to ensure learners find lucrative jobs by conducting mock interview sessions and helping each candidate create a high-quality resume.",
+  "features": [
+    "1:1 with Industry Mentors",
+    "400+ Global Hiring Partners",
+    "55% Avg. Salary Hike"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Adaptive learning",
+    "Personalised learning"
+  ],
+  "headquarter": "Bangalore, Karnataka",
+  "launch_date": "2011",
+  "order": 20057,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "One-Stop Solution For Your Career Growth",
+  "ProductId": null,
+  "ShortDescription": "Accelerate Your Career Growth & Upskill Yourself",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "World Class Pedagogy",
+      "sequence": 0,
+      "description": "Learn from the World's Best Faculty & Industry Experts"
+    },
+    {
+      "name": " Personalized Guidance with 24*7 Support",
+      "sequence": 1,
+      "description": "Network with Peers & Interact with Industry Leaders"
+    },
+    {
+      "name": "Career Assistance ",
+      "sequence": 2,
+      "description": "esume Building & Mock Interview Prep"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-20T07:13:16.848Z",
+  "enhanced_description": "Intellipaat is a learning and development platform offering a unique approach to course content creation and delivery, collaborating with Subject Matter Experts (SMEs). It focuses on accelerating career growth and upskilling by providing lifelong support and lifetime access to course materials. The platform includes 1:1 sessions with industry mentors, personalized guidance with 24/7 support, and opportunities to network with peers and industry leaders. A core offering is comprehensive career assistance, including resume building and mock interview preparation, leveraging connections with over 400 global hiring partners, which has resulted in an average salary hike of 55% for its learners. Intellipaat is presented as a one-stop solution for career advancement.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerating skill development and learning efficiency",
+    "Career acceleration and upskilling",
+    "Corporate training and learning management",
+    "Learning experience delivery",
+    "Job placement assistance (resume building, mock interviews)",
+    "Talent development and acquisition support"
+  ],
+  "competitive_advantages": [
+    "Lifelong support and lifetime access to course materials",
+    "Comprehensive career assistance including resume building, mock interviews, and job placement support via 400+ global hiring partners",
+    "Proven impact on salary (55% average hike)",
+    "High-quality content curated with SMEs and delivered by industry experts/best faculty (World Class Pedagogy)",
+    "Personalized 1:1 mentorship with industry mentors",
+    "24/7 support and networking opportunities with peers and industry leaders"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Talent Development",
+    "Talent Acquisition"
+  ],
+  "roi_benefits": [
+    "55% Average Salary Hike for learners (indicates strong career advancement and value)",
+    "Accelerated skill development and learning efficiency (improves workforce capability and productivity)",
+    "Enhanced job placement and career progression for learners (contributes to retention through growth opportunities)"
+  ],
+  "searchable_keywords": [
+    "Intellipaat",
+    "skill development",
+    "learning and development",
+    "corporate training",
+    "corporate LMS",
+    "LXP",
+    "learning experience system",
+    "career growth",
+    "upskilling",
+    "talent development",
+    "job assistance",
+    "resume building",
+    "mock interviews",
+    "industry mentors",
+    "professional training",
+    "online learning",
+    "skill acquisition",
+    "personalized learning",
+    "adaptive learning",
+    "training effectiveness"
+  ],
+  "primary_users": [
+    "Learners",
+    "Individuals seeking career growth and upskilling",
+    "Employees in organizations utilizing corporate training"
+  ],
+  "_weight": 1
+}

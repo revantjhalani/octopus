@@ -1,0 +1,146 @@
+{
+  "id": 690,
+  "name": "Hyppies.com",
+  "description": "At Hyppies, we're more than just a recruitment company; we're a movement. Inspired by the ethos of hypergrowth and high potential, we're dedicated to matching the most talented individuals with the most ambitious tech companies. Our name, Hyppies, is a nod to the revolutionary spirit of the hippie movement, reflecting our commitment to challenging the conventional approach to tech recruitment. We envision a world where the right talent meets the right opportunity, creating a synergy that fuels innovation and growth in the tech sector. We believe in the power of people and their potential to transform industries, and we're here to make those connections happen.",
+  "features": [
+    "Recruitment & Engagement",
+    "Consulting & Contracting",
+    "Hypergrowth and Project"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Employee engagement software",
+    "Talent acquisition suites"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    "Employee well being",
+    "Employee development"
+  ],
+  "headquarter": "Central Business District, SG",
+  "launch_date": "2021",
+  "order": 20644,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "HR Tech and Services for the Future of work",
+  "ProductId": null,
+  "ShortDescription": "At Hyppies, we're more than just a recruitment company; we're a movement. Inspired by the ethos of hypergrowth and high potential, we're dedicated to matching the most talented individuals with the most ambitious tech companies.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Finding the Perfect Cultural Fit with Technology",
+      "sequence": 0,
+      "description": "Hyppies uses technology to find the right cultural fit for you [1]. This means that they go beyond just your skills and experience to find a job that is a good fit for your personality and work style. This can be important for ensuring that you are happy and successful in your new role."
+    },
+    {
+      "name": "Job Opportunities Across Asia and Beyond",
+      "sequence": 1,
+      "description": "Hyppies offers job opportunities all over Asia and beyond [1]. This means that you are not limited to just jobs in your local area. You can search for jobs in different countries and cities, which can be a great opportunity to experience a new culture and lifestyle."
+    },
+    {
+      "name": "Building Strong Client and Candidate Relationships",
+      "sequence": 2,
+      "description": "Hyppies cares about their client and candidate relationships [1]. This means that they are committed to providing a positive experience for both businesses and job seekers. They take the time to understand your needs and goals, and they work hard to find the perfect match."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:36.422Z",
+  "enhanced_description": "Hyppies.com is a recruitment company specializing in matching high-potential talent with ambitious tech companies, particularly those in hypergrowth phases or requiring project-based staffing. They aim to challenge conventional tech recruitment by leveraging technology to focus on cultural fit, not just skills. Hyppies offers comprehensive services including Recruitment & Engagement, Consulting & Contracting. They provide job opportunities across Asia and beyond, emphasizing strong client and candidate relationships to ensure successful placements that fuel innovation and growth in the tech sector.",
+  "target_industries": [
+    "Technology"
+  ],
+  "key_use_cases": [
+    "Tech talent acquisition",
+    "Contract staffing",
+    "Consulting services for recruitment",
+    "Recruitment for hypergrowth companies",
+    "Project-based recruitment",
+    "Improving cultural fit in hiring",
+    "Boosting hiring manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "Specialized focus on hypergrowth and high-potential tech companies",
+    "Innovative approach to tech recruitment",
+    "Leverages technology for cultural fit assessment",
+    "Extensive job opportunities across Asia and beyond",
+    "Strong emphasis on client and candidate relationship building"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Recruitment",
+    "Talent Management",
+    "Employee Engagement",
+    "Employee Development",
+    "Employee Well-being"
+  ],
+  "roi_benefits": [
+    "Fuels innovation and growth in the tech sector",
+    "Boosts hiring manager confidence",
+    "Increases hiring manager productivity",
+    "Improved talent retention through cultural fit",
+    "Access to a wider pool of global talent (especially Asia)"
+  ],
+  "searchable_keywords": [
+    "Hyppies",
+    "Recruitment",
+    "Hiring",
+    "Talent Acquisition",
+    "Talent Management",
+    "Tech Recruitment",
+    "Hypergrowth Recruitment",
+    "Project Recruitment",
+    "Consulting",
+    "Contracting",
+    "Employee Engagement",
+    "Talent Sourcing",
+    "Cultural Fit",
+    "Asia Jobs",
+    "Global Jobs",
+    "Client Relationships",
+    "Candidate Relationships",
+    "HR Tech",
+    "Future of Work",
+    "Innovation",
+    "Growth",
+    "High Potential Talent",
+    "Employee Well-being",
+    "Employee Development",
+    "Recruiting Costs"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "Tech Companies (as clients)",
+    "Job Seekers (candidates)"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,162 @@
+{
+  "id": 716,
+  "name": "Incedo Inc.",
+  "description": "Incebo integrated services and platforms that connect strategy and execution are built on the foundation of Design, AI, Data, and strong engineering capabilities blended with our deep domain expertise from digital natives.",
+  "features": [
+    "Automated payment with Incedopay",
+    "Provide services in Digital engineering",
+    "Leverage Domain Expertise"
+  ],
+  "founders": [
+    "Nitin Seth"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    ""
+  ],
+  "headquarter": "New Jersy",
+  "launch_date": "2012",
+  "order": 20670,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Let's  join the movement",
+  "ProductId": null,
+  "ShortDescription": "Incedo is a digital transformation expert empowering companies to realize sustainable business impact from their digital investments.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Empower your digital transformation",
+      "sequence": 0,
+      "description": "Our work is built on the foundation of Design, Data and AI and strong engineering capabilities. We have deep domain expertise and work across multiple industries from telecom, financial services, product engineering to life sciences."
+    },
+    {
+      "name": "Create delightful customer experiences",
+      "sequence": 1,
+      "description": "Our SaaS platforms, IncedoPay for automating payment processes and our Incedo LighthouseTM platform for driving personalized experiences at scale, leverage data and insights to create memorable digital experiences."
+    },
+    {
+      "name": "Rapid digital assessment",
+      "sequence": 2,
+      "description": "Benchmarking of your digital journey against competitors and other best-in-class leaders with key issue identification. Portfolio of tactical and strategic recommendations that can enhance NPS, traffic and conversion KPIs. Execution roadmap based on impact, timelines and project complexity."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:04.487Z",
+  "enhanced_description": "Incedo Inc. is a digital transformation expert offering integrated services and SaaS platforms. Their solutions connect strategy and execution, built on a strong foundation of Design, AI, Data, and engineering capabilities, combined with deep domain expertise. Incedo empowers companies to realize sustainable business impact from their digital investments, with a specific focus on boosting hiring manager confidence and productivity. They provide services in digital engineering and leverage expertise across multiple industries including telecom, financial services, product engineering, and life sciences. Key offerings include the IncedoPay SaaS platform for automating payment processes and the Incedo LighthouseTM SaaS platform for driving personalized experiences at scale, both leveraging data and insights. Incedo also offers rapid digital assessments for benchmarking digital journeys against competitors and providing tactical and strategic recommendations to enhance key performance indicators like NPS, traffic, and conversion.",
+  "target_industries": [
+    "Telecom",
+    "Financial Services",
+    "Product Engineering",
+    "Life Sciences"
+  ],
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Digital transformation initiatives",
+    "Boosting hiring manager confidence and productivity",
+    "Recruiting and talent sourcing",
+    "Automating payment processes",
+    "Driving personalized customer experiences at scale",
+    "Benchmarking digital journey against competitors",
+    "Developing strategic digital recommendations",
+    "Optimizing hiring processes to reduce recruiting costs"
+  ],
+  "competitive_advantages": [
+    "Integrated services and platforms connecting strategy and execution",
+    "Foundation in Design, AI, Data, and strong engineering capabilities",
+    "Deep domain expertise from digital natives",
+    "Offers proprietary SaaS platforms (IncedoPay, Incedo LighthouseTM)",
+    "Provides rapid digital assessment with benchmarking and actionable recommendations"
+  ],
+  "implementation_scenarios": [
+    "Strategic digital transformation projects",
+    "Deployment of SaaS platforms for payment automation and personalized experiences",
+    "Consulting engagements for digital assessment and roadmap development"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Hiring",
+    "Talent Sourcing",
+    "Hiring Manager Productivity"
+  ],
+  "technology_stack": [
+    "Design",
+    "AI",
+    "Data",
+    "Engineering Capabilities"
+  ],
+  "roi_benefits": [
+    "Realize sustainable business impact from digital investments",
+    "Boost hiring manager confidence",
+    "Increase hiring manager productivity",
+    "Enhance NPS (Net Promoter Score)",
+    "Improve traffic and conversion KPIs"
+  ],
+  "searchable_keywords": [
+    "Incedo",
+    "digital transformation",
+    "AI",
+    "data",
+    "engineering",
+    "digital engineering",
+    "automated payment",
+    "Incedopay",
+    "Incedo Lighthouse",
+    "SaaS platform",
+    "consulting",
+    "digital assessment",
+    "recruiting",
+    "hiring",
+    "talent sourcing",
+    "HR software",
+    "HR technology",
+    "enterprise solutions",
+    "payment automation",
+    "personalized experiences"
+  ],
+  "primary_users": [
+    "Hiring Manager"
+  ],
+  "deployment_options": [
+    "SaaS"
+  ],
+  "scalability_features": [
+    "Driving personalized experiences at scale"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,119 @@
+{
+  "id": 69,
+  "name": "entomo",
+  "description": "entomo is a people experience platform built for the digital world of work. Powering 30mn+ users across organizations world-wide, entomo unleashes digital experiences that transform engagement, performance and talent development using hyper personalized insights and nudges. entomo\u2019s clients include Global fortune 500 and large enterprises and Governments across Asia and MEA. entomo is also voted as a leader in G2 software marketplace across multiple categories",
+  "features": [
+    "Everyday alignment of organizational, team and individual goals",
+    "Personalized insights and nudges to drive power performance behaviors",
+    "Engage and empower talent development and skills"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Performance management solutions",
+    "Employee engagement software",
+    "Talent management software"
+  ],
+  "tags": [
+    "Employee engagement"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2008",
+  "order": 20045,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "unleash people experiences that transform performance, engagement and talent ",
+  "ProductId": null,
+  "ShortDescription": "people experience platform built for the digital world of work",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-16T14:26:54.896Z",
+  "enhanced_description": "entomo is a leading people experience platform designed for the modern digital workplace. It empowers over 30 million users globally by delivering hyper-personalized insights and nudges to transform employee engagement, performance, and talent development. Key functionalities include everyday alignment of organizational, team, and individual goals, driving performance behaviors through personalized insights, and fostering talent development and skill growth. entomo serves Global Fortune 500 companies, large enterprises, and Governments across Asia and MEA, and is recognized as a leader in various categories on the G2 software marketplace.",
+  "target_industries": [
+    "Government"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Goal Setting & Alignment",
+    "Performance Management",
+    "Talent Development",
+    "Employee Engagement",
+    "Skill Management",
+    "Personalized Employee Nudges"
+  ],
+  "competitive_advantages": [
+    "Hyper-personalized insights and nudges",
+    "Extensive global user base (30M+ users)",
+    "Proven success with Global Fortune 500 and large enterprises",
+    "Recognition as a leader in G2 software marketplace",
+    "Focus on holistic 'People Experience' transformation"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Performance Management",
+    "Employee Engagement",
+    "Talent Development",
+    "Skills Management",
+    "Goal Management"
+  ],
+  "roi_benefits": [
+    "Improved Employee Engagement",
+    "Enhanced Employee Performance",
+    "Accelerated Talent Development",
+    "Increased Employee Happiness",
+    "Digital Transformation of People Experiences"
+  ],
+  "searchable_keywords": [
+    "people experience platform",
+    "employee engagement software",
+    "performance management solutions",
+    "talent management software",
+    "talent development",
+    "goal alignment",
+    "personalized insights",
+    "employee nudges",
+    "HR technology",
+    "digital workplace",
+    "skill development",
+    "employee happiness"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Professionals",
+    "Managers"
+  ],
+  "scalability_features": [
+    "Proven scalability supporting 30M+ users globally"
+  ],
+  "_weight": 1
+}

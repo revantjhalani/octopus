@@ -1,0 +1,148 @@
+{
+  "id": 180,
+  "name": "OC Tanner",
+  "description": "O.C. Tanner improves workplace cultures through personalized employee recognition solutions, so people feel appreciated, do their best work, and come to stay.",
+  "features": [
+    "Rewards and Recognition",
+    "Employee Appreciation",
+    "Create culture-building peak experiences",
+    "Employee Recognition Programs",
+    "Employee Recognition Companies",
+    "Leadership Training"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration software",
+    "Employee recognition software",
+    "Benefits administration services",
+    "Compensation management software",
+    "Performance management system",
+    "Performance management solutions",
+    "Performance Review software",
+    "Sales compensation software",
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Employee happiness",
+    "Company culture",
+    "Employee satisfaction",
+    "Employee benefits",
+    "Employee recognition",
+    "Employee happiness metrics",
+    "Employee happiness programs"
+  ],
+  "headquarter": "Salt Lake City, UT",
+  "launch_date": "1927",
+  "order": 20147,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Helping every employee thrive at work",
+  "ProductId": null,
+  "ShortDescription": "O.C. Tanner improves workplace cultures through personalized employee recognition solutions.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "EMPLOYEE RECOGNITION",
+      "sequence": 0,
+      "description": "Employee recognition platform offers more ways to give, receive, and measure recognition than any other."
+    },
+    {
+      "name": "In-app support",
+      "sequence": 1,
+      "description": "Receive helpful prompts, access self-serve user guidance, and get chat support from within Culture Cloud."
+    },
+    {
+      "name": "Admin Tools",
+      "sequence": 2,
+      "description": "See live stats, culture impact, and flight risk. Export data. Manage budgets. Spark participation and gather feedback. We have tools for all of it"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:01.613Z",
+  "enhanced_description": "O.C. Tanner provides personalized employee recognition solutions aimed at improving workplace cultures, fostering appreciation, optimal performance, and employee retention. Their core offering, the Culture Cloud platform, delivers extensive tools for giving, receiving, and measuring recognition, offering more ways than any other. It includes robust admin features for tracking live stats, culture impact, flight risk, managing budgets, sparking participation, and gathering feedback. Additionally, O.C. Tanner offers leadership training to support culture development.",
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Implementing personalized employee recognition programs",
+    "Enhancing employee appreciation across the organization",
+    "Fostering a positive and engaged workplace culture",
+    "Measuring the impact of recognition initiatives on business outcomes",
+    "Providing leadership training for cultural development",
+    "Managing employee recognition budgets and related data analytics"
+  ],
+  "competitive_advantages": [
+    "Offers more ways to give, receive, and measure recognition than competitors"
+  ],
+  "hr_functions_supported": [
+    "Employee Recognition",
+    "Employee Engagement",
+    "Culture Management",
+    "Leadership Development",
+    "HR Analytics"
+  ],
+  "integration_capabilities": [],
+  "roi_benefits": [
+    "Improved employee retention",
+    "Increased employee engagement and happiness",
+    "Enhanced employee performance",
+    "Stronger workplace culture"
+  ],
+  "searchable_keywords": [
+    "OC Tanner",
+    "employee recognition",
+    "workplace culture",
+    "employee appreciation",
+    "rewards and recognition",
+    "employee recognition programs",
+    "employee happiness",
+    "employee engagement",
+    "company culture",
+    "employee satisfaction",
+    "leadership training",
+    "culture cloud",
+    "HR analytics",
+    "talent retention",
+    "total rewards software"
+  ],
+  "primary_users": [
+    "HR Administrators",
+    "Managers",
+    "Team Leaders",
+    "Employees (all levels)"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "scalability_features": [
+    "Designed for large enterprises",
+    "Robust data analytics for large user bases"
+  ],
+  "_weight": 1
+}

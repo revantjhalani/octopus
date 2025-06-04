@@ -1,0 +1,191 @@
+{
+  "id": 1278,
+  "name": "Enthral",
+  "description": "Enthral is a leading provider of enterprise-class AI-powered learning platforms - a Learning Management System (LMS) and a Learning Experience Platform (LXP). Covering the entire enterprise learning lifecycle - from content creation to measuring learning's impact on your business, our platforms enable you with all the tools you need for your employee, customer and partner training and skilling.",
+  "features": [
+    "AI powered learning",
+    "Content Authoring",
+    "Mobile Learning",
+    "Assessments & Certifications",
+    "Gamification"
+  ],
+  "founders": [
+    "Asma A Shaikh"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training & development companies",
+    "Training management system",
+    "Training eLearning software",
+    "Corporate LMS",
+    "Learning Experience Systems (LXPs)",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Training effectiveness",
+    "Skill acquisition",
+    "Training methodologies",
+    "Employee benefits",
+    "Employee engagement",
+    "Employee happiness",
+    "Employee satisfaction",
+    "Employee development",
+    "Skill development",
+    "Learning efficiency",
+    "Learning speed",
+    "Learning optimisation",
+    "Adaptive learning",
+    "Personalised learning",
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning"
+  ],
+  "headquarter": "Pune, Maharashtra",
+  "launch_date": "2009",
+  "order": 21105,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Start Training. Stop Waiting",
+  "ProductId": null,
+  "ShortDescription": "Learning Managment and Learning Experience Platform Redefined",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Enthral LMS",
+      "sequence": 0,
+      "description": "A robust, feature-rich, forward-looking Learning Management Platform for your entire workforce"
+    },
+    {
+      "name": "Enthral LXP",
+      "sequence": 1,
+      "description": "An AI-Powered Learning Experience Platform for delivering personalized upskilling experiences at scale"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:13:52.468Z",
+  "enhanced_description": "Enthral is a leading provider of enterprise-class AI-powered learning platforms, encompassing both a Learning Management System (LMS) and a Learning Experience Platform (LXP). These platforms cover the entire enterprise learning lifecycle, from content creation and authoring to assessments, certifications, and measuring learning's impact on the business. With features like AI-powered learning, mobile learning, and gamification, Enthral provides comprehensive tools for employee, customer, and partner training and skilling, aiming to accelerate skill development and enhance learning efficiency.",
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee training and skilling",
+    "Customer training",
+    "Partner training",
+    "Content creation for learning programs",
+    "Learning assessment and certification",
+    "Gamified learning experiences",
+    "Personalized upskilling experiences",
+    "Measuring learning's business impact"
+  ],
+  "competitive_advantages": [
+    "Dual offering of robust LMS and AI-powered LXP platforms",
+    "Comprehensive coverage of the entire enterprise learning lifecycle",
+    "AI-powered learning capabilities for enhanced experiences",
+    "Focus on personalized and adaptive upskilling at scale",
+    "Built-in content authoring tools",
+    "Integrated mobile learning support",
+    "Advanced assessment and certification functionalities",
+    "Gamification features to drive engagement",
+    "Emphasis on learning analytics and optimization"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Employee Development",
+    "Skill Development"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Enhanced training effectiveness",
+    "Increased skill acquisition",
+    "Optimized learning outcomes",
+    "Improved learning speed",
+    "Better learning retention",
+    "Promotion of continuous learning",
+    "Positive impact on employee engagement and satisfaction"
+  ],
+  "searchable_keywords": [
+    "Enthral",
+    "AI-powered learning",
+    "Learning Management System",
+    "LMS",
+    "Learning Experience Platform",
+    "LXP",
+    "enterprise learning",
+    "content creation",
+    "learning impact measurement",
+    "employee training",
+    "customer training",
+    "partner training",
+    "skilling",
+    "Content Authoring",
+    "Mobile Learning",
+    "Assessments",
+    "Certifications",
+    "Gamification",
+    "Learning and Development",
+    "Training management system",
+    "Training eLearning software",
+    "Corporate LMS",
+    "Artificial intelligence",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Training methodologies",
+    "Employee benefits",
+    "Employee engagement",
+    "Employee happiness",
+    "Employee satisfaction",
+    "Employee development",
+    "Skill development",
+    "Learning efficiency",
+    "Learning speed",
+    "Learning optimisation",
+    "Adaptive learning",
+    "Personalised learning",
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning",
+    "upskilling",
+    "workforce training"
+  ],
+  "primary_users": [
+    "Employees",
+    "Customers",
+    "Partners",
+    "L&D professionals",
+    "HR professionals"
+  ],
+  "scalability_features": [
+    "Designed for enterprise-class usage",
+    "Supports personalized upskilling experiences at scale"
+  ],
+  "_weight": 1
+}

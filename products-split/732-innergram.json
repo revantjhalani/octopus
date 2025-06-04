@@ -1,0 +1,147 @@
+{
+  "id": 732,
+  "name": "InnerGram",
+  "description": "Inner pertains to the mind and gram comes from the Greek word gramma which means something written or drawn, akin to carved. The distinctive ability of a human brain is its ability to create connections, see patterns, and build maps. This process is essential for sophisticated management of life and relies on the activity of the neurons in the brain. We are a team with diverse mindsets and backgrounds but with one thing in common - our passion for understanding the human mind and the drivers of behaviour and using that knowledge to create the next phase in the development of people and organisations.",
+  "features": [
+    "We connect the brain sciences to human & organisational behaviour.",
+    "To understand the individual causes of behavior that come from life experience.",
+    "And help organisations to realign and adapt people practices, processes & culture."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing services providers",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring efficiency"
+  ],
+  "headquarter": "Gurgaon, HR",
+  "launch_date": "2017",
+  "order": 20685,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Understanding the mind & brain",
+  "ProductId": null,
+  "ShortDescription": "Inner pertains to the mind and gram comes from the Greek word gramma which means something written",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "INSIGHT",
+      "sequence": 0,
+      "description": "To understand the individual causes of behaviour that come from life experience."
+    },
+    {
+      "name": "SCIENCE",
+      "sequence": 1,
+      "description": "We connect the brain sciences to human & organisational behaviour."
+    },
+    {
+      "name": "INSPIRE",
+      "sequence": 2,
+      "description": "To inspire passion, energy and attachment in the pursuit of organisational goals."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:26.522Z",
+  "enhanced_description": "InnerGram leverages brain sciences and the understanding of the human mind to analyze individual behaviors and their causes stemming from life experiences. The service aims to help organizations realign and adapt their people practices, processes, and culture. By applying insights from neuroscience, InnerGram seeks to develop people and organizations, specifically focusing on boosting hiring manager confidence and productivity, and improving employee happiness and engagement, while inspiring passion and attachment towards organizational goals. Operating as an HR consulting and staffing services provider, InnerGram supports large and global enterprise clients.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Applying brain science insights to human and organizational behavior",
+    "Understanding individual behavioral drivers from life experience",
+    "Realigning and adapting organizational people practices, processes, and culture",
+    "Boosting hiring manager confidence and productivity",
+    "Improving employee happiness and engagement",
+    "Inspiring passion, energy, and attachment in the pursuit of organizational goals"
+  ],
+  "competitive_advantages": [
+    "Unique approach connecting brain sciences directly to human and organizational behavior",
+    "Focus on understanding the human mind and drivers of behavior as a core methodology"
+  ],
+  "implementation_scenarios": [
+    "Consulting engagements for organizational development",
+    "Advisory services for talent strategy and people practices"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Hiring",
+    "Employee Engagement",
+    "Organizational Development",
+    "Culture Transformation",
+    "HR Consulting",
+    "Staffing Services"
+  ],
+  "roi_benefits": [
+    "Increased hiring manager confidence",
+    "Improved hiring productivity",
+    "Enhanced employee happiness",
+    "Higher employee engagement",
+    "Better organizational alignment and adaptation of people practices",
+    "Improved organizational performance through inspired workforce"
+  ],
+  "searchable_keywords": [
+    "InnerGram",
+    "mind",
+    "brain",
+    "brain sciences",
+    "human behavior",
+    "organizational behavior",
+    "drivers of behavior",
+    "people development",
+    "organizational development",
+    "HR consulting",
+    "staffing services",
+    "recruiting",
+    "hiring",
+    "hiring efficiency",
+    "hiring manager confidence",
+    "employee happiness",
+    "employee engagement",
+    "culture alignment",
+    "people practices",
+    "insight",
+    "science",
+    "inspire"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "HR Business Partners",
+    "Hiring Managers",
+    "Organizational Development Specialists"
+  ],
+  "deployment_options": [
+    "Service-based (consulting engagements)"
+  ],
+  "_weight": 1
+}

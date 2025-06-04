@@ -1,0 +1,172 @@
+{
+  "id": 46,
+  "name": "HR Anexi / Mentoria",
+  "description": "HR Anexi empowers HR to lead organizational transformation, offering a comprehensive suite of services for family-owned businesses. From aligning HR strategy with business goals to performance management and employee development, we provide a one-stop solution. Our collaborative approach fosters modern HR practices, ensuring businesses thrive with actionable insights and enhanced employee engagement.",
+  "features": [
+    "Customized HR Strategy",
+    "Actionable & Scalable HR Plans",
+    "Business-Driven Focus"
+  ],
+  "founders": [
+    "Usha Arora"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Employee recognition software",
+    "Performance management system",
+    "Performance management solutions",
+    "Performance Review software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee satisfaction",
+    "Employee benefits",
+    "Employee recognition",
+    "Employee empowerment"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2007",
+  "order": 20023,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "HR Anexi Makes a Difference, Every Single Day",
+  "ProductId": null,
+  "ShortDescription": "HR Anexi helps unlock your people potential",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Full-Spectrum HR Support",
+      "sequence": 0,
+      "description": "Manage all your HR needs, from structure & performance to compensation & rightsizing."
+    },
+    {
+      "name": "Data-Driven Insights",
+      "sequence": 1,
+      "description": "Conduct employee surveys, assess talent & culture, and identify training needs for strategic HR decisions."
+    },
+    {
+      "name": " Top Talent Acquisition",
+      "sequence": 2,
+      "description": "Leverage their proven process to find and place high-performing leaders for your organization."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-15T12:05:33.474Z",
+  "enhanced_description": "HR Anexi, also known as Mentoria, serves as a comprehensive one-stop solution designed to empower HR professionals in leading organizational transformation, particularly for family-owned businesses. It offers a full spectrum of HR support, from aligning HR strategy with overarching business goals to detailed performance management, employee development, and rightsizing. The service provides actionable and scalable HR plans with a strong business-driven focus, fostering modern HR practices through a collaborative approach. Key offerings include managing organizational structure, compensation, and leveraging data-driven insights through employee surveys, talent assessments, and culture evaluations to identify training needs. HR Anexi also specializes in top talent acquisition, employing a proven process to identify and place high-performing leaders, ultimately ensuring businesses thrive with enhanced employee engagement and by unlocking their people's full potential.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Aligning HR strategy with business goals",
+    "Implementing performance management systems",
+    "Fostering employee development",
+    "Conducting employee surveys for insights",
+    "Assessing organizational talent and culture",
+    "Identifying training needs for strategic HR decisions",
+    "Acquiring and placing top talent/high-performing leaders",
+    "Managing organizational structure",
+    "Managing compensation strategies",
+    "Rightsizing HR needs and workforce",
+    "Improving employee engagement and happiness"
+  ],
+  "competitive_advantages": [
+    "Comprehensive full-spectrum HR support (strategy, performance, compensation, rightsizing)",
+    "One-stop solution for diverse HR needs",
+    "Collaborative approach fostering modern HR practices",
+    "Provides actionable and scalable HR plans",
+    "Strong business-driven focus for HR initiatives",
+    "Delivers data-driven insights for strategic HR decisions",
+    "Proven process for top talent acquisition and leadership placement",
+    "Aims to unlock people potential and enhance employee engagement"
+  ],
+  "hr_functions_supported": [
+    "HR Strategy",
+    "Performance Management",
+    "Employee Development",
+    "Employee Engagement",
+    "Employee Recognition",
+    "Talent Acquisition",
+    "Talent Management (Assessment)",
+    "Compensation Management",
+    "Organizational Design & Structure",
+    "Workforce Planning (Rightsizing)",
+    "Learning & Development (Training Needs Identification)",
+    "Culture Assessment"
+  ],
+  "roi_benefits": [
+    "Lead organizational transformation",
+    "Ensure businesses thrive",
+    "Provide actionable insights for decision making",
+    "Enhance employee engagement",
+    "Improve employee happiness",
+    "Unlock people potential",
+    "Achieve strategic HR decisions through data"
+  ],
+  "searchable_keywords": [
+    "HR Anexi",
+    "Mentoria",
+    "HR strategy",
+    "HR plans",
+    "Business-driven HR",
+    "Employee engagement",
+    "Employee happiness",
+    "Employee satisfaction",
+    "Employee benefits",
+    "Employee recognition",
+    "Employee empowerment",
+    "Total Rewards",
+    "Performance management system",
+    "Performance management solutions",
+    "Performance Review software",
+    "Organizational transformation",
+    "Family-owned businesses",
+    "Full-spectrum HR support",
+    "Organizational structure",
+    "Compensation management",
+    "Rightsizing",
+    "Employee surveys",
+    "Talent assessment",
+    "Culture assessment",
+    "Training needs identification",
+    "Talent acquisition",
+    "Leadership placement",
+    "People potential",
+    "HR consulting"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "HR leaders",
+    "Business leaders"
+  ],
+  "scalability_features": [
+    "Scalable HR Plans"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,139 @@
+{
+  "id": 191,
+  "name": "Open Offers",
+  "description": "OpenOffers is an enterprise SaaS platform that provides a consent-based, private, and verified network for recruiters. It ensures timely visibility into candidates likely to turn down job offers, helping employers avoid last-minute no-shows. OpenOffers is ideal for recruiters facing business risks from candidates opting out after committing, offering a solution to the growing challenge of high demand and multiple job offers for skilled professionals.",
+  "features": [
+    "We don't stop candidates from picking multiple offers.",
+    "This is not a spy/policing platform but a candidate consent-based platform.",
+    "We do not sell data but live on subscription fees."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Staffing & management software"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent acquisition"
+  ],
+  "headquarter": "Bangalore, Karnataka",
+  "launch_date": "2021",
+  "order": 20158,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Addressing Candidate No Show On Date Of Joining",
+  "ProductId": null,
+  "ShortDescription": "OpenOffers believes employers should know if candidates won't honor their commitment.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Hire Laid Off Employees",
+      "sequence": 0,
+      "description": "Get Early Access to the repository of Laid Off Employees and Hire!"
+    },
+    {
+      "name": "  We Want Our Laid Off Employees To Get Placed",
+      "sequence": 1,
+      "description": "Upload list of laid off Employees or resumes with the community so that they can be hired fast."
+    },
+    {
+      "name": "For Employees",
+      "sequence": 2,
+      "description": "Get Jobs If You Are An Impacted Employees."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:13.092Z",
+  "enhanced_description": "OpenOffers is an enterprise SaaS platform designed to mitigate the significant business risk of candidate no-shows on the date of joining. It provides a consent-based, private, and verified network for recruiters, offering timely visibility into candidates likely to decline job offers. This platform is ideal for employers and recruiters navigating the challenges of high demand and multiple job offers for skilled professionals. Beyond preventing no-shows, OpenOffers also facilitates the hiring and placement of laid-off employees by offering early access to a repository of such talent, allowing companies to upload lists of their own laid-off employees for community placement, and helping impacted employees find new jobs.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Mitigating candidate no-shows on the date of joining",
+    "Gaining timely visibility into candidates considering multiple job offers",
+    "Streamlining the hiring process for laid-off employees",
+    "Facilitating the placement of laid-off employees within a community network",
+    "Boosting hiring manager confidence in recruitment outcomes"
+  ],
+  "competitive_advantages": [
+    "Consent-based and candidate-friendly approach (does not restrict multiple offers)",
+    "Private and verified network for recruiters",
+    "Focus on data privacy (does not sell data)",
+    "Proactive identification of no-show risks",
+    "Specific functionality for hiring and placing laid-off employees"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Staffing",
+    "Candidate Management (offer acceptance/no-show focus)",
+    "Outplacement Support"
+  ],
+  "roi_benefits": [
+    "Reduced costs associated with candidate no-shows and recruitment delays",
+    "Improved hiring manager productivity and confidence",
+    "Faster access to a pool of laid-off talent",
+    "Enhanced predictability and efficiency in the recruitment process"
+  ],
+  "searchable_keywords": [
+    "Open Offers",
+    "recruiting software",
+    "talent acquisition",
+    "hiring",
+    "candidate no-show",
+    "no-show prevention",
+    "offer management",
+    "recruitment risk management",
+    "staffing software",
+    "laid-off employees",
+    "outplacement",
+    "employee placement",
+    "consent-based platform",
+    "private network",
+    "verified network",
+    "recruiter network",
+    "enterprise SaaS",
+    "talent management"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Hiring Managers",
+    "Employers",
+    "Candidates (specifically laid-off employees seeking jobs)"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "_weight": 1
+}

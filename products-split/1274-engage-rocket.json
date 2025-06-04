@@ -1,0 +1,152 @@
+{
+  "id": 1274,
+  "name": "Engage Rocket",
+  "description": "Engage Rocket empowers organizations with a leading global employee experience platform, fostering a culture of success. Trusted by companies in 18 countries across 20 industries, our technology facilitates continuous listening and real-time analytics. With us, organizations enhance employee engagement, leading to increased productivity and a workplace where individuals thrive and perform at their best, driving success for both people and businesses alike.",
+  "features": [
+    "Team Sentiment Visibility",
+    "Data-Driven Decisions",
+    "Intelligent Action Planning"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Employee engagement software",
+    "Employee grievance",
+    "HR management suites",
+    "Internet of things"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee development",
+    "Hiring tools",
+    "Hiring process optimization",
+    "Hiring automation"
+  ],
+  "headquarter": "Austin, Texas",
+  "launch_date": "2016",
+  "order": 21102,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Engage your people. Build an elite workplace.",
+  "ProductId": null,
+  "ShortDescription": "Employee engagement platform that boosts satisfaction and retention from day one.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Benchmark with Industry Data",
+      "sequence": 0,
+      "description": "See how you stack up. EngageRocket lets you compare your employee experience metrics to similar businesses."
+    },
+    {
+      "name": "Dedicated People Science Team",
+      "sequence": 1,
+      "description": "Data-driven insights you can trust. Our team of experts ensures every analysis is grounded in research."
+    },
+    {
+      "name": "Caring Customer Success Champions",
+      "sequence": 2,
+      "description": "Your success is our mission. We're here to help you get the most out of Engage Rocket every step of the way."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:13:46.610Z",
+  "enhanced_description": "Engage Rocket is a leading global employee experience platform designed to foster a culture of success through continuous listening and real-time analytics. Trusted by companies across 18 countries and 20 industries, it empowers organizations of all sizes, from small to large and global enterprises. The platform provides team sentiment visibility, enables data-driven decisions, and facilitates intelligent action planning. Key benefits include enhancing employee engagement, accelerating skill development, boosting satisfaction and retention, and ultimately increasing productivity to drive success for both people and businesses. It offers unique features like benchmarking with industry data and is supported by a dedicated People Science Team and caring Customer Success Champions.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Continuous employee listening",
+    "Real-time employee analytics",
+    "Enhancing employee engagement",
+    "Boosting employee satisfaction and retention",
+    "Increasing employee productivity",
+    "Fostering a thriving workplace environment",
+    "Gaining visibility into team sentiment",
+    "Supporting data-driven HR decisions",
+    "Facilitating intelligent action planning for engagement initiatives",
+    "Benchmarking employee experience metrics against industry data",
+    "Accelerating skill development and learning efficiency",
+    "Managing employee grievances"
+  ],
+  "competitive_advantages": [
+    "Global reach and trust (18 countries, 20 industries)",
+    "Continuous listening capabilities",
+    "Real-time analytics",
+    "Team Sentiment Visibility",
+    "Data-Driven Decisions feature",
+    "Intelligent Action Planning feature",
+    "Ability to benchmark with industry data",
+    "Dedicated People Science Team for expert insights",
+    "Caring Customer Success Champions for support"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Talent Management",
+    "Employee Development",
+    "Employee Grievance"
+  ],
+  "roi_benefits": [
+    "Enhanced employee engagement",
+    "Increased employee productivity",
+    "Improved employee satisfaction",
+    "Higher employee retention",
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Creation of a thriving workplace where individuals perform at their best"
+  ],
+  "searchable_keywords": [
+    "Engage Rocket",
+    "Employee engagement",
+    "Employee experience platform",
+    "Continuous listening",
+    "Real-time analytics",
+    "Team sentiment",
+    "Data-driven HR",
+    "Action planning",
+    "Productivity",
+    "Employee satisfaction",
+    "Employee retention",
+    "Talent management",
+    "Employee development",
+    "HR management",
+    "Employee grievance",
+    "Industry benchmarking",
+    "People science",
+    "HR tech",
+    "Workplace culture",
+    "Employee performance"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Managers / Team Leaders",
+    "Business Leaders"
+  ],
+  "_weight": 1
+}

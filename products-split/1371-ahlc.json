@@ -1,0 +1,174 @@
+{
+  "id": 1371,
+  "name": "AHLC",
+  "description": "We bring together our consulting insights, theoretical frameworks, and capability-building expertise to create highly-specialized learning and certification journeys for HR professionals.\n\nWe exist to shape decisions for the better\u2014to protect and enrich the lives of people around the world. Our colleagues provide our clients in over 120 countries with advice and solutions that give them the clarity and confidence to make better decisions to protect and grow their business.",
+  "features": [
+    "Human Resources and HR Certifications",
+    "Designs compensation strategy",
+    "Training, and Performance Management"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Training management system",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised learning",
+    "Personalised Learning",
+    "Learning retention",
+    "Continuous learning"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2012",
+  "order": 999,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Level-up HR with Specialised Learning",
+  "ProductId": null,
+  "ShortDescription": "AHLC provides application-based learning to help HR, people managers and business leaders impact business outcomes.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Human Resource Consulting Services",
+      "sequence": 0,
+      "description": "Aon is the global leader in human resource consulting. We partner with your organisation to measure, design, develop and deliver strategies to help you achieve business and results."
+    },
+    {
+      "name": "Human Resource Data and Benchmarking",
+      "sequence": 1,
+      "description": "Aon's leading research delivers analysis and fact-based into all areas of HR Management.  Our extensive data and benchmarking capabilities can help you gain a holistic understanding of how your organisation compares with others in the market. "
+    },
+    {
+      "name": "Total Rewards Strategy",
+      "sequence": 2,
+      "description": "With the changing business sentiment, compensation budgets have seen an increase for India Inc. and so have employee expectations. However, cost optimisation and focus on performance still remain India Inc's top focus areas. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-12T10:24:59.823Z",
+  "enhanced_description": "AHLC, a service offering by Aon, provides highly specialized, application-based learning and certification journeys designed for HR professionals, people managers, and business leaders. Its primary objective is to accelerate skill development and learning efficiency, enabling clients to drive and impact business outcomes. Beyond its core learning and development offerings, AHLC delivers comprehensive human resource consulting services, encompassing human resource data and benchmarking capabilities, and expert design of compensation strategies, including Total Rewards Strategy. The company leverages its consulting insights and theoretical frameworks to provide clarity and confidence for better decision-making, serving clients globally across over 120 countries, with specific expertise in markets such as India Inc.",
+  "target_industries": [],
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "HR professional certification",
+    "Accelerating HR skill development",
+    "Enhancing learning efficiency within HR teams",
+    "Designing and implementing compensation strategies",
+    "Managing employee training programs",
+    "Implementing performance management frameworks",
+    "Providing human resource consulting services",
+    "Conducting HR data analysis and benchmarking",
+    "Developing and delivering bespoke learning journeys"
+  ],
+  "competitive_advantages": [
+    "Leverages Aon's global leadership in human resource consulting",
+    "Offers highly-specialized and application-based learning and certification journeys",
+    "Provides extensive human resource data and benchmarking capabilities",
+    "Combines consulting insights with theoretical frameworks for capability-building",
+    "Global reach, serving clients in over 120 countries"
+  ],
+  "implementation_scenarios": [],
+  "hr_functions_supported": [
+    "Human Resources Management",
+    "HR Certifications",
+    "Learning and Development",
+    "Training Management",
+    "Performance Management",
+    "Compensation & Benefits (Total Rewards Strategy)",
+    "HR Consulting",
+    "HR Data Analytics",
+    "Benchmarking"
+  ],
+  "technology_stack": [],
+  "integration_capabilities": [],
+  "roi_benefits": [
+    "Accelerate Skill Development",
+    "Improve Learning Efficiency",
+    "Shape better business decisions",
+    "Protect and grow business",
+    "Achieve measurable business results",
+    "Gain holistic understanding of market comparison through benchmarking",
+    "Impact business outcomes through application-based learning"
+  ],
+  "searchable_keywords": [
+    "AHLC",
+    "HR",
+    "Human Resources",
+    "HR Certifications",
+    "Learning and Development",
+    "Training",
+    "eLearning software",
+    "Training management system",
+    "Training & development companies",
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised learning",
+    "Learning retention",
+    "Continuous learning",
+    "Compensation strategy",
+    "Performance management",
+    "HR consulting",
+    "HR data",
+    "Benchmarking",
+    "Total Rewards Strategy",
+    "People managers",
+    "Business leaders",
+    "Application-based learning"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "People managers",
+    "Business leaders"
+  ],
+  "deployment_options": [],
+  "compliance_features": [],
+  "scalability_features": [],
+  "security_features": [],
+  "_weight": 1
+}

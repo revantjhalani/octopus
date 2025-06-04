@@ -1,0 +1,144 @@
+{
+  "id": 323,
+  "name": "Trophykart",
+  "description": "Trophykart is an online store for procuring corporate gifts, onboarding kits, trophies and awards. By understanding your needs & budgets, we can curate the best combos, kits, client gifts, employee awards. Not only that, Trophykart customize them for your brand & business and deliver it across India. Operating from Bangalore, Trophykart proudly catering to renowned corporates and businesses across India.4",
+  "features": [
+    "User-friendly interface",
+    "Professional Team",
+    "Premium Quality & Affordable Pricing"
+  ],
+  "founders": [
+    "Rakhee Mehra "
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Employee recognition software",
+    "Sales compensation software",
+    "Compensation management software"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Employee recognition"
+  ],
+  "headquarter": "Bangalore, Karnataka                   ",
+  "launch_date": "2014",
+  "order": 20285,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "The online store for Corporate Gifts & Awards",
+  "ProductId": null,
+  "ShortDescription": "Trophykart is an online store for procuring corporate gifts, onboarding kits, trophies and awards.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Catalog of over 4000 products",
+      "sequence": 0,
+      "description": "We provide the comfort to get access of all types of Trophies, Medals, Custom Awards, T-shirts & Corporate Gifts under one stop, order and get them deliver at their doorstep with personalisation. "
+    },
+    {
+      "name": "Customized gifts for your Brand / Company",
+      "sequence": 1,
+      "description": " We take the responsibility of your Awards and customized Gifting needs, so that you can focus on other requirements without having to worry on this."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:14.864Z",
+  "enhanced_description": "Trophykart is a dedicated online store offering a comprehensive catalog of over 4000 products, including corporate gifts, onboarding kits, trophies, medals, custom awards, and T-shirts. Based in Bangalore, Trophykart caters to renowned corporates and businesses across India, providing end-to-end solutions from needs assessment and budget-aligned curation to brand customization and nationwide doorstep delivery. The service aims to improve employee happiness and engagement through premium quality, affordable and personalized recognition solutions, allowing clients to focus on other core business requirements.",
+  "ideal_company_sizes": [
+    "Mid-market",
+    "Enterprise"
+  ],
+  "key_use_cases": [
+    "Procuring corporate gifts",
+    "Procuring onboarding kits",
+    "Procuring trophies and awards",
+    "Curating client gifts",
+    "Curating employee awards",
+    "Customizing gifts for brand and business",
+    "Improving employee happiness and engagement through recognition"
+  ],
+  "competitive_advantages": [
+    "User-friendly interface",
+    "Professional team",
+    "Premium quality and affordable pricing",
+    "Extensive catalog of over 4000 products",
+    "Customization services for brand/company",
+    "Nationwide delivery across India",
+    "One-stop shop for awards and corporate gifting needs"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards",
+    "Employee Recognition",
+    "Employee Benefits",
+    "Employee Engagement"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Cost-effectiveness through affordable pricing",
+    "Time savings by managing awards and gifting needs",
+    "Convenience of one-stop shop with doorstep delivery"
+  ],
+  "searchable_keywords": [
+    "Trophykart",
+    "Corporate gifts",
+    "Onboarding kits",
+    "Trophies",
+    "Awards",
+    "Online store",
+    "Customization",
+    "Brand personalization",
+    "India delivery",
+    "User-friendly interface",
+    "Premium quality",
+    "Affordable pricing",
+    "Employee happiness",
+    "Employee engagement",
+    "Total Rewards",
+    "Employee recognition",
+    "Employee benefits",
+    "Medals",
+    "Custom awards",
+    "T-shirts",
+    "Doorstep delivery",
+    "Employee recognition software",
+    "Sales compensation software",
+    "Compensation management software"
+  ],
+  "primary_users": [
+    "HR Departments",
+    "People & Culture Teams",
+    "Employee Engagement Teams",
+    "Learning & Development Teams",
+    "Sales Teams (for client gifts)",
+    "Marketing Teams (for client gifts)"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "_weight": 1
+}

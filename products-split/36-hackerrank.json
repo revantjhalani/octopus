@@ -1,0 +1,183 @@
+{
+  "id": 36,
+  "name": "HackerRank",
+  "description": "HackerRank is a technology hiring platform that is the standard for assessing developer skills for over 3,000+ companies around the world. By enabling tech recruiters and hiring managers to objectively evaluate talent at every stage of the recruiting process, HackerRank helps companies hire skilled developers and innovate faster!",
+  "features": [
+    "Data-Driven Decisions",
+    "Effortless Hiring Experience",
+    "Candidate-Centric Approach"
+  ],
+  "founders": [
+    " Vivek Ravisankar",
+    " Harishankaran Karunanidhi"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Training & development companies",
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Recruiting software",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised learning",
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning",
+    "Hiring efficiency",
+    "Recruiting efficiency"
+  ],
+  "headquarter": "Mountain View, California",
+  "launch_date": "2012",
+  "order": 20016,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Every company is a tech company. We\u2019re here to help \u2018em all.",
+  "ProductId": null,
+  "ShortDescription": "It\u2019s not a pipeline problem. It\u2019s a spotlight problem.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Job-Specific Assessments",
+      "sequence": 0,
+      "description": "Assess coding skills that matter by designing assessments that mirror the real-world challenges your developers will face."
+    },
+    {
+      "name": "Skills-Based Hiring",
+      "sequence": 1,
+      "description": "Move beyond resumes and focus on code. Build skills-based assessments to find the perfect fit for your team."
+    },
+    {
+      "name": "Data-Driven Talent Identification",
+      "sequence": 2,
+      "description": " Identify top talent objectively with HackerEarth's data-driven insights. Make informed hiring choices based on real skills, not just resumes."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": null,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-09T10:44:39.215Z",
+  "enhanced_description": "HackerRank is a comprehensive technology hiring and skill development platform, recognized as a standard for assessing developer skills by over 3,000+ companies globally. It empowers tech recruiters and hiring managers to objectively evaluate talent throughout the recruiting process by providing job-specific assessments, facilitating skills-based hiring, and enabling data-driven talent identification. Beyond hiring, HackerRank also supports companies in accelerating skill development and learning efficiency for their tech workforce, helping organizations innovate faster by ensuring they can identify and cultivate skilled developers.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Developer skill assessment",
+    "Technical talent acquisition",
+    "Objective candidate evaluation in recruiting",
+    "Skills-based recruitment",
+    "Data-driven talent identification",
+    "Accelerating technical skill development",
+    "Learning and development for tech professionals"
+  ],
+  "competitive_advantages": [
+    "Established standard for developer skill assessment (used by 3,000+ companies)",
+    "Enables objective evaluation of talent",
+    "Facilitates data-driven hiring decisions",
+    "Promotes an effortless hiring experience",
+    "Offers a candidate-centric approach",
+    "Supports skills-based hiring over resume-based screening",
+    "Provides job-specific assessments mirroring real-world challenges"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Learning and Development"
+  ],
+  "technology_stack": [
+    "Artificial intelligence"
+  ],
+  "roi_benefits": [
+    "Faster innovation through skilled hires",
+    "Improved hiring efficiency",
+    "Accelerated skill development and learning efficiency",
+    "Enhanced recruiting efficiency",
+    "Optimized learning outcomes and speed",
+    "Improved learning retention",
+    "More informed hiring choices based on real skills"
+  ],
+  "searchable_keywords": [
+    "HackerRank",
+    "technology hiring",
+    "developer skills assessment",
+    "tech recruiters",
+    "hiring managers",
+    "objective talent evaluation",
+    "recruiting process",
+    "skilled developers",
+    "innovate faster",
+    "Data-Driven Decisions",
+    "Effortless Hiring Experience",
+    "Candidate-Centric Approach",
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised learning",
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Learning and Development",
+    "Recruiting software",
+    "Training & development companies",
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Artificial intelligence",
+    "Job-Specific Assessments",
+    "Skills-Based Hiring",
+    "Data-Driven Talent Identification",
+    "coding skills",
+    "technical assessment",
+    "pre-employment testing"
+  ],
+  "primary_users": [
+    "Tech Recruiters",
+    "Hiring Managers",
+    "Developers (for skill assessment and development)"
+  ],
+  "_weight": 1
+}

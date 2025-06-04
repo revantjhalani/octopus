@@ -1,0 +1,131 @@
+{
+  "id": 776,
+  "name": "JobTest",
+  "description": "jobtest.org - to empower people and help them make informed career decisions. It\u2019s never too late to find fulfillment in your work, and you don\u2019t need to be a high school student to think about this. In fact, more than 50% of Americans change their careers before retirement - and so did many of us on our team.",
+  "features": [
+    "Offer AI-powered test",
+    "Test-based job opportunities",
+    "Provide career coaching"
+  ],
+  "founders": [
+    "Brian (Youngil) Cho"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Course authoring",
+    "Corporate LMS"
+  ],
+  "tags": [
+    "Learning optimisation",
+    "Continuous learning"
+  ],
+  "headquarter": "Wilmington",
+  "launch_date": "2023",
+  "order": 20729,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Find a career that lights your fire",
+  "ProductId": null,
+  "ShortDescription": "We are a team of recruiters, tech entrepreneurs, data scientists, and HR professionals gathered together with a common goal of empowering people.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "98% Satisfaction Rate",
+      "sequence": 0,
+      "description": "Over 98% of users have indicated that they are satisfied with the results."
+    },
+    {
+      "name": "Improvement Through Feedback",
+      "sequence": 1,
+      "description": "We believe in continuous improvement. Please drop us a note at support@jobtest.org whenever you have feedback for us"
+    },
+    {
+      "name": "Love for Humanity",
+      "sequence": 2,
+      "description": "Empowering people to be successful in their career and in their life is our no. 1 priority. This is heavily rooted in our love for humanity."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:15.350Z",
+  "enhanced_description": "JobTest, operating as jobtest.org, is an HR technology solution designed to empower individuals and help them make informed career decisions, fostering fulfillment in their work. It supports career changers and those seeking to accelerate skill development and learning efficiency. The platform offers an AI-powered test for assessment, provides test-based job opportunities, and delivers career coaching. Rooted in a mission of 'Love for Humanity' and backed by a team of recruiters, tech entrepreneurs, data scientists, and HR professionals, JobTest aims for continuous improvement, evidenced by a 98% user satisfaction rate. It falls under the Learning and Development category, with sub-categories including Course authoring and Corporate LMS functionality.",
+  "ideal_company_sizes": [
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Career Exploration and Decision Making",
+    "Skill Development and Learning Efficiency",
+    "Career Transition Support",
+    "Talent Placement through Test-Based Opportunities",
+    "Employee Learning and Development within an Organizational Context"
+  ],
+  "competitive_advantages": [
+    "AI-powered test capabilities",
+    "High user satisfaction rate (98%)",
+    "Team expertise comprising recruiters, tech entrepreneurs, data scientists, and HR professionals"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Career Management",
+    "Talent Mobility"
+  ],
+  "technology_stack": [
+    "AI"
+  ],
+  "roi_benefits": [
+    "Accelerated Skill Development",
+    "Improved Learning Efficiency"
+  ],
+  "searchable_keywords": [
+    "JobTest",
+    "career decisions",
+    "career fulfillment",
+    "career change",
+    "AI-powered test",
+    "test-based job opportunities",
+    "career coaching",
+    "Learning and Development",
+    "Course authoring",
+    "Corporate LMS",
+    "Learning optimisation",
+    "Continuous learning",
+    "career path",
+    "recruiters",
+    "HR professionals",
+    "empowering people",
+    "Skill Development",
+    "Learning Efficiency"
+  ],
+  "primary_users": [
+    "Individuals seeking career guidance or change",
+    "Employees looking for skill development",
+    "HR Professionals",
+    "L&D Professionals"
+  ],
+  "_weight": 1
+}

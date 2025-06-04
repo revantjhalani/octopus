@@ -1,0 +1,136 @@
+{
+  "id": 289,
+  "name": "Smart WFM",
+  "description": "Smart WFM is a global human capital management (HCM) consultancy specialising in digital transformation. The company\u2019s service offerings include advisory, implementation and support (including SLA). We are the largest UKG consulting partner in Asia Pacific and offer all types of UKG consulting including Workforce Dimensions (WFD), Workforce Central (WFC), Workforce Ready (WFR) and advanced API integration including Dell Boomi. Find out more about our UKG services. Our team are based across Australia, Singapore, Philippines, India and USA.",
+  "features": [
+    "Technical Integration",
+    "HCM or Business Advisory",
+    "Project Management"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Reduce the Cost of Hiring Qualified Employees",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Capital Management"
+  ],
+  "tags": [
+    "Hiring costs",
+    "Recruiting costs",
+    "Hiring",
+    "Quality of hire"
+  ],
+  "headquarter": "Sydney, New South Wales",
+  "launch_date": "2016",
+  "order": 20253,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Personalised outcome based services under SLA to support your business initiatives",
+  "ProductId": null,
+  "ShortDescription": "Smart WFM is a global human capital management (HCM) consultancy specialising in digital transformation. The company\u2019s service offerings include advisory, implementation and support (including SLA).",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:41.083Z",
+  "enhanced_description": "Smart WFM is a global human capital management (HCM) consultancy specializing in digital transformation, providing personalized, outcome-based services under SLA to support business initiatives. Their core service offerings include advisory, implementation, and support for HCM systems. As the largest UKG consulting partner in Asia Pacific, they offer comprehensive consulting services for UKG products such as Workforce Dimensions (WFD), Workforce Central (WFC), and Workforce Ready (WFR), along with advanced API integration expertise, including Dell Boomi. Smart WFM operates with a global team located across Australia, Singapore, Philippines, India, and the USA.",
+  "key_use_cases": [
+    "Digital transformation of HCM systems",
+    "Advisory services for HCM and business strategies",
+    "Implementation of UKG Workforce Dimensions, Workforce Central, and Workforce Ready systems",
+    "Ongoing support for UKG HCM/WFM environments (including SLA-backed services)",
+    "Advanced API integration for HCM platforms, specifically involving Dell Boomi",
+    "Project management for HCM technology initiatives"
+  ],
+  "competitive_advantages": [
+    "Largest UKG consulting partner in Asia Pacific",
+    "Global presence with teams across Australia, Singapore, Philippines, India, and USA",
+    "Offers personalized, outcome-based services under SLA",
+    "Specialization in digital transformation within HCM",
+    "Expertise in advanced API integration, including Dell Boomi"
+  ],
+  "implementation_scenarios": [
+    "New implementations of UKG Workforce Dimensions, Workforce Central, or Workforce Ready",
+    "Upgrades or migrations of existing UKG systems",
+    "Digital transformation projects involving HCM technology"
+  ],
+  "hr_functions_supported": [
+    "Human Capital Management (HCM)",
+    "Workforce Management (WFM)"
+  ],
+  "technology_stack": [
+    "UKG Workforce Dimensions (WFD)",
+    "UKG Workforce Central (WFC)",
+    "UKG Workforce Ready (WFR)",
+    "Dell Boomi"
+  ],
+  "integration_capabilities": [
+    "Advanced API integration",
+    "Dell Boomi integration"
+  ],
+  "roi_benefits": [
+    "Reduce the Cost of Hiring Qualified Employees",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "searchable_keywords": [
+    "Smart WFM",
+    "WFM",
+    "HCM",
+    "HRMS",
+    "Human Capital Management",
+    "Workforce Management",
+    "Digital Transformation",
+    "Consultancy",
+    "Consulting",
+    "Advisory",
+    "Implementation",
+    "Support",
+    "SLA",
+    "UKG",
+    "UKG consulting partner",
+    "Workforce Dimensions",
+    "Workforce Central",
+    "Workforce Ready",
+    "API integration",
+    "Dell Boomi",
+    "Project Management",
+    "Technical Integration",
+    "Business Advisory",
+    "Hiring costs",
+    "Recruiting costs",
+    "Hiring",
+    "Quality of hire",
+    "Asia Pacific"
+  ],
+  "primary_users": [
+    "HR leaders",
+    "IT leaders",
+    "Project Managers (within client organizations)"
+  ],
+  "_weight": 1
+}

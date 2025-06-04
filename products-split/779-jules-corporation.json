@@ -1,0 +1,120 @@
+{
+  "id": 779,
+  "name": "JULES CORPORATION",
+  "description": "JULES\u2019 approach to education equips our children with thinking skills that allow them to create, analyze, and problem-solve \u2013 developing the most important asset for success in the 21st century: their own nimble, creative minds. We teach them at the youngest age, where the impact to their cognitive development is maximized (i.e. between ages of 4 to 8 years old). They will have a strong foundation to meet the ever-changing needs of the future regardless of their prevailing educational system. JULES provides an education for the future.",
+  "features": [
+    "Solving problems in smaller pieces",
+    "The process of identifying patterns, trends and similarities among decomposed problems.",
+    "The process of solving a problem step by step."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Compensation management software",
+    "Performance management solutions"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee benefits",
+    "Employee development"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2017",
+  "order": 20732,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Preparing Our Children for Jobs of the Future",
+  "ProductId": null,
+  "ShortDescription": "JULES provides an education for the future.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Award-Winning Computational Thinking Curriculum",
+      "sequence": 0,
+      "description": "Juleszone offers an award-winning computational thinking curriculum designed to prepare students for the future. This curriculum is likely aligned with STEM education initiatives and emphasizes the development of problem-solving and critical thinking skills."
+    },
+    {
+      "name": "Engaging Learning Approach",
+      "sequence": 1,
+      "description": "The curriculum utilizes a combination of 3D animation, hands-on activities, and brain-training games. This mix of engaging elements can make learning more enjoyable and effective for students."
+    },
+    {
+      "name": "Focus on Future Skills",
+      "sequence": 2,
+      "description": "The program aims to equip students with computational thinking skills, which are becoming increasingly important in today's world. These skills can be beneficial in various fields and can help students succeed in future careers."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:18.873Z",
+  "enhanced_description": "JULES offers an award-winning computational thinking curriculum designed to equip children, specifically between the ages of 4 and 8 years old, with crucial 21st-century thinking skills. The program focuses on developing abilities to create, analyze, and problem-solve, by teaching fundamental concepts such as breaking down problems into smaller pieces (decomposition), identifying patterns, and solving problems step-by-step (algorithmic thinking). Utilizing an engaging learning approach, JULES incorporates 3D animation, hands-on activities, and brain-training games to maximize cognitive development and provide a strong foundation for students to meet the ever-changing needs of the future, aligning with STEM education initiatives.",
+  "key_use_cases": [
+    "Developing critical thinking and problem-solving skills in young children",
+    "Fostering computational thinking abilities from an early age (4-8 years)",
+    "Preparing students for future careers and the evolving job market",
+    "Providing foundational education regardless of prevailing educational systems"
+  ],
+  "competitive_advantages": [
+    "Award-winning Computational Thinking Curriculum",
+    "Engaging learning approach utilizing 3D animation, hands-on activities, and brain-training games",
+    "Focus on maximizing cognitive development at a crucial young age (4-8 years)",
+    "Curriculum designed to prepare students with future skills and STEM alignment"
+  ],
+  "searchable_keywords": [
+    "JULES CORPORATION",
+    "JULES",
+    "education",
+    "children",
+    "thinking skills",
+    "problem-solving",
+    "creative minds",
+    "cognitive development",
+    "future education",
+    "jobs of the future",
+    "computational thinking",
+    "problem decomposition",
+    "pattern recognition",
+    "algorithmic thinking",
+    "award-winning curriculum",
+    "engaging learning",
+    "3D animation",
+    "hands-on activities",
+    "brain-training games",
+    "STEM education",
+    "critical thinking",
+    "future skills",
+    "student development"
+  ],
+  "primary_users": [
+    "Children (ages 4-8)",
+    "Students",
+    "Parents",
+    "Educators"
+  ],
+  "_weight": 1
+}

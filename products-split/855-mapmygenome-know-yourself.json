@@ -1,0 +1,134 @@
+{
+  "id": 855,
+  "name": "Mapmygenome - Know Yourself",
+  "description": "Mapmygenome is a molecular diagnostics company for people who are proactive about their health. By combining genetic report and health history with genetic counseling, Mapmygenome provides actionable steps for individuals and their physicians towards a healthier life. People who use our products get comprehensive health insights which are based on genetics, health history and lifestyle. Genetic Counselling provided along with our products helps create actionable steps to improve one's health.",
+  "features": [
+    "Time off and Vacation",
+    "Training Incentive",
+    "Performance Reviews"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee benefits"
+  ],
+  "headquarter": "Hyderabad, AP",
+  "launch_date": "2012",
+  "order": 20808,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "India's Pioneering Genomics Company",
+  "ProductId": null,
+  "ShortDescription": "Mapmygenome is a molecular diagnostics company for people who are proactive about their health. By combining genetic report and health history with genetic counseling, Mapmygenome provides actionable steps for individuals and their physicians towards a healthier life.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Health",
+      "sequence": 0,
+      "description": "Analyze your genetic predisposition for common conditions like diabetes, heart disease, and certain cancers. Early awareness empowers you to take preventive measures and make informed lifestyle choices."
+    },
+    {
+      "name": "Nutritional Needs",
+      "sequence": 1,
+      "description": "Discover how your body metabolizes different nutrients. This personalized insight can guide you towards a diet that optimizes your health."
+    },
+    {
+      "name": "Fitness Potential",
+      "sequence": 2,
+      "description": "Understand your genetic makeup related to muscle performance and response to exercise. This can help you tailor your workout routine for maximum results."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:45.315Z",
+  "enhanced_description": "Mapmygenome is India's pioneering genomics company that offers molecular diagnostics services for individuals proactive about their health. The product, 'Know Yourself,' combines personal genetic reports with health history and expert genetic counseling to provide comprehensive, actionable health insights. These insights are based on an individual's genetics, health history, and lifestyle, enabling personalized recommendations for health improvement. The service helps users understand their genetic predisposition to common conditions like diabetes, heart disease, and certain cancers, discover how their body metabolizes nutrients for optimal diet, and understand their genetic makeup related to muscle performance and exercise response for tailored workout routines.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Providing personalized genetic insights for employee health management",
+    "Offering genetic counseling for actionable health improvements",
+    "Supporting employees in making informed lifestyle choices based on their genetic predispositions",
+    "Guiding employees towards optimized nutrition through personalized genetic insights",
+    "Enabling employees to tailor fitness routines for maximum results based on their genetic makeup",
+    "Improving employee happiness and engagement through proactive health and well-being initiatives"
+  ],
+  "competitive_advantages": [
+    "Pioneering genomics company in India",
+    "Combines genetic reports, health history, and genetic counseling for actionable steps",
+    "Provides comprehensive health insights based on genetics, health history, and lifestyle",
+    "Focus on personalized and preventive health strategies"
+  ],
+  "hr_functions_supported": [
+    "Employee Well-being Programs",
+    "Employee Benefits Management (health-related)",
+    "Employee Engagement"
+  ],
+  "roi_benefits": [
+    "Improved employee health outcomes through personalized and preventive measures",
+    "Increased employee happiness and engagement",
+    "Empowerment of employees to take proactive steps towards a healthier life"
+  ],
+  "searchable_keywords": [
+    "Mapmygenome",
+    "Know Yourself",
+    "genomics",
+    "molecular diagnostics",
+    "genetic report",
+    "genetic counseling",
+    "health insights",
+    "employee well-being",
+    "employee benefits",
+    "corporate wellness",
+    "health & safety providers",
+    "total rewards",
+    "employee happiness",
+    "employee engagement",
+    "genetic predisposition",
+    "diabetes",
+    "heart disease",
+    "cancer",
+    "nutritional needs",
+    "fitness potential",
+    "personalized health",
+    "preventive health",
+    "diet optimization",
+    "workout routine"
+  ],
+  "primary_users": [
+    "Employees (as recipients of genetic insights and counseling)",
+    "HR professionals (for implementing corporate wellness programs)",
+    "Physicians (for collaborating on actionable health steps)"
+  ],
+  "_weight": 1
+}

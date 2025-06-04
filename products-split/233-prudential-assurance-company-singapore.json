@@ -1,0 +1,136 @@
+{
+  "id": 233,
+  "name": "Prudential Assurance Company Singapore",
+  "description": "Prudential Assurance Company Singapore, an indirect wholly-owned subsidiary of Prudential plc, is one of Singapore\u2019s leading life insurance companies. We have been serving the financial needs of Singapore for 93 years, delivering a suite of product offerings and professional advisory through our network of more than 5,200 financial representatives with our tied agency and financial advisory arm, Prudential Financial Advisers, as well as our bank partners.",
+  "features": [
+    "Environmental sustainability",
+    "Diversity, equity, and inclusion",
+    "Career growth and learning"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Compensation management software"
+  ],
+  "tags": [
+    "Employee satisfaction",
+    "Employee benefits"
+  ],
+  "headquarter": "Singapore, Singapore            ",
+  "launch_date": "1931",
+  "order": 20199,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Your goals. Make them happen.",
+  "ProductId": null,
+  "ShortDescription": "Our insurance plans are designed to see you through every life stage - and beyond.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Health Protection",
+      "sequence": 0,
+      "description": "Manage medical costs with our insurance plans for medical, personal accident, and critical illness, enabling you to focus on living fully."
+    },
+    {
+      "name": "Life Protection",
+      "sequence": 1,
+      "description": "Ensure financial security for your family in unexpected events like disability or death with our life protection plans."
+    },
+    {
+      "name": "Wealth Accumulation",
+      "sequence": 2,
+      "description": "Achieve financial goals with our savings, retirement, and investment-linked insurance plans."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:50.605Z",
+  "enhanced_description": "Prudential Assurance Company Singapore, an indirect wholly-owned subsidiary of Prudential plc, is one of Singapore\u2019s leading life insurance companies with 93 years of experience. They provide a comprehensive suite of product offerings and professional advisory services designed to meet financial needs across various life stages. Key offerings include Health Protection (covering medical, personal accident, and critical illness to manage healthcare costs), Life Protection (ensuring financial security for families in unexpected events like disability or death), and Wealth Accumulation (through savings, retirement, and investment-linked insurance plans). These services are delivered through a broad network of over 5,200 financial representatives and bank partners, with a core business objective to improve employee happiness and engagement.",
+  "ideal_company_sizes": [
+    "Small"
+  ],
+  "key_use_cases": [
+    "Employee benefits provision",
+    "Health protection for employees",
+    "Life protection for employees",
+    "Wealth accumulation and retirement planning for employees",
+    "Managing employee financial well-being"
+  ],
+  "competitive_advantages": [
+    "93 years of market experience",
+    "Positioned as one of Singapore's leading life insurance companies",
+    "Extensive network of over 5,200 financial representatives",
+    "Partnerships with banks for broader distribution and advisory services"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards Management",
+    "Employee Benefits Administration",
+    "Employee Engagement"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness",
+    "Improved employee engagement",
+    "Enhanced financial security for employees",
+    "Support for employee well-being"
+  ],
+  "searchable_keywords": [
+    "Prudential",
+    "Prudential Assurance Company Singapore",
+    "life insurance",
+    "financial services",
+    "insurance plans",
+    "employee benefits",
+    "total rewards",
+    "compensation management software",
+    "employee satisfaction",
+    "health protection",
+    "life protection",
+    "wealth accumulation",
+    "medical insurance",
+    "personal accident insurance",
+    "critical illness insurance",
+    "disability insurance",
+    "retirement plans",
+    "investment-linked insurance",
+    "savings plans",
+    "financial security",
+    "financial advisory",
+    "Singapore insurance",
+    "employee well-being",
+    "environmental sustainability",
+    "diversity equity inclusion",
+    "career growth learning"
+  ],
+  "primary_users": [
+    "HR Managers",
+    "Total Rewards Specialists",
+    "Employees (as beneficiaries of insurance plans)",
+    "Financial Representatives",
+    "Bank Partners"
+  ],
+  "_weight": 1
+}

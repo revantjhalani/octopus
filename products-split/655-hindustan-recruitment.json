@@ -1,0 +1,166 @@
+{
+  "id": 655,
+  "name": "Hindustan Recruitment",
+  "description": "We \u201c Hindustan Recruitment\" founded in 2020 (Delhi) is a leading provider of professional services (Staff Augmentation, Human Resourcing, Contract Hiring, and Permanent Hiring ). Our nationwide network of Recruitment experts works on-site with our customers in their daily direction.",
+  "features": [
+    "Performance Management",
+    "Leadership Development and Succession Planning",
+    "Talent Acquisition and Recruitment"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruitment marketing platforms",
+    "Staffing services providers",
+    "Job boards",
+    "Recruitment agencies",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Talent acquisition",
+    "Hiring speed",
+    "Hiring efficiency",
+    "Talent pipeline"
+  ],
+  "headquarter": "Delhi , new delhi",
+  "launch_date": "2020",
+  "order": 20609,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Recruitment & Staffing Redefined",
+  "ProductId": null,
+  "ShortDescription": "We \u201c Hindustan Recruitment\" founded in 2020 (Delhi) is a leading provider of professional services (Staff Augmentation, Human Resourcing, Contract Hiring, and Permanent Hiring ).",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Services Offered",
+      "sequence": 0,
+      "description": "industan Recruitment offers a variety of services to both job seekers and employers, including executive search, senior and middle-level hiring, HR consulting services, career counseling, career transition services, global sourcing, market intelligence, and recruiter training programs."
+    },
+    {
+      "name": "Understanding the Needs of Businesses and Job Seekers",
+      "sequence": 1,
+      "description": "Hindustan Recruitment understands that finding the right talent is crucial for businesses to thrive and that every individual deserves a fulfilling career."
+    },
+    {
+      "name": "Focus on Personalized Approach ",
+      "sequence": 2,
+      "description": "Hindustan Recruitment\u2019s team of experienced recruiters employs a personalized approach to connect skilled candidates with the right job opportunities."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:31:54.194Z",
+  "enhanced_description": "Hindustan Recruitment, established in Delhi in 2020, is a leading provider of professional HR services, specializing in Staff Augmentation, Human Resourcing, Contract Hiring, and Permanent Hiring. The company leverages its nationwide network of recruitment experts who work on-site with clients, offering a comprehensive suite of services including executive search, senior and middle-level hiring, HR consulting, career counseling, career transition services, global sourcing, market intelligence, and recruiter training programs. Hindustan Recruitment adopts a personalized approach to connect skilled candidates with suitable job opportunities, aiming to help businesses hire top talent faster and more efficiently while also supporting broader HR functions like Performance Management and Leadership Development & Succession Planning.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Staff Augmentation",
+    "Contract Hiring",
+    "Permanent Hiring",
+    "Executive Search",
+    "Senior and Middle-Level Hiring",
+    "Talent Acquisition and Recruitment initiatives",
+    "Performance Management program support",
+    "Leadership Development program support",
+    "Succession Planning program support",
+    "General HR Consulting",
+    "Career Counseling for employees/candidates",
+    "Career Transition Services",
+    "Global Sourcing for talent",
+    "Market Intelligence for recruitment strategies",
+    "Recruiter Training Programs"
+  ],
+  "competitive_advantages": [
+    "Nationwide on-site service delivery model with dedicated recruitment experts",
+    "Personalized approach to connecting skilled candidates with job opportunities",
+    "Comprehensive service portfolio covering a wide range of recruitment and HR consulting needs",
+    "Focus on understanding both business needs and individual career aspirations to ensure optimal fit"
+  ],
+  "implementation_scenarios": [
+    "On-site deployment of recruitment experts to work directly with client teams"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Recruitment",
+    "Workforce Planning (Staff Augmentation, Contract/Permanent Hiring)",
+    "Performance Management",
+    "Leadership Development",
+    "Succession Planning",
+    "HR Consulting",
+    "Employee Development (Career Counseling/Transition)"
+  ],
+  "roi_benefits": [
+    "Faster and more efficient hiring of top talent",
+    "Improved quality of hires and better talent-job fit",
+    "Enhanced business growth and thriving through effective talent acquisition",
+    "Increased efficiency in recruitment processes",
+    "Support for fulfilling careers for individuals, potentially leading to better retention"
+  ],
+  "searchable_keywords": [
+    "Hindustan Recruitment",
+    "Recruitment",
+    "Staffing",
+    "Hiring",
+    "Talent acquisition",
+    "Staff Augmentation",
+    "Human Resourcing",
+    "Contract Hiring",
+    "Permanent Hiring",
+    "Performance Management",
+    "Leadership Development",
+    "Succession Planning",
+    "Recruitment marketing platforms",
+    "Staffing services providers",
+    "Job boards",
+    "Recruitment agencies",
+    "HR consulting providers",
+    "Hiring speed",
+    "Hiring efficiency",
+    "Talent pipeline",
+    "Executive search",
+    "Senior-level hiring",
+    "Middle-level hiring",
+    "Career counseling",
+    "Career transition services",
+    "Global sourcing",
+    "Market intelligence",
+    "Recruiter training programs"
+  ],
+  "primary_users": [
+    "Employer organizations (HR leaders, Talent Acquisition teams, Hiring Managers)",
+    "Job seekers / Candidates"
+  ],
+  "deployment_options": [
+    "Service-based, on-site expert deployment"
+  ],
+  "_weight": 1
+}

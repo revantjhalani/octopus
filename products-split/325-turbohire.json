@@ -1,0 +1,171 @@
+{
+  "id": 325,
+  "name": "Turbohire",
+  "description": "Turbohire are a recruitment automation platform and hiring best friend of your recruitment process. No, we are not a recruitment agency. The platform that TurboHire has built helps you optimize your recruitment process. How? It centralizes the entire process from Job requisition to offer letter release while giving you at max flexibility to customize the workflows. Other than this TurboHumans work hard and party harder.",
+  "features": [
+    "Outbound Recruiting-Candidate Sourcing",
+    "AI-Candidate Scoring-Talent Screening",
+    "Scheduling Automation-Interview Automation"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Employee scheduling software",
+    "Recruiting automation software",
+    "Onboarding software",
+    "Software and Services Related to HR Software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Hiring efficiency",
+    "Hiring speed",
+    "Recruiting efficiency",
+    "Talent sourcing",
+    "Recruiting"
+  ],
+  "headquarter": "Hyderabad",
+  "launch_date": "2019",
+  "order": 20287,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Recruitment Automation Platform",
+  "ProductId": null,
+  "ShortDescription": "TurboHire is an AI-Powered Recruitment Experiences to integrate on HRMS/ WFM for Enterprises.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "High Volume Hiring",
+      "sequence": 0,
+      "description": "Set up a high-volume recruitment strategy with TurboHire scaling from job requisition to offer letters in a single destination."
+    },
+    {
+      "name": "Hyper Growth Hiring",
+      "sequence": 1,
+      "description": "Scale your team from within in a short span of time across all verticals with TurboHire\u2019s intelligent and automated solutions and see the magic for yourself."
+    },
+    {
+      "name": "Employer Branding",
+      "sequence": 2,
+      "description": "Build a strong employer brand for your company by using AI-powered careers pages and rich communication tools and let TurboHire optimize candidate experience."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:17.779Z",
+  "enhanced_description": "Turbohire is an AI-powered recruitment automation platform designed to optimize and centralize the entire hiring process, from job requisition to offer letter release. It offers features like outbound recruiting, AI-driven candidate scoring and talent screening, and automated interview scheduling. The platform provides flexibility to customize workflows and supports high-volume and hyper-growth hiring strategies. It also helps build a strong employer brand through AI-powered career pages and rich communication tools, aiming to optimize the candidate experience. TurboHire is built for enterprises and designed to integrate with existing HRMS/WFM systems.",
+  "ideal_company_sizes": [
+    "Enterprise"
+  ],
+  "key_use_cases": [
+    "Recruitment process optimization",
+    "Candidate sourcing",
+    "Talent screening",
+    "Interview scheduling automation",
+    "High-volume hiring",
+    "Hyper-growth hiring",
+    "Employer branding",
+    "Candidate experience optimization"
+  ],
+  "competitive_advantages": [
+    "AI-powered recruitment capabilities",
+    "End-to-end recruitment process centralization (from job requisition to offer letter)",
+    "Customizable recruitment workflows",
+    "Automated candidate screening and interview scheduling",
+    "Support for high-volume and hyper-growth hiring",
+    "Tools for employer branding and candidate experience optimization"
+  ],
+  "implementation_scenarios": [
+    "Integration with existing HRMS systems",
+    "Integration with existing Workforce Management (WFM) systems"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Candidate Sourcing",
+    "Talent Screening",
+    "Interview Management",
+    "Onboarding (offer letter release)",
+    "Employee Scheduling"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)"
+  ],
+  "integration_capabilities": [
+    "HRMS integration",
+    "Workforce Management (WFM) integration"
+  ],
+  "roi_benefits": [
+    "Faster talent acquisition",
+    "Increased hiring efficiency",
+    "Improved talent quality",
+    "Enhanced hiring manager productivity",
+    "Stronger employer brand",
+    "Optimized candidate experience"
+  ],
+  "searchable_keywords": [
+    "Turbohire",
+    "recruitment automation",
+    "hiring platform",
+    "recruitment process",
+    "job requisition",
+    "offer letter",
+    "candidate sourcing",
+    "AI candidate scoring",
+    "talent screening",
+    "interview scheduling",
+    "AI-powered",
+    "HRMS integration",
+    "WFM integration",
+    "enterprise hiring",
+    "high volume hiring",
+    "hyper growth hiring",
+    "employer branding",
+    "candidate experience",
+    "talent management",
+    "recruiting software",
+    "employee scheduling",
+    "onboarding software",
+    "hiring efficiency",
+    "hiring speed",
+    "recruiting efficiency",
+    "talent acquisition"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "HR Professionals",
+    "Hiring Managers",
+    "Candidates"
+  ],
+  "scalability_features": [
+    "Supports high-volume hiring",
+    "Supports hyper-growth hiring strategies"
+  ],
+  "_weight": 1
+}

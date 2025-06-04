@@ -1,0 +1,142 @@
+{
+  "id": 587,
+  "name": "FlexC",
+  "description": "FlexC is an AI-powered platform that allows you to engage and manage a hybrid workforce within a single platform. We are a talent-centric, one-stop solution for all of your workforce needs. \n Discover thousands of professional talent profiles, leverage the large network of recruitment partners, and find the perfect candidate for any requirement- from a complex SAP integration project to a short-term design project.",
+  "features": [
+    "hybrid workforce",
+    "Workforce Management",
+    "agile workforce"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Employee engagement software",
+    "Talent acquisition suites"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    ""
+  ],
+  "headquarter": "Gurugram, Haryana",
+  "launch_date": "2020",
+  "order": 20545,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "An AI-driven duel-sided platform that powers the global workforce with transparency and integrity.",
+  "ProductId": null,
+  "ShortDescription": "FlexC is an AI-powered platform that allows you to engage and manage a hybrid workforce within a single platform. We are a talent-centric, one-stop solution for all of your workforce needs.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "AI-powered Talent Acquisition Marketplace",
+      "sequence": 0,
+      "description": "FlexC is an AI-powered talent acquisition marketplace that connects businesses with professionals [1]. This means that FlexC uses artificial intelligence to help businesses find the best candidates for their job openings. FlexC leverages a large network of recruitment partners and AI-driven recommendations to find the most qualified talent for any requirement [1]."
+    },
+    {
+      "name": "Reduced Time to Hire",
+      "sequence": 1,
+      "description": "FlexC can help businesses reduce their time to hire by using AI to identify the best candidates quickly and efficiently [1]. This can be a significant benefit for businesses that need to fill job openings quickly."
+    },
+    {
+      "name": "Access to a Wider Range of Talent",
+      "sequence": 2,
+      "description": "FlexC's large network of recruitment partners gives businesses access to a wider range of talent than they would be able to find on their own [1]. This can be helpful for businesses that are looking for candidates with specific skills or experience."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:30:32.945Z",
+  "enhanced_description": "FlexC is an AI-powered, talent-centric platform designed as a one-stop solution for engaging and managing a hybrid workforce. It functions as an AI-driven talent acquisition marketplace, connecting businesses with a global pool of professionals and leveraging a large network of recruitment partners. The platform utilizes AI-driven recommendations to help businesses discover thousands of professional talent profiles and find ideal candidates for various requirements, ranging from complex projects like SAP integration to short-term design projects. This dual-sided platform aims to power the global workforce with transparency and integrity, significantly reducing time to hire and providing access to a wider range of talent.",
+  "ideal_company_sizes": [
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Engaging and managing a hybrid workforce",
+    "Discovering and sourcing professional talent profiles",
+    "Finding candidates for diverse project requirements (e.g., SAP integration, design projects)",
+    "Accelerating talent acquisition processes to reduce time to hire",
+    "Accessing a wide range of talent through a network of recruitment partners",
+    "Boosting hiring manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "AI-powered talent acquisition marketplace",
+    "One-stop solution for hybrid workforce management",
+    "Access to a large network of recruitment partners",
+    "Ability to reduce time to hire",
+    "Access to a wider and more diverse range of talent"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Management",
+    "Workforce Management",
+    "Employee Engagement",
+    "Talent Acquisition"
+  ],
+  "technology_stack": [
+    "AI"
+  ],
+  "roi_benefits": [
+    "Hire top talent faster and more efficiently",
+    "Boost hiring manager confidence and productivity",
+    "Reduced time to hire",
+    "Access to a wider range of talent"
+  ],
+  "searchable_keywords": [
+    "FlexC",
+    "AI",
+    "AI-powered",
+    "hybrid workforce",
+    "Workforce Management",
+    "agile workforce",
+    "talent-centric",
+    "one-stop solution",
+    "professional talent profiles",
+    "recruitment partners",
+    "talent acquisition",
+    "marketplace",
+    "hiring",
+    "talent sourcing",
+    "recruiting costs",
+    "global workforce",
+    "employee engagement software",
+    "talent acquisition suites"
+  ],
+  "primary_users": [
+    "Businesses",
+    "Employers",
+    "Hiring Managers",
+    "Recruitment Partners",
+    "Professionals (seeking projects)"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,155 @@
+{
+  "id": 780,
+  "name": "Jungle Jobs",
+  "description": "Jungle is building the new experience at work to help everyone find and get what they need from it! We curate job opportunities so people can find more sustainable career paths offering candidates total transparency, helping them get to the heart of what companies do, what they stand for, and what they\u2019re like to work for. Our media explores exciting new ways of working, sharing first-hand advice from opinion leaders and people just like you, to help you find a path where you can truly be yourself. Behind the scenes we build tech products that help companies build rich cultures that attract the right people, and enable strong, long-term relationships with their team. If we want a more balanced and human working life, we need to transform the whole experience at work. This is what we work for. We believe we can all work for more.",
+  "features": [
+    "Choose Your Workplace",
+    "Make Parenthood Matter",
+    "Diversity, Equity & Inclusion at Welcome to the Jungle"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Recruiting automation software",
+    "Job boards"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Talent sourcing",
+    "Candidate screening",
+    "Job boards"
+  ],
+  "headquarter": "New York City, NY",
+  "launch_date": "2015",
+  "order": 20733,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Making sure you don't just work for your job, but that your job works for you.",
+  "ProductId": null,
+  "ShortDescription": "Jungle is building the new experience at work to help everyone find and get what they need from it!",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Targeted Job Search:",
+      "sequence": 0,
+      "description": "By understanding a company's culture, job seekers can target their applications to companies that align with their values and preferences. This can lead to a more fulfilling work experience."
+    },
+    {
+      "name": "Variety of Opportunities:",
+      "sequence": 1,
+      "description": "Welcome to the Jungle offers a wide range of job postings across various industries and positions, including full-time, part-time, internships, and apprenticeships. This caters to a diverse audience with different career goals."
+    },
+    {
+      "name": "Recruitment Solutions",
+      "sequence": 2,
+      "description": "The website  offers additional services for employers beyond just job postings, such as recruitment tools or candidate management systems. This can help companies streamline the hiring process and find qualified candidates more efficiently."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:19.966Z",
+  "enhanced_description": "Jungle Jobs (operating under the brand Jungle) is a comprehensive HR tech platform focused on transforming the work experience for both job seekers and employers. For candidates, it curates job opportunities with a strong emphasis on total transparency, detailing company culture, values, and work environment to help individuals find sustainable and fulfilling career paths. It also offers media content with first-hand advice on new ways of working. For companies, Jungle provides technology products and recruitment solutions designed to help build rich cultures, attract the right talent, and foster strong, long-term employee relationships. Its offerings include recruitment tools, candidate management systems, and a job board, all aimed at streamlining the hiring process and enabling companies to fill open positions more quickly and efficiently with candidates who align with their values.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Candidate Job Search and Discovery",
+    "Talent Attraction and Employer Branding",
+    "Recruitment Process Streamlining",
+    "Candidate Management",
+    "Talent Sourcing",
+    "Candidate Screening",
+    "Facilitating Culture-Aligned Hiring",
+    "Promoting Diversity, Equity & Inclusion (DEI) in Recruitment",
+    "Supporting Work-Life Balance and Parenthood Initiatives"
+  ],
+  "competitive_advantages": [
+    "Strong emphasis on company culture, values, and transparency for candidates",
+    "Focus on work-life balance and social responsibility (e.g., Parenthood, DEI) as core features",
+    "Curated job opportunities offering deeper insights than traditional listings",
+    "Provides media content and advice for job seekers to explore new ways of working",
+    "Offers comprehensive recruitment solutions for employers beyond just job postings, including candidate management and tools"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Employer Branding",
+    "Candidate Management",
+    "Staffing",
+    "Recruiting Automation",
+    "Diversity, Equity, and Inclusion (DEI)"
+  ],
+  "roi_benefits": [
+    "Faster Time-to-Hire",
+    "Improved Candidate Quality and Fit (leading to better employee retention)",
+    "Enhanced Employer Brand and Attractiveness",
+    "Streamlined and More Efficient Hiring Process",
+    "Potential Reduction in Employee Turnover"
+  ],
+  "searchable_keywords": [
+    "Jungle Jobs",
+    "Jungle",
+    "Recruiting",
+    "Recruitment",
+    "Job Board",
+    "Job Opportunities",
+    "Career Paths",
+    "Talent Acquisition",
+    "Employer Branding",
+    "Company Culture",
+    "Workplace Transparency",
+    "Diversity Equity Inclusion",
+    "DEI",
+    "Parenthood Support",
+    "Flexible Work",
+    "Choose Your Workplace",
+    "Recruiting Automation",
+    "Candidate Screening",
+    "Talent Sourcing",
+    "Hiring Speed",
+    "Staffing Software",
+    "Candidate Management",
+    "HR Tech",
+    "Sustainable Career"
+  ],
+  "primary_users": [
+    "Job Seekers",
+    "Candidates",
+    "HR Professionals",
+    "Recruiters",
+    "Hiring Managers",
+    "Employers"
+  ],
+  "deployment_options": [
+    "Cloud-based / SaaS"
+  ],
+  "_weight": 1
+}

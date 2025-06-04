@@ -1,0 +1,144 @@
+{
+  "id": 359,
+  "name": "Yezza",
+  "description": "Yezza started in 2020, when Covid19 began & all kind of businesses were highly at stake. We aspire to ease the entrepreneurs to start online business. We have already grown into a team of 18 staffs in 2021, and currently continue growing. More than 50,000 online businesses have been using Yezza, and this number grows from day to day. Within only a year, Yezza has introduced two new products, which are Yezza Books (accounting software) & Yezza Canvas (custom business system). Our mission is simply to make running business easier.",
+  "features": [
+    "Customer Database",
+    "Online store, page & form",
+    "Marketing & customer engagement"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee well being",
+    "Employee benefits"
+  ],
+  "headquarter": "Putrajaya",
+  "launch_date": "2020",
+  "order": 20321,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We build OS for businesses",
+  "ProductId": null,
+  "ShortDescription": "We build technologies to help entrepreneurs earn money & save time.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Easy to use",
+      "sequence": 0,
+      "description": "Complete & industry-specific software."
+    },
+    {
+      "name": "Automoation Driven",
+      "sequence": 1,
+      "description": "Make business workflow more efficient."
+    },
+    {
+      "name": "Fast support",
+      "sequence": 2,
+      "description": "Reply in minutes & fast resolution time."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:25:09.076Z",
+  "enhanced_description": "Yezza, launched in 2020, functions as an operating system designed to simplify business operations for entrepreneurs, particularly aiding in the establishment and management of online businesses. The platform has rapidly expanded, now serving over 50,000 online businesses, and has introduced complementary products like Yezza Books (accounting software) and Yezza Canvas (a custom business system). Yezza aims to help entrepreneurs increase earnings and save time by offering key features such as a customer database, online store and page creation, and marketing and customer engagement tools. The product emphasizes ease of use, automation to enhance workflow efficiency, and robust customer support with fast resolution times. Beyond core business operations, Yezza also seeks to improve employee happiness and engagement.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Setting up and managing online stores and business pages",
+    "Customer database management",
+    "Marketing and customer engagement activities",
+    "Business accounting and financial management (via Yezza Books)",
+    "Custom business system development (via Yezza Canvas)",
+    "Overall business operations management",
+    "Initiatives to improve employee happiness and engagement"
+  ],
+  "competitive_advantages": [
+    "Easy to use interface",
+    "Automation-driven workflows for increased efficiency",
+    "Fast and responsive customer support",
+    "Comprehensive and industry-specific software offering",
+    "Proven market adoption with over 50,000 online businesses utilizing the platform"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Employee Well-being Management",
+    "Employee Benefits Administration",
+    "Corporate Wellness Programs",
+    "Health and Safety Management"
+  ],
+  "roi_benefits": [
+    "Time savings for entrepreneurs",
+    "Increased operational efficiency through automation",
+    "Simplified business operations",
+    "Support for starting and managing online businesses",
+    "Improved employee happiness and engagement"
+  ],
+  "searchable_keywords": [
+    "Yezza",
+    "online business",
+    "entrepreneurs",
+    "e-commerce",
+    "online store",
+    "customer database",
+    "marketing",
+    "customer engagement",
+    "accounting software",
+    "custom business system",
+    "business operations",
+    "employee engagement",
+    "employee well-being",
+    "employee benefits",
+    "corporate wellness",
+    "health and safety",
+    "business OS",
+    "automation",
+    "easy to use",
+    "total rewards"
+  ],
+  "primary_users": [
+    "Entrepreneurs",
+    "Online Business Owners",
+    "Small Business Owners/Managers",
+    "HR Administrators",
+    "HR Managers"
+  ],
+  "scalability_features": [
+    "Supports businesses from small to global enterprise sizes",
+    "Designed to accommodate a growing user base, currently serving over 50,000 online businesses"
+  ],
+  "_weight": 1
+}

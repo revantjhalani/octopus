@@ -1,0 +1,163 @@
+{
+  "id": 840,
+  "name": "Login Radius",
+  "description": "LoginRadius is a leading cloud-based consumer identity and access management (CIAM) solution that empowers businesses to deliver a delightful consumer experience and win consumer trust. The developer-friendly Identity Platform provides a comprehensive set of APIs to enable authentication, identity verification, single sign-on, user management, and account protection capabilities such as multi-factor authentication on any web or mobile application. ",
+  "features": [
+    "Cloud native but completely flexible \u2013 from choosing your cloud partner, data center location to deployment method.",
+    "We're the only vendor that specializes in CIAM with relentless focus on your consumers \u2013 delivering a secure and privacy compliant digital identity experience.",
+    "With our no-code platform and extensive APIs, you do not need specialized engineers but any developer can deploy our platform in 3-4 weeks minus the massive cost of a system integrator."
+  ],
+  "founders": [
+    "Rakesh Soni"
+  ],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Background check software",
+    "Pre-employment testing software"
+  ],
+  "tags": [
+    "Recruiting efficiency",
+    "Data-driven hiring"
+  ],
+  "headquarter": "San Francisco, California",
+  "launch_date": "2013",
+  "order": 20793,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Start with identity. Go anywhere.",
+  "ProductId": null,
+  "ShortDescription": "LoginRadius is a leading cloud-based consumer identity and access management (CIAM) solution that empowers businesses to deliver a delightful consumer experience and win consumer trust.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Data Governance",
+      "sequence": 0,
+      "description": "Maximize the effectiveness of your data protection strategies by complying with a wide range of regulatory requirements."
+    },
+    {
+      "name": "Authentication",
+      "sequence": 1,
+      "description": "Make it easy for your customers to create accounts and sign in securely with our simplified authentication solutions."
+    },
+    {
+      "name": "User Management",
+      "sequence": 2,
+      "description": "Create a delightful experience for your customers with a highly secure and flexible view of your individual user profiles."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:29.654Z",
+  "enhanced_description": "LoginRadius is a leading cloud-based Consumer Identity and Access Management (CIAM) solution designed to empower businesses to deliver a delightful consumer experience and win consumer trust. This developer-friendly platform offers a comprehensive suite of APIs and a no-code interface, enabling core identity capabilities such as authentication, identity verification, single sign-on (SSO), multi-factor authentication (MFA), and robust user management for any web or mobile application. The platform emphasizes a secure and privacy-compliant digital identity experience, supported by strong data governance to comply with a wide range of regulatory requirements. It offers cloud-native flexibility, allowing businesses to choose their cloud partner, data center location, and deployment method. LoginRadius is designed for rapid deployment, enabling any developer to implement the platform within 3-4 weeks, significantly reducing the massive cost typically associated with system integrators.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Authentication for web and mobile applications",
+    "Identity verification for consumers",
+    "Single Sign-On (SSO) across applications",
+    "User management for consumer profiles",
+    "Account protection including multi-factor authentication (MFA)",
+    "Delivering delightful consumer experiences",
+    "Ensuring data protection and regulatory compliance"
+  ],
+  "competitive_advantages": [
+    "Specialized focus on Consumer Identity and Access Management (CIAM)",
+    "Cloud-native with flexible deployment options (cloud partner, data center, method)",
+    "No-code platform combined with extensive APIs for developer flexibility",
+    "Rapid deployment (3-4 weeks) by any developer, reducing system integrator costs"
+  ],
+  "implementation_scenarios": [
+    "Integration into web applications",
+    "Integration into mobile applications",
+    "Flexible cloud deployments with choice of cloud partner and data center location"
+  ],
+  "technology_stack": [
+    "Cloud-based architecture",
+    "API-driven platform",
+    "No-code platform components"
+  ],
+  "integration_capabilities": [
+    "API-based integration with web applications",
+    "API-based integration with mobile applications"
+  ],
+  "roi_benefits": [
+    "Enhanced consumer trust and experience",
+    "Reduced development time and cost through rapid deployment (3-4 weeks)",
+    "Elimination of massive system integrator costs",
+    "Improved data protection and compliance with regulatory requirements",
+    "Simplified and secure account creation and sign-in for customers"
+  ],
+  "searchable_keywords": [
+    "Login Radius",
+    "cloud-based",
+    "consumer identity and access management",
+    "CIAM",
+    "authentication",
+    "identity verification",
+    "single sign-on",
+    "SSO",
+    "user management",
+    "account protection",
+    "multi-factor authentication",
+    "MFA",
+    "web application",
+    "mobile application",
+    "cloud native",
+    "flexible deployment",
+    "no-code platform",
+    "APIs",
+    "developer-friendly",
+    "Recruiting",
+    "Background check software",
+    "Pre-employment testing software",
+    "Recruiting efficiency",
+    "Data-driven hiring",
+    "Data Governance",
+    "Identity"
+  ],
+  "primary_users": [
+    "Developers",
+    "Businesses"
+  ],
+  "deployment_options": [
+    "Cloud-native deployment with choice of cloud partner",
+    "Deployment in specified data center locations"
+  ],
+  "compliance_features": [
+    "Support for a wide range of regulatory requirements (Data Governance)",
+    "Privacy compliant digital identity experience"
+  ],
+  "security_features": [
+    "Multi-factor authentication (MFA)",
+    "Account protection capabilities",
+    "Secure account creation",
+    "Secure sign-in solutions",
+    "Secure user profile management",
+    "Data protection strategies"
+  ],
+  "_weight": 1
+}

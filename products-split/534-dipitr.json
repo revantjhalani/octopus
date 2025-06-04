@@ -1,0 +1,114 @@
+{
+  "id": 534,
+  "name": "Dipitr",
+  "description": "A Revolutionary Start-Up Company Getting Right To The Core\n With long-hour desk jobs at an all-time high, the majority of our population is faced with neck and back problems, all originating from something as simple as incorrect posture. Here at Strack, we are on a mission to change the lives of millions of people by providing an innovative, science-based, and AI-driven posture correction device that helps you track, train, and manage your posture.",
+  "features": [
+    "A good posture helps increase energy,productivity, and even reduces stress",
+    "A good posture changes the chemistry in your brain, making your more confident and look attractive.",
+    "A good posture guarantees better back health for the rest of your life"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee benefits"
+  ],
+  "headquarter": "Carrollton, Texas",
+  "launch_date": "2017",
+  "order": 20494,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "FIX YOUR POSTURE SMART WAY\n THE MOST ADVANCED POSTURE TRAINER",
+  "ProductId": null,
+  "ShortDescription": "an up-and-coming technology company is dedicated to developing innovative and delightful tech products that benefit the health, wellness and lives of its customers.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:29:25.986Z",
+  "enhanced_description": "Dipitr is an innovative, science-based, and AI-driven posture correction device designed to help individuals track, train, and manage their posture, specifically addressing common neck and back problems associated with long-hour desk jobs. As an advanced posture trainer, it aims to improve overall health, wellness, and lives of its customers.",
+  "key_use_cases": [
+    "Tracking and monitoring employee posture",
+    "Providing AI-driven posture training and guidance for employees",
+    "Managing and improving employee posture over time",
+    "Supporting corporate wellness programs focused on musculoskeletal health",
+    "Addressing physical discomfort and health issues related to prolonged desk work"
+  ],
+  "competitive_advantages": [
+    "Innovative, science-based, and AI-driven approach to posture correction",
+    "Provides comprehensive posture tracking, training, and management capabilities"
+  ],
+  "hr_functions_supported": [
+    "Corporate Wellness",
+    "Employee Well-being",
+    "Total Rewards",
+    "Employee Benefits",
+    "Employee Engagement"
+  ],
+  "technology_stack": [
+    "AI"
+  ],
+  "roi_benefits": [
+    "Increased employee energy levels",
+    "Improved employee productivity",
+    "Reduced employee stress",
+    "Enhanced long-term back health for employees",
+    "Increased employee confidence",
+    "Improved employee happiness and engagement"
+  ],
+  "searchable_keywords": [
+    "Dipitr",
+    "Strack",
+    "Posture correction",
+    "Posture trainer",
+    "AI-driven",
+    "Science-based",
+    "Posture device",
+    "Back health",
+    "Neck problems",
+    "Desk jobs",
+    "Employee well-being",
+    "Corporate wellness",
+    "Employee benefits",
+    "Employee happiness",
+    "Employee engagement",
+    "Productivity",
+    "Stress reduction",
+    "Wellness technology"
+  ],
+  "primary_users": [
+    "Employees with desk jobs",
+    "HR/Wellness teams"
+  ],
+  "deployment_options": [
+    "Hardware-based solution (device)"
+  ],
+  "_weight": 1
+}

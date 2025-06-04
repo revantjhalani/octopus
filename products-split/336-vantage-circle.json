@@ -1,0 +1,156 @@
+{
+  "id": 336,
+  "name": "Vantage Circle",
+  "description": "Vantage Rewards is a flagship product, helping organizations build a culture of recognition at their workplace. 700+ global organizations, including Fortune 500 companies, have already onboarded our Rewards & Recognition platform",
+  "features": [
+    "Employee Recognition",
+    "Employee Survey",
+    "Employee Wellness",
+    "Employee Discount"
+  ],
+  "founders": [
+    "Anjan Pathak "
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Employee recognition software",
+    "Benefits administration software",
+    "Corporate wellness software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee happiness",
+    "Employee satisfaction",
+    "Employee well being",
+    "Employee benefits",
+    "Employee recognition",
+    "Employee Engagement strategies",
+    "Employee happiness programs",
+    "Employee happiness metrics"
+  ],
+  "headquarter": "Plano, Texas, United States",
+  "launch_date": "2011",
+  "order": 20298,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Commited to help companies build winning work culture",
+  "ProductId": null,
+  "ShortDescription": "Bridging the gap between the employers and the employees by building an engaged, productive and happier workforce.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Reward Your Workforce",
+      "sequence": 0,
+      "description": "Boost productivity and team performance with our easy-to-use and mobile-friendly Rewards and Recognition platform."
+    },
+    {
+      "name": "Supercharge employee benefits",
+      "sequence": 1,
+      "description": "Offer your employees exclusive corporate offers, discounts and cashback bonanza on 1000+ global brands with Vantage Perks."
+    },
+    {
+      "name": "Drive Engagement. Elevate Retention",
+      "sequence": 2,
+      "description": "Listen to what matters the most for your workforce using our simplified survey creation and management tools."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:33.834Z",
+  "enhanced_description": "Vantage Circle, through its flagship product Vantage Rewards, is dedicated to helping organizations build a winning work culture by bridging the gap between employers and employees. It aims to create an engaged, productive, and happier workforce. The platform, which has already been adopted by 700+ global organizations, including Fortune 500 companies, offers a mobile-friendly Rewards and Recognition platform to boost productivity and team performance. Additionally, it supercharges employee benefits with exclusive corporate offers, discounts, and cashback bonanzas on over 1000 global brands via Vantage Perks. The platform also includes simplified survey creation and management tools to drive engagement and elevate retention by understanding employee sentiment.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee Recognition and Rewards management",
+    "Employee Engagement improvement",
+    "Employee Wellness program management",
+    "Employee Benefits administration (specifically discounts/perks)",
+    "Employee Feedback collection via surveys",
+    "Boosting employee productivity and team performance",
+    "Improving employee happiness and satisfaction",
+    "Employee retention enhancement",
+    "Building a culture of recognition"
+  ],
+  "competitive_advantages": [
+    "Proven track record with 700+ global organizations, including Fortune 500 companies",
+    "Easy-to-use and mobile-friendly Rewards and Recognition platform",
+    "Extensive employee benefits program with exclusive corporate offers, discounts, and cashback on 1000+ global brands (Vantage Perks)",
+    "Simplified employee survey creation and management tools"
+  ],
+  "hr_functions_supported": [
+    "Employee Recognition",
+    "Employee Surveys",
+    "Employee Wellness",
+    "Employee Benefits",
+    "Employee Engagement",
+    "Employee Retention"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Increased employee productivity",
+    "Enhanced team performance",
+    "Higher employee retention",
+    "Development of a strong recognition culture"
+  ],
+  "searchable_keywords": [
+    "Vantage Circle",
+    "Vantage Rewards",
+    "employee recognition",
+    "employee rewards",
+    "recognition platform",
+    "corporate recognition",
+    "employee engagement",
+    "employee happiness",
+    "employee satisfaction",
+    "employee well-being",
+    "employee wellness programs",
+    "employee benefits",
+    "corporate discounts",
+    "employee perks",
+    "cashback offers",
+    "employee survey software",
+    "employee feedback",
+    "total rewards software",
+    "benefits administration software",
+    "corporate wellness software",
+    "workforce productivity",
+    "employee retention",
+    "winning work culture",
+    "engaged workforce",
+    "mobile-friendly HR platform",
+    "global employee solutions",
+    "Fortune 500 solutions"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "Employees",
+    "Managers"
+  ],
+  "_weight": 1
+}

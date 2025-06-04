@@ -1,0 +1,145 @@
+{
+  "id": 358,
+  "name": "Xto10x",
+  "description": "At xto10x, we partner with startups on their journey to transform initial business momentum into at-scale impact and world-class organisations. Passionate about creating an impact in the startup space?\n To solve hard problems faced by startups, we need a team that embraces a challenge. We also need people who are driven, collaborative and are great at communicating their needs. Fortunately, at xto10x, we have both.",
+  "features": [
+    "Startups will change the world",
+    "Scale requires a holistic recipe",
+    "Do great things with great people"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Employee recognition software",
+    "Performance management system",
+    "Performance management solutions",
+    "Performance Review software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee satisfaction",
+    "Company culture",
+    "Employee recognition",
+    "Employee development",
+    "Employee empowerment",
+    "Employee Engagement strategies"
+  ],
+  "headquarter": "Bangalore, Karnataka",
+  "launch_date": "2019",
+  "order": 20320,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Scaling is hard. We make it easier.",
+  "ProductId": null,
+  "ShortDescription": "At xto10x, we Help startups all over the world scale meaningfully into world-class companies.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Performance Management",
+      "sequence": 0,
+      "description": "Enable people to become their best selves and outperform"
+    },
+    {
+      "name": "Employee engagement",
+      "sequence": 1,
+      "description": "Motivate your people with a mission-driven culture"
+    },
+    {
+      "name": "Objectives & Key Results",
+      "sequence": 2,
+      "description": "Build a predictable performance path with OKRs"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:25:08.182Z",
+  "enhanced_description": "Xto10x partners with startups globally, helping them transform initial business momentum into at-scale impact and world-class organizations. Recognizing that scaling is challenging, Xto10x aims to make this process easier by offering a holistic approach. The platform supports startups in improving employee happiness and engagement, enabling people to become their best selves and outperform, fostering a mission-driven culture.",
+  "target_industries": [
+    "Startups"
+  ],
+  "ideal_company_sizes": [
+    "Startups"
+  ],
+  "key_use_cases": [
+    "Performance Management",
+    "Employee Engagement",
+    "Objectives & Key Results (OKRs) Management",
+    "Employee Recognition",
+    "Performance Reviews",
+    "Employee Development"
+  ],
+  "competitive_advantages": [
+    "Specialization in partnering with startups for scaling",
+    "Provides a holistic recipe for growth and transforming into world-class organizations",
+    "Focuses on making the scaling process easier for startups"
+  ],
+  "hr_functions_supported": [
+    "Performance Management",
+    "Employee Engagement",
+    "Employee Recognition",
+    "Total Rewards",
+    "Employee Development"
+  ],
+  "roi_benefits": [
+    "Improve Employee Happiness and Engagement",
+    "Enable people to become their best selves and outperform",
+    "Motivate people with a mission-driven culture",
+    "Build a predictable performance path",
+    "Facilitate meaningful scaling into world-class companies"
+  ],
+  "searchable_keywords": [
+    "Xto10x",
+    "startups",
+    "scaling",
+    "employee happiness",
+    "employee engagement",
+    "employee recognition software",
+    "performance management system",
+    "performance management solutions",
+    "performance review software",
+    "employee satisfaction",
+    "company culture",
+    "employee recognition",
+    "employee development",
+    "employee empowerment",
+    "employee engagement strategies",
+    "Objectives & Key Results",
+    "OKRs"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Managers",
+    "Employees"
+  ],
+  "scalability_features": [
+    "Aims to help startups scale meaningfully into world-class companies",
+    "Focuses on transforming initial business momentum into at-scale impact",
+    "Offers a holistic recipe for scale",
+    "Supports building a predictable performance path for growth (via OKRs)"
+  ],
+  "_weight": 1
+}

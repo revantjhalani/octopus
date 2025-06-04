@@ -1,0 +1,153 @@
+{
+  "id": 93,
+  "name": "Fastjobs Singapore",
+  "description": "FastJobs is a fuss-free app that lets job seekers search for non-executive full-time, part-time, and contract positions on-the-go. Job seekers can register without the hassle of uploading lengthy resumes, filtering for preferred jobs, or searching for jobs using keywords. Candidates can connect instantly with prospective employers directly via phone or choose to send out an email to register their interest in a job.",
+  "features": [
+    "Improve your hiring experience right here at the FastJobs Employer's Hub!",
+    "Discover jobs on our mobile app!",
+    "Launch Your Singapore Career: Browse Jobs by Industry, Skill, or Location"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Talent acquisition",
+    "Talent sourcing",
+    "Hiring automation",
+    "Hiring best practices"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2015",
+  "order": 20063,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Find Your Dream Job in Singapore: Search Thousands of Listings Now.",
+  "ProductId": null,
+  "ShortDescription": "Connecting non-executive jobseekers to employers quickly and easily. Get Jobs FAST!",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Find Jobs Fast on Your Phone",
+      "sequence": 0,
+      "description": "Perfect for busy schedules, get matched with relevant opportunities in minutes through the user-friendly mobile app."
+    },
+    {
+      "name": "Land Your Next Gig in Singapore.",
+      "sequence": 1,
+      "description": " No matter if it's full-time, part-time, contract, or freelance, FastJobs boasts a vast pool of non-executive roles across various industries."
+    },
+    {
+      "name": "Boost Your Chances",
+      "sequence": 2,
+      "description": "FastJobs uses smart tech to recommend jobs that fit your skills, increasing your chances of getting noticed by employers.  pen_spark."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-26T12:02:25.204Z",
+  "enhanced_description": "FastJobs Singapore is a mobile-first, fuss-free app designed to connect non-executive job seekers with employers for full-time, part-time, contract, and freelance positions across various industries within Singapore. It streamlines the job application process by allowing job seekers to register without lengthy resumes, filter jobs, or search by keywords. The platform leverages smart technology to recommend relevant job opportunities based on skills, boosting job seekers' chances of getting noticed. Candidates can connect directly with employers instantly via phone or email. For employers, FastJobs provides an Employer's Hub to improve the hiring experience by enabling quick and efficient sourcing of non-executive talent.",
+  "target_industries": [
+    "Cross-industry (specifically for non-executive roles)"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Searching for non-executive jobs (full-time, part-time, contract, freelance)",
+    "Instant communication between job seekers and employers",
+    "Talent acquisition for non-executive roles",
+    "Efficient and fast hiring processes for employers",
+    "Mobile-first job discovery and application"
+  ],
+  "competitive_advantages": [
+    "Fuss-free app experience for job seekers",
+    "No lengthy resume upload required for job seekers",
+    "Instant direct connection between candidates and employers (phone/email)",
+    "Mobile-first and user-friendly design",
+    "Smart technology for job recommendations",
+    "Focus on speed and efficiency in hiring (for both job seekers and employers)"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Talent Sourcing"
+  ],
+  "roi_benefits": [
+    "Improved hiring speed and efficiency for employers",
+    "Reduced recruitment hassle for employers",
+    "Faster job discovery and matching for job seekers",
+    "Increased chances of job placement for job seekers",
+    "Streamlined communication between job seekers and employers"
+  ],
+  "searchable_keywords": [
+    "Fastjobs Singapore",
+    "Fastjobs",
+    "Job seekers",
+    "Non-executive jobs",
+    "Full-time jobs",
+    "Part-time jobs",
+    "Contract jobs",
+    "Freelance jobs",
+    "Mobile app",
+    "Employers",
+    "Hiring experience",
+    "Employer's Hub",
+    "Browse jobs",
+    "Job search by industry",
+    "Job search by skill",
+    "Job search by location",
+    "Singapore career",
+    "Recruiting",
+    "Recruiting software",
+    "Hiring speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Talent acquisition",
+    "Talent sourcing",
+    "Hiring automation",
+    "Hiring best practices",
+    "Dream Job Singapore",
+    "Job listings",
+    "Get Jobs FAST",
+    "User-friendly mobile app",
+    "Job recommendations",
+    "Direct employer contact"
+  ],
+  "primary_users": [
+    "Job seekers (non-executive)",
+    "Employers (hiring managers, HR teams)"
+  ],
+  "deployment_options": [
+    "Mobile Application (App-based)",
+    "Cloud-based (SaaS)"
+  ],
+  "_weight": 1
+}

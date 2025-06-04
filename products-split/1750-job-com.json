@@ -1,0 +1,153 @@
+{
+  "id": 1750,
+  "name": "Job.com",
+  "description": "My apologies for that oversight. Here's a revised version exactly at 65 words:\n\nJob.com disrupts by integrating AI and machine learning with expert human solutions, optimizing talent attraction, retention, and user experiences in hiring. It empowers jobseekers, companies, and recruiters with efficient career management and hiring processes. Evolving rapidly, Job.com stands out as the go-to platform for effective talent acquisition and career transitions, offering unmatched value across diverse market segments.",
+  "features": [
+    "AI-Powered Talent Matching",
+    "Candidate-Centric Platform",
+    "Efficient Recruitment Processes"
+  ],
+  "founders": [
+    "Paul Sloyan",
+    "Arran Stewart"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "HRMS / HCM",
+    "Other / technology",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Pre-employment testing software",
+    "Human Resource Information Systems (HRIS)",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Data driven Hiring",
+    "Talent acquisition",
+    "Recruiting efficiency"
+  ],
+  "headquarter": "Austin, Texas",
+  "launch_date": "2001",
+  "order": null,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Dedicated humans powered by smart tech",
+  "ProductId": null,
+  "ShortDescription": "Job.com is a digital recruitment innovator with a unique perspective",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Increased Potential",
+      "sequence": 0,
+      "description": "Find your next job faster, thanks to our rich supply of jobs paired with advanced data science and AI."
+    },
+    {
+      "name": "No Busy Work",
+      "sequence": 1,
+      "description": "Get best-fit jobs served up to you since we continuously monitor thousands of opportunities around the clock."
+    },
+    {
+      "name": "Human Connection",
+      "sequence": 2,
+      "description": "Get the help you need, when you need it by scheduling an interview with a recruiter who\u2019ll guide the way."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-07-11T05:00:54.367Z",
+  "enhanced_description": "Job.com is a digital recruitment innovator with a unique perspective, disrupting the market by integrating AI and machine learning with expert human solutions. This approach optimizes talent attraction, retention, and user experiences in hiring, empowering jobseekers, companies, and recruiters with efficient career management and hiring processes. As a platform where dedicated humans are powered by smart tech, Job.com stands out for effective talent acquisition and career transitions, offering unmatched value across diverse market segments. It ensures best-fit jobs are served up, helps jobseekers find their next role faster, and provides essential human connection through recruiter guidance.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Talent Attraction and Acquisition",
+    "AI-Powered Candidate-Job Matching",
+    "Efficient Recruitment Process Management",
+    "Career Management for Jobseekers",
+    "Optimizing Hiring Efficiency",
+    "Recruiter-Assisted Job Search"
+  ],
+  "competitive_advantages": [
+    "Integration of AI and Machine Learning with Expert Human Solutions",
+    "Candidate-Centric Platform Design",
+    "Disruptive Approach to Recruitment",
+    "Provides Human Connection and Recruiter Guidance",
+    "Data-driven Approach to Hiring"
+  ],
+  "hr_functions_supported": [
+    "Recruitment & Talent Acquisition",
+    "Candidate Relationship Management",
+    "Human Resource Information Systems (HRIS)",
+    "Career Management",
+    "Talent Retention"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Machine Learning (ML)",
+    "Data Science"
+  ],
+  "roi_benefits": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Optimized Talent Attraction",
+    "Improved Talent Retention",
+    "Enhanced User Experiences in Hiring",
+    "Efficient Career Management Processes",
+    "Efficient Hiring Processes",
+    "Faster Job Discovery for Candidates",
+    "Reduced 'Busy Work' in Job Search/Hiring",
+    "Access to Best-Fit Jobs",
+    "Increased Recruiting Efficiency"
+  ],
+  "searchable_keywords": [
+    "Job.com",
+    "AI recruitment",
+    "Machine learning hiring",
+    "Talent acquisition",
+    "Recruitment efficiency",
+    "HRMS",
+    "HCM",
+    "HRIS",
+    "Talent matching",
+    "Candidate experience",
+    "Data-driven hiring",
+    "Career management",
+    "Talent attraction",
+    "Human connection",
+    "Recruiter support",
+    "Online recruiting platform",
+    "Digital recruitment",
+    "AI-powered talent matching"
+  ],
+  "primary_users": [
+    "Jobseekers",
+    "Companies",
+    "Recruiters"
+  ],
+  "_weight": 1
+}

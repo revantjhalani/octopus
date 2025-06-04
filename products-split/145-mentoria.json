@@ -1,0 +1,145 @@
+{
+  "id": 145,
+  "name": "Mentoria",
+  "description": "At Mentoria, we offer a holistic career discovery platform, helping students identify careers they'll enjoy and excel in, guiding them until their first job. Addressing critical issues like teenage depression and high student suicide rates, we use a scientific, psychometric-based approach to navigate the complex landscape of over 12,000 career paths, ensuring young individuals avoid dissatisfaction and thrive in their chosen fields.",
+  "features": [
+    "2,20,000+ Users",
+    "100+ Education Partners",
+    "120+ Corporate Partners"
+  ],
+  "founders": [
+    "Nikhar Arora",
+    "Juie Divecha",
+    "Ashish Arora"
+  ],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Learning and Development",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Course authoring",
+    "Training eLearning software",
+    "Career management software"
+  ],
+  "tags": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2015",
+  "order": 20112,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Clutter to Clarity",
+  "ProductId": null,
+  "ShortDescription": "Enabling individuals to discover themselves and their ideal career paths",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Career Counselling",
+      "sequence": 0,
+      "description": "Our team of talented and rigorously trained career counsellors will have a one-on-one career counselling session with you over a video call. "
+    },
+    {
+      "name": "College Recommendations for Foreign Admissions",
+      "sequence": 1,
+      "description": "Get unbiased recommendations for international education based on your overseas study destination, budgets and preferred courses."
+    },
+    {
+      "name": "CV Review and Interview Preparation",
+      "sequence": 2,
+      "description": "Create the perfect resume and get guidance for job application strategy, interview preparation and more."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:17.504Z",
+  "enhanced_description": "Mentoria is a holistic career discovery platform designed to guide individuals from career identification through to their first job. It addresses critical issues like teenage depression and high student suicide rates by employing a scientific, psychometric-based approach to help users navigate over 12,000 career paths. The platform ensures young individuals find careers they will enjoy and excel in, promoting long-term satisfaction and success. Key services include one-on-one psychometric-based career counseling sessions via video call, unbiased college recommendations for foreign admissions (considering overseas study destination, budgets, and preferred courses), and comprehensive support for CV review, job application strategy, and interview preparation.",
+  "target_industries": [
+    "Education",
+    "Corporate"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Career exploration and discovery",
+    "Psychometric-based career assessment",
+    "Personalized career counseling",
+    "International college and course recommendation",
+    "CV/resume development",
+    "Job interview preparation",
+    "First job placement guidance"
+  ],
+  "competitive_advantages": [
+    "Holistic career guidance from discovery to first job",
+    "Scientific and psychometric-based career assessment approach",
+    "Extensive database of over 12,000 career paths",
+    "Focus on improving student well-being and reducing dissatisfaction",
+    "Unbiased recommendations for international education"
+  ],
+  "hr_functions_supported": [
+    "Career Management",
+    "Learning & Development",
+    "Talent Management",
+    "Talent Acquisition (preparation)",
+    "Employee Engagement (indirect)"
+  ],
+  "roi_benefits": [
+    "Improved career satisfaction and longevity",
+    "Reduced career dissatisfaction and associated mental health issues",
+    "Enhanced success and thriving in chosen fields",
+    "Streamlined transition into first jobs",
+    "Better-prepared individuals for the job market"
+  ],
+  "searchable_keywords": [
+    "Mentoria",
+    "career discovery",
+    "career guidance",
+    "career counseling",
+    "psychometric assessment",
+    "career path",
+    "student career",
+    "first job",
+    "job preparation",
+    "CV review",
+    "interview preparation",
+    "college recommendations",
+    "foreign admissions",
+    "learning and development",
+    "talent management",
+    "career management software",
+    "employee happiness",
+    "employee engagement",
+    "training eLearning software",
+    "holistic platform"
+  ],
+  "primary_users": [
+    "Students",
+    "Career Counsellors",
+    "Educational Institutions (Administrators)",
+    "Corporate HR/L&D Professionals (for partner collaborations)"
+  ],
+  "_weight": 1
+}

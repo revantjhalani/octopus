@@ -1,0 +1,140 @@
+{
+  "id": 422,
+  "name": "Asia Market Entry",
+  "description": "At Asia Market Entry, we recognise that international software companies are often unable to relocate their own staff to the Asia region, do not want to setup a local office, or are simply not ready to fully commit to the region yet. We bridge that gap for our customers by helping prove the Asia market before they make a whole-scale investment in the region. We commit to providing our customers with the platform on which they can make the correct long-term decision about their Asia strategy.\n",
+  "features": [
+    "Transport Links",
+    "Quality of Life",
+    "Favourable Tax"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing services providers",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    ""
+  ],
+  "headquarter": "Singapore River",
+  "launch_date": "2016",
+  "order": 20382,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Asia Market Entry assists software firms entering Asia-Pacific with business and sales support",
+  "ProductId": null,
+  "ShortDescription": "We facilitate low-risk, high-return expansion for your software business into Asia",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Strategic Location",
+      "sequence": 0,
+      "description": "Singapore's central position in Asia offers prime business opportunities with access to a vast regional market."
+    },
+    {
+      "name": "IP Protection",
+      "sequence": 1,
+      "description": "Singapore, akin to Silicon Valley, ensures robust intellectual property security as a signatory to major treaties."
+    },
+    {
+      "name": "Skilled Labor",
+      "sequence": 2,
+      "description": "With a top-tier education system, Singapore boasts a highly skilled workforce."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:26:54.198Z",
+  "enhanced_description": "Asia Market Entry provides a low-risk, high-return platform for international software companies to explore and establish a presence in the Asia-Pacific market. It bridges the gap for firms unable to relocate staff or set up local offices, offering business and sales support to prove market viability before full-scale investment. Based in Singapore, it leverages the region's strategic location, robust intellectual property protection, and highly skilled workforce to facilitate expansion and aid in making informed long-term Asia strategy decisions, while also supporting talent acquisition efforts.",
+  "target_industries": [
+    "Software"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Market entry and expansion into Asia-Pacific",
+    "Validating Asia market viability",
+    "Strategic planning for Asia presence",
+    "Providing business and sales support in Asia",
+    "Hiring top talent in Asia",
+    "Facilitating low-risk international expansion"
+  ],
+  "competitive_advantages": [
+    "Enables market entry without immediate relocation of staff or setup of local offices",
+    "Offers a low-risk, high-return expansion model",
+    "Leverages Singapore's strategic location for market access",
+    "Benefits from Singapore's robust intellectual property protection",
+    "Access to Singapore's highly skilled workforce"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Hiring",
+    "Talent Sourcing",
+    "Staffing"
+  ],
+  "roi_benefits": [
+    "Reduced risk for market entry",
+    "Cost savings on recruiting (implied by 'Recruiting costs' tag)",
+    "Faster and more efficient talent acquisition",
+    "Improved hiring manager confidence and productivity",
+    "Informed long-term Asia strategy decisions",
+    "Avoidance of premature full-scale investment"
+  ],
+  "searchable_keywords": [
+    "Asia Market Entry",
+    "Asia-Pacific expansion",
+    "International software companies",
+    "Market validation Asia",
+    "Business support Asia",
+    "Sales support Asia",
+    "Recruiting Asia",
+    "Hiring Asia",
+    "Talent sourcing Asia",
+    "HR consulting Asia",
+    "Staffing services Asia",
+    "Singapore business",
+    "IP protection Asia",
+    "Skilled labor Asia",
+    "Global expansion strategy",
+    "Low-risk market entry"
+  ],
+  "primary_users": [
+    "Business Leaders",
+    "HR Professionals",
+    "Recruiting Managers",
+    "Hiring Managers",
+    "Sales Leaders"
+  ],
+  "_weight": 1
+}

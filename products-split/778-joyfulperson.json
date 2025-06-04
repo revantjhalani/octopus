@@ -1,0 +1,143 @@
+{
+  "id": 778,
+  "name": "JoyfulPerson",
+  "description": "JoyfulPerson Pte Ltd (\u201cJoyform.co\u201d, \u201cJoyform\u201d, \u201cJoyfulPerson\u201d, \u201cwe\u201d, \u201cus\u201d, or \u201cour\u201d) provides a Software as a Service (SaaS) that allows our customers to store, manipulate, analyze and transfer messages between their business systems and their customers on a variety of JoyfulPerson-provided and third party messaging channels (the \u201cService\u201d). A \u201cCustomer\u201d is an entity with whom JoyfulPerson has an agreement to provide the Service. This JoyfulPerson Terms of Service (the \u201cAgreement\u201d) is an agreement between the Customer and JoyfulPerson, together the \u201cParties\u201d and each, a \u201cParty\u201d, and is entered the date the Customer signs up for a JoyfulPerson account through the JoyfulPerson website (the \u201cEffective Date\u201d). If you register for a JoyfulPerson or Joyform.co account, you acknowledge your understanding of these terms and enter the Agreement on behalf of Customer. Please make sure you have the necessary authority to enter into the Agreement on behalf of the Customer before proceeding. If a Customer violates any of the terms outlined below, we reserve the right to cancel accounts or bar access to accounts without notice. If you do not agree to these terms, please do not use our Services. JoyfulPerson may, but have no obligation to, remove Content and Accounts containing Content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates any party\u2019s intellectual property or these Terms of Use.",
+  "features": [
+    "Accurate Data Collection",
+    "Lead Generation",
+    "WhatsApp Business API"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Internet of things",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee benefits",
+    "Employee development"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2020",
+  "order": 20731,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Joyform is the fastest way to automate WhatsApp for work",
+  "ProductId": null,
+  "ShortDescription": "JoyfulPerson Pte Ltd provides a Software as a Service (SaaS) that allows our customers to store, manipulate, analyze and transfer messages between their business systems and their customers.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Enable JoyForm Notifications",
+      "sequence": 0,
+      "description": "This might be a feature allowing users to receive updates or notifications related to the website content or services through a form submission."
+    },
+    {
+      "name": "Sign Up for a Free Trial/Consultation",
+      "sequence": 1,
+      "description": "The GForm might be used for signing up for a free trial of a service offered by Joyful Person or requesting a free consultation to discuss their services."
+    },
+    {
+      "name": "Join the Joyful Person Community",
+      "sequence": 2,
+      "description": "The website might offer a community forum or online group, and the GForm could be a way to subscribe or request access."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:17.864Z",
+  "enhanced_description": "JoyfulPerson, also known as Joyform or Joyform.co, provides a Software as a Service (SaaS) platform designed for automating business communications. The core service allows customers to store, manipulate, analyze, and transfer messages between their internal business systems and their external customers across various JoyfulPerson-provided and third-party messaging channels. A key capability highlighted is the automation of WhatsApp for work, leveraging the WhatsApp Business API. Beyond customer-facing communications, JoyfulPerson also aims to improve employee happiness and engagement, indicating its application in HR-related communications for employee engagement, benefits, and development. The platform also offers features for accurate data collection and lead generation. JoyfulPerson targets Global and Large Enterprise customers.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Automating WhatsApp communications for business operations",
+    "Managing customer messaging, including storage, manipulation, analysis, and transfer of messages",
+    "Accurate data collection through messaging channels",
+    "Lead generation via messaging",
+    "Facilitating internal HR communications for employee engagement",
+    "Communicating employee benefits information",
+    "Supporting employee development communications"
+  ],
+  "competitive_advantages": [
+    "Positioned as 'the fastest way to automate WhatsApp for work'",
+    "Leverages WhatsApp Business API for specialized messaging automation"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based deployment (SaaS)",
+    "Integration with existing business systems for message transfer"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Employee Benefits",
+    "Employee Development"
+  ],
+  "technology_stack": [
+    "Software as a Service (SaaS)",
+    "WhatsApp Business API",
+    "Artificial Intelligence",
+    "Internet of Things"
+  ],
+  "integration_capabilities": [
+    "Integration with business systems for message transfer",
+    "Integration with third-party messaging channels, including WhatsApp Business API"
+  ],
+  "roi_benefits": [
+    "Increased efficiency through WhatsApp automation",
+    "Improved employee happiness and engagement",
+    "Enhanced data collection accuracy",
+    "Potential for increased revenue through lead generation"
+  ],
+  "searchable_keywords": [
+    "JoyfulPerson",
+    "Joyform",
+    "SaaS",
+    "WhatsApp automation",
+    "WhatsApp for work",
+    "Business messaging",
+    "Customer communication",
+    "Employee engagement",
+    "Employee benefits",
+    "Employee development",
+    "Accurate data collection",
+    "Lead generation",
+    "Artificial intelligence",
+    "Internet of things",
+    "Messaging platform",
+    "Business communication"
+  ],
+  "primary_users": [
+    "Businesses (customers of JoyfulPerson)",
+    "HR departments/professionals (within customer businesses)"
+  ],
+  "deployment_options": [
+    "Cloud (SaaS)"
+  ],
+  "_weight": 1
+}

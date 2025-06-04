@@ -1,0 +1,180 @@
+{
+  "id": 414,
+  "name": "Apex Group Of Companies (Asia)",
+  "description": "Apex Group of Companies, founded in the year 2000, is a conglomerate of brands easing end-to-end multifaceted workforce challenges from Permanent Staffing to Professional Resourcing, Outsourcing, Offshoring, and Talent Development. We help accelerate your business through our additional security services and infrastructure development solutions. Our associates extend across India and the Middle East & we partner with organizations to provide workforce solutions with unparalleled accuracy and reliability. ",
+  "features": [
+    "Experience of over two decades",
+    "Our associates are spread across India",
+    "Providing reliable solutions from our wide range of contacts"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Talent Management",
+    "Learning and Development",
+    "Recruiting",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration services",
+    "Employee engagement software",
+    "Onboarding software",
+    "Training eLearning software",
+    "Staffing services providers",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "Mumbai Region, India",
+  "launch_date": "2000",
+  "order": 20374,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Achieving Performance Excellence",
+  "ProductId": null,
+  "ShortDescription": "Delivering Results with Our Performance Focussed Service System",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Statutory Compliance",
+      "sequence": 0,
+      "description": "Trusted partner to take care of the complete legal acquiescence ensuring compliance with ever changing rules & regulations of labor laws."
+    },
+    {
+      "name": "Security Services",
+      "sequence": 1,
+      "description": "Reliable & expert security services that combine effective manpower with up-to-date technology to create an unparalleled ecosystem of safety & security."
+    },
+    {
+      "name": "Infrastructure Development",
+      "sequence": 2,
+      "description": "Robust and dynamic technology and engineering expertise to deliver a suite of services curated for construction sites across India."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:26:39.489Z",
+  "enhanced_description": "Apex Group of Companies, established in 2000, is a comprehensive service provider addressing end-to-end multifaceted workforce challenges. They offer solutions spanning Permanent Staffing, Professional Resourcing, Outsourcing, Offshoring, and Talent Development. Additionally, Apex Group accelerates business operations by providing specialized security services and infrastructure development solutions. With over two decades of experience and a widespread network of associates across India and the Middle East, they deliver reliable workforce solutions and act as a trusted partner for statutory compliance, ensuring adherence to labor laws. Their security services integrate effective manpower with up-to-date technology, while their robust infrastructure development solutions leverage technology and engineering expertise, particularly curated for construction sites in India.",
+  "target_industries": [
+    "Construction"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Permanent Staffing",
+    "Professional Resourcing",
+    "Workforce Outsourcing",
+    "Offshoring Services",
+    "Talent Development",
+    "Statutory Compliance Management",
+    "Security Services Provision",
+    "Infrastructure Development (for construction sites)",
+    "Hiring Process Optimization",
+    "Cost Reduction in Hiring",
+    "Benefits Administration",
+    "Employee Engagement Program Support",
+    "Onboarding Services",
+    "Training and eLearning"
+  ],
+  "competitive_advantages": [
+    "Over two decades of industry experience",
+    "Extensive associate network across India and the Middle East",
+    "Unparalleled accuracy and reliability in workforce solutions",
+    "Expertise in statutory compliance and labor law adherence",
+    "Comprehensive service conglomerate offering diverse solutions"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Staffing",
+    "Talent Management",
+    "Learning and Development",
+    "Total Rewards (Benefits Administration)",
+    "Onboarding",
+    "Employee Engagement",
+    "HR Compliance",
+    "HR Outsourcing"
+  ],
+  "roi_benefits": [
+    "Faster and more efficient talent acquisition",
+    "Reduced cost of hiring qualified employees",
+    "Increased hiring manager confidence and productivity",
+    "Business acceleration through comprehensive workforce solutions"
+  ],
+  "searchable_keywords": [
+    "Apex Group",
+    "workforce solutions",
+    "staffing services",
+    "permanent staffing",
+    "professional resourcing",
+    "outsourcing services",
+    "offshoring solutions",
+    "talent development",
+    "recruiting services",
+    "talent acquisition",
+    "HR compliance",
+    "statutory compliance",
+    "labor laws",
+    "security services",
+    "infrastructure development",
+    "construction staffing",
+    "benefits administration",
+    "employee engagement",
+    "onboarding solutions",
+    "training services",
+    "e-learning solutions",
+    "HR consulting",
+    "Asia HR services",
+    "India HR services",
+    "Middle East HR services",
+    "hiring optimization",
+    "cost reduction hiring",
+    "HR support",
+    "managed HR services",
+    "performance excellence"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Hiring Managers",
+    "Business Leaders",
+    "Company Executives"
+  ],
+  "compliance_features": [
+    "Statutory compliance with labor laws and regulations"
+  ],
+  "security_features": [
+    "Provision of comprehensive security services combining manpower and technology"
+  ],
+  "_weight": 1
+}

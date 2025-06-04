@@ -1,0 +1,138 @@
+{
+  "id": 839,
+  "name": "Lloyd Group of Institutions",
+  "description": "Lloyd Business School has been operational since 2008, guided by the philosophy of combining theoretical knowledge with practical applications in order to create skilled, highly trained and employable professionals. Lloyd constantly strives to achieve its objective of delivering quality education to students while ensuring their professional development. The strength of the Institute lies in the niche and highly industry-integrated courses that Lloyd offers in the field of management under the combined aegis of renowned faculty members and highly respected corporate professionals. The PGDM programs offered in the field of Human Resources, Supply Chain Management and Business Analytics jointly with industry leaders like the Manpower Group, Safeducate and IBM.",
+  "features": [
+    "Innovation and Sustainability",
+    "Ethics and Values",
+    "Quality and Technology"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Course authoring"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning optimisation",
+    "Skill acquisition"
+  ],
+  "headquarter": "Noida, Uttar Pradesh",
+  "launch_date": "2008",
+  "order": 20792,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "\"Transforming Education to Innovation\"",
+  "ProductId": null,
+  "ShortDescription": "The Lloyd Group of Institutions encompasses Schools of Management, Law, Engineering and Pharmacy, extending multi-faceted knowledge in these fields.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Focus on Skill Development",
+      "sequence": 0,
+      "description": "The Lloyd Institute of Engineering and Technology (LIET) emphasizes skill development in their curriculum. This equips students with the necessary skills to succeed in the workforce."
+    },
+    {
+      "name": "Global Exposure",
+      "sequence": 1,
+      "description": "LIET provides students with opportunities to gain global exposure. This could include international collaborations, guest lectures from foreign experts, or study abroad programs."
+    },
+    {
+      "name": "Entrepreneurial Mindset Development",
+      "sequence": 2,
+      "description": "The article mentions that LIET fosters an entrepreneurial mindset among its students. This encourages students to be innovative and think creatively, which can be beneficial for both future employment and starting their own businesses."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:28.850Z",
+  "enhanced_description": "The Lloyd Group of Institutions, established in 2008, operates schools across Management, Law, Engineering (specifically Lloyd Institute of Engineering and Technology - LIET), and Pharmacy. Guided by a philosophy of combining theoretical knowledge with practical applications, the institution aims to cultivate skilled, highly trained, and employable professionals. It is committed to delivering quality education while fostering professional development. A key strength lies in its niche, industry-integrated management courses, particularly PGDM programs in Human Resources, Supply Chain Management, and Business Analytics, which are delivered in collaboration with prominent industry leaders such as Manpower Group, Safeducate, and IBM. The institution emphasizes innovation, sustainability, ethics, values, quality, and technology in its approach. Furthermore, LIET focuses on skill development, providing students with global exposure opportunities and fostering an entrepreneurial mindset to prepare them for future employment and business ventures.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Higher education and professional development for students seeking careers in management (Human Resources, Supply Chain Management, Business Analytics), law, engineering, and pharmacy.",
+    "Corporate skill development and learning efficiency acceleration for professionals.",
+    "Development and delivery of industry-integrated learning content and programs.",
+    "Fostering an entrepreneurial mindset and providing global exposure to learners."
+  ],
+  "competitive_advantages": [
+    "Combination of theoretical knowledge with practical applications.",
+    "Niche and highly industry-integrated courses.",
+    "Programs developed and delivered under the combined aegis of renowned faculty and respected corporate professionals.",
+    "Joint PGDM programs with industry leaders (Manpower Group, Safeducate, IBM).",
+    "Strong emphasis on skill development in curriculum.",
+    "Opportunities for global exposure for students.",
+    "Focus on developing an entrepreneurial mindset among students."
+  ],
+  "hr_functions_supported": [
+    "Learning and Development"
+  ],
+  "roi_benefits": [
+    "Creation of skilled, highly trained, and employable professionals.",
+    "Acceleration of skill development and learning efficiency.",
+    "Enhanced professional development for individuals.",
+    "Equipping individuals with necessary skills for workforce success.",
+    "Fostering innovation and creative thinking through an entrepreneurial mindset."
+  ],
+  "searchable_keywords": [
+    "Lloyd Group of Institutions",
+    "Lloyd Business School",
+    "Education",
+    "Management",
+    "Law",
+    "Engineering",
+    "Pharmacy",
+    "Human Resources",
+    "Supply Chain Management",
+    "Business Analytics",
+    "PGDM",
+    "Skill development",
+    "Learning optimisation",
+    "Skill acquisition",
+    "Professional development",
+    "Employability",
+    "Corporate LMS",
+    "Course authoring",
+    "Innovation",
+    "Sustainability",
+    "Ethics",
+    "Values",
+    "Quality education",
+    "Technology in education",
+    "Global exposure",
+    "Entrepreneurial mindset"
+  ],
+  "primary_users": [
+    "Students seeking higher education and professional development",
+    "Corporate learners and employees (in context of 'Corporate LMS' and 'Course authoring' sub-categories)",
+    "Learning & Development professionals (in context of 'Corporate LMS' and 'Course authoring' sub-categories)"
+  ],
+  "_weight": 1
+}

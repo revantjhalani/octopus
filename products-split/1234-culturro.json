@@ -1,0 +1,165 @@
+{
+  "id": 1234,
+  "name": "Culturro",
+  "description": "Culturro's employee experience platform, Agnya, identifies the areas at scale and moreover, automatically works with the stakeholders to fix the issues. All using technology. Net result? Lower employee turnover, higher performance, higher top line, and fatter bottom line.",
+  "features": [
+    "MAKE BETTER DECISIONS Consciously align your company's culture wit",
+    "PRE-EMPT Listen and act before small problems become big and start having huge impact.",
+    "DRIVE ROI Add to your top-line by increasing workforce productivity and reduce costs of attrition."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "HR analytics software",
+    "HR management suites",
+    "Career management software",
+    "Employee engagement software",
+    "Employee grievance",
+    "Experience Software",
+    "Employee scheduling software",
+    "Talent management software",
+    "Time tracking",
+    "Workforce management"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee hapiness",
+    "Employee benefits",
+    "Company culture",
+    "Employee feedback",
+    "Remote workforce management "
+  ],
+  "headquarter": "Gurugram, Haryana",
+  "launch_date": "2017",
+  "order": 21065,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Culturro: Boost Employee Value and Fuel Business Growth ",
+  "ProductId": null,
+  "ShortDescription": "The Employee Experience Platform Increasing Lifetime Value For Remote And Distributed Teams",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Maximize Employee Lifetime Value",
+      "sequence": 0,
+      "description": " Culturro helps organizations unlock employee potential, leading to increased performance and longer tenure -  key factors in boosting Employee Lifetime Value (eLTV)."
+    },
+    {
+      "name": "Data-Driven Employee Engagement",
+      "sequence": 1,
+      "description": "Culturro goes beyond surveys with interactive tools that provide actionable insights. This allows for personalized interventions that improve employee engagement and satisfaction."
+    },
+    {
+      "name": "Strategic Advantage Through People",
+      "sequence": 2,
+      "description": "Culturro empowers companies to build a strong, motivated workforce. This translates into a competitive advantage with a team that is highly skilled, productive, and less likely to leave."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:12:45.173Z",
+  "enhanced_description": "Culturro offers 'Agnya', an employee experience platform designed to identify issues at scale and automatically facilitate their resolution with stakeholders using technology. It is specifically tailored for remote and distributed teams, aiming to increase Employee Lifetime Value (eLTV) by unlocking employee potential, improving performance, and extending tenure. The platform provides data-driven, interactive tools that go beyond traditional surveys, offering actionable insights for personalized interventions. Culturro empowers organizations to pre-emptively address small problems before they escalate, build a strong, motivated workforce, and gain a strategic advantage through their people. This approach ultimately leads to lower employee turnover, higher workforce productivity, increased top-line revenue, and reduced attrition costs, contributing to overall business growth.",
+  "ideal_company_sizes": [
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee Experience Management",
+    "Employee Engagement Enhancement",
+    "Attrition Reduction",
+    "Workforce Productivity Improvement",
+    "Culture Alignment",
+    "Proactive Problem Resolution",
+    "Employee Lifetime Value Maximization",
+    "Remote Team Management",
+    "Distributed Team Management"
+  ],
+  "competitive_advantages": [
+    "Automated facilitation for issue resolution with stakeholders",
+    "Scalable identification of employee experience issues",
+    "Data-driven, actionable insights from interactive tools (beyond surveys)",
+    "Support for personalized interventions",
+    "Proactive problem identification and resolution to prevent escalation",
+    "Specific focus on increasing Employee Lifetime Value (eLTV)",
+    "Optimized for remote and distributed teams"
+  ],
+  "hr_functions_supported": [
+    "Employee Experience",
+    "Employee Engagement",
+    "HR Analytics",
+    "Talent Management",
+    "Employee Grievance Resolution",
+    "Workforce Productivity Management",
+    "Culture Alignment"
+  ],
+  "roi_benefits": [
+    "Lower employee turnover",
+    "Higher employee performance",
+    "Increased top-line revenue",
+    "Improved bottom line (profit)",
+    "Increased workforce productivity",
+    "Reduced costs of attrition",
+    "Maximized Employee Lifetime Value (eLTV)",
+    "Attainment of strategic advantage through a strong, motivated workforce"
+  ],
+  "searchable_keywords": [
+    "Culturro",
+    "Agnya",
+    "Employee experience platform",
+    "Employee experience",
+    "Employee engagement",
+    "Employee happiness",
+    "Employee value",
+    "Employee retention",
+    "Employee turnover",
+    "Attrition reduction",
+    "Workforce productivity",
+    "Company culture",
+    "Employee feedback",
+    "Remote workforce management",
+    "Distributed teams",
+    "HR analytics software",
+    "Talent management software",
+    "Employee grievance",
+    "Performance improvement",
+    "Business growth",
+    "ROI",
+    "Employee Lifetime Value",
+    "HR Tech",
+    "HR software"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "HR Departments",
+    "Managers",
+    "Team Leaders",
+    "Employees"
+  ],
+  "scalability_features": [
+    "Designed to identify and address employee experience issues at scale"
+  ],
+  "_weight": 1
+}

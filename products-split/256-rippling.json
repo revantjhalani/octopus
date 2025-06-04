@@ -1,0 +1,184 @@
+{
+  "id": 256,
+  "name": "Rippling",
+  "description": "Rippling is the first way for businesses to manage all of their HR, IT, and Finance \u2014 payroll, benefits, expenses, corporate cards, computers, apps, and more \u2014 in one unified workforce platform.\n By connecting every workforce system to a single source of truth for employee data, businesses can automate all of the manual work they normally need to do to make employee changes. Take onboarding, for example. With Rippling, you can just click a button and set up a new employees' payroll, health insurance, corporate card, work computer, and third-party apps all within 90 seconds.",
+  "features": [
+    "Hire, pay and manage global talent compliantly",
+    "Manage identity, devices and inventory globally",
+    "Control company spend around the world"
+  ],
+  "founders": [
+    "Parker Conrad"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Talent management software",
+    "Career management software"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent acquisition"
+  ],
+  "headquarter": "San Francisco, CA",
+  "launch_date": "2016",
+  "order": 20221,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Accelerate every part of your business",
+  "ProductId": null,
+  "ShortDescription": "Everything you need to manage your business operations in one unified system",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Maximise HR\u2019s impact",
+      "sequence": 0,
+      "description": "Manage your day-to-day operations at scale and drive strategic outcomes across the business."
+    },
+    {
+      "name": "Strengthen security",
+      "sequence": 1,
+      "description": "Unlock total visibility and control over identity, devices and inventory across the user lifecycle."
+    },
+    {
+      "name": "Stop rogue spend before it happens",
+      "sequence": 2,
+      "description": "Automate and control company costs with more granularity than any other spend management system."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:11.568Z",
+  "enhanced_description": "Rippling is a unified workforce platform designed to manage all HR, IT, and Finance operations, including payroll, benefits, expenses, corporate cards, computers, and apps. It serves as a single source of truth for employee data, enabling businesses to automate traditionally manual tasks across the employee lifecycle. For instance, new employees can have their payroll, health insurance, corporate card, work computer, and third-party apps set up in as little as 90 seconds. This platform aims to maximize HR's impact, strengthen security through identity, device, and inventory management, and enable granular control over company spend globally, thereby accelerating overall business operations.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Unified HR, IT, and Finance management",
+    "Employee onboarding and lifecycle automation",
+    "Global talent hiring and management",
+    "Global payroll and benefits administration",
+    "IT identity, device, and inventory management",
+    "Global company spend and expense control",
+    "Enhancing hiring manager productivity",
+    "Workforce security management",
+    "Proactive spend control"
+  ],
+  "competitive_advantages": [
+    "Unified platform for HR, IT, and Finance operations",
+    "Single source of truth for employee data, enabling extensive automation",
+    "Rapid and automated employee onboarding (e.g., 90-second setup for multiple systems)",
+    "Highly granular control over company spend"
+  ],
+  "hr_functions_supported": [
+    "Payroll management",
+    "Benefits administration",
+    "Recruiting",
+    "Hiring",
+    "Talent acquisition",
+    "Onboarding",
+    "Talent management",
+    "Career management",
+    "Global HR management",
+    "Employee lifecycle management",
+    "HR operations management"
+  ],
+  "integration_capabilities": [
+    "Integration with various workforce systems",
+    "Integration with third-party applications"
+  ],
+  "roi_benefits": [
+    "Reduced manual administrative work across HR, IT, and Finance",
+    "Significant time savings, particularly in employee onboarding processes",
+    "Increased productivity and confidence for hiring managers",
+    "Enhanced financial control and prevention of unauthorized spend",
+    "Improved overall business efficiency and acceleration",
+    "Maximized HR strategic impact"
+  ],
+  "searchable_keywords": [
+    "Rippling",
+    "HR",
+    "IT",
+    "Finance",
+    "unified platform",
+    "workforce management",
+    "payroll",
+    "benefits",
+    "expenses",
+    "corporate cards",
+    "computers",
+    "apps",
+    "employee data",
+    "automation",
+    "onboarding",
+    "global talent",
+    "compliant hiring",
+    "identity management",
+    "device management",
+    "inventory management",
+    "spend control",
+    "recruiting",
+    "talent management",
+    "hiring software",
+    "talent acquisition",
+    "career management",
+    "business operations",
+    "HR automation",
+    "IT automation",
+    "finance automation",
+    "security",
+    "cost management",
+    "global HR",
+    "global IT",
+    "global finance"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Hiring Managers",
+    "Finance Professionals",
+    "IT Administrators",
+    "Business Owners/Executives"
+  ],
+  "compliance_features": [
+    "Global talent management compliance"
+  ],
+  "scalability_features": [
+    "Designed to manage day-to-day operations at scale",
+    "Supports growth across small, large, and global enterprise sizes"
+  ],
+  "security_features": [
+    "Identity management and control",
+    "Device and inventory control",
+    "Enhanced security visibility"
+  ],
+  "_weight": 1
+}

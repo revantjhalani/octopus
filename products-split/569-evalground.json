@@ -1,0 +1,124 @@
+{
+  "id": 569,
+  "name": "Evalground",
+  "description": "EvalGround(EG) is an online Coding Test hosting and evaluation system focused on helping recruiters in initial screening tests to filter out potential candidates and help the recruiter find their suitable candidates, for suitable job vacancies. Traditional process for recruiting IT developers /programmers can only test their aptitude skills and programming concepts through oral test i.e interview. But EG provides a solution, where the programming skills can be evaluated automatically through coding. Evalground is a platform where you can promote your Brand by adding videos, presentations etc.",
+  "features": [
+    "Online Submission Test",
+    "Extensive Test Reports",
+    "Debugging Code"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Staffing & management software",
+    "HR management suites"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    ""
+  ],
+  "headquarter": "Bengaluru, Karnataka",
+  "launch_date": "2015",
+  "order": 20528,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "RECRUITMENT MADE EASY",
+  "ProductId": null,
+  "ShortDescription": "EvalGround(EG) is an online Coding Test hosting and evaluation system focused on helping recruiters in initial screening tests to filter out potential candidates and help the recruiter find their suitable candidates, for suitable job vacancies.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:30:14.491Z",
+  "enhanced_description": "Evalground is an online platform specializing in coding test hosting and evaluation, primarily designed for the initial screening of IT developers and programmers. It automates the evaluation of programming skills, providing a more objective assessment than traditional oral interviews. Key features include online test submission, extensive test reports for detailed insights, and debugging code capabilities. The system aims to empower recruiters and hiring managers to identify and hire top talent faster and more efficiently, thereby boosting their confidence and productivity. Additionally, Evalground offers a platform for brand promotion through the inclusion of videos and presentations.",
+  "target_industries": [
+    "IT & Software Development"
+  ],
+  "key_use_cases": [
+    "Initial screening of IT developers/programmers",
+    "Automated evaluation of programming skills",
+    "Filtering potential candidates for job vacancies",
+    "Providing extensive test reports for candidate assessment",
+    "Facilitating code debugging during evaluations",
+    "Promoting brand through multimedia content during recruitment process"
+  ],
+  "competitive_advantages": [
+    "Automated evaluation of programming skills through coding tests, unlike traditional oral interviews",
+    "Provides extensive test reports for in-depth candidate analysis",
+    "Includes debugging code capabilities for comprehensive skill assessment",
+    "Aids in faster and more efficient hiring of top talent",
+    "Contributes to boosting hiring manager confidence and productivity"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based/SaaS deployment for online access and test hosting"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Sourcing",
+    "Talent Management (specifically initial screening and evaluation)"
+  ],
+  "roi_benefits": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Improved candidate filtering during initial screening",
+    "Potential reduction in recruiting costs through efficient screening"
+  ],
+  "searchable_keywords": [
+    "Evalground",
+    "coding test",
+    "online coding test",
+    "technical assessment",
+    "developer assessment",
+    "programmer screening",
+    "recruitment software",
+    "hiring software",
+    "talent acquisition",
+    "IT recruitment",
+    "skill evaluation",
+    "automated testing",
+    "test reports",
+    "code debugging",
+    "online submission test",
+    "talent management",
+    "staffing software",
+    "HR tech"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Hiring Managers"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "_weight": 1
+}

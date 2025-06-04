@@ -1,0 +1,159 @@
+{
+  "id": 1267,
+  "name": "Elabram Systems",
+  "description": "As one of Elabram Group's business divisions, Elabram HR Solution focuses on human resources solutions. The company covers every HR needs: from manpower/temporary staff and payroll services by HR Outsourcing solution, permanent staff, expatriate providers, Executive Search by Recruitment Solutions, and digital human resources administration systems by Axdif.",
+  "features": [
+    "Many companies might not have a proper hiring team to look into the recruitment process. Through our extensive knowledge, network and database, our experts can serve your company in hunting the middle and top level or expert candidates with prospective employers positions candidates across various industries and non-profit organisations and assist you until the onboarding process.",
+    "Recruitment is our service to support our clients in finding and hiring the best-qualified candidates for permanent or contract employees.",
+    "Payroll Services, Elabram handles all payroll related activities thus to reduce your operational cost and save time required to deal with financial tasks related to payroll."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Recruiting",
+    "Total Rewards",
+    "Learning and Development",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Resource Management Systems (HRMS)",
+    "HR management suites",
+    "HR consulting providers",
+    "Corporate LMS",
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Candidate screening",
+    "Talent hiring",
+    "Skill development"
+  ],
+  "headquarter": "IOI Resort City, Putrajaya",
+  "launch_date": "1999",
+  "order": 21095,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Elabram Group is responsible for the global business of Elabram HR Solution, Elabram Telco, and Axdif, with a more than 20 years history and core competencies in human resources and telecommunication consultancy.",
+  "ProductId": null,
+  "ShortDescription": "Elabram Group is a recruitment agency and HR Solutions that offers services for various industries and roles.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Elabram HR Solution",
+      "sequence": 0,
+      "description": "The company covers every HR needs: from manpower/temporary staff and payroll services by HR Outsourcing solution, permanent staff, expatriate providers, Executive Search by Recruitment Solutions, and digital human resources administration systems by Axdif. With our dedicated consultant and experienced more than 20 years in HR consultancy, the company believes to be the best HR Solutions Provider in Southeast Asia."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": true,
+  "PublishedAt": "2024-03-05T11:13:35.155Z",
+  "enhanced_description": "Elabram Systems, a division of Elabram Group, specializes in comprehensive human resources solutions, leveraging over 20 years of experience in HR consultancy. The company provides a wide range of services including HR Outsourcing for temporary staff and payroll services, Recruitment Solutions for permanent staff, expatriate providers, and Executive Search for middle to top-level candidates across various industries and non-profit organizations. They also offer digital human resources administration systems through Axdif. Elabram aims to reduce operational costs and save time for clients by handling HR-related activities, and assisting with the entire recruitment process from candidate hunting to onboarding. With a dedicated consultant approach, Elabram HR Solution targets the Southeast Asia market as a leading HR solutions provider and serves global businesses.",
+  "target_industries": [
+    "Various industries",
+    "Non-profit organisations"
+  ],
+  "key_use_cases": [
+    "HR Outsourcing for temporary staff and payroll services",
+    "Permanent staff recruitment",
+    "Expatriate provider services",
+    "Executive search for middle and top-level candidates",
+    "Digital human resources administration",
+    "Support for companies without internal hiring teams",
+    "Assistance with candidate hunting and onboarding processes"
+  ],
+  "competitive_advantages": [
+    "Over 20 years of experience in HR consultancy",
+    "Extensive knowledge, network, and database for recruitment",
+    "Dedicated HR consultants",
+    "Expertise in hunting middle, top-level, or expert candidates",
+    "Ability to reduce operational costs and save time for clients (specifically payroll)",
+    "Positions itself as a leading HR Solutions Provider in Southeast Asia"
+  ],
+  "hr_functions_supported": [
+    "Human Resources Management (HRMS/HCM)",
+    "HR Outsourcing",
+    "Recruiting (Permanent staff, Temporary staff, Contract employees, Executive search, Expatriate services, Candidate screening, Talent hiring, Onboarding)",
+    "Payroll Services",
+    "Learning and Development (Skill development)",
+    "HR Consulting"
+  ],
+  "roi_benefits": [
+    "Reduce operational cost (for payroll activities)",
+    "Save time (for payroll and HR-related activities)"
+  ],
+  "searchable_keywords": [
+    "Elabram Systems",
+    "Elabram Group",
+    "HR Solution",
+    "Human Resources",
+    "HR Outsourcing",
+    "Manpower services",
+    "Temporary staff",
+    "Payroll services",
+    "Recruitment Solutions",
+    "Permanent staff",
+    "Expatriate providers",
+    "Executive Search",
+    "Axdif",
+    "Digital HR administration systems",
+    "Hiring team",
+    "Recruitment process",
+    "Candidate hunting",
+    "Middle level candidates",
+    "Top level candidates",
+    "Expert candidates",
+    "Onboarding process",
+    "Contract employees",
+    "HRMS",
+    "HCM",
+    "Recruiting",
+    "Total Rewards",
+    "Learning and Development",
+    "Human Resource Management Systems",
+    "HR management suites",
+    "HR consulting providers",
+    "Corporate LMS",
+    "Payroll services providers",
+    "Hiring",
+    "Candidate screening",
+    "Talent hiring",
+    "Skill development",
+    "HR consultancy",
+    "Southeast Asia",
+    "Global business",
+    "Talent acquisition"
+  ],
+  "primary_users": [
+    "Companies seeking HR outsourcing services",
+    "Companies needing recruitment support (permanent, contract, executive, expatriate)",
+    "Businesses looking to reduce payroll operational costs and time",
+    "Organizations without a proper internal hiring team",
+    "HR departments",
+    "Business leaders and executives"
+  ],
+  "_weight": 1
+}

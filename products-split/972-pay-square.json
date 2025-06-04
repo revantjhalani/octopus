@@ -1,0 +1,129 @@
+{
+  "id": 972,
+  "name": "Pay Square",
+  "description": "At Paysquare, we provide comprehensive solutions for your payroll and compliance needs. From consolidating payroll inputs to processing payroll and tax reports to meeting statutory compliances and filings, we help you manage it all accurately and efficiently. With a mission to \u201cProvide unmatched value to HR & Finance teams, while offering managed services and build strong & dependable long-lasting partnerships,\u201d we are growing rapidly over the last 20 years. When it comes to technology, Paysquare is emerging as one of the innovative and cutting-edge technology-based solutions provider in HR and payroll. Having a secure login-based employee self-service (ESS) and Client Self Service (CSS) portal differentiates us from the competition.",
+  "features": [
+    "Accuracy and consistency to increase payroll efficiency  ",
+    "Protecting against employee dissatisfaction, costly errors and hidden costs",
+    "Leverage outside Payroll expertise"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Recruiting automation software",
+    "Job boards",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Talent sourcing",
+    "Candidate screening",
+    "Job boards"
+  ],
+  "headquarter": "Pune, Maharashtra",
+  "launch_date": "2000",
+  "order": 20919,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Comprehensive solutions for your payroll and compliance needs.",
+  "ProductId": null,
+  "ShortDescription": "At Paysquare, we provide comprehensive solutions for your payroll and compliance needs. From consolidating payroll inputs to processing payroll and tax reports to meeting statutory compliances and filings, we help you manage it all accurately and efficiently.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:37:58.454Z",
+  "enhanced_description": "Pay Square, launched in 2000, provides comprehensive managed services for payroll and compliance needs. The platform manages the consolidation of payroll inputs, processes payroll, generates tax reports, and ensures adherence to statutory compliances and filings, aiming for accuracy and efficiency. With a mission to provide unmatched value to HR and Finance teams through strong, dependable partnerships, Paysquare is noted for its innovative, cutting-edge technology. A key differentiator is its secure, login-based Employee Self-Service (ESS) and Client Self-Service (CSS) portals.",
+  "key_use_cases": [
+    "Payroll processing",
+    "Tax report generation",
+    "Statutory compliance management",
+    "Payroll input consolidation"
+  ],
+  "competitive_advantages": [
+    "Secure Employee Self-Service (ESS) portal",
+    "Secure Client Self-Service (CSS) portal",
+    "Managed payroll services",
+    "High accuracy and consistency in payroll processing",
+    "Prevention of costly payroll errors and hidden costs",
+    "Access to specialized payroll expertise"
+  ],
+  "implementation_scenarios": [
+    "Managed service model"
+  ],
+  "hr_functions_supported": [
+    "Payroll management",
+    "HR compliance",
+    "Employee Self-Service"
+  ],
+  "roi_benefits": [
+    "Increased payroll efficiency",
+    "Reduced payroll errors",
+    "Cost savings (by avoiding hidden costs)",
+    "Improved employee satisfaction (by preventing dissatisfaction from payroll issues)",
+    "Ensured statutory compliance"
+  ],
+  "searchable_keywords": [
+    "Pay Square",
+    "Paysquare",
+    "payroll",
+    "compliance",
+    "tax reports",
+    "statutory compliances",
+    "managed services",
+    "HR",
+    "Finance",
+    "employee self-service",
+    "ESS",
+    "client self-service",
+    "CSS",
+    "payroll efficiency",
+    "payroll expertise",
+    "payroll processing",
+    "payroll management"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "Finance professionals",
+    "Employees",
+    "Client administrators"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "Web-based"
+  ],
+  "compliance_features": [
+    "Statutory compliance management",
+    "Tax reporting",
+    "Compliance filings"
+  ],
+  "security_features": [
+    "Secure login-based access"
+  ],
+  "_weight": 1
+}

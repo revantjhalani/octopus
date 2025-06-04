@@ -1,0 +1,180 @@
+{
+  "id": 356,
+  "name": "Xobin",
+  "description": "Xobin is one of the fastest-growing HRTech Companies in the world. Xobin works with over 800 Organizations in 55+ Countries by automating screening, improving interview productivity, reducing the cost of hiring and building successful teams. Xobin (https://xobin.com) is a smart talent assessment platform with validated skilled-based, role-based assessment and psychometric assessment that helps organizations shortlist and hire 3x faster. Xobin's cloud-based pre-employment assessment platform is ideal for growth-stage startups, enterprises and recruitment consultancies.",
+  "features": [
+    "Use Xobin's AI Evaluate, a state-of-the-art Generative AI answer evaluation system",
+    "AI-based Proctoring to prevent copying and malpractice.",
+    "Automated and Live Interviews to save you time and hire top talents hassle-free."
+  ],
+  "founders": [
+    "S. Gopalakrishnan",
+    "SD Shibulal"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency",
+    "Improve Employee Happiness and Engagement",
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Total Rewards",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Workforce management",
+    "Performance management solutions",
+    "Performance Review software",
+    "Training eLearning software"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Learning speed",
+    "Workforce diversity"
+  ],
+  "headquarter": "null",
+  "launch_date": "2016",
+  "order": 20318,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Skill Assessment Software for\n Learning & Development and Pre-employment Testing",
+  "ProductId": null,
+  "ShortDescription": "Xobin is one of the fastest-growing HRTech Companies in the world.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Applicant Tracking Software",
+      "sequence": 0,
+      "description": "Say goodbye to manual tasks and embrace streamlined efficiency in hiring with the best ATS software. Discover the future of recruitment!"
+    },
+    {
+      "name": "AI-Based   Web Proctoring",
+      "sequence": 1,
+      "description": "Candidates are tracked while taking the exam through video proctoring and browser monitoring. Any unusual activity is captured for the test admins to view."
+    },
+    {
+      "name": "Advanced Coding Simulator",
+      "sequence": 2,
+      "description": "With a range of features, our Advanced Coding Simulator offers a real-time coding environment that guarantees an immersive experience."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:25:04.949Z",
+  "enhanced_description": "Xobin is a rapidly expanding global HRTech company, serving over 800 organizations across 55+ countries. It provides a smart, cloud-based talent assessment platform primarily focused on pre-employment screening, hiring, and internal skill development. The platform offers validated skill-based, role-based, and psychometric assessments. Key features include AI Evaluate, a state-of-the-art Generative AI system for answer evaluation, AI-based proctoring for exam integrity, and automated/live interview capabilities. Xobin also includes Applicant Tracking System (ATS) functionality and an Advanced Coding Simulator, helping organizations streamline hiring, improve interview productivity, reduce recruitment costs, and accelerate the shortlisting process up to 3x faster. It is ideal for growth-stage startups, enterprises, and recruitment consultancies, also supporting learning and development objectives like accelerating skill development and building a more diverse workforce.",
+  "ideal_company_sizes": [
+    "growth-stage startups",
+    "enterprises",
+    "recruitment consultancies"
+  ],
+  "key_use_cases": [
+    "Automating pre-employment screening and talent assessment",
+    "Improving interview productivity and efficiency",
+    "Shortlisting and hiring candidates faster",
+    "Preventing malpractice during online assessments through proctoring",
+    "Evaluating coding skills in a real-time environment",
+    "Streamlining recruitment workflows through ATS functionality",
+    "Supporting skill development and learning efficiency",
+    "Building a more diverse and inclusive workforce"
+  ],
+  "competitive_advantages": [
+    "One of the fastest-growing HRTech companies globally",
+    "Automates screening and significantly improves interview productivity",
+    "Reduces the cost of hiring",
+    "Helps organizations shortlist and hire up to 3x faster",
+    "Offers validated skill-based, role-based, and psychometric assessments",
+    "Features a state-of-the-art Generative AI answer evaluation system (AI Evaluate)",
+    "Includes robust AI-based proctoring with video and browser monitoring for exam integrity",
+    "Provides versatile automated and live interview capabilities",
+    "Offers an Advanced Coding Simulator for an immersive testing experience",
+    "Cloud-based platform with extensive global reach (55+ countries)"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based (SaaS) deployment"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition (Screening, Interviewing, Hiring, Applicant Tracking)",
+    "Talent Management (Performance Management, Performance Reviews, Workforce Management)",
+    "Learning & Development (Training Management, Learning Experience, eLearning, Skill Development)"
+  ],
+  "technology_stack": [
+    "Cloud-based platform",
+    "Artificial Intelligence (AI)",
+    "Generative AI"
+  ],
+  "roi_benefits": [
+    "Reduced cost of hiring",
+    "Accelerated shortlisting and hiring speed (up to 3x faster)",
+    "Improved interview productivity",
+    "Time savings in hiring processes",
+    "Streamlined hiring efficiency",
+    "Accelerated skill development and learning efficiency",
+    "Enhanced workforce diversity"
+  ],
+  "searchable_keywords": [
+    "Xobin",
+    "HRTech",
+    "Talent Assessment",
+    "Pre-employment Testing",
+    "Skill Assessment Software",
+    "Role-based Assessment",
+    "Psychometric Assessment",
+    "AI Assessment",
+    "Generative AI Evaluation",
+    "AI Proctoring",
+    "Automated Interviews",
+    "Live Interviews",
+    "Coding Simulator",
+    "Applicant Tracking System",
+    "ATS",
+    "Recruitment Software",
+    "Hiring Platform",
+    "Employee Screening",
+    "Learning & Development",
+    "Training Management System",
+    "Learning Experience Platform",
+    "LXP",
+    "Performance Management",
+    "Performance Review Software",
+    "eLearning Software",
+    "Skill Development",
+    "Learning Efficiency",
+    "Training Effectiveness",
+    "Workforce Diversity",
+    "Talent Management"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Recruiters",
+    "Hiring Managers",
+    "Test Administrators",
+    "Candidates"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "_weight": 1
+}

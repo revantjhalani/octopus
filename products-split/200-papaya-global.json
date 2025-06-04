@@ -1,0 +1,172 @@
+{
+  "id": 200,
+  "name": "Papaya Global",
+  "description": "Founded in 2016 by Eynat Guez, Ruben Drong, and Ofer Herman, Papaya Global revolutionizes payroll by bridging finance, HR, and payroll. The company automates manual tasks in hiring, onboarding, and payroll management, leads in remote work and global Employer of Record (EoR) solutions, and is the first to develop a native payments platform for payroll's complexities. Papaya Global brings true technological advancements to the traditional payroll world, ensuring efficiency and innovation.",
+  "features": [
+    "Payments designed for your global payroll.",
+    "Enterprise-grade workforce solutions for all employment models.",
+    "Workforce OS brings payments and workforce management together onto a single platform."
+  ],
+  "founders": [
+    "Eynat Guez",
+    "Ofer Herman"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Recruiting",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Capital Management",
+    "Staffing & management software"
+  ],
+  "tags": [
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "New York, New York",
+  "launch_date": "2016",
+  "order": 20167,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The only payments and payroll platform designed for a global workforce",
+  "ProductId": null,
+  "ShortDescription": "Global payroll & payments on one platform",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Fastest Go-Live",
+      "sequence": 0,
+      "description": "Go live in just a few weeks with hassle-free imlementation."
+    },
+    {
+      "name": "Professional Expertise",
+      "sequence": 1,
+      "description": "Our team of local and global specialists can advise on immigration, benefits, compliance, equity, and much more."
+    },
+    {
+      "name": "Seamless Integrations",
+      "sequence": 2,
+      "description": "Workforce OS integrates with leading tools like Workday, Netsuite, and more."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:22.297Z",
+  "enhanced_description": "Papaya Global, founded in 2016, offers a unified global payroll and payments platform that bridges finance, HR, and payroll. It automates manual tasks across hiring, onboarding, and payroll management, providing comprehensive enterprise-grade workforce solutions suitable for all employment models, including remote work and global Employer of Record (EoR) services. Papaya Global distinguishes itself as the first to develop a native payments platform specifically designed for the complexities of global payroll, bringing significant technological advancements to traditional payroll processes, ensuring efficiency and innovation. Its core offering, the Workforce OS, consolidates payments and workforce management onto a single platform. The solution facilitates a fast go-live, typically within a few weeks, with hassle-free implementation. Papaya Global also provides professional expertise through a team of local and global specialists who offer advice on immigration, benefits, compliance, and equity. Furthermore, the Workforce OS integrates seamlessly with leading enterprise tools such as Workday and Netsuite.",
+  "target_industries": [],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Global payroll processing and management",
+    "Global workforce payments",
+    "Hiring automation and management",
+    "Employee onboarding automation",
+    "Managing remote workforces",
+    "Utilizing Employer of Record (EoR) solutions for global compliance and employment",
+    "Consolidating finance, HR, and payroll operations onto a single platform",
+    "Workforce management across diverse employment models",
+    "Reducing the cost associated with hiring qualified employees"
+  ],
+  "competitive_advantages": [
+    "First to develop a native payments platform for global payroll complexities",
+    "Positioned as the only payments and payroll platform designed for a global workforce",
+    "Offers a rapid 'Fastest Go-Live' implementation process (go-live in a few weeks)",
+    "Provides professional expertise and advisory services on immigration, benefits, compliance, and equity from local and global specialists",
+    "Features seamless integrations with leading HR and finance tools like Workday and Netsuite",
+    "Automates manual tasks in hiring, onboarding, and payroll management",
+    "Unifies finance, HR, and payroll onto a single technological platform (Workforce OS)"
+  ],
+  "implementation_scenarios": [
+    "Rapid and hassle-free implementation (go-live in just a few weeks)"
+  ],
+  "hr_functions_supported": [
+    "Payroll management",
+    "Global payments processing",
+    "Hiring (including automation and cost reduction)",
+    "Onboarding",
+    "Workforce management",
+    "Employer of Record (EoR) services",
+    "HR compliance advisory (immigration, benefits, equity)"
+  ],
+  "technology_stack": [],
+  "integration_capabilities": [
+    "Integrates with Workday",
+    "Integrates with Netsuite"
+  ],
+  "roi_benefits": [
+    "Ensures efficiency and innovation in payroll operations",
+    "Reduces the cost of hiring qualified employees",
+    "Achieves operational efficiencies through automation of manual tasks",
+    "Provides faster time-to-value due to rapid implementation"
+  ],
+  "searchable_keywords": [
+    "Papaya Global",
+    "global payroll",
+    "payments platform",
+    "HRMS",
+    "HCM",
+    "Employer of Record",
+    "EoR",
+    "remote work",
+    "workforce management",
+    "hiring automation",
+    "onboarding automation",
+    "global workforce",
+    "enterprise payroll",
+    "HR technology",
+    "compliance",
+    "Workforce OS",
+    "Workday integration",
+    "Netsuite integration",
+    "finance and HR integration",
+    "payroll technology"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "Payroll administrators",
+    "Finance teams",
+    "Global HR and operations teams",
+    "Executives overseeing workforce management"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "compliance_features": [
+    "Advisory on compliance (immigration, benefits, equity)",
+    "Support for Employer of Record (EoR) compliance across jurisdictions"
+  ],
+  "scalability_features": [
+    "Offers enterprise-grade workforce solutions",
+    "Designed to support Small, Large, and Global Enterprises",
+    "Caters to the complexities of a global workforce"
+  ],
+  "security_features": [],
+  "_weight": 1
+}

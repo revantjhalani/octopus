@@ -1,0 +1,112 @@
+{
+  "id": 632,
+  "name": "Gyde",
+  "description": "Gyde was born out of hours and months of ideation by founders - Prasanna Vaidya & Shubham Deshmukh, their mentors, advisors and early adopters. We were all overwhelmed by the sheer number of applications being launched & purchased and the struggle it was causing for the users to learn & use these myriad applications. We had a common conviction that there had to be a simple yet powerful way to help the software application users to figure out how the application works and how to become good at using it. At the same time, existing solutions were too rigid and lacked intelligence. Gyde was conceptualized as a faster, simpler, and intelligent way to solve this problem at scale.",
+  "features": [
+    "Customer Obsession & Growth",
+    "Technology & Innovation",
+    "Simplicity & Privacy"
+  ],
+  "founders": [
+    "Prasanna Vaidya",
+    "Shubham Deshmukh"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Internet of things"
+  ],
+  "tags": [
+    "Skill development",
+    "Skill acquisition",
+    "Employee satisfaction"
+  ],
+  "headquarter": "Pune, Maharashtra",
+  "launch_date": "2019",
+  "order": 20589,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Make Application Guidance Effortless",
+  "ProductId": null,
+  "ShortDescription": "The digital adoption platform improves the application experience for the users and makes applications effortless to use.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:31:30.070Z",
+  "enhanced_description": "Gyde is a digital adoption platform designed to simplify the user experience and accelerate learning within software applications. It addresses the common challenge users face in learning and effectively utilizing a multitude of applications by providing intelligent, simple, and faster guidance. The platform aims to make application usage effortless, thereby accelerating skill development, improving learning efficiency, and contributing to overall employee satisfaction.",
+  "key_use_cases": [
+    "Software user onboarding",
+    "In-application guidance for software users",
+    "Accelerating skill development on software applications",
+    "Improving learning efficiency for application usage",
+    "Enhancing application adoption rates"
+  ],
+  "competitive_advantages": [
+    "Intelligent guidance (AI-driven)",
+    "Simplicity of use and deployment",
+    "Faster problem-solving for user adoption",
+    "Scalability in addressing adoption challenges"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Employee Experience"
+  ],
+  "technology_stack": [
+    "Artificial intelligence"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development and learning efficiency for software users",
+    "Improved employee satisfaction with software usage",
+    "Reduced user friction and effort in application adoption",
+    "Potential for reduced support costs related to application learning"
+  ],
+  "searchable_keywords": [
+    "digital adoption platform",
+    "application guidance",
+    "software adoption",
+    "user onboarding",
+    "in-app guidance",
+    "skill development",
+    "learning efficiency",
+    "employee training",
+    "software training",
+    "application experience",
+    "AI",
+    "artificial intelligence",
+    "employee satisfaction",
+    "user support",
+    "application usability"
+  ],
+  "primary_users": [
+    "Software application end-users (e.g., employees)"
+  ],
+  "scalability_features": [
+    "Designed to solve problems at scale"
+  ],
+  "_weight": 1
+}

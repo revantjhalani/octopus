@@ -1,0 +1,190 @@
+{
+  "id": 5,
+  "name": "GreytHR",
+  "description": "GreytHR Software was founded with the aim of providing relevant and cost-effective software solutions in the HR domain to companies worldwide. Since 2009, we\u2019ve done that with greytHR - India\u2019s 1st ever fully integrated cloud-based HR & Payroll software. ",
+  "features": [
+    "Streamline all HR processes",
+    "Enhance employee engagement",
+    "Ensure uniform policy implementation",
+    "Ensure 100% statutory compliance"
+  ],
+  "founders": [
+    "Girish Rowjee",
+    "Sayeed Anjum"
+  ],
+  "price": [
+    {}
+  ],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Total Rewards",
+    "Talent Management",
+    "Recruiting",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software",
+    "Human Resource Information Systems (HRIS)",
+    "Human Capital Management",
+    "Human Resource Management Systems (HRMS)",
+    "Benefits administration software",
+    "Compensation management software",
+    "Employee recognition software",
+    "Performance management system",
+    "Benefits administration services",
+    "Performance management solutions",
+    "Performance Review software",
+    "Sales compensation software",
+    "Payroll services providers",
+    "HR analytics software",
+    "HR management suites",
+    "Career management software",
+    "Employee engagement software",
+    "Experience Software",
+    "Employee scheduling software",
+    "Talent management software",
+    "Workforce management",
+    "Onboarding software",
+    "Time tracking"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee benefits",
+    "Employee recognition",
+    "Employee development"
+  ],
+  "headquarter": "Bangalore, Karnataka",
+  "launch_date": "1994",
+  "order": 20002,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Leave HR to GreytHR While you focus on business growth.",
+  "ProductId": null,
+  "ShortDescription": "GreytHR also offers a growing knowledge framework that delivers value that\u2019s priceless.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": null,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-09T10:44:14.689Z",
+  "enhanced_description": "GreytHR is India's first fully integrated cloud-based HR & Payroll software, launched in 2009. It provides cost-effective software solutions in the HR domain to companies worldwide. The platform aims to streamline all HR processes, enhance employee engagement, ensure uniform policy implementation, and guarantee 100% statutory compliance. GreytHR enables businesses to focus on growth by efficiently managing their HR functions and also offers a valuable knowledge framework.",
+  "ideal_company_sizes": [
+    "Small Enterprise"
+  ],
+  "key_use_cases": [
+    "Streamlining all HR processes",
+    "Managing payroll and statutory compliance",
+    "Enhancing employee engagement and happiness",
+    "Implementing and enforcing HR policies consistently",
+    "Administering employee benefits and compensation",
+    "Managing employee performance reviews",
+    "Handling employee onboarding",
+    "Tracking employee time and scheduling workforce",
+    "Conducting HR analytics",
+    "Managing core HR information"
+  ],
+  "competitive_advantages": [
+    "India's 1st fully integrated cloud-based HR & Payroll software",
+    "Cost-effective software solutions",
+    "Ensures 100% statutory compliance",
+    "Focus on improving employee happiness and engagement",
+    "Offers a growing knowledge framework",
+    "Enables streamlining of all HR processes"
+  ],
+  "hr_functions_supported": [
+    "Core HR",
+    "Payroll",
+    "Human Resource Information Systems (HRIS)",
+    "Human Capital Management (HCM)",
+    "Benefits Administration",
+    "Compensation Management",
+    "Employee Recognition",
+    "Performance Management",
+    "Recruiting",
+    "HR Analytics",
+    "Career Management",
+    "Employee Engagement",
+    "Workforce Management",
+    "Employee Scheduling",
+    "Time Tracking",
+    "Onboarding",
+    "Policy Implementation",
+    "Statutory Compliance"
+  ],
+  "roi_benefits": [
+    "Improved HR process efficiency and streamlining",
+    "Reduced costs through cost-effective software solutions",
+    "Mitigation of compliance risks and penalties due to 100% statutory adherence",
+    "Enhanced employee engagement potentially leading to higher productivity and retention",
+    "Enables businesses to focus on core growth initiatives by offloading HR complexities"
+  ],
+  "searchable_keywords": [
+    "GreytHR",
+    "HR software",
+    "Payroll software",
+    "Cloud HR",
+    "Integrated HR Payroll",
+    "HRMS",
+    "HCM",
+    "HRIS",
+    "Total Rewards",
+    "Talent Management",
+    "Recruiting",
+    "Core HR",
+    "Benefits administration",
+    "Compensation management",
+    "Employee recognition",
+    "Performance management system",
+    "Sales compensation",
+    "Payroll services",
+    "HR analytics",
+    "HR management suites",
+    "Career management",
+    "Employee engagement",
+    "Experience Software",
+    "Employee scheduling",
+    "Workforce management",
+    "Onboarding software",
+    "Time tracking",
+    "Employee benefits",
+    "Employee development",
+    "Statutory compliance",
+    "HR processes",
+    "Policy implementation",
+    "Employee happiness"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Payroll Administrators",
+    "Employees (for engagement and self-service features)",
+    "Managers (for workforce and performance management)"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "compliance_features": [
+    "100% statutory compliance"
+  ],
+  "_weight": 1
+}

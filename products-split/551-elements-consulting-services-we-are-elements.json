@@ -1,0 +1,157 @@
+{
+  "id": 551,
+  "name": "Elements Consulting Services/ We are Elements",
+  "description": "Elements is a trusted talent resource for brands across the globe. We help companies achieve their hiring missions so that they can develop their business \u2013 fast. As a pioneer of Embedded Talent Consulting, we will act as a member of your internal resourcing or HR department. Our carefully selected team will work with you to plan, design, build and implement innovative new talent solutions that make a lasting impact.",
+  "features": [
+    "Resilent and Adaptable approach",
+    "Customized approach",
+    "Personalized solutions"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Reduce the Cost of Hiring Qualified Employees",
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Employee engagement software",
+    "Talent acquisition suites",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "London, England",
+  "launch_date": "2009",
+  "order": 20511,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Embedding the Future of Talent Consultancy",
+  "ProductId": null,
+  "ShortDescription": "We work with high-growth clients, filling the hiring gaps that arise from large scale growth.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "People",
+      "sequence": 0,
+      "description": "Based across the globe and committed to making a real impact, our team of talent acquisition specialists are resilient, adaptable and trained to tackle the most challenging hiring briefs."
+    },
+    {
+      "name": "Partnerships",
+      "sequence": 1,
+      "description": "By embedding ourselves physically within our partners\u2019 teams, we have nurtured fruitful, long-term relationships with clients within the creative and tech industries, working closely with retailers, global brands and corporates to foster growth."
+    },
+    {
+      "name": "Methodology",
+      "sequence": 2,
+      "description": "We work in a way that is personalised to your business, and we\u2019ll take the time to understand your challenges from within, whether that means finding and engaging top talent, or redesigning and streamlining your headhunting processes."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:29:44.425Z",
+  "enhanced_description": "Elements is a global and trusted talent resource specializing in Embedded Talent Consulting. They assist brands across the globe in achieving their hiring missions and accelerating business growth by acting as an integral part of their internal resourcing or HR department. Their meticulously selected team works collaboratively with clients to plan, design, build, and implement innovative, customized talent solutions that deliver a lasting impact. Elements particularly serves high-growth clients, addressing the complex hiring gaps that emerge during periods of large-scale expansion. Their methodology is personalized to each business, focusing on understanding internal challenges, finding and engaging top talent, and redesigning or streamlining headhunting processes. They have established fruitful, long-term partnerships with clients across creative and tech industries, retailers, global brands, and corporates, leveraging a global team of resilient and adaptable talent acquisition specialists.",
+  "target_industries": [
+    "Creative Industry",
+    "Tech Industry",
+    "Retail",
+    "Global Brands",
+    "Corporates"
+  ],
+  "ideal_company_sizes": [
+    "High-growth companies",
+    "Global brands",
+    "Corporates"
+  ],
+  "key_use_cases": [
+    "Achieving specific hiring missions",
+    "Planning, designing, building, and implementing new talent solutions",
+    "Filling hiring gaps during large-scale growth",
+    "Finding and engaging top talent",
+    "Redesigning and streamlining headhunting processes",
+    "Developing business rapidly through efficient hiring"
+  ],
+  "competitive_advantages": [
+    "Pioneer of Embedded Talent Consulting",
+    "Acts as an integral part of internal resourcing/HR department",
+    "Customized and personalized approach to talent solutions",
+    "Team of resilient, adaptable, and highly trained talent acquisition specialists",
+    "Deep physical embedding within partner teams for long-term relationships",
+    "Expertise in addressing hiring challenges for high-growth companies",
+    "Global presence and service delivery capabilities"
+  ],
+  "implementation_scenarios": [
+    "Embedded within internal HR/resourcing departments as an extension of the team"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Recruitment Strategy & Optimization",
+    "Headhunting Process Design",
+    "Talent Solution Implementation",
+    "HR Resource Planning"
+  ],
+  "roi_benefits": [
+    "Reduce the Cost of Hiring Qualified Employees",
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Achieve hiring missions to foster business development and growth",
+    "Create lasting impact with innovative talent solutions"
+  ],
+  "searchable_keywords": [
+    "Elements Consulting",
+    "Embedded Talent Consulting",
+    "Talent Acquisition Services",
+    "Recruitment Consulting",
+    "HR Consulting",
+    "Hiring Solutions",
+    "Talent Strategy",
+    "Recruitment Process Optimization",
+    "Headhunting Services",
+    "High-Growth Hiring",
+    "Global Talent Resource",
+    "Customized Talent Solutions",
+    "Hiring Efficiency",
+    "Talent Management Consulting",
+    "Resourcing Partnership"
+  ],
+  "primary_users": [
+    "Internal Resourcing Departments",
+    "HR Departments",
+    "Hiring Managers",
+    "HR Leaders"
+  ],
+  "scalability_features": [
+    "Designed to fill hiring gaps for large-scale growth",
+    "Global team enables worldwide service delivery",
+    "Resilient and adaptable approach to tackle challenging hiring briefs"
+  ],
+  "_weight": 1
+}

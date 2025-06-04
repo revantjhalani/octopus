@@ -1,0 +1,167 @@
+{
+  "id": 65,
+  "name": "Integrity Matters",
+  "description": "Integrity Matters is an independent, privately held partnership firm dedicated to promoting ethics and good governance through technology solutions. It is headquartered in Mumbai. Our professionals are domain experts in financial, operational and technology risk management with well over a decade of individual experience. This includes group companies of leading business houses in India and clients of Big4 consulting firms.",
+  "features": [
+    " Case Management System",
+    "Data Security & Privacy",
+    "Highly Responsive Service ",
+    "24\u00d77 Ethics Helpline"
+  ],
+  "founders": [
+    "Bhumija Saxena"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Learning Experience Systems (LXPs)"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Adaptive learning",
+    "Personalised learning"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2013",
+  "order": 20041,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "A B2B Ethics and Compliance company.",
+  "ProductId": null,
+  "ShortDescription": "De-risk your Business",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "24\u00d77 Ethics Helpline",
+      "sequence": 0,
+      "description": "Operationalize your Code of Conduct with our independent, multi-channel helpline for reporting unethical conduct."
+    },
+    {
+      "name": "Case Management System",
+      "sequence": 1,
+      "description": "Our web-based system helps leadership respond to reports, automating tasks for the Ethics/Whistleblower Committee."
+    },
+    {
+      "name": "Data Security & Privacy",
+      "sequence": 2,
+      "description": "Our ISO/IEC 27001 certification and GDPR compliance highlight our commitment to data security and privacy."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-16T14:10:20.400Z",
+  "enhanced_description": "Integrity Matters is an independent, privately held partnership firm focused on promoting ethics and good governance through technology solutions. As a B2B Ethics and Compliance company, it helps businesses de-risk operations by providing tools like a 24x7 multi-channel ethics helpline for reporting unethical conduct and a web-based case management system to automate response tasks for leadership and Ethics/Whistleblower Committees. The firm's professionals are experts in financial, operational, and technology risk management, leveraging over a decade of individual experience with leading business houses and Big4 consulting firms in India. Integrity Matters emphasizes robust data security and privacy, evidenced by its ISO/IEC 27001 certification and GDPR compliance.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Whistleblower reporting",
+    "Ethics complaint management",
+    "Code of conduct operationalization",
+    "Automating ethics committee tasks",
+    "Risk management (financial, operational, technology)"
+  ],
+  "competitive_advantages": [
+    "Independent and privately held structure",
+    "Domain expertise in financial, operational, and technology risk management",
+    "Experience with leading business houses and Big4 consulting firms' clients",
+    "Highly responsive service",
+    "24x7 availability for ethics helpline",
+    "ISO/IEC 27001 certified for data security",
+    "GDPR compliant for data privacy"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based (web-based system)"
+  ],
+  "hr_functions_supported": [
+    "Ethics and Compliance",
+    "Whistleblower Management"
+  ],
+  "roi_benefits": [
+    "Business de-risking",
+    "Improved ethics and governance posture",
+    "Streamlined ethics and whistleblower reporting processes",
+    "Enhanced compliance",
+    "Reduced operational, financial, and technology risks"
+  ],
+  "searchable_keywords": [
+    "Integrity Matters",
+    "Ethics",
+    "Good governance",
+    "Technology solutions",
+    "B2B",
+    "Compliance",
+    "Risk management",
+    "Financial risk",
+    "Operational risk",
+    "Technology risk",
+    "Case Management System",
+    "Data Security",
+    "Data Privacy",
+    "Highly Responsive Service",
+    "24x7 Ethics Helpline",
+    "Code of Conduct",
+    "Unethical conduct reporting",
+    "Whistleblower Committee",
+    "ISO/IEC 27001",
+    "GDPR compliance",
+    "De-risk Business",
+    "Learning and Development",
+    "Learning Experience Systems (LXPs)",
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Adaptive learning",
+    "Personalised learning"
+  ],
+  "primary_users": [
+    "Leadership",
+    "Ethics Committee",
+    "Whistleblower Committee",
+    "Employees (for reporting)"
+  ],
+  "deployment_options": [
+    "Cloud",
+    "SaaS"
+  ],
+  "compliance_features": [
+    "ISO/IEC 27001 certification",
+    "GDPR compliance"
+  ],
+  "security_features": [
+    "Data Security",
+    "Data Privacy",
+    "ISO/IEC 27001 certification",
+    "GDPR compliance"
+  ],
+  "_weight": 1
+}

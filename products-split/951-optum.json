@@ -1,0 +1,127 @@
+{
+  "id": 951,
+  "name": "Optum",
+  "description": "Optum is a leading health solution and care delivery organization. Our work is complex, but our mission is simple: create a healthier world, with you at the center. At Optum, we bring together advanced data and technology, deep clinical experience and professional partnerships \u2014 making health care smarter and simpler for you. Optum, part of the UnitedHealth Group family of businesses, is powering modern health care by connecting and serving the whole health system across 150 countries. We combine cutting-edge technology, the world\u2019s largest health care database and vast expertise to improve health care delivery, quality and efficiency. We are revolutionizing health care that serves more than 100,000 physicians, practices and other health care facilities, as well as 127 million individual consumers",
+  "features": [
+    "Well-being Programs and Services",
+    "Financial Fitness Benefits",
+    "Competitive Compensation Opportunities"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Health & safety providers",
+    "Benefits administration software"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee engagement",
+    "Employee Benefits",
+    "Employee hapiness",
+    "Employee happiness metrics"
+  ],
+  "headquarter": "Eden Prairie , MN",
+  "launch_date": "2011",
+  "order": 20898,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Looking ahead to a healthy new year",
+  "ProductId": null,
+  "ShortDescription": "Optum is a health services and innovation company on a mission to help people live healthier lives and to help make the health system work better for everyone.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:37:32.787Z",
+  "enhanced_description": "Optum, a part of the UnitedHealth Group family of businesses, is a leading health solution and care delivery organization dedicated to creating a healthier world. It leverages advanced data, cutting-edge technology, and extensive clinical experience, including the world\u2019s largest healthcare database, to simplify and improve healthcare delivery, quality, and efficiency. For HR, Optum's offerings fall under Total Rewards, focusing on improving employee happiness and engagement. This includes comprehensive well-being programs and services, financial fitness benefits, and support for competitive compensation opportunities. Functioning as corporate wellness software, a health & safety provider, and benefits administration software, Optum serves a vast ecosystem of healthcare providers and individual consumers across 150 countries, impacting over 100,000 physicians, practices, and facilities, and 127 million individual consumers.",
+  "target_industries": [
+    "Healthcare"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee well-being management",
+    "Financial wellness program delivery",
+    "Benefits administration",
+    "Health & safety program management",
+    "Compensation strategy support",
+    "Employee engagement improvement"
+  ],
+  "competitive_advantages": [
+    "Global reach (operates across 150 countries)",
+    "Extensive scale (serves over 100,000 facilities and 127 million individual consumers)",
+    "Deep clinical experience and expertise",
+    "Leverages advanced data and cutting-edge technology",
+    "Access to the world\u2019s largest healthcare database",
+    "Backed by UnitedHealth Group"
+  ],
+  "hr_functions_supported": [
+    "Benefits Administration",
+    "Compensation Management",
+    "Employee Well-being",
+    "Employee Engagement",
+    "HR Analytics (related to employee happiness metrics)"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Enhanced employee well-being",
+    "Potential for improved health outcomes and reduced healthcare costs",
+    "Increased employee retention and productivity"
+  ],
+  "searchable_keywords": [
+    "Optum",
+    "health solutions",
+    "care delivery",
+    "employee well-being",
+    "financial fitness",
+    "benefits administration",
+    "corporate wellness",
+    "health & safety",
+    "total rewards",
+    "employee engagement",
+    "employee happiness",
+    "compensation",
+    "HR benefits",
+    "health services",
+    "healthcare technology",
+    "employee happiness metrics"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Benefits Managers",
+    "Employees"
+  ],
+  "scalability_features": [
+    "Global reach (operates across 150 countries)",
+    "Proven large-scale deployment (serves 127 million consumers and 100,000+ facilities)",
+    "Leverages the world\u2019s largest healthcare database"
+  ],
+  "_weight": 1
+}

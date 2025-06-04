@@ -1,0 +1,157 @@
+{
+  "id": 852,
+  "name": "Mandate Executive Search",
+  "description": "Mandate Executive Search is a leading executive search firm that specializes in identifying and securing top-level talent for organizations across diverse industries. With our vast network, industry expertise, and personalized approach, we excel in finding exceptional leaders who drive growth, innovation, and success. Our commitment to excellence and tailored solutions has established us as a trusted partner in executive recruitment. At Mandate Executive Search, we understand the pivotal role that executives play in shaping an organization's success. With years of experience in the executive search industry, we have developed an in-depth understanding of our clients' unique needs and industry-specific requirements. Our team of highly skilled professionals is dedicated to delivering outstanding results by meticulously matching candidates with the right skills, experience, and cultural fit.",
+  "features": [
+    "Trustworthy and Reliable",
+    "Experienced Consultants",
+    "Proprietary cloud database with pre-screened data across industry sectors"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Staffing & management software",
+    "Onboarding software",
+    "Talent management software",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Talent sourcing",
+    "Hiring",
+    "Recruiting"
+  ],
+  "headquarter": "Central Jakarta, DKI Jakarta",
+  "launch_date": "2009",
+  "order": 20805,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We Help Companies Grow with Quality Executives",
+  "ProductId": null,
+  "ShortDescription": "Mandate Executive Search is a leading executive search firm that specializes in identifying and securing top-level talent for organizations across diverse industries",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Executive Search with a Focus on Board of Directors",
+      "sequence": 0,
+      "description": "Mandate Executive Search is a company that specializes in helping businesses find high-level executives, with a particular focus on Board of Management candidates [1]. This suggests that they have a deep understanding of the qualities and experience that are necessary for board members, and they can help businesses to find the right candidates to fill these critical roles."
+    },
+    {
+      "name": "Building High-Performing Teams",
+      "sequence": 1,
+      "description": "In addition to executive search, Mandate Executive Search also offers consulting services to help businesses build high-performing teams [1]. This suggests that they can provide businesses with a comprehensive solution for their talent acquisition needs."
+    },
+    {
+      "name": "Experience in Multiple Industries",
+      "sequence": 2,
+      "description": "While the website doesn't explicitly mention industries, their client logos suggest experience in various sectors, including technology, finance, and consumer goods [1]. This suggests that they have a broad range of experience and can help businesses in a variety of industries find the talent they need."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:42.174Z",
+  "enhanced_description": "Mandate Executive Search is a leading executive search firm specializing in identifying and securing top-level talent for organizations across diverse industries. They leverage a vast network, deep industry expertise, and a personalized approach to find exceptional leaders who drive growth, innovation, and success. Their commitment to excellence and tailored solutions has established them as a trusted partner in executive recruitment. With years of experience, Mandate Executive Search possesses an in-depth understanding of clients' unique needs and industry-specific requirements, meticulously matching candidates with the right skills, experience, and cultural fit. They particularly focus on executive search for Board of Management candidates and also offer consulting services to help businesses build high-performing teams. Their capabilities are supported by a proprietary cloud database containing pre-screened data across various industry sectors.",
+  "target_industries": [
+    "Technology",
+    "Finance",
+    "Consumer Goods"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Identifying and securing top-level executive talent",
+    "Recruiting Board of Directors and Board of Management candidates",
+    "Finding exceptional leaders to drive growth, innovation, and success",
+    "Matching candidates based on skills, experience, and cultural fit",
+    "Consulting for building high-performing teams",
+    "Accelerating and increasing the efficiency of top talent acquisition"
+  ],
+  "competitive_advantages": [
+    "Trustworthy and reliable service",
+    "Team of experienced consultants",
+    "Proprietary cloud database with pre-screened data across industry sectors",
+    "Vast network and deep industry expertise",
+    "Personalized approach and tailored solutions",
+    "Specialization in Board of Directors/Management executive search",
+    "Offers consulting services for building high-performing teams",
+    "Demonstrated experience across multiple industries"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Sourcing",
+    "Hiring",
+    "Strategic Talent Management (via team building consultation)"
+  ],
+  "technology_stack": [
+    "Proprietary cloud database"
+  ],
+  "roi_benefits": [
+    "Faster and more efficient hiring of top talent",
+    "Securing exceptional leaders who drive growth, innovation, and success",
+    "Improved candidate-organization fit, leading to better performance and retention"
+  ],
+  "searchable_keywords": [
+    "Mandate Executive Search",
+    "Executive Search",
+    "Top-level talent",
+    "Talent acquisition",
+    "Executive recruitment",
+    "Leadership hiring",
+    "Board of Directors search",
+    "Board of Management candidates",
+    "High-performing teams",
+    "Talent sourcing",
+    "Hiring",
+    "Recruiting",
+    "Leadership consulting",
+    "Proprietary cloud database",
+    "Pre-screened data",
+    "Industry expertise",
+    "Personalized approach",
+    "Growth drivers",
+    "Innovation leaders",
+    "Success drivers",
+    "Trusted partner",
+    "Experienced consultants",
+    "Technology industry recruitment",
+    "Finance industry recruitment",
+    "Consumer goods industry recruitment"
+  ],
+  "primary_users": [
+    "Organizations seeking executive talent",
+    "HR departments",
+    "Talent Acquisition leaders",
+    "C-level executives (especially for Board roles)",
+    "Hiring Managers"
+  ],
+  "_weight": 1
+}

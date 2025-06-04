@@ -1,0 +1,144 @@
+{
+  "id": 822,
+  "name": "Learn Tech",
+  "description": "LearnTech.in is a learning design studio that works closely with business and learning leaders to create breakthrough learning designs and technologies. They have delivered over 5000 hours of content and impacted over 100,000 professionals. They are recognized as one of the top 20 L&D consultants in India",
+  "features": [
+    "Wide range of Digital Service",
+    "E-learning development",
+    "Compliance training"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Course authoring"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning optimisation",
+    "Skill acquisition"
+  ],
+  "headquarter": "Gurgaon",
+  "launch_date": "2009",
+  "order": 20775,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Sales gamification",
+  "ProductId": null,
+  "ShortDescription": "Learn Tech is a Learning design company , Focused on creating Innovative and Effective Learning solutions for Our Clients and the Retail market.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Gamified Learning ",
+      "sequence": 0,
+      "description": "Convert your learning content into a world-class game with challenges, obstacles, levels, progress-based scores, leaderboards and immersive storyline."
+    },
+    {
+      "name": "Digital Learning Design & Development",
+      "sequence": 1,
+      "description": "Create the most effective performance-oriented digital learning experience for your learners with free reporting on mobile and desktops."
+    },
+    {
+      "name": "Workshop Design",
+      "sequence": 2,
+      "description": "Design Best-in-class Result oriented, Scalable program for your audience."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:08.395Z",
+  "enhanced_description": "Learn Tech is a learning design studio and L&D consultancy based in Gurgaon, India, specializing in creating innovative and effective learning solutions. They offer a wide range of digital services, including e-learning development, compliance training, and digital learning design and development. Their expertise extends to creating performance-oriented digital learning experiences with reporting available on mobile and desktops, as well as designing result-oriented and scalable workshop programs. A key offering is gamified learning, where content is converted into world-class games featuring challenges, obstacles, levels, progress-based scores, leaderboards, and immersive storylines. Learn Tech supports skill development, learning optimization, and skill acquisition, acting as consultants for corporate LMS and course authoring. Since 2009, they have delivered over 5000 hours of content, impacting over 100,000 professionals, and are recognized as one of the top 20 L&D consultants in India.",
+  "target_industries": [],
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "E-learning content development",
+    "Compliance training delivery",
+    "Gamified learning content creation",
+    "Digital learning experience design",
+    "Workshop program design",
+    "Skill development programs",
+    "Learning optimization initiatives",
+    "Corporate LMS content solutions",
+    "Course authoring services"
+  ],
+  "competitive_advantages": [
+    "Recognized as a top 20 L&D consultant in India",
+    "Extensive experience with over 5000 hours of content delivered",
+    "Proven impact on over 100,000 professionals",
+    "Focus on breakthrough and innovative learning designs",
+    "Expertise in creating world-class gamified learning experiences",
+    "Ability to design effective, performance-oriented digital learning experiences",
+    "Provides reporting on mobile and desktops",
+    "Designs result-oriented and scalable workshop programs"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development"
+  ],
+  "roi_benefits": [
+    "Improved professional performance through effective and performance-oriented learning experiences",
+    "Scalable learning programs for broader impact and efficiency",
+    "Quantifiable impact on a large professional base (100,000+ professionals impacted)",
+    "Optimized learning outcomes"
+  ],
+  "searchable_keywords": [
+    "Learn Tech",
+    "LearnTech.in",
+    "Learning design studio",
+    "L&D consultants",
+    "E-learning development",
+    "Compliance training",
+    "Gamified learning",
+    "Digital learning design",
+    "Workshop design",
+    "Skill development",
+    "Learning optimisation",
+    "Skill acquisition",
+    "Corporate LMS",
+    "Course authoring",
+    "Sales gamification",
+    "Learning solutions",
+    "Corporate training",
+    "Online learning",
+    "Learning technology"
+  ],
+  "primary_users": [
+    "Business leaders",
+    "Learning leaders",
+    "L&D professionals",
+    "Learners",
+    "Professionals"
+  ],
+  "compliance_features": [
+    "Compliance training"
+  ],
+  "scalability_features": [
+    "Scalable program design",
+    "Experience in impacting over 100,000 professionals indicates capability for large-scale deployments"
+  ],
+  "_weight": 1
+}

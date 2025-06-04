@@ -1,0 +1,137 @@
+{
+  "id": 586,
+  "name": "Fitterfly",
+  "description": "Fitterfly is a health tech start-up specialising in Digital Therapeutics (DTx) & is founded & run by a team of Doctors, Engineers & Senior Nutritionists. Our DTx programs combine human & technological interventions to cater to every patient's specific needs to improve outcomes. Fitterfly's current product suite includes scientific & hyper-personalised DTx programs for prediabetes, diabetes & obesity. Designed to be an add-on to the Doctor's medical therapy, our DTx programs offer 360\u00b0 guidance around nutrition, exercise and mental well-being. We improve patient outcomes through behavioural change, which is done by the collaborative efforts of a team of Coaches who are at the forefront of every program. Every team has a Nutritionist with an M.Sc in dietetics, a qualified Physiotherapist and an RCI-certified Clinical Psychologist. Together, we push the patient towards healthier habits using the 'Nudge Theory'.",
+  "features": [
+    "To listen, appreciate and recognize all people. We are in the age of knowledge economy. If we don\u2019t respect our colleagues or our customers, we will lose both.",
+    "To use advancements in modern medicine, behavioral science and technologies for creating the best experiences that empower people to get and stay healthy.",
+    "To achieve scale & sustainability by building good products and by delivering excellent service."
+  ],
+  "founders": [
+    "Shailesh Gupta"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee development"
+  ],
+  "headquarter": "Navi Mumbai, Maharashtra",
+  "launch_date": "2016",
+  "order": 20544,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Powering the metabolic health revolution with proven, tech-enabled personalised care.",
+  "ProductId": null,
+  "ShortDescription": "Fitterfly is a health-tech company working in the field of Digital Therapeutics (DTx).",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Personalized Programs for Weight Management and Disease Reversal",
+      "sequence": 0,
+      "description": "Fitterfly offers personalized programs to help people manage their weight and reverse chronic conditions like diabetes and heart disease [1]. These programs are based on scientific research and are designed to help people make sustainable lifestyle changes."
+    },
+    {
+      "name": "Mobile App with Coaching, Meal Plans, and Education",
+      "sequence": 1,
+      "description": "Fitterfly's programs are delivered through a mobile app that provides users with access to a variety of features, including consultations with coaches, personalized meal plans, and educational modules [1]. This comprehensive approach can help users to stay motivated and on track with their goals."
+    },
+    {
+      "name": "Scientifically-Backed Approach to Health Improvement",
+      "sequence": 2,
+      "description": "Fitterfly's programs are based on scientific research, which means that they are effective and evidence-based [1]. This can give users confidence that they are on the right track to improving their health."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:30:31.674Z",
+  "enhanced_description": "Fitterfly is a health tech start-up specializing in Digital Therapeutics (DTx), founded and run by a multidisciplinary team of Doctors, Engineers, and Senior Nutritionists. It offers scientific, hyper-personalized DTx programs for prediabetes, diabetes, and obesity, designed as an add-on to a doctor's medical therapy. These programs provide 360-degree guidance on nutrition, exercise, and mental well-being, with the core aim of improving patient outcomes through behavioral change using the 'Nudge Theory'. Programs are delivered via a mobile app, providing users with consultations with a team of coaches (Nutritionists, Physiotherapists, and RCI-certified Clinical Psychologists), personalized meal plans, and educational modules. Fitterfly's approach is scientifically-backed, focusing on empowering individuals to achieve and maintain health, specifically through weight management and chronic condition reversal. It supports corporate objectives related to improving employee happiness and engagement, positioning itself as a provider of total rewards and health & safety solutions.",
+  "key_use_cases": [
+    "Digital therapy for prediabetes management",
+    "Digital therapy for diabetes management",
+    "Digital therapy for obesity management",
+    "Personalized weight management programs",
+    "Support for chronic condition reversal (e.g., diabetes, heart disease)",
+    "Behavioral change initiatives for improved nutrition, exercise, and mental well-being",
+    "Employee well-being programs as part of corporate benefits"
+  ],
+  "competitive_advantages": [
+    "Hybrid approach combining human coaching (multi-disciplinary team of Doctors, Nutritionists, Physiotherapists, Clinical Psychologists) and technology (mobile app)",
+    "Hyper-personalized Digital Therapeutics (DTx) programs",
+    "360-degree guidance covering nutrition, exercise, and mental well-being",
+    "Scientifically-backed approach to health improvement and behavioral change",
+    "Utilizes 'Nudge Theory' for sustained habit formation"
+  ],
+  "hr_functions_supported": [
+    "Employee Well-being Programs",
+    "Total Rewards Management",
+    "Employee Engagement Initiatives"
+  ],
+  "roi_benefits": [
+    "Improved employee health outcomes (e.g., for prediabetes, diabetes, obesity, heart disease)",
+    "Enhanced employee well-being and happiness",
+    "Increased employee engagement",
+    "Sustainable lifestyle changes for employees"
+  ],
+  "searchable_keywords": [
+    "Fitterfly",
+    "Digital Therapeutics",
+    "DTx",
+    "health tech",
+    "employee well-being",
+    "corporate wellness",
+    "total rewards",
+    "health and safety providers",
+    "prediabetes management",
+    "diabetes management",
+    "obesity management",
+    "weight management",
+    "chronic disease reversal",
+    "metabolic health",
+    "nutrition coaching",
+    "exercise guidance",
+    "mental well-being support",
+    "behavioral change programs",
+    "mobile health app",
+    "personalized health programs",
+    "corporate health",
+    "Nudge Theory"
+  ],
+  "primary_users": [
+    "Employees (specifically those managing or at risk of prediabetes, diabetes, obesity, or seeking weight management and chronic disease reversal)",
+    "Patients"
+  ],
+  "deployment_options": [
+    "Mobile application (cloud-based)"
+  ],
+  "scalability_features": [
+    "Designed for scale and sustainability"
+  ],
+  "_weight": 1
+}

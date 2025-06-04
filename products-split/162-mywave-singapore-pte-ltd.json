@@ -1,0 +1,183 @@
+{
+  "id": 162,
+  "name": "Mywave Singapore Pte Ltd",
+  "description": "MYwave is one of the first HR companies in Malaysia with cloud computing capabilities. The company established since 2005, and focus in design, build and operate own suite of web-based HR management system. The web-based HR management system called EmplX was officially launched in 2009. EmplX focuses in helping companies to establish excellent process to manage their Human Capital on a real time basis. Our unique value proposition is that the usage is on a very affordable subscription model, and all types of HR policies (by company and by countries) are highly configurable.",
+  "features": [
+    "Data Verification",
+    "Funds Transfer",
+    "Generate Report and E-File"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software"
+  ],
+  "tags": [
+    "Learning optimisation",
+    "Continuous learning"
+  ],
+  "headquarter": "Bayan Lepas, Penang",
+  "launch_date": "2005",
+  "order": 20129,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Simplify Payroll, Focus on Growth",
+  "ProductId": null,
+  "ShortDescription": "MYWave's Payroll Outsourcing Solution for Malaysian Businesses",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Cloud HRMS Solution",
+      "sequence": 0,
+      "description": "As the epitome of cloud-based efficiency, emplX redefines HR and Payroll systems by managing your workforce anytime, anywhere."
+    },
+    {
+      "name": "Payroll Outsourcing",
+      "sequence": 1,
+      "description": " MYWave's payroll outsourcing solution can help you save money and resources by handling all your payroll needs, from employee onboarding to tax filing."
+    },
+    {
+      "name": "HR Outsourcing and Consultancy",
+      "sequence": 2,
+      "description": "With MYWave, you can gain a competitive edge by attracting and retaining top talent, developing your workforce, and ensuring compliance with all HR regulations."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:42.160Z",
+  "enhanced_description": "MYwave, established in 2005, is a pioneering HR company in Malaysia with cloud computing capabilities. Their flagship web-based HR management system, EmplX (launched in 2009), provides real-time Human Capital management with highly configurable HR policies that adapt to various company and country-specific regulations. Available on an affordable subscription model, EmplX offers comprehensive HR and Payroll functionalities, enabling workforce management anytime, anywhere. MYwave also provides extensive payroll outsourcing services, covering everything from employee onboarding to tax filing, and HR outsourcing and consultancy aimed at helping businesses attract, retain, and develop talent while ensuring compliance with all HR regulations. These solutions are designed to support small, large, and global enterprises, primarily serving Malaysian businesses.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Real-time Human Capital management",
+    "Payroll processing and management",
+    "Employee onboarding (as part of payroll/HR outsourcing)",
+    "Tax filing and compliance for payroll",
+    "Generating HR reports and E-files",
+    "Configuring company and country-specific HR policies",
+    "Outsourcing payroll functions",
+    "Outsourcing HR functions",
+    "HR consultancy for talent management and compliance",
+    "Workforce development and skill enhancement",
+    "Attracting and retaining top talent"
+  ],
+  "competitive_advantages": [
+    "One of the first HR companies in Malaysia with cloud computing capabilities",
+    "Web-based HR management system (EmplX)",
+    "Affordable subscription model",
+    "Highly configurable HR policies (by company and by countries)",
+    "Real-time Human Capital management",
+    "Cloud-based access to HR and Payroll systems anytime, anywhere",
+    "Ability to save money and resources through payroll outsourcing",
+    "Helps businesses gain a competitive edge in talent management and compliance"
+  ],
+  "implementation_scenarios": [
+    "SaaS deployment",
+    "Cloud-based system deployment",
+    "HR Outsourcing service",
+    "Payroll Outsourcing service"
+  ],
+  "hr_functions_supported": [
+    "HR Management System (HRMS)",
+    "Human Capital Management (HCM)",
+    "Core HR",
+    "Payroll Management",
+    "Payroll Outsourcing",
+    "HR Outsourcing",
+    "HR Consultancy",
+    "Data Management (Data Verification)",
+    "Reporting and Analytics (Generate Report and E-File)",
+    "Learning and Development (Accelerate Skill Development, Learning optimisation, Continuous learning, Workforce Development)",
+    "Talent Management (Attracting and retaining talent)",
+    "Employee Onboarding",
+    "Compliance Management (HR regulations, Tax filing)"
+  ],
+  "technology_stack": [
+    "Cloud-based architecture",
+    "Web-based platform"
+  ],
+  "roi_benefits": [
+    "Affordable usage via subscription model",
+    "Cost and resource savings through payroll outsourcing",
+    "Simplified payroll processes leading to focus on business growth",
+    "Improved competitive edge through effective talent management and compliance",
+    "Efficient real-time management of Human Capital"
+  ],
+  "searchable_keywords": [
+    "Mywave",
+    "EmplX",
+    "HRMS",
+    "HCM",
+    "HR",
+    "Payroll",
+    "Cloud HRMS",
+    "HR Outsourcing",
+    "Payroll Outsourcing",
+    "HR Consultancy",
+    "Core HR Software",
+    "Data Verification",
+    "Funds Transfer",
+    "Report Generation",
+    "E-File",
+    "Learning optimisation",
+    "Continuous learning",
+    "Skill Development",
+    "Human Capital Management",
+    "Web-based HR",
+    "Malaysian HR",
+    "HR policies",
+    "Configurable HR",
+    "Real-time HR",
+    "Employee onboarding",
+    "Tax filing"
+  ],
+  "primary_users": [
+    "HR Departments",
+    "Payroll Administrators",
+    "Company Management",
+    "Employees (indirectly, for self-service related to payroll/onboarding)"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "Web-based",
+    "Software-as-a-Service (SaaS)"
+  ],
+  "compliance_features": [
+    "Ensuring compliance with all HR regulations",
+    "Tax filing"
+  ],
+  "scalability_features": [
+    "High configurability of HR policies to adapt to varying company and country-specific regulations",
+    "Designed to support global enterprise use"
+  ],
+  "_weight": 1
+}

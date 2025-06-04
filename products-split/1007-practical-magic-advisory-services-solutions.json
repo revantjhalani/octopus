@@ -1,0 +1,170 @@
+{
+  "id": 1007,
+  "name": "Practical Magic Advisory Services & Solutions",
+  "description": "Practical Magic Advisory Services & Solutions is committed to helping organisations, transform their human capital, for meeting the challenges of the global economy",
+  "features": [
+    "Integrated Strategic Organisation ",
+    "Executive Search",
+    "Entrepreneurship Mentoring"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Recruiting",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Staffing services providers",
+    "HR consulting providers",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Skill development",
+    "Learning optimisation"
+  ],
+  "headquarter": "Mumbai",
+  "launch_date": "2015",
+  "order": 20950,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "the Future is now",
+  "ProductId": null,
+  "ShortDescription": "We are a professional boutique HR Advisory & Leadership Consulting firm.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Customer Experience ",
+      "sequence": 0,
+      "description": "\u201cExperience\u201d will be a key determinant of success of relationships, people & businesses.  We like to call ourselves Experience curators, & offer interventions, Journeys & Trainings on \"World Class Customer Experience\""
+    },
+    {
+      "name": " Integrated Leadership & Organisation Development Solutions for Future Business Readiness",
+      "sequence": 1,
+      "description": "Surveys :  Leadership and Organisation capability surveys  b.\tLeadership Development journeys, to identify, train and nurture future business leaders c.\tImmersive experiential Leadership Training d.\tHi-Potential Leadership Development journey e.\tLeadership Coaching "
+    },
+    {
+      "name": "Training and Development",
+      "sequence": 2,
+      "description": "Customized programmes for capability building; E-Learning / Online cohorts ; Outbound Experiential Training : We also conduct outbound training programmes, which are fun, but not frivolous, & concentrate on impact & definitive outcomes ; "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:38:41.185Z",
+  "enhanced_description": "Practical Magic Advisory Services & Solutions is a professional boutique HR Advisory & Leadership Consulting firm launched in 2015, committed to helping organizations transform their human capital to meet the challenges of the global economy. They offer integrated strategic organization solutions, specializing in Recruiting, including Executive Search and Staffing services, and Learning & Development. Their services encompass Leadership & Organization Development, Entrepreneurship Mentoring, and Customer Experience training. Practical Magic delivers customized programs for capability building, including e-learning/online cohorts, immersive experiential training, outbound experiential training, and leadership coaching.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Strategic HR Advisory and Human Capital Transformation",
+    "Executive and Senior Leadership Talent Acquisition (Executive Search)",
+    "Leadership Development and Coaching Programs",
+    "Organizational Capability Assessment and Development",
+    "Accelerating Skill Development and Learning Efficiency",
+    "Building Future-Ready Business Leaders",
+    "Enhancing Customer Experience through Training and Interventions",
+    "Entrepreneurship Mentoring",
+    "General Staffing and Talent Sourcing"
+  ],
+  "competitive_advantages": [
+    "Boutique approach offering specialized HR advisory and leadership consulting services",
+    "Focus on 'Experience curation' particularly for customer experience training and interventions",
+    "Strong emphasis on immersive and outbound experiential learning for leadership development",
+    "Provision of customized and tailored capability building programs",
+    "Integrated solutions for leadership and organization development"
+  ],
+  "implementation_scenarios": [
+    "Consulting engagements for HR and organizational strategy",
+    "Project-based talent acquisition (Executive Search, Staffing)",
+    "Design and delivery of customized learning and development programs",
+    "Long-term leadership development journeys and coaching",
+    "Online/E-learning program delivery for cohorts",
+    "On-site or off-site (outbound) experiential training"
+  ],
+  "hr_functions_supported": [
+    "Recruitment (including Executive Search, Staffing, Talent Sourcing)",
+    "Learning & Development",
+    "Leadership Development",
+    "Organizational Development",
+    "HR Strategy & Advisory",
+    "Talent Management",
+    "Training (Customized, E-learning, Experiential)",
+    "Coaching"
+  ],
+  "roi_benefits": [
+    "Improved speed and efficiency in hiring top talent",
+    "Increased hiring manager confidence and productivity",
+    "Faster skill development and enhanced learning efficiency",
+    "Enhanced organizational readiness for future business challenges",
+    "More effective leadership through development and coaching",
+    "Improved customer experience through specific training interventions",
+    "Transformed human capital for global economic challenges"
+  ],
+  "searchable_keywords": [
+    "HR Advisory",
+    "Leadership Consulting",
+    "Human Capital Transformation",
+    "Recruiting",
+    "Executive Search",
+    "Staffing Services",
+    "Talent Sourcing",
+    "Hiring",
+    "Learning and Development",
+    "Skill Development",
+    "Learning Optimisation",
+    "Leadership Development",
+    "Organizational Development",
+    "Entrepreneurship Mentoring",
+    "Training and Development",
+    "Customer Experience Training",
+    "Experiential Training",
+    "E-learning",
+    "Online Cohorts",
+    "Outbound Training",
+    "Leadership Coaching",
+    "Capability Building",
+    "Future Business Readiness",
+    "Boutique HR Firm"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "Hiring Managers",
+    "Business Leaders (Executives, Senior Management)",
+    "High-Potential Employees",
+    "Entrepreneurs",
+    "Employees undergoing skill development/training"
+  ],
+  "deployment_options": [
+    "On-site service delivery",
+    "Off-site (outbound) training delivery",
+    "Online/e-learning delivery"
+  ],
+  "_weight": 1
+}

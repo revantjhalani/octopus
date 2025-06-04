@@ -1,0 +1,129 @@
+{
+  "id": 261,
+  "name": "RoundGlass",
+  "description": "Roundglass Living, offers personalized support to help anyone reach their wellbeing goals. Roundglass Giving encompasses a diverse set of ventures that share a common purpose: empowering individuals, enriching communities, and preserving a thriving planet. Looking to empower wellbeing in your workplace? We offer custom, data-driven solutions to support your employees, customers, and community.",
+  "features": [
+    "Roundglass Living",
+    "Roundglass Punjab FC",
+    "Roundglass Giving"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee happiness"
+  ],
+  "headquarter": "Bellevue, WA",
+  "launch_date": "2014",
+  "order": 20226,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Where Wellbeing Meets the World",
+  "ProductId": null,
+  "ShortDescription": "Roundglass Living empowers with wellness solutions for healthier habits and life transformations",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "A complete wellbeing toolkit",
+      "sequence": 0,
+      "description": "Breathwork, meditation, yoga, food and music."
+    },
+    {
+      "name": "Personalized for your goals",
+      "sequence": 1,
+      "description": " Better sleep, less stress, and more."
+    },
+    {
+      "name": "Real-time insights",
+      "sequence": 2,
+      "description": " Track your progress and get nudges to ensure you see results."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:15.933Z",
+  "enhanced_description": "RoundGlass offers a comprehensive wellbeing platform, primarily through its 'Roundglass Living' service, designed to help individuals and organizations achieve their wellbeing goals. For workplaces, it provides custom, data-driven solutions aimed at supporting employees, customers, and the community to improve employee happiness and engagement. The platform features a complete wellbeing toolkit that includes breathwork, meditation, yoga, food guidance, and music. Solutions are personalized for individual goals such as better sleep and stress reduction, and the system offers real-time insights with progress tracking and nudges to ensure results and foster healthier habits.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee wellness program implementation",
+    "Improving employee happiness and engagement",
+    "Personalized wellbeing goal achievement for employees",
+    "Stress reduction for employees",
+    "Sleep improvement for employees",
+    "Fostering healthier habits among employees"
+  ],
+  "competitive_advantages": [
+    "Custom, data-driven wellbeing solutions tailored for workplaces",
+    "Comprehensive wellbeing toolkit including breathwork, meditation, yoga, food, and music",
+    "Personalized support for individual wellbeing goals",
+    "Real-time insights and progress tracking with nudges for results"
+  ],
+  "implementation_scenarios": [
+    "Corporate wellness program deployment"
+  ],
+  "hr_functions_supported": [
+    "Employee Wellbeing",
+    "Employee Engagement",
+    "Total Rewards (specifically wellness component)"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness",
+    "Enhanced employee engagement",
+    "Support for overall employee wellbeing"
+  ],
+  "searchable_keywords": [
+    "RoundGlass",
+    "wellbeing",
+    "wellness",
+    "corporate wellness",
+    "employee wellbeing",
+    "employee happiness",
+    "employee engagement",
+    "total rewards",
+    "workplace wellness",
+    "personalized wellness",
+    "data-driven wellness",
+    "meditation",
+    "yoga",
+    "breathwork",
+    "stress reduction",
+    "sleep improvement",
+    "health habits"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Professionals"
+  ],
+  "_weight": 1
+}

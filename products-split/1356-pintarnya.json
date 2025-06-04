@@ -1,0 +1,159 @@
+{
+  "id": 1356,
+  "name": "Pintarnya",
+  "description": "Pintarnya uses a data driven approach to allow job seekers to search and apply for jobs based on their interests, location, skill sets or education. Our new Cari Cuan feature also enables users to gain additional income while waiting for their applications; users can complete missions and receive rewarding incentives via Pintarnya e-wallet.",
+  "features": [
+    "Smart Job vallet",
+    "Make money using app",
+    "Work on skills sets"
+  ],
+  "founders": [
+    "Nelly Nurmalasari"
+  ],
+  "price": [
+    {
+      "name": "",
+      "type": "",
+      "price": "",
+      "description": ""
+    }
+  ],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing services providers",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs"
+  ],
+  "headquarter": "Jakarta",
+  "launch_date": "2022",
+  "order": 999,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Smart recruitment solution to find best Talents",
+  "ProductId": null,
+  "ShortDescription": "Pintarnya, a technology startup headquartered in Indonesia, is dedicated to providing job opportunities and access for Indonesian job seekers to generate additional income.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": [
+      {
+        "times": [
+          {
+            "description": ""
+          }
+        ],
+        "header": "",
+        "sequence": 0,
+        "videourl": "",
+        "description": ""
+      }
+    ]
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Focus on Part-time and Additional Income",
+      "sequence": 0,
+      "description": "There strong focus on helping people find part-time jobs, freelance work, or other ways to earn extra money."
+    },
+    {
+      "name": "Easy Application Process",
+      "sequence": 1,
+      "description": " The website and app are designed for ease of use, allowing people to quickly browse and apply for jobs."
+    },
+    {
+      "name": "Understanding Local Market",
+      "sequence": 2,
+      "description": "By focusing on the Indonesian language and job market, Pintarnya demonstrates an understanding of the local needs and preferences for finding and offering additional income opportunities."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": true,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-12T07:16:15.113Z",
+  "enhanced_description": "Pintarnya is an Indonesian technology startup providing a smart, data-driven recruitment solution focused on connecting job seekers with opportunities and helping companies hire top talent faster. The platform enables job seekers to search and apply for jobs based on their interests, location, skill sets, and education. A unique feature, 'Cari Cuan,' allows users to generate additional income by completing missions and receiving incentives via the Pintarnya e-wallet while waiting for job applications. The platform emphasizes an easy application process and has a strong understanding of the local Indonesian job market, with a particular focus on part-time jobs, freelance work, and additional income opportunities.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Job search and application for job seekers",
+    "Generating additional income through in-app missions (Cari Cuan feature)",
+    "Finding part-time and freelance work opportunities",
+    "Rapid browsing and application for jobs",
+    "Boosting hiring manager confidence and productivity",
+    "Hiring top talent more efficiently"
+  ],
+  "competitive_advantages": [
+    "Data-driven approach for job matching",
+    "Unique 'Cari Cuan' feature for users to earn income via e-wallet while job searching",
+    "Strong focus on part-time, freelance, and additional income opportunities",
+    "Easy and quick application process",
+    "Deep understanding and focus on the local Indonesian job market"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Staffing"
+  ],
+  "roi_benefits": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Opportunity for job seekers to gain additional income/incentives"
+  ],
+  "searchable_keywords": [
+    "Pintarnya",
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Job search",
+    "Job application",
+    "Smart Job vallet",
+    "Cari Cuan",
+    "Make money app",
+    "Additional income",
+    "Part-time jobs",
+    "Freelance work",
+    "e-wallet",
+    "Skill sets",
+    "Job opportunities",
+    "Indonesian job market",
+    "Staffing services",
+    "HR consulting",
+    "Recruitment solution",
+    "Talent acquisition"
+  ],
+  "primary_users": [
+    "Job Seekers",
+    "Hiring Managers",
+    "Employers"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "Mobile Application"
+  ],
+  "_weight": 1
+}

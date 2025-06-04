@@ -1,0 +1,112 @@
+{
+  "id": 989,
+  "name": "Phablecare",
+  "description": "Phable is on a mission to create an ecosystem of patients, doctors, hospitals, health devices, insurance, and patient care service providers. For patients, we provide a single platform for digitizing prescriptions, personalized health reminders, tracking vitals by syncing with devices from daily steps to blood levels and symptoms.",
+  "features": [
+    "One doctor for one patients supervision",
+    "Tracking vitals with Syncing device",
+    "Mental Healthcare designed "
+  ],
+  "founders": [
+    "Mukesh Bansal"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Employee well being"
+  ],
+  "headquarter": "Bengaluru ",
+  "launch_date": "2018",
+  "order": 20935,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Make it manageble",
+  "ProductId": null,
+  "ShortDescription": "An innovative health assistant serving both patients and doctors.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:38:21.446Z",
+  "enhanced_description": "Phablecare is an innovative health assistant platform designed to create an integrated ecosystem connecting patients, doctors, hospitals, health devices, insurance providers, and patient care services. It offers a single platform for digitizing prescriptions, providing personalized health reminders, and tracking vital signs by syncing with health devices. Positioned within the Total Rewards category and recognized as Corporate Wellness software and a Health & Safety provider, Phablecare aims to improve employee happiness and engagement by offering comprehensive health and well-being support, including mental healthcare and personalized medical supervision.",
+  "key_use_cases": [
+    "Employee health and well-being management",
+    "Corporate wellness program delivery",
+    "Personalized health tracking and reminders for employees",
+    "Access to mental healthcare services for employees",
+    "Facilitating one-on-one medical supervision for patients/employees",
+    "Digitization of medical prescriptions"
+  ],
+  "competitive_advantages": [
+    "Integrated ecosystem connecting various healthcare stakeholders",
+    "Provision of one-on-one doctor supervision for personalized care",
+    "Ability to track vitals through syncing with health devices",
+    "Dedicated mental healthcare support",
+    "Single platform for multiple health management features (prescriptions, reminders, vital tracking)"
+  ],
+  "hr_functions_supported": [
+    "Corporate Wellness",
+    "Employee Benefits",
+    "Employee Well-being",
+    "Health & Safety",
+    "Employee Engagement"
+  ],
+  "integration_capabilities": [
+    "Syncing with health devices for vital tracking"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness and Engagement"
+  ],
+  "searchable_keywords": [
+    "Phablecare",
+    "Phable",
+    "health assistant",
+    "corporate wellness",
+    "employee well-being",
+    "employee benefits",
+    "health and safety",
+    "vital tracking",
+    "device syncing",
+    "mental healthcare",
+    "personalized health",
+    "doctor supervision",
+    "health reminders",
+    "digitized prescriptions",
+    "patient care",
+    "healthcare ecosystem"
+  ],
+  "primary_users": [
+    "Employees",
+    "Patients",
+    "Doctors"
+  ],
+  "_weight": 1
+}

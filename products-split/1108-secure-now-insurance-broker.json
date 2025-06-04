@@ -1,0 +1,132 @@
+{
+  "id": 1108,
+  "name": "Secure Now Insurance Broker",
+  "description": "SecureNow, a tech-enabled insurance broking firm, is bridging a vital gap by distributing pure-risk, commercial insurances to small and medium enterprises. These small companies do not have access to quality insurances on their own. SecureNow is able to distribute commercial insurances in a sustainable manner by effective use of technology. It is a full-service firm that provides excellent claims support to small companies in addition to placing quality insurances. The company\u2019s success can be gauged by the fact that it has served over 24,000 clients and is acquiring new clients rapidly. We have been recognized as a top-three Asian Broker in 2015, 2016 & 2020 by the Asia Insurance Review, top three by TechHR for our mobile app, winner of the Claim Innovation Award 2016 & 2017, Finalist for the Fintech Innovation Award (London) in 2015, Finalist in the Economic Forum challenge in 2019 and recipient of the SKOCH Order of Merit Award 2017,2018 & 2019. Each of these awards is peer-reviewed and credible.",
+  "features": [
+    "Dedicated claims helpline   ",
+    "Timely surveyor appointment",
+    "Mobile app for insurance services"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration software",
+    "Corporate wellness software"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Employee recognition",
+    "Employee happiness programs"
+  ],
+  "headquarter": "Gurgaon, Haryana",
+  "launch_date": "2011",
+  "order": 21051,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "SecureNow is an award winning tech-enabled insurance intermediary. We provide you risk assessment & cover at best rates",
+  "ProductId": null,
+  "ShortDescription": "SecureNow, a tech-enabled insurance broking firm, is bridging a vital gap by distributing pure-risk, commercial insurances to small and medium enterprises. These small companies do not have access to quality insurances on their own.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:40:43.625Z",
+  "enhanced_description": "SecureNow is an award-winning, tech-enabled insurance broking firm specializing in distributing pure-risk, commercial insurances to small and medium enterprises (SMEs) that often lack access to quality insurance options. Leveraging technology for sustainable distribution, SecureNow acts as a full-service intermediary, providing essential risk assessment, competitive coverage rates, and excellent claims support, including a dedicated claims helpline and timely surveyor appointments. The firm's commitment to technology is further evidenced by its mobile app for insurance services. With over 24,000 clients served, SecureNow has received significant industry recognition, including being named a top-three Asian Broker multiple times by the Asia Insurance Review, a top-three mobile app by TechHR, and winner of the Claim Innovation Award, alongside various other accolades for fintech innovation and social impact. The product supports Total Rewards categories like Benefits Administration and Corporate Wellness, aiming to improve Employee Happiness and Engagement.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium"
+  ],
+  "key_use_cases": [
+    "Distributing commercial insurance for SMEs",
+    "Providing claims support for commercial insurance",
+    "Conducting risk assessment for commercial insurance",
+    "Sourcing competitive insurance rates",
+    "Managing employee benefits",
+    "Improving employee happiness and engagement",
+    "Facilitating insurance services via mobile application"
+  ],
+  "competitive_advantages": [
+    "Tech-enabled insurance broking firm",
+    "Specialization in commercial insurance for SMEs, bridging a market gap",
+    "Full-service claims support including dedicated helpline and timely surveyor appointments",
+    "Award-winning industry recognition (e.g., top-three Asian Broker, Claim Innovation Award)",
+    "Extensive client base (24,000+ clients)",
+    "Proprietary mobile application for insurance services",
+    "Ability to provide risk assessment and competitive rates"
+  ],
+  "hr_functions_supported": [
+    "Benefits Administration",
+    "Corporate Wellness",
+    "Total Rewards",
+    "Employee Benefits",
+    "Employee Engagement",
+    "Employee Recognition"
+  ],
+  "roi_benefits": [
+    "Access to quality commercial insurance for SMEs",
+    "Enhanced claims resolution efficiency through dedicated support",
+    "Optimized insurance coverage through expert risk assessment",
+    "Access to competitive insurance rates",
+    "Improved employee happiness and engagement through comprehensive benefits"
+  ],
+  "searchable_keywords": [
+    "Secure Now",
+    "SecureNow",
+    "Insurance Broker",
+    "Insurance",
+    "Commercial Insurance",
+    "SME Insurance",
+    "Small Business Insurance",
+    "Medium Enterprise Insurance",
+    "Tech-enabled Insurance",
+    "Insurance intermediary",
+    "Risk Assessment",
+    "Claims Support",
+    "Claims Helpline",
+    "Surveyor Appointment",
+    "Mobile App",
+    "Insurance Services",
+    "Employee Benefits",
+    "Benefits Administration",
+    "Corporate Wellness",
+    "Total Rewards",
+    "Employee Happiness",
+    "Employee Engagement",
+    "Pure-risk",
+    "Insurance Rates"
+  ],
+  "primary_users": [
+    "Small and Medium Enterprises (SMEs)",
+    "HR Professionals",
+    "Business Owners",
+    "Employees"
+  ],
+  "deployment_options": [
+    "Mobile (via dedicated app)"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,148 @@
+{
+  "id": 1069,
+  "name": "Reconfig",
+  "description": "Reconfig is the result of a cross-disciplinary effort, combining organization theory, business strategy, and computer science. The tool was initially developed in 2016 by the founders to make their jobs easier delivering complex Organisation Design projects, because they could not find a tool in the market that could help with data collection and data analysis for Organisation Design.The first web-based version Reconfig 1.0 was released in 2019 with funding from the Norwegian government.Based on feedback from clients and partners across the world, additional functionality was developed and Reconfig 2.0 was launched in December 2022.Working with a global network of independent partners, Reconfig is now supporting leaders and consultants across the world to improve the performance of organizations in a wide range of industries and governmental sectors.",
+  "features": [
+    "We aid business leaders in solving critical organizational issues. Our structured approach engages your stakeholders to create buy-in and trust.",
+    "Organization Design training by Reconfig is an interactive learning experience that equips participants with the knowledge and skills needed to design high-performance, purpose-driven organizations.",
+    "Workshops and mentoring"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency",
+    "Improve Employee Happiness and Engagement",
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Learning speed",
+    "Workforce diversity",
+    "Employee resource groups"
+  ],
+  "headquarter": "\u00c5s, Akershus",
+  "launch_date": "2018",
+  "order": 21012,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Next generation organization design tools",
+  "ProductId": null,
+  "ShortDescription": "Reconfig AS is a Norwegian software company developing cloud solutions for organization design. With Reconfig technology, you can map the information flow of your company, analyze your work processes and design your organizational structure to achieve the best possible fit between intended and actual work processes.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:39:58.203Z",
+  "enhanced_description": "Reconfig is a cloud-based software solution for organization design, developed by a Norwegian company. It originated in 2016 from a cross-disciplinary effort combining organization theory, business strategy, and computer science, addressing a market gap for dedicated data collection and analysis tools in complex Organization Design projects. The first web-based version (Reconfig 1.0) was launched in 2019, with Reconfig 2.0 following in December 2022, incorporating feedback from clients and partners worldwide. The technology allows users to map information flow, analyze work processes, and design organizational structures to achieve the best possible fit between intended and actual work. Through a global network of independent partners, Reconfig supports leaders and consultants worldwide in improving organizational performance across diverse industries and governmental sectors. Additionally, Reconfig offers Organization Design training, workshops, and mentoring to equip participants with the necessary knowledge and skills.",
+  "target_industries": [
+    "Wide range of industries",
+    "Governmental sectors"
+  ],
+  "key_use_cases": [
+    "Delivering complex organization design projects",
+    "Data collection and data analysis for organization design",
+    "Mapping information flow within a company",
+    "Analyzing work processes",
+    "Designing organizational structures",
+    "Solving critical organizational issues for business leaders",
+    "Engaging stakeholders to create buy-in and trust for organizational changes",
+    "Providing organization design training",
+    "Facilitating workshops and mentoring for organizational improvement",
+    "Accelerating skill development and learning efficiency",
+    "Improving employee happiness and engagement",
+    "Building a more diverse and inclusive workforce"
+  ],
+  "competitive_advantages": [
+    "Developed to fill a market gap for dedicated organization design data collection and analysis tools",
+    "Cross-disciplinary approach combining organization theory, business strategy, and computer science",
+    "Structured approach for stakeholder engagement and buy-in",
+    "Cloud-based solution for accessibility",
+    "Supported by a global network of independent partners"
+  ],
+  "implementation_scenarios": [
+    "Project-based organizational design and transformation initiatives"
+  ],
+  "hr_functions_supported": [
+    "Organization Design",
+    "Learning & Development",
+    "Employee Engagement",
+    "Diversity, Equity, and Inclusion (DEI)"
+  ],
+  "roi_benefits": [
+    "Improved organizational performance",
+    "Streamlined and accelerated organization design projects",
+    "Enhanced data collection and analysis for organizational decisions",
+    "Increased efficiency in work processes",
+    "Accelerated skill development and learning efficiency",
+    "Improved employee happiness and engagement",
+    "Enhanced workforce diversity and inclusion"
+  ],
+  "searchable_keywords": [
+    "Reconfig",
+    "organization design",
+    "organizational design",
+    "HR technology",
+    "cloud software",
+    "data collection",
+    "data analysis",
+    "information flow",
+    "work processes",
+    "organizational structure",
+    "stakeholder engagement",
+    "organizational change",
+    "training",
+    "workshops",
+    "mentoring",
+    "skill development",
+    "learning efficiency",
+    "employee engagement",
+    "employee happiness",
+    "workforce diversity",
+    "inclusive workforce",
+    "HR software",
+    "HR services",
+    "talent development",
+    "strategic HR",
+    "training effectiveness",
+    "learning speed",
+    "employee resource groups"
+  ],
+  "primary_users": [
+    "Business Leaders",
+    "Consultants",
+    "HR Professionals",
+    "Organizational Development (OD) Specialists",
+    "Managers involved in organizational change"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "Web-based"
+  ],
+  "_weight": 1
+}

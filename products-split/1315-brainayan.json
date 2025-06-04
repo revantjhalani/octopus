@@ -1,0 +1,174 @@
+{
+  "id": 1315,
+  "name": "Brainayan",
+  "description": "Brainayan is a boutique learning and development consultancy founded and powered by ex-Google & Facebook specialists with deep experience in addressing the talent development challenges of South East Asia. The company delivers custom solutions situated in the values and culture of client companies and tailored to the specific needs of their C-suite, leadership, managers or entry-level employees.",
+  "features": [
+    "DIVERSITY AND INCLUSION",
+    "COMMUNICATION SKILLS",
+    "PSYCHOMETRY"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency",
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised learning",
+    "Learning analytics",
+    "Learning retention",
+    "Continous learning",
+    "Diversity and inclusion",
+    "Workforce diversity",
+    "Workplace diversity",
+    "Employee diversity",
+    "Diversity training"
+  ],
+  "headquarter": "Pune, Maharashtra",
+  "launch_date": "2016",
+  "order": 21,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Unleashing Unrealized Potential",
+  "ProductId": null,
+  "ShortDescription": "Professional Training and Coaching",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": " ORG DEVELOPMENT",
+      "sequence": 0,
+      "description": "Build inclusive teams based on a solid foundation of trust and psychological safety that turn diversity into business impact."
+    },
+    {
+      "name": "LEADERSHIP DEVELOPMENT",
+      "sequence": 1,
+      "description": "Identify and strengthen your leadership bench with solutions fully contextualized for their world view, beliefs, and methods and delivered in formats that work for your organization."
+    },
+    {
+      "name": " MANAGER DEVELOPMENT",
+      "sequence": 2,
+      "description": "Offer your managers an opportunity to learn or fine-tune their people management skills through Brainayan\u2019s Manager Basecamp and MApp."
+    }
+  ],
+  "Approved": true,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:44.082Z",
+  "enhanced_description": "Brainayan is a boutique learning and development consultancy, founded and powered by ex-Google & Facebook specialists with deep experience in addressing talent development challenges, particularly in South East Asia. They provide professional training and coaching, delivering custom solutions aligned with client company values and culture. Their services are tailored to the specific needs of C-suite executives, leadership, managers, and entry-level employees, with a focus on accelerating skill development, improving learning efficiency, and fostering a more diverse and inclusive workforce. Key offerings include Organizational Development (building inclusive teams based on trust and psychological safety for business impact), Leadership Development (strengthening leadership with contextualized solutions), and Manager Development (fine-tuning people management skills through programs like Manager Basecamp and MApp). Specialized features include Diversity and Inclusion training, Communication Skills enhancement, and Psychometry.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerate skill development and learning efficiency within organizations.",
+    "Build a more diverse and inclusive workforce.",
+    "Develop inclusive teams, fostering trust and psychological safety for business impact.",
+    "Identify and strengthen leadership capabilities.",
+    "Enhance people management skills for managers.",
+    "Improve communication skills across various employee levels.",
+    "Utilize psychometry for talent assessment and development."
+  ],
+  "competitive_advantages": [
+    "Expertise from ex-Google & Facebook specialists.",
+    "Deep experience in addressing talent development challenges specific to South East Asia.",
+    "Delivery of custom solutions tailored to client company values, culture, and specific employee needs (C-suite, leadership, managers, entry-level).",
+    "Boutique consultancy approach enabling highly personalized service."
+  ],
+  "implementation_scenarios": [
+    "Customized, project-based delivery of learning and development solutions.",
+    "Solutions contextualized to client's worldview, beliefs, and methods, delivered in formats optimal for their organization."
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Talent Development",
+    "Organizational Development",
+    "Diversity, Equity & Inclusion (DE&I)",
+    "Talent Management",
+    "Training Management",
+    "Skill Management"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development and learning efficiency.",
+    "Enhanced workforce diversity and inclusion.",
+    "Increased business impact from diversity.",
+    "Strengthened leadership bench.",
+    "Improved people management skills among managers."
+  ],
+  "searchable_keywords": [
+    "Brainayan",
+    "Learning and Development",
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies",
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised learning",
+    "Learning analytics",
+    "Learning retention",
+    "Continous learning",
+    "Diversity and inclusion",
+    "Workforce diversity",
+    "Workplace diversity",
+    "Employee diversity",
+    "Diversity training",
+    "ORG DEVELOPMENT",
+    "LEADERSHIP DEVELOPMENT",
+    "MANAGER DEVELOPMENT",
+    "Communication skills",
+    "Psychometry",
+    "Professional Training",
+    "Coaching"
+  ],
+  "primary_users": [
+    "C-suite executives",
+    "Leadership",
+    "Managers",
+    "Entry-level employees",
+    "HR professionals",
+    "Learning & Development professionals"
+  ],
+  "_weight": 1
+}

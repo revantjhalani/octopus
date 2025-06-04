@@ -1,0 +1,173 @@
+{
+  "id": 196,
+  "name": "Orange Technolab",
+  "description": "Wondering why we named ourselves after this citrusy, Vitamin-C filled fruit? Well, the main reason is that \u201cOrange\u201d, the color is associated with joy and creativity. And our services and expertise are synonymous to that. An award-winning Software Development Company, committed to providing end-to-end IT services in Web, Mobile & Cloud development, UI/UX design, and development to Software deployment since inception",
+  "features": [
+    "Remote Working Options",
+    "Creating a conducive and professional workspace ",
+    "Variety of Website design and development service"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Internet of things"
+  ],
+  "tags": [
+    "Skill development",
+    "Training effectiveness",
+    "Learning optimisation"
+  ],
+  "headquarter": "Ahmedabad, Gujarat",
+  "launch_date": "2002",
+  "order": 20163,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Your guide to ERP implimentation.",
+  "ProductId": null,
+  "ShortDescription": "Redefining Software Development Creatively.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "On Demand Solution",
+      "sequence": 0,
+      "description": "It takes immense relevant expertise to serve end-users on demand."
+    },
+    {
+      "name": "Ecommerce Development",
+      "sequence": 1,
+      "description": "Our e-commerce website services ensure the use of latest technologies."
+    },
+    {
+      "name": " Resources as a Service",
+      "sequence": 2,
+      "description": "The Resource-as-a-Service (RaaS) cloud is an economic model of cloud computing."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:17.781Z",
+  "enhanced_description": "Orange Technolab is an award-winning Software Development Company committed to providing end-to-end IT services. Their expertise spans Web, Mobile, and Cloud development, UI/UX design, and software deployment. They also serve as a guide for ERP implementation and specialize in developing Training eLearning software and e-commerce solutions. Offering 'Resources as a Service' (RaaS) and on-demand solutions, Orange Technolab aims to redefine software development creatively while also addressing capabilities for remote working options and creating conducive professional workspaces.",
+  "target_industries": [
+    "E-commerce",
+    "Corporate Learning & Development",
+    "Technology (IoT, Software, IT Services)",
+    "Any industry requiring ERP solutions"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Custom Web application development",
+    "Custom Mobile application development",
+    "Cloud solution development",
+    "UI/UX design and development",
+    "Software deployment services",
+    "ERP implementation guidance and support",
+    "Development of Training and eLearning software",
+    "E-commerce website development",
+    "Provision of IT resources as a service (RaaS)",
+    "Enabling and optimizing remote working environments"
+  ],
+  "competitive_advantages": [
+    "Award-winning software development company",
+    "Offers end-to-end IT services",
+    "Provides on-demand solutions",
+    "Utilizes Resources as a Service (RaaS) economic model",
+    "Focus on creative software development"
+  ],
+  "implementation_scenarios": [
+    "Software deployment",
+    "ERP system implementation",
+    "Cloud-based application development and deployment"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development (via eLearning software and skill development focus)",
+    "Workplace Experience (creating conducive workspaces, supporting remote work)",
+    "Workforce Planning (potentially through 'Resources as a Service' for flexible IT staffing)"
+  ],
+  "technology_stack": [
+    "Web Development Technologies",
+    "Mobile Development Technologies",
+    "Cloud Development Technologies",
+    "UI/UX Design Technologies",
+    "Internet of Things (IoT) Technologies"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Increased learning efficiency",
+    "Improved training effectiveness",
+    "Optimized learning outcomes",
+    "Economic efficiency through cloud computing models (RaaS)"
+  ],
+  "searchable_keywords": [
+    "Orange Technolab",
+    "Software Development",
+    "IT Services",
+    "Web Development",
+    "Mobile Development",
+    "Cloud Development",
+    "UI/UX Design",
+    "Software Deployment",
+    "ERP Implementation",
+    "Remote Working Options",
+    "Workspace",
+    "Website Design",
+    "Website Development",
+    "Skill Development",
+    "Learning Efficiency",
+    "Learning and Development",
+    "L&D",
+    "Training eLearning Software",
+    "Internet of Things",
+    "IoT",
+    "Training Effectiveness",
+    "Learning Optimization",
+    "On Demand Solution",
+    "Ecommerce Development",
+    "Resources as a Service",
+    "RaaS"
+  ],
+  "primary_users": [
+    "IT Departments",
+    "Learning & Development Professionals",
+    "HR Professionals",
+    "Business Leaders",
+    "E-commerce Managers",
+    "Project Managers"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "scalability_features": [
+    "Scalable solutions (implied by 'On Demand Solution', 'Resources as a Service', and target company sizes)"
+  ],
+  "_weight": 1
+}

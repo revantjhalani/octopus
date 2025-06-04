@@ -1,0 +1,147 @@
+{
+  "id": 824,
+  "name": "Learning Insights",
+  "description": "We partner with our clients To Design & Deliver training programs that resolve their current challenges and meet their future aspirations. Our team of experts design training programs that are 100% customized, practical and action driven.",
+  "features": [
+    "In demand program",
+    "Aligning challenges",
+    "80+ learning course"
+  ],
+  "founders": [
+    "Sharat Sharma"
+  ],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Learning and Development",
+    "Talent Management",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Career management software",
+    "Training eLearning software",
+    "Machine learning HR"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Learning speed",
+    "Workforce diversity"
+  ],
+  "headquarter": "Hyderabad",
+  "launch_date": "2013",
+  "order": 20777,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Enbaling Talent",
+  "ProductId": null,
+  "ShortDescription": "Learning Insight believe in enabling talent to achieve higher levels of Productivity & Performance.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Communication Development",
+      "sequence": 0,
+      "description": "We believe that the traditional Communication skills of teaching someone the methods of communication or equipping them with skills will not give the results that we want. Communication just like many other skills requires us to work on our mindset first and then learning the skillset and the tools required to communicate well. The team at learning insights focuses on building the Mindset."
+    },
+    {
+      "name": "Career Development",
+      "sequence": 1,
+      "description": "The Learning Insights knows that each organization demands are different and that is the reason why all our career development training programs are customized to meet the needs of the organization and individuals."
+    },
+    {
+      "name": "Leadership Development",
+      "sequence": 2,
+      "description": "Our leadership development programs are designed using in-side out approach. We believe that personal leadership philosophies influence the way leaders influence their people and the business. And that is why the focus of all our leadership starts with personal leadership. This enables leaders with all the required personal leadership characteristics that is needed to lead the workforce and the business."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:10.829Z",
+  "enhanced_description": "Learning Insights partners with clients to design and deliver 100% customized, practical, and action-driven training programs aimed at resolving current challenges and meeting future aspirations. The core objective is enabling talent to achieve higher levels of productivity and performance. Key service areas include Communication Development, which focuses on building the correct mindset for effective communication before skills; Career Development, with programs tailored to specific organizational and individual needs; and Leadership Development, utilizing an 'inside-out' approach that emphasizes personal leadership philosophies. The service offers an extensive catalog of 80+ learning courses designed to address in-demand skills and align with organizational challenges.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Resolving organizational challenges through customized training",
+    "Enabling talent for increased productivity and performance",
+    "Developing communication skills within the workforce",
+    "Facilitating career growth and development for individuals",
+    "Cultivating effective leadership capabilities across all levels"
+  ],
+  "competitive_advantages": [
+    "100% customized, practical, and action-driven training programs",
+    "Focus on mindset first for communication development",
+    "Inside-out approach to leadership development, starting with personal leadership",
+    "Extensive library of 80+ learning courses"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Talent Management",
+    "Career Management",
+    "Leadership Development"
+  ],
+  "roi_benefits": [
+    "Resolution of current organizational challenges",
+    "Achievement of future organizational aspirations",
+    "Increased employee productivity",
+    "Improved employee performance",
+    "Enhanced learning efficiency",
+    "Increased training effectiveness",
+    "Accelerated learning speed"
+  ],
+  "searchable_keywords": [
+    "Learning Insights",
+    "Training programs",
+    "Customized training",
+    "Practical training",
+    "Action-driven training",
+    "Learning and Development",
+    "Talent Management",
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Learning speed",
+    "Workforce diversity",
+    "Enabling talent",
+    "Productivity",
+    "Performance",
+    "Communication development",
+    "Career development",
+    "Leadership development",
+    "Corporate training",
+    "Employee training",
+    "Workforce development",
+    "Training courses"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Organizational Leaders",
+    "Employees (as learners)"
+  ],
+  "scalability_features": [
+    "Ability to deliver customized training programs across small, large, and global enterprises"
+  ],
+  "_weight": 1
+}

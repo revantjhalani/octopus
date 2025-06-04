@@ -1,0 +1,134 @@
+{
+  "id": 793,
+  "name": "Klay Schools",
+  "description": "At KLAY, we go the extra mile, surpassing the conventional daycare and preschool experience. Our passionate team, state-of-the-art facilities, stringent health and safety protocols and thoughtfully designed learning approach combine to provide a safe, secure and enriching place for your child. Join us at KLAY, where together we'll nurture your little one\u2019s holistic growth and development.",
+  "features": [
+    "Foundational Development Program",
+    "Trusted by Corporates",
+    "At KLAY, we take the safety of our children, teachers and staff very seriously and all our operations are aligned to ensure KLAY is always a safe and happy place for all."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Course authoring",
+    "Corporate LMS",
+    "Learning Experience Systems (LXPs)"
+  ],
+  "tags": [
+    "Learning optimisation",
+    "Continuous learning"
+  ],
+  "headquarter": "Bangalore , Karnataka",
+  "launch_date": "2011",
+  "order": 20746,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "ndia's largest network of non-franchised Child Development and Care Centres",
+  "ProductId": null,
+  "ShortDescription": "KLAY is India\u2019s leading chain of child development and care centres, valued for supporting over 60,000 families through top-notch learning and care for their children.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Develop a warm, caring relationship with children",
+      "sequence": 0,
+      "description": "Show them that you care deeply about them. Express joy in who they are."
+    },
+    {
+      "name": "Establish routines",
+      "sequence": 1,
+      "description": "Create routines and rituals for special times during the day like mealtime, nap time, and bedtime."
+    },
+    {
+      "name": "Encourage safe exploration and play",
+      "sequence": 2,
+      "description": "Give children opportunities to move around, explore and play."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:33.861Z",
+  "enhanced_description": "KLAY Schools, India's largest network of non-franchised Child Development and Care Centres, goes beyond conventional daycare and preschool by providing a safe, secure, and enriching environment for children's holistic growth and development. Trusted by corporates, KLAY offers a Foundational Development Program, state-of-the-art facilities, and stringent health and safety protocols, supporting over 60,000 families with top-notch learning and care for their children.",
+  "target_industries": [
+    "Corporate sector"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Providing employee childcare benefits",
+    "Offering family support to working parents",
+    "Enabling employee productivity by addressing childcare needs"
+  ],
+  "competitive_advantages": [
+    "India's largest network of non-franchised Child Development and Care Centres",
+    "Supports over 60,000 families",
+    "Offers a Foundational Development Program",
+    "Features state-of-the-art facilities",
+    "Adheres to stringent health and safety protocols",
+    "Focuses on holistic child growth and development"
+  ],
+  "hr_functions_supported": [
+    "Employee Benefits",
+    "Employee Well-being",
+    "Talent Attraction",
+    "Talent Retention"
+  ],
+  "roi_benefits": [
+    "Improved employee productivity and focus",
+    "Enhanced talent attraction and retention through family-friendly benefits",
+    "Reduced employee stress related to childcare"
+  ],
+  "searchable_keywords": [
+    "Klay Schools",
+    "childcare",
+    "daycare",
+    "preschool",
+    "child development",
+    "corporate daycare",
+    "employee benefits",
+    "family support",
+    "India",
+    "early childhood education"
+  ],
+  "primary_users": [
+    "HR departments (corporate clients)",
+    "Parents (employees utilizing the service)"
+  ],
+  "compliance_features": [
+    "Stringent health and safety protocols"
+  ],
+  "scalability_features": [
+    "India's largest network of centers",
+    "Capable of supporting a large number of families and corporate clients"
+  ],
+  "security_features": [
+    "Focus on safety of children, teachers, and staff"
+  ],
+  "_weight": 1
+}

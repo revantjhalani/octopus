@@ -1,0 +1,156 @@
+{
+  "id": 523,
+  "name": "CXL Group",
+  "description": "CareerXcell, founded in 2008, initially focused on training and placing unemployed graduates to combat high unemployment rates and equip them for the job market. As the company grew, a contingent workforce division was established in 2010 to meet the increasing demands of Malaysia\u2019s gig economy. Leveraging extensive experience in the HR industry and expertise in statutory compliance, the payroll and HR outsourcing division was created in 2012, offering reliable and cost-effective solutions to Malaysian businesses. In 2020, CareerXcell embarked on a new venture with The Ability Center, Japan, marking the beginning of a new era as CXL. Expansion plans were set in motion, leading to the establishment of the Executive Search division, which employs a unique recruitment methodology tailored to today\u2019s business landscape. In 2023 CXL merged with Whyze Solutions, a Singapore based HR & Payroll platform provider. This was an opportunity to create competitive advantage and value, while ensuring sustainability, through digital transformation is more compelling than ever. Backed by over 30 years of combined experience in Malaysia and equipped with shared resources, our team continuously strives to set the benchmark by delivering innovative solutions that truly matter to businesses.",
+  "features": [
+    "Our Platform has Processed More Then 600 Million Ringgit worth salary payout ",
+    "Our platform is being used in various industries such as Oil & Gas, Health Care, Fintech, Government Agency and Banking.",
+    "A platform designed on digital environment under our national digital initiatives."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Talent acquisition suites",
+    "HR management suites",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    ""
+  ],
+  "headquarter": "Kuala Lumpur, Malaysia",
+  "launch_date": "2008",
+  "order": 20483,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "BUILT BY HR PROFESSIONALS FOR EMPLOYERS & THE WORKFORCE",
+  "ProductId": null,
+  "ShortDescription": "We focused on training and placing unemployed graduates to help reduce unemployment rates in the country and ensure our graduates are better equipped to join the workforce.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:29:14.854Z",
+  "enhanced_description": "CXL Group, originally CareerXcell founded in 2008, has evolved from its initial focus on training and placing unemployed graduates to become a comprehensive HR technology and services provider. It now offers robust solutions for contingent workforce management, payroll and HR outsourcing, and executive search. Leveraging its extensive experience in the HR industry and expertise in statutory compliance, CXL Group delivers reliable and cost-effective solutions to businesses in Malaysia. Following its merger with Singapore-based HR & Payroll platform provider, Whyze Solutions, in 2023, CXL Group now operates a digital platform that has processed over 600 Million Ringgit in salary payouts. The combined entity, with over 30 years of experience, is committed to driving digital transformation and delivering innovative HR solutions across various industries, including Oil & Gas, Health Care, Fintech, Government Agency, and Banking.",
+  "target_industries": [
+    "Oil & Gas",
+    "Health Care",
+    "Fintech",
+    "Government Agency",
+    "Banking"
+  ],
+  "key_use_cases": [
+    "Training and placement of unemployed graduates",
+    "Managing contingent workforce and gig economy demands",
+    "Payroll processing and management",
+    "HR outsourcing services",
+    "Executive search and recruitment",
+    "Talent acquisition and sourcing",
+    "Talent management"
+  ],
+  "competitive_advantages": [
+    "Over 30 years of combined HR industry experience in Malaysia and Singapore",
+    "Expertise in statutory compliance",
+    "Offers cost-effective payroll and HR outsourcing solutions",
+    "Employs a unique recruitment methodology for executive search",
+    "Platform capable of processing high volumes of salary payouts (over 600 Million Ringgit)",
+    "Focus on digital transformation and innovative solutions",
+    "Merger with a regional HR & Payroll platform provider (Whyze Solutions) for enhanced capabilities"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based platform deployment",
+    "Full HR outsourcing services",
+    "Payroll outsourcing services"
+  ],
+  "hr_functions_supported": [
+    "Training and Development",
+    "Placement and Staffing",
+    "Contingent Workforce Management",
+    "Payroll Administration",
+    "HR Outsourcing",
+    "Executive Search",
+    "Recruitment",
+    "Talent Acquisition",
+    "Talent Management"
+  ],
+  "roi_benefits": [
+    "Reduced unemployment rates (initial focus)",
+    "Equipping graduates for the job market",
+    "Cost-effective HR and payroll solutions",
+    "Increased hiring manager confidence and productivity",
+    "Faster and more efficient hiring of top talent",
+    "Value creation through digital transformation",
+    "Ensuring business sustainability through digital initiatives"
+  ],
+  "searchable_keywords": [
+    "CXL Group",
+    "CareerXcell",
+    "HR Tech",
+    "HR Technology",
+    "HR Software",
+    "Payroll",
+    "HR Outsourcing",
+    "Contingent Workforce Management",
+    "Gig Economy",
+    "Executive Search",
+    "Recruitment",
+    "Talent Acquisition",
+    "Talent Management",
+    "Staffing",
+    "Hiring",
+    "Talent Sourcing",
+    "Malaysia HR",
+    "Singapore HR",
+    "Statutory Compliance",
+    "Digital Transformation",
+    "Graduate Placement"
+  ],
+  "primary_users": [
+    "Employers",
+    "Hiring Managers",
+    "HR Professionals",
+    "Contingent Workers",
+    "Unemployed Graduates",
+    "Businesses"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "compliance_features": [
+    "Expertise in statutory compliance (Malaysian, implied Singaporean)"
+  ],
+  "scalability_features": [
+    "Platform demonstrated capability to process large salary payouts (over 600 Million Ringgit)"
+  ],
+  "_weight": 1
+}

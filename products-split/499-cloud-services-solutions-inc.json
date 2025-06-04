@@ -1,0 +1,143 @@
+{
+  "id": 499,
+  "name": "Cloud Services Solutions Inc",
+  "description": "We provide cost-effective ERP application solutions and strategic consulting services that allow Higher Education, Government agencies and Commercial clients to measurably improve the performance and efficiency of their resources and business processes. Our services are designed to join your resources and business processes with your technology. Regardless of whether your upcoming initiative involves a new implementation, upgrade, or strategic enhancement, We can provide the necessary expertise to ensure your project is a success",
+  "features": [
+    "ACHIEVE SENIOR LEVEL QUALIFICATIONS",
+    " EXPERIENCE ADVANCEMENT OPPORTUNITIES",
+    "EARN COMPETITIVE COMPENSATION"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Talent Management",
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Workforce management",
+    "HR management suites",
+    "Recruitment agencies",
+    "HR consulting providers",
+    "Recruiting automation software",
+    "Software and Services Related to HR Software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "headquarter": "Wilmington, Delaware",
+  "launch_date": "2017",
+  "order": 20459,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Providing Innovative Cloud Solution Across the Globe",
+  "ProductId": null,
+  "ShortDescription": "We provide cost-effective ERP application solutions and strategic consulting services that allow Higher Education, Government agencies and Commercial clients to measurably improve the performance and efficiency of their resources and business processes.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:28:44.638Z",
+  "enhanced_description": "Cloud Services Solutions Inc provides cost-effective ERP application solutions and strategic consulting services tailored for Higher Education, Government agencies, and Commercial clients. Their offerings focus on improving the performance and efficiency of resources and business processes by integrating technology. Services include new system implementations, upgrades, and strategic enhancements. As an innovative cloud solution provider, they specialize in HR technology, covering areas such as Talent Management, Recruiting, Workforce Management, and HR Management Suites. They also act as HR consulting providers and recruitment agencies, offering recruiting automation and software to help organizations hire top talent faster and more efficiently, boosting hiring manager confidence and productivity.",
+  "target_industries": [
+    "Higher Education",
+    "Government agencies",
+    "Commercial clients"
+  ],
+  "key_use_cases": [
+    "ERP system implementation and upgrades",
+    "Strategic enhancement of business processes and technology",
+    "Improving resource performance and efficiency",
+    "Recruiting top talent faster and more efficiently",
+    "Boosting hiring manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "Cost-effective ERP application solutions",
+    "Strategic consulting services",
+    "Expertise to ensure project success",
+    "Innovative cloud solution",
+    "Ability to measurably improve performance and efficiency"
+  ],
+  "implementation_scenarios": [
+    "New system implementation",
+    "System upgrade",
+    "Strategic enhancement"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Recruiting",
+    "Workforce management",
+    "HR management",
+    "HR consulting"
+  ],
+  "technology_stack": [
+    "Cloud Services",
+    "ERP application solutions",
+    "Recruiting automation software",
+    "Recruiting software"
+  ],
+  "roi_benefits": [
+    "Cost-effective solutions",
+    "Measurable improvement in performance and efficiency of resources and business processes",
+    "Faster and more efficient hiring of top talent",
+    "Boosted hiring manager confidence and productivity",
+    "Ensured project success"
+  ],
+  "searchable_keywords": [
+    "cloud ERP",
+    "ERP solutions",
+    "strategic consulting",
+    "HR technology",
+    "Talent Management",
+    "Recruiting software",
+    "Recruiting automation",
+    "Workforce management",
+    "HR management suites",
+    "HR consulting",
+    "recruitment agencies",
+    "higher education solutions",
+    "government solutions",
+    "commercial sector solutions",
+    "business process efficiency",
+    "performance improvement",
+    "new implementations",
+    "system upgrades",
+    "talent acquisition",
+    "hiring managers",
+    "cost-effective solutions"
+  ],
+  "primary_users": [
+    "Higher Education institutions (client)",
+    "Government agencies (client)",
+    "Commercial clients (client)",
+    "HR professionals",
+    "Recruiters",
+    "Hiring Managers",
+    "IT/Business Process stakeholders"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "_weight": 1
+}

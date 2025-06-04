@@ -1,0 +1,127 @@
+{
+  "id": 702,
+  "name": "IHRME",
+  "description": "IHRME's global network of seminar designers is drawn from the world's HRM thought leaders. IHRME resources provide the HRM profession with practical and applicable techniques and strategies that work.The HRM profession is in a dynamic period of change these days. HR practitioners are called upon to be strategic business partners with increasing responsibility for organizational success.",
+  "features": [
+    "Onsite options",
+    "Retaining key employees",
+    "Harmonize the challenge"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Diversity and inclusion",
+    "Learning analytics"
+  ],
+  "headquarter": "Abu Dhabi",
+  "launch_date": "",
+  "order": 20656,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Effectively manage, motivate and develop your people",
+  "ProductId": null,
+  "ShortDescription": "Effectively managing, motivating and developing people are key to organizational success. Organizations that succeed understand the value of employee commitment and contribution",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:49.943Z",
+  "enhanced_description": "IHRME provides comprehensive learning and development resources, including seminars designed by a global network of HRM thought leaders. Their offerings equip HR professionals with practical and applicable techniques and strategies for effectively managing, motivating, and developing their people. The focus is on fostering employee commitment and contribution, contributing to organizational success, and addressing contemporary HR challenges such as retaining key employees and building a more diverse and inclusive workforce. IHRME offers onsite training options and operates within the Corporate LMS and Training & Development sectors, utilizing learning analytics and focusing on diversity and inclusion initiatives.",
+  "key_use_cases": [
+    "Developing HR professionals' skills and strategies",
+    "Retaining key employees",
+    "Building a more diverse and inclusive workforce",
+    "Providing onsite employee development and training"
+  ],
+  "competitive_advantages": [
+    "Global network of seminar designers drawn from world's HRM thought leaders",
+    "Focus on practical and applicable HR techniques and strategies",
+    "Expertise in addressing contemporary HR challenges, including diversity and inclusion"
+  ],
+  "implementation_scenarios": [
+    "Onsite training delivery",
+    "Integration with or provision of Corporate Learning Management Systems"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Diversity and Inclusion",
+    "Talent Management (employee retention and development)"
+  ],
+  "integration_capabilities": [
+    "LMS integration or provision"
+  ],
+  "roi_benefits": [
+    "Improved employee commitment and contribution",
+    "Enhanced organizational success",
+    "Effective retention of key employees",
+    "Development of strategic HR business partners"
+  ],
+  "searchable_keywords": [
+    "IHRME",
+    "HRM",
+    "HR profession",
+    "HR practitioners",
+    "strategic business partners",
+    "organizational success",
+    "practical techniques",
+    "strategies",
+    "thought leaders",
+    "global network",
+    "seminar designers",
+    "Onsite training",
+    "employee retention",
+    "retaining employees",
+    "diverse workforce",
+    "inclusive workforce",
+    "diversity",
+    "inclusion",
+    "Learning and Development",
+    "Corporate LMS",
+    "Training",
+    "development companies",
+    "learning analytics",
+    "manage people",
+    "motivate people",
+    "develop people",
+    "employee commitment",
+    "employee contribution"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "HR practitioners",
+    "Strategic HR business partners"
+  ],
+  "deployment_options": [
+    "Onsite",
+    "LMS-based"
+  ],
+  "_weight": 1
+}

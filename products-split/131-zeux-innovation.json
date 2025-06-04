@@ -1,0 +1,145 @@
+{
+  "id": 131,
+  "name": "Zeux innovation",
+  "description": "ZEUX Innovation is a leading UX design agency in India that offers outcome-driven and user-centric design solutions. Our focus as a pure play UX design company allows us to work exclusively on designing great user experiences, build deep expertise in UX design and stay up-to-date with the latest trends and best practices. With top talent in the industry, we craft experiences that users absolutely love. Today, we boast a diverse portfolio, a formidable client base, and are among the top three \u201cUI UX Design Agency\u201d by Clutch in India rankings.",
+  "features": [
+    "Outcome-Oriented Focus",
+    "Process-Driven Approach",
+    "Experienced Leadership"
+  ],
+  "founders": [
+    "Hemant Gathani",
+    "Saurabh Gupta"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Skill development"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2016",
+  "order": 20098,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Empowering businesses through exceptional digital experiences",
+  "ProductId": null,
+  "ShortDescription": "Outcome Driven UX",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Proven Track Record",
+      "sequence": 0,
+      "description": "Proven track record of successfully leading 250+ UX design projects. "
+    },
+    {
+      "name": "Global Reach",
+      "sequence": 1,
+      "description": "They cater to a global client base, demonstrating their adaptability and understanding of diverse user needs."
+    },
+    {
+      "name": "Diverse Service Portfolio",
+      "sequence": 2,
+      "description": "ZEUX has a healthy pipeline of projects across sectors like Banking, Tech, E-commerce, Education, Media, Insurance, etc."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:00.493Z",
+  "enhanced_description": "ZEUX Innovation is a leading UX design agency based in Mumbai, India, recognized among the top three UI UX Design Agencies by Clutch in India rankings. They specialize in outcome-driven and user-centric design solutions, building deep expertise in UX design by focusing exclusively on creating great user experiences. With a proven track record of successfully leading over 250 UX design projects, ZEUX Innovation caters to a global client base and works across diverse sectors including Banking, Tech, E-commerce, Education, Media, and Insurance. Their services are designed to empower businesses through exceptional digital experiences, contributing to objectives such as accelerating skill development and learning efficiency, particularly within the domain of HR software and services.",
+  "target_industries": [
+    "Banking",
+    "Technology",
+    "E-commerce",
+    "Education",
+    "Media",
+    "Insurance"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Designing user interfaces (UI) and user experiences (UX) for digital products and services",
+    "Creating outcome-driven and user-centric design solutions",
+    "Improving user engagement and satisfaction for digital platforms",
+    "Developing user experience for HR software and services",
+    "Designing learning platforms to accelerate skill development and learning efficiency"
+  ],
+  "competitive_advantages": [
+    "Leading UX design agency in India",
+    "Ranked among top three 'UI UX Design Agency' by Clutch in India",
+    "Pure play UX design company with deep expertise",
+    "Outcome-Oriented Focus",
+    "Process-Driven Approach",
+    "Experienced Leadership",
+    "Proven track record with 250+ successful UX design projects",
+    "Global client reach",
+    "Diverse service portfolio across multiple sectors"
+  ],
+  "implementation_scenarios": [
+    "Project-based engagements for UX/UI design",
+    "Consultative design services"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development (L&D) - through design of learning platforms",
+    "HR Technology (user experience design for HR software)"
+  ],
+  "roi_benefits": [
+    "Improved user experience and engagement for digital products",
+    "Accelerated skill development and learning efficiency (for designed learning platforms)",
+    "Achievement of specific business outcomes through outcome-driven design"
+  ],
+  "searchable_keywords": [
+    "Zeux innovation",
+    "UX design agency",
+    "UI UX Design Agency",
+    "user experience design",
+    "digital experiences",
+    "outcome-driven design",
+    "user-centric design",
+    "India",
+    "Mumbai",
+    "skill development",
+    "HR software",
+    "learning efficiency",
+    "design solutions",
+    "pure play UX",
+    "UI design",
+    "digital product design",
+    "experience design"
+  ],
+  "primary_users": [
+    "Businesses seeking UX/UI design services",
+    "Product Managers",
+    "Heads of Digital Transformation",
+    "HR Technology teams (for HR software design projects)"
+  ],
+  "_weight": 1
+}

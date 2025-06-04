@@ -1,0 +1,149 @@
+{
+  "id": 240,
+  "name": "Qualee",
+  "description": "Qualee is an award-winning employee experience platform designed to empower organizational alignment and belonging. We make it simple for companies of all sizes to drive continuous engagement, gather actionable insights, and curate exciting journeys. Our A.I. enabled solution allows the creation of interactive workflows, automates compliance requirements, and measurably improves engagement. Qualee is a diversity-led organization and our platform is offered in twenty of the world\u2019s most widely used languages.",
+  "features": [
+    "Create connection and belonging from anywhere",
+    "Scale the power of your people and business",
+    "Unlock employee insights\nthrough A.I."
+  ],
+  "founders": [
+    "Vipula Samarakoon"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Onboarding software",
+    "Career management software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee enagement strategies"
+  ],
+  "headquarter": "Singapore, SG",
+  "launch_date": "2017",
+  "order": 20206,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Employee experiences to power business success",
+  "ProductId": null,
+  "ShortDescription": "Qualee creates better employee experiences with all the data insights along the way",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Employee Engagement",
+      "sequence": 0,
+      "description": "Actionable insights by giving everyone a voice."
+    },
+    {
+      "name": "Impactful Transitions",
+      "sequence": 1,
+      "description": "Create ambassadors at every occasion."
+    },
+    {
+      "name": " Learning & Skills",
+      "sequence": 2,
+      "description": "A growth culture built on continuous learning."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:57.198Z",
+  "enhanced_description": "Qualee is an award-winning, A.I.-enabled employee experience platform designed to foster organizational alignment, belonging, and continuous engagement. It supports companies of all sizes by simplifying the creation of interactive workflows, automating compliance, and providing actionable insights. The platform curates exciting employee journeys across various HR functions, including onboarding, career management, impactful transitions, and continuous learning and skill development. Qualee measurably improves engagement and delivers actionable insights by giving every employee a voice. It is globally accessible, offered in twenty of the world's most widely used languages.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee onboarding",
+    "Employee engagement",
+    "Employee insights generation",
+    "Compliance automation",
+    "Interactive workflow creation",
+    "Career management",
+    "Continuous learning",
+    "Skill development",
+    "Internal mobility",
+    "Employee offboarding"
+  ],
+  "competitive_advantages": [
+    "AI-powered insights and workflows",
+    "Automated compliance requirements",
+    "Multi-language support (20 languages)",
+    "Designed for all company sizes",
+    "Award-winning platform"
+  ],
+  "hr_functions_supported": [
+    "Onboarding",
+    "Talent Management",
+    "Employee Engagement",
+    "Career Development",
+    "Learning & Development",
+    "Offboarding",
+    "Internal Mobility"
+  ],
+  "roi_benefits": [
+    "Improved employee engagement",
+    "Enhanced organizational alignment and belonging",
+    "Actionable insights for decision-making",
+    "Automated compliance processes",
+    "Scalability of people operations",
+    "Improved employee happiness",
+    "Enhanced employee connection and retention"
+  ],
+  "searchable_keywords": [
+    "Qualee",
+    "employee experience platform",
+    "employee engagement",
+    "onboarding software",
+    "talent management",
+    "career management",
+    "AI HR",
+    "employee insights",
+    "compliance automation",
+    "organizational alignment",
+    "employee belonging",
+    "learning and development",
+    "internal mobility",
+    "HR software",
+    "employee retention",
+    "interactive workflows"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Employees"
+  ],
+  "compliance_features": [
+    "Automated compliance requirements management"
+  ],
+  "scalability_features": [
+    "Designed for scalability across all company sizes",
+    "Scales the power of people and business"
+  ],
+  "_weight": 1
+}

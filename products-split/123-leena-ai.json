@@ -1,0 +1,178 @@
+{
+  "id": 123,
+  "name": "Leena AI",
+  "description": "Leena AI's Gen AI-powered Autonomous Agent, driven by the proprietary WorkLM, revolutionizes global enterprises by boosting productivity and efficiency. It minimizes IT, HR, and Finance tickets, ensuring a seamless experience across tech stacks. With a 70% self-service guarantee, WorkLM delivers human-like responses, integrating with over 1,000 applications. Trusted by top enterprises, Leena AI supports 100+ languages, transforming work for millions globally.",
+  "features": [
+    "Boost IT efficiency",
+    "Streamline HR initiatives",
+    "Drive Sales success"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "HR analytics software",
+    "HR management suites",
+    "Employee engagement software",
+    "Employee grievance",
+    "Experience Software",
+    "Talent management software",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee satisfaction",
+    "Employee development",
+    "Employee empowerment",
+    "Employee happiness programs",
+    "Employee happiness metrics"
+  ],
+  "headquarter": "San Francisco, California",
+  "launch_date": "2018",
+  "order": 20090,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Revolutionizing employee\n experience\n for enterprises",
+  "ProductId": null,
+  "ShortDescription": "Unlock the potential of a future-ready employee experience",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Information at your fingertips",
+      "sequence": 0,
+      "description": " Leena AI consolidates information across systems, giving teams easy access to what they need."
+    },
+    {
+      "name": "Uncover enterprise insights",
+      "sequence": 1,
+      "description": "Leena AI uncovers insights from data to help businesses make informed strategic choices."
+    },
+    {
+      "name": "Workflow automation",
+      "sequence": 2,
+      "description": " Leena AI streamlines processes, reducing tickets and manual tasks. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:20:49.628Z",
+  "enhanced_description": "Leena AI offers a Gen AI-powered Autonomous Agent, leveraging its proprietary WorkLM, designed to revolutionize the employee experience for global enterprises. This solution boosts productivity and efficiency by minimizing IT, HR, and Finance tickets, ensuring a seamless experience across diverse tech stacks. WorkLM guarantees a 70% self-service rate, delivering human-like responses and integrating with over 1,000 applications. Trusted by top enterprises, it supports over 100 languages, transforming work for millions globally. Key capabilities include consolidating information for easy access across systems, uncovering enterprise insights from data to inform strategic choices, and automating workflows to reduce manual tasks and tickets. It aims to streamline HR initiatives, improve employee happiness and engagement, and support areas like employee satisfaction, development, empowerment, and grievance handling, while also boosting IT efficiency and driving sales success.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Minimizing IT, HR, and Finance support tickets",
+    "Boosting employee productivity and efficiency",
+    "Enabling 70% employee self-service",
+    "Streamlining HR initiatives",
+    "Improving employee happiness and engagement",
+    "Uncovering enterprise insights from HR and operational data",
+    "Automating internal workflows",
+    "Facilitating employee development and empowerment",
+    "Driving Sales success",
+    "Consolidating information for quick access"
+  ],
+  "competitive_advantages": [
+    "Gen AI-powered Autonomous Agent technology",
+    "Proprietary WorkLM AI model",
+    "Guaranteed 70% self-service rate",
+    "Human-like responses from AI",
+    "Extensive integration with over 1,000 applications",
+    "Support for 100+ languages",
+    "Proven trust by top global enterprises",
+    "Ability to minimize IT, HR, and Finance tickets across departments"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "HR Analytics",
+    "HR Management",
+    "Employee Engagement",
+    "Employee Grievance Management",
+    "Employee Experience",
+    "Employee Development"
+  ],
+  "technology_stack": [
+    "Generative AI",
+    "WorkLM (proprietary AI model)"
+  ],
+  "integration_capabilities": [
+    "Integration with over 1,000 third-party applications",
+    "Consolidation of information across disparate systems"
+  ],
+  "roi_benefits": [
+    "Increased employee productivity",
+    "Enhanced operational efficiency",
+    "Reduced IT, HR, and Finance support costs (due to ticket minimization and self-service)",
+    "Improved employee happiness and engagement",
+    "Better informed strategic decision-making (from insights)",
+    "Reduced manual tasks and streamlined processes"
+  ],
+  "searchable_keywords": [
+    "Leena AI",
+    "AI HR",
+    "Generative AI",
+    "WorkLM",
+    "HR Technology",
+    "Employee Experience",
+    "Employee Engagement",
+    "HR Self-service",
+    "IT Self-service",
+    "Finance Self-service",
+    "Internal Communications",
+    "Workflow Automation",
+    "HR Analytics",
+    "Talent Management",
+    "Employee Productivity",
+    "Operational Efficiency",
+    "HR Chatbot",
+    "AI Assistant",
+    "Employee Support",
+    "Grievance Management",
+    "Employee Development",
+    "Enterprise AI",
+    "Global AI",
+    "Multi-language support",
+    "Employee Satisfaction",
+    "Employee Empowerment",
+    "Enterprise Insights"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Teams",
+    "IT Teams",
+    "Finance Teams",
+    "Sales Teams",
+    "Business Leaders"
+  ],
+  "scalability_features": [
+    "Designed for global enterprises and millions of users",
+    "Supports over 100 languages"
+  ],
+  "_weight": 1
+}

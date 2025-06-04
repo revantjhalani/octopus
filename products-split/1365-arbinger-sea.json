@@ -1,0 +1,189 @@
+{
+  "id": 1365,
+  "name": "Arbinger SEA",
+  "description": "\"Combining the results of four decades of groundbreaking scholarly work on the phenomenon known as self-deception, Arbinger has built a simple yet profoundly effective framework for improving the influence of every leader and individual, whether at home or in the workplace.\n\nArbinger\u2019s work is being used with resounding success in the areas of Leadership Development, Change Management, Conflict Transformation and creating high performing teams that propel organizations to higher plateaus of business excellence.\"",
+  "features": [
+    "Enabling mindset change",
+    "Leadership Development",
+    "Organisational Transformation"
+  ],
+  "founders": [],
+  "price": [
+    {
+      "name": "",
+      "type": "",
+      "price": "",
+      "description": ""
+    }
+  ],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Personalised learning",
+    "Skill development",
+    "Training effectiveness",
+    "Adaptive learning",
+    "Company culture",
+    "Employee empowerment",
+    "Employee development"
+  ],
+  "headquarter": "Farmington, Utah",
+  "launch_date": "1979",
+  "order": 999,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Bringing Humanity to the Workplace",
+  "ProductId": null,
+  "ShortDescription": "Arbinger enables organizations and individuals to resolve their deepest and most difficult people problems\u2014 problems that have persisted despite all efforts to resolve them.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": [
+      {
+        "times": [
+          {
+            "description": ""
+          }
+        ],
+        "header": "",
+        "sequence": 0,
+        "videourl": "",
+        "description": ""
+      }
+    ]
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Focus on Mindset",
+      "sequence": 0,
+      "description": "Arbinger is a company that offers leadership training."
+    },
+    {
+      "name": "Outward Mindset for Success",
+      "sequence": 1,
+      "description": "Arbinger helps people develop a mindset that leads to better teamwork and results."
+    },
+    {
+      "name": "Variety of Training Options",
+      "sequence": 2,
+      "description": "They offer a variety of services including assessments, workshops, and webinars."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": true,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-12T08:04:17.385Z",
+  "enhanced_description": "Arbinger SEA offers a unique and profoundly effective framework, rooted in four decades of scholarly work on self-deception, designed to enhance the influence of leaders and individuals within organizations. This approach helps resolve persistent and complex 'people problems' and fosters an 'outward mindset' crucial for improved teamwork and business results. Arbinger's solutions are applied across Leadership Development, Change Management, Conflict Transformation, and in building high-performing teams to drive organizational transformation and excellence. Delivery methods include assessments, workshops, and webinars, focusing on accelerating skill development, improving employee happiness, and boosting engagement.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Leadership Development",
+    "Change Management",
+    "Conflict Transformation",
+    "Creating high-performing teams",
+    "Organizational Transformation",
+    "Enabling mindset change",
+    "Resolving complex people problems",
+    "Improving company culture",
+    "Employee empowerment and development"
+  ],
+  "competitive_advantages": [
+    "Framework built on four decades of scholarly work on self-deception",
+    "Focus on mindset change for profound and lasting impact",
+    "Simple yet profoundly effective framework",
+    "Ability to resolve deeply rooted and persistent people problems",
+    "Specialization in developing an 'Outward Mindset' for improved teamwork and results"
+  ],
+  "implementation_scenarios": [
+    "Structured training programs delivered via assessments",
+    "Interactive workshops (in-person or virtual)",
+    "Webinars",
+    "Integration with eLearning software and Learning Experience Systems (LXPs)"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Organizational Development",
+    "Employee Engagement",
+    "Talent Management (specifically leadership and skill development)"
+  ],
+  "roi_benefits": [
+    "Improved influence of leaders and individuals",
+    "Propels organizations to higher plateaus of business excellence",
+    "Accelerated skill development and learning efficiency",
+    "Improved employee happiness and engagement",
+    "Resolution of deep and difficult people problems",
+    "Better teamwork and results"
+  ],
+  "searchable_keywords": [
+    "Arbinger SEA",
+    "self-deception",
+    "mindset change",
+    "leadership development",
+    "organizational transformation",
+    "change management",
+    "conflict transformation",
+    "high performing teams",
+    "skill development",
+    "learning efficiency",
+    "employee happiness",
+    "employee engagement",
+    "training effectiveness",
+    "personalized learning",
+    "adaptive learning",
+    "company culture",
+    "employee empowerment",
+    "outward mindset",
+    "assessments",
+    "workshops",
+    "webinars",
+    "HR tech",
+    "humanity in the workplace",
+    "people problems",
+    "learning and development",
+    "eLearning software",
+    "LXP",
+    "training & development"
+  ],
+  "primary_users": [
+    "Leaders",
+    "Managers",
+    "Individual Contributors",
+    "Teams",
+    "HR Professionals (especially L&D and OD roles)"
+  ],
+  "deployment_options": [
+    "Cloud-based (implied for LXP/eLearning components)",
+    "Blended learning approach (combining digital and live training elements)"
+  ],
+  "scalability_features": [
+    "Designed for Large and Global Enterprises",
+    "Framework is widely applicable across individuals and teams",
+    "Offers various delivery methods (assessments, workshops, webinars) that can scale"
+  ],
+  "_weight": 1
+}

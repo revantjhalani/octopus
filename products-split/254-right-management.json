@@ -1,0 +1,146 @@
+{
+  "id": 254,
+  "name": "Right Management",
+  "description": "Employees are more empowered, reframing their work lives beyond jobs to careers. These personal growth journeys combine sustainable employment, purpose, and impact to achieve individual potential. Our assessment, coaching, leadership, career development, mobility and change and outplacement programs integrate that philosophy into everything that we do. Our advisory team works with you to understand\n your needs and then configure our solutions to support your company\u2019s goals.",
+  "features": [
+    "Partnering with You",
+    "Designing the Solution",
+    "Delivering the Experience"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Talent management software",
+    "Career management software"
+  ],
+  "tags": [
+    "Employee engagement surveys"
+  ],
+  "headquarter": "Milwaukee, WI",
+  "launch_date": "1980",
+  "order": 20219,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Improve Performance. Elevate Engagement. Increase Retention.",
+  "ProductId": null,
+  "ShortDescription": "Right Management provides global solutions for outplacement, career, and leadership development",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Expert Advice",
+      "sequence": 0,
+      "description": "Our advisory team works with you to understand your needs and then configure our solutions to support your company\u2019s goals."
+    },
+    {
+      "name": "Integrated Learning",
+      "sequence": 1,
+      "description": "Leveraging instructor and digital learning with best-in-class technology to elevate your talent."
+    },
+    {
+      "name": "Scaled for Results",
+      "sequence": 2,
+      "description": "We deliver our solutions at scale - in volume and across the globe - and ensure that outcomes are achieved and measured."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:09.365Z",
+  "enhanced_description": "Right Management provides global solutions for outplacement, career, and leadership development, aimed at improving performance, elevating engagement, and increasing retention. The service empowers employees to reframe their work lives beyond jobs to careers, focusing on personal growth journeys that combine sustainable employment, purpose, and impact to achieve individual potential. Their programs integrate assessment, coaching, leadership, career development, mobility, change management, and outplacement. An advisory team works closely with clients to understand their needs and configure solutions to support their company\u2019s goals, leveraging expert advice, integrated instructor and digital learning with best-in-class technology, and delivering solutions at scale globally to ensure measurable outcomes.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee assessment",
+    "Employee coaching",
+    "Leadership development",
+    "Career development",
+    "Workforce mobility",
+    "Organizational change management",
+    "Outplacement services",
+    "Improving organizational performance",
+    "Elevating employee engagement",
+    "Increasing employee retention"
+  ],
+  "competitive_advantages": [
+    "Expert advisory team for tailored solutions",
+    "Integrated learning approach combining instructor-led and digital learning with best-in-class technology",
+    "Global scalability for high-volume delivery",
+    "Focus on measurable outcomes"
+  ],
+  "implementation_scenarios": [
+    "Consultative and tailored solution configuration based on client needs and company goals"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Career Management",
+    "Leadership Development",
+    "Outplacement",
+    "Change Management",
+    "Employee Assessment",
+    "Employee Engagement",
+    "Employee Retention"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness and Engagement",
+    "Improved Performance",
+    "Elevated Engagement",
+    "Increased Retention",
+    "Achievement of individual potential"
+  ],
+  "searchable_keywords": [
+    "Right Management",
+    "Talent Management",
+    "Career Management",
+    "Outplacement",
+    "Leadership Development",
+    "Employee Engagement",
+    "Employee Retention",
+    "Employee Happiness",
+    "Assessments",
+    "Coaching",
+    "Mobility",
+    "Change Management",
+    "Global Solutions",
+    "Talent management software",
+    "Career management software",
+    "Employee engagement surveys"
+  ],
+  "primary_users": [
+    "Employees (as beneficiaries of development programs)",
+    "HR Professionals (managing talent and organizational development)",
+    "Company Leadership (driving strategic talent initiatives)"
+  ],
+  "deployment_options": [
+    "Blended learning (instructor and digital)"
+  ],
+  "scalability_features": [
+    "Solutions delivered at scale - in volume and across the globe"
+  ],
+  "_weight": 1
+}

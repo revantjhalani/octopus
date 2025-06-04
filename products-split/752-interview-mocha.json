@@ -1,0 +1,163 @@
+{
+  "id": 752,
+  "name": "Interview Mocha",
+  "description": "At iMocha, we leverage AI to help you build a skills-first organization by transforming every employee, and every job role into skills with precise proficiency levels. By helping you create taxonomies for job roles, and skills inventories based on your employees, we can turn you into a truly skills-first organization with actionable data. iMocha (formerly known as interview mocha) is an AI-powered Skills Intelligence Cloud, designed to transform how enterprises approach talent management, talent acquisition, and talent development. We're redefining the talent landscape with a skills-first approach. With multi-channel skills validation, AI-powered technology, combined with our comprehensive library of 2500+ skills, we empower you to derive intelligent insights and unleash the full potential of your workforce.Whether it's strategic workforce planning, supporting internal mobility, managing skills gaps, or enhancing employee development, our platform provides you crucial insights to drive HR and business decisions to become a truly Skills-First organization.",
+  "features": [
+    "Largest Skills Assessment Library",
+    "AI-powered Technology",
+    "Multi-channel Validation"
+  ],
+  "founders": [
+    "Sujit Karpe"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Pre-employment screening software",
+    "Pre-employment testing software",
+    "Recruiting automation software",
+    "Talent acquisition suites",
+    "Applicant tracking system (ATS)",
+    "Video interviewing software"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "Hiring efficiency",
+    "Quality of hire",
+    "Hiring tools",
+    "Hiring process optimization",
+    "Hiring automation",
+    "Hiring analytics",
+    "Data-driven hiring",
+    "Hiring best practices",
+    "Talent acquisition"
+  ],
+  "headquarter": "Claymont, Delaware",
+  "launch_date": "2015",
+  "order": 20705,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Brewing a Skills-first Planet",
+  "ProductId": null,
+  "ShortDescription": "Traditional talent acquisition, and talent management no longer works, because formal jobs can no longer keep up with the changing demands of work and skills.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:46.566Z",
+  "enhanced_description": "iMocha, formerly Interview Mocha, is an AI-powered Skills Intelligence Cloud platform designed to transform how enterprises approach talent management, talent acquisition, and talent development. It enables organizations to build a skills-first approach by transforming employees and job roles into precise skill profiles with proficiency levels. The platform assists in creating job role taxonomies and comprehensive skills inventories based on employees. Leveraging AI-powered technology, multi-channel validation, and a vast library of over 2500 skills, iMocha empowers organizations to derive intelligent insights. These insights are crucial for strategic workforce planning, supporting internal mobility, managing skills gaps, and enhancing employee development, ultimately driving informed HR and business decisions to foster a truly Skills-First organization.",
+  "key_use_cases": [
+    "Building a skills-first organization",
+    "Transforming employees and job roles into skill profiles",
+    "Creating job role taxonomies",
+    "Building employee skills inventories",
+    "Talent management",
+    "Talent acquisition",
+    "Talent development",
+    "Strategic workforce planning",
+    "Supporting internal mobility",
+    "Managing skills gaps",
+    "Enhancing employee development"
+  ],
+  "competitive_advantages": [
+    "AI-powered Skills Intelligence Cloud platform",
+    "Comprehensive library of 2500+ skills assessments",
+    "Multi-channel skills validation",
+    "Skills-first approach to talent management and acquisition",
+    "Ability to derive intelligent insights for HR and business decisions"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Talent Acquisition",
+    "Talent Development",
+    "Strategic Workforce Planning",
+    "Internal Mobility",
+    "Skills Gap Management",
+    "Employee Development"
+  ],
+  "roi_benefits": [
+    "Boost hiring manager confidence",
+    "Increase hiring manager productivity",
+    "Drive informed HR and business decisions",
+    "Unleash full potential of workforce",
+    "Improve hiring efficiency",
+    "Enhance quality of hire"
+  ],
+  "searchable_keywords": [
+    "Interview Mocha",
+    "iMocha",
+    "Skills Intelligence Cloud",
+    "Skills Assessment",
+    "AI-powered HR Tech",
+    "Multi-channel Validation",
+    "Recruiting Software",
+    "Pre-employment Screening Software",
+    "Pre-employment Testing Software",
+    "Recruiting Automation Software",
+    "Talent Acquisition Suites",
+    "Applicant Tracking System (ATS)",
+    "Video Interviewing Software",
+    "Hiring",
+    "Recruiting",
+    "Hiring Manager Confidence",
+    "Hiring Manager Productivity",
+    "Hiring Efficiency",
+    "Quality of Hire",
+    "Hiring Tools",
+    "Hiring Process Optimization",
+    "Hiring Automation",
+    "Hiring Analytics",
+    "Data-driven Hiring",
+    "Hiring Best Practices",
+    "Talent Acquisition",
+    "Skills-first",
+    "Skills Intelligence",
+    "Skills Management",
+    "Workforce Planning",
+    "Internal Mobility",
+    "Employee Development",
+    "Skills Gap Management",
+    "Talent Management",
+    "Talent Development",
+    "Skills Inventory",
+    "Job Role Taxonomy"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Talent Acquisition Teams",
+    "Hiring Managers",
+    "Learning & Development (L&D) Teams",
+    "Business Leaders"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "_weight": 1
+}

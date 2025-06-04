@@ -1,0 +1,148 @@
+{
+  "id": 342,
+  "name": "Wellbe",
+  "description": "Wellbe facilitates remarkable outcomes between patients and providers through its care automation platform. By guiding patients through every step of their acute care journey, whether orthopedics, bariatrics, cardiology, or any other, Wellbe improves preparation for the patient which results in less administrative work for clinical staff and better outcomes for all. Transforming healthcare is not a system or a process, it is a mindset. Everyone\u2019s role is critical to success. When everyone has the access to easily perform their roles, the healthcare system achieves a state of Wellbeing.",
+  "features": [
+    "Increase Patient Engagement",
+    "Improve Financial Results",
+    "Increase Staff Efficiency and performance"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee happiness",
+    "Employee well being",
+    "Employee happiness programs"
+  ],
+  "headquarter": "Madison, WI",
+  "launch_date": "2009",
+  "order": 20304,
+  "weightage": false,
+  "HCM": null,
+  "Headline": " Wellbeing connects and enables every member of the healthcare journey",
+  "ProductId": null,
+  "ShortDescription": "Guided Patient Journeys for Better Access and Navigation",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "ADVOCATE",
+      "sequence": 0,
+      "description": "Be an unabashed patient advocate and be an agent of compassion."
+    },
+    {
+      "name": "COLLABORATE",
+      "sequence": 1,
+      "description": "Collaborate to find and incubate great ideas and drive innovation."
+    },
+    {
+      "name": "GUIDE",
+      "sequence": 2,
+      "description": "Help people help themselves. Anticipate their needs."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:44.180Z",
+  "enhanced_description": "Wellbe, launched in 2009 and headquartered in Madison, WI, is described as a care automation platform designed to guide patients through every step of their acute care journeys, such as orthopedics, bariatrics, and cardiology. This system aims to improve patient preparation, reduce administrative burden for clinical staff, and lead to better patient outcomes. The platform emphasizes patient engagement, improved financial results, and increased staff efficiency and performance within healthcare settings. Despite its explicit focus on patient care in its core description and headline, Wellbe is categorized within HR's Total Rewards and Corporate Wellness software, with a stated business objective to improve employee happiness and engagement through employee well-being programs. Wellbe targets small, large, and global enterprises.",
+  "target_industries": [
+    "Healthcare"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Patient journey automation and guidance",
+    "Improving patient preparation for acute care",
+    "Reducing administrative workload for clinical staff",
+    "Enhancing patient engagement",
+    "Improving financial outcomes in healthcare settings",
+    "Increasing efficiency and performance of healthcare staff",
+    "Supporting corporate wellness programs",
+    "Fostering employee happiness and engagement"
+  ],
+  "competitive_advantages": [
+    "Comprehensive patient journey guidance",
+    "Care automation platform",
+    "Focus on achieving remarkable outcomes",
+    "Reduced administrative burden for clinical staff",
+    "Improved patient outcomes",
+    "Emphasis on patient advocacy and compassion",
+    "Drives innovation through collaboration",
+    "Enables patient self-help and anticipates needs"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards",
+    "Corporate Wellness",
+    "Employee Engagement",
+    "Employee Well-being"
+  ],
+  "roi_benefits": [
+    "Improved financial results",
+    "Increased staff efficiency and performance",
+    "Less administrative work for clinical staff",
+    "Better outcomes for patients",
+    "Improved employee happiness and engagement"
+  ],
+  "searchable_keywords": [
+    "Wellbe",
+    "care automation",
+    "patient journey",
+    "acute care",
+    "orthopedics",
+    "bariatrics",
+    "cardiology",
+    "patient engagement",
+    "financial results",
+    "staff efficiency",
+    "corporate wellness",
+    "employee well-being",
+    "employee happiness",
+    "employee engagement",
+    "total rewards",
+    "healthcare",
+    "patient advocacy",
+    "collaboration",
+    "guidance",
+    "patient navigation",
+    "wellbeing programs"
+  ],
+  "primary_users": [
+    "Patients",
+    "Healthcare Providers",
+    "Clinical Staff",
+    "Employees",
+    "HR Professionals"
+  ],
+  "_weight": 1
+}

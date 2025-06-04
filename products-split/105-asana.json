@@ -1,0 +1,154 @@
+{
+  "id": 105,
+  "name": "Asana",
+  "description": "\nAsana empowers organizations to work smarter. Asana is the only enterprise work management platform that connects company-wide goals, strategic initiatives, and the execution of work in one place. Asana has over 150,000 customers and millions of users in 200+ countries and territories. Customers like Amazon, Roche, and T-Mobile, rely on Asana to manage everything from goal setting and tracking to capacity planning, to product launches. ",
+  "features": [
+    "Work Management",
+    "Project management",
+    "Digital transformation"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Internet of things"
+  ],
+  "tags": [
+    "Internal mobility"
+  ],
+  "headquarter": "San Francisco, California",
+  "launch_date": "2008",
+  "order": 20075,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "On a mission to enable the world's teams to work together effortlessly.",
+  "ProductId": null,
+  "ShortDescription": "Asana is a software-as-a-service platform designed for team collaboration and work management.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Focus on Clarity and Impact",
+      "sequence": 0,
+      "description": "Asana positions itself as the \"#1 AI work management platform\" that allows you to \"drive clarity and impact at scale.\" This suggests it helps teams stay organized, understand their work better, and achieve their goals more effectively."
+    },
+    {
+      "name": "Simplified Project Management",
+      "sequence": 1,
+      "description": "Their website emphasizes getting started easily and managing projects in one place. This indicates a user-friendly interface and features to create, assign, and track tasks within projects."
+    },
+    {
+      "name": "Goal-Oriented Workflow",
+      "sequence": 2,
+      "description": " Asana highlights connecting tasks and projects to company-wide goals. This suggests features to set goals, track progress, and ensure individual efforts contribute to the bigger picture."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-26T12:20:28.963Z",
+  "enhanced_description": "Asana is a software-as-a-service (SaaS) platform designed for team collaboration and enterprise work management. It empowers organizations to work smarter by connecting company-wide goals, strategic initiatives, and the execution of work in one centralized place. Positioned as an AI work management platform, Asana focuses on driving clarity and impact at scale. It offers a user-friendly interface for simplified project management, including features to easily create, assign, and track tasks. The platform emphasizes a goal-oriented workflow, allowing users to set goals, track progress, and ensure individual efforts contribute to the bigger picture. Asana serves over 150,000 customers and millions of users across 200+ countries and territories, supporting diverse needs from goal setting and tracking to capacity planning and product launches.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Work Management",
+    "Project Management",
+    "Digital Transformation",
+    "Goal Setting and Tracking",
+    "Capacity Planning",
+    "Product Launches",
+    "Team Collaboration",
+    "Task Management",
+    "Task Assignment",
+    "Task Tracking"
+  ],
+  "competitive_advantages": [
+    "Connects company-wide goals, strategic initiatives, and work execution in one place (claimed unique offering)",
+    "AI-powered work management platform (claimed #1 position)",
+    "Simplified project management with user-friendly interface",
+    "Focus on driving clarity and impact at scale",
+    "Enables effortless team collaboration",
+    "Goal-oriented workflow to align work with strategic objectives"
+  ],
+  "hr_functions_supported": [
+    "Internal Mobility",
+    "Employee Happiness and Engagement"
+  ],
+  "technology_stack": [
+    "Software-as-a-Service (SaaS)",
+    "Artificial Intelligence (AI)",
+    "Internet of Things (IoT) (as per sub-category)"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness and Engagement",
+    "Enhanced organizational clarity and impact",
+    "Increased efficiency through centralized work management",
+    "Better alignment of work with company-wide goals",
+    "Streamlined project management and execution"
+  ],
+  "searchable_keywords": [
+    "Asana",
+    "Work Management",
+    "Project Management",
+    "Digital Transformation",
+    "Team Collaboration",
+    "SaaS",
+    "Software-as-a-Service",
+    "Enterprise Work Management",
+    "Goals",
+    "Strategic Initiatives",
+    "Execution of Work",
+    "Capacity Planning",
+    "Product Launches",
+    "Task Management",
+    "Task Tracking",
+    "Task Assignment",
+    "AI Work Management",
+    "Clarity",
+    "Impact",
+    "Goal-Oriented Workflow",
+    "Internal Mobility",
+    "Employee Engagement",
+    "Internet of Things",
+    "Technology"
+  ],
+  "primary_users": [
+    "Teams",
+    "Project Managers",
+    "Organizational Leaders",
+    "Individual Contributors"
+  ],
+  "deployment_options": [
+    "Cloud (SaaS)"
+  ],
+  "scalability_features": [
+    "Supports millions of users across 200+ countries and territories",
+    "Designed for Global and Large Enterprises",
+    "Enables driving clarity and impact at scale"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,145 @@
+{
+  "id": 197,
+  "name": "Orgtomic",
+  "description": "Orgtomic provides an integrated Org Chart, People Directory and Skills Map for actionable insight and discovery across your business.",
+  "features": [
+    "Customize your Data",
+    "Diversity & Inclusion",
+    "Onboarding Success"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Onboarding software",
+    "Recruiting automation software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Data-driven hiring"
+  ],
+  "headquarter": "Kuala Lumpur, Kuala Lumpur",
+  "launch_date": "2021",
+  "order": 20164,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Unlock the potential of distributed talent",
+  "ProductId": null,
+  "ShortDescription": "Orgtomic lets you build a complete skills and people map.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Powerful Org Chart tools for growth companies",
+      "sequence": 0,
+      "description": "A Dynamic Org Chart and Org Map to visualize growth, track remote hiring, diversity targets, and drive employee discovery."
+    },
+    {
+      "name": "Employee Discovery for All",
+      "sequence": 1,
+      "description": "An integrated People Directory to facilitate employee discovery and engagement."
+    },
+    {
+      "name": "Match the right Skills to Growth",
+      "sequence": 2,
+      "description": "Create a skills and interests matrix across any dimension of your Organisation."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:18.957Z",
+  "enhanced_description": "Orgtomic offers an integrated solution comprising a dynamic Org Chart, People Directory, and Skills Map designed to unlock the potential of distributed talent. It provides actionable insight and discovery across your business, enabling visualization of growth, tracking of remote hiring and diversity targets, and fostering employee discovery and engagement. Users can also create a comprehensive skills and interests matrix across various organizational dimensions to match the right skills to growth opportunities.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Visualizing organizational growth",
+    "Tracking remote hiring initiatives",
+    "Monitoring and achieving diversity targets",
+    "Driving employee discovery and engagement",
+    "Building and managing a skills and interests matrix",
+    "Supporting onboarding processes",
+    "Boosting hiring manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "Integrated Org Chart, People Directory, and Skills Map solution",
+    "Provides actionable insight and discovery across the business",
+    "Supports visualization of growth and tracking of remote hiring and diversity targets",
+    "Designed to unlock the potential of distributed talent",
+    "Powerful Org Chart tools for growth companies"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Management",
+    "Onboarding",
+    "Diversity & Inclusion",
+    "Workforce Planning"
+  ],
+  "roi_benefits": [
+    "Improved actionable insight and discovery across the business",
+    "Enhanced onboarding success",
+    "Better diversity & inclusion outcomes",
+    "Increased hiring manager confidence and productivity",
+    "Effective visualization and tracking of organizational growth",
+    "Optimized management of remote hiring initiatives",
+    "Facilitates employee discovery and engagement",
+    "Enables effective skill-to-growth matching",
+    "Unlocks the potential of distributed talent"
+  ],
+  "searchable_keywords": [
+    "Orgtomic",
+    "Org Chart",
+    "Org Map",
+    "People Directory",
+    "Skills Map",
+    "Talent Management",
+    "Recruiting",
+    "Onboarding",
+    "Diversity & Inclusion",
+    "Employee Discovery",
+    "Employee Engagement",
+    "Remote Hiring",
+    "Growth Visualization",
+    "Hiring Manager Productivity",
+    "Data-driven Hiring",
+    "Skills Matrix",
+    "Distributed Talent",
+    "Workforce Planning",
+    "HR Technology",
+    "Hiring"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "Employees",
+    "HR Professionals",
+    "Business Leaders"
+  ],
+  "_weight": 1
+}

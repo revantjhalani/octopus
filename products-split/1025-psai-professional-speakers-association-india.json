@@ -1,0 +1,130 @@
+{
+  "id": 1025,
+  "name": "PSAI-Professional Speakers Association India",
+  "description": "The Professional Speakers Association of India has been formed to help build a strong community to help you enhance your professional speaking career globally.",
+  "features": [
+    "Work for Speakers",
+    "Global Exposure",
+    "Promote the Business of Professional Speaking"
+  ],
+  "founders": [
+    "Kiruba Shankar"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Course authoring",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Skill acquisition",
+    "Continuous learning",
+    "Learning optimisation",
+    "Employee empowerment"
+  ],
+  "headquarter": "Chennai",
+  "launch_date": "2018",
+  "order": 20968,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Prospeaks",
+  "ProductId": null,
+  "ShortDescription": "This association was created to build a thriving, supportive community to help each of us grow our speaking careers globally. Upskilling and Enriching Indian Speakers.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Focus on Professional Development",
+      "sequence": 0,
+      "description": ": PSAI provides members with comprehensive mentoring, resources, and networking opportunities. This suggests they aim to help professional speakers enhance their skills and advance their careers."
+    },
+    {
+      "name": "Lifetime Learning",
+      "sequence": 1,
+      "description": "Lifetime Learning"
+    },
+    {
+      "name": "Part of the Global Speakers Federation",
+      "sequence": 2,
+      "description": "PSAI is a member of the Global Speakers Federation, connecting them with speaker associations from 14 other countries. This offers opportunities for international networking and collaboration."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:39:03.846Z",
+  "enhanced_description": "The Professional Speakers Association of India (PSAI) is an organization established to cultivate a strong and supportive community for professional speakers within India. Its core mission is to enhance and globalize members' speaking careers through comprehensive mentoring, resources, and networking opportunities. PSAI is dedicated to upskilling and enriching Indian speakers, promoting continuous learning and professional development. As a member of the Global Speakers Federation, PSAI also provides invaluable connections to speaker associations in 14 other countries, fostering international networking and collaboration.",
+  "key_use_cases": [
+    "Career advancement for professional speakers",
+    "Skill enhancement and continuous learning for speakers",
+    "Global networking and collaboration for speakers",
+    "Business development and promotion for professional speaking services"
+  ],
+  "competitive_advantages": [
+    "Membership in the Global Speakers Federation, enabling international networking and collaboration across 14 countries",
+    "Provision of comprehensive mentoring, resources, and networking opportunities specifically tailored for professional speakers",
+    "Focus on lifetime learning and professional development for speakers"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Employee Engagement"
+  ],
+  "roi_benefits": [
+    "Enhanced professional skills and proficiency for speakers",
+    "Expanded career opportunities and global visibility for professional speakers",
+    "Increased business growth and promotion for professional speaking services",
+    "Accelerated skill development and learning efficiency for members",
+    "Improved member happiness and engagement"
+  ],
+  "searchable_keywords": [
+    "PSAI",
+    "Professional Speakers Association India",
+    "professional speaking",
+    "global speakers",
+    "public speaking",
+    "speaker community",
+    "skill development",
+    "skill acquisition",
+    "continuous learning",
+    "learning optimization",
+    "professional development",
+    "career growth",
+    "global exposure",
+    "international networking",
+    "business promotion for speakers",
+    "training and development",
+    "upskilling",
+    "enriching Indian speakers",
+    "mentoring for speakers",
+    "speaking career"
+  ],
+  "primary_users": [
+    "Professional Speakers",
+    "Individual Professional Speakers"
+  ],
+  "_weight": 1
+}

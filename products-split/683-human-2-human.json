@@ -1,0 +1,157 @@
+{
+  "id": 683,
+  "name": "Human 2 Human",
+  "description": "H2H was founded in Gurgaon India, in 2017 with the deep passion to help businesses do \u2018the people stuff\u2019 better. It is a consulting firm made up of I-O Psychologists who have practical business experience. The founders started their career in assessment, studied and researched the science of human behaviour in context to work place excellence and has helped some of the top brands in India to build a competitive advantage through their human capital. With over 2 decades of experience, H2H is set up by highly experienced team of Business Psychologists providing leadership solutions using globally recognized tools. We work hand-in-hand with business leaders, executives, and human resource leaders to consult and deliver people management services. H2H helps individuals and organizations by identifying and developing their unique strengths while addressing limitations",
+  "features": [
+    "Pre-Employment and Employee Assessment",
+    "Cognitive Ability Test",
+    "360-degree survey"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing services providers",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee happiness",
+    "Employee well being",
+    "Employee happiness programs",
+    "Employee benefits"
+  ],
+  "headquarter": "Gurgaon, Haryana",
+  "launch_date": "2016",
+  "order": 20637,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "CREATING SYNERGIES TO ENABLE - TRANSFORM \u2013 EXCEL",
+  "ProductId": null,
+  "ShortDescription": "H2H is founded with a sole purpose of enabling businesses to use their people potential to thrive in a dynamic and competitive environment.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Analytics ",
+      "sequence": 0,
+      "description": "Employee assessments & talent analytic tools to help you hire smarter employees, develop their talent & drive results by connecting individual competencies to organizational performance. Our assessments span all positions from entry level through to the C-Suite. Discover why we are the trusted partner globally."
+    },
+    {
+      "name": "Coaching ",
+      "sequence": 1,
+      "description": "Most executives need practical on-the-job coaching rather than more intellectual leadership training. Our Coaching service quickly identifies tipping point behaviors and leverages a clear process enabling leadership growth to become embedded in day-to-day interactions"
+    },
+    {
+      "name": "Counselling ",
+      "sequence": 2,
+      "description": "Our professional counselors help clients identify goals and potential solutions to their problems and help them improve communication, coping skills, strengthen self-esteem, and promote behavior change."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:27.246Z",
+  "enhanced_description": "Human 2 Human (H2H) is an HR consulting firm established in Gurgaon, India, in 2017. Comprised of experienced I-O Psychologists and Business Psychologists with over two decades of practical business experience, H2H specializes in people management services. They leverage globally recognized tools and talent analytics to help businesses optimize their human capital, improve employee engagement and happiness, and achieve a competitive advantage. Their services include comprehensive pre-employment and employee assessments, cognitive ability tests, and 360-degree surveys. H2H also provides executive coaching, focusing on practical, on-the-job behavioral changes, and professional counselling to enhance communication, coping skills, and self-esteem. They aim to enable businesses to utilize their full people potential and thrive in dynamic environments by identifying and developing individual strengths while addressing limitations.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Talent Acquisition and Hiring Optimization",
+    "Employee Talent Development and Growth",
+    "Leadership Development and Coaching",
+    "Employee Engagement and Happiness Improvement",
+    "Workplace Counselling and Well-being Support",
+    "Performance Measurement and Improvement (through assessments and analytics)",
+    "Strategic Human Capital Management"
+  ],
+  "competitive_advantages": [
+    "Deep expertise from I-O Psychologists and Business Psychologists with practical business experience",
+    "Over two decades of collective experience in human behavior and workplace excellence",
+    "Use of globally recognized tools for leadership solutions and assessments",
+    "Focus on practical, on-the-job executive coaching for behavioral change",
+    "Trusted partner globally for employee assessments and talent analytics"
+  ],
+  "implementation_scenarios": [
+    "Direct consulting engagement with business leaders, executives, and HR leaders to deliver tailored people management services."
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Management",
+    "Employee Engagement",
+    "Leadership Development",
+    "Performance Management",
+    "Employee Well-being",
+    "HR Consulting",
+    "Workforce Analytics"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Enhanced competitive advantage through optimized human capital",
+    "Smarter employee hiring decisions",
+    "More effective talent development and leadership growth",
+    "Improved organizational performance by connecting individual competencies to business results",
+    "Enhanced communication, coping skills, and self-esteem among employees",
+    "Maximized utilization of people potential within the organization"
+  ],
+  "searchable_keywords": [
+    "Human 2 Human",
+    "H2H",
+    "HR consulting",
+    "I-O Psychologists",
+    "Business Psychologists",
+    "Pre-Employment Assessment",
+    "Employee Assessment",
+    "Cognitive Ability Test",
+    "360-degree survey",
+    "Recruiting",
+    "Staffing services",
+    "Employee engagement",
+    "Employee happiness",
+    "Employee well-being",
+    "Employee happiness programs",
+    "Employee benefits",
+    "Talent Analytics",
+    "Coaching",
+    "Leadership Coaching",
+    "Executive Coaching",
+    "Counselling",
+    "People Management",
+    "Human Capital",
+    "Talent Development",
+    "Leadership Solutions"
+  ],
+  "primary_users": [
+    "Business Leaders",
+    "Executives",
+    "Human Resource Leaders"
+  ],
+  "scalability_features": [
+    "Services cater to all positions from entry-level to C-Suite",
+    "Capable of serving Small, Large, and Global Enterprises"
+  ],
+  "_weight": 1
+}

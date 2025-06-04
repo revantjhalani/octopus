@@ -1,0 +1,154 @@
+{
+  "id": 1004,
+  "name": "plugHR",
+  "description": "plugHR runs performance management for enterprises by deploying cloud based performance management software and assigning a performance coach who drives success, working closely with client's managers.",
+  "features": [
+    "pH8 knowledge model",
+    "offer plugHR Manager",
+    "Flexible subscriptions"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement",
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Learning and Development",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Resource Information Systems (HRIS)",
+    "Human Capital Management",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee empowerment",
+    "Hiring efficiency",
+    "Talent acquisition"
+  ],
+  "headquarter": "Victoria",
+  "launch_date": "2007",
+  "order": 20947,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Inspried HR can",
+  "ProductId": null,
+  "ShortDescription": "plugHR makes employee performance surge by aligning goals and driving action.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "HR Solutions for Growing Businesses: ",
+      "sequence": 0,
+      "description": "Plugr caters to entrepreneurs and high-growth companies by offering a range of HR solutions. This suggests they help young businesses establish and manage their HR departments efficiently."
+    },
+    {
+      "name": "Comprehensive HR Services:",
+      "sequence": 1,
+      "description": "Plugr goes beyond just recruitment and payroll. They might offer services like employee onboarding, performance management, and benefits administration, providing a one-stop shop for a company's HR needs."
+    },
+    {
+      "name": "Focus on Efficiency and Cost-Effectiveness",
+      "sequence": 2,
+      "description": "Plugr positions itself as a way for companies to \"run strong HR\" without the overhead of a large in-house team. This suggests their services are designed to be cost-effective and streamline HR processes for growing businesses."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:38:38.073Z",
+  "enhanced_description": "plugHR offers comprehensive, cloud-based HR solutions for large and global enterprises, including high-growth companies. It specializes in performance management, providing software and a dedicated performance coach to help businesses align goals, drive action, and improve overall employee performance. The service aims to enhance employee happiness and engagement, streamline HR processes, and support efficient talent acquisition, providing a cost-effective way to run strong HR without extensive in-house overhead.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise",
+    "High-Growth Companies",
+    "Growing Businesses"
+  ],
+  "key_use_cases": [
+    "Performance management and improvement",
+    "Employee goal alignment and action driving",
+    "Improving employee happiness and engagement",
+    "Efficient talent acquisition",
+    "Establishing and managing HR departments efficiently",
+    "Streamlining HR processes"
+  ],
+  "competitive_advantages": [
+    "Dedicated performance coach",
+    "Proprietary pH8 knowledge model",
+    "Flexible subscriptions",
+    "Focus on efficiency and cost-effectiveness for HR operations",
+    "Comprehensive HR services aiming for a 'one-stop shop'"
+  ],
+  "hr_functions_supported": [
+    "Performance Management",
+    "Employee Engagement",
+    "Talent Acquisition",
+    "Human Capital Management (HCM)",
+    "Human Resource Information Systems (HRIS)",
+    "Learning & Development"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Faster and more efficient hiring of top talent",
+    "Increased employee performance and productivity",
+    "Reduced HR overhead costs",
+    "Streamlined HR processes"
+  ],
+  "searchable_keywords": [
+    "plugHR",
+    "performance management",
+    "HR software",
+    "cloud HR",
+    "HR solutions",
+    "performance coach",
+    "employee engagement",
+    "employee happiness",
+    "talent acquisition",
+    "hiring efficiency",
+    "HRMS",
+    "HCM",
+    "HRIS",
+    "human capital management",
+    "learning and development",
+    "training and development",
+    "employee performance",
+    "goal alignment",
+    "HR efficiency",
+    "cost-effective HR",
+    "growing businesses HR",
+    "large enterprise HR",
+    "global enterprise HR",
+    "pH8 knowledge model",
+    "plugHR Manager"
+  ],
+  "primary_users": [
+    "Client's Managers",
+    "HR Teams/Departments",
+    "Entrepreneurs",
+    "Business Owners (of growing and high-growth companies)"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "_weight": 1
+}

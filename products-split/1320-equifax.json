@@ -1,0 +1,122 @@
+{
+  "id": 1320,
+  "name": "Equifax",
+  "description": "At Equifax (NYSE: EFX), we believe knowledge drives progress. As a global data, analytics, and technology company, we play an essential role in the global economy by helping financial institutions, companies, employers, and government agencies make critical decisions with greater confidence. Our unique blend of differentiated data, analytics, and cloud technology drives insights to power decisions to move people forward.",
+  "features": [
+    "Credit Risk",
+    "Verification",
+    "Identity & Fraud",
+    "Data-Driven Marketing",
+    "Workforce Management"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [],
+  "sub_categories": [],
+  "tags": [],
+  "headquarter": "Atlanta, GA",
+  "launch_date": "",
+  "order": 21139,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Helping people live their financial best",
+  "ProductId": null,
+  "ShortDescription": "We monitor your Equifax credit report, provide you with alerts, and help you recover from ID theft so you can focus on living your financial best.\n",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:49.645Z",
+  "enhanced_description": "Equifax (NYSE: EFX) is a global data, analytics, and technology company that plays an essential role in the global economy. They provide a unique blend of differentiated data, analytics, and cloud technology to drive insights, helping financial institutions, companies, employers, and government agencies make critical decisions with greater confidence. Their offerings span crucial areas such as credit risk assessment, identity verification, fraud prevention, data-driven marketing, and workforce management. Additionally, Equifax provides services to individuals, monitoring credit reports, issuing alerts, and assisting in identity theft recovery to support financial well-being.",
+  "target_industries": [
+    "Financial Services",
+    "Government",
+    "All Industries (employers)"
+  ],
+  "key_use_cases": [
+    "Assessing credit risk and making lending decisions",
+    "Verifying identities and information for transactions or onboarding",
+    "Preventing and detecting fraud across various business operations",
+    "Optimizing marketing campaigns through data-driven insights",
+    "Managing workforce-related processes and decisions",
+    "Monitoring individual credit reports and providing alerts",
+    "Assisting with identity theft recovery for individuals"
+  ],
+  "competitive_advantages": [
+    "Unique blend of differentiated data assets",
+    "Advanced analytics capabilities",
+    "Cloud-based technology infrastructure",
+    "Global presence and reach",
+    "Essential role in the global economy"
+  ],
+  "hr_functions_supported": [
+    "Workforce Management",
+    "Employment Verification",
+    "Identity Management (for employees)",
+    "Employee Benefits (e.g., identity theft protection)"
+  ],
+  "technology_stack": [
+    "Cloud-based technology"
+  ],
+  "roi_benefits": [
+    "Improved confidence in critical decision-making",
+    "Reduced credit risk for financial institutions",
+    "Mitigation of identity and fraud losses",
+    "Enhanced effectiveness of workforce management",
+    "Support for individual financial well-being and identity theft recovery"
+  ],
+  "searchable_keywords": [
+    "Equifax",
+    "data",
+    "analytics",
+    "technology",
+    "credit risk",
+    "verification",
+    "identity",
+    "fraud",
+    "data-driven marketing",
+    "workforce management",
+    "financial institutions",
+    "employers",
+    "government agencies",
+    "cloud technology",
+    "credit report monitoring",
+    "identity theft recovery",
+    "HR tech",
+    "HR analytics",
+    "employment verification"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "Financial analysts",
+    "Risk management teams",
+    "Fraud prevention specialists",
+    "Marketing professionals",
+    "Compliance officers",
+    "Government agency personnel",
+    "Individuals (consumers)"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "_weight": 1
+}

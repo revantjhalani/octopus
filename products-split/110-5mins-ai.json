@@ -1,0 +1,159 @@
+{
+  "id": 110,
+  "name": "5mins AI",
+  "description": "5Mins.ai, the TikTok-styled Skills and Learning platform, helps organisations develop all their employees efficiently and effectively, no matter what their role. With 20,000+ micro-lessons from world-leading instructors covering 200+ essential technical, soft and life skills, the 5Mins e-learning platform is used by diverse workforces across leading brands such as Dropbox, Pitney Bowes, Perkbox and many more.\r\n\r\nAdditionally 5Mins AI helps its users to bitesize internal training by up to 80%, create assessments for them, speed up employee ramp time by 3 - 5x and provides comprehensive analytics to administrators. ",
+  "features": [
+    "E-learning",
+    "Training and Development",
+    "Skills based learning"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Skill acquisition",
+    "Adaptive learning",
+    "Continuous learning"
+  ],
+  "headquarter": "London, United Kingdom",
+  "launch_date": "2021",
+  "order": 20080,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Onboard, upskill and ramp your employees 3 - 5x faster",
+  "ProductId": null,
+  "ShortDescription": "5Mins.ai, the TikTok-styled Skills and Learning platform, helps organisations develop all their employees efficiently and effectively, no matter what their role.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Personalised learning at scale ",
+      "sequence": 0,
+      "description": "We have over 20,000 micro-lessons across more than 200 skills delivered through personalised learning paths leveraging AI, ensuring each lesson aligns with individual roles and development goals."
+    },
+    {
+      "name": "Learn from leading experts",
+      "sequence": 1,
+      "description": "Experience unparalleled learning on our platform, as we bring together over 200 industry experts from leading organisations to guide you through our lessons."
+    },
+    {
+      "name": "Boost engagement by 6 - 10x",
+      "sequence": 2,
+      "description": "Our platform makes learning social, gamified and rewarding for teams. Leaderboards, skill points, skill certifications and peer-learning capabilities keep your talent motivated to return and learn every day"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-26T12:47:46.282Z",
+  "enhanced_description": "5Mins.ai is an AI-powered, TikTok-styled Skills and Learning platform designed to help organizations efficiently and effectively develop all employees, regardless of their role. It offers a vast library of over 20,000 micro-lessons from 200+ world-leading and industry experts, covering more than 200 essential technical, soft, and life skills. The platform leverages AI to create personalized learning paths, ensuring each lesson aligns with individual roles and development goals. 5Mins.ai is engineered to accelerate employee ramp time by 3 to 5 times and can help bitesize internal training by up to 80%, while also providing comprehensive analytics to administrators. It is proven to boost engagement by 6 to 10 times through its social, gamified, and rewarding features, including leaderboards, skill points, skill certifications, and peer-learning capabilities. The platform is used by diverse workforces across leading brands such as Dropbox, Pitney Bowes, and Perkbox, making it a robust solution for onboarding, upskilling, and continuous employee development.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee onboarding acceleration",
+    "Employee upskilling",
+    "Employee training and development",
+    "Internal training content bitesizing",
+    "Skills-based learning and acquisition",
+    "Personalized learning path creation",
+    "Employee assessment creation",
+    "Continuous learning fostering",
+    "Employee engagement boosting"
+  ],
+  "competitive_advantages": [
+    "TikTok-styled learning experience",
+    "20,000+ micro-lessons covering 200+ skills",
+    "Content delivered by 200+ world-leading industry experts",
+    "AI-powered personalized learning paths",
+    "Ability to bitesize internal training by up to 80%",
+    "Accelerates employee ramp time by 3-5x",
+    "Comprehensive analytics for administrators",
+    "Boosts employee engagement by 6-10x through gamification (leaderboards, skill points, certifications, peer-learning)"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Training",
+    "Skills Management",
+    "Onboarding"
+  ],
+  "technology_stack": [
+    "AI"
+  ],
+  "integration_capabilities": [],
+  "roi_benefits": [
+    "Increased employee efficiency and effectiveness",
+    "Reduced time and cost for internal training (up to 80% bitesizing)",
+    "Faster employee productivity through accelerated ramp time (3-5x faster)",
+    "Improved employee engagement and motivation (6-10x boost)",
+    "Better insights into learning progress and effectiveness through comprehensive analytics"
+  ],
+  "searchable_keywords": [
+    "5mins AI",
+    "5Mins.ai",
+    "E-learning",
+    "Training and Development",
+    "Skills based learning",
+    "Skill development",
+    "Skill acquisition",
+    "Adaptive learning",
+    "Continuous learning",
+    "Micro-lessons",
+    "Microlearning",
+    "AI learning",
+    "Personalized learning",
+    "Gamified learning",
+    "Employee training",
+    "Employee upskilling",
+    "Employee onboarding",
+    "Ramp time",
+    "Assessments",
+    "Analytics",
+    "Experts",
+    "Soft skills",
+    "Technical skills",
+    "Life skills",
+    "Employee engagement",
+    "Certifications",
+    "Peer-learning",
+    "Learning and Development software",
+    "eLearning software"
+  ],
+  "primary_users": [
+    "Employees",
+    "Administrators",
+    "HR Professionals",
+    "L&D Teams"
+  ],
+  "scalability_features": [
+    "Designed for personalized learning at scale",
+    "Supports diverse workforces across small, large, and global enterprises"
+  ],
+  "_weight": 1
+}

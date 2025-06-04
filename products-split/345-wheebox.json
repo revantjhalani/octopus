@@ -1,0 +1,167 @@
+{
+  "id": 345,
+  "name": "Wheebox",
+  "description": "Wheebox is one of the leading firm in remote proctored assessments and consulting services, Headquartered in India and spread across GCC Countries, Wheebox delivers millions of assessments for corporations, institutions and governments across globe. At Wheebox, our mission is to enable academia, organizations, and enterprises to maximize their talent potential by supporting their assessment, learning, and compliance needs. With a focus on innovation and cutting-edge technology, we have consistently delivered solutions that empower our clients to make informed decisions about talent management and development.For over a decade, Wheebox has been at the forefront of providing on-demand remote proctored assessments and learning solutions. We take immense pride in our extensive experience, having worked with more than 3000+ large institutions and organizations. Wheebox is a 100% subsidiary of ETS (Educational Testing Service) headquartered in Princeton New Jersey, United States.",
+  "features": [
+    "A great place to work",
+    "At the forefront of technology",
+    "Dynamic work environment and a strong sense of community"
+  ],
+  "founders": [
+    "Pawan Kumar"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce",
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Diversity and inclusion",
+    "Learning analytics"
+  ],
+  "headquarter": "Gurgaon, Haryana",
+  "launch_date": "2011",
+  "order": 20307,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Leaders in Remote Proctored Assessments for Hiring and Benchmarking Global Talent.",
+  "ProductId": null,
+  "ShortDescription": "Wheebox is one of the leading remote proctored testing firms headquartered in India with presence across few global markets.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "A Decade of Growing, Succeeding, and Revolutionizing Together!",
+      "sequence": 0,
+      "description": "Wheebox aim at putting our customers at ease by providing them with virtual solutions that are end-to-end customized to their needs and giving them a seamless experience. "
+    },
+    {
+      "name": "Audit Practices",
+      "sequence": 1,
+      "description": "Wheebox provides high-end and user-friendly mobile app to audit compliances across the infrastructure, assessors & trainers, and assessment services. Wheebox has over 600+ auditors all around the country to audit general compliances across infra and services with"
+    },
+    {
+      "name": "Lateral Hiring Solution",
+      "sequence": 2,
+      "description": "Select from an array of pre-hiring online tests to screen, shortlist and recruit the right fit, saving the overall hiring time, effort and cost. Wheebox offers AI-driven Pre-Hiring Assessments to evaluate the capabilities and efficiency of a candidate to perform the job, while doing away with the biases and errors."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:47.931Z",
+  "enhanced_description": "Wheebox is a leading firm in remote proctored assessments and consulting services, renowned for its on-demand remote proctoring and learning solutions. Headquartered in India with a presence across GCC countries and other global markets, Wheebox delivers millions of assessments for corporations, institutions, and governments worldwide. As a 100% subsidiary of ETS (Educational Testing Service), Wheebox focuses on enabling academia, organizations, and enterprises to maximize talent potential by supporting their assessment, learning, and compliance needs. With over a decade of experience and having worked with more than 3000 large institutions and organizations, Wheebox provides cutting-edge technology solutions for talent management and development, including AI-driven pre-hiring assessments and compliance audit practices via a user-friendly mobile app.",
+  "target_industries": [
+    "Corporate/Enterprise",
+    "Education/Academia",
+    "Government"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Remote proctored assessments",
+    "Talent acquisition (pre-hiring assessments, screening, shortlisting, recruiting)",
+    "Talent development (skill development, learning)",
+    "Compliance auditing",
+    "Talent benchmarking",
+    "Diversity and inclusion initiatives"
+  ],
+  "competitive_advantages": [
+    "Market leadership in remote proctoring and assessment",
+    "Extensive experience (over a decade in the market)",
+    "Large client base (3000+ large organizations served)",
+    "Global reach (India, GCC, and other global markets)",
+    "Subsidiary of ETS (Educational Testing Service), providing strong credibility and backing",
+    "AI-driven pre-hiring assessments for efficiency and bias reduction",
+    "Dedicated mobile app for compliance auditing",
+    "Large network of over 600 auditors for compliance services"
+  ],
+  "implementation_scenarios": [
+    "Customized solutions tailored to client needs",
+    "On-demand assessment delivery"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Learning & Development",
+    "Talent Management",
+    "Compliance",
+    "Diversity & Inclusion",
+    "Workforce Planning (Benchmarking)"
+  ],
+  "technology_stack": [
+    "AI (Artificial Intelligence)",
+    "Mobile App Technology"
+  ],
+  "roi_benefits": [
+    "Maximize talent potential",
+    "Empower informed decision-making for talent management and development",
+    "Reduce overall hiring time, effort, and cost",
+    "Mitigate biases and errors in hiring processes",
+    "Build a more diverse and inclusive workforce",
+    "Accelerate skill development and learning efficiency"
+  ],
+  "searchable_keywords": [
+    "Wheebox",
+    "remote proctored assessments",
+    "online assessments",
+    "talent acquisition",
+    "pre-hiring tests",
+    "AI assessments",
+    "learning solutions",
+    "talent management",
+    "talent development",
+    "compliance auditing",
+    "corporate LMS",
+    "training & development",
+    "diversity & inclusion",
+    "learning analytics",
+    "skill development",
+    "talent benchmarking",
+    "mobile assessment app",
+    "consulting services",
+    "ETS subsidiary"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Recruiters",
+    "Learning & Development Managers",
+    "Compliance Officers",
+    "Auditors"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "compliance_features": [
+    "Compliance auditing capabilities (via mobile app)",
+    "Support for general compliance needs"
+  ],
+  "scalability_features": [
+    "Supports millions of assessments",
+    "Catters to large enterprise clients (3000+ organizations)"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,165 @@
+{
+  "id": 373,
+  "name": "360 Learnings",
+  "description": "360Learning enables companies to upskill from within by turning their experts into champions for employee, customer, and partner growth. With our LMS for collaborative learning, Learning & Development teams can accelerate upskilling with the help of internal experts instead of slow top-down training. 360Learning is the easiest way to onboard and upskill employees, train customer-facing teams, and enable customers and partners\u2013all from one place. 360Learning powers the future of work at 1,700 organizations. Founded in 2013, 360Learning has raised $240 million with 300+ team members across New York, Paris, and London.",
+  "features": [
+    "Proactive engagement of learners",
+    "Top rated Platform",
+    "Leader in Corporate learning"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement",
+    "Build a More Diverse and Inclusive Workforce",
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Learning Experience Systems (LXPs)",
+    "Corporate LMS",
+    "Training & development companies",
+    "Training eLearning software"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Learning speed",
+    "Workforce diversity"
+  ],
+  "headquarter": "New York, NY",
+  "launch_date": "2013",
+  "order": 20334,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "360 Learnings is the LMS for collaborative learning. Upskill from within by turning your experts into champions for growth.",
+  "ProductId": null,
+  "ShortDescription": "360Learning uses AI and collaborative features to turn your in-house experts into L&D collaborators.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Compliance training",
+      "sequence": 0,
+      "description": "Automate all your mandatory training and put learner experience first."
+    },
+    {
+      "name": "From rookie to expert",
+      "sequence": 1,
+      "description": "Onboard your new joiners to success in no time"
+    },
+    {
+      "name": "Designed for the deskless workforce",
+      "sequence": 2,
+      "description": "Automate and manage relevant field training from one platform, on any device"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:25:33.777Z",
+  "enhanced_description": "360Learning is a collaborative learning management system (LMS) designed to enable companies to upskill their workforce, customers, and partners by leveraging internal experts. The platform utilizes AI and collaborative features to transform in-house subject matter experts into Learning & Development (L&D) collaborators, moving beyond traditional top-down training methods. It serves as a unified platform for comprehensive onboarding of new joiners, continuous upskilling of employees, training customer-facing teams, and enabling external customers and partners. Key functionalities include automating mandatory compliance training and supporting the unique learning needs of the deskless workforce through relevant field training accessible on any device. 360Learning aims to accelerate skill development and learning efficiency, improve employee happiness and engagement, and contribute to building a more diverse and inclusive workforce. Founded in 2013, 360Learning has achieved significant scale, powering 1,700 organizations.",
+  "key_use_cases": [
+    "Upskilling employees from within organizations",
+    "Onboarding new employees rapidly and effectively",
+    "Training customer-facing teams",
+    "Enabling customers with product knowledge and support",
+    "Enabling partners with necessary skills and information",
+    "Automating and managing compliance training",
+    "Delivering field training for the deskless workforce"
+  ],
+  "competitive_advantages": [
+    "Leverages internal experts for collaborative learning and upskilling",
+    "Focus on collaborative learning as a core differentiator",
+    "Accelerates upskilling by using internal expertise over slow top-down training",
+    "Unified platform for employee, customer, and partner learning needs",
+    "Integrates AI and collaborative features to empower L&D",
+    "Proactive engagement of learners",
+    "Claimed as a 'Top rated Platform'",
+    "Claimed as a 'Leader in Corporate learning'"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Employee Onboarding",
+    "Employee Engagement",
+    "Diversity & Inclusion"
+  ],
+  "technology_stack": [
+    "AI (Artificial Intelligence)"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Enhanced employee happiness and engagement",
+    "Faster onboarding and time-to-productivity for new hires",
+    "Increased training effectiveness",
+    "Contribution to building a more diverse and inclusive workforce"
+  ],
+  "searchable_keywords": [
+    "360 Learnings",
+    "LMS",
+    "Learning Management System",
+    "Collaborative learning",
+    "Upskilling",
+    "Employee training",
+    "Customer training",
+    "Partner training",
+    "Internal experts",
+    "Learning & Development",
+    "L&D",
+    "Onboarding",
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Learning speed",
+    "Workforce diversity",
+    "Proactive engagement",
+    "Corporate learning",
+    "Learning Experience Systems",
+    "LXPs",
+    "Corporate LMS",
+    "Training & development companies",
+    "Training eLearning software",
+    "AI",
+    "Artificial Intelligence",
+    "Collaborative features",
+    "In-house experts",
+    "L&D collaborators",
+    "Compliance training",
+    "Deskless workforce",
+    "Field training"
+  ],
+  "primary_users": [
+    "Learning & Development teams",
+    "Internal subject matter experts",
+    "Employees (learners)",
+    "New joiners",
+    "Customer-facing teams",
+    "Customers (as learners)",
+    "Partners (as learners)",
+    "Deskless workforce"
+  ],
+  "compliance_features": [
+    "Automated mandatory training for compliance"
+  ],
+  "_weight": 1
+}

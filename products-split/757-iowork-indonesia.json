@@ -1,0 +1,122 @@
+{
+  "id": 757,
+  "name": "IOWork Indonesia",
+  "description": "IOWork Indonesia is an application company that focuses on creating a new concept of market place which we call \"JOB MARKET PLACE\" where we gather JOB PROVIDERS and JOB SEEKERS directly on one platform. Job providers and job seekers can exchange information, where job providers can choose their partners directly through the talent pool that we provide, while partners can choose the job you want based on your time flexibility.",
+  "features": [
+    "Opportunity to access nationwide talent pool hassle-free with zero investment",
+    "Shortened your hiring process digitally",
+    "Power to determine your own partner\u2019s fee hourly"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Reduce the Cost of Hiring Qualified Employees",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Employee engagement software",
+    "Talent acquisition suites"
+  ],
+  "tags": [
+    "Hiring costs",
+    "Hiring",
+    "Recruiting"
+  ],
+  "headquarter": "Jakarta Selatan, DKI Jakarta",
+  "launch_date": "2019",
+  "order": 20710,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Digital Human Capital company with a new \"Worket-Place\" system which we create a place for company and workers meet!",
+  "ProductId": null,
+  "ShortDescription": "IOWork Indonesia is a digital company which focusing on providing talent pool digitally through smartphone applications.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:51.972Z",
+  "enhanced_description": "IOWork Indonesia is a digital job marketplace application designed to directly connect job providers and job seekers on a single platform. It focuses on facilitating the hiring process by providing access to a nationwide talent pool, allowing job providers to digitally select partners and set hourly fees. The platform offers flexibility for job seekers to find work that aligns with their time availability, aiming to reduce hiring costs and boost hiring manager productivity.",
+  "key_use_cases": [
+    "Connecting job providers with job seekers",
+    "Digital access to a nationwide talent pool",
+    "Shortening the hiring process",
+    "Hiring talent for roles with hourly fee arrangements",
+    "Sourcing flexible or gig workers",
+    "Reducing overall cost of hiring qualified employees",
+    "Improving hiring manager efficiency and confidence"
+  ],
+  "competitive_advantages": [
+    "Hassle-free access to nationwide talent pool with zero upfront investment for job providers",
+    "Digital shortening of the hiring process",
+    "Ability for job providers to determine partner fees on an hourly basis",
+    "Direct platform for job providers and job seekers to exchange information",
+    "Focus on time flexibility for job seekers"
+  ],
+  "implementation_scenarios": [
+    "Self-service access via mobile application"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition"
+  ],
+  "technology_stack": [
+    "Smartphone applications"
+  ],
+  "roi_benefits": [
+    "Reduced cost of hiring qualified employees",
+    "Boosted hiring manager confidence and productivity",
+    "Time savings through a shortened digital hiring process",
+    "Zero investment required to access the talent pool"
+  ],
+  "searchable_keywords": [
+    "IOWork Indonesia",
+    "IOWork",
+    "Job marketplace",
+    "Job providers",
+    "Job seekers",
+    "Talent pool",
+    "Worket-Place",
+    "Digital hiring",
+    "Smartphone applications",
+    "Nationwide talent",
+    "Hiring process",
+    "Hourly fee",
+    "Recruiting",
+    "Talent management",
+    "Talent acquisition",
+    "Hiring costs",
+    "Hiring"
+  ],
+  "primary_users": [
+    "Job Providers (e.g., HR teams, hiring managers, business owners)",
+    "Job Seekers",
+    "Hiring Managers"
+  ],
+  "deployment_options": [
+    "Mobile Application",
+    "Cloud/SaaS"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,134 @@
+{
+  "id": 940,
+  "name": "Okta",
+  "description": "From our inception in 2009 to joining forces with Auth0 in 2021, Okta is the leading independent Identity partner for organizations around the globe. We're relentlessly focused on Customer and Workforce Identity so that our customers can enable secure access and seamless experiences for their customers, employees, and partners. With flexibility and customer choice at our core, our solutions make it easy for everyone \u2014 from budding developers to leaders of the world\u2019s largest organizations \u2014 to build and use their tech stack, their way. All because Okta works anywhere, on any device, with any technology.",
+  "features": [
+    "Review the eligibility rules and learn how to enroll.",
+    "Save for every day needs, build your wealth, protect your income.",
+    "Base pay, Okta stock ownership, and bonus all combine to deliver competitive and valuable rewards."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Machine learning HR",
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Diversity and inclusion",
+    "Workforce diversity",
+    "Employee diversity"
+  ],
+  "headquarter": "",
+  "launch_date": "2009",
+  "order": 20887,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "The World's Identity Company",
+  "ProductId": null,
+  "ShortDescription": "Okta gives you a neutral, powerful and extensible platform that puts identity at the heart of your stack. No matter what industry, use case, or level of support you need, we\u2019ve got you covered.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": [],
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": false,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:37:18.597Z",
+  "enhanced_description": "Okta is a leading independent Identity partner, established in 2009 and enhanced by its 2021 merger with Auth0. The platform is dedicated to Customer and Workforce Identity, enabling secure access and seamless experiences for organizations' customers, employees, and partners globally. Okta offers a neutral, powerful, and extensible platform designed to integrate identity at the core of any technology stack. Its solutions empower users, from budding developers to leaders of the world's largest organizations, to build and utilize their tech stack with flexibility and choice, accessible anywhere, on any device, with any technology.",
+  "target_industries": [
+    "All industries (product description states 'No matter what industry')"
+  ],
+  "ideal_company_sizes": [
+    "All company sizes (from those serving 'budding developers to leaders of the world\u2019s largest organizations')"
+  ],
+  "key_use_cases": [
+    "Secure access management for customers, employees, and partners",
+    "Enabling seamless user experiences across various systems",
+    "Integrating identity at the core of an organization's technology stack",
+    "Workforce Identity Management",
+    "Customer Identity Management",
+    "Partner Identity Management"
+  ],
+  "competitive_advantages": [
+    "Leading independent Identity partner",
+    "Relentless focus on Customer and Workforce Identity",
+    "Offers flexibility and customer choice",
+    "Simplifies building and utilizing diverse tech stacks",
+    "Universal compatibility (works anywhere, on any device, with any technology)",
+    "Provides a neutral, powerful, and extensible platform",
+    "Facilitates centralized identity management"
+  ],
+  "implementation_scenarios": [
+    "Integration with diverse existing technology stacks"
+  ],
+  "hr_functions_supported": [
+    "Workforce Identity Management",
+    "Employee Access Management",
+    "Diversity & Inclusion (through support for related business objectives and workforce identity features)"
+  ],
+  "integration_capabilities": [
+    "Broad integration with various enterprise applications",
+    "Integration with diverse existing technology stacks",
+    "Extensibility for custom integrations"
+  ],
+  "roi_benefits": [
+    "Enhanced security through robust access controls",
+    "Improved user experience and operational efficiency via seamless access",
+    "Flexibility in adopting and integrating new technologies",
+    "Supports strategic business objectives like building a more diverse and inclusive workforce"
+  ],
+  "searchable_keywords": [
+    "Okta",
+    "Identity Management",
+    "Workforce Identity",
+    "Customer Identity",
+    "Partner Identity",
+    "Secure Access",
+    "Access Management",
+    "Identity Platform",
+    "Extensible Platform",
+    "HR Technology",
+    "Software and Services Related to HR Software",
+    "Diversity and Inclusion",
+    "Workforce Diversity",
+    "Employee Diversity",
+    "Tech Stack Integration",
+    "Seamless Experience"
+  ],
+  "primary_users": [
+    "Customers (accessing services)",
+    "Employees (accessing internal systems and applications)",
+    "Partners (accessing shared resources)",
+    "Developers (building and integrating with the platform)",
+    "IT Administrators (managing identities and access)",
+    "Business Leaders (driving technology strategy and adoption)"
+  ],
+  "deployment_options": [
+    "Flexible deployment allowing access anywhere, on any device"
+  ],
+  "scalability_features": [
+    "Designed to support organizations globally, including the world's largest organizations"
+  ],
+  "security_features": [
+    "Secure Access"
+  ],
+  "_weight": 1
+}

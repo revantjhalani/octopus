@@ -1,0 +1,139 @@
+{
+  "id": 108,
+  "name": "Astronaut",
+  "description": "With Astronaut, you can rely on actionable, data-backed recommendations to build a thriving community that provides value for your members and your brand.",
+  "features": [
+    "Personalised Insights",
+    "Sentiment Analysis",
+    "Insight reports for data driven decsions",
+    "Community Feedback",
+    "Discover top contributors of community"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Other / technology",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Employee engagement software"
+  ],
+  "tags": [
+    "Diversity metrics",
+    "Employee Engagement strategies",
+    "Employee happiness metrics"
+  ],
+  "headquarter": "San Francisco, California",
+  "launch_date": "2023",
+  "order": 20078,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The AI Assistant for Community Managers.",
+  "ProductId": null,
+  "ShortDescription": "Astronaut helps you understand your community\u2019s sentiment, suggests engagement strategies, and surfaces insights. \r",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Uncover Hidden Meanings",
+      "sequence": 0,
+      "description": "Astronaut goes beyond basic metrics with sentiment analysis, helping you understand the emotions behind your online community."
+    },
+    {
+      "name": "Track What Matters Most",
+      "sequence": 1,
+      "description": "Customize what you track with Astronaut's filters, focusing on the KPIs that matter most to your business"
+    },
+    {
+      "name": "Foster Friendly Competition",
+      "sequence": 2,
+      "description": "Create leaderboards within your community to motivate engagement and highlight top contributors."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-26T12:20:33.954Z",
+  "enhanced_description": "Astronaut is an AI Assistant for Community Managers designed to help build and manage thriving online communities. It goes beyond basic metrics by leveraging sentiment analysis to uncover hidden meanings and emotions within community discussions. The platform provides actionable, data-backed recommendations and personalized insights to suggest engagement strategies, track custom KPIs, and surface comprehensive insight reports for data-driven decisions. Key functionalities include identifying top contributors, facilitating community feedback, and fostering engagement through features like leaderboards, ultimately providing value for both community members and the brand.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Building and nurturing thriving online communities",
+    "Understanding and analyzing community sentiment and emotions",
+    "Generating data-backed recommendations for community engagement",
+    "Tracking and reporting on key performance indicators (KPIs) related to community health and activity",
+    "Identifying and recognizing top community contributors",
+    "Improving employee engagement through community feedback and strategies",
+    "Gaining insights for talent management and employee happiness",
+    "Developing strategies for diversity metrics within the community context"
+  ],
+  "competitive_advantages": [
+    "Goes beyond basic metrics with advanced sentiment analysis to understand emotions",
+    "Provides actionable, data-backed recommendations",
+    "Leverages AI as an assistant for community managers",
+    "Offers personalized insights tailored to community needs",
+    "Enables customized tracking of relevant KPIs with filters",
+    "Features leaderboards to foster friendly competition and motivate engagement"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Employee Engagement",
+    "Diversity & Inclusion (metrics)"
+  ],
+  "technology_stack": [
+    "AI"
+  ],
+  "roi_benefits": [
+    "Builds a thriving community that provides value for members and brand",
+    "Enables data-driven decisions through actionable insights and reports",
+    "Improves community engagement through suggested strategies and motivational features",
+    "Enhances understanding of community sentiment to address issues proactively",
+    "Increases overall community activity and participation by highlighting top contributors"
+  ],
+  "searchable_keywords": [
+    "Astronaut",
+    "AI Assistant",
+    "Community Managers",
+    "Community Management",
+    "Online Community",
+    "Employee Engagement Software",
+    "Talent Management",
+    "Sentiment Analysis",
+    "Personalised Insights",
+    "Data-backed Recommendations",
+    "Insight Reports",
+    "Community Feedback",
+    "Top Contributors",
+    "Employee Engagement Strategies",
+    "Employee Happiness Metrics",
+    "Diversity Metrics",
+    "Community Sentiment",
+    "Engagement Strategies",
+    "KPIs",
+    "Leaderboards"
+  ],
+  "primary_users": [
+    "Community Managers",
+    "HR Professionals (focused on employee engagement and talent management)"
+  ],
+  "_weight": 1
+}

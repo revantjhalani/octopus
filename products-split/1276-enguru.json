@@ -1,0 +1,149 @@
+{
+  "id": 1276,
+  "name": "Enguru ",
+  "description": "Enguru, an edtech startup funded by the Michael & Susan Dell Foundation and Village Capital, offers employability-focused English training through innovative technology. Our flagship product, the Enguru Spoken English app, has over 40 million users and is available in 28 languages, teaching English from basics to industry-specific functional skills.",
+  "features": [
+    "Self-Paced Learning",
+    "Industry-Specific Courses",
+    "Interactive Activities & Games"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training & development companies",
+    "Training management system",
+    "Course authoring"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Hiring best practices",
+    "Adaptive learning",
+    "Hiring automation",
+    "Hiring efficiency",
+    "Hiring tools"
+  ],
+  "headquarter": "Bangalore, Karnataka",
+  "launch_date": "2014",
+  "order": 21104,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Enguru: Level Up Your English for Work with Personalized Learning ",
+  "ProductId": null,
+  "ShortDescription": "Live English learning made effective, fun and easy.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Unlocks Career Opportunities",
+      "sequence": 0,
+      "description": "Enguru equips users with job-ready English skills through live classes and interactive exercises."
+    },
+    {
+      "name": "Affordable & Accessible",
+      "sequence": 1,
+      "description": "Enguru offers a flexible learning path in 28 Indian languages, making English learning accessible for all."
+    },
+    {
+      "name": "Engaging & Effective",
+      "sequence": 2,
+      "description": "Enguru's blend of live classes, gamification, and personalized learning keeps users motivated and on track to fluency."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:13:49.331Z",
+  "enhanced_description": "Enguru offers employability-focused English training through innovative technology, including its flagship Enguru Spoken English app which serves over 40 million users. The platform provides comprehensive English instruction from basics to industry-specific functional skills, available in 28 languages. Key features include self-paced learning, live classes, interactive activities, games, gamification, and personalized learning paths, all designed to equip users with job-ready English skills and unlock career opportunities.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "English language skill development for career advancement",
+    "Employability enhancement and job readiness training",
+    "Workforce upskilling and reskilling in English proficiency",
+    "Supporting talent acquisition by improving candidate English skills",
+    "Providing English language training as an employee benefit"
+  ],
+  "competitive_advantages": [
+    "Extensive user base (over 40 million users)",
+    "Multilingual support (available in 28 languages)",
+    "Employability-focused curriculum",
+    "Diverse learning methodologies (self-paced, live classes, interactive activities, games, gamification, personalized learning)",
+    "Affordable and accessible learning paths",
+    "Strong financial backing (Michael & Susan Dell Foundation and Village Capital)"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Talent Acquisition",
+    "Employee Benefits",
+    "Workforce Development"
+  ],
+  "roi_benefits": [
+    "Improved hiring efficiency and quality",
+    "Enhanced hiring manager confidence and productivity",
+    "Increased employee employability and career progression",
+    "Development of job-ready English skills within the workforce",
+    "Cost-effective and accessible language training solution"
+  ],
+  "searchable_keywords": [
+    "English training",
+    "Spoken English",
+    "Employability skills",
+    "Language learning app",
+    "Edtech",
+    "Self-paced learning",
+    "Industry-specific courses",
+    "Interactive learning",
+    "Gamified learning",
+    "Personalized learning",
+    "Learning and Development",
+    "Training & Development",
+    "Training management",
+    "Course authoring",
+    "Employee benefits",
+    "Hiring tools",
+    "Adaptive learning",
+    "Workforce development",
+    "Career opportunities",
+    "Live English learning"
+  ],
+  "primary_users": [
+    "Job seekers",
+    "Employees seeking career advancement",
+    "Individuals learning English",
+    "HR Professionals",
+    "Hiring Managers"
+  ],
+  "deployment_options": [
+    "Mobile Application"
+  ],
+  "scalability_features": [
+    "Designed to support a large user base (over 40 million users reported)",
+    "Supports global and large enterprise deployments"
+  ],
+  "_weight": 1
+}

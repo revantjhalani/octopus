@@ -1,0 +1,203 @@
+{
+  "id": 50,
+  "name": "HR Stop",
+  "description": "HRStop, trusted by 1,000+ brands and 50,000+ users, is a leading online HR/Payroll software. It aligns HR strategies with business success, reducing HR tasks by 50% through enhanced compliance, data accuracy, and transparency. This employee-centric system provides 24/7 access to vital information, streamlining HR efforts and improving efficiency.",
+  "features": [
+    "Access Anywhere Anytime",
+    "Easy on pocket",
+    "No Tech how required"
+  ],
+  "founders": [
+    "Rashmi Agarwal"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration software",
+    "Employee recognition software",
+    "Performance management system",
+    "Benefits administration services",
+    "Health & safety providers",
+    "Performance management solutions",
+    "Performance Review software",
+    "Payroll services providers",
+    "Recruiting software",
+    "Pre-employment screening software",
+    "Background check software",
+    "Talent acquisition suites",
+    "Video interviewing software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee benefits",
+    "Employee recognition",
+    "Employee development",
+    "Employee empowerment",
+    "Employee engagement surveys"
+  ],
+  "headquarter": "Noida, Uttar Pradesh",
+  "launch_date": "2012",
+  "order": 20027,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Accelerate the success of your business processes. ",
+  "ProductId": null,
+  "ShortDescription": "Save 50% time in HR/ Payroll processes",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "People Management",
+      "sequence": 0,
+      "description": "Streamline & manage the most important and valuable asset of any organization: your PEOPLE."
+    },
+    {
+      "name": "Payroll System",
+      "sequence": 1,
+      "description": "Complete Indian Payroll handling payslip generation, Investment Declarations, Bank Advice, Appraisals, etc,."
+    },
+    {
+      "name": "Performance Management",
+      "sequence": 2,
+      "description": "Continuous performance enhancement and evaluation using 360 Degrees, Goal Reviews. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-15T12:05:40.482Z",
+  "enhanced_description": "HRStop is a leading online HR/Payroll software, trusted by over 1,000 brands and 50,000 users. It is designed to align HR strategies with business success by significantly reducing HR tasks, specifically by 50%. The system emphasizes enhanced compliance, data accuracy, and transparency. As an employee-centric platform, it provides 24/7 access to vital information, streamlining overall HR efforts and improving organizational efficiency. The software is accessible anywhere, anytime, is cost-effective, and requires no technical expertise to use. Key functionalities include comprehensive People Management, complete Indian Payroll handling (such as payslip generation, Investment Declarations, Bank Advice, and Appraisals), and robust Performance Management, including 360-Degree reviews and Goal Reviews. HRStop aims to improve employee happiness and engagement.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Reducing HR tasks by 50%",
+    "Streamlining HR efforts and improving efficiency",
+    "Ensuring enhanced HR and payroll compliance",
+    "Improving data accuracy and transparency in HR processes",
+    "Providing 24/7 self-service access to HR information for employees",
+    "Managing and streamlining people operations",
+    "Processing comprehensive Indian Payroll, including payslip generation and investment declarations",
+    "Facilitating continuous performance enhancement and evaluation through 360-degree reviews and goal setting",
+    "Administering employee benefits and recognition programs",
+    "Managing recruiting processes, including pre-employment screening, background checks, and video interviewing",
+    "Supporting talent acquisition and management"
+  ],
+  "competitive_advantages": [
+    "Reduces HR tasks by 50%",
+    "Offers enhanced compliance, data accuracy, and transparency",
+    "Employee-centric system with 24/7 access to vital information",
+    "Cloud-based accessibility ('Access Anywhere Anytime')",
+    "Cost-effective ('Easy on pocket')",
+    "User-friendly with no technical expertise required ('No Tech how required')",
+    "Trusted by over 1,000 brands and 50,000 users",
+    "Specialized in Complete Indian Payroll handling"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based (SaaS) deployment"
+  ],
+  "hr_functions_supported": [
+    "HR/Payroll Management",
+    "Talent Management",
+    "Recruiting",
+    "Total Rewards",
+    "Benefits administration",
+    "Employee recognition",
+    "Performance management",
+    "Payroll services",
+    "Pre-employment screening",
+    "Background checks",
+    "Talent acquisition",
+    "Video interviewing",
+    "People management",
+    "Health & safety",
+    "Employee development",
+    "Employee empowerment",
+    "Employee engagement surveys"
+  ],
+  "roi_benefits": [
+    "50% reduction in HR tasks and payroll processing time",
+    "Improved efficiency in HR operations",
+    "Cost-effectiveness ('Easy on pocket')",
+    "Enhanced compliance reduces risks and potential penalties"
+  ],
+  "searchable_keywords": [
+    "HR Stop",
+    "HR software",
+    "Payroll software",
+    "HR/Payroll software",
+    "online HR",
+    "online Payroll",
+    "HR management",
+    "People management",
+    "Talent Management",
+    "Recruiting software",
+    "Total Rewards",
+    "Benefits administration software",
+    "Employee recognition software",
+    "Performance management system",
+    "Payroll services providers",
+    "Pre-employment screening software",
+    "Background check software",
+    "Talent acquisition suites",
+    "Video interviewing software",
+    "Employee engagement",
+    "Employee benefits",
+    "Employee development",
+    "Employee empowerment",
+    "Employee engagement surveys",
+    "HR compliance",
+    "Data accuracy",
+    "Transparency",
+    "HR efficiency",
+    "Time-saving HR",
+    "Cost-effective HR software",
+    "User-friendly HR system",
+    "Cloud HR",
+    "Indian Payroll",
+    "360-degree review",
+    "Goal reviews",
+    "Employee self-service"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Employees",
+    "Managers"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "compliance_features": [
+    "Enhanced compliance capabilities",
+    "Complete Indian Payroll handling, including Investment Declarations and Bank Advice"
+  ],
+  "scalability_features": [
+    "Capable of supporting over 50,000 users across 1,000+ brands",
+    "Designed for 'Global_Enterprise' use, indicating capacity to handle growth and international operations"
+  ],
+  "_weight": 1
+}

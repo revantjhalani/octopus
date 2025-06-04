@@ -1,0 +1,166 @@
+{
+  "id": 801,
+  "name": "Koach Ai",
+  "description": "More than a company, Koach is a group of passionate individuals who want to create a large impact on society. This belief drives us to make employability & life skills learning accessible to all, especially in the service sector. This sector is home to one of the largest workforces in India & their distinct lack of learning opportunities leads to a huge skill gap & aspiration to ability mismatch. The Koach.AI platform enables youth to gain critical skills to GET their first job, KEEP their jobs, and GROW their careers meaningfully. Our foundation is the Science of Coaching, which applies to all endeavors of performance & helps individuals internalize what they need to focus on. By combining the KoachUp platform with a unique classroom pedagogy and 1:1 mentor support, Koach takes learning from a linear to a blended pedagogy to help individuals assimilate & apply skills practically. Having tested our approach across youth in different cities, Koach is proud to have brought out a significant improvement in their life skills (verified by 3rd-party Assessment), placing them in their first jobs.",
+  "features": [
+    "People Development",
+    "Talent Management & Behavioural Competency",
+    "Learning & Development"
+  ],
+  "founders": [
+    "Radhika Sarma",
+    "Ishira Bhattacharya"
+  ],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Course authoring",
+    "Learning Experience Systems (LXPs)"
+  ],
+  "tags": [
+    "Learning efficiency",
+    "Continuous learning",
+    "Adaptive learning"
+  ],
+  "headquarter": "Bengaluru, Karnataka",
+  "launch_date": "2018",
+  "order": 20754,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The Pocket Life Skill Coach for Real India",
+  "ProductId": null,
+  "ShortDescription": "More than a company, Koach is a group of passionate individuals who want to create a large impact on society. This belief drives us to make employability & life skills learning accessible to all, especially in the service sector.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Role Based AI Coach",
+      "sequence": 0,
+      "description": "Imagine you can provide a context specific AI coach for people in a particular role and deploy it in under 2 weeks, with a complete dedicated GROW model in place. Leverage the power of Koach AI\u2019s dynamic conversational framework to deliver a role specific behaviour coach."
+    },
+    {
+      "name": "Team Coaching",
+      "sequence": 1,
+      "description": "Every team is unique and delivers unique value, especially senior teams who have larger responsibilities but limited engagement time. Use our unique team coaching approach to create value for the team and each individual by creating common and individual goals that enable performance."
+    },
+    {
+      "name": "Coaching as a Culture",
+      "sequence": 2,
+      "description": "Building a coaching culture requires both commitment and a process. Join Koach AI\u2019s unique methodology that enables you to drive this culture by engaging the entire organisation with its blended model of democratising coaching. Move from being reactionary to being more proactive and action driven."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:43.146Z",
+  "enhanced_description": "Koach Ai is a Learning and Development platform dedicated to making employability and life skills learning accessible, particularly for the large workforce within the service sector in India. The platform directly addresses the significant skill gap and aspiration-to-ability mismatch identified in this sector. Built upon the Science of Coaching, Koach.AI enables individuals, especially youth, to acquire critical skills necessary to secure their first job, maintain employment, and advance their careers meaningfully. It employs a unique blended pedagogy that integrates the KoachUp platform with traditional classroom instruction and personalized 1:1 mentor support, facilitating practical skill assimilation and application. Key features include a Role Based AI Coach providing context-specific behavioral guidance with rapid deployment, a unique Team Coaching approach for senior teams to achieve common and individual goals, and a comprehensive methodology for fostering a proactive coaching culture across an entire organization. The effectiveness of Koach Ai's approach has been demonstrated through significant improvements in users' life skills, validated by third-party assessments, leading to successful job placements.",
+  "target_industries": [
+    "Service sector"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Employability skill development for first-time job seekers",
+    "Upskilling and reskilling for job retention and career growth",
+    "Bridging skill gaps and aspiration-to-ability mismatch",
+    "Role-specific behavioral coaching via AI",
+    "Enhancing team performance through structured coaching",
+    "Cultivating a proactive coaching culture within organizations",
+    "Life skills learning and application"
+  ],
+  "competitive_advantages": [
+    "Foundation in the Science of Coaching",
+    "Unique blended pedagogy combining platform, classroom, and 1:1 mentor support",
+    "Specific focus on the service sector workforce in India",
+    "Validated impact on life skills improvement (3rd-party assessment)",
+    "Proven track record of placing individuals in first jobs",
+    "Role Based AI Coach with dynamic conversational framework and rapid deployment (under 2 weeks)",
+    "Unique Team Coaching approach tailored for senior teams",
+    "Methodology for democratizing coaching and building a coaching culture organization-wide"
+  ],
+  "implementation_scenarios": [
+    "Blended learning programs combining digital platform, classroom, and mentorship",
+    "Rapid deployment of role-specific AI coaching solutions",
+    "Organizational-wide adoption for fostering a coaching culture"
+  ],
+  "hr_functions_supported": [
+    "People Development",
+    "Talent Management",
+    "Behavioural Competency Development",
+    "Learning & Development",
+    "Organizational Development"
+  ],
+  "roi_benefits": [
+    "Increased employability and job readiness for new talent",
+    "Improved employee retention and career progression within organizations",
+    "Reduced skill gaps and improved alignment between aspirations and abilities",
+    "Measurable improvement in life skills (verified by 3rd-party assessments)",
+    "Successful job placement rates for beneficiaries",
+    "Transition from reactionary to proactive and action-driven organizational behavior"
+  ],
+  "searchable_keywords": [
+    "Koach Ai",
+    "Koach",
+    "AI coach",
+    "life skills",
+    "employability",
+    "learning and development",
+    "L&D",
+    "training eLearning software",
+    "course authoring",
+    "learning experience system",
+    "LXP",
+    "people development",
+    "talent management",
+    "behavioural competency",
+    "learning efficiency",
+    "continuous learning",
+    "adaptive learning",
+    "skill gap",
+    "service sector",
+    "India",
+    "job readiness",
+    "career growth",
+    "team coaching",
+    "coaching culture",
+    "blended learning",
+    "mentor support",
+    "HR technology"
+  ],
+  "primary_users": [
+    "Individuals seeking employability and life skills",
+    "Youth entering the workforce",
+    "Employees in the service sector",
+    "Senior leadership teams seeking coaching",
+    "HR departments",
+    "Learning & Development professionals",
+    "Organizational leaders"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "_weight": 1
+}

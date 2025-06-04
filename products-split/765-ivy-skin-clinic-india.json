@@ -1,0 +1,110 @@
+{
+  "id": 765,
+  "name": "IVY Skin Clinic - India",
+  "description": "The IvySkin Clinic is a well-equipped dermatology and cosmetic clinic, with a team of qualified professionals including a Dermatologist, Dr. Manish. We have been in this field for 20 years and offer you the best of care to keep your skin looking young and healthy.",
+  "features": [
+    "A personalized approach",
+    "offer all skin related services",
+    "Empowering you with medical knowledge"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee well being"
+  ],
+  "headquarter": "Pune, Maharashtra",
+  "launch_date": "2008",
+  "order": 20718,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Skin expert for you",
+  "ProductId": null,
+  "ShortDescription": "We are IVY Skin Clinic, the one place where qualified professionals take care of your skin, hair and breasts in the most scientific manner.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:02.002Z",
+  "enhanced_description": "IVY Skin Clinic, located in Pune, Maharashtra, India, is a well-established dermatology and cosmetic clinic with 20 years of experience since its launch in 2008. It boasts a team of qualified professionals, including Dermatologist Dr. Manish, providing comprehensive skin, hair, and breast care. The clinic offers a personalized approach to its services, empowering individuals with medical knowledge to maintain youthful and healthy skin. Positioned within the corporate wellness sector, IVY Skin Clinic serves as a health & safety provider aimed at improving employee happiness and engagement through well-being services.",
+  "key_use_cases": [
+    "Providing dermatology and cosmetic services as part of an employee wellness program",
+    "Offering medical consultation and treatment for skin, hair, and breast health to employees",
+    "Educating employees on skin health and general well-being",
+    "Contributing to employee happiness and engagement through health benefits"
+  ],
+  "competitive_advantages": [
+    "20 years of experience in the field",
+    "Team of qualified professionals including a specialized Dermatologist",
+    "A personalized approach to patient care",
+    "Commitment to empowering individuals with medical knowledge",
+    "Well-equipped clinic facility"
+  ],
+  "hr_functions_supported": [
+    "Employee Wellness",
+    "Total Rewards (specifically, benefits related to health and well-being)",
+    "Employee Engagement",
+    "Health & Safety"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness",
+    "Enhanced Employee Engagement",
+    "Better Employee Well-being"
+  ],
+  "searchable_keywords": [
+    "IVY Skin Clinic",
+    "India",
+    "Pune",
+    "Maharashtra",
+    "Dermatology",
+    "Cosmetic clinic",
+    "Skin care",
+    "Hair care",
+    "Breast care",
+    "Dermatologist",
+    "Medical knowledge",
+    "Personalized approach",
+    "Employee well being",
+    "Corporate wellness",
+    "Health & safety provider",
+    "Total Rewards",
+    "Employee happiness",
+    "Employee engagement",
+    "Wellness program"
+  ],
+  "primary_users": [
+    "Employees (as beneficiaries of corporate wellness programs)",
+    "HR professionals (as administrators of wellness benefits)"
+  ],
+  "deployment_options": [
+    "On-premise (at the clinic's physical location)"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,153 @@
+{
+  "id": 650,
+  "name": "Hier Business Solutions, Inc.",
+  "description": "Hier Business Solutions, Inc. a privately owned Corporation with leaders in Information Technology. We are here to provide the best system that any company would need through changing of times and past faced technology. Provider of the revised and advanced web-based HRIS, Time keeping and payroll system. Millennium age that we are in ,our technologists simply go with the trend, equipped with latest technology and still keep on improving from time to time. Our aim is to modernized and encourage everyone to try and keep up with the change. Standardize Hr information system, simplify its daily time record and seamlessly automate its payroll. ",
+  "features": [
+    "Retroactive Pay Computation",
+    "Unlimited Processing of Regular and Special Payrolls",
+    "Biometric Integration"
+  ],
+  "founders": [
+    "Carl Edison Andrade"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration services",
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Employee happiness",
+    "Employee well being",
+    "Employee benefits",
+    "Employee empowerment"
+  ],
+  "headquarter": "San Jose Del Monte, Bulacan",
+  "launch_date": "2017",
+  "order": 20604,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The most configurable cloud-based Payroll System in the Philippines",
+  "ProductId": null,
+  "ShortDescription": "Hier Business Solutions, Inc. a privately owned Corporation with leaders in Information Technology and provides advanced web-based HRIS, Time keeping and payroll system.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Perfect for Employees Working Remotely",
+      "sequence": 0,
+      "description": "Hier Payroll is perfect for employees working remotely. This suggests that the system is accessible online and can be used by employees from anywhere."
+    },
+    {
+      "name": "ier Payroll: The Most Configurable Cloud-Based Payroll System in the Philippines",
+      "sequence": 1,
+      "description": "Hier Payroll is a cloud-based payroll system that is designed to be configurable and easy to use."
+    },
+    {
+      "name": " Empowering Employees and Automating Payroll Processes",
+      "sequence": 2,
+      "description": "Hier Payroll seems to automate payroll processes, which can save time and effort for both employers and employees. The article also mentions that it empowers employees, possibly by giving them self-service access to their payroll information."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:31:48.922Z",
+  "enhanced_description": "Hier Business Solutions, Inc. offers an advanced, web-based, and cloud-based HRIS, Timekeeping, and Payroll system, primarily targeting the Philippine market. Positioned as highly configurable and easy to use, the 'Hier Payroll' system is well-suited for remote workforces. It automates payroll processes, supports biometric integration, and includes features such as retroactive pay computation and unlimited processing of regular and special payrolls. The company aims to modernize HR operations, simplify daily time records, and seamlessly automate payroll to improve employee happiness and engagement.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Automating regular and special payroll processing, including retroactive pay",
+    "Managing employee time and attendance with biometric integration",
+    "Standardizing and centralizing HR information management",
+    "Supporting and empowering remote employees through online access to HR/Payroll data",
+    "Administering employee benefits"
+  ],
+  "competitive_advantages": [
+    "Claimed as 'the most configurable cloud-based Payroll System in the Philippines'",
+    "Designed for remote workforce management and accessibility",
+    "Comprehensive automation of payroll processes",
+    "Integration capabilities with biometric systems",
+    "Web-based and cloud-based deployment for ease of access and use"
+  ],
+  "hr_functions_supported": [
+    "HR Information System (HRIS)",
+    "Time and Attendance Management",
+    "Payroll Management",
+    "Benefits Administration"
+  ],
+  "technology_stack": [
+    "Web-based",
+    "Cloud-based"
+  ],
+  "integration_capabilities": [
+    "Biometric Integration"
+  ],
+  "roi_benefits": [
+    "Improved efficiency through payroll and timekeeping automation",
+    "Time savings by simplifying daily time records and payroll processing",
+    "Reduced manual effort in HR and payroll operations",
+    "Enhanced employee experience and empowerment (e.g., via potential self-service)",
+    "Contribution to improved employee happiness and engagement"
+  ],
+  "searchable_keywords": [
+    "Hier Business Solutions",
+    "Hier Payroll",
+    "HRIS",
+    "Time keeping",
+    "Payroll system",
+    "Web-based HRIS",
+    "Cloud-based Payroll",
+    "Retroactive Pay",
+    "Unlimited Payroll Processing",
+    "Biometric Integration",
+    "Benefits administration",
+    "Payroll services",
+    "Employee happiness",
+    "Employee well being",
+    "Employee benefits",
+    "Employee empowerment",
+    "Remote work payroll",
+    "Configurable payroll",
+    "Philippines payroll",
+    "Automated payroll",
+    "Time and attendance"
+  ],
+  "primary_users": [
+    "HR Administrators",
+    "Payroll Managers",
+    "Employees (for self-service related to payroll information)"
+  ],
+  "deployment_options": [
+    "Cloud (SaaS)"
+  ],
+  "scalability_features": [
+    "Supports unlimited processing of regular and special payrolls",
+    "Designed to serve small, large, and global enterprises"
+  ],
+  "_weight": 1
+}

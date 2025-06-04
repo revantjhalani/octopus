@@ -1,0 +1,146 @@
+{
+  "id": 27,
+  "name": "Heyy Life",
+  "description": "heyy is a mental healthcare startup tackling low adoption, continuity, and efficacy. Our human-in-loop approach with therapists boasts a 10x higher adoption rate and a #1 ranking in India & US app stores.  heyy offers self-care tools, personalized mini-therapy pathways, and a culturally-sensitive first-aid model backed by research. With over 200,000 users and VC funding, heyy is making mental wellness accessible and effective. ",
+  "features": [
+    "Human-in-Loop Model",
+    "Culturally-Sensitive First-Aid Model",
+    "Data-Driven User Journey Optimization"
+  ],
+  "founders": [
+    "Ankit Malhotra"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee happiness",
+    "Company culture",
+    "Employee happiness programs",
+    "Employee happiness metrics"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2021",
+  "order": 20009,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Driving Employee Performance through Therapy and Coaching",
+  "ProductId": null,
+  "ShortDescription": "Empowering managers to craft high performing & supportive team cultures",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Top-Ranked App",
+      "sequence": 0,
+      "description": "Ranked #1 for mental health in India & US app stores, demonstrating user satisfaction and strong brand recognition."
+    },
+    {
+      "name": "Cost-Effective Marketing",
+      "sequence": 1,
+      "description": "Leveraged App Store Optimization (ASO) as a key driver for user acquisition, achieving low customer acquisition cost (CAC)."
+    },
+    {
+      "name": "Data-Driven Innovation",
+      "sequence": 2,
+      "description": "Partnered with a leading university (Christ University) to validate their First-Aid model, showcasing commitment to research and evidence-based practices. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": null,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-01-10T07:19:28.482Z",
+  "enhanced_description": "Heyy Life is a mental healthcare startup focused on addressing common challenges like low adoption, continuity, and efficacy in mental wellness programs. Leveraging a unique human-in-loop approach that incorporates therapists, heyy boasts a 10x higher adoption rate and has achieved a #1 ranking in mental health categories in both India and US app stores. The platform offers a comprehensive suite of tools, including self-care resources, personalized mini-therapy pathways, and a culturally-sensitive first-aid model that has been validated by research, including a partnership with Christ University. With over 200,000 users and backed by VC funding, heyy is dedicated to making mental wellness accessible and effective for organizations globally. It aims to improve employee happiness and engagement, drive employee performance through therapy and coaching, and empower managers to cultivate high-performing and supportive team cultures.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Providing accessible and effective mental health support to employees",
+    "Improving employee happiness and engagement",
+    "Enhancing employee performance through therapy and coaching",
+    "Empowering managers to build supportive and high-performing team cultures",
+    "Offering self-care tools and personalized mini-therapy pathways",
+    "Implementing culturally-sensitive mental health first-aid models"
+  ],
+  "competitive_advantages": [
+    "Human-in-Loop Model with therapists leading to 10x higher adoption rates",
+    "Ranked #1 for mental health in India & US app stores, demonstrating strong user satisfaction and brand recognition",
+    "Culturally-sensitive first-aid model backed by academic research and validation (e.g., Christ University partnership)",
+    "Data-driven user journey optimization for personalized and effective support",
+    "Achieved low customer acquisition cost (CAC) through App Store Optimization (ASO), suggesting efficient scalability and value"
+  ],
+  "hr_functions_supported": [
+    "Employee Well-being & Mental Health",
+    "Employee Engagement",
+    "Company Culture",
+    "Total Rewards (specifically Health & Safety)",
+    "Performance Management (indirectly, through mental health support)"
+  ],
+  "roi_benefits": [
+    "Increased adoption and utilization of mental health support programs (10x higher adoption rate)",
+    "Improved employee happiness and engagement, potentially leading to increased productivity and retention",
+    "Enhanced employee performance through targeted therapy and coaching interventions",
+    "Cultivation of more supportive and high-performing team cultures"
+  ],
+  "searchable_keywords": [
+    "Heyy Life",
+    "heyy",
+    "mental healthcare",
+    "mental health",
+    "employee wellness",
+    "employee well-being",
+    "therapy",
+    "coaching",
+    "self-care tools",
+    "mini-therapy",
+    "first-aid model",
+    "culturally sensitive",
+    "human-in-loop",
+    "employee happiness",
+    "employee engagement",
+    "company culture",
+    "HR tech",
+    "health & safety providers",
+    "total rewards",
+    "employee performance",
+    "manager empowerment",
+    "data-driven mental health",
+    "app store ranked",
+    "mobile mental health",
+    "digital therapy"
+  ],
+  "primary_users": [
+    "Employees (as end-users of mental health services)",
+    "Managers (empowered to foster team cultures)",
+    "Therapists (part of the human-in-loop model)"
+  ],
+  "deployment_options": [
+    "Mobile Application (available via app stores)"
+  ],
+  "_weight": 1
+}

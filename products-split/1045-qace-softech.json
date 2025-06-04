@@ -1,0 +1,126 @@
+{
+  "id": 1045,
+  "name": "Qace Softech",
+  "description": "Qace, founded in 2015, is a leading IT web development (designing) and mobile development company known for its innovative and robust digital solutions.We help you evolve your business into a profitable venture by using the unrivaled experience of our highly qualified product development team. Qace is a professional web development, designing, and mobile development company. The company's vision is to provide quality, effectiveness, and affordability because We have highly skilled and experienced developers with affordable pricing and cost. In addition, with Qace, you get Attractive, Dynamic & User-Friendly latest design Web-Application. We deliver Web Development, Mobile application, game server development, cloud solution, AWS cloud service & Google cloud services to global businesses for the last 5years, with a 100% success rate.",
+  "features": [
+    "Game Server Development",
+    "AWS Cloud Service",
+    "Google Cloud Service"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Other / technology",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Internet of things",
+    "Machine learning HR",
+    "Artificial intelligence",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Skill acquisition",
+    "Learning optimisation"
+  ],
+  "headquarter": "Ahmedabad, GJ",
+  "launch_date": "2015",
+  "order": 20988,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Qace is an aws cloud service offering company. Contact us for best aws cloud services.",
+  "ProductId": null,
+  "ShortDescription": "Qace is a professional web development, designing, and mobile development company.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:39:29.216Z",
+  "enhanced_description": "Qace Softech, established in 2015, is an IT company specializing in innovative and robust web development, mobile development, and comprehensive digital solutions. They leverage a highly skilled and experienced product development team to deliver professional web design, mobile application development, and game server development. Qace also provides extensive cloud solutions, including expert AWS Cloud Services and Google Cloud Services. Focused on delivering quality, effectiveness, and affordability, the company ensures the creation of attractive, dynamic, and user-friendly web applications. Qace boasts a 100% success rate in delivering these services to global businesses over the past five years, aiming to evolve their clients' ventures into profitable enterprises.",
+  "target_industries": [
+    "Gaming"
+  ],
+  "key_use_cases": [
+    "Web Application Development",
+    "Mobile Application Development",
+    "Game Server Development",
+    "Cloud Infrastructure Setup and Management (AWS, Google Cloud)"
+  ],
+  "competitive_advantages": [
+    "Highly skilled and experienced development team",
+    "Focus on quality, effectiveness, and affordability",
+    "Delivery of attractive, dynamic, and user-friendly web applications",
+    "Proven 100% success rate in project delivery over 5 years"
+  ],
+  "implementation_scenarios": [
+    "Custom Web Application Development Projects",
+    "Custom Mobile Application Development Projects",
+    "Game Server Infrastructure Development and Deployment",
+    "Cloud Solution Implementation and Management (AWS, Google Cloud)"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development"
+  ],
+  "technology_stack": [
+    "AWS Cloud Service",
+    "Google Cloud Service"
+  ],
+  "roi_benefits": [
+    "Business profitability enhancement",
+    "Cost efficiency through affordable pricing",
+    "Reduced project risk and increased reliability (due to 100% success rate)",
+    "Improved quality and effectiveness of digital solutions"
+  ],
+  "searchable_keywords": [
+    "Qace",
+    "Softech",
+    "web development",
+    "mobile development",
+    "digital solutions",
+    "game server development",
+    "cloud solution",
+    "AWS Cloud",
+    "Google Cloud",
+    "web design",
+    "mobile app",
+    "IT services",
+    "skill development",
+    "learning optimization",
+    "training",
+    "Artificial intelligence",
+    "Machine learning HR",
+    "Internet of things"
+  ],
+  "primary_users": [
+    "Businesses seeking IT development and cloud services"
+  ],
+  "deployment_options": [
+    "Cloud (AWS, Google Cloud)"
+  ],
+  "scalability_features": [
+    "Support for scalable solutions through cloud infrastructure (AWS, Google Cloud)"
+  ],
+  "_weight": 1
+}

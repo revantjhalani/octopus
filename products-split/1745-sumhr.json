@@ -1,0 +1,160 @@
+{
+  "id": 1745,
+  "name": "SumHR",
+  "description": "HR has long been undervalued and unappreciated due to an overreliance on paperwork, spreadsheets, and outdated software. At sumHR, we\u2019re determined to change this by empowering HR teams with the right tools. sumHR is a SaaS based new-age product which handles the mundane processes for HR teams, reduces paperwork for managers and improves engagement for employees. We believe HR is the backbone of any company, and we aim to be the platform that brings them the credibility, appreciation, and recognition they deserve.",
+  "features": [
+    "No bulky spreadsheets, no complex formulas",
+    "Payroll is simple, easy and enjoyable",
+    "Safety of your data, and utmost privacy"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Recruiting",
+    "Talent Management",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Resource Information Systems (HRIS)",
+    "Human Resource Management Systems (HRMS)",
+    "Recruiting automation software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Hiring automation",
+    "Company culture"
+  ],
+  "headquarter": "Pune, Maharashtra",
+  "launch_date": "2013",
+  "order": 21345,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Digitize HR data, give power in the hands of employees",
+  "ProductId": null,
+  "ShortDescription": "sumHR is a modern, delightful, and comprehensive Human Resource Management Software for growing organizations!",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Manage your HR Information",
+      "sequence": 0,
+      "description": "Digitize HR data, give power in the hands of employees."
+    },
+    {
+      "name": "Automate payroll & expense claims",
+      "sequence": 1,
+      "description": "Run payroll in minutes, hassle free and always on time."
+    },
+    {
+      "name": "Review performance & OKRs",
+      "sequence": 2,
+      "description": "Strive for greatness and measure all-round progress."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-07-10T08:47:24.904Z",
+  "enhanced_description": "SumHR is a modern, delightful, and comprehensive SaaS-based Human Resource Management Software designed for growing organizations, including small and global enterprises. It aims to empower HR teams by digitizing HR data and processes, thereby reducing the reliance on traditional paperwork, spreadsheets, and outdated software. The platform simplifies and automates core HR functions such as managing HR information, payroll processing, expense claims, performance reviews, and OKR tracking. By handling mundane administrative tasks, SumHR enhances efficiency for HR teams and managers, improves employee engagement, and ensures data safety and privacy, ultimately bringing credibility and appreciation to the HR function.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Growing Organizations",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Digitizing HR data and information management",
+    "Automating payroll processing to ensure timeliness and ease",
+    "Streamlining expense claim management",
+    "Facilitating performance reviews and tracking OKRs (Objectives and Key Results)",
+    "Reducing reliance on manual paperwork and spreadsheets for HR processes",
+    "Improving overall employee happiness and engagement"
+  ],
+  "competitive_advantages": [
+    "SaaS-based, new-age product eliminating the need for outdated software and manual processes",
+    "Simplifies and automates complex HR tasks like payroll and expense claims, described as 'simple, easy and enjoyable'",
+    "Ensures safety and utmost privacy of HR data",
+    "Empowers employees by providing access to digitized HR information",
+    "Contributes to improved employee engagement",
+    "Modern, delightful, and comprehensive user experience"
+  ],
+  "hr_functions_supported": [
+    "Human Resource Information Systems (HRIS)",
+    "Human Resource Management Systems (HRMS)",
+    "Payroll Management",
+    "Expense Management",
+    "Performance Management",
+    "OKR Tracking",
+    "Recruiting Automation",
+    "Talent Management"
+  ],
+  "roi_benefits": [
+    "Reduced paperwork and administrative burden for HR teams and managers",
+    "Increased efficiency and time savings by automating mundane HR processes (e.g., payroll in minutes)",
+    "Improved employee engagement and happiness",
+    "Enhanced data accuracy and security through digitization",
+    "Reduced reliance on complex spreadsheets and formulas"
+  ],
+  "searchable_keywords": [
+    "SumHR",
+    "HRMS",
+    "HCM",
+    "HRIS",
+    "Human Resources",
+    "Payroll",
+    "Employee Engagement",
+    "Talent Management",
+    "Recruiting Automation",
+    "Hiring Automation",
+    "Performance Review",
+    "OKRs",
+    "Expense Claims",
+    "HR Software",
+    "SaaS HR",
+    "Cloud HR",
+    "Digitize HR",
+    "HR Data Management",
+    "Company Culture",
+    "Small Enterprise HR",
+    "Global Enterprise HR",
+    "Growing Organizations HR",
+    "HR Automation"
+  ],
+  "primary_users": [
+    "HR Teams",
+    "Managers",
+    "Employees"
+  ],
+  "deployment_options": [
+    "Cloud (SaaS)"
+  ],
+  "scalability_features": [
+    "Designed for 'growing organizations'",
+    "Supports 'Global Enterprise' deployments, indicating capability to scale for large and global operations"
+  ],
+  "security_features": [
+    "Safety of your data",
+    "Utmost privacy"
+  ],
+  "_weight": 1
+}

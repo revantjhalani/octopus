@@ -1,0 +1,129 @@
+{
+  "id": 817,
+  "name": "Leaning Initiative",
+  "description": "The Learning Initiative is a world class transformation consultancy; that enables our clients to accelerate business value in a complex digital world.",
+  "features": [
+    "Offer various courses",
+    "Agility into action",
+    "Work with case study"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Course authoring"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning optimisation",
+    "Skill acquisition"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2006",
+  "order": 20770,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Accelerate business value in complex digital world",
+  "ProductId": null,
+  "ShortDescription": "At The Learning Initiative we believe this state is also crucial for survival.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Helping Businesses Improve",
+      "sequence": 0,
+      "description": " The Learning Initiative that helps businesses improve their performance."
+    },
+    {
+      "name": "Focus on Agility",
+      "sequence": 1,
+      "description": "The company offers training courses and consulting services focused on business agility. They believe that agile businesses are better equipped to deliver better results for their clients."
+    },
+    {
+      "name": "Experienced Team",
+      "sequence": 2,
+      "description": "The Learning Initiative has a team of experts with experience working in a variety of industries, allowing them to tailor their services to specific client needs."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:02.665Z",
+  "enhanced_description": "The Learning Initiative is a world-class transformation consultancy that helps clients accelerate business value and improve performance in a complex digital world. They achieve this by offering various training courses and consulting services, with a strong focus on fostering business agility to deliver better results. Their experienced team works across a variety of industries, enabling them to tailor solutions to specific client needs and accelerate skill development and learning efficiency.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerating business value in a complex digital world",
+    "Improving overall business performance",
+    "Accelerating skill development within organizations",
+    "Implementing business agility principles",
+    "Optimizing learning efficiency",
+    "Providing tailored training and consulting services"
+  ],
+  "competitive_advantages": [
+    "World-class transformation consultancy",
+    "Strong focus on business agility for improved results",
+    "Experienced team capable of tailoring services across industries"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Skill Management",
+    "Training Management"
+  ],
+  "roi_benefits": [
+    "Accelerated business value",
+    "Improved business performance",
+    "Accelerated skill development",
+    "Increased learning efficiency"
+  ],
+  "searchable_keywords": [
+    "Learning Initiative",
+    "Transformation consultancy",
+    "Business value acceleration",
+    "Digital transformation",
+    "Performance improvement",
+    "Training courses",
+    "Consulting services",
+    "Business agility",
+    "Skill development",
+    "Learning efficiency",
+    "Corporate LMS",
+    "Course authoring",
+    "Skill acquisition",
+    "Organizational development",
+    "Business improvement"
+  ],
+  "primary_users": [
+    "Clients",
+    "HR Professionals",
+    "L&D Managers",
+    "Business Leaders",
+    "Employees (undergoing training)"
+  ],
+  "_weight": 1
+}

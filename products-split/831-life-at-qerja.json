@@ -1,0 +1,162 @@
+{
+  "id": 831,
+  "name": "Life at Qerja",
+  "description": "Established in April 2014, Qerja is the first online community portal in Indonesia which provides information about salary and work environment in various companies in Indonesia and Malaysia. With a captive audience of users seeking insider information about companies across Indonesia and Malaysia, the stage was set to offer a more direct outlet for those who found themselves underemployed or simply curious about a career change. In Qerja, which had grown to more than 100 employees in one year, we work together in modern work culture and always strive to set the new standard in working climate experiences for our valued employees. We value ourselves on the amazing team we\u2019ve built. Our culture is one of our most important assets and we always ensure the talents we assembly embody our values.",
+  "features": [
+    "We always try to be the best version of ourselves.",
+    "We have experience to learn and always get better.",
+    "We always give someone the strength to be themselves."
+  ],
+  "founders": [
+    "Veronika Linardi"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Talent Management",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Capital Management",
+    "HR management suites",
+    "Employee engagement software"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    ""
+  ],
+  "headquarter": "Karet Semanggi, Jakarta",
+  "launch_date": "2014",
+  "order": 20784,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Empowering Your Human Resource Ecosystem",
+  "ProductId": null,
+  "ShortDescription": "Founded in 2007, PT Qerja Manfaat Bangsa has become one of the great companies that provide best solutions in the human resources industry. We provide most complete human resource ecosystem for your company",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "HR Solutions Provider",
+      "sequence": 0,
+      "description": "This is a website about a company named PT Qerja Manfaat Bangsa. The company offers human resource solutions including job portals, executive headhunters and online training."
+    },
+    {
+      "name": "Acquisition and Growth",
+      "sequence": 1,
+      "description": "The company was founded in 2007 and acquired Karir.com, the first job portal in Indonesia, in 2019. This acquisition signifies a significant growth for the company."
+    },
+    {
+      "name": "Large Client and User Base",
+      "sequence": 2,
+      "description": "PT Qerja Manfaat Bangsa has a large client and user base with 50,000 clients and 8 million users. This indicates their strong presence in the HR solutions market."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:19.684Z",
+  "enhanced_description": "Life at Qerja, established in April 2014 by PT Qerja Manfaat Bangsa, is the first online community portal in Indonesia dedicated to providing transparent information about salary benchmarks and work environments within various companies across Indonesia and Malaysia. It serves a significant user base of 8 million, offering a direct resource for individuals seeking career changes or feeling underemployed by providing valuable insider company insights. As part of PT Qerja Manfaat Bangsa's broader human resource ecosystem, which includes job portals (such as Karir.com, acquired in 2019), executive headhunters, and online training, Life at Qerja plays a crucial role in talent attraction and employer branding for its 50,000 clients. The platform also reflects Qerja's commitment to a modern work culture and positive employee experiences, emphasizing the value of its own team and cultural assets.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Providing company insights (salary and work environment)",
+    "Assisting job seekers with career exploration and change",
+    "Boosting hiring manager confidence and productivity",
+    "Facilitating talent attraction and employer branding"
+  ],
+  "competitive_advantages": [
+    "First online community portal in Indonesia for salary and work environment information",
+    "Established large client and user base (50,000 clients, 8 million users)",
+    "Strong market presence and reach through acquisition of Karir.com",
+    "Specialized focus on insider company information creates a captive audience"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Employer Branding",
+    "Employee Engagement",
+    "Compensation Management",
+    "Human Capital Management",
+    "HR Management Suites",
+    "Talent Management"
+  ],
+  "roi_benefits": [
+    "Improved hiring manager efficiency and productivity",
+    "Access to a large, informed talent pool",
+    "Enhanced employer brand and transparency",
+    "Potential reduction in recruiting costs"
+  ],
+  "searchable_keywords": [
+    "Life at Qerja",
+    "Qerja",
+    "online community portal",
+    "HR technology",
+    "HR solutions",
+    "human resources",
+    "salary information",
+    "work environment",
+    "company insights",
+    "Indonesia",
+    "Malaysia",
+    "career change",
+    "underemployment",
+    "job portal",
+    "executive headhunters",
+    "online training",
+    "recruiting",
+    "hiring",
+    "talent sourcing",
+    "recruiting costs",
+    "talent acquisition",
+    "employer branding",
+    "employee engagement",
+    "compensation management",
+    "human capital management",
+    "HR management suites",
+    "talent management",
+    "job seekers",
+    "company culture",
+    "compensation data"
+  ],
+  "primary_users": [
+    "Job seekers",
+    "Individuals seeking career changes",
+    "Underemployed individuals",
+    "Hiring Managers",
+    "Companies",
+    "HR departments",
+    "Recruiters"
+  ],
+  "deployment_options": [
+    "Web-based",
+    "Cloud-based"
+  ],
+  "_weight": 1
+}

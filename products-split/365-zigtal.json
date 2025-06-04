@@ -1,0 +1,148 @@
+{
+  "id": 365,
+  "name": "Zigtal",
+  "description": "Zigtal is your complete solution for fostering a Skill-Based Organization. Whether you're transitioning or already there, Zigtal ticks all the boxes, offering a seamless, unbiased, skills-driven experience for both employees and business leaders.",
+  "features": [
+    "Skills Insight: A contextual view of employee skills.",
+    "Demand Clarity: Business demands, plus industry skills trends.",
+    "Bridge Skill Gaps: Strategically train, nurturing, and hire."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training management system",
+    "Learning Experience Systems (LXPs)"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Learning speed"
+  ],
+  "headquarter": "Sydney, NSW",
+  "launch_date": "2019",
+  "order": 20327,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "ZIGTAL's Skill Intelligence Platform enables organizations to align their skill strategy with business goals",
+  "ProductId": null,
+  "ShortDescription": "ZIGTAL's Skill Intelligence Platform enables organizations to align their skill strategy with business goals.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Internal Skills Marketplace",
+      "sequence": 0,
+      "description": "Empower employees with AI-recommended learning, mentorship, gigs, and jobs aligned with their skills and goals."
+    },
+    {
+      "name": "Skill-paths for Employee Upskilling",
+      "sequence": 1,
+      "description": "Nudge employee growth with skill-paths that align to their aspirations and business needs."
+    },
+    {
+      "name": "Leadership Lounge",
+      "sequence": 2,
+      "description": "Conversation rooms connecting leaders with the employees"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:25:20.303Z",
+  "enhanced_description": "Zigtal is a comprehensive Skill Intelligence Platform designed to enable and foster a Skill-Based Organization. It provides a seamless, unbiased, and skills-driven experience for both employees and business leaders, whether an organization is transitioning to or already operating as skill-based. The platform offers critical functionalities such as contextual views of employee skills (Skills Insight), clarity on business demands and industry skills trends (Demand Clarity), and tools to strategically bridge skill gaps through training, nurturing, and hiring. Key features include an Internal Skills Marketplace that empowers employees with AI-recommended learning, mentorship, gigs, and jobs aligned with their skills and goals, alongside Skill-paths for structured employee upskilling tailored to aspirations and business needs, and a Leadership Lounge for direct connection between leaders and employees.",
+  "key_use_cases": [
+    "Fostering and managing a Skill-Based Organization",
+    "Identifying and bridging skill gaps",
+    "Accelerating employee skill development and learning efficiency",
+    "Aligning organizational skill strategy with business goals",
+    "Strategic workforce planning based on skill demands",
+    "Facilitating internal talent mobility through AI-recommended opportunities (learning, mentorship, gigs, jobs)",
+    "Guiding employee upskilling and career development through skill-paths",
+    "Connecting leaders and employees around skill development initiatives"
+  ],
+  "competitive_advantages": [
+    "Complete solution for fostering a Skill-Based Organization",
+    "Offers a seamless, unbiased, skills-driven experience for all stakeholders (employees and business leaders)",
+    "Leverages AI for personalized recommendations in an Internal Skills Marketplace (learning, mentorship, gigs, jobs)",
+    "Provides structured skill-paths that align employee aspirations with business needs",
+    "Features a unique 'Leadership Lounge' for direct leader-employee engagement on skills"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development (L&D)",
+    "Talent Management",
+    "Workforce Planning",
+    "Talent Acquisition (indirectly, by informing hiring to bridge gaps)",
+    "Career Development",
+    "Employee Engagement (via Leadership Lounge)"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Increased learning efficiency",
+    "Improved training effectiveness",
+    "Enhanced strategic alignment of skills with business objectives",
+    "Reduced organizational skill gaps",
+    "Increased internal talent mobility and retention",
+    "Improved employee engagement and career growth"
+  ],
+  "searchable_keywords": [
+    "Zigtal",
+    "Skill-Based Organization",
+    "Skill Intelligence Platform",
+    "Skill Development",
+    "Skill Gaps",
+    "Learning & Development",
+    "L&D",
+    "Training Management System",
+    "Learning Experience Systems",
+    "LXP",
+    "Upskilling",
+    "Reskilling",
+    "Workforce Planning",
+    "Talent Mobility",
+    "Internal Skills Marketplace",
+    "AI-recommended learning",
+    "Skills Management",
+    "Skill Strategy",
+    "Employee Learning",
+    "Training Effectiveness",
+    "Learning Efficiency",
+    "Career Development",
+    "Leadership Development",
+    "HR Technology",
+    "Skills Insight",
+    "Demand Clarity"
+  ],
+  "primary_users": [
+    "Employees",
+    "Business Leaders",
+    "HR Professionals",
+    "Learning & Development Managers"
+  ],
+  "_weight": 1
+}

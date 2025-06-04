@@ -1,0 +1,173 @@
+{
+  "id": 128,
+  "name": "Links International",
+  "description": "Links International specialises in 100% in-country delivered HR services in Asia with a team of 200+ across the Asia Pacific. Our employment agency, specialises in Human Resources & Administration, Banking, Finance and Accounting, Sales & Marketing, Temporary & Contract, Retail & Luxury, FMCG, Property & Construction and Industrial recruitment",
+  "features": [
+    "In-country hiring and Industrial Hiring",
+    "One HR Platform for All Your Payroll, Leave, and Workforce Management",
+    "Tailored recruitment solutions, ranging from retained and contingent recruitment services to executive search"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [],
+  "tags": [
+    "Hiring Speed",
+    "Hiring efficiency",
+    "Recruiting efficiency"
+  ],
+  "headquarter": "Hong Kong",
+  "launch_date": "1999",
+  "order": 20095,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Over 25 Years of HR Excellence in Asia",
+  "ProductId": null,
+  "ShortDescription": "100% In-Country HR Outsourcing",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Compliant In-Country HR Services.",
+      "sequence": 0,
+      "description": "They provide comprehensive HR solutions that comply with local regulations in each of their 20+ locations across Asia."
+    },
+    {
+      "name": " Scalable Solutions for All Businesses",
+      "sequence": 1,
+      "description": "Links International caters to companies of all sizes, from small startups to large enterprises, with adaptable HR solutions."
+    },
+    {
+      "name": "Streamlined HR Operations",
+      "sequence": 2,
+      "description": "Their services can help businesses improve efficiency and reduce HR workload, allowing you to focus on core business functions."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:20:57.404Z",
+  "enhanced_description": "Links International is an established HR technology provider and employment agency with over 25 years of experience in Asia, boasting a team of 200+ across the Asia Pacific region. They specialize in 100% in-country delivered HR outsourcing services and offer a unified HR platform for payroll, leave, and workforce management. As an employment agency, they provide tailored recruitment solutions, including retained, contingent, executive search, and temporary & contract services, with a focus on industries such as Human Resources & Administration, Banking, Finance and Accounting, Sales & Marketing, Retail & Luxury, FMCG, Property & Construction, and Industrial recruitment. Their compliant HR solutions adhere to local regulations across 20+ Asian locations, are scalable for businesses of all sizes, and are designed to streamline HR operations, helping clients hire top talent faster and more efficiently.",
+  "target_industries": [
+    "Human Resources & Administration",
+    "Banking",
+    "Finance and Accounting",
+    "Sales & Marketing",
+    "Retail & Luxury",
+    "FMCG",
+    "Property & Construction",
+    "Industrial"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "In-country hiring across Asia",
+    "Payroll management",
+    "Leave management",
+    "Workforce management",
+    "Recruitment (retained, contingent, executive search, temporary & contract)",
+    "HR outsourcing",
+    "Streamlining HR operations",
+    "Ensuring HR compliance with local regulations",
+    "Hiring top talent faster and more efficiently"
+  ],
+  "competitive_advantages": [
+    "100% in-country delivered HR services in Asia",
+    "Extensive regional team of 200+ across Asia Pacific",
+    "Over 25 years of HR excellence and experience in Asia",
+    "One integrated HR Platform for Payroll, Leave, and Workforce Management",
+    "Tailored recruitment solutions",
+    "Compliant HR services adhering to local regulations across 20+ Asian locations",
+    "Scalable solutions for all business sizes (small startups to large enterprises)",
+    "Focus on streamlining HR operations to reduce workload and improve efficiency"
+  ],
+  "implementation_scenarios": [
+    "HR Outsourcing",
+    "Managed Payroll Services",
+    "Managed Workforce Management Services"
+  ],
+  "hr_functions_supported": [
+    "Human Resources Administration",
+    "Payroll",
+    "Leave Management",
+    "Workforce Management",
+    "Recruitment (Retained, Contingent, Executive Search, Temporary & Contract, Industrial Hiring)",
+    "HR Compliance"
+  ],
+  "roi_benefits": [
+    "Faster talent acquisition",
+    "Increased hiring efficiency",
+    "Improved HR operational efficiency",
+    "Reduced HR workload",
+    "Ability to focus on core business functions",
+    "Ensured compliance with local regulations (risk reduction)"
+  ],
+  "searchable_keywords": [
+    "Links International",
+    "HR services Asia",
+    "in-country HR",
+    "Asia Pacific HR",
+    "employment agency Asia",
+    "HR platform",
+    "payroll management",
+    "leave management",
+    "workforce management",
+    "recruitment solutions",
+    "retained recruitment",
+    "contingent recruitment",
+    "executive search",
+    "temporary staffing",
+    "contract staffing",
+    "industrial hiring",
+    "HR outsourcing",
+    "HRMS Asia",
+    "HCM Asia",
+    "hiring speed",
+    "hiring efficiency",
+    "recruiting efficiency",
+    "compliant HR services",
+    "scalable HR solutions",
+    "streamlined HR operations",
+    "Hong Kong HR"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Hiring Managers",
+    "Business Leaders",
+    "Employees (for leave/workforce management)"
+  ],
+  "compliance_features": [
+    "Compliance with local regulations across 20+ locations in Asia"
+  ],
+  "scalability_features": [
+    "Adaptable HR solutions catering to companies of all sizes, from small startups to large enterprises"
+  ],
+  "_weight": 1
+}

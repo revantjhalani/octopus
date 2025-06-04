@@ -1,0 +1,150 @@
+{
+  "id": 192,
+  "name": "Opra Group",
+  "description": "The OPRA Group offers a range of People Solutions that are designed to help you get it right every time. From recruitment, pre-employment screening to managing organisational change via HR consultancy, apprenticeships and bespoke training, our experts work with you to develop the potential in your business. Businesses succeed because they have the best people doing the right things. People centric organisations choose the most talented employees from a diverse pool.",
+  "features": [
+    "Find Your Future - Find yourself on the first step of the path to your new job, apprenticeship, or OPRA Flex contract.",
+    "Find Your Talent - Link to our specialist advisors for recruitment packages, OPRA Flex, and apprenticeships.",
+    "Find Your Solution - With our bespoke Compliance, HR Services, and Wellbeing Packages, let us guide and assist you."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Staffing & management software"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Talent sourcing",
+    "Candidate screening"
+  ],
+  "headquarter": "Basildon, Essex",
+  "launch_date": "2017",
+  "order": 20159,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Growing talent together",
+  "ProductId": null,
+  "ShortDescription": "The OPRA Group was created to offer a total People Solutions Service to businesses and applicants",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "OPRA HR Services",
+      "sequence": 0,
+      "description": "We offer a wide range of HR services that can be built into a bespoke package to fit your requirements."
+    },
+    {
+      "name": " OPRA Recruitment",
+      "sequence": 1,
+      "description": "Our OPRA Group consultants are your dedicated partners, involved from initial brief to offer management and onboarding."
+    },
+    {
+      "name": "OPRA Wellbeing",
+      "sequence": 2,
+      "description": "We've developed workshops and sessions with diverse resources covering everyday work-related subjects."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:14.037Z",
+  "enhanced_description": "Opra Group, launched in 2017 and headquartered in Basildon, Essex, provides a comprehensive range of 'People Solutions' designed for businesses and applicants. Their offerings include end-to-end recruitment services (from initial brief to offer management and onboarding), pre-employment screening, and managing organizational change through expert HR consultancy. They also specialize in developing potential within businesses via bespoke training and apprenticeship programs. For businesses, Opra Group offers customized HR services, compliance, and wellbeing packages, including workshops and sessions on work-related subjects. For individuals, they assist in finding new jobs, apprenticeships, or OPRA Flex contracts, aiming to connect talented individuals from diverse pools with people-centric organizations.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Talent acquisition and recruitment (sourcing, screening, offer management, onboarding)",
+    "Pre-employment screening",
+    "Organizational change management",
+    "HR consulting and bespoke HR service packages",
+    "Apprenticeship program management",
+    "Bespoke training and development",
+    "Employee wellbeing support",
+    "Job and career placement services"
+  ],
+  "competitive_advantages": [
+    "Comprehensive 'total People Solutions' service",
+    "Expert-led, partnership-based approach to talent development",
+    "Bespoke and customizable HR service packages",
+    "Dedicated recruitment partners offering end-to-end support (brief to onboarding)"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Pre-employment Screening",
+    "HR Consulting",
+    "Organizational Change Management",
+    "Apprenticeship Management",
+    "Training & Development",
+    "Compliance Management",
+    "Employee Wellbeing"
+  ],
+  "roi_benefits": [
+    "Improved talent acquisition speed and efficiency",
+    "Enhanced quality of hires (top talent, diverse pool)",
+    "Optimized organizational development through bespoke HR solutions",
+    "Improved compliance and risk management",
+    "Enhanced employee wellbeing leading to potential productivity/retention gains"
+  ],
+  "searchable_keywords": [
+    "Opra Group",
+    "People Solutions",
+    "HR Consultancy",
+    "Recruitment",
+    "Pre-employment screening",
+    "Organizational change management",
+    "Apprenticeships",
+    "Training",
+    "HR Services",
+    "Wellbeing",
+    "Talent acquisition",
+    "Candidate screening",
+    "Hiring speed",
+    "Talent sourcing",
+    "Staffing management",
+    "Employee development",
+    "Compliance",
+    "Job placement",
+    "Career services",
+    "Basildon",
+    "Essex"
+  ],
+  "primary_users": [
+    "Businesses",
+    "HR Professionals",
+    "Hiring Managers",
+    "Job Seekers",
+    "Apprenticeship Candidates"
+  ],
+  "compliance_features": [
+    "Bespoke compliance packages",
+    "Guidance and assistance for compliance"
+  ],
+  "_weight": 1
+}

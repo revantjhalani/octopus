@@ -1,0 +1,173 @@
+{
+  "id": 244,
+  "name": "Ramco Systems",
+  "description": "Ramco is a next-gen enterprise software product & platform provider disrupting the market with its multi-tenant cloud and mobile-based enterprise solutions in Global Payroll, ERP and M&E MRO for Aviation. Part of the USD 1 billion Ramco Group, Ramco Systems focuses on Innovation and Culture to differentiate itself in the marketplace. On Innovation front, Ramco has been focusing on moving towards Active ERP and payroll solutions leveraging Artificial Intelligence, Machine Learning and Event Driven Architecture.",
+  "features": [
+    "Progressive Transformation for Third Party Logistics",
+    "Maintenance, Repair, Overhaul (MRO) in Aviation",
+    "Helicopter Maintenance"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Payroll services providers",
+    "Compensation management software",
+    "Benefits administration services"
+  ],
+  "tags": [
+    "Employee benefits"
+  ],
+  "headquarter": "Chennai, TamilNadu",
+  "launch_date": "1997",
+  "order": 20210,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Products & Platforms Driving Business Transformation",
+  "ProductId": null,
+  "ShortDescription": "Ramco Systems Empowering Enterprise Growth With Innovative Products & Platforms",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Aviation Software",
+      "sequence": 0,
+      "description": "Next-Gen MRO software built ground up for aviation, aerospace & defense industries."
+    },
+    {
+      "name": " Global Payroll",
+      "sequence": 1,
+      "description": "Innovative payroll platform embedded with AI & ML, covering 150+ countries."
+    },
+    {
+      "name": "Logistics Software",
+      "sequence": 2,
+      "description": "Integrated Logistics Software exclusively made for 3PLs and Express Parcel Service Providers."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:00.641Z",
+  "enhanced_description": "Ramco Systems, part of the USD 1 billion Ramco Group, is a next-gen enterprise software and platform provider. It delivers multi-tenant cloud and mobile-based enterprise solutions, distinguishing itself through innovation, including the adoption of Artificial Intelligence, Machine Learning, and Event Driven Architecture to create 'Active ERP' and payroll solutions. Its specialized offerings include a Global Payroll platform with capabilities across 150+ countries, next-gen Maintenance, Repair, and Overhaul (MRO) software for the aviation, aerospace & defense industries, and integrated Logistics Software tailored for Third Party Logistics (3PLs) and Express Parcel Service Providers.",
+  "target_industries": [
+    "Aviation",
+    "Aerospace",
+    "Defense",
+    "Logistics",
+    "Third Party Logistics (3PL)",
+    "Express Parcel Service Providers"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Global payroll management",
+    "Enterprise Resource Planning (ERP)",
+    "Maintenance, Repair, and Overhaul (MRO) in Aviation",
+    "Helicopter maintenance",
+    "Progressive transformation for Third Party Logistics",
+    "Integrated logistics management for 3PLs and Express Parcel Services"
+  ],
+  "competitive_advantages": [
+    "Multi-tenant cloud and mobile-based enterprise solutions",
+    "Strong focus on innovation leveraging AI, ML, and Event Driven Architecture",
+    "Offers 'Active ERP' and payroll solutions",
+    "Global payroll coverage across 150+ countries",
+    "Specialized next-gen MRO software built ground up for aviation, aerospace, and defense",
+    "Integrated logistics software exclusively made for 3PLs and Express Parcel Service Providers"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based deployment"
+  ],
+  "hr_functions_supported": [
+    "Payroll",
+    "Compensation Management",
+    "Benefits Administration",
+    "Total Rewards"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Machine Learning (ML)",
+    "Event Driven Architecture",
+    "Multi-tenant Cloud",
+    "Mobile-based"
+  ],
+  "roi_benefits": [
+    "Improve Employee Happiness and Engagement",
+    "Streamlined global payroll operations",
+    "Enhanced efficiency through ERP",
+    "Specialized operational management for aviation MRO and logistics"
+  ],
+  "searchable_keywords": [
+    "Ramco Systems",
+    "enterprise software",
+    "multi-tenant cloud",
+    "mobile-based",
+    "Global Payroll",
+    "ERP",
+    "MRO",
+    "Aviation",
+    "Aerospace",
+    "Defense",
+    "Logistics",
+    "3PL",
+    "Third Party Logistics",
+    "Express Parcel Service Providers",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Event Driven Architecture",
+    "Active ERP",
+    "Total Rewards",
+    "Payroll services providers",
+    "Compensation management software",
+    "Benefits administration services",
+    "Employee benefits",
+    "Progressive Transformation",
+    "Maintenance Repair Overhaul",
+    "Helicopter Maintenance"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Payroll Professionals",
+    "Finance Professionals",
+    "Operations Managers",
+    "Logistics Managers",
+    "Maintenance Managers"
+  ],
+  "deployment_options": [
+    "Cloud (Multi-tenant)"
+  ],
+  "compliance_features": [
+    "Global payroll compliance (150+ countries)"
+  ],
+  "scalability_features": [
+    "Supports global enterprise operations",
+    "Multi-tenant cloud architecture",
+    "Capable of supporting 150+ countries"
+  ],
+  "_weight": 1
+}

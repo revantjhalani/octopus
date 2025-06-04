@@ -1,0 +1,166 @@
+{
+  "id": 1060,
+  "name": "QuickTouch Technologies Limited",
+  "description": "QuickTouch Technologies Limited (www.quicktouch.co.in) is an NSE Emerge - listed software development company based out of New Delhi and Bengaluru. Our 10-year-old company went public this May\u201923 and made waves in the market by getting oversubscribed 107 times! Since then, we have begun our expansion spree and are diversifying our offerings to match various business needs in the fields of EDuTech, Payments, FinTech and InsurTech. Our blockbuster product - school management software with QuickCampus.online which is EduTech Marketplace is currently powering over 3,700 plus schools in India. Quicktouch aspires to achieve phenomenal success in the business by proposing innovative and exemplary IT Development services (Payments, SaaS Products, FinTech, InsurTech, Consulting, Growth Marketing, Website Design & Development, Mobile APP Development, SEO, PPC & Social media Marketing). Traditional development services are time-consuming and expensive, which is why our approach is to deliver something that is not only unique but also cost-effective.",
+  "features": [
+    "Digital Accelerators   ",
+    " Cloud Adoptation",
+    "Content Engineering"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce",
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Artificial intelligence",
+    "Internet of things"
+  ],
+  "tags": [
+    "Workforce diversity",
+    "Workplace diversity",
+    "Skill development",
+    "Learning efficiency"
+  ],
+  "headquarter": "Delhi, Delhi",
+  "launch_date": "2013",
+  "order": 21003,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Build Your Business With Quicktouch",
+  "ProductId": null,
+  "ShortDescription": "Quicktouch, aspire to achieve phenomenal success in the business by proposing innovative and exemplary IT Development services. Traditional development services are time-consuming and expensive.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:39:48.178Z",
+  "enhanced_description": "QuickTouch Technologies Limited, an NSE Emerge-listed software development company founded in 2013, provides innovative and cost-effective IT Development services. While their portfolio spans EduTech (e.g., QuickCampus.online, a school management software powering over 3,700 schools in India), Payments, FinTech, and InsurTech, their offerings also align with HR technology needs. Specifically, QuickTouch leverages Digital Accelerators, Cloud Adoption, Content Engineering, Artificial Intelligence (AI), and Internet of Things (IoT) to develop Training eLearning software and provide solutions designed to help organizations accelerate skill development and learning efficiency, and build a more diverse and inclusive workforce.",
+  "target_industries": [
+    "EduTech",
+    "Payments",
+    "FinTech",
+    "InsurTech"
+  ],
+  "key_use_cases": [
+    "School Management",
+    "SaaS Product Development",
+    "FinTech Solution Development",
+    "InsurTech Solution Development",
+    "Payments System Development",
+    "Training and eLearning Software Development",
+    "Skill Development Program Support",
+    "Learning Efficiency Enhancement",
+    "Workforce Diversity Initiatives",
+    "Workplace Diversity Initiatives",
+    "Digital Transformation Acceleration",
+    "Cloud Strategy and Adoption",
+    "Content Development and Engineering",
+    "Website Design and Development",
+    "Mobile Application Development",
+    "SEO Services",
+    "PPC Advertising Management",
+    "Social Media Marketing",
+    "IT Consulting"
+  ],
+  "competitive_advantages": [
+    "Proven market success (NSE Emerge listed, IPO oversubscription indicating strong demand)",
+    "Extensive experience (10 years in the market since 2013 launch)",
+    "Large customer base in EduTech with a flagship product (QuickCampus.online powering over 3,700 schools)",
+    "Commitment to delivering unique and cost-effective IT solutions",
+    "Ability to reduce development time and expense compared to traditional methods",
+    "Diversified service portfolio across multiple industries (EduTech, Payments, FinTech, InsurTech)"
+  ],
+  "implementation_scenarios": [
+    "Custom Software Development Projects",
+    "SaaS Product Development",
+    "Cloud-based Solution Implementation",
+    "Mobile Application Development",
+    "Website Development"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Training Management",
+    "Skill Management",
+    "Diversity, Equity, and Inclusion (DEI) Support"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Internet of Things (IoT)"
+  ],
+  "roi_benefits": [
+    "Reduced IT development costs",
+    "Faster time-to-market for software solutions",
+    "Improved skill development within the workforce",
+    "Enhanced learning efficiency"
+  ],
+  "searchable_keywords": [
+    "QuickTouch",
+    "software development",
+    "IT services",
+    "EduTech",
+    "FinTech",
+    "InsurTech",
+    "Payments",
+    "SaaS",
+    "eLearning",
+    "training software",
+    "learning management",
+    "skill development",
+    "workforce diversity",
+    "workplace diversity",
+    "AI",
+    "IoT",
+    "cloud adoption",
+    "digital accelerators",
+    "content engineering",
+    "web development",
+    "mobile app development",
+    "digital marketing",
+    "SEO",
+    "PPC",
+    "social media marketing",
+    "consulting",
+    "cost-effective IT solutions",
+    "QuickCampus.online",
+    "school management"
+  ],
+  "primary_users": [
+    "Organizations seeking custom IT development and consulting services",
+    "Educational institutions (schools)",
+    "HR and Learning & Development professionals",
+    "Employees (as learners utilizing e-learning solutions)"
+  ],
+  "deployment_options": [
+    "Cloud-based (for QuickCampus.online and potentially other SaaS products)"
+  ],
+  "scalability_features": [
+    "Designed for scalability (evidenced by powering over 3,700 schools with QuickCampus.online)",
+    "Cloud-enabled architecture (supports scalable solutions through Cloud Adoption capabilities)"
+  ],
+  "_weight": 1
+}

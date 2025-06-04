@@ -1,0 +1,135 @@
+{
+  "id": 380,
+  "name": "Acqueon",
+  "description": "Founded in 2019, Acqueon is the customer engagement company specializing in outbound use cases for B2C enterprises with a mission to improve human engagement with consumers. Acqueon leverages a rich data platform to help our customers drive Revenue Generation and Revenue Recovery. To achieve these outcomes, Acqueon automates communication workflows to make the most of human resources, optimizes when and how to engage customers using predictive analytics and AI, ensures compliance with privacy and communication regulations, and integrates seamlessly with existing communications infrastructure and systems of record. More than 110,000 agents and 200 customers globally, including Goldman Sachs, US Bank, Centene, United Healthcare, Los Angeles County, US Department of Veterans Affairs, DBS Bank and Thames Water, trust Acqueon to increase revenue outcomes, all while building trusted, loyal customer relationships.",
+  "features": [
+    "Global Exposure-With clients across 18 countries, you will get global exposure for professional development.",
+    "Progressive Office Culture-Talent and knowledge has no boundaries; we believe in a multi-cultural gender neutral environment.",
+    "Collaborative Work Environment-We trust employees with our deliverables; we provide flexible timings to work as per convenience."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Total Rewards",
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Employee recognition software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning speed"
+  ],
+  "headquarter": "",
+  "launch_date": "2019",
+  "order": 20341,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "REVENUE Generation. REVENUE Recovery.",
+  "ProductId": null,
+  "ShortDescription": "Acqueon is on a mission To transform the future of Conversational Engagement and fuel growth through powerful, trusted conversations.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": [],
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": false,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:25:44.046Z",
+  "enhanced_description": "Acqueon, founded in 2019, is a customer engagement company dedicated to improving human-consumer interactions and transforming conversational engagement. Specializing in outbound use cases for B2C enterprises, Acqueon's core mission is to fuel growth through powerful, trusted conversations, driving Revenue Generation and Revenue Recovery. The product leverages a rich data platform to achieve these outcomes by automating communication workflows to optimize human resource utilization within customer engagement teams. It also employs predictive analytics and AI to determine the most effective time and method for customer engagement, ensures compliance with privacy and communication regulations, and integrates seamlessly with existing communications infrastructure and systems of record. Trusted globally by over 110,000 agents and 200 customers, including major entities like Goldman Sachs, US Bank, Centene, United Healthcare, Los Angeles County, US Department of Veterans Affairs, DBS Bank, and Thames Water, Acqueon aims to increase revenue outcomes while fostering trusted, loyal customer relationships.",
+  "target_industries": [
+    "Financial Services",
+    "Healthcare",
+    "Government",
+    "Utilities",
+    "B2C Enterprises"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Outbound customer engagement",
+    "Revenue Generation",
+    "Revenue Recovery",
+    "Automating communication workflows",
+    "Optimizing customer engagement using AI and predictive analytics",
+    "Ensuring compliance with privacy and communication regulations"
+  ],
+  "competitive_advantages": [
+    "Specialization in outbound B2C use cases",
+    "Leverages a rich data platform for insights",
+    "Utilizes predictive analytics and AI for optimized engagement",
+    "Ensures compliance with privacy and communication regulations",
+    "Seamless integration with existing communications infrastructure and systems of record"
+  ],
+  "implementation_scenarios": [
+    "Integration with existing communications infrastructure",
+    "Integration with existing systems of record"
+  ],
+  "hr_functions_supported": [
+    "Workforce optimization (for customer engagement teams)"
+  ],
+  "technology_stack": [
+    "Predictive Analytics",
+    "Artificial Intelligence (AI)",
+    "Data Platform"
+  ],
+  "integration_capabilities": [
+    "Existing communications infrastructure",
+    "Systems of record"
+  ],
+  "roi_benefits": [
+    "Increase revenue outcomes",
+    "Drive Revenue Generation",
+    "Drive Revenue Recovery",
+    "Improve human engagement with consumers",
+    "Optimize utilization of human resources (agents)",
+    "Build trusted, loyal customer relationships"
+  ],
+  "searchable_keywords": [
+    "Acqueon",
+    "customer engagement",
+    "outbound communications",
+    "B2C",
+    "revenue generation",
+    "revenue recovery",
+    "communication workflows",
+    "predictive analytics",
+    "AI",
+    "compliance",
+    "agent optimization",
+    "conversational engagement",
+    "data platform"
+  ],
+  "primary_users": [
+    "Agents (customer engagement)",
+    "B2C enterprise management",
+    "Operations leaders (customer engagement)"
+  ],
+  "compliance_features": [
+    "Compliance with privacy regulations",
+    "Compliance with communication regulations"
+  ],
+  "scalability_features": [
+    "Supports over 110,000 agents",
+    "Serves 200+ global customers"
+  ],
+  "_weight": 1
+}

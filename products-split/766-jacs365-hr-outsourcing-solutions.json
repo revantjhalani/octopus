@@ -1,0 +1,132 @@
+{
+  "id": 766,
+  "name": "JACS365 HR Outsourcing Solutions",
+  "description": "JACS365HR Consultancy, we understand the pivotal role talent plays in the success of any organisation. We focus on enhancing the SME\u2019s. Established with a passion for connecting exceptional candidates with top-notch companies, we have emerged as a leading recruitment consultancy dedicated to shaping Job careers and driving business growth.",
+  "features": [
+    "Niche IT Hiring",
+    "Work with KRA and KPI tool",
+    "Offer bulk hiring"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Job boards",
+    "Recruiting software",
+    "Onboarding software",
+    "HR management suites"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring efficiency"
+  ],
+  "headquarter": "Puducherry",
+  "launch_date": "2021",
+  "order": 20719,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Recruitments refreshed",
+  "ProductId": null,
+  "ShortDescription": "The one-stop solution for Job Seekers and Businesses.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:03.406Z",
+  "enhanced_description": "JACS365 HR Outsourcing Solutions, established in 2021, operates as an HR consultancy specializing in recruitment and talent management. The service focuses on enhancing the success of Small and Medium-sized Enterprises (SMEs) by connecting exceptional candidates with top-notch companies. It aims to be a one-stop solution for both job seekers and businesses, driving business growth through refreshed recruitment processes.",
+  "target_industries": [
+    "IT"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Medium"
+  ],
+  "key_use_cases": [
+    "Niche IT recruitment",
+    "Bulk hiring for various roles",
+    "Performance objective setting and tracking using KRA and KPI tools",
+    "General talent acquisition and candidate placement"
+  ],
+  "competitive_advantages": [
+    "Specialization in Niche IT hiring",
+    "Capability for high-volume bulk hiring",
+    "Structured performance management approach through KRA and KPI tools",
+    "Dedicated focus on Small and Medium-sized Enterprises (SMEs)"
+  ],
+  "implementation_scenarios": [
+    "Outsourced recruitment services",
+    "Consultancy-led talent management support"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Management",
+    "Onboarding",
+    "Performance Management",
+    "HR Management"
+  ],
+  "roi_benefits": [
+    "Boost hiring manager confidence",
+    "Increase hiring manager productivity",
+    "Improve employee happiness",
+    "Enhance employee engagement",
+    "Drive business growth",
+    "Improve hiring efficiency"
+  ],
+  "searchable_keywords": [
+    "HR Outsourcing",
+    "Recruitment",
+    "Talent Management",
+    "Hiring",
+    "Niche IT Hiring",
+    "Bulk Hiring",
+    "KRA",
+    "KPI",
+    "Performance Management",
+    "SME HR",
+    "Job Seekers",
+    "Business HR",
+    "Hiring Efficiency",
+    "HR Consultancy",
+    "Onboarding",
+    "HR Management Suites"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Professionals",
+    "Job Seekers",
+    "Business Leaders"
+  ],
+  "deployment_options": [
+    "Service-based (Outsourced/Consultancy)"
+  ],
+  "scalability_features": [
+    "Supports bulk hiring volumes"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,117 @@
+{
+  "id": 1330,
+  "name": "Flip Health",
+  "description": "Flip Health is an app-based Virtual Care Platform with a broad focus on Employee Health Benefits, 360\u00b0 Wellness and Overall Health Management - our biggest USP is providing continuous care and all-round wellness through personalized health care journeys. Finally, an end-to-end healthcare solution that works as hard as your team does!",
+  "features": [
+    "Chronic Condition Management.",
+    "Women+ Health Management.",
+    "Mental Wellness & Sleep Management."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration services",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee benefits"
+  ],
+  "headquarter": "India (Hyderabad)",
+  "launch_date": "2021",
+  "order": 21149,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Flip your health - Supercharging your health benefits",
+  "ProductId": null,
+  "ShortDescription": "Your gateway to holistic wellness and employee benefits.\nIntroducing India\u2019s First Pocket Doctor!",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:56.272Z",
+  "enhanced_description": "Flip Health is an app-based Virtual Care Platform specifically designed for employee health benefits, 360\u00b0 wellness, and overall health management. It distinguishes itself by providing continuous, personalized healthcare journeys, aiming to be an end-to-end solution for holistic wellness. As 'India's First Pocket Doctor', its core features include Chronic Condition Management, Women+ Health Management, and Mental Wellness & Sleep Management. The platform's primary business objective is to improve employee happiness and engagement by offering comprehensive health and safety services.",
+  "key_use_cases": [
+    "Managing employee health benefits",
+    "Delivering 360-degree wellness programs for employees",
+    "Facilitating overall employee health management",
+    "Providing virtual care for chronic conditions",
+    "Supporting women's health needs within the workforce",
+    "Offering mental wellness and sleep management support to employees",
+    "Enhancing employee engagement through health and wellness services",
+    "Providing continuous and personalized healthcare for employees"
+  ],
+  "competitive_advantages": [
+    "Provides continuous and personalized healthcare journeys (stated USP)",
+    "Positioned as 'India\u2019s First Pocket Doctor' (implies pioneering/innovation in the Indian market)",
+    "Offers an end-to-end healthcare solution for comprehensiveness",
+    "App-based virtual care platform for accessibility and convenience"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards",
+    "Benefits Administration",
+    "Employee Well-being",
+    "Health & Safety",
+    "Employee Engagement"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness",
+    "Improved Employee Engagement"
+  ],
+  "searchable_keywords": [
+    "Flip Health",
+    "Virtual Care Platform",
+    "Employee Health Benefits",
+    "Wellness Management",
+    "Overall Health Management",
+    "Chronic Condition Management",
+    "Women+ Health Management",
+    "Mental Wellness",
+    "Sleep Management",
+    "Personalized Healthcare",
+    "End-to-End Healthcare Solution",
+    "Pocket Doctor",
+    "Holistic Wellness",
+    "Total Rewards",
+    "Benefits Administration Services",
+    "Health & Safety Providers",
+    "Employee Well-being",
+    "Employee Benefits",
+    "Employee Happiness",
+    "Employee Engagement",
+    "App-based Healthcare",
+    "India"
+  ],
+  "primary_users": [
+    "Employees (as end-users utilizing the virtual care platform and wellness programs)",
+    "HR Professionals (as administrators and decision-makers for employee benefits and wellness)"
+  ],
+  "deployment_options": [
+    "Mobile Application (App-based)"
+  ],
+  "_weight": 1
+}

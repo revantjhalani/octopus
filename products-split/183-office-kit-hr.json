@@ -1,0 +1,146 @@
+{
+  "id": 183,
+  "name": "Office kit HR",
+  "description": "The current version is 59 words. Here's a slight revision to ensure clarity while maintaining the word count:\n\nFounded in 2016, OfficeKit HR solves critical business challenges by combining Talent, Technology, and Transformation. We streamline HR processes, hire best-fit talent, simplify benefits management, and drive employee engagement. Our personalized recruitment and onboarding processes empower employees and management, improve HR decisions, and amplify success. Choose the right candidate for the right job with OfficeKit HR.",
+  "features": [
+    " Integrating Technology in Recruitment & Onboarding",
+    "Performance Management with Technology",
+    "Payroll Management using Technology"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Career management software",
+    "Onboarding software"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Talent acquisition",
+    "Talent sourcing"
+  ],
+  "headquarter": "Calicut, Kerala",
+  "launch_date": "2016",
+  "order": 20150,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Revolutionize HR Management with the Best HR Software",
+  "ProductId": null,
+  "ShortDescription": "We are passionate about transforming Traditional HR through technology",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Stream-line HR Processes",
+      "sequence": 0,
+      "description": "Make simplification a priority. Simplification takes time and staff."
+    },
+    {
+      "name": "Simplify Benefits Management",
+      "sequence": 1,
+      "description": "Help employees develop and improve and Identify your leadership style."
+    },
+    {
+      "name": "Drive Employee Engagement",
+      "sequence": 2,
+      "description": "with employees feeling an emotional connection to a company."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:04.905Z",
+  "enhanced_description": "Founded in 2016, OfficeKit HR is dedicated to transforming traditional HR processes through technology. This HR software revolutionizes HR management by combining Talent, Technology, and Transformation to solve critical business challenges. It streamlines HR processes, simplifies benefits management, and drives employee engagement. With a focus on personalized recruitment and onboarding, OfficeKit HR helps businesses hire best-fit talent, empowering employees and management, improving HR decisions, and amplifying success by ensuring the right candidate is chosen for the right job.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Streamlining HR processes",
+    "Hiring best-fit talent",
+    "Simplifying benefits management",
+    "Driving employee engagement",
+    "Improving HR decisions",
+    "Integrating technology in recruitment & onboarding",
+    "Managing employee performance with technology",
+    "Managing payroll using technology"
+  ],
+  "competitive_advantages": [
+    "Combines Talent, Technology, and Transformation for holistic HR solutions",
+    "Offers personalized recruitment and onboarding processes",
+    "Transforms traditional HR through technology"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Onboarding",
+    "Performance Management",
+    "Payroll Management",
+    "Benefits Management",
+    "Employee Engagement",
+    "Talent Management",
+    "HR Process Streamlining",
+    "Staffing & Management",
+    "Career Management"
+  ],
+  "roi_benefits": [
+    "Hire top talent faster and more efficiently",
+    "Streamline HR processes for greater efficiency",
+    "Improve HR decisions",
+    "Amplify overall business success",
+    "Empower employees and management"
+  ],
+  "searchable_keywords": [
+    "Office kit HR",
+    "HR software",
+    "HR management",
+    "HR processes",
+    "Talent",
+    "Technology",
+    "Transformation",
+    "Recruitment",
+    "Onboarding",
+    "Performance Management",
+    "Payroll Management",
+    "Benefits Management",
+    "Employee Engagement",
+    "Best-fit talent",
+    "HR decisions",
+    "Hiring speed",
+    "Talent acquisition",
+    "Talent sourcing",
+    "Staffing management",
+    "Career management",
+    "Traditional HR",
+    "HR solutions"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Managers",
+    "Employees"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,150 @@
+{
+  "id": 581,
+  "name": "Fifth Domain",
+  "description": "FifthDomain is an Australian sovereign leader in cyber workforce technologies. We provide solutions across the entire employee lifecycle of cyber operators: from support for cyber educators through to solving cyber workforce recruitment and retention challenges. We are trusted by Australian Government and Enterprise.Our solutions and cyber workforce management technologies make it possible for your team to develop and retain the cyber capability it needs for success. The evolution and asymmetric risk of cyber threats will only accelerate over time. Talented cyber operators remain your best defence. FifthDomain is your trusted partner, and our technology is your secret weapon, in the war for winning great cyber talent.",
+  "features": [
+    "Attract great cyber talent.",
+    "Train your cyber operators.",
+    "Learning Management System"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Internet of things",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Learning efficiency",
+    "Learning optimisation"
+  ],
+  "headquarter": "Canberra, ACT",
+  "launch_date": "2015",
+  "order": 20539,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Your trusted partner in securing cyber skills.",
+  "ProductId": null,
+  "ShortDescription": "FifthDomain are leaders in cyber security workforce management technologies..",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": " Cyber Operations Managers",
+      "sequence": 0,
+      "description": "You want to get the right people, with the right skills, in the right job. Fifth Domain helps you pin-point skills needs, profile people\u2019s skills, and match people to teams."
+    },
+    {
+      "name": "Training Providers",
+      "sequence": 1,
+      "description": "You want to increase student learning enjoyment and skills confidence. Fifth Domain helps you provide more realistic training and assessments, more easily."
+    },
+    {
+      "name": "Recruitment Firms",
+      "sequence": 2,
+      "description": "You want to source and process better cyber talent faster. Fifth Domain helps you run attraction campaigns and skills assessments with ease."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:30:26.167Z",
+  "enhanced_description": "FifthDomain is an Australian sovereign leader specializing in cyber workforce technologies, providing comprehensive solutions across the entire employee lifecycle of cyber operators. The platform supports cyber educators and addresses critical cyber workforce recruitment and retention challenges. Trusted by Australian Government and Enterprise, FifthDomain helps organizations develop and retain essential cyber capabilities. Its technology assists Cyber Operations Managers in pinpointing skills needs, profiling individual skills, and matching personnel to teams. For Training Providers, it enables more realistic and engaging training and assessments. Recruitment Firms benefit from streamlined attraction campaigns and skills assessments, facilitating faster sourcing and processing of high-quality cyber talent. The platform includes a Learning Management System and leverages technologies like AI and IoT to accelerate skill development and optimize learning efficiency.",
+  "target_industries": [
+    "Government"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Cyber Talent Acquisition and Recruitment",
+    "Cyber Workforce Development and Training",
+    "Cyber Skills Assessment and Profiling",
+    "Cyber Team Formation and Placement",
+    "Cyber Workforce Retention"
+  ],
+  "competitive_advantages": [
+    "Australian sovereign leader in cyber workforce technologies",
+    "Trusted by Australian Government and Enterprise",
+    "Comprehensive solutions across the entire employee lifecycle of cyber operators",
+    "Enables more realistic training and assessments more easily",
+    "Facilitates faster sourcing and processing of cyber talent"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Learning & Development",
+    "Workforce Planning",
+    "Talent Management"
+  ],
+  "technology_stack": [
+    "Artificial intelligence (AI)",
+    "Internet of things (IoT)"
+  ],
+  "roi_benefits": [
+    "Improved cyber capability and defense through effective talent development and retention",
+    "Increased student learning enjoyment and skills confidence",
+    "Faster sourcing and processing of better cyber talent",
+    "Accelerated skill development and increased learning efficiency"
+  ],
+  "searchable_keywords": [
+    "Fifth Domain",
+    "FifthDomain",
+    "cyber workforce technologies",
+    "cyber operators",
+    "cyber educators",
+    "cyber workforce recruitment",
+    "cyber workforce retention",
+    "cyber capability",
+    "cyber talent",
+    "cyber skills",
+    "Attract cyber talent",
+    "Train cyber operators",
+    "Learning Management System",
+    "LMS",
+    "Skill Development",
+    "Learning Efficiency",
+    "Learning Optimisation",
+    "cyber security workforce management",
+    "Cyber Operations Managers",
+    "Training Providers",
+    "Recruitment Firms",
+    "skills needs",
+    "profile people's skills",
+    "match people to teams",
+    "realistic training",
+    "assessments",
+    "attraction campaigns",
+    "AI",
+    "IoT"
+  ],
+  "primary_users": [
+    "Cyber Operations Managers",
+    "Training Providers",
+    "Recruitment Firms",
+    "Cyber educators",
+    "Cyber operators"
+  ],
+  "_weight": 1
+}

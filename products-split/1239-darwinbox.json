@@ -1,0 +1,226 @@
+{
+  "id": 1239,
+  "name": "Darwinbox",
+  "description": "Darwinbox is the leading provider of cloud-based Human Resources Management Software (HRMS). Our SaaS platform engages and empowers employees across the entire lifecycle (hire-to-retire) with a smarter, simpler & mobile-first HR Tech experience powered by Artificial Intelligence (AI) and Machine Learning (ML).",
+  "features": [
+    "We Believe There is Always a Better Way",
+    "We Think Like Our Customers & Act Like Their Partners",
+    "We Never Learnt to Pass the Buck"
+  ],
+  "founders": [
+    "Jayant Paleti "
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Talent Management",
+    "Total Rewards",
+    "Recruiting",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software",
+    "Human Resource Information Systems (HRIS)",
+    "Human Capital Management",
+    "Human Resource Management Systems (HRMS)",
+    "HR analytics software",
+    "HR management suites",
+    "Career management software",
+    "Employee engagement software",
+    "Experience Software",
+    "Employee scheduling software",
+    "Talent management software",
+    "Time tracking",
+    "Workforce management",
+    "Benefits administration software",
+    "Compensation management software",
+    "Employee recognition software",
+    "Performance management system",
+    "Benefits administration services",
+    "Performance management solutions",
+    "Performance Review software",
+    "Sales compensation software",
+    "Payroll services providers",
+    "Recruiting software",
+    "Pre-employment screening software",
+    "Background check software",
+    "Pre-employment testing software",
+    "Reference check software",
+    "Recruiting automation software",
+    "Talent acquisition suites",
+    "Applicant tracking system (ATS)",
+    "Onboarding software",
+    "Recruitment marketing platforms"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Talent sourcing",
+    "Data-driven hiring",
+    "Hiring speed"
+  ],
+  "headquarter": "Hyderabad, India",
+  "launch_date": "2015",
+  "order": 9,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "AI Powered HCM for the Evolving World of Work",
+  "ProductId": null,
+  "ShortDescription": "Darwinbox is a cloud-based HR platform that offers an end-to-end, agile HRMS suite for the evolving world of work.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Core HR:",
+      "sequence": 0,
+      "description": "Adapt to new realities smarter and faster. Define the future of work for your organization with a flexible, robust, global HR Core."
+    },
+    {
+      "name": "Employee Engagement",
+      "sequence": 1,
+      "description": "Keep your employees engaged, happy and inspired with a comprehensive approach to employee engagement so you can keep a close ear to your people\u2019s sentiments and health."
+    },
+    {
+      "name": "Time & Attendance",
+      "sequence": 2,
+      "description": "Unlock higher productivity and make the most of your people\u2019s time with an integrated and advanced time and attendance management system."
+    }
+  ],
+  "Approved": true,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:12:55.333Z",
+  "enhanced_description": "Darwinbox is a leading cloud-based Human Resources Management Software (HRMS) and Human Capital Management (HCM) platform. This SaaS solution offers an end-to-end, agile HRMS suite designed to engage and empower employees across their entire lifecycle, from hire-to-retire. It provides a smarter, simpler, and mobile-first HR Tech experience, significantly powered by Artificial Intelligence (AI) and Machine Learning (ML), catering to the evolving world of work.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "End-to-end HR lifecycle management (hire-to-retire)",
+    "Faster and more efficient talent acquisition",
+    "Flexible and robust global Core HR operations",
+    "Comprehensive employee engagement and well-being management",
+    "Integrated time and attendance management for productivity",
+    "Workforce management",
+    "Performance management",
+    "Total Rewards management (benefits, compensation, recognition)"
+  ],
+  "competitive_advantages": [
+    "AI and Machine Learning powered HR platform",
+    "Mobile-first HR experience",
+    "End-to-end and agile HRMS suite",
+    "Flexible, robust, and global HR Core",
+    "Focus on accelerating talent acquisition",
+    "Customer-centric approach (Act Like Their Partners)"
+  ],
+  "hr_functions_supported": [
+    "Core HR",
+    "Human Resources Information Systems (HRIS)",
+    "Human Capital Management (HCM)",
+    "Talent Management",
+    "Recruiting",
+    "Talent Acquisition",
+    "Applicant Tracking System (ATS)",
+    "Onboarding",
+    "Performance Management",
+    "Performance Review",
+    "Total Rewards",
+    "Benefits Administration",
+    "Compensation Management",
+    "Employee Recognition",
+    "Sales Compensation",
+    "Payroll",
+    "Workforce Management",
+    "Time Tracking",
+    "Employee Scheduling",
+    "Employee Engagement",
+    "HR Analytics",
+    "Career Management",
+    "Pre-employment Screening",
+    "Background Check",
+    "Pre-employment Testing",
+    "Reference Check",
+    "Recruiting Automation",
+    "Recruitment Marketing"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Machine Learning (ML)",
+    "Cloud-based (SaaS)"
+  ],
+  "roi_benefits": [
+    "Faster and more efficient talent acquisition",
+    "Improved employee engagement and well-being",
+    "Increased employee productivity and time utilization",
+    "Enhanced organizational agility and adaptability",
+    "Streamlined HR operations"
+  ],
+  "searchable_keywords": [
+    "Darwinbox",
+    "HRMS",
+    "HCM",
+    "HR Tech",
+    "Cloud HR",
+    "SaaS HR",
+    "AI HR",
+    "ML HR",
+    "Mobile-first HR",
+    "End-to-end HR",
+    "Hire-to-retire",
+    "Core HR",
+    "Talent Management",
+    "Recruiting",
+    "Talent Acquisition",
+    "ATS",
+    "Onboarding",
+    "Performance Management",
+    "Employee Engagement",
+    "Time & Attendance",
+    "Workforce Management",
+    "Payroll",
+    "Benefits Administration",
+    "Compensation Management",
+    "Employee Recognition",
+    "HR Analytics",
+    "HRIS",
+    "Global HR",
+    "Large Enterprise HR",
+    "Data-driven hiring",
+    "Hiring speed",
+    "Agile HRMS",
+    "Evolving World of Work",
+    "Human Capital Management"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Employees"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "SaaS"
+  ],
+  "scalability_features": [
+    "Supports Large Enterprise and Global Enterprise",
+    "Flexible and robust global HR Core"
+  ],
+  "_weight": 1
+}

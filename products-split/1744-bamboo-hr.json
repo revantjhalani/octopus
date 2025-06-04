@@ -1,0 +1,155 @@
+{
+  "id": 1744,
+  "name": "Bamboo HR",
+  "description": "Serving more than 34,000 customers and 3 million employees, BambooHR is the leading software provider powering the strategic evolution of HR in small and medium businesses.  BambooHR's cloud-based system is an intuitive, affordable way for growing companies to manage essential employee information in a personalized Human Resources Information System (HRIS). Its software sets HR free to do great work and be more strategic, which helps the entire organization do the same.",
+  "features": [
+    "Saved $20,000 annually and 20 hours a week with BambooHR payroll",
+    "Saved $40,000 annually and hundreds of hours with BambooHR Performance Management",
+    "Shortened a 3 week benefits admin process into just 2 days with BambooHR Benefits Administration"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Recruiting",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software",
+    "Recruiting software",
+    "Human Resource Information Systems (HRIS)",
+    "Staffing & management software"
+  ],
+  "tags": [
+    "Recruiting",
+    "HRMS",
+    "Employee engagement"
+  ],
+  "headquarter": "Lindon, UT",
+  "launch_date": "2008",
+  "order": 21344,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "One Easy-to-Use Platform for Everything HR",
+  "ProductId": null,
+  "ShortDescription": "Simplify HR with award-winning solutions for everything from hire to retire",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "HR Data & Reporting",
+      "sequence": 0,
+      "description": "BambooHR is your hub for data management and insights, with the employee record at the heart of it all."
+    },
+    {
+      "name": "Hiring & Onboarding",
+      "sequence": 1,
+      "description": "BambooHR helps you quickly find, hire, and onboard the best talent. "
+    },
+    {
+      "name": "Employee Experience & Performance",
+      "sequence": 2,
+      "description": " BambooHR offers tools to help measure employee satisfaction, gather feedback, and reach performance goalposts."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-07-10T07:26:21.753Z",
+  "enhanced_description": "BambooHR is a leading cloud-based HR software provider specifically designed for small and medium businesses, serving over 34,000 customers and 3 million employees. This intuitive and affordable Human Resources Information System (HRIS) streamlines HR operations from hiring and onboarding to core HR data management, payroll, performance, and benefits administration. Recognized as an award-winning solution, it consolidates HR functions into one easy-to-use platform, empowering HR professionals to be more strategic and improve overall employee experience from 'hire to retire'.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium"
+  ],
+  "key_use_cases": [
+    "Centralized employee data management and reporting",
+    "Streamlining hiring and onboarding processes",
+    "Automating payroll administration",
+    "Managing employee performance and gathering feedback",
+    "Simplifying benefits enrollment and administration",
+    "Measuring employee satisfaction and engagement",
+    "Freeing up HR time for strategic initiatives"
+  ],
+  "competitive_advantages": [
+    "Proven ability to generate significant cost savings (e.g., $20,000 annually in payroll, $40,000 annually in performance management)",
+    "Substantial time savings in HR administrative tasks (e.g., 20 hours/week in payroll, hundreds of hours in performance management, reducing benefits admin from 3 weeks to 2 days)",
+    "Intuitive and easy-to-use platform for comprehensive HR management",
+    "Consolidates various HR functions into a single system",
+    "Affordable solution tailored for growing companies",
+    "Enables HR professionals to be more strategic"
+  ],
+  "hr_functions_supported": [
+    "Core HR / HRIS (Employee Data & Reporting)",
+    "Recruiting / Applicant Tracking",
+    "Onboarding",
+    "Payroll",
+    "Performance Management",
+    "Benefits Administration",
+    "Employee Experience & Engagement"
+  ],
+  "roi_benefits": [
+    "Annual payroll cost savings of $20,000",
+    "Weekly payroll time savings of 20 hours",
+    "Annual performance management cost savings of $40,000",
+    "Hundreds of hours saved annually in performance management processes",
+    "Reduction of benefits administration process from 3 weeks to 2 days",
+    "Improved employee happiness and engagement",
+    "Increased capacity for HR to perform strategic work"
+  ],
+  "searchable_keywords": [
+    "BambooHR",
+    "HR software",
+    "HRIS",
+    "HRMS",
+    "HCM",
+    "Human Resources Information System",
+    "Cloud HR",
+    "Small business HR",
+    "Medium business HR",
+    "Payroll software",
+    "Performance management",
+    "Benefits administration",
+    "Recruiting software",
+    "Hiring software",
+    "Onboarding software",
+    "Employee data management",
+    "HR reporting",
+    "Employee experience",
+    "Employee engagement",
+    "Core HR",
+    "Staffing & management software",
+    "Strategic HR",
+    "HR platform",
+    "Time savings HR",
+    "Cost savings HR"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Employees",
+    "Managers"
+  ],
+  "deployment_options": [
+    "Cloud-based / SaaS"
+  ],
+  "_weight": 1
+}

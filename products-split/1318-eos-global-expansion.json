@@ -1,0 +1,155 @@
+{
+  "id": 1318,
+  "name": "EOS Global Expansion",
+  "description": "Eos is Asia\u2019s leading provider of outsourced employment solutions. Under a model known as PEO ( Professional Employer Organization ), or GEO ( Global Employer Organization ), we hire your staff as employees into our own local company in your target country, so you don\u2019t need to register your own subsidiary. We manage all of the payroll, tax, and HR functions that require expert local knowledge. Your team then oversee the employees day to day activities as usual \u2013 You can focus on your business objectives and leave the rest to us.",
+  "features": [
+    "Global PEO and EOR Services",
+    "Company Incorporation",
+    "Recruitment & Talent Acquisition",
+    "Visa & Immigration Services"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Recruiting",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "HR consulting providers",
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Hiring",
+    "Hiring efficiency"
+  ],
+  "headquarter": "India",
+  "launch_date": "2010",
+  "order": 21137,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Navigating the complexities of global expansion is our expertise.",
+  "ProductId": null,
+  "ShortDescription": "Hire staff quickly & compliantly, without the cost, delays, or resource drain of setting up a foreign subsidiary",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Visa Sponsorship and Immigration Services",
+      "sequence": 0,
+      "description": "We guide you through the intricate visa application process and ensure your employees have the permits to work legally in their respective countries."
+    },
+    {
+      "name": "Payroll, Benefits, and Expenses",
+      "sequence": 1,
+      "description": "We handle all payroll calculations, benefits administration, and expense reimbursement, ensuring compliance with local tax and labor laws."
+    },
+    {
+      "name": "Tax Management and Leave Administration",
+      "sequence": 2,
+      "description": "We manage tax registrations, tax filings, and leave accruals, relieving you of the administrative burden."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:48.834Z",
+  "enhanced_description": "EOS Global Expansion is Asia's leading provider of outsourced employment solutions, operating under a PEO (Professional Employer Organization) or GEO (Global Employer Organization) model. This service enables companies to hire staff in target countries without needing to establish a local subsidiary, as EOS employs the staff within its local entities. EOS manages comprehensive HR functions, including payroll calculations, benefits administration, expense reimbursement, tax registrations and filings, and leave accruals, ensuring compliance with local tax and labor laws. Additionally, the service provides expert support for visa sponsorship, immigration services, and company incorporation. It also offers recruitment and talent acquisition services. This allows client companies to hire staff quickly and compliantly, focusing on their business objectives while EOS handles the complexities of global employment.",
+  "ideal_company_sizes": [
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Global workforce expansion without establishing legal entities.",
+    "Ensuring compliance with local labor and tax laws in foreign countries.",
+    "Streamlining international payroll and benefits administration.",
+    "Facilitating global talent acquisition and recruitment.",
+    "Managing international visa and immigration processes for employees.",
+    "Reducing the administrative burden and costs associated with international hiring."
+  ],
+  "competitive_advantages": [
+    "Elimination of the need for clients to register foreign subsidiaries.",
+    "Expertise in local payroll, tax, HR, and immigration compliance.",
+    "Enabling rapid and compliant global hiring.",
+    "Reducing cost, delays, and resource drain associated with global expansion.",
+    "Allowing clients to focus on core business objectives.",
+    "Comprehensive outsourced employment solutions (PEO/EOR)."
+  ],
+  "implementation_scenarios": [
+    "Companies expanding into new countries, particularly in Asia, seeking to hire employees quickly and compliantly without establishing a local legal entity."
+  ],
+  "hr_functions_supported": [
+    "Payroll management",
+    "Tax management",
+    "Benefits administration",
+    "Expense reimbursement",
+    "Leave administration",
+    "Recruitment and Talent Acquisition",
+    "Visa and Immigration services",
+    "HR compliance",
+    "Employer of Record (EOR) services",
+    "Professional Employer Organization (PEO) services"
+  ],
+  "roi_benefits": [
+    "Reduced costs associated with international subsidiary setup.",
+    "Accelerated time to market for global expansion initiatives.",
+    "Mitigation of compliance risks related to international employment laws and taxes.",
+    "Optimization of internal resources by outsourcing complex HR operations.",
+    "Enhanced focus on strategic business objectives."
+  ],
+  "searchable_keywords": [
+    "Global PEO",
+    "Global EOR",
+    "Employer of Record",
+    "Professional Employer Organization",
+    "Outsourced Employment",
+    "International Hiring",
+    "Global Payroll",
+    "International Tax Management",
+    "Global HR",
+    "Visa Sponsorship",
+    "Immigration Services",
+    "Global Recruitment",
+    "Talent Acquisition",
+    "Company Incorporation",
+    "Global Expansion",
+    "Cross-border Hiring",
+    "International Benefits",
+    "HR Compliance",
+    "Global Workforce",
+    "Hiring Efficiency",
+    "Foreign Subsidiary Alternative",
+    "HR Consulting",
+    "Payroll Services"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "Finance Teams",
+    "Business Leaders",
+    "Talent Acquisition Teams",
+    "Legal Teams"
+  ],
+  "compliance_features": [
+    "Adherence to local tax laws",
+    "Adherence to local labor laws",
+    "Visa and immigration compliance"
+  ],
+  "_weight": 1
+}

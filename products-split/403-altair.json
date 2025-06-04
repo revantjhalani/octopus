@@ -1,0 +1,187 @@
+{
+  "id": 403,
+  "name": "Altair",
+  "description": "Altair leads in computational intelligence, providing software and cloud solutions for simulation, HPC, and AI. Our vision is to drive innovation and sustainability globally, enabling industries to thrive in a connected world. With a strong emphasis on culture and diversity, Altair fosters a workforce that embraces innovation, integrity, and inclusivity, recognized for its leadership in sustainability and workplace excellence.",
+  "features": [
+    "Data Analytics and Artificial Intelligence",
+    "Design and Simulation",
+    "Our Cloud Innovation Gateway, Altair One, and Altair Units"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Workforce management",
+    "HR management suites",
+    "Recruitment agencies",
+    "HR consulting providers",
+    "Recruiting automation software",
+    "Software and Services Related to HR Software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Hiring analytics"
+  ],
+  "headquarter": "Troy, USA",
+  "launch_date": "1985",
+  "order": 20364,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Leveraging computational science for innovative, connected, safe, sustainable futures.",
+  "ProductId": null,
+  "ShortDescription": " Altair enables organizations in nearly every industry to compete more effectively",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Accelerate AI Adoption",
+      "sequence": 0,
+      "description": "Remove barriers and accelerate AI adoption by connecting data, people, and processes with Altair\u00ae RapidMiner\u00ae."
+    },
+    {
+      "name": "Artificial Intelligence (AI)",
+      "sequence": 1,
+      "description": "Unleash the power of artificial intelligence to accelerate product innovation and improve business outcomes."
+    },
+    {
+      "name": "Cloud and Hybrid Computing",
+      "sequence": 2,
+      "description": "Break out of the data center, scale up, and get limitless potential with flexible cloud and hybrid cloud solutions from Altair."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:26:22.787Z",
+  "enhanced_description": "Altair specializes in computational intelligence, offering advanced software and cloud solutions for simulation, high-performance computing (HPC), and artificial intelligence (AI). Leveraging computational science, Altair aims to drive innovation and sustainability globally, enabling organizations in nearly every industry to compete more effectively. Key offerings include Data Analytics and Artificial Intelligence capabilities, Design and Simulation tools, and the Altair One Cloud Innovation Gateway powered by a flexible Altair Units licensing model. The platform, including Altair\u00ae RapidMiner\u00ae, is designed to accelerate AI adoption by connecting data, people, and processes, and offers flexible cloud and hybrid computing solutions to break out of traditional data center limitations.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerating AI adoption by connecting data, people, and processes",
+    "Improving business outcomes through artificial intelligence",
+    "Accelerating product innovation through AI",
+    "Design and simulation across various industries",
+    "High-Performance Computing (HPC) for complex workloads",
+    "Cloud and hybrid cloud solutions for scalable computing",
+    "Optimizing talent acquisition processes",
+    "Boosting hiring manager confidence and productivity",
+    "Reducing the cost of hiring qualified employees"
+  ],
+  "competitive_advantages": [
+    "Leadership in computational intelligence",
+    "Ability to accelerate AI adoption through integrated solutions like Altair\u00ae RapidMiner\u00ae",
+    "Flexible cloud and hybrid computing solutions for limitless potential",
+    "Strong emphasis on culture, diversity, sustainability, and workplace excellence",
+    "Comprehensive platform for data analytics, AI, design, and simulation"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based",
+    "Hybrid Cloud"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Recruiting",
+    "Talent Acquisition",
+    "Workforce Management",
+    "Hiring Automation",
+    "HR Analytics"
+  ],
+  "technology_stack": [
+    "Computational Intelligence",
+    "Artificial Intelligence (AI)",
+    "Data Analytics",
+    "High-Performance Computing (HPC)",
+    "Cloud Computing",
+    "Simulation"
+  ],
+  "roi_benefits": [
+    "Faster and more efficient talent acquisition",
+    "Improved hiring manager confidence and productivity",
+    "Reduced cost of hiring qualified employees",
+    "Accelerated product innovation",
+    "Improved overall business outcomes"
+  ],
+  "searchable_keywords": [
+    "Altair",
+    "computational intelligence",
+    "software solutions",
+    "cloud solutions",
+    "simulation",
+    "HPC",
+    "AI",
+    "innovation",
+    "sustainability",
+    "data analytics",
+    "artificial intelligence",
+    "design",
+    "Altair One",
+    "Altair Units",
+    "talent management",
+    "recruiting",
+    "workforce management",
+    "HR management suites",
+    "recruitment automation",
+    "HR software",
+    "talent acquisition",
+    "hiring best practices",
+    "hiring process optimization",
+    "talent acquisition costs",
+    "hiring automation",
+    "data-driven hiring",
+    "hiring analytics",
+    "RapidMiner",
+    "cloud computing",
+    "hybrid computing",
+    "product innovation",
+    "business outcomes"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Recruiters",
+    "Talent Acquisition Teams",
+    "Hiring Managers"
+  ],
+  "deployment_options": [
+    "Cloud",
+    "Hybrid Cloud"
+  ],
+  "scalability_features": [
+    "Flexible cloud and hybrid computing solutions enabling limitless potential and scaling"
+  ],
+  "_weight": 1
+}

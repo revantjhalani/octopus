@@ -1,0 +1,167 @@
+{
+  "id": 152,
+  "name": "Microsoft",
+  "description": "Microsoft enables digital transformation in the era of an intelligent cloud and an intelligent edge. Microsoft operates in 190 countries and is made up of more than 220,000 passionate employees worldwide. Microsoft set up its India operations in 1990. Microsoft in India offers its global cloud services from local data centers to accelerate digital transformation across Indian start-ups, businesses, and government agencies. We show up every day open to learning our own biases, changing our behavior, and inviting in differences. ",
+  "features": [
+    "Microsoft commitment to pay equity",
+    "Grow professionally and personally",
+    "Invest in your physical, emotional and financial wellbeing"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Internet of things",
+    "Machine learning HR",
+    "VR and AR Software",
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee development",
+    "Employee empowerment"
+  ],
+  "headquarter": "Redmond, Washington",
+  "launch_date": "1975",
+  "order": 20119,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We believe in what people make possible",
+  "ProductId": null,
+  "ShortDescription": "Because Impact Matters",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Intelligent Cloud for India",
+      "sequence": 0,
+      "description": " We partner with governments, as well as private and public institutions to develop cloud-based technological solutions to digitally transform every sector in India."
+    },
+    {
+      "name": "Trust & Security",
+      "sequence": 1,
+      "description": "Microsoft\u2019s approach to cybersecurity in today\u2019s cloud-centric world rests on three core functional areas: protect, detect, and respond."
+    },
+    {
+      "name": "Innovation and AI for All",
+      "sequence": 2,
+      "description": "Our partners use our cognitive services, IoT, and machine learning models to create inclusive solutions designed to solve societal and business problems."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:28.951Z",
+  "enhanced_description": "Microsoft is a global technology leader enabling digital transformation through its intelligent cloud and intelligent edge platforms. Operating in 190 countries with over 220,000 employees, Microsoft has a significant presence in India, providing global cloud services from local data centers to accelerate digital transformation for Indian start-ups, businesses, and government agencies across every sector. The company focuses on developing cloud-based technological solutions, maintaining a robust cybersecurity approach (protect, detect, and respond), and fostering innovation through AI, cognitive services, IoT, and machine learning models to solve societal and business problems. Additionally, Microsoft offers specialized software and services related to Human Resources, including applications of machine learning in HR.",
+  "target_industries": [
+    "Government",
+    "Public Sector",
+    "Private Sector",
+    "Startups",
+    "All Sectors"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerating Digital Transformation",
+    "Developing Cloud-based Technological Solutions",
+    "Cybersecurity Protection, Detection, and Response",
+    "Solving Societal and Business Problems with AI/IoT/ML",
+    "Applying Machine Learning in HR Processes",
+    "General HR Software and Services"
+  ],
+  "competitive_advantages": [
+    "Extensive Global Presence (190 countries)",
+    "Local Data Centers (India specific)",
+    "Comprehensive Cybersecurity Approach (Protect, Detect, Respond)",
+    "Strong Innovation in AI, IoT, and Machine Learning",
+    "Established Partnerships with Governments and Institutions"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based Deployment"
+  ],
+  "hr_functions_supported": [
+    "HR Software Management (General)",
+    "HR Analytics (via Machine Learning)"
+  ],
+  "technology_stack": [
+    "Cloud Computing",
+    "Edge Computing",
+    "Artificial Intelligence (AI)",
+    "Machine Learning (ML)",
+    "Internet of Things (IoT)",
+    "Virtual Reality (VR) Software",
+    "Augmented Reality (AR) Software"
+  ],
+  "roi_benefits": [
+    "Accelerated Digital Transformation",
+    "Resolution of Societal and Business Problems"
+  ],
+  "searchable_keywords": [
+    "Microsoft",
+    "Digital Transformation",
+    "Intelligent Cloud",
+    "Intelligent Edge",
+    "Global Cloud Services",
+    "Data Centers",
+    "Startups",
+    "Businesses",
+    "Government Agencies",
+    "Cybersecurity",
+    "Artificial Intelligence",
+    "Internet of Things",
+    "Machine Learning HR",
+    "VR Software",
+    "AR Software",
+    "HR Software",
+    "Services Related to HR Software",
+    "Technology",
+    "Employee Engagement",
+    "Employee Development",
+    "Employee Empowerment",
+    "Innovation",
+    "Trust",
+    "Security",
+    "Cloud Solutions",
+    "Cognitive Services"
+  ],
+  "deployment_options": [
+    "Cloud"
+  ],
+  "scalability_features": [
+    "Designed for Small, Large, and Global Enterprises",
+    "Leverages Cloud Infrastructure for Scalability"
+  ],
+  "security_features": [
+    "Cybersecurity Protection",
+    "Threat Detection",
+    "Incident Response"
+  ],
+  "_weight": 1
+}

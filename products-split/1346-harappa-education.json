@@ -1,0 +1,206 @@
+{
+  "id": 1346,
+  "name": "Harappa Education",
+  "description": "Harappa accelerates personal growth and career success through Thrive Skills\u2014key cognitive, social, and behavioral abilities. Our research-based, application-oriented curriculum ensures impactful learning. Serving 600,000+ learners with a 96% completion rate, Harappa's Benchmark Learning Success System blends pedagogy, community management, and technology. With a 4.5/5 rating from 300,000+ course completions, we deliver transformative education for lifelong success.",
+  "features": [
+    "Benchmark Learning Success System",
+    "Best-In-Class Delivery",
+    "Innovative Behavioral Science Integration"
+  ],
+  "founders": [],
+  "price": [
+    {
+      "name": "",
+      "type": "",
+      "price": "",
+      "description": ""
+    }
+  ],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised learning",
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning"
+  ],
+  "headquarter": "New Delhi, IN",
+  "launch_date": "2018",
+  "order": 999,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Master Thrive Skills and Confidently Conquer Your Career Milestones.",
+  "ProductId": null,
+  "ShortDescription": "Develop the people you depend on most.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": [
+      {
+        "times": [
+          {
+            "description": ""
+          }
+        ],
+        "header": "",
+        "sequence": 0,
+        "videourl": "",
+        "description": ""
+      }
+    ]
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Thrive Skills for Lifelong Success",
+      "sequence": 0,
+      "description": "Master essential skills needed at every career stage, not just technical knowledge."
+    },
+    {
+      "name": "Microlearning on the Go",
+      "sequence": 1,
+      "description": "Get bite-sized content that fits your busy schedule, ensuring efficient learning."
+    },
+    {
+      "name": "Interactive & Practical Learning",
+      "sequence": 2,
+      "description": "Apply what you learn through workshops, exercises, and assessments for real-world impact."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": true,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-11T18:32:14.318Z",
+  "enhanced_description": "Harappa Education specializes in accelerating personal growth and career success by developing 'Thrive Skills'\u2014essential cognitive, social, and behavioral abilities. Their curriculum is research-based and application-oriented, delivered via a proprietary 'Benchmark Learning Success System' that integrates pedagogy, community management, and technology. The platform emphasizes 'Best-In-Class Delivery' and 'Innovative Behavioral Science Integration'. Learners benefit from 'Microlearning on the Go' for efficient, bite-sized content, and 'Interactive & Practical Learning' through workshops, exercises, and assessments, ensuring real-world impact. With a proven track record of serving over 600,000 learners and achieving a 96% course completion rate, Harappa delivers transformative education for lifelong success.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee Skill Development (Cognitive, Social, Behavioral)",
+    "Career Growth and Readiness Training",
+    "Corporate Learning Program Management",
+    "Enhancing Learning Efficiency and Retention",
+    "Fostering Continuous Learning"
+  ],
+  "competitive_advantages": [
+    "Proprietary Benchmark Learning Success System integrating pedagogy, community, and technology",
+    "High Learning Completion Rate (96%) demonstrating effectiveness and engagement",
+    "Strong Learner Satisfaction (4.5/5 rating from 300,000+ course completions)",
+    "Unique focus on 'Thrive Skills' (cognitive, social, behavioral abilities) beyond technical knowledge",
+    "Innovative Behavioral Science Integration into learning methodologies",
+    "Microlearning format for flexible and efficient learning experiences",
+    "Application-oriented and interactive learning through practical exercises and assessments"
+  ],
+  "implementation_scenarios": [
+    "Enterprise-wide Corporate Training Programs",
+    "Individual Employee Development Initiatives"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Training Management",
+    "Skill Management",
+    "Employee Development"
+  ],
+  "roi_benefits": [
+    "Accelerated Personal Growth and Career Success for employees",
+    "Improved Skill Development and Learning Efficiency within the workforce",
+    "High Return on Training Investment (indicated by high completion rates and learner satisfaction)",
+    "Enhanced Employee Performance through practical and applied learning",
+    "Development of a future-ready workforce equipped with essential 'Thrive Skills'"
+  ],
+  "searchable_keywords": [
+    "Harappa Education",
+    "Thrive Skills",
+    "personal growth",
+    "career success",
+    "cognitive abilities",
+    "social abilities",
+    "behavioral abilities",
+    "research-based curriculum",
+    "application-oriented learning",
+    "impactful learning",
+    "Benchmark Learning Success System",
+    "pedagogy",
+    "community management",
+    "learning technology",
+    "transformative education",
+    "lifelong success",
+    "Best-In-Class Delivery",
+    "Behavioral Science Integration",
+    "Microlearning",
+    "interactive learning",
+    "practical learning",
+    "workshops",
+    "exercises",
+    "assessments",
+    "skill development",
+    "learning efficiency",
+    "training effectiveness",
+    "skill acquisition",
+    "learning speed",
+    "learning optimisation",
+    "training methodologies",
+    "adaptive learning",
+    "personalised learning",
+    "learning analytics",
+    "learning retention",
+    "continuous learning",
+    "eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems",
+    "LXP",
+    "training & development companies",
+    "corporate training",
+    "employee development"
+  ],
+  "primary_users": [
+    "Learners",
+    "Employees",
+    "HR Professionals",
+    "L&D Managers"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "SaaS"
+  ],
+  "scalability_features": [
+    "Proven capability to serve large learner bases (600,000+ learners supported)",
+    "Designed for deployment across Small, Medium, Large, and Global Enterprise organizations"
+  ],
+  "_weight": 1
+}

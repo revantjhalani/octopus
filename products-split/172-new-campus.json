@@ -1,0 +1,163 @@
+{
+  "id": 172,
+  "name": "New Campus",
+  "description": "New Campus help Asia's fastest-growing companies scale their people and culture so that their teams can grow sustainably and perform at their best. We're strengthening the startup ecosystem across the SEA region by connecting senior leaders and HR practitioners for mutual support, knowledge exchange and co-designing the future we want for our organisations and our cities. We help startups with organisational development, performance management and leadership development spanning diverse industries including fintech, eCommerce, agri-tech, logistics, data & analytics and more.",
+  "features": [
+    "Tailored specifically for Start-ups to engage and empower employees",
+    "Helping Start-ups in overall organisational development",
+    "Learning and Leadership Focused Services"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Learning Experience Systems (LXPs)"
+  ],
+  "tags": [
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning"
+  ],
+  "headquarter": "Singapore, Singapore",
+  "launch_date": "2018",
+  "order": 20139,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Empowering Southeast Asia\u2019s startups to scale sustainably",
+  "ProductId": null,
+  "ShortDescription": "NewCampus helps startups scale their people and culture so their people can grow and perform at their best.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Scaling People",
+      "sequence": 0,
+      "description": "Talent development and training designed for tech startups."
+    },
+    {
+      "name": "Scaling Performance",
+      "sequence": 1,
+      "description": "Define KPIs, set OKRs, design better performance management."
+    },
+    {
+      "name": "Scaling Organisations",
+      "sequence": 2,
+      "description": "Design better structures and develop HR capability."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:53.517Z",
+  "enhanced_description": "New Campus is an HR technology solution specifically designed to empower Southeast Asia's fastest-growing companies, primarily startups, by enabling them to sustainably scale their people and culture, thereby enhancing overall team performance. The platform strengthens the startup ecosystem across the SEA region by fostering a community where senior leaders and HR practitioners can connect for mutual support, knowledge exchange, and co-designing the future of their organizations. New Campus offers comprehensive services in organizational development, performance management, and leadership development. This includes tailored talent development and training, strategic guidance for defining KPIs and OKRs, designing effective performance management frameworks, and building robust HR capabilities and organizational structures. The product serves diverse industries including fintech, eCommerce, agri-tech, logistics, and data & analytics.",
+  "target_industries": [
+    "Fintech",
+    "eCommerce",
+    "Agri-tech",
+    "Logistics",
+    "Data & Analytics"
+  ],
+  "ideal_company_sizes": [
+    "Start-ups",
+    "Small"
+  ],
+  "key_use_cases": [
+    "Organizational Development",
+    "Performance Management Design and Implementation",
+    "Leadership Development",
+    "Talent Development and Training",
+    "HR Capability Building",
+    "Employee Engagement and Empowerment",
+    "Skill Development and Learning Acceleration"
+  ],
+  "competitive_advantages": [
+    "Specialized focus and tailoring for startups",
+    "Regional expertise within Southeast Asia (SEA)",
+    "Holistic approach to people, performance, and organizational scaling",
+    "Community building for senior leaders and HR practitioners for knowledge exchange and mutual support"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Organizational Development",
+    "Performance Management",
+    "Talent Management",
+    "HR Strategy & Capability Building",
+    "Employee Engagement"
+  ],
+  "roi_benefits": [
+    "Sustainable People and Culture Growth",
+    "Enhanced Team Performance",
+    "Accelerated Skill Development",
+    "Improved Learning Efficiency",
+    "Strengthened Regional Startup Ecosystem",
+    "Improved Organizational Structures",
+    "Enhanced HR Capability"
+  ],
+  "searchable_keywords": [
+    "New Campus",
+    "HR Tech",
+    "HR Technology",
+    "Southeast Asia",
+    "SEA",
+    "Startups",
+    "Organizational Development",
+    "Performance Management",
+    "Leadership Development",
+    "Talent Development",
+    "Training",
+    "eLearning",
+    "Learning Experience Systems",
+    "LXPs",
+    "Learning Analytics",
+    "Learning Retention",
+    "Continuous Learning",
+    "Skill Development",
+    "Employee Engagement",
+    "Employee Empowerment",
+    "Culture Scaling",
+    "People Scaling",
+    "Performance Scaling",
+    "KPIs",
+    "OKRs",
+    "HR Capability",
+    "Fintech HR",
+    "eCommerce HR",
+    "Agri-tech HR",
+    "Logistics HR",
+    "Data & Analytics HR"
+  ],
+  "primary_users": [
+    "Senior Leaders",
+    "HR Practitioners",
+    "Employees (for learning and development)"
+  ],
+  "scalability_features": [
+    "Designed to help companies 'scale their people and culture'",
+    "Focus on 'Scaling People' through talent development",
+    "Focus on 'Scaling Performance' via KPIs and OKRs",
+    "Focus on 'Scaling Organisations' through structural design and HR capability development"
+  ],
+  "_weight": 1
+}

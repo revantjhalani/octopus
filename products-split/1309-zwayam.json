@@ -1,0 +1,154 @@
+{
+  "id": 1309,
+  "name": "Zwayam",
+  "description": "India's most popular SaaS based hiring platform started by industry practitioners and meant for large and mid-market enterprises, with a light version for SMEs. \r\n\r\nZwayam is an end-to-end recruitment automation software - a process enabler and helps automate all stages of hiring from sourcing to onboarding. \r\n\r\nZwayam uses  contemporary technologies like AI, ML and NLP allowing clients to use technology to change the way they hire.",
+  "features": [
+    "Recruitment",
+    "Talent Sourcing",
+    "Talent Branding",
+    "Social Recruiting",
+    "Employer Branding",
+    "Candidate Management",
+    "Candidate Engagement"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Staffing & management software",
+    "Pre-employment screening software",
+    "Background check software",
+    "Pre-employment testing software",
+    "Recruiting automation software",
+    "Talent acquisition suites",
+    "Applicant tracking system (ATS)",
+    "Onboarding software"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Talent acquisition",
+    "Talent sourcing",
+    "Candidate screening",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Hiring best practices",
+    "Talent pipeline"
+  ],
+  "headquarter": "Bengaluru, India",
+  "launch_date": "2015",
+  "order": 21132,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Bringing in the new.",
+  "ProductId": null,
+  "ShortDescription": "Zwayam is an end-to-end recruitment automation software - a process enabler and helps automate all stages of hiring from sourcing to onboarding. ",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:38.814Z",
+  "enhanced_description": "Zwayam is India's prominent SaaS-based, end-to-end recruitment automation platform. Developed by industry practitioners, it is designed for large and mid-market enterprises, with a specialized light version available for SMEs. The platform automates all stages of the hiring process, from initial talent sourcing and candidate engagement to comprehensive applicant tracking and final onboarding. Zwayam leverages contemporary technologies such as Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP) to enable clients to optimize and transform their hiring methodologies.",
+  "ideal_company_sizes": [
+    "Small",
+    "Mid-market",
+    "Large"
+  ],
+  "key_use_cases": [
+    "Automating the entire recruitment lifecycle from sourcing to onboarding",
+    "Strategic talent sourcing and attraction",
+    "Building and enhancing employer branding and talent branding efforts",
+    "Engaging and managing candidates effectively throughout the hiring process",
+    "Conducting pre-employment screening, including background checks and testing",
+    "Efficiently tracking applicants via an Applicant Tracking System (ATS)",
+    "Streamlining the new hire onboarding experience",
+    "Applying AI, ML, and NLP for data-driven and efficient hiring practices"
+  ],
+  "competitive_advantages": [
+    "Identified as India's most popular SaaS-based hiring platform",
+    "Developed by industry practitioners, indicating deep domain expertise",
+    "Offers comprehensive, end-to-end recruitment automation covering all stages from sourcing to onboarding",
+    "Integrates contemporary technologies like AI, ML, and NLP for advanced hiring capabilities"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Onboarding"
+  ],
+  "technology_stack": [
+    "AI",
+    "ML",
+    "NLP"
+  ],
+  "roi_benefits": [
+    "Achieve faster hiring cycles",
+    "Increase hiring efficiency",
+    "Improve overall recruiting efficiency",
+    "Facilitate the hiring of top talent",
+    "Enable data-driven hiring decisions"
+  ],
+  "searchable_keywords": [
+    "Zwayam",
+    "Hiring platform",
+    "Recruitment automation software",
+    "SaaS",
+    "Talent acquisition",
+    "Talent sourcing",
+    "Candidate management",
+    "Candidate engagement",
+    "Social recruiting",
+    "Employer branding",
+    "Applicant tracking system",
+    "ATS",
+    "Onboarding software",
+    "Pre-employment screening",
+    "Background check",
+    "Pre-employment testing",
+    "AI in HR",
+    "ML in HR",
+    "NLP in HR",
+    "Hiring efficiency",
+    "Hiring speed",
+    "Recruiting efficiency",
+    "Data-driven hiring",
+    "Talent pipeline",
+    "Staffing management"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "Recruiters",
+    "Hiring managers"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "scalability_features": [
+    "Designed to cater to large, mid-market, and small enterprises with tailored versions"
+  ],
+  "_weight": 1
+}

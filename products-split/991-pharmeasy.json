@@ -1,0 +1,101 @@
+{
+  "id": 991,
+  "name": "Pharmeasy",
+  "description": "We help patients connect with local pharmacy stores and diagnostic centers to fulfill their extensive medical needs. We believe that everyone should have access to good health. Thus, through our services, we ensure you get access to the best and most genuine health products, with the highest savings in the shortest time possible.",
+  "features": [
+    "Offer Lab test at your location ",
+    "Doctor consulation over a call ",
+    "Wide range of product and services "
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Employee well being"
+  ],
+  "headquarter": "Mumbai",
+  "launch_date": "2015",
+  "order": 20937,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Take it easy",
+  "ProductId": null,
+  "ShortDescription": "PharmEasy today is India\u2019s leading and most trusted online healthcare aggregator in the country.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:38:23.265Z",
+  "enhanced_description": "Pharmeasy is India's leading and most trusted online healthcare aggregator, connecting patients with local pharmacy stores and diagnostic centers. It provides access to a wide range of genuine health products and services, aiming to offer the highest savings in the shortest time possible. As a health and safety provider under Total Rewards, Pharmeasy supports employee well-being by offering key services such as at-home lab tests and doctor consultations over a call, thereby helping organizations improve employee happiness and engagement.",
+  "key_use_cases": [
+    "Providing employees with access to local pharmacy stores for medical needs",
+    "Connecting employees with diagnostic centers for various tests",
+    "Facilitating at-home lab test services for employees",
+    "Enabling doctor consultations over a call for employees",
+    "Offering a wide range of health products and services as an employee benefit"
+  ],
+  "competitive_advantages": [
+    "Positioned as India's leading and most trusted online healthcare aggregator",
+    "Offers highest savings on health products and services",
+    "Ensures fastest possible delivery/access to health services",
+    "Provides convenient at-home lab testing",
+    "Offers accessible doctor consultations via call"
+  ],
+  "hr_functions_supported": [
+    "Employee Benefits Management",
+    "Employee Well-being Programs",
+    "Employee Engagement"
+  ],
+  "roi_benefits": [
+    "Potential for highest savings on medical needs for employees",
+    "Improved employee happiness and engagement due to accessible health benefits"
+  ],
+  "searchable_keywords": [
+    "Pharmeasy",
+    "healthcare aggregator",
+    "online pharmacy",
+    "diagnostic centers",
+    "lab tests",
+    "doctor consultation",
+    "telehealth",
+    "employee benefits",
+    "employee well-being",
+    "total rewards",
+    "health & safety providers",
+    "medical products",
+    "health services",
+    "savings"
+  ],
+  "primary_users": [
+    "Employees (as beneficiaries of the health services)",
+    "Patients (as direct users of pharmacy, diagnostic, and consultation services)"
+  ],
+  "_weight": 1
+}

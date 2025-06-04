@@ -1,0 +1,148 @@
+{
+  "id": 96,
+  "name": "Fitpass",
+  "description": "FITPASS is India\u2019s largest app-based full-stack corporate wellbeing and engagement platform that is making fitness affordable, accessible, and fun through technology, data, and intelligence. There is a need to customize benefits to suit emerging populations who demand a proactive approach to preventing illness and maximizing productivity.",
+  "features": [
+    "Workout Without Limits: Explore Endless Gyms & Studios with Fitpass.",
+    "Unlock a World of Fitness Without Breaking the Bank.",
+    "Variety, Flexibility, Affordability: Fitpass Has You Covered."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration services",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee benefits"
+  ],
+  "headquarter": "New Delhi",
+  "launch_date": "2015",
+  "order": 20066,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "India's largest Fitness network that gives you unmatched variety, density, and depth. ",
+  "ProductId": null,
+  "ShortDescription": "Personalizing individuals\u2019 journeys from reactive care to proactive wellness with customized corporate solutions",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Access to multiple gyms and studios.",
+      "sequence": 0,
+      "description": "Fitpass offers a network of gyms and fitness studios, allowing users to explore a wide range of workout options like yoga, Zumba, HIIT, pilates, and more."
+    },
+    {
+      "name": "Cost-Effective Alternative.",
+      "sequence": 1,
+      "description": "Fitpass offers multiple membership tiers, potentially catering to different budgets. It can be a more affordable option compared to a single gym membership, especially if you enjoy variety in your workouts."
+    },
+    {
+      "name": "Personalized experience and community building,",
+      "sequence": 2,
+      "description": "Fitpass might offer features like workout recommendations based on user preferences and fitness goals. me Fitpass plans might include access to online communities or forums for users to connect and motivate each other."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-26T12:02:28.759Z",
+  "enhanced_description": "FITPASS is India\u2019s largest app-based full-stack corporate wellbeing and engagement platform. It aims to make fitness affordable, accessible, and fun through the application of technology, data, and intelligence. The platform focuses on personalizing individuals\u2019 journeys from reactive care to proactive wellness, offering customized corporate solutions designed to prevent illness and maximize employee productivity. Leveraging India's largest fitness network, Fitpass provides unmatched variety, density, and depth in fitness options.",
+  "key_use_cases": [
+    "Providing affordable and accessible fitness options for employees.",
+    "Customizing employee benefits for proactive wellness and illness prevention.",
+    "Maximizing employee productivity through wellbeing initiatives.",
+    "Improving employee happiness and engagement through fitness programs.",
+    "Offering a diverse range of workout options (e.g., yoga, Zumba, HIIT, Pilates) across multiple gyms and studios.",
+    "Facilitating personalized workout experiences based on user preferences and goals.",
+    "Building community and fostering motivation among users through online forums."
+  ],
+  "competitive_advantages": [
+    "India's largest app-based full-stack corporate wellbeing and engagement platform.",
+    "Offers an extensive network of gyms and studios for wide workout variety.",
+    "Provides a cost-effective alternative to traditional single gym memberships through multiple membership tiers.",
+    "Emphasizes affordability, accessibility, and flexibility in fitness offerings.",
+    "Leverages technology, data, and intelligence for enhanced user experience.",
+    "Offers personalized workout recommendations.",
+    "Facilitates community building among users."
+  ],
+  "implementation_scenarios": [
+    "Corporate deployment as an employee wellbeing and benefits platform.",
+    "App-based access for individual employee usage."
+  ],
+  "hr_functions_supported": [
+    "Total Rewards",
+    "Benefits administration services",
+    "Health & safety providers",
+    "Employee well being",
+    "Employee benefits",
+    "Employee engagement"
+  ],
+  "technology_stack": [
+    "App-based platform",
+    "Data intelligence"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement.",
+    "Enhanced employee productivity.",
+    "Proactive illness prevention.",
+    "Cost savings for employees on fitness options.",
+    "Increased accessibility to diverse fitness activities."
+  ],
+  "searchable_keywords": [
+    "Fitpass",
+    "corporate wellbeing",
+    "employee engagement",
+    "fitness platform",
+    "app-based fitness",
+    "employee benefits",
+    "total rewards",
+    "benefits administration",
+    "health & safety providers",
+    "employee well-being",
+    "gym access",
+    "studio access",
+    "workout variety",
+    "affordable fitness",
+    "flexible fitness",
+    "proactive wellness",
+    "productivity",
+    "yoga",
+    "Zumba",
+    "HIIT",
+    "pilates",
+    "personalized fitness",
+    "fitness community"
+  ],
+  "primary_users": [
+    "Employees",
+    "Individuals seeking fitness solutions"
+  ],
+  "deployment_options": [
+    "Mobile Application"
+  ],
+  "_weight": 1
+}

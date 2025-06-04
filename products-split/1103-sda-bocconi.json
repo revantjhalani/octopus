@@ -1,0 +1,123 @@
+{
+  "id": 1103,
+  "name": "SDA Bocconi",
+  "description": "SDA Bocconi School of Management. A Long-Lasting and Life-Changing Experience. Decisions are made in an instant. But they often come at the end of a long process, and mark the start of a new journey. The moment you choose SDA Bocconi School of Management, you choose to enrich your knowledge and imagination, and therefore transform the rest of your life. You choose to invest in education, research, creativity and commitment, which will have an impact on you as a person and as a manager. You start thinking bigger, and you re-design your objectives, driven by passion and enthusiasm.",
+  "features": [
+    " Independence from any cultural, political and economic influences for a real free thinking. ",
+    "Responsibility in the social, ethical and environmental fields to set up a sustainable development.",
+    "Entrepreneurship to seize business opportunities and win new competitive challenges."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Course authoring",
+    "Training eLearning software"
+  ],
+  "tags": [
+    "Skill development",
+    "Skill acquisition",
+    "Adaptive learning"
+  ],
+  "headquarter": "Milan, Milano",
+  "launch_date": "1971",
+  "order": 21046,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Designed for your world",
+  "ProductId": null,
+  "ShortDescription": "SDA Bocconi drive professional and personal transformation to impact the future of individuals, organizations and society.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:40:37.531Z",
+  "enhanced_description": "SDA Bocconi, a globally recognized School of Management established in 1971 in Milan, offers a profound and transformative learning experience aimed at accelerating skill development and enhancing learning efficiency for individuals and organizations. Their programs and services are underpinned by a philosophy of independent critical thinking, a strong commitment to social, ethical, and environmental responsibility for sustainable development, and a focus on fostering entrepreneurship to seize business opportunities. As a provider of Learning and Development solutions, SDA Bocconi encompasses capabilities related to Corporate LMS, course authoring, and training eLearning software, driving professional and personal transformation to impact the future of individuals, organizations, and society.",
+  "key_use_cases": [
+    "Accelerating skill development and learning efficiency within organizations.",
+    "Enriching individual knowledge and imagination for personal and professional transformation.",
+    "Fostering an entrepreneurial mindset to identify and capitalize on business opportunities.",
+    "Integrating social, ethical, and environmental responsibility into management practices.",
+    "Delivering corporate training programs through eLearning platforms.",
+    "Authoring and managing digital learning content."
+  ],
+  "competitive_advantages": [
+    "Independence from cultural, political, and economic influences, fostering free thinking.",
+    "Strong emphasis on social, ethical, and environmental responsibility for sustainable development.",
+    "Focus on entrepreneurship to equip learners with skills for competitive challenges.",
+    "Long-standing reputation and experience since 1971.",
+    "Commitment to professional and personal transformation for lasting impact."
+  ],
+  "implementation_scenarios": [
+    "Deployment of corporate learning management systems for internal training.",
+    "Integration of course authoring tools for custom content creation.",
+    "Implementation of eLearning software for widespread training delivery."
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Skill Development",
+    "Training Management"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development for individuals and organizations.",
+    "Improved learning efficiency.",
+    "Professional and personal transformation.",
+    "Enhanced ability to seize business opportunities.",
+    "Increased competitiveness.",
+    "Promotion of sustainable development practices."
+  ],
+  "searchable_keywords": [
+    "SDA Bocconi",
+    "Bocconi",
+    "School of Management",
+    "Learning and Development",
+    "Skill Development",
+    "Skill Acquisition",
+    "Adaptive Learning",
+    "Corporate LMS",
+    "Course Authoring",
+    "Training eLearning Software",
+    "Education",
+    "Professional Development",
+    "Personal Transformation",
+    "Organizational Impact",
+    "Leadership",
+    "Entrepreneurship",
+    "Sustainability",
+    "Management Education",
+    "Executive Education",
+    "Corporate Training",
+    "E-learning"
+  ],
+  "primary_users": [
+    "Individuals seeking professional and personal development",
+    "Managers",
+    "HR Professionals (for L&D program management)",
+    "Organizations (for corporate training initiatives)"
+  ],
+  "_weight": 1
+}

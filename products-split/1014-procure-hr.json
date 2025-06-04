@@ -1,0 +1,170 @@
+{
+  "id": 1014,
+  "name": "Procure HR",
+  "description": "Procure Hr ensuring that business owners and functional heads get more time to focus on what matters most to them. Whether your business needs turnkey, full service HR support or just needs help with a few key areas, ProCURE-HR provides the people, processes and technology solutions that growing businesses need to minimise cost, reduce risk & increase productivity.",
+  "features": [
+    "Virtual CHRO service",
+    "HR statutory compliance",
+    "Factories Act Compliances"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management",
+    "Learning and Development",
+    "Recruiting",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration services",
+    "Employee engagement software",
+    "Onboarding software",
+    "Training eLearning software",
+    "Staffing services providers",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring efficiency"
+  ],
+  "headquarter": "Gurugram",
+  "launch_date": "2017",
+  "order": 20957,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "End to end HR solution",
+  "ProductId": null,
+  "ShortDescription": "ProCURE-HR delivers best-in-class, affordable, end-to-end HR solutions.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Economical Virtual HR Services",
+      "sequence": 0,
+      "description": " ProCURE HR offers virtual HR services which are economical. This can be a good option for businesses looking to outsource their HR needs without breaking the bank."
+    },
+    {
+      "name": "Commitment to Women Empowerment",
+      "sequence": 1,
+      "description": "ProCURE HR is committed to women empowerment. This is evident in their mission statement and their team, which appears to be majority women."
+    },
+    {
+      "name": "Work-Life Balance and Family-Friendly Environment:",
+      "sequence": 2,
+      "description": "ProCURE HR offers a work-life balance and promotes a family-friendly environment. This can be appealing to employees who are looking for a company that understands the importance of personal time."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:38:49.673Z",
+  "enhanced_description": "Procure HR offers end-to-end, affordable HR solutions designed to empower business owners and functional heads by freeing up their time to focus on core business activities. This comprehensive service provides both turnkey full-service HR support and targeted assistance in specific areas, leveraging a combination of people, processes, and technology. Key offerings include economical virtual CHRO services, HR statutory compliance, and Factories Act compliances. The product aims to minimize costs, reduce risks, and increase productivity for growing businesses, while also boosting hiring manager confidence and productivity, and improving overall employee happiness and engagement.",
+  "target_industries": [
+    "Manufacturing",
+    "Industrial (subject to Factories Act)"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Full-service HR outsourcing",
+    "Partial HR function outsourcing",
+    "HR statutory compliance management",
+    "Factories Act compliance management",
+    "Virtual strategic HR leadership",
+    "Talent acquisition and recruiting",
+    "Employee onboarding",
+    "Learning and development training",
+    "Benefits administration",
+    "Employee engagement initiatives"
+  ],
+  "competitive_advantages": [
+    "Economical virtual HR services",
+    "End-to-end HR solution",
+    "Commitment to women empowerment",
+    "Promotion of work-life balance and family-friendly environment"
+  ],
+  "implementation_scenarios": [
+    "Full-service HR support outsourcing",
+    "Outsourcing of specific HR functions"
+  ],
+  "hr_functions_supported": [
+    "HR Strategy (Virtual CHRO)",
+    "Compliance Management",
+    "Talent Management",
+    "Learning and Development",
+    "Recruiting",
+    "Total Rewards",
+    "Benefits Administration",
+    "Employee Engagement",
+    "Onboarding",
+    "Staffing"
+  ],
+  "roi_benefits": [
+    "Minimised costs",
+    "Reduced risk",
+    "Increased productivity",
+    "Boosted hiring manager confidence",
+    "Improved employee happiness",
+    "Enhanced employee engagement"
+  ],
+  "searchable_keywords": [
+    "Procure HR",
+    "HR solutions",
+    "HR support",
+    "HR outsourcing",
+    "Virtual CHRO",
+    "HR compliance",
+    "Statutory compliance",
+    "Factories Act compliance",
+    "Talent management",
+    "Learning and development",
+    "Recruiting",
+    "Total rewards",
+    "Benefits administration",
+    "Employee engagement",
+    "Onboarding software",
+    "Training eLearning software",
+    "Staffing services",
+    "Hiring",
+    "Hiring efficiency",
+    "Cost reduction",
+    "Risk reduction",
+    "Productivity increase",
+    "Affordable HR",
+    "End-to-end HR solutions",
+    "HR services"
+  ],
+  "primary_users": [
+    "Business Owners",
+    "Functional Heads",
+    "Hiring Managers"
+  ],
+  "compliance_features": [
+    "HR statutory compliance",
+    "Factories Act Compliances"
+  ],
+  "_weight": 1
+}

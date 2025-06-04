@@ -1,0 +1,135 @@
+{
+  "id": 949,
+  "name": "optimhire",
+  "description": "OptimHire now allows people to work anytime, anywhere, with anyone in the world in a three-way global ecosystem that supports not only professionals but also recruiters and companies. We are trying to change the way people work, facilitating 24/7 collaboration with colleagues who are dispersed across time zones, countries.",
+  "features": [
+    "Get FREE access to A.I. powered ATS platform to manage all your hiring requirements in one place.",
+    "Seamlessly fill as many job positions as you need without restrictions or limitations.",
+    "You\u2019ll learn how to do company\u2019s branding and positioning that will help you attract the right talent."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Recruiting automation software",
+    "Job boards",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Talent sourcing",
+    "Candidate screening",
+    "Job boards"
+  ],
+  "headquarter": "Union City, California",
+  "launch_date": "2018",
+  "order": 20896,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Pay for RESULTS, NOT Clicks or Sponsored Jobs",
+  "ProductId": null,
+  "ShortDescription": "OptimHire now allows people to work anytime, anywhere, with anyone in the world in a three-way global ecosystem that supports not only professionals but also recruiters and companies.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:37:30.020Z",
+  "enhanced_description": "OptimHire offers a global, AI-powered Applicant Tracking System (ATS) designed to facilitate 24/7 collaboration for professionals, recruiters, and companies across time zones and countries. It aims to transform hiring by providing a single platform for all recruiting needs, enabling users to seamlessly fill an unlimited number of job positions, and supporting employer branding to attract the right talent. The platform emphasizes a pay-for-results model, differentiating itself from traditional click-based or sponsored job models.",
+  "key_use_cases": [
+    "Global talent acquisition",
+    "Applicant tracking and management",
+    "Automated recruiting",
+    "Employer branding and positioning for talent attraction",
+    "Accelerated job filling",
+    "Talent sourcing",
+    "Candidate screening",
+    "Managing staffing operations"
+  ],
+  "competitive_advantages": [
+    "Results-based payment model (not click or sponsored job based)",
+    "Free access to A.I. powered ATS platform",
+    "Unlimited job position filling without restrictions",
+    "Global three-way ecosystem (professionals, recruiters, companies)",
+    "24/7 global collaboration capabilities"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Applicant Tracking",
+    "Talent Sourcing",
+    "Candidate Screening",
+    "Employer Branding",
+    "Staffing Management"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Applicant Tracking System (ATS)"
+  ],
+  "roi_benefits": [
+    "Reduced time-to-hire",
+    "Improved recruitment cost efficiency (pay-for-results)",
+    "Scalability for high-volume hiring",
+    "Cost savings through free ATS access",
+    "Enhanced talent attraction and quality of hire"
+  ],
+  "searchable_keywords": [
+    "optimhire",
+    "hiring",
+    "recruiting",
+    "ATS",
+    "Applicant Tracking System",
+    "AI",
+    "Artificial Intelligence",
+    "talent acquisition",
+    "staffing",
+    "recruitment automation",
+    "job board",
+    "talent sourcing",
+    "candidate screening",
+    "employer branding",
+    "global recruiting",
+    "international hiring",
+    "remote work",
+    "pay-for-results",
+    "free ATS",
+    "hiring speed",
+    "recruitment management"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Hiring Managers",
+    "Companies/Organizations",
+    "Job Seekers/Professionals"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "scalability_features": [
+    "Unlimited job position filling",
+    "Designed for high-volume hiring"
+  ],
+  "_weight": 1
+}

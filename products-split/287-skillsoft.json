@@ -1,0 +1,174 @@
+{
+  "id": 287,
+  "name": "Skillsoft",
+  "description": "Skillsoft is a global leader in corporate digital learning, focused on transforming today\u2019s workforce for tomorrow\u2019s economy. The Company provides enterprise learning solutions designed to prepare organizations for the future of work, overcome critical skill gaps, drive demonstrable behavior-change, and unlock the potential in their people.Like our customers, we\u2019re always evolving \u2013 making sure individuals, teams, and enterprises have exactly what they need to unleash their edge.",
+  "features": [
+    "Leadership Development Programs",
+    "Scholarship Program for Employee Dependents",
+    "Family Access to Percipio"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised learning",
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning"
+  ],
+  "headquarter": "Nashua, New Hampshire",
+  "launch_date": "2000",
+  "order": 1,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Rapidly Develop Skills to Close any Gap",
+  "ProductId": null,
+  "ShortDescription": "Skillsoft is Leading e-learning platform, offering diverse courses for professional development, fostering skills and knowledge across industries worldwide.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [
+    "Microsoft",
+    "Saba",
+    "Sumtotal",
+    "Degreed",
+    "Cornerstone"
+  ],
+  "Highlights": [
+    {
+      "name": "Transformative leadership Development Program",
+      "sequence": 0,
+      "description": "Combine Business Skills With Application To Drive True Behavioral Change"
+    },
+    {
+      "name": "Close Skills Gaps With Personalized Learning",
+      "sequence": 1,
+      "description": "From beginner-friendly courses to expert-led, advanced live sessions, our curriculum helps learners at every stage of their career build the skills they and their organizations need."
+    },
+    {
+      "name": "Customized Corporate Sustainability Training For Your Organization",
+      "sequence": 2,
+      "description": "Is your organization looking to address the challenges posed by climate change, resource depletion, and social inequality?"
+    }
+  ],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": true,
+  "PublishedAt": "2024-02-28T06:23:39.171Z",
+  "enhanced_description": "Skillsoft is a global leader in corporate digital learning and an e-learning platform focused on transforming today\u2019s workforce and accelerating skill development to overcome critical skill gaps. It provides enterprise learning solutions, including transformative leadership development programs, personalized learning paths, and customized corporate sustainability training, designed to drive demonstrable behavior-change and unlock the potential in people. The platform offers a diverse curriculum, from beginner-friendly courses to expert-led advanced live sessions, supporting learners at every career stage in building essential skills. Key features include a Scholarship Program for Employee Dependents and Family Access to Percipio, fostering a continuous learning environment and enhancing training effectiveness.",
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerating skill development and learning efficiency",
+    "Closing critical skill gaps within the workforce",
+    "Transformative leadership development and behavioral change",
+    "Customized corporate sustainability training",
+    "Workforce transformation for future readiness",
+    "Providing personalized learning experiences",
+    "Fostering continuous professional development and knowledge acquisition"
+  ],
+  "competitive_advantages": [
+    "Global leadership position in corporate digital learning",
+    "Offering a Scholarship Program for Employee Dependents",
+    "Providing Family Access to Percipio learning content",
+    "Focus on personalized learning to address specific skill gaps",
+    "Ability to customize corporate sustainability training",
+    "Leadership development programs designed to drive true behavioral change through practical application"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Training Management",
+    "Skill Development",
+    "Talent Development"
+  ],
+  "integration_capabilities": [
+    "Microsoft",
+    "Saba",
+    "Sumtotal",
+    "Degreed",
+    "Cornerstone"
+  ],
+  "roi_benefits": [
+    "Improved workforce preparedness for future economic demands",
+    "Reduced critical skill gaps within the organization",
+    "Enhanced employee potential and performance",
+    "Accelerated skill development and learning efficiency",
+    "Demonstrable behavioral change among employees, especially in leadership",
+    "Increased training effectiveness and learning retention"
+  ],
+  "searchable_keywords": [
+    "Skillsoft",
+    "e-learning",
+    "digital learning",
+    "corporate learning",
+    "skill development",
+    "learning and development",
+    "L&D",
+    "LMS",
+    "LXP",
+    "training software",
+    "eLearning software",
+    "leadership development",
+    "skill gaps",
+    "workforce transformation",
+    "professional development",
+    "personalized learning",
+    "adaptive learning",
+    "learning analytics",
+    "continuous learning",
+    "behavioral change",
+    "corporate sustainability training",
+    "employee training",
+    "skill acquisition",
+    "training management",
+    "learning efficiency",
+    "learning retention",
+    "Percipio",
+    "employee scholarships",
+    "family learning access",
+    "training methodologies"
+  ],
+  "primary_users": [
+    "Employees (learners at all career stages)",
+    "Managers and Leaders (for leadership development)",
+    "HR Professionals",
+    "Learning and Development Professionals",
+    "Employee Dependents"
+  ],
+  "_weight": 1
+}

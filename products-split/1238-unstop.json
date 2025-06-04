@@ -1,0 +1,153 @@
+{
+  "id": 1238,
+  "name": "Unstop",
+  "description": "Unstop, formerly Dare2Compete, is a digital platform designed to connect talent with opportunities. It offers a comprehensive suite of solutions for both individuals and organizations, focusing on the entire talent lifecycle",
+  "features": [
+    "Unlock Knowledge ",
+    "Unlock Perfection ",
+    "Unlock Guidance ",
+    "Unlock Opportunities ",
+    "Unlock Ambition "
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Job boards",
+    "HR consulting providers",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "Hiring efficiency",
+    "Quality of hire",
+    "Training effectiveness",
+    "Skill development"
+  ],
+  "headquarter": "New Delhi, Delhi",
+  "launch_date": "2019",
+  "order": 21069,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Unstop: Connecting Millions for Engagement & Hiring ",
+  "ProductId": null,
+  "ShortDescription": "The largest community engagement platform built to help talent be unstoppable.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Recruit right candidates faster with Unstop hiring platform",
+      "sequence": 0,
+      "description": "We help you hire the right people even for the most difficult jobs to fill. Save time, money, and resources with Unstop."
+    },
+    {
+      "name": "Unlock Talent Engagement",
+      "sequence": 1,
+      "description": "Become the employer of choice with an employer branding strategy that works! Cast a wide net to engage with students and early professionals from every stream to build and enhance a robust employer brand."
+    },
+    {
+      "name": "Unlock Talent Assessments",
+      "sequence": 2,
+      "description": "Optimizing the hiring process with affordable online assessments tailored to specific job roles and skills."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:12:53.258Z",
+  "enhanced_description": "Unstop, formerly Dare2Compete, is a digital platform that serves as a comprehensive community engagement and talent marketplace, connecting individuals with career opportunities and helping organizations manage their entire talent lifecycle. It offers solutions for recruiting, talent engagement, and learning & development. The platform is designed to boost hiring manager confidence and productivity by enabling faster recruitment of suitable candidates, optimizing the hiring process with affordable online assessments tailored to specific job roles and skills, and building a robust employer brand, particularly by engaging with students and early professionals.",
+  "ideal_company_sizes": [
+    "Small_Enterprise"
+  ],
+  "key_use_cases": [
+    "Connecting talent with opportunities",
+    "Recruiting right candidates faster, especially for difficult-to-fill jobs",
+    "Talent engagement and employer branding for students and early professionals",
+    "Optimizing hiring process through affordable online talent assessments",
+    "Skill development and training for individuals and organizations",
+    "Community engagement for talent acquisition"
+  ],
+  "competitive_advantages": [
+    "Ability to recruit right candidates faster",
+    "Cost savings (time, money, resources) in hiring",
+    "Affordable online talent assessments tailored to specific roles/skills",
+    "Focus on student and early professional engagement for employer branding",
+    "Positioned as the 'largest community engagement platform' (implies broad reach/network)"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Learning and Development",
+    "Talent Acquisition",
+    "Employer Branding",
+    "Talent Assessments"
+  ],
+  "roi_benefits": [
+    "Boost Hiring Manager Confidence",
+    "Boost Hiring Manager Productivity",
+    "Improved Hiring Efficiency",
+    "Improved Quality of Hire",
+    "Enhanced Training Effectiveness",
+    "Savings in time, money, and resources for hiring"
+  ],
+  "searchable_keywords": [
+    "Unstop",
+    "Dare2Compete",
+    "talent",
+    "opportunities",
+    "hiring",
+    "recruiting",
+    "learning",
+    "development",
+    "training",
+    "job boards",
+    "HR consulting",
+    "community engagement",
+    "employer branding",
+    "talent assessments",
+    "skill development",
+    "hiring manager confidence",
+    "hiring manager productivity",
+    "hiring efficiency",
+    "quality of hire",
+    "training effectiveness",
+    "students",
+    "early professionals",
+    "online assessments",
+    "talent lifecycle",
+    "knowledge",
+    "perfection",
+    "guidance",
+    "ambition"
+  ],
+  "primary_users": [
+    "Individuals (Talent)",
+    "Organizations",
+    "Hiring Managers",
+    "Students",
+    "Early Professionals"
+  ],
+  "_weight": 1
+}

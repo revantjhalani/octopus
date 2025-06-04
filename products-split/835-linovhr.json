@@ -1,0 +1,168 @@
+{
+  "id": 835,
+  "name": "LinovHR",
+  "description": "LinovHR is a product of PT Linov Roket Prestasi which is engaged in providing professional business platforms with a strong focus on Human Resource Information System (HRIS), Human Resource Management (HRM), Talent Management and Payroll Service. LinovHR is a software product that we offer to become a solution to help manage Human Resources and Payroll activities by adjusting the needs of your company in all industries. For more than 10 years, LinovHR has continued to focus on developing innovations by adjusting the company's business needs and continuing to improvise, especially in Human Resource. Until it can create quality products (starting from complete features and avoiding system errors) with a strong commitment to provide customer satisfaction as the number one priority. Currently, LinovHR will bring version 5.0 with more complete and customer friendly features!",
+  "features": [
+    "Organization Management",
+    "Personnel Administration",
+    "Time & Attendance"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Talent Management",
+    "Total Rewards",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Resource Information Systems (HRIS)",
+    "Talent management software",
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Employee empowerment",
+    "Employee benefits",
+    "Hiring"
+  ],
+  "headquarter": "Jakarta Selatan, DKI Jakarta",
+  "launch_date": "2008",
+  "order": 20788,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Web Based HRIS Software & Payroll Outsourcing. Managing Payroll, Time, ESS, Talent Management and Performance Appraisal.",
+  "ProductId": null,
+  "ShortDescription": "LinovHR is a product of PT Linov Roket Prestasi which is engaged in providing professional business platforms with a strong focus on Human Resource Information System (HRIS), Human Resource Management (HRM), Talent Management and Payroll Service.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Streamline HR Processes",
+      "sequence": 0,
+      "description": "LinovHR is a software program designed to streamline human resources (HR) processes. It offers features like payroll, time management, and employee self-service (ESS), which can help HR departments save time and improve efficiency."
+    },
+    {
+      "name": "Suitable for Businesses of All Sizes",
+      "sequence": 1,
+      "description": "The article mentions that LinovHR is used by companies of all sizes and in many industries. This suggests that the software is scalable and can meet the needs of businesses of all types."
+    },
+    {
+      "name": "Easy to Use with Great Customer Support",
+      "sequence": 2,
+      "description": "Clients praise LinovHR's ease of use, scalability, and customer support. This indicates that the software is user-friendly and that the company provides excellent support to its customers."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:24.874Z",
+  "enhanced_description": "LinovHR, a web-based HRIS and HRM software by PT Linov Roket Prestasi, focuses on providing comprehensive Human Resource Information System (HRIS), Human Resource Management (HRM), Talent Management, and Payroll services, including Payroll Outsourcing. It is designed to manage HR and payroll activities for large and global enterprises across various industries. With over 10 years of experience, LinovHR prioritizes innovation, product quality (complete features, avoiding system errors), and customer satisfaction, offering an easy-to-use solution with strong customer support. Key functionalities include Organization Management, Personnel Administration, Time & Attendance, Employee Self-Service (ESS), and Performance Appraisal, all aimed at streamlining HR processes, improving efficiency, and enhancing employee happiness and engagement.",
+  "target_industries": [
+    "All Industries"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Manage Human Resources activities",
+    "Manage Payroll activities",
+    "Streamline HR processes (Payroll, Time Management, ESS)",
+    "Talent Management",
+    "Performance Appraisal",
+    "Personnel Administration",
+    "Organization Management",
+    "Employee Self-Service (ESS)"
+  ],
+  "competitive_advantages": [
+    "Over 10 years of industry experience",
+    "Continuous innovation and improvisation in HR technology",
+    "High product quality (complete features, avoids system errors)",
+    "Strong commitment to customer satisfaction",
+    "User-friendly interface (easy to use)",
+    "Excellent customer support",
+    "Scalability for large and global enterprises",
+    "Offers Payroll Outsourcing services"
+  ],
+  "implementation_scenarios": [
+    "Cloud/SaaS deployment (Web Based)",
+    "Payroll Outsourcing"
+  ],
+  "hr_functions_supported": [
+    "Human Resource Information Systems (HRIS)",
+    "Human Resource Management (HRM)",
+    "Talent Management",
+    "Payroll Services",
+    "Organization Management",
+    "Personnel Administration",
+    "Time & Attendance",
+    "Employee Self-Service (ESS)",
+    "Performance Appraisal",
+    "Employee Benefits",
+    "Hiring"
+  ],
+  "roi_benefits": [
+    "Streamline HR processes",
+    "Save HR department time",
+    "Improve HR efficiency",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "searchable_keywords": [
+    "LinovHR",
+    "HRIS",
+    "HRMS",
+    "HCM",
+    "Human Resources",
+    "HR Management",
+    "Talent Management",
+    "Payroll",
+    "Payroll Outsourcing",
+    "Employee Self-Service",
+    "ESS",
+    "Time & Attendance",
+    "Performance Appraisal",
+    "Organization Management",
+    "Personnel Administration",
+    "Employee Happiness",
+    "Employee Engagement",
+    "Employee Benefits",
+    "Hiring",
+    "Web Based HRIS",
+    "HR Software"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "HR Departments",
+    "Company Management",
+    "Employees (for ESS)"
+  ],
+  "deployment_options": [
+    "Web Based (Cloud/SaaS)"
+  ],
+  "scalability_features": [
+    "Suitable for businesses of all sizes (as per highlight description)",
+    "Used by companies of all sizes and in many industries",
+    "Supports Large and Global Enterprises"
+  ],
+  "_weight": 1
+}

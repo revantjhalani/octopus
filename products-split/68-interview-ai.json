@@ -1,0 +1,137 @@
+{
+  "id": 68,
+  "name": "Interview AI",
+  "description": "Interviewer.AI is all about efficiency. It\u2019s a state-of-the-art video recruiting software that uses Explainable AI to pre-screen and shortlist candidates, bringing the best talent out there for the role you\u2019re looking for. Our online smart video interview software cuts the time of unnecessary pre-interviews, giving you more time to focus on what\u2019s really important \u2013 your company. ",
+  "features": [
+    "Making hiring equitable, explainable and efficient.",
+    "Help businesses spot high-calibre talent effortlessly.",
+    "Integrity \u2022 Humility \u2022 Accountability Drive \u2022 Teamwork"
+  ],
+  "founders": [
+    "Srividya G. "
+  ],
+  "price": [
+    {}
+  ],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Video interviewing software"
+  ],
+  "tags": [
+    "Tasty",
+    "Hiring speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Candidate screening",
+    "Interview scheduling",
+    "Hiring automation",
+    "Hiring best practices"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2018",
+  "order": 20044,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Asynchronous video interview software to screen better, faster.",
+  "ProductId": null,
+  "ShortDescription": "Smart Video Recruiter\r\n",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": true,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-06-28T04:29:53.347Z",
+  "enhanced_description": "Interviewer.AI is a state-of-the-art asynchronous video recruiting software designed for efficiency. It leverages Explainable AI to pre-screen and shortlist candidates, aiming to help businesses spot high-calibre talent effortlessly. By cutting down unnecessary pre-interviews, this online smart video interview software enables organizations to hire top talent faster and more efficiently, while making the hiring process more equitable and explainable.",
+  "key_use_cases": [
+    "Pre-screening candidates",
+    "Shortlisting candidates",
+    "Reducing time spent on initial interviews",
+    "Asynchronous video interviewing",
+    "Automating parts of the hiring process",
+    "Candidate evaluation"
+  ],
+  "competitive_advantages": [
+    "Utilizes Explainable AI for pre-screening and shortlisting",
+    "Offers asynchronous video interviewing capabilities",
+    "Significantly reduces time spent on early-stage pre-interviews",
+    "Aims to enhance hiring efficiency and speed",
+    "Designed to make hiring more equitable and explainable",
+    "Facilitates effortless identification of high-calibre talent"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Candidate Screening",
+    "Video Interviewing",
+    "Candidate Shortlisting",
+    "Hiring Automation"
+  ],
+  "technology_stack": [
+    "Explainable AI",
+    "Artificial Intelligence (AI)",
+    "Video software"
+  ],
+  "roi_benefits": [
+    "Increased hiring efficiency",
+    "Reduced time-to-hire",
+    "Improved quality of hire",
+    "Potential cost savings from streamlined screening",
+    "Enhanced focus for HR and recruiters on strategic tasks"
+  ],
+  "searchable_keywords": [
+    "Interview AI",
+    "Interviewer.AI",
+    "video recruiting software",
+    "Explainable AI",
+    "AI hiring",
+    "pre-screening",
+    "candidate shortlisting",
+    "online video interviews",
+    "smart video interviews",
+    "hiring efficiency",
+    "recruiting efficiency",
+    "hiring speed",
+    "candidate screening",
+    "interview scheduling",
+    "hiring automation",
+    "equitable hiring",
+    "explainable hiring",
+    "asynchronous video interviews",
+    "talent acquisition",
+    "recruiter tools",
+    "HR technology",
+    "talent screening",
+    "virtual interviews",
+    "digital interviews"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Hiring Managers",
+    "HR Teams"
+  ],
+  "deployment_options": [
+    "Cloud (SaaS)"
+  ],
+  "_weight": 1
+}

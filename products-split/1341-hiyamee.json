@@ -1,0 +1,179 @@
+{
+  "id": 1341,
+  "name": "Hiyamee",
+  "description": "Hiyamee connects top tech talent with fast-growing companies. This 7-million strong global community hosts over 600 tech meetups and hiring events annually across 30+ Indian and US cities. They also specialize in successful diversity hiring initiatives.",
+  "features": [
+    "Access to HiyaMee community",
+    "Access to curated talent from multiple social media platforms",
+    "Access to global talent communities"
+  ],
+  "founders": [],
+  "price": [
+    {
+      "name": "",
+      "type": "",
+      "price": "",
+      "description": ""
+    }
+  ],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Onboarding software",
+    "Video interviewing software",
+    "Recruitment agencies",
+    "Background check software",
+    "Applicant tracking system (ATS)",
+    "Recruiting automation software"
+  ],
+  "tags": [
+    "Hiring efficiency",
+    "Candidate screening",
+    "Interview scheduling",
+    "Hiring automation"
+  ],
+  "headquarter": "Bangalore, Karnataka",
+  "launch_date": "2016",
+  "order": 151,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Get the Right Tools and Services for Your Business",
+  "ProductId": null,
+  "ShortDescription": "India's largest Community for Tech Talent",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": [
+      {
+        "times": [
+          {
+            "description": ""
+          }
+        ],
+        "header": "",
+        "sequence": 0,
+        "videourl": "",
+        "description": ""
+      }
+    ]
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Massive Tech Talent Pool",
+      "sequence": 0,
+      "description": "Hiyamee boasts a community of over 7 million tech professionals globally. This vast network offers companies access to a rich pool of potential hires."
+    },
+    {
+      "name": "Extensive Networking & Hiring Events",
+      "sequence": 1,
+      "description": "Hosting over 600 events annually across 30+ cities in India and the US, Hiyamee facilitates valuable connections between tech professionals and companies."
+    },
+    {
+      "name": "Diversity Hiring Expertise",
+      "sequence": 2,
+      "description": "Hiyamee helps companies build inclusive teams with expertise in running successful diversity hiring campaigns."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": true,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-11T13:14:07.539Z",
+  "enhanced_description": "Hiyamee is India's largest community for tech talent, founded in 2016 and headquartered in Bangalore. It connects over 7 million tech professionals globally with fast-growing companies. The platform hosts more than 600 tech meetups and hiring events annually across 30+ cities in India and the US, facilitating valuable connections between tech professionals and companies. Hiyamee specializes in successful diversity hiring initiatives, helping companies build inclusive teams. It provides access to its proprietary community, curated talent from multiple social media platforms, and global talent communities, with the objective to help businesses hire top tech talent faster and more efficiently.",
+  "target_industries": [
+    "Technology"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Sourcing top tech talent",
+    "Organizing and participating in tech meetups and hiring events",
+    "Implementing diversity hiring initiatives",
+    "Accessing curated talent from social media platforms",
+    "Leveraging global talent communities for recruitment",
+    "Improving hiring efficiency",
+    "Facilitating connections between companies and tech professionals",
+    "Supporting candidate screening processes",
+    "Assisting with interview scheduling"
+  ],
+  "competitive_advantages": [
+    "Access to a 7-million strong global tech talent community",
+    "Extensive network with over 600 annual tech meetups and hiring events across 30+ cities in India and the US",
+    "Specialized expertise in successful diversity hiring initiatives",
+    "Access to curated talent from multiple social media platforms",
+    "Access to global talent communities",
+    "Positioned as 'India's largest Community for Tech Talent'"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Sourcing",
+    "Candidate Relationship Management",
+    "Diversity & Inclusion Recruitment",
+    "Candidate Screening",
+    "Interview Scheduling"
+  ],
+  "integration_capabilities": [
+    "Aggregation of talent from multiple social media platforms"
+  ],
+  "roi_benefits": [
+    "Faster and more efficient hiring of top talent",
+    "Access to a massive and diverse pool of potential hires",
+    "Ability to build more inclusive teams",
+    "Facilitates valuable connections between companies and tech professionals"
+  ],
+  "searchable_keywords": [
+    "Hiyamee",
+    "tech talent",
+    "recruiting",
+    "hiring",
+    "talent acquisition",
+    "community",
+    "meetups",
+    "hiring events",
+    "diversity hiring",
+    "global talent",
+    "curated talent",
+    "social media sourcing",
+    "talent pool",
+    "candidate sourcing",
+    "candidate screening",
+    "interview scheduling",
+    "recruitment agency",
+    "hiring efficiency",
+    "recruitment automation",
+    "India",
+    "US",
+    "Recruiting software",
+    "Onboarding software",
+    "Video interviewing software",
+    "Background check software",
+    "Applicant tracking system",
+    "Recruiting automation software"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "HR Managers",
+    "Talent Acquisition teams",
+    "Fast-growing companies"
+  ],
+  "_weight": 1
+}

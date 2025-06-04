@@ -1,0 +1,231 @@
+{
+  "id": 49,
+  "name": "HROne",
+  "description": "Since 2016, HROne has been revolutionizing workplaces with advanced HR automation. Recognized as one of India\u2019s simplest HR software, it automates over 127 processes, simplifying tasks like attendance, payroll, and recruitment for 1500+ organizations. With a dedicated team of 300+, HROne enhances productivity through configurable HRMS, analytics, and a mobile app. ",
+  "features": [
+    "Manage your Employee Lifecycle like a breeze  ",
+    "Simplified Payroll System with 100% Compliance  ",
+    "Real time leave & attendance management to boost productivity"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Talent Management",
+    "Total Rewards",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software",
+    "Human Resource Information Systems (HRIS)",
+    "Human Capital Management",
+    "Human Resource Management Systems (HRMS)",
+    "HR analytics software",
+    "HR management suites",
+    "Employee engagement software",
+    "Employee grievance",
+    "Employee scheduling software",
+    "Talent management software",
+    "Time tracking",
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "Hiring efficiency",
+    "Quality of hire",
+    "Hiring tools",
+    "Hiring process optimization",
+    "Hiring automation",
+    "Hiring analytics",
+    "Data-driven hiring",
+    "Hiring best practices",
+    "Talent acquisition"
+  ],
+  "headquarter": "Noida, Uttar Pradesh",
+  "launch_date": "2016",
+  "order": 20026,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "From Busy Work to Meaningful Impact: How We're Changing HR",
+  "ProductId": null,
+  "ShortDescription": "The Simplest HR Software To Automate the Most Complex Operations",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Cloud & Mobile Ready ",
+      "sequence": 0,
+      "description": "Award winning mobile app that\u2019s used by 5 lakh+ users in India"
+    },
+    {
+      "name": "Secure & Reliable",
+      "sequence": 1,
+      "description": "Powered with Microsoft Azure, GDPR, ISO27001 Compliant: Superior data security"
+    },
+    {
+      "name": "Simple & Intuitive",
+      "sequence": 2,
+      "description": "Powered by InboxforHRTM , a simple interface you don\u2019t need a trainer for."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-15T12:05:36.858Z",
+  "enhanced_description": "HROne, launched in 2016, is an advanced HR automation platform designed to simplify complex HR operations for organizations. Recognized as one of India's simplest HR software solutions, it automates over 127 processes, including critical functions like attendance, payroll, and recruitment. Serving over 1500 organizations, HROne offers a configurable HRMS, robust analytics capabilities, and an award-winning mobile app, which is utilized by over 500,000 users in India. The platform is built for superior data security, powered by Microsoft Azure and compliant with GDPR and ISO27001 standards. Its intuitive InboxforHRTM interface ensures ease of use, minimizing the need for extensive training, and aims to transform HR from busy work to a more impactful role.",
+  "target_industries": [],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee lifecycle management",
+    "Payroll processing and compliance",
+    "Real-time leave management",
+    "Real-time attendance management",
+    "Recruitment and talent acquisition",
+    "HR process automation",
+    "HR analytics for decision making",
+    "Boosting hiring manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "Recognized as one of India\u2019s simplest HR software",
+    "Automates over 127 HR processes",
+    "100% payroll compliance",
+    "Configurable HRMS",
+    "Award-winning mobile app with 5 lakh+ users",
+    "High data security (Microsoft Azure, GDPR, ISO27001 compliant)",
+    "Simple and intuitive user interface (InboxforHRTM)",
+    "Dedicated team of 300+ professionals"
+  ],
+  "hr_functions_supported": [
+    "Core HR",
+    "HRIS (Human Resource Information Systems)",
+    "HCM (Human Capital Management)",
+    "HRMS (Human Resource Management Systems)",
+    "Talent Management",
+    "Total Rewards",
+    "HR analytics",
+    "Employee engagement",
+    "Employee grievance management",
+    "Employee scheduling",
+    "Time tracking",
+    "Payroll services",
+    "Recruitment / Talent Acquisition",
+    "Leave management",
+    "Attendance management"
+  ],
+  "technology_stack": [
+    "Microsoft Azure",
+    "InboxforHRTM"
+  ],
+  "roi_benefits": [
+    "Enhanced HR productivity through automation",
+    "Simplified complex HR tasks",
+    "Improved payroll compliance",
+    "Increased hiring manager confidence and productivity",
+    "Streamlined employee lifecycle management",
+    "Reduced manual HR effort",
+    "Access to real-time HR data and analytics"
+  ],
+  "searchable_keywords": [
+    "HROne",
+    "HR automation",
+    "HR software",
+    "HRMS",
+    "HCM",
+    "HRIS",
+    "Talent Management",
+    "Total Rewards",
+    "Employee Lifecycle Management",
+    "Payroll System",
+    "Payroll Compliance",
+    "Leave Management",
+    "Attendance Management",
+    "Productivity",
+    "Hiring",
+    "Recruiting",
+    "Hiring Manager Confidence",
+    "Hiring Manager Productivity",
+    "Hiring Efficiency",
+    "Quality of Hire",
+    "Hiring Tools",
+    "Hiring Process Optimization",
+    "Hiring Automation",
+    "Hiring Analytics",
+    "Data-driven Hiring",
+    "Talent Acquisition",
+    "Cloud HR",
+    "Mobile HR app",
+    "Microsoft Azure",
+    "GDPR Compliant",
+    "ISO27001 Compliant",
+    "Data Security",
+    "Simple HR Software",
+    "Intuitive Interface",
+    "Core HR Software",
+    "Human Capital Management",
+    "Human Resource Information Systems",
+    "Human Resource Management Systems",
+    "HR Analytics Software",
+    "HR Management Suites",
+    "Employee Engagement Software",
+    "Employee Grievance",
+    "Employee Scheduling Software",
+    "Time Tracking",
+    "Payroll Services Providers",
+    "India HR software",
+    "Automated HR"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "HR Teams",
+    "Hiring Managers",
+    "Employees (via mobile app)"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "Mobile (via dedicated app)"
+  ],
+  "compliance_features": [
+    "100% Payroll Compliance",
+    "GDPR Compliant",
+    "ISO27001 Compliant"
+  ],
+  "scalability_features": [
+    "Supports over 1500 organizations",
+    "Used by over 500,000 users",
+    "Powered by Microsoft Azure (cloud infrastructure)",
+    "Supports Global Enterprises"
+  ],
+  "security_features": [
+    "Superior data security",
+    "Powered by Microsoft Azure",
+    "GDPR Compliant",
+    "ISO27001 Compliant"
+  ],
+  "_weight": 1
+}

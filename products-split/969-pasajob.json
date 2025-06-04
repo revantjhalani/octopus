@@ -1,0 +1,119 @@
+{
+  "id": 969,
+  "name": "PasaJob",
+  "description": "PasaJob uplifts the Filipino talent and workforce by being a job-referral community and platform that accelerate hiring and recruitment for employers, jobseekers, and referrers. With PasaJob, anyone can be rewarded for the strength of their networks. Browse through the available jobs on the platform and refer your contacts whom you think might be a good match for the role. They can either apply or refer another suitable candidate.",
+  "features": [
+    "Access jobs posted by companies from different industries that are hiring now.",
+    "Earn when a referral gets hired or by referring and sharing jobs to your contacts. ",
+    "Get rewarded for the strength of your network, no matter what your work experience is"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "Recruiting",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Pre-employment screening software",
+    "Staffing services providers",
+    "HR consulting providers",
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Talent sourcing",
+    "Candidate screening",
+    "Job boards"
+  ],
+  "headquarter": "Quezon City, National Capital Region",
+  "launch_date": "2019",
+  "order": 20916,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "The Philippines' first long-chain referral-based job platform.",
+  "ProductId": null,
+  "ShortDescription": "PasaJob is the first long-chain referral-based job platform in the Philippines that rewards individuals for connecting businesses to the right candidates.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:37:55.151Z",
+  "enhanced_description": "PasaJob is recognized as the Philippines' pioneering long-chain referral-based job platform. It functions as a community and platform designed to significantly accelerate hiring and recruitment processes for employers, jobseekers, and referrers. The platform uniquely incentivizes individuals by rewarding them for leveraging the strength of their professional and personal networks to connect businesses with suitable talent. Users can browse available job postings, refer contacts they believe are a good match for a role, and even facilitate 'long-chain' referrals where a referred candidate can, in turn, refer another suitable candidate. This model aims to uplift Filipino talent and workforce by rewarding network strength, irrespective of an individual's work experience.",
+  "key_use_cases": [
+    "Accelerating candidate sourcing and recruitment for employers",
+    "Leveraging community networks for talent acquisition",
+    "Facilitating job referrals, including 'long-chain' referral processes",
+    "Rewarding individuals for successful candidate referrals",
+    "Connecting employers with qualified jobseekers through trusted networks",
+    "Filling open positions more quickly"
+  ],
+  "competitive_advantages": [
+    "First-to-market as the long-chain referral-based job platform in the Philippines",
+    "Unique 'long-chain' referral model that potentially broadens the talent pool beyond direct connections",
+    "Strong incentive program that rewards individuals for leveraging their networks for hiring",
+    "Inclusive participation allowing anyone, regardless of work experience, to earn rewards through their network",
+    "Designed to accelerate the hiring process for employers"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Sourcing",
+    "Referral Management",
+    "Candidate Acquisition",
+    "Total Rewards (specifically referral bonuses/rewards)"
+  ],
+  "roi_benefits": [
+    "Faster time-to-hire by leveraging pre-vetted network connections",
+    "Improved efficiency in talent acquisition through community-driven referrals",
+    "Potential reduction in recruitment costs (e.g., agency fees) by utilizing an incentivized referral network",
+    "Access to a wider and potentially higher-quality pool of candidates through trusted networks"
+  ],
+  "searchable_keywords": [
+    "PasaJob",
+    "job referral platform",
+    "job referral community",
+    "recruitment acceleration",
+    "hiring platform Philippines",
+    "long-chain referral",
+    "talent sourcing",
+    "candidate acquisition",
+    "referral rewards",
+    "job board Philippines",
+    "network-based hiring",
+    "Filipino talent",
+    "pre-employment screening",
+    "candidate screening",
+    "hiring speed",
+    "total rewards for referrals",
+    "job matching",
+    "employer recruitment",
+    "job seeker support",
+    "referrer incentives"
+  ],
+  "primary_users": [
+    "Employers",
+    "Jobseekers",
+    "Referrers (individuals who refer contacts)"
+  ],
+  "_weight": 1
+}

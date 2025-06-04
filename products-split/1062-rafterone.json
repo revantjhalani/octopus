@@ -1,0 +1,144 @@
+{
+  "id": 1062,
+  "name": "RafterOne",
+  "description": "Built around possible, Salesforce consulting partners PixelMEDIA, Docmation, and GearsCRM thrived within our sectors by helping brands build high-performing customer connections to maximize revenue, reduce costs, and drive digital transformation. Together we have over 60 years of experience in creating B2B & B2C digital experiences with hundreds of Salesforce certified experts and thousands of clients all over the world. Each company focused on different experiences within Salesforce clouds. PixelMEDIA (est. 1997) experienced success supporting B2C growth for lifestyle brands. Docmation (est. 2011) drove connected online experiences, communities, and online portals for critical B2B business functions. While GearsCRM (est. 2009) created expert solutions through intelligent automation and smart integration solutions that allowed clients to be smarter, faster, and more agile with their business flow. In 2020, we turned our vision to build a complete commerce solution on Salesforce with like-minded Salesforce partners to help clients better navigate the challenges of digital transformation in commerce. The three companies brought our expertise under one roof, with the guidance of BV Investment Partners.",
+  "features": [
+    "Flexible Working Hours     ",
+    "Learning & Development ",
+    "Global Engagement Events"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Employee recognition software",
+    "Sales compensation software",
+    "Compensation management software"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Employee recognition"
+  ],
+  "headquarter": "Portsmouth, New Hampshire",
+  "launch_date": "1994",
+  "order": 21005,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Built Around You",
+  "ProductId": null,
+  "ShortDescription": "RafterOne build complete commerce solutions on Salesforce with like-minded Salesforce partners to help clients better navigate the challenges of digital transformation.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:39:50.040Z",
+  "enhanced_description": "RafterOne is a Salesforce consulting partner specializing in building complete commerce solutions and driving digital transformation for B2B and B2C brands. Formed by the consolidation of PixelMEDIA (established 1997, focusing on B2C growth for lifestyle brands), Docmation (established 2011, focusing on connected online experiences, communities, and online portals for critical B2B business functions), and GearsCRM (established 2009, creating expert solutions through intelligent automation and smart integration). The company leverages over 60 years of combined experience and hundreds of Salesforce certified experts to help clients maximize revenue, reduce costs, and achieve agility. RafterOne aims to help clients better navigate the challenges of digital transformation in commerce, with a headline motto of 'Built Around You'.",
+  "target_industries": [
+    "Retail",
+    "E-commerce",
+    "Lifestyle"
+  ],
+  "key_use_cases": [
+    "Building B2B digital experiences",
+    "Building B2C digital experiences",
+    "Creating online communities",
+    "Developing online portals for B2B business functions",
+    "Implementing intelligent automation solutions",
+    "Implementing smart integration solutions",
+    "Building complete commerce solutions on Salesforce",
+    "Driving digital transformation in commerce",
+    "Maximizing revenue through digital channels",
+    "Reducing operational costs through digital solutions",
+    "Improving customer connections and engagement"
+  ],
+  "competitive_advantages": [
+    "Over 60 years of combined experience from merged entities (PixelMEDIA, Docmation, GearsCRM)",
+    "Hundreds of Salesforce certified experts",
+    "Extensive global client base with thousands of clients",
+    "Consolidated expertise under one roof for comprehensive commerce solutions on Salesforce",
+    "Guidance from BV Investment Partners"
+  ],
+  "implementation_scenarios": [
+    "Custom solution design and development on Salesforce",
+    "Salesforce platform configuration and customization",
+    "Integration of Salesforce with other enterprise systems",
+    "Digital experience and portal implementation",
+    "Automation solution deployment"
+  ],
+  "hr_functions_supported": [],
+  "technology_stack": [
+    "Salesforce"
+  ],
+  "integration_capabilities": [
+    "Smart integration solutions for client business processes and systems (likely centered around Salesforce)"
+  ],
+  "roi_benefits": [
+    "Maximize revenue",
+    "Reduce costs",
+    "Drive digital transformation",
+    "Achieve smarter, faster, and more agile business flow"
+  ],
+  "searchable_keywords": [
+    "RafterOne",
+    "Salesforce",
+    "Consulting",
+    "Digital Transformation",
+    "Commerce Solutions",
+    "B2B Digital Experiences",
+    "B2C Digital Experiences",
+    "Online Communities",
+    "Online Portals",
+    "Intelligent Automation",
+    "Smart Integration",
+    "Revenue Maximization",
+    "Cost Reduction",
+    "Customer Connections",
+    "PixelMEDIA",
+    "Docmation",
+    "GearsCRM",
+    "Total Rewards",
+    "Employee Recognition Software",
+    "Sales Compensation Software",
+    "Compensation Management Software",
+    "Employee Benefits",
+    "Employee Recognition",
+    "Lifestyle Brands",
+    "Retail",
+    "E-commerce"
+  ],
+  "primary_users": [
+    "Client E-commerce teams",
+    "Client Sales teams",
+    "Client Marketing teams",
+    "Client IT departments",
+    "Client Operations teams",
+    "Business stakeholders driving digital transformation"
+  ],
+  "deployment_options": [
+    "Cloud-based (solutions built on Salesforce Platform)"
+  ],
+  "_weight": 1
+}

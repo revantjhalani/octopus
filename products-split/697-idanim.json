@@ -1,0 +1,148 @@
+{
+  "id": 697,
+  "name": "Idanim",
+  "description": "Idanim is a meditation app that helps people start & deepen their meditation, mindfulness, & spiritual journey for inner peace, joy, and emotional well-being. The app offers a diverse range of over 1,000 guided meditations, chants, Pranayama exercises, and other mindfulness practices in English and Hindi by globally renowned monks, teachers, and experts. It enables users to cultivate self-awareness, reduce stress, and lead healthier lives. Idanim is available for free download on the Apple App Store and Google Play Store, and has become a global app dedicated to empowering individuals with mindfulness and self-care practices.",
+  "features": [
+    "Teachers with professional experience",
+    "Help for all emotions",
+    "Live Meditation Sessions"
+  ],
+  "founders": [
+    "Deepak Mittal"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee happiness",
+    "Employee well being",
+    "Employee happiness programs",
+    "Employee benefits"
+  ],
+  "headquarter": "Noida, Uttar Pradesh",
+  "launch_date": "2022",
+  "order": 20651,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "A meditation app that helps people start & deepen their meditation journey for inner peace, joy, & emotional well-being.",
+  "ProductId": null,
+  "ShortDescription": "Idanim is a meditation app that helps people start & deepen their meditation, mindfulness, & spiritual journey for inner peace, joy, and emotional well-being.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Easy Access ",
+      "sequence": 0,
+      "description": "Access 1000+ guided meditations across 40+ categories in English & Hindi"
+    },
+    {
+      "name": "Live Sessions",
+      "sequence": 1,
+      "description": "Daily LIVE meditation sessions with globally renowned mindfulness experts"
+    },
+    {
+      "name": "Personalised Experience ",
+      "sequence": 2,
+      "description": "Personalized meditation recommendations on your current feelings and mood"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:44.729Z",
+  "enhanced_description": "Idanim is a comprehensive meditation and mindfulness mobile application designed to foster inner peace, joy, and emotional well-being for individuals, particularly within a corporate wellness context. Available for free download on both the Apple App Store and Google Play Store, the app offers a vast library of over 1,000 guided meditations, chants, and Pranayama exercises across more than 40 categories. Content is provided in English and Hindi by globally renowned monks, teachers, and mindfulness experts, ensuring professional guidance. Key features include daily live meditation sessions with these experts and personalized meditation recommendations tailored to a user's current feelings and mood, enabling users to cultivate self-awareness, reduce stress, and lead healthier lives.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee well-being programs",
+    "Stress reduction and management",
+    "Mental health support initiatives",
+    "Employee engagement enhancement",
+    "Corporate wellness solutions"
+  ],
+  "competitive_advantages": [
+    "Extensive content library with over 1,000 guided meditations, chants, and Pranayama exercises across 40+ categories",
+    "Multilingual support, offering content in both English and Hindi",
+    "Access to globally renowned monks, teachers, and mindfulness experts",
+    "Daily live meditation sessions for interactive learning",
+    "Personalized meditation recommendations based on user's current feelings and mood",
+    "Free accessibility and download on major mobile app stores (Apple App Store and Google Play Store)"
+  ],
+  "implementation_scenarios": [
+    "Offered as an employee benefit through a corporate wellness program",
+    "Integrated into an organization's health and safety initiatives",
+    "Self-service access for employees via direct mobile app downloads"
+  ],
+  "hr_functions_supported": [
+    "Employee Well-being",
+    "Employee Engagement",
+    "Benefits Management",
+    "Occupational Health & Safety",
+    "Corporate Wellness"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness",
+    "Enhanced employee engagement",
+    "Reduced employee stress",
+    "Better employee emotional well-being",
+    "Promotion of healthier employee lifestyles"
+  ],
+  "searchable_keywords": [
+    "Idanim",
+    "meditation app",
+    "mindfulness app",
+    "corporate wellness software",
+    "health & safety providers",
+    "employee well-being",
+    "employee happiness",
+    "employee engagement",
+    "employee benefits",
+    "guided meditation",
+    "live meditation sessions",
+    "stress reduction",
+    "emotional well-being",
+    "self-care app",
+    "Pranayama",
+    "chants",
+    "spiritual journey",
+    "mental health",
+    "HR tech",
+    "Total Rewards"
+  ],
+  "primary_users": [
+    "Employees",
+    "Individual contributors"
+  ],
+  "deployment_options": [
+    "Mobile app (iOS)",
+    "Mobile app (Android)"
+  ],
+  "_weight": 1
+}

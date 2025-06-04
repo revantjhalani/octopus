@@ -1,0 +1,139 @@
+{
+  "id": 588,
+  "name": "FlexOS",
+  "description": "FlexOS is a new media brand and platform for the Future of Work. With articles, podcasts, how-to guides, tools, and templates, we help modern managers stay ahead in a fast-changing world of work. Focus areas include remote work, hybrid work, leadership, and AI. FlexOS was featured in The New York Times, Harvard Business Review, Business Insider, and The Economist.",
+  "features": [
+    "Employee Engagement",
+    "Employee Experience",
+    "Artificial Intelligence"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Talent acquisition suites",
+    "Staffing & management software"
+  ],
+  "tags": [
+    "Hiring costs",
+    "Recruiting costs",
+    "Sourcing costs"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2022",
+  "order": 20546,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Stay Ahead in the Future of Work. Tools, guides, research, analysis, and expert interviews fo people-centric leaders.",
+  "ProductId": null,
+  "ShortDescription": "Tools, guides, research, analysis, and expert interviews to help people-centric leaders stay ahead in the future of work.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Focus on the Future of Work with AI",
+      "sequence": 0,
+      "description": "FlexOS discusses leadership, artificial intelligence (AI), and the future of work [1]. This suggests that FlexOS is a company that is focused on helping businesses prepare for the future of work, which is likely to be increasingly influenced by AI."
+    },
+    {
+      "name": "Resources for Businesses in the Changing Workplace",
+      "sequence": 1,
+      "description": "FlexOS offers resources to help businesses succeed in the changing workplace [1]. This could include resources on topics such as remote work, managing a hybrid workforce, and using AI to improve efficiency."
+    },
+    {
+      "name": "AI Adoption in the Workplace",
+      "sequence": 2,
+      "description": "The document says that AI is being used more and more in the workplace [1]. FlexOS can be a helpful resource for businesses that are looking to learn more about AI and how they can use it to improve their operations."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:30:33.939Z",
+  "enhanced_description": "FlexOS is a new media brand and platform offering a comprehensive suite of resources, including articles, podcasts, how-to guides, tools, templates, research, analysis, and expert interviews. It is designed to help modern managers and people-centric leaders navigate and stay ahead in the fast-evolving world of work. The platform specifically focuses on critical areas such as remote work, hybrid work, leadership, and Artificial Intelligence (AI). By providing insights and guidance on these topics, FlexOS aims to help businesses adapt to changing workplace dynamics, effectively adopt AI, and ultimately contribute to reducing the cost of hiring qualified employees. FlexOS has garnered significant recognition, being featured in prominent publications like The New York Times, Harvard Business Review, Business Insider, and The Economist.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Staying informed on Future of Work trends",
+    "Developing strategies for remote and hybrid work models",
+    "Improving leadership capabilities for modern workplaces",
+    "Understanding and adopting AI in the workplace",
+    "Enhancing employee engagement strategies",
+    "Improving employee experience initiatives"
+  ],
+  "competitive_advantages": [
+    "High-profile media recognition (New York Times, Harvard Business Review, Business Insider, The Economist)",
+    "Specialized focus on Future of Work, including remote work, hybrid work, leadership, and AI"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Management",
+    "Employee Engagement",
+    "Employee Experience",
+    "Leadership Development"
+  ],
+  "roi_benefits": [
+    "Reduction in the cost of hiring qualified employees",
+    "Improved managerial readiness for future work trends",
+    "Enhanced efficiency through AI adoption guidance",
+    "Improved employee engagement and experience"
+  ],
+  "searchable_keywords": [
+    "FlexOS",
+    "Future of Work",
+    "HR content platform",
+    "HR resources",
+    "modern managers",
+    "remote work",
+    "hybrid work",
+    "leadership",
+    "AI in HR",
+    "employee engagement",
+    "employee experience",
+    "recruiting",
+    "talent management",
+    "talent acquisition",
+    "staffing software",
+    "management software",
+    "hiring costs",
+    "recruiting costs",
+    "sourcing costs",
+    "HR trends",
+    "AI adoption workplace",
+    "people-centric leaders",
+    "workplace transformation",
+    "HR strategy"
+  ],
+  "primary_users": [
+    "Modern Managers",
+    "People-centric Leaders",
+    "HR Professionals",
+    "Talent Acquisition Professionals",
+    "Talent Management Professionals"
+  ],
+  "_weight": 1
+}

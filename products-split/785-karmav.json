@@ -1,0 +1,145 @@
+{
+  "id": 785,
+  "name": "KarmaV",
+  "description": "With KarmaV, recruiters can solve some of the key challenges and streamline the hiring process. While the extent of challenges may vary due to factors like company size, type of skill sets, etc. we have tried to address a few common issues that most companies experience. KarmaV has a simple workflow that does not confuse the employer to get lost and be distracted in the labyrinth of complicated processes to achieve the objective.",
+  "features": [
+    "Positive hiring experience with right talent",
+    "Simple and fast recruitment process by providing ample.",
+    "Data-driven recruitment decisions and match pre-screened and qualified candidates with upcoming open positions."
+  ],
+  "founders": [
+    "Madhura Moulik"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Talent management software",
+    "Workforce management"
+  ],
+  "tags": [
+    "Talent acquisition.",
+    "Hiring manager productivity"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2021",
+  "order": 20738,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Intelligent automation to establish workforce diversity",
+  "ProductId": null,
+  "ShortDescription": "KarmaV is an AI framework that mitigates recruitment biases and builds an agile and equitable employee retention workflow.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Build the brand",
+      "sequence": 0,
+      "description": "Showcase a positive company culture to elevate the employer brand and guide potential candidates to apply for the job."
+    },
+    {
+      "name": "Boost your jobs",
+      "sequence": 1,
+      "description": "Create a customized outreach plan that targets qualified candidates, increases site traffic, and job application rate."
+    },
+    {
+      "name": "Evaluate all applications",
+      "sequence": 2,
+      "description": "Our intelligent automation (IA) platform can identify best-fit candidates for an emerging startup or large enterprises."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:26.189Z",
+  "enhanced_description": "KarmaV is an AI framework that leverages intelligent automation to streamline the hiring process and address common recruitment challenges. It aims to mitigate recruitment biases, establish workforce diversity, and support an agile and equitable employee retention workflow. The platform provides recruiters and hiring managers with a simple, fast, and data-driven approach to identify, pre-screen, and match qualified candidates with open positions. It also helps elevate the employer brand and create customized candidate outreach plans to boost job application rates and hiring manager productivity.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Streamlining the hiring process",
+    "Making data-driven recruitment decisions",
+    "Matching pre-screened and qualified candidates with open positions",
+    "Mitigating recruitment biases",
+    "Establishing workforce diversity",
+    "Boosting employer brand",
+    "Creating customized candidate outreach plans",
+    "Evaluating and identifying best-fit candidates",
+    "Improving hiring manager confidence and productivity",
+    "Building agile and equitable employee retention workflows"
+  ],
+  "competitive_advantages": [
+    "Mitigates recruitment biases",
+    "Simple and fast recruitment process workflow",
+    "Leverages AI framework and intelligent automation",
+    "Enables data-driven recruitment decisions",
+    "Focuses on establishing workforce diversity and equitable retention"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Recruitment",
+    "Employer Branding",
+    "Workforce Diversity",
+    "Talent Management",
+    "Workforce Management"
+  ],
+  "technology_stack": [
+    "AI framework",
+    "Intelligent automation (IA)"
+  ],
+  "roi_benefits": [
+    "Streamlined and faster recruitment process",
+    "Improved quality of hire through data-driven decisions and pre-screening",
+    "Boosted hiring manager confidence and productivity",
+    "Reduced recruitment biases leading to diverse workforce",
+    "Elevated employer brand to attract more candidates",
+    "Increased job application rates and site traffic"
+  ],
+  "searchable_keywords": [
+    "KarmaV",
+    "Recruitment software",
+    "Hiring software",
+    "Talent acquisition",
+    "Talent management software",
+    "Workforce management",
+    "AI recruitment",
+    "Intelligent automation HR",
+    "Mitigate recruitment bias",
+    "Workforce diversity",
+    "Equitable employee retention workflow",
+    "Hiring manager productivity",
+    "Employer brand",
+    "Candidate outreach",
+    "Data-driven hiring",
+    "Candidate screening",
+    "Candidate matching",
+    "Recruitment process optimization",
+    "Positive hiring experience"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Hiring Managers"
+  ],
+  "_weight": 1
+}

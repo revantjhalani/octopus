@@ -1,0 +1,117 @@
+{
+  "id": 754,
+  "name": "Intuition Publishing",
+  "description": "Intuition is a leading global knowledge solutions company. With offices located worldwide, we have developed and deployed our award-winning products and services to many of the world\u2019s leading corporate and public sector organizations for over 35 years. We help your business use knowledge effectively. Our products engage, motivate, and inspire your employees on their learning paths. By committing to the highest standards in our products and services, we deliver solutions that help achieve and exceed your company goals.",
+  "features": [
+    "Knowledge Services",
+    "Blended Learning, and Knowledge Management Platform",
+    "Mobile Learning"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency",
+    "Improve Employee Happiness and Engagement",
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Course authoring"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Learning speed",
+    "Workforce diversity"
+  ],
+  "headquarter": "Dublin",
+  "launch_date": "1985",
+  "order": 20707,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "We help clients develop the skills and expertise they need to unlock their potential.",
+  "ProductId": null,
+  "ShortDescription": "Intuition is a leading global knowledge solutions company. We help clients to optimize their knowledge capital through the provision of online courses, knowledge services, blended learning solutions and knowledge management technology.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:48.698Z",
+  "enhanced_description": "Intuition Publishing is a leading global knowledge solutions company with over 35 years of experience, serving corporate and public sector organizations worldwide. They specialize in optimizing knowledge capital and developing skills by providing online courses, knowledge services, blended learning solutions, and a comprehensive knowledge management platform. Their award-winning products and services, including mobile learning capabilities, are designed to engage, motivate, and inspire employees on their learning paths, ultimately helping businesses achieve and exceed their strategic goals by fostering effective knowledge use and skill development.",
+  "key_use_cases": [
+    "Accelerating skill development and learning efficiency within organizations",
+    "Improving employee engagement and happiness through structured learning paths",
+    "Supporting the development of a more diverse and inclusive workforce via targeted learning",
+    "Implementing blended learning programs for comprehensive training delivery",
+    "Managing and optimizing organizational knowledge capital",
+    "Delivering flexible and accessible learning content via mobile devices",
+    "Authoring and deploying online courses and eLearning content"
+  ],
+  "competitive_advantages": [
+    "Over 35 years of established experience in global knowledge solutions",
+    "Worldwide office presence demonstrating global reach and support",
+    "Award-winning products and services, indicating recognized quality and effectiveness",
+    "Commitment to the highest standards in product and service delivery"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Employee Engagement",
+    "Diversity, Equity & Inclusion (through learning initiatives)"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Improved learning efficiency and speed",
+    "Enhanced training effectiveness",
+    "Optimization of organizational knowledge capital",
+    "Contribution to achieving and exceeding company goals through effective knowledge use",
+    "Improved employee engagement and happiness related to learning"
+  ],
+  "searchable_keywords": [
+    "Intuition Publishing",
+    "knowledge solutions",
+    "learning and development",
+    "training",
+    "eLearning software",
+    "course authoring",
+    "knowledge services",
+    "blended learning",
+    "knowledge management platform",
+    "mobile learning",
+    "skill development",
+    "learning efficiency",
+    "training effectiveness",
+    "learning speed",
+    "workforce diversity",
+    "online courses",
+    "knowledge capital",
+    "employee learning"
+  ],
+  "primary_users": [
+    "Employees (learners)",
+    "HR professionals",
+    "Learning & Development professionals"
+  ],
+  "_weight": 1
+}

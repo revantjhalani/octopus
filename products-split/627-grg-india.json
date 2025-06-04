@@ -1,0 +1,112 @@
+{
+  "id": 627,
+  "name": "GRG India",
+  "description": "GRG India brings you products that seamlessly blend enterprise grade-functionality with user-friendly simplicity.",
+  "features": [
+    "Incentive Based program",
+    "Offer app for rewards",
+    "Channel loyalty program"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration software",
+    "Compensation management software",
+    "Performance management system"
+  ],
+  "tags": [
+    "Employee happiness",
+    "Employee recognition",
+    "Employee happiness programs"
+  ],
+  "headquarter": "Mumbai",
+  "launch_date": "2008",
+  "order": 20584,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Engage Motivate Rewards",
+  "ProductId": null,
+  "ShortDescription": "Dedicated to simplifying employee engagement and incentives.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:31:24.310Z",
+  "enhanced_description": "GRG India offers HR technology products designed to simplify employee engagement and incentives. Their solutions provide enterprise-grade functionality combined with user-friendly simplicity, aiming to improve employee happiness and engagement. Key offerings include incentive-based programs, a dedicated rewards app, and channel loyalty programs, alongside capabilities for benefits administration, compensation management, and performance management.",
+  "key_use_cases": [
+    "Administering incentive programs",
+    "Delivering and managing employee rewards via an app",
+    "Managing channel loyalty programs",
+    "Improving overall employee happiness and engagement",
+    "Facilitating employee recognition initiatives",
+    "Administering employee benefits",
+    "Managing employee compensation",
+    "Supporting performance management processes"
+  ],
+  "competitive_advantages": [
+    "Seamless blend of enterprise-grade functionality with user-friendly simplicity",
+    "Dedicated to simplifying employee engagement and incentives"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards Management",
+    "Benefits Administration",
+    "Compensation Management",
+    "Performance Management",
+    "Employee Engagement",
+    "Employee Recognition"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness",
+    "Increased Employee Engagement",
+    "Enhanced Employee Motivation",
+    "Streamlined Employee Incentives Management"
+  ],
+  "searchable_keywords": [
+    "GRG India",
+    "Incentive Based program",
+    "Offer app for rewards",
+    "Channel loyalty program",
+    "Employee happiness",
+    "Employee Engagement",
+    "Employee recognition",
+    "Employee happiness programs",
+    "Total Rewards",
+    "Benefits administration software",
+    "Compensation management software",
+    "Performance management system",
+    "Engage",
+    "Motivate",
+    "Rewards",
+    "Incentives"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Employees",
+    "Channel Partners"
+  ],
+  "_weight": 1
+}

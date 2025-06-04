@@ -1,0 +1,163 @@
+{
+  "id": 1285,
+  "name": "Incruiter",
+  "description": "InCruiter provides remote interview solutions for businesses to identify the perfect fit for their company through precision and accurate evaluation. We have been enabling startups & enterprises to improve their interview process.",
+  "features": [
+    "IncServe Interview as a service - Opt for our AI interview platform to effortlessly outsource technical interviews to 3000+ expert interviewers",
+    "IncBot AI Interview for seamless Hiring Leverage AI-powered one way video interview software to improve your hiring process by 4X."
+  ],
+  "founders": [
+    "Anil Agarwal"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Recruiting software",
+    "Recruiting automation software",
+    "Applicant tracking system (ATS)",
+    "Video interviewing software",
+    "Staffing services providers",
+    "Recruitment agencies",
+    "Job boards",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "Hiring efficiency",
+    "Hiring best practices",
+    "Quick Hiring",
+    "Hiring speed",
+    "Recruiting efficiency",
+    "Talent acquisition",
+    "Talent sourcing",
+    "Candidate screening"
+  ],
+  "headquarter": "Plano, Texas",
+  "launch_date": "2018",
+  "order": 21111,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "IncServe Interview as a Service Use our AI-powered platform to outsource tech & non-tech interviews to 3000+ expert interviewers.",
+  "ProductId": null,
+  "ShortDescription": "How Interview as a Service transformed hiring for India's leading staffing firm!",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:03.302Z",
+  "enhanced_description": "Incruiter offers comprehensive remote interview solutions designed for businesses to identify the perfect fit for their company through precision and accurate evaluation. The platform features 'IncServe Interview as a Service,' enabling businesses to effortlessly outsource technical and non-technical interviews to a network of over 3000 expert interviewers via an AI-powered platform. Additionally, 'IncBot AI Interview' provides AI-powered one-way video interview software to streamline and accelerate the hiring process, aiming to improve efficiency by up to 4X. Incruiter supports various aspects of recruiting, including candidate screening, talent acquisition, and improving overall hiring efficiency and speed.",
+  "target_industries": [
+    "Staffing Services",
+    "Recruitment Agencies"
+  ],
+  "ideal_company_sizes": [
+    "Startups",
+    "Enterprises"
+  ],
+  "key_use_cases": [
+    "Outsourcing technical interviews",
+    "Outsourcing non-technical interviews",
+    "Conducting one-way video interviews",
+    "Candidate screening",
+    "Improving hiring process efficiency",
+    "Accelerating talent acquisition"
+  ],
+  "competitive_advantages": [
+    "Access to a network of 3000+ expert interviewers",
+    "Leverages AI for interview platform and video software",
+    "Offers outsourced technical and non-technical interview services",
+    "Claimed 4X improvement in hiring process efficiency",
+    "Focus on precision and accurate candidate evaluation"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Candidate Screening",
+    "Interview Management",
+    "Hiring Process Optimization"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Video Interviewing Technology"
+  ],
+  "roi_benefits": [
+    "Faster time-to-hire",
+    "Increased hiring efficiency",
+    "Improved hiring manager productivity",
+    "Enhanced hiring manager confidence",
+    "More accurate and precise candidate evaluation",
+    "Up to 4X improvement in the hiring process"
+  ],
+  "searchable_keywords": [
+    "Incruiter",
+    "IncServe",
+    "IncBot",
+    "Remote interviews",
+    "Remote interview solutions",
+    "AI interview platform",
+    "AI interview software",
+    "AI-powered interviewing",
+    "Interview as a Service",
+    "Outsourced interviews",
+    "Expert interviewers",
+    "Technical interviews",
+    "Non-technical interviews",
+    "One-way video interviews",
+    "Video interviewing software",
+    "Hiring",
+    "Recruiting",
+    "Talent acquisition",
+    "Talent sourcing",
+    "Candidate screening",
+    "Applicant tracking system (ATS)",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Hiring speed",
+    "Quick hiring",
+    "Hiring manager productivity",
+    "Hiring manager confidence",
+    "Staffing software",
+    "Recruitment software",
+    "Recruitment automation"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Recruiters",
+    "Hiring Managers",
+    "Businesses",
+    "Staffing Firms",
+    "Recruitment Agencies"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "_weight": 1
+}

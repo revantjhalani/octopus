@@ -1,0 +1,176 @@
+{
+  "id": 1747,
+  "name": "kellyservices",
+  "description": "Since 1946, we've pioneered the staffing industry, connecting over 450,000 individuals annually with rewarding opportunities worldwide. Our deep expertise spans diverse industries, empowering us to match the right talent with the right roles, catalyzing personal growth and business success. With a global network of partners, we excel in enhancing lives through meaningful work while driving organizational excellence. Trust us to unite talent and opportunity like no other.",
+  "features": [
+    "Temporary and Contract Staffing",
+    "Master Vendor Programs",
+    "Recruitment process outsourcing (RPO)"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Recruiting software",
+    "Recruiting automation software"
+  ],
+  "tags": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Talent acquisition",
+    "Employee engagement"
+  ],
+  "headquarter": "Troy, Michigan",
+  "launch_date": "1946",
+  "order": 21336,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Creating limitless opportunities, together",
+  "ProductId": null,
+  "ShortDescription": "Bringing expertise together with real partnership",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Direct Hire",
+      "sequence": 0,
+      "description": "Kelly offers employers direct sourcing and hiring solutions to reduce recruiting time and cost while freeing up internal resources taken."
+    },
+    {
+      "name": "On-site Workforce Management",
+      "sequence": 1,
+      "description": "kelly helps organizations offload hiring and team management tasks associated with a high-volume, temporary workforce."
+    },
+    {
+      "name": "Business Process Outsourcing",
+      "sequence": 2,
+      "description": "By outsourcing a portion of your processes to Kelly,  you\u2019ll increase productivity while decreasing operational expense."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-07-10T12:50:00.897Z",
+  "enhanced_description": "Kelly Services, established in 1946, is a pioneer in the staffing industry, annually connecting over 450,000 individuals globally with opportunities. They offer comprehensive talent solutions including Temporary and Contract Staffing, Direct Hire, Master Vendor Programs, Recruitment Process Outsourcing (RPO), On-site Workforce Management, and Business Process Outsourcing. With deep expertise across diverse industries and a global network, Kelly Services aims to match the right talent with the right roles, driving personal growth and organizational excellence by bringing expertise together with real partnership.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Temporary and Contract Staffing",
+    "Master Vendor Programs",
+    "Recruitment process outsourcing (RPO)",
+    "Direct Hire",
+    "On-site Workforce Management",
+    "Business Process Outsourcing",
+    "Connecting individuals with rewarding opportunities",
+    "Matching the right talent with the right roles",
+    "Offloading hiring and team management tasks for high-volume temporary workforce"
+  ],
+  "competitive_advantages": [
+    "Pioneering history in the staffing industry since 1946",
+    "Global reach and network (connecting over 450,000 individuals annually worldwide)",
+    "Deep expertise spanning diverse industries",
+    "Ability to reduce recruiting time and cost",
+    "Capacity to free up internal resources",
+    "Increase productivity through outsourcing",
+    "Decrease operational expense through outsourcing"
+  ],
+  "implementation_scenarios": [
+    "Outsourced recruitment (RPO)",
+    "Outsourced business processes (BPO)",
+    "On-site workforce management",
+    "Master Vendor Programs for staffing"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Management",
+    "Learning and Development",
+    "Staffing",
+    "Talent Acquisition",
+    "Workforce Management",
+    "Employee Engagement"
+  ],
+  "roi_benefits": [
+    "Reduced recruiting time",
+    "Reduced recruiting cost",
+    "Freeing up internal resources",
+    "Increased productivity",
+    "Decreased operational expense",
+    "Faster and more efficient hiring of top talent",
+    "Catalyzing personal growth",
+    "Driving business success",
+    "Enhancing lives through meaningful work",
+    "Driving organizational excellence"
+  ],
+  "searchable_keywords": [
+    "Kelly Services",
+    "Staffing",
+    "Temporary staffing",
+    "Contract staffing",
+    "Recruitment process outsourcing",
+    "RPO",
+    "Direct Hire",
+    "Master Vendor Programs",
+    "On-site Workforce Management",
+    "Business Process Outsourcing",
+    "BPO",
+    "Talent acquisition",
+    "Recruiting",
+    "Talent management",
+    "Learning and development",
+    "Workforce solutions",
+    "HR outsourcing",
+    "Global staffing",
+    "Workforce optimization",
+    "Talent placement",
+    "Employee engagement",
+    "Talent solutions",
+    "Workforce planning"
+  ],
+  "primary_users": [
+    "Employers",
+    "Organizations",
+    "Businesses",
+    "Job seekers",
+    "Candidates",
+    "Internal HR teams",
+    "Hiring Managers"
+  ],
+  "deployment_options": [
+    "Outsourced Service Model",
+    "On-site Managed Service",
+    "Vendor Management Programs"
+  ],
+  "scalability_features": [
+    "Global network and reach",
+    "Ability to connect over 450,000 individuals annually",
+    "Serves small, large, and global enterprises",
+    "Management of high-volume temporary workforces"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,158 @@
+{
+  "id": 1284,
+  "name": "Compport",
+  "description": "Compport is a one-stop integrated SaaS solution to manage all your compensation plans namely annual/ad-hoc salary reviews, bonus plans, pay equity, sales incentives, long-term incentive plans, instant rewards, the candidate offers, and total rewards statements.",
+  "features": [
+    "Compensation & Bonus Planning",
+    "Total Rewards Statement",
+    "Candidate Offer Module",
+    "Long term and Sales Incentive Planning"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration software",
+    "Compensation management software",
+    "Benefits administration services",
+    "Sales compensation software",
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Employee happiness programs",
+    "Employee happiness metrics"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2018",
+  "order": 21110,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Simple & powerful compensation software for agile teams",
+  "ProductId": null,
+  "ShortDescription": "Uncomplicate your Compensation Planning",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Operate with Incredible Power and Speed",
+      "sequence": 0,
+      "description": "The industry\u2019s only \u2018no-limits\u2019 compensation platform. It is designed to give you unparalleled depth and control in how you design plans, organize workflows, and set rules across large and complex global organizations."
+    },
+    {
+      "name": "Make Granular Configurations at every stage",
+      "sequence": 1,
+      "description": "Compport was built from the ground-up to be intensely flexible and configurable. Get ready for a platform that will change shape to suit your business processes and preferences."
+    },
+    {
+      "name": "Liberty with Limits",
+      "sequence": 2,
+      "description": "Arm managers with insights and benchmarks at critical junctures and flexibility to make informed decisions"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:00.261Z",
+  "enhanced_description": "Compport is a one-stop integrated SaaS solution designed to manage all compensation plans, including annual/ad-hoc salary reviews, bonus plans, pay equity, sales incentives, long-term incentive plans, instant rewards, candidate offers, and total rewards statements. It offers unparalleled depth and control for designing plans, organizing workflows, and setting rules across large and complex global organizations, emphasizing intense flexibility and granular configuration to adapt to specific business processes and preferences. The platform is built to empower managers with insights and benchmarks for informed compensation decisions.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Organizations with complex compensation structures"
+  ],
+  "key_use_cases": [
+    "Managing annual and ad-hoc salary review cycles",
+    "Designing and administering bonus plans",
+    "Conducting pay equity analysis and adjustments",
+    "Managing sales incentive programs",
+    "Administering long-term incentive plans",
+    "Issuing instant rewards",
+    "Generating and managing candidate offers",
+    "Creating comprehensive total rewards statements for employees",
+    "Configuring complex compensation rules and workflows across large organizations",
+    "Providing managers with data-driven insights for compensation decisions"
+  ],
+  "competitive_advantages": [
+    "Integrated one-stop solution for diverse compensation plans",
+    "No-limits compensation platform offering unparalleled depth and control",
+    "Highly flexible and configurable to adapt to specific business processes and preferences",
+    "Empowers managers with insights and benchmarks for informed decisions",
+    "Designed for power and speed in managing complex compensation for large organizations"
+  ],
+  "hr_functions_supported": [
+    "Compensation Management",
+    "Benefits Administration",
+    "Total Rewards",
+    "Recruitment (Candidate Offer Management)",
+    "Employee Engagement",
+    "HR Analytics/Reporting (insights for managers)"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness and Engagement",
+    "Simplified and streamlined compensation planning processes",
+    "Enhanced decision-making for managers through insights and benchmarks",
+    "Increased operational power and speed in compensation administration"
+  ],
+  "searchable_keywords": [
+    "Compport",
+    "compensation",
+    "bonus planning",
+    "salary review",
+    "pay equity",
+    "sales incentives",
+    "long-term incentive plans",
+    "instant rewards",
+    "candidate offers",
+    "total rewards",
+    "total rewards statements",
+    "SaaS compensation solution",
+    "compensation management software",
+    "benefits administration software",
+    "sales compensation software",
+    "employee benefits",
+    "employee happiness programs",
+    "employee happiness metrics",
+    "HR technology",
+    "compensation platform",
+    "agile compensation",
+    "HR compensation software"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Compensation Professionals",
+    "Managers (for compensation decisions)",
+    "Recruitment Teams"
+  ],
+  "deployment_options": [
+    "Cloud (SaaS)"
+  ],
+  "compliance_features": [
+    "Pay equity management"
+  ],
+  "scalability_features": [
+    "Designed for 'no-limits' compensation management",
+    "Capable of managing plans across large and complex global organizations",
+    "Granular configurations at every stage"
+  ],
+  "_weight": 1
+}

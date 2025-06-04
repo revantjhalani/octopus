@@ -1,0 +1,172 @@
+{
+  "id": 1359,
+  "name": "Accendo",
+  "description": "Our product was created in response to the challenge of aligning talent with business strategy. Constant disruption is the new normal, while prioritising the talent agenda to drive organisational performance. HRMS solutions mainly served as record-keeping systems, and business leaders lacked practical tools for agile talent management. Employees were often excluded from decisions. We want our product to address these issues.\nAs such, we aim to align business and talent by considering the needs of both the organisation and the individual.",
+  "features": [
+    "Succession Planning",
+    "End-to-end Talent Management",
+    "Graduate Recruitment"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Recruiting automation software",
+    "Pre-employment screening software",
+    "Pre-employment testing software",
+    "Applicant tracking system (ATS)",
+    "Onboarding software",
+    "Talent acquisition suites"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Talent acquisition",
+    "Talent sourcing",
+    "Candidate screening",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Hiring best practices"
+  ],
+  "headquarter": "Kuala Lumpur, Wilayah Persekutuan",
+  "launch_date": "2007",
+  "order": 999,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Helping Leading Companies Build Organisational Agility And Resilience ",
+  "ProductId": null,
+  "ShortDescription": "We exist because companies struggle to align talent with business strategy and need a completely new approach to managing talent.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Talent Acquisition & Management Made Easy",
+      "sequence": 0,
+      "description": "TalentPulse simplifies the process of finding, acquiring, and managing top talent by integrating with your HR systems and providing a  shop for talent assessment tools"
+    },
+    {
+      "name": "Data-Driven Talent Decisions",
+      "sequence": 1,
+      "description": "TalentPulse empowers you to make informed choices about your workforce by leveraging assessments with your core HRIS solutions to gain insights into your employees' strengths and development opportunities."
+    },
+    {
+      "name": "Build Your Dream Team",
+      "sequence": 2,
+      "description": "TalentPulse offers a curated marketplace of validated talent assessment tools, allowing you to build a high-performing team by identifying the best candidates globally."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-12T07:33:26.763Z",
+  "enhanced_description": "Accendo is an HR technology product designed to address the critical challenge of aligning talent with business strategy in an era of constant disruption. Moving beyond traditional HRMS solutions that primarily served as record-keeping systems, Accendo provides practical tools for agile talent management, ensuring that both organizational and individual needs are considered. The platform aims to help leading companies build organizational agility and resilience by simplifying the end-to-end process of finding, acquiring, and managing top talent. It achieves this by integrating with existing HR systems and core HRIS solutions, and by leveraging data-driven talent assessment tools to empower informed workforce decisions, gain insights into employee strengths and development opportunities, and ultimately build high-performing teams.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Aligning talent with business strategy",
+    "Agile talent management",
+    "Succession planning",
+    "End-to-end talent management",
+    "Graduate recruitment",
+    "Hiring top talent faster and more efficiently",
+    "Talent acquisition and management",
+    "Making data-driven talent decisions",
+    "Building high-performing teams",
+    "Candidate screening",
+    "Talent sourcing",
+    "Onboarding new hires"
+  ],
+  "competitive_advantages": [
+    "Provides agile talent management tools beyond traditional record-keeping HRMS solutions",
+    "Aligns business and talent strategies by considering both organizational and individual needs",
+    "Enables data-driven talent decisions through integration with HRIS and leveraging talent assessments",
+    "Offers a curated marketplace of validated talent assessment tools",
+    "Simplifies talent acquisition and management through HR system integration",
+    "Helps companies build organizational agility and resilience"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Talent Management",
+    "Succession Planning",
+    "Onboarding",
+    "Pre-employment Screening",
+    "Pre-employment Testing"
+  ],
+  "integration_capabilities": [
+    "Integration with HR systems",
+    "Integration with core HRIS solutions"
+  ],
+  "roi_benefits": [
+    "Hire top talent faster and more efficiently",
+    "Drive organizational performance",
+    "Build organizational agility and resilience",
+    "Make informed choices about your workforce",
+    "Gain insights into employees' strengths and development opportunities",
+    "Build a high-performing team",
+    "Increase hiring speed and efficiency",
+    "Improve recruiting efficiency"
+  ],
+  "searchable_keywords": [
+    "Accendo",
+    "talent management",
+    "talent acquisition",
+    "recruiting software",
+    "recruitment",
+    "succession planning",
+    "graduate recruitment",
+    "HR technology",
+    "HR software",
+    "HRIS integration",
+    "talent assessment",
+    "data-driven HR",
+    "organizational agility",
+    "organizational resilience",
+    "hiring efficiency",
+    "hiring speed",
+    "pre-employment screening",
+    "pre-employment testing",
+    "applicant tracking system",
+    "ATS",
+    "onboarding software",
+    "talent sourcing",
+    "candidate screening",
+    "hiring automation",
+    "end-to-end talent management",
+    "global enterprise HR",
+    "large enterprise HR",
+    "talent strategy alignment"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "Talent Acquisition teams",
+    "Business leaders",
+    "Employees (as participants in talent decisions)"
+  ],
+  "_weight": 1
+}

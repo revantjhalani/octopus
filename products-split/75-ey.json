@@ -1,0 +1,116 @@
+{
+  "id": 75,
+  "name": "EY",
+  "description": "EY exists to build a better working world, helping create long-term value for clients, people and society and build trust in the capital markets. Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate. Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.",
+  "features": [],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Talent Management"
+  ],
+  "sub_categories": [],
+  "tags": [],
+  "headquarter": "",
+  "launch_date": "",
+  "order": 20051,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Building a better working world",
+  "ProductId": null,
+  "ShortDescription": "How can AI help us accelerate the pace of change the world needs?",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": [],
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": false,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-22T16:03:25.378Z",
+  "enhanced_description": "EY aims to build a better working world by creating long-term value for clients, people, and society, and fostering trust in capital markets. Leveraging data and technology, diverse EY teams operating in over 150 countries deliver assurance and assist clients in growth, transformation, and operations. EY specializes in various areas including assurance, consulting, law, strategy, tax, and transactions, addressing complex global issues. Within the HR technology landscape, EY focuses on Talent Management, exploring how AI can accelerate necessary change.",
+  "target_industries": [
+    "Capital Markets"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Strategic talent advisory",
+    "Organizational growth and transformation (HR focus)",
+    "Leveraging AI for HR transformation",
+    "Building trust in business operations"
+  ],
+  "competitive_advantages": [
+    "Global service delivery across over 150 countries",
+    "Diversified service portfolio (assurance, consulting, law, strategy, tax, transactions)",
+    "Strong focus on trust and assurance",
+    "Data and technology-driven approach",
+    "Focus on long-term value creation",
+    "Exploration and application of AI in solutions"
+  ],
+  "implementation_scenarios": [
+    "Strategic consulting and advisory engagements",
+    "Project-based transformation programs"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Talent Strategy",
+    "HR Transformation",
+    "HR Technology Advisory"
+  ],
+  "technology_stack": [
+    "Data",
+    "AI",
+    "Technology (general)"
+  ],
+  "integration_capabilities": [],
+  "roi_benefits": [
+    "Long-term value creation for clients, people, and society",
+    "Enhanced trust in capital markets",
+    "Support for client growth and transformation",
+    "Accelerated pace of change",
+    "Innovative solutions for complex issues"
+  ],
+  "searchable_keywords": [
+    "EY",
+    "Talent Management",
+    "Consulting",
+    "Assurance",
+    "Strategy",
+    "Tax",
+    "Transactions",
+    "Advisory",
+    "Data",
+    "Technology",
+    "AI",
+    "Transformation",
+    "Growth",
+    "Trust",
+    "Global",
+    "HR",
+    "Workforce",
+    "Capital Markets"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "C-suite Executives",
+    "Business Leaders"
+  ],
+  "scalability_features": [
+    "Global service delivery capabilities"
+  ],
+  "_weight": 1
+}

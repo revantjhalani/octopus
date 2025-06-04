@@ -1,0 +1,135 @@
+{
+  "id": 249,
+  "name": "Rekroot",
+  "description": "At rekroot, we're your dedicated recruiting partner specializing in financial services. Whether through consulting and coaching or delivering top-tier candidates, we ensure your hiring needs are met with precision. We understand that securing and retaining top talent is crucial for business success. With our expert support and thorough research, we enable you to make confident hiring decisions that drive your organization's growth trajectory.",
+  "features": [
+    "Coaching & Consulting",
+    "Hiring & Developing a Recruiter",
+    "Speaking Engagements"
+  ],
+  "founders": [
+    "Kimberly Buck Gough"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software"
+  ],
+  "tags": [
+    "Recruiting efficiency",
+    "Recruiting",
+    "Hiring"
+  ],
+  "headquarter": "Chicago, Illinois",
+  "launch_date": "2015",
+  "order": 20214,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Using intention, integrity & influence, let us work hard for you",
+  "ProductId": null,
+  "ShortDescription": "Your strategic recruiting partner with unique insights and tools for today's dynamic recruitment landscape",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Intention",
+      "sequence": 0,
+      "description": "With years in recruiting, we recognized the need for intentional coaching and development to recruit quality advisors, staying updated with industry trends."
+    },
+    {
+      "name": "Integrity",
+      "sequence": 1,
+      "description": "Rekroot was formed to directly impact recruiting and selection specifically in the financial services sector through coaching and consulting. "
+    },
+    {
+      "name": "Influence",
+      "sequence": 2,
+      "description": "We take our clients through an extensive consulting approach to make sure we are the right solution to your recruiting needs now and into the future."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:05.169Z",
+  "enhanced_description": "Rekroot, launched in 2015 and headquartered in Chicago, Illinois, is a dedicated recruiting partner specializing in the financial services sector. They provide expert support and thorough research to help organizations secure and retain top talent, enabling confident hiring decisions that drive growth. Their core offerings include comprehensive consulting and coaching, assistance in hiring and developing internal recruiters, and speaking engagements. Rekroot operates on principles of intention, integrity, and influence, offering unique insights and tools tailored for today's dynamic recruitment landscape. They aim to be a strategic partner for both small and global enterprises, focusing on helping clients hire top talent faster and more efficiently, and significantly boosting hiring manager confidence and productivity.",
+  "target_industries": [
+    "Financial Services"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Recruiting consulting and coaching for hiring needs",
+    "Support for hiring and developing internal recruiters",
+    "Strategic partnership for securing top-tier candidates",
+    "Improving hiring manager confidence and productivity",
+    "Enhancing overall recruiting efficiency"
+  ],
+  "competitive_advantages": [
+    "Specialization in the financial services sector",
+    "Focus on intentional coaching and development in recruiting",
+    "Application of 'Intention, Integrity & Influence' principles in service delivery",
+    "Expert support and thorough research to enable confident hiring decisions",
+    "Provision of unique insights and tools for dynamic recruitment",
+    "Extensive consulting approach to ensure long-term solutions"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Recruiter Development",
+    "HR Consulting"
+  ],
+  "roi_benefits": [
+    "Ability to secure and retain top talent",
+    "Improved confidence in hiring decisions",
+    "Accelerated organizational growth trajectory",
+    "Faster and more efficient hiring of top talent",
+    "Increased hiring manager confidence",
+    "Boosted hiring manager productivity",
+    "Enhanced recruiting efficiency"
+  ],
+  "searchable_keywords": [
+    "Rekroot",
+    "Recruiting",
+    "Hiring",
+    "Financial Services",
+    "Coaching",
+    "Consulting",
+    "Recruiter Development",
+    "Speaking Engagements",
+    "Recruiting Efficiency",
+    "Talent Acquisition",
+    "Strategic Recruiting",
+    "Hiring Manager Confidence",
+    "Recruiting software"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "Recruiters",
+    "HR Leaders"
+  ],
+  "_weight": 1
+}

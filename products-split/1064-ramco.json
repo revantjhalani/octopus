@@ -1,0 +1,158 @@
+{
+  "id": 1064,
+  "name": "ramco",
+  "description": "Ramco a fast-growing enterprise software player disrupting the market with our multi-tenant cloud and mobile-based enterprise software in the area of Global Payroll, ERP, Logistics and M&E MRO for Aviation. We focus on Innovation and Culture to differentiate ourselves in the marketplace.Ramco\u2019s key differentiator is its innovative approach to develop products through its revolutionary enterprise application assembly and delivery platform - Ramco VirtualWorks. In a world that evolves dynamically, businesses need agile solutions to connect with their customers and partners in real-time and empower every user across their enterprise to realize business outcomes.",
+  "features": [
+    "EVENT-DRIVEN NOTIFICATIONS",
+    "FRICTIONLESS COMPUTING ",
+    "UNIVERSAL PERSONALIZATION ENGINE (UPE)"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "HR management suites",
+    "Talent management software",
+    "Workforce management"
+  ],
+  "tags": [
+    "Diversity hiring",
+    "Workplace diversity",
+    "Diversity training"
+  ],
+  "headquarter": "Chennai, Tamil Nadu            ",
+  "launch_date": "1997",
+  "order": 21007,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Your Enterprise Excellence\n Begins Here!",
+  "ProductId": null,
+  "ShortDescription": "Ramco Systems Empowering Enterprise Growth With Innovative Products & Platforms",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:39:51.853Z",
+  "enhanced_description": "Ramco is an innovative enterprise software provider, delivering multi-tenant cloud and mobile-based solutions designed to empower businesses and drive enterprise growth. Specializing in HR domains like Global Payroll, Talent Management, HR Management Suites, and Workforce Management, Ramco also extends its capabilities to Enterprise Resource Planning (ERP), Logistics, and Maintenance, Repair, and Overhaul (MRO) for the Aviation industry. A key differentiator is its revolutionary enterprise application assembly and delivery platform, Ramco VirtualWorks, which enables the development of agile, real-time solutions. Unique features include Event-Driven Notifications, Frictionless Computing, and a Universal Personalization Engine (UPE), all aimed at helping enterprises connect with customers and partners in real-time and achieve specific business outcomes, such as building a more diverse and inclusive workforce.",
+  "target_industries": [
+    "Aviation",
+    "Logistics"
+  ],
+  "ideal_company_sizes": [
+    "Mid-market",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Global payroll processing",
+    "Enterprise resource planning",
+    "Logistics management",
+    "Aviation MRO (Maintenance, Repair, and Overhaul)",
+    "Talent acquisition and management",
+    "Workforce administration",
+    "Diversity and inclusion initiatives",
+    "Diversity hiring",
+    "Workplace diversity",
+    "Diversity training"
+  ],
+  "competitive_advantages": [
+    "Multi-tenant cloud architecture",
+    "Mobile-first approach",
+    "Innovative product development platform (Ramco VirtualWorks)",
+    "Agile solutions delivery",
+    "Real-time connectivity capabilities",
+    "User empowerment across the enterprise",
+    "Event-driven notifications",
+    "Frictionless computing",
+    "Universal Personalization Engine (UPE)"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based deployment"
+  ],
+  "hr_functions_supported": [
+    "Global Payroll",
+    "Talent Management",
+    "HR Administration",
+    "Workforce Management",
+    "Diversity & Inclusion"
+  ],
+  "technology_stack": [
+    "Cloud-based architecture",
+    "Mobile technology",
+    "Ramco VirtualWorks platform"
+  ],
+  "integration_capabilities": [
+    "Integration with ERP systems",
+    "Integration with Logistics systems",
+    "Integration with Aviation MRO systems",
+    "Real-time connectivity with customers and partners"
+  ],
+  "roi_benefits": [
+    "Enhanced business outcomes",
+    "Improved organizational agility",
+    "Increased user empowerment",
+    "Support for enterprise growth",
+    "Improved diversity and inclusion"
+  ],
+  "searchable_keywords": [
+    "ramco",
+    "enterprise software",
+    "cloud",
+    "mobile",
+    "Global Payroll",
+    "ERP",
+    "Logistics",
+    "Aviation MRO",
+    "Talent Management",
+    "HR management suites",
+    "Workforce management",
+    "Diversity hiring",
+    "Workplace diversity",
+    "Diversity training",
+    "Event-driven notifications",
+    "Frictionless computing",
+    "Universal Personalization Engine",
+    "Ramco VirtualWorks",
+    "HR tech",
+    "HR software",
+    "payroll software",
+    "talent software",
+    "enterprise excellence",
+    "innovative products"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "Payroll administrators",
+    "Recruiters",
+    "Managers",
+    "Employees"
+  ],
+  "deployment_options": [
+    "Cloud (SaaS)",
+    "Multi-tenant cloud"
+  ],
+  "_weight": 1
+}

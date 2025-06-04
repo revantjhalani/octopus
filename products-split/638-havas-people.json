@@ -1,0 +1,124 @@
+{
+  "id": 638,
+  "name": "Havas People",
+  "description": "The worlds of work and study are changing fast, and we help brands, businesses and people change with them. Through our work we change how our clients attract, talk and interact with their audiences. And we change people\u2019s perceptions, behaviours and ambitions. What\u2019s more, we do this right across the candidate, employee and student lifecycles. Influencing choices at every touchpoint, whether it\u2019s helping talent make the right career move or students find the perfect university.",
+  "features": [
+    "Education marketing",
+    "Recruitment marketing",
+    "Learning & Development, and Motivation"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration software",
+    "Benefits administration services"
+  ],
+  "tags": [
+    "Hiring costs",
+    "Talent acquisition costs",
+    "Employee referral program"
+  ],
+  "headquarter": "London",
+  "launch_date": "1835",
+  "order": 20595,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "A talent communications agency that keeps brands and businesses meaningful in the ever-changing worlds of work and study.",
+  "ProductId": null,
+  "ShortDescription": "Havas People are specialists in building connections between brands and talent.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:31:36.242Z",
+  "enhanced_description": "Havas People is a talent communications agency that helps brands, businesses, and educational institutions adapt to the evolving worlds of work and study. Specializing in building strong connections between brands and talent, they influence choices across the entire candidate, employee, and student lifecycles. Their core offerings include comprehensive recruitment marketing, education marketing, and strategic solutions for learning, development, and employee motivation. Through these services, Havas People aims to help clients attract and engage their target audiences effectively, ultimately working to reduce the cost of hiring qualified employees and improve overall talent outcomes.",
+  "target_industries": [
+    "All industries (as employers)",
+    "Education (universities, colleges)"
+  ],
+  "key_use_cases": [
+    "Attracting qualified talent through recruitment marketing",
+    "Developing and motivating employees through L&D initiatives",
+    "Influencing student choices and perceptions in education",
+    "Building and managing employer brand reputation",
+    "Improving candidate experience and engagement",
+    "Driving employee engagement and retention",
+    "Reducing overall talent acquisition costs"
+  ],
+  "competitive_advantages": [
+    "Broad lifecycle coverage: Addresses candidate, employee, and student audiences.",
+    "Dual focus on work and study: Combines recruitment marketing with education marketing expertise.",
+    "Specialized talent communications agency: Deep expertise in connecting brands and talent.",
+    "Long-standing history and experience: Established in 1835, implying extensive market knowledge.",
+    "Holistic approach: Covers attraction, interaction, perceptions, behaviors, and ambitions."
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Employer Branding",
+    "Learning & Development",
+    "Employee Engagement",
+    "Workforce Planning (indirectly, by addressing talent needs)"
+  ],
+  "roi_benefits": [
+    "Reduced cost of hiring qualified employees",
+    "Improved quality and volume of talent attraction",
+    "Enhanced brand perception among candidates, employees, and students",
+    "Increased employee motivation and development outcomes"
+  ],
+  "searchable_keywords": [
+    "Havas People",
+    "talent communications agency",
+    "recruitment marketing",
+    "education marketing",
+    "employer branding",
+    "learning and development",
+    "L&D",
+    "employee motivation",
+    "candidate lifecycle",
+    "employee lifecycle",
+    "student lifecycle",
+    "talent attraction",
+    "talent engagement",
+    "hiring costs reduction",
+    "talent acquisition costs",
+    "employee referral program",
+    "workforce communications",
+    "university marketing",
+    "career moves",
+    "HR marketing"
+  ],
+  "primary_users": [
+    "HR Directors",
+    "Talent Acquisition Leaders",
+    "Employer Branding Specialists",
+    "Learning & Development Managers",
+    "University Admissions & Marketing Teams",
+    "Chief Human Resources Officers (CHROs)"
+  ],
+  "_weight": 1
+}

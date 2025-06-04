@@ -1,0 +1,150 @@
+{
+  "id": 215,
+  "name": "PeopleWorks",
+  "description": "eopleWorks HRMS is a cloud-based Human Resource Management Solution that streamlines HR processes through effective automation. We are a technology company offering its immensely successful flagship product PeopleWorks HRMS being a trendsetter in the HRM Automation segment. Headquartered in Bengaluru, PeopleWorks HRMS is the coming together of Excellence in HR management, Technology and Business growth. Our large customer base is testimony to the benchmark we have set in the industry.",
+  "features": [
+    "Value time & cost",
+    "Convenience of location",
+    "HR Compliances"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software",
+    "Human Resource Information Systems (HRIS)",
+    "Human Capital Management",
+    "Human Resource Management Systems (HRMS)"
+  ],
+  "tags": [
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "Hiring automation",
+    "Hiring analytics",
+    "Data-driven hiring"
+  ],
+  "headquarter": "Bangalore, Karnatak",
+  "launch_date": "2013",
+  "order": 20181,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Interact with your employees with advanced HRMS",
+  "ProductId": null,
+  "ShortDescription": " A cloud-based comprehensive end to end Human Resource Management solution",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "An End to End Centralized HR Solution",
+      "sequence": 0,
+      "description": "PeopleWorks HRMS intelligently automates all HR processes beginning from Hire to Retirement."
+    },
+    {
+      "name": "Speedy Implementation & Customised Set-Up",
+      "sequence": 1,
+      "description": " Implement HR policies like never before With the PeopleWorks HRMS software solutions."
+    },
+    {
+      "name": "Futuristic. Innovative. Scalable",
+      "sequence": 2,
+      "description": "The world is changing, and organizations\u2019 HR needs and goals are."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:35.983Z",
+  "enhanced_description": "PeopleWorks HRMS is a comprehensive, cloud-based Human Resource Management Solution designed to streamline HR processes through effective automation. It offers an end-to-end centralized HR solution that intelligently automates all HR processes from 'Hire to Retirement', enabling interaction with employees through an advanced HRMS. The product aims to be a trendsetter in HRM automation, built on a foundation of HR management excellence, technology, and business growth. It is described as futuristic, innovative, and scalable, with a focus on speedy implementation and customized setup.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Automating end-to-end HR processes from hire to retirement",
+    "Streamlining HR operations",
+    "Boosting hiring manager confidence and productivity",
+    "Efficiently implementing HR policies"
+  ],
+  "competitive_advantages": [
+    "Cloud-based delivery for convenience and cost-effectiveness",
+    "End-to-end automation of HR processes from hire to retirement",
+    "Speedy implementation and customized setup",
+    "Scalable and futuristic technology",
+    "Proven market success with a large customer base"
+  ],
+  "implementation_scenarios": [
+    "Rapid deployment",
+    "Customized configuration based on HR policies"
+  ],
+  "hr_functions_supported": [
+    "Core HR",
+    "Recruitment and Hiring",
+    "HR Compliance Management",
+    "Employee Lifecycle Management (from hire to retirement)",
+    "HR Policy Management"
+  ],
+  "roi_benefits": [
+    "Reduced HR operational costs",
+    "Improved HR process efficiency",
+    "Increased hiring manager productivity",
+    "Enhanced hiring manager confidence"
+  ],
+  "searchable_keywords": [
+    "PeopleWorks HRMS",
+    "cloud HRMS",
+    "HR automation",
+    "HRMS software",
+    "HCM software",
+    "HRIS",
+    "Human Capital Management",
+    "Human Resource Management Systems",
+    "Core HR software",
+    "HR compliance",
+    "hiring automation",
+    "hiring analytics",
+    "data-driven hiring",
+    "end-to-end HR solution",
+    "hire to retirement automation",
+    "scalable HR software",
+    "HR process streamlining"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Hiring Managers",
+    "Employees"
+  ],
+  "deployment_options": [
+    "Cloud"
+  ],
+  "compliance_features": [
+    "HR Compliance Management"
+  ],
+  "scalability_features": [
+    "Designed for scalability"
+  ],
+  "_weight": 1
+}

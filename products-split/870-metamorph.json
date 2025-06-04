@@ -1,0 +1,156 @@
+{
+  "id": 870,
+  "name": "MetaMorph",
+  "description": "MetaMorph help companies transform their identities and become employers of choice by creating a strong employer brand externally and building culture internally. From startups at a pre-series stage to teams of over 2000 professionals, we have built employer identities for a vast range of startups in the ecosystem. With MetaMorph, we give you end-to-end expertise. From finding the right people and teams for your organisation and helping you upskill your employees to transforming your employer brand and fuelling your decisions with data, we have you covered \u2013 360\u00b0.",
+  "features": [
+    "How do startups and unicorns reach new heights? Through their people. From CXOs to young talent, we can be the core partners in helping you find the people who fuel your growth. ",
+    "Through your identity, you become the employer of choice for the best talent out there. We create your employer brand externally, and aid you in transforming your culture, internally.",
+    "Make data driven decisions from salary benchmarking reports, brand perception analysis and more through our large scale research projects, that give you in-depth industry insights."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Staffing services providers",
+    "Talent acquisition suites",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring efficiency",
+    "Talent acquisition"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2015",
+  "order": 20823,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Helping people power growth.",
+  "ProductId": null,
+  "ShortDescription": "MetaMorph is help startups scale, evolve their strategies and create path-breaking products by placing people at the helm.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Acquisition",
+      "sequence": 0,
+      "description": "Servify is a global product lifecycle management platform that brings together every ecosystem partner to deliver happiness to the consumer."
+    },
+    {
+      "name": "How to set up a Performance Management System",
+      "sequence": 1,
+      "description": "Keeping your employees motivated and making sure they\u2019re able to perform at their best is crucial for an employer. This is where Performance Management can be a powerful tool to \u2026"
+    },
+    {
+      "name": "Employee Stint Analysis",
+      "sequence": 2,
+      "description": "In an ecosystem like the Indian startup where people have a plethora of opportunities to explore, companies are facing a constant battle to attract and retain exceptional talent. It\u2019s crucial for organisations to focus on creating a stellar employee experience."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:36:03.026Z",
+  "enhanced_description": "MetaMorph offers end-to-end HR expertise to companies ranging from pre-series stage startups to large enterprises with over 2000 professionals. Specializing in helping organizations become employers of choice, MetaMorph builds strong external employer brands and transforms internal culture. Their services include comprehensive talent acquisition, from sourcing CXOs to young talent, and providing staffing services. MetaMorph also supports employee upskilling and advises on setting up Performance Management Systems. They fuel strategic HR decisions with data-driven insights derived from large-scale research projects, including salary benchmarking reports and brand perception analysis. Additionally, they provide insights into employee experience and retention through analyses like Employee Stint Analysis.",
+  "target_industries": [
+    "Startups"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Employer branding and identity transformation",
+    "Internal culture building and transformation",
+    "Talent acquisition and staffing (including CXOs and young talent)",
+    "Employee upskilling and training",
+    "Data-driven HR decision making",
+    "Salary benchmarking",
+    "Brand perception analysis",
+    "Performance management system setup advisory",
+    "Employee experience and retention analysis (e.g., Employee Stint Analysis)"
+  ],
+  "competitive_advantages": [
+    "End-to-end HR expertise",
+    "360-degree coverage of HR needs",
+    "Specialization in employer brand creation and internal culture transformation",
+    "Data-driven insights through large-scale research projects (salary benchmarking, brand perception)",
+    "Ability to source diverse talent (CXOs to young professionals)"
+  ],
+  "implementation_scenarios": [
+    "Service-led partnership",
+    "Consulting-led implementation"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Employer Branding",
+    "Culture Management",
+    "Learning and Development",
+    "HR Analytics",
+    "Performance Management",
+    "Employee Experience"
+  ],
+  "roi_benefits": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Become employer of choice",
+    "Fuel organizational growth through people",
+    "Attract and retain exceptional talent"
+  ],
+  "searchable_keywords": [
+    "MetaMorph",
+    "Recruiting",
+    "Hiring efficiency",
+    "Talent acquisition",
+    "Employer branding",
+    "Culture building",
+    "Culture transformation",
+    "Learning and Development",
+    "Upskilling",
+    "Staffing services",
+    "Training and development",
+    "HR analytics",
+    "Data-driven HR",
+    "Salary benchmarking",
+    "Brand perception analysis",
+    "Performance management",
+    "Employee experience",
+    "Employee retention",
+    "Startup HR",
+    "Unicorn HR",
+    "CXO hiring",
+    "HR advisory"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "Hiring Managers",
+    "CXOs"
+  ],
+  "deployment_options": [
+    "Service-based"
+  ],
+  "_weight": 1
+}

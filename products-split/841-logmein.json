@@ -1,0 +1,88 @@
+{
+  "id": 841,
+  "name": "LogMeIn",
+  "description": "LogMeIn, Inc.\u2019s category-defining products unlock the potential of the modern workforce by making it possible for millions of people and businesses around the globe to do their best work, whenever, however, and most importantly, wherever. A pioneer in remote work technology and a driving force behind today\u2019s work-from-anywhere movement, LogMeIn has become one of the world\u2019s largest SaaS companies with tens of millions of active users, more than 3,500 global employees, over $1.3 billion in annual revenue and more than 2 million customers worldwide who use its software as an essential part of their daily lives.",
+  "features": [
+    "Remote access",
+    "Connectivity & mobility",
+    "Cloud and applications"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration software"
+  ],
+  "tags": [
+    "Employee benefits"
+  ],
+  "headquarter": "Boston, Massachusetts",
+  "launch_date": "2003",
+  "order": 20794,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Anywhere, anytime remote access & support for all\n Support your business from anywhere with game-changing, secure remote solutions.",
+  "ProductId": null,
+  "ShortDescription": "LogMeIn, Inc.\u2019s category-defining products unlock the potential of the modern workforce by making it possible for millions of people and businesses around the globe to do their best work, whenever, however, and most importantly, wherever.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Remote Access Software and Support Solutions",
+      "sequence": 0,
+      "description": "LogMeIn offers a variety of remote access software and support solutions for IT management and support, IT access, and communication and collaboration. Their products are designed to be easy to deploy and scale, and they work closely with customers to ensure their success."
+    },
+    {
+      "name": "Easy-to-Deploy and Scalable Solutions",
+      "sequence": 1,
+      "description": "The article emphasizes that LogMeIn's solutions are easy to deploy and scale. This is important for businesses of all sizes, as it allows them to quickly get up and running with the tools they need."
+    },
+    {
+      "name": "Focus on Customer Success",
+      "sequence": 2,
+      "description": "LogMeIn highlights their commitment to customer success. They work closely with customers to ensure that they are getting the most out of their products."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:30.298Z",
+  "enhanced_description": "Enhanced description not available",
+  "target_industries": [],
+  "ideal_company_sizes": [],
+  "key_use_cases": [],
+  "competitive_advantages": [],
+  "implementation_scenarios": [],
+  "hr_functions_supported": [],
+  "technology_stack": [],
+  "integration_capabilities": [],
+  "roi_benefits": [],
+  "searchable_keywords": [],
+  "primary_users": [],
+  "deployment_options": [],
+  "compliance_features": [],
+  "scalability_features": [],
+  "security_features": [],
+  "_weight": 1
+}

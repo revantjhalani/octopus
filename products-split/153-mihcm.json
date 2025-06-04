@@ -1,0 +1,168 @@
+{
+  "id": 153,
+  "name": "MiHCM",
+  "description": "Designed to run on Microsoft Azure infrastructure, MiHCM helps you remain steadfast amidst a world of changing technology with its comprehensive, end-to-end HR and Employee Experiences.  Workforce Management, Talent Management, HR insights, and complete Mobile-first access for all users are just a few of these.  MiHCM Enterprise is a complete enterprise Digital HR solution which caters to the HR needs of enterprises in any industry vertical.",
+  "features": [
+    "Highly configurable advanced workflow builder",
+    "Enhanced employee engagement powered by Social",
+    "See an inclusive picture of HR"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Talent Management",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software",
+    "Time tracking",
+    "Employee grievance"
+  ],
+  "tags": [
+    "Employee empowerment",
+    "Employee benefits"
+  ],
+  "headquarter": "Kuala Lumpur , Federal Territory of Kuala Lumpur",
+  "launch_date": "2015",
+  "order": 20120,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Transform Employee Potential into Exceptional Performance.",
+  "ProductId": null,
+  "ShortDescription": "Experience seamless HR & Payroll like never before",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Designed for diverse work cultures  ",
+      "sequence": 0,
+      "description": "We cater to unique HR challenges with a special focus on the Asian work culture, incorporating relevant features and functionality."
+    },
+    {
+      "name": "Talent Management-focused  ",
+      "sequence": 1,
+      "description": "Our focus on talent management enables us to continuously put our efforts into R&D, optimising and improving the employee lifecycle."
+    },
+    {
+      "name": "Built to drive Employee Engagement ",
+      "sequence": 2,
+      "description": "MiHCM is committed to providing engaging employee experiences that contribute to employee satisfaction, enthusiasm, and dedication."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:30.406Z",
+  "enhanced_description": "MiHCM is a comprehensive, end-to-end HR and Employee Experiences platform designed to run on Microsoft Azure infrastructure. It provides seamless HR & Payroll capabilities, covering Workforce Management, Talent Management, and HR insights, all with complete mobile-first access. This enterprise-grade Digital HR solution caters to the HR needs of enterprises across any industry vertical and company size, from small to global enterprises. It's specifically designed for diverse work cultures, with a special focus on the Asian work culture, incorporating relevant features and functionality. MiHCM is committed to driving employee engagement, satisfaction, enthusiasm, and dedication, ultimately transforming employee potential into exceptional performance through its talent management focus and highly configurable workflow builder.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Workforce Management",
+    "Talent Management",
+    "HR Insights",
+    "Employee Experience Management",
+    "Payroll Processing",
+    "Time Tracking",
+    "Employee Grievance Management",
+    "Employee Engagement",
+    "HR Workflow Automation",
+    "Employee Empowerment"
+  ],
+  "competitive_advantages": [
+    "Comprehensive end-to-end HR and Employee Experiences",
+    "Mobile-first access for all users",
+    "Highly configurable advanced workflow builder",
+    "Enhanced employee engagement powered by Social features",
+    "Holistic view of HR operations",
+    "Designed for diverse work cultures with a special focus on Asian work culture",
+    "Strong focus on Talent Management and employee lifecycle optimization",
+    "Built on Microsoft Azure infrastructure"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based deployment on Microsoft Azure",
+    "Scalable for small, large, and global enterprises"
+  ],
+  "hr_functions_supported": [
+    "Core HR",
+    "Workforce Management",
+    "Talent Management",
+    "HR Analytics & Insights",
+    "Employee Experience",
+    "Time & Attendance",
+    "Payroll",
+    "Employee Grievance Management",
+    "Employee Engagement",
+    "Employee Benefits Administration",
+    "Workflow Automation"
+  ],
+  "technology_stack": [
+    "Microsoft Azure"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness and Engagement",
+    "Increased Employee Satisfaction, Enthusiasm, and Dedication",
+    "Enhanced Employee Performance",
+    "Optimized Employee Lifecycle Management"
+  ],
+  "searchable_keywords": [
+    "MiHCM",
+    "HRMS",
+    "HCM",
+    "Talent Management",
+    "Core HR",
+    "Workforce Management",
+    "Time Tracking",
+    "Employee Grievance",
+    "HR Insights",
+    "Employee Experience",
+    "Mobile-first HR",
+    "Digital HR",
+    "Enterprise HR",
+    "Microsoft Azure",
+    "Workflow Automation",
+    "Employee Engagement",
+    "Social HR",
+    "Payroll",
+    "Employee Empowerment",
+    "Employee Benefits",
+    "Asian HR",
+    "Global HR",
+    "Employee Lifecycle"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Employees"
+  ],
+  "deployment_options": [
+    "Cloud (SaaS)"
+  ],
+  "scalability_features": [
+    "Built on scalable Microsoft Azure infrastructure",
+    "Supports large and global enterprises"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,131 @@
+{
+  "id": 1096,
+  "name": "SarvaGram",
+  "description": "SarvaGram is India's 1st rural household-centric platform for financial services, risk mitigant & productivity enhancement Farm tools. We provide Loan & Insurance services, currently in the states of Maharashtra, Gujarat, Rajasthan, Karnataka & Telangana. We offer Farm loan, Business loan, Home loan, Consumer durable loan, Personal loan, Gold loan. One-stop-shop for all types of credit needs. Our Insurance partners are HDFC Life, Bajaj Allianz and HDFC ERGO. Farm Mechanization services are provided through our franchisee partners SarvaMitra who is local to your village and has implements for all seasons on pay per use basis.",
+  "features": [
+    "HOUSEHOLD CENTRIC VIEWPOINT",
+    "HIGH TECH WORKFLOW",
+    "HIGH TOUCH EXECUTION"
+  ],
+  "founders": [
+    " Utpal Isse ",
+    "Sameer Mishra"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Compensation management software",
+    "Benefits administration services"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Employee recognition"
+  ],
+  "headquarter": "Pune, Maharashtra",
+  "launch_date": "2018",
+  "order": 21039,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "India's 1st rural household-centric platform for Financial Services, Risk Mitigant & Productivity Enhancement Farm tools",
+  "ProductId": null,
+  "ShortDescription": "SarvaGram provide Loan & Insurance services, currently in the states of Maharashtra, Gujarat, Rajasthan, Karnataka & Telangana. We offer Farm loan, Business loan, Home loan, Consumer durable loan, Personal loan, Gold loan. One-stop-shop for all types of credit needs.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:40:27.675Z",
+  "enhanced_description": "SarvaGram is India's first rural household-centric platform, offering comprehensive financial services, risk mitigation, and productivity enhancement farm tools. Operating in Maharashtra, Gujarat, Rajasthan, Karnataka, and Telangana, it provides a one-stop-shop for diverse credit needs, including Farm, Business, Home, Consumer Durable, Personal, and Gold loans. The platform also offers insurance services through partners like HDFC Life, Bajaj Allianz, and HDFC ERGO. Additionally, it facilitates access to farm mechanization services on a pay-per-use basis via local franchisee partners, SarvaMitra, ensuring both high-tech workflows and high-touch execution tailored to rural communities.",
+  "target_industries": [],
+  "ideal_company_sizes": [],
+  "key_use_cases": [
+    "Providing diverse loan options (Farm, Business, Home, Consumer Durable, Personal, Gold loans) to rural households.",
+    "Offering insurance services (Life, General) for risk mitigation.",
+    "Facilitating access to farm mechanization tools on a pay-per-use model for agricultural productivity enhancement.",
+    "Supporting employee financial wellness programs, especially for workforces in rural areas.",
+    "Enhancing total rewards strategies by offering comprehensive financial and practical benefits to employees."
+  ],
+  "competitive_advantages": [
+    "India's 1st rural household-centric platform, offering a first-mover advantage and specialized focus.",
+    "'Household Centric Viewpoint' catering specifically to the holistic needs of rural families.",
+    "Combines 'High Tech Workflow' for efficient service delivery with 'High Touch Execution' for personalized, local support via franchisee partners.",
+    "Comprehensive 'one-stop-shop' for a wide array of credit needs and insurance services.",
+    "Integration of critical farm mechanization services, addressing specific rural productivity challenges.",
+    "Partnerships with established insurance providers (HDFC Life, Bajaj Allianz, HDFC ERGO) for credibility and diverse options."
+  ],
+  "implementation_scenarios": [],
+  "hr_functions_supported": [
+    "Benefits Administration",
+    "Employee Financial Wellness",
+    "Total Rewards"
+  ],
+  "technology_stack": [],
+  "integration_capabilities": [],
+  "roi_benefits": [
+    "Improved employee happiness and engagement by addressing critical financial and livelihood needs.",
+    "Enhanced employee financial well-being and security through access to diverse loans and insurance.",
+    "Increased access to essential productivity tools (farm mechanization) for employees in rural settings, potentially boosting their livelihood."
+  ],
+  "searchable_keywords": [
+    "SarvaGram",
+    "rural financial services",
+    "India",
+    "household loans",
+    "farm loans",
+    "business loans",
+    "home loans",
+    "consumer durable loans",
+    "personal loans",
+    "gold loans",
+    "insurance",
+    "HDFC Life",
+    "Bajaj Allianz",
+    "HDFC ERGO",
+    "farm mechanization",
+    "SarvaMitra",
+    "employee benefits",
+    "total rewards",
+    "benefits administration",
+    "employee financial wellness",
+    "Maharashtra",
+    "Gujarat",
+    "Rajasthan",
+    "Karnataka",
+    "Telangana",
+    "credit solutions",
+    "risk mitigation",
+    "productivity enhancement"
+  ],
+  "primary_users": [
+    "Rural Households (direct beneficiaries of SarvaGram's services)",
+    "HR Professionals (Benefits Administrators using SarvaGram as an employee benefits offering)",
+    "Employees (beneficiaries accessing financial and productivity services through their employer's benefits program)"
+  ],
+  "deployment_options": [],
+  "compliance_features": [],
+  "scalability_features": [],
+  "security_features": [],
+  "_weight": 1
+}

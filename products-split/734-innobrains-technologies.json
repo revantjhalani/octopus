@@ -1,0 +1,167 @@
+{
+  "id": 734,
+  "name": "InnoBrains Technologies",
+  "description": "\"InnoBrain Technologies is a leading MSME registered IT company that specializes in cutting-edge software solutions and technology consulting services. With a focus on innovation, creativity and reliability, InnoBrain Technologies has established itself as a trusted partner for businesses seeking to leverage technology for competitive advantage. The company is passionate about delivering exceptional results and exceeding client expectations. At InnoBrain Technologies, the range of services offered spans across multiple domains including software development, mobile app development, web development, data analytics and more. The company is known for its ability to understand the unique needs of each client and tailor solutions that align with their business goals and objectives. By leveraging the latest technologies and industry best practices, InnoBrain Technologies delivers state-of-the-art solutions that drive operational efficiencies, enhance customer experiences, and fuel business growth.",
+  "features": [
+    "Requirement based IT Solutions",
+    "Software Tools & Technology Training",
+    "Summer / Winter Internship"
+  ],
+  "founders": [
+    "Masih Davari"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Other / technology",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Internet of things",
+    "Artificial intelligence",
+    "Training eLearning software"
+  ],
+  "tags": [
+    "Skill development",
+    "Skill acquisition",
+    "Learning efficiency"
+  ],
+  "headquarter": "Anand, Gujarat",
+  "launch_date": "2023",
+  "order": 20687,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Make The World A Better Place With Skill",
+  "ProductId": null,
+  "ShortDescription": "\"InnoBrain Technologies is a leading IT company that specializes in cutting-edge software solutions",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Internship",
+      "sequence": 0,
+      "description": "We provide internship opportunities on different IT domains."
+    },
+    {
+      "name": "IT Solutions",
+      "sequence": 1,
+      "description": "We build Web, Mobile & all types of custom IT solutions."
+    },
+    {
+      "name": "IT Training ",
+      "sequence": 2,
+      "description": "We also offer various types of basic to advanced IT trainings."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:28.362Z",
+  "enhanced_description": "InnoBrain Technologies is an MSME registered IT company specializing in cutting-edge, requirement-based software solutions and technology consulting services. They offer a comprehensive range of services including custom software development (web, mobile, and other tailored IT solutions), data analytics, and support for emerging technologies like Internet of Things (IoT) and Artificial intelligence (AI). Beyond solution delivery, InnoBrain Technologies is dedicated to accelerating skill development and learning efficiency through basic to advanced IT training programs and summer/winter internship opportunities. Their focus is on innovation, creativity, and reliability, aiming to provide state-of-the-art solutions that drive operational efficiencies, enhance customer experiences, and fuel business growth for their clients by leveraging the latest technologies and industry best practices.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Custom software development (web, mobile, and other IT solutions)",
+    "Data analytics implementation and consulting",
+    "Leveraging Artificial Intelligence and Internet of Things in business operations",
+    "Workforce upskilling and reskilling in IT domains",
+    "Establishing IT internship programs for talent acquisition and development",
+    "Improving operational efficiency through technology",
+    "Enhancing customer experiences with tailored IT solutions",
+    "Driving business growth through technological adoption"
+  ],
+  "competitive_advantages": [
+    "Customization: Ability to understand unique client needs and tailor requirement-based IT solutions",
+    "Innovation & Reliability: Focus on cutting-edge, state-of-the-art solutions leveraging the latest technologies and industry best practices",
+    "Comprehensive IT Services: Wide range of offerings including software development (web, mobile, custom), data analytics, and technology consulting",
+    "Skill Development & Training: Provides IT training and internship opportunities",
+    "Client-centric Approach: Passion for delivering exceptional results and exceeding client expectations"
+  ],
+  "implementation_scenarios": [
+    "Custom software development projects (web, mobile, and enterprise applications)",
+    "Technology consulting engagements",
+    "Structured IT training programs",
+    "Summer/Winter internship programs"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development (L&D)",
+    "Talent Development",
+    "Workforce Skilling/Reskilling",
+    "Internship Programs"
+  ],
+  "technology_stack": [
+    "Software Development (general)",
+    "Mobile Application Development",
+    "Web Development",
+    "Data Analytics",
+    "Internet of Things (IoT)",
+    "Artificial Intelligence (AI)"
+  ],
+  "roi_benefits": [
+    "Drive operational efficiencies",
+    "Enhance customer experiences",
+    "Fuel business growth",
+    "Accelerate skill development and learning efficiency"
+  ],
+  "searchable_keywords": [
+    "InnoBrains Technologies",
+    "software solutions",
+    "technology consulting",
+    "IT company",
+    "innovation",
+    "creativity",
+    "reliability",
+    "trusted partner",
+    "software development",
+    "mobile app development",
+    "web development",
+    "data analytics",
+    "operational efficiencies",
+    "customer experiences",
+    "business growth",
+    "IT solutions",
+    "software tools training",
+    "technology training",
+    "summer internship",
+    "winter internship",
+    "skill development",
+    "learning efficiency",
+    "internet of things",
+    "artificial intelligence",
+    "training eLearning software",
+    "skill acquisition",
+    "custom IT solutions",
+    "basic IT training",
+    "advanced IT training",
+    "cutting-edge technology"
+  ],
+  "primary_users": [
+    "Business Leaders",
+    "IT Professionals",
+    "HR Professionals",
+    "Learning and Development (L&D) Professionals",
+    "Employees (for training)",
+    "Interns"
+  ],
+  "_weight": 1
+}

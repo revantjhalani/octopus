@@ -1,0 +1,165 @@
+{
+  "id": 52,
+  "name": "Human Inc",
+  "description": "Human Inc is an innovation house helping businesses thrive through innovation, culture, and future skills. Partnering with 100+ global brands like Citibank and AirAsia, they've launched 200+ products, delivered exceptional customer experiences, and certified over 15,000 design thinkers and agile leaders, driving customer-centric growth and organizational agility.",
+  "features": [
+    "Human-Centered Focus",
+    "Culture Activation",
+    "Business Consulting Expertise"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems (LXPs)"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Adaptive learning",
+    "Personalised learning",
+    "Continuous learning"
+  ],
+  "headquarter": "Gurgaon, Haryana",
+  "launch_date": "2015",
+  "order": 20029,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We help companies and people win through innovation, culture & future skills",
+  "ProductId": null,
+  "ShortDescription": "Customers Are Human. Organisations Should Be Too.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Deliver Customer-Centric Innovation",
+      "sequence": 0,
+      "description": "Power teams to quickly build products and services that customers love."
+    },
+    {
+      "name": "Accelerate Transformation",
+      "sequence": 1,
+      "description": "Leverage organisational culture to drive people change, technology adoption & business growth."
+    },
+    {
+      "name": "Develop Future-ready Talent",
+      "sequence": 2,
+      "description": "Train certified Design Thinkers and Agile Leaders with Human Inc Academy."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-15T12:55:39.545Z",
+  "enhanced_description": "Human Inc is an innovation house that helps businesses thrive by fostering innovation, cultivating strong organizational culture, and developing future-ready skills. They have partnered with over 100 global brands, including Citibank and AirAsia, demonstrating their extensive reach and capability. With a track record of launching over 200 products and delivering exceptional customer experiences, Human Inc empowers teams to quickly build products and services that customers love. Through their Human Inc Academy, they have certified over 15,000 design thinkers and agile leaders, driving customer-centric growth and organizational agility. They also specialize in accelerating transformation by leveraging organizational culture to drive people change, technology adoption, and overall business growth.",
+  "target_industries": [
+    "Financial Services",
+    "Aviation",
+    "General Business"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Product and Service Innovation",
+    "Organizational Transformation",
+    "Culture Activation and Management",
+    "Technology Adoption Acceleration",
+    "Skill Development Programs",
+    "Leadership Development (Agile and Design Thinking)",
+    "Customer Experience Improvement",
+    "Business Growth Strategy"
+  ],
+  "competitive_advantages": [
+    "Extensive global client base (100+ global brands including Citibank and AirAsia)",
+    "Proven track record in product development (200+ products launched)",
+    "Large-scale talent certification (15,000+ design thinkers and agile leaders certified)",
+    "Human-Centered Focus methodology",
+    "Expertise in Culture Activation",
+    "Business Consulting Expertise"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Talent Development",
+    "Organizational Development",
+    "Training Management"
+  ],
+  "roi_benefits": [
+    "Drives customer-centric growth",
+    "Enhances organizational agility",
+    "Accelerates skill development",
+    "Improves learning efficiency",
+    "Facilitates faster product/service innovation",
+    "Boosts customer satisfaction",
+    "Accelerates organizational transformation",
+    "Increases technology adoption rates",
+    "Drives overall business growth",
+    "Develops a future-ready workforce",
+    "Enhances leadership capabilities (Design Thinking and Agile)"
+  ],
+  "searchable_keywords": [
+    "Human Inc",
+    "innovation house",
+    "innovation",
+    "culture",
+    "future skills",
+    "skill development",
+    "learning and development",
+    "training",
+    "e-learning",
+    "corporate LMS",
+    "LXP",
+    "training management",
+    "agile leaders",
+    "design thinkers",
+    "leadership development",
+    "organizational transformation",
+    "business growth",
+    "customer experience",
+    "customer-centric",
+    "organizational agility",
+    "talent development",
+    "skill acquisition",
+    "adaptive learning",
+    "personalised learning",
+    "continuous learning",
+    "business consulting",
+    "human-centered focus",
+    "culture activation"
+  ],
+  "primary_users": [
+    "Design Thinkers",
+    "Agile Leaders",
+    "Product Development Teams",
+    "Employees undergoing skill development",
+    "Organizational Leaders"
+  ],
+  "_weight": 1
+}

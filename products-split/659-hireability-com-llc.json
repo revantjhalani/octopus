@@ -1,0 +1,198 @@
+{
+  "id": 659,
+  "name": "HireAbility.com, LLC",
+  "description": "HireAbility is a leading world-wide provider of cloud-based CV, Resume and Job parsing technologies. Our resume parsing software is used by job boards, social networks, applicant tracking systems, vendor management systems, human resource systems, Universities, corporations social and professional networks, staffing companies and recruiters. HireAbility\u2019s service works behind the scenes to help companies eliminate manual entry of CV / Resume increasing productivity and quality of data and providing the foundation for searching and matching resumes to jobs, resume to resumes, jobs to jobs and jobs to resumes. HireAbility's ALEX is multilingual and can parse resumes in over 50 languages and dialects worldwide.",
+  "features": [
+    "Installed and hosted resume parsing solutions",
+    "Semantic Search and Match capabilities",
+    "Customization of resume and job parsing"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Pre-employment screening software",
+    "Pre-employment testing software",
+    "Applicant tracking system (ATS)",
+    "Onboarding software",
+    "Recruitment agencies",
+    "HR consulting providers",
+    "Recruiting automation software"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Candidate screening",
+    "Interview scheduling",
+    "Hiring automation"
+  ],
+  "headquarter": "Londonderry, New Hampshire",
+  "launch_date": "1999",
+  "order": 20613,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Parsing Resumes, Parsing CVs and Jobs in over 50 languages and dialects for the HR Software Industry for over 20 years!",
+  "ProductId": null,
+  "ShortDescription": "HireAbility is a leading world-wide provider of cloud-based CV, Resume and Job parsing technologies.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "HireAbility's Resume Parsing Software: ALEX",
+      "sequence": 0,
+      "description": "HireAbility offers a resume parsing software called ALEX that can be integrated into your current workflow."
+    },
+    {
+      "name": "Benefits of Using HireAbility's Resume Parsing Software",
+      "sequence": 1,
+      "description": "The article mentions that using a resume parsing software can save time and improve the accuracy of your hiring process."
+    },
+    {
+      "name": "GDPR Compliance.",
+      "sequence": 2,
+      "description": "GDPR (General Data Protection Regulation) became effective on May 25th 2018. The purpose of the legislation was to give EU citizens greater control over the data that they provide online. As a data processor HireAbility does not store personally identifiable information and is 100% GDPR compliant. For more information on GDPR and how HireAbility maintains compliance please read our GDPR statement."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:31:58.251Z",
+  "enhanced_description": "HireAbility is a leading world-wide provider of cloud-based, installed, and hosted CV, Resume, and Job parsing technologies. Its core software, ALEX, is multilingual, capable of parsing resumes in over 50 languages and dialects worldwide. Serving the HR software industry for over 20 years, HireAbility's service integrates behind the scenes to eliminate manual data entry of CVs and resumes, thereby increasing productivity and data quality for companies. It provides foundational capabilities for semantic searching and matching of resumes to jobs, resumes to resumes, jobs to jobs, and jobs to resumes. HireAbility's solutions also offer customization of resume and job parsing. As a data processor, HireAbility is 100% GDPR compliant, designed not to store personally identifiable information.",
+  "target_industries": [
+    "Human Resources",
+    "Recruitment",
+    "Education"
+  ],
+  "ideal_company_sizes": [
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Automated parsing of CVs, resumes, and job descriptions",
+    "Eliminating manual data entry for candidate information",
+    "Improving data quality in HR and recruiting systems",
+    "Semantic search and matching of candidates to jobs",
+    "Semantic search and matching of jobs to candidates",
+    "Semantic matching of resumes to resumes",
+    "Semantic matching of jobs to jobs",
+    "Streamlining candidate screening",
+    "Automating parts of the hiring process",
+    "Accelerating talent acquisition"
+  ],
+  "competitive_advantages": [
+    "Multilingual parsing capabilities (over 50 languages and dialects)",
+    "Semantic Search and Match functionality",
+    "Customization of resume and job parsing",
+    "GDPR compliance for data processing (does not store personally identifiable information)",
+    "Supports both cloud-based, installed, and hosted deployment options",
+    "Proven experience with over 20 years in the HR software industry"
+  ],
+  "implementation_scenarios": [
+    "Integration with existing Applicant Tracking Systems (ATS)",
+    "Integration with Vendor Management Systems (VMS)",
+    "Integration with Human Resource Information Systems (HRIS)",
+    "Integration with job boards and social networks for candidate data ingestion",
+    "Deployment as an installed solution",
+    "Deployment as a hosted solution",
+    "Cloud-based deployment"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Candidate Sourcing",
+    "Candidate Screening",
+    "Applicant Tracking",
+    "Data Management (for HR/recruiting data)",
+    "Recruitment Automation"
+  ],
+  "integration_capabilities": [
+    "Integration with Applicant Tracking Systems (ATS)",
+    "Integration with Vendor Management Systems (VMS)",
+    "Integration with Human Resource Information Systems (HRIS)",
+    "Integration with job boards",
+    "Integration with social networks"
+  ],
+  "roi_benefits": [
+    "Increased productivity through elimination of manual data entry",
+    "Improved data quality in recruitment systems",
+    "Faster talent acquisition",
+    "Enhanced hiring efficiency",
+    "Improved accuracy of the hiring process",
+    "Reduced time-to-hire"
+  ],
+  "searchable_keywords": [
+    "Resume parsing",
+    "CV parsing",
+    "Job parsing",
+    "Talent acquisition software",
+    "Recruitment technology",
+    "HR tech",
+    "Applicant tracking system integration",
+    "Vendor management system integration",
+    "HRIS integration",
+    "Data extraction",
+    "Semantic search",
+    "Candidate matching",
+    "Job matching",
+    "Multilingual parsing",
+    "GDPR compliance",
+    "Hiring automation",
+    "Recruiting automation",
+    "Candidate screening",
+    "HR data quality",
+    "Productivity improvement",
+    "Time to hire",
+    "ALEX",
+    "Cloud-based parsing",
+    "Installed parsing solution",
+    "Hosted parsing solution",
+    "Customizable parsing",
+    "Recruiter tools",
+    "Staffing software",
+    "Pre-employment screening",
+    "Resume extractor",
+    "CV extractor",
+    "Job description parser"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Talent Acquisition Specialists",
+    "HR Professionals",
+    "HRIS Administrators",
+    "Staffing Agency Professionals",
+    "Job Board Operators",
+    "VMS Administrators",
+    "University Recruiters"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "On-premise (Installed)",
+    "Hosted"
+  ],
+  "compliance_features": [
+    "GDPR compliance"
+  ],
+  "_weight": 1
+}

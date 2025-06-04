@@ -1,0 +1,165 @@
+{
+  "id": 28,
+  "name": "HiBob",
+  "description": "HiBob's \"Bob\" platform simplifies complex HR for the modern workplace. Launched in 2015, Bob empowers HR, managers, and employees with user-friendly tools to manage everything from hiring to engagement. Trusted by businesses worldwide, Bob helps them attract top talent, boost retention, and revolutionize the work experience. ",
+  "features": [
+    "Made for all users, not just HR",
+    "Powers business growth and expansion",
+    "Connects employees and inspires belonging"
+  ],
+  "founders": [
+    "Ronni Zehavi",
+    "Israel David"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software",
+    "Human Capital Management",
+    "Human Resource Information Systems (HRIS)",
+    "Human Resource Management Systems (HRMS)"
+  ],
+  "tags": [
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "Hiring efficiency",
+    "Quality of hire",
+    "Hiring tools",
+    "Hiring process optimization"
+  ],
+  "headquarter": "New York, US",
+  "launch_date": "2015",
+  "order": 20010,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The HR platform that powers productivity, engagement, and retention. ",
+  "ProductId": null,
+  "ShortDescription": "Modern HR Platform For Modern Business",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Remarkable Employee Experience",
+      "sequence": 0,
+      "description": "Bob prioritizes employees, offering a social media-like interface that fosters connection and engagement."
+    },
+    {
+      "name": "Global Transparency",
+      "sequence": 1,
+      "description": "Bob promotes transparency through features like an Org Chart, people directory, and anonymous reporting tools."
+    },
+    {
+      "name": "Increased Efficiency",
+      "sequence": 2,
+      "description": "Bob helps HR teams save time by automating tasks, creating reusable workflows, and offering pre-configured integrations."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": null,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-01-10T07:19:30.052Z",
+  "enhanced_description": "HiBob's \"Bob\" platform, launched in 2015, is a modern HR platform designed to simplify complex HR processes for the contemporary workplace. It empowers HR professionals, managers, and employees alike with user-friendly tools that streamline HR functions from hiring to employee engagement and retention. Bob aims to boost overall organizational productivity, foster connection, and inspire belonging through a remarkable employee experience, featuring a social media-like interface. The platform promotes global transparency with tools like an Org Chart, people directory, and anonymous reporting. It significantly increases HR efficiency by automating tasks, enabling reusable workflows, and offering pre-configured integrations, ultimately helping businesses attract top talent, boost retention, revolutionize the work experience, and achieve business growth and expansion.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Core HR management and automation",
+    "Talent acquisition and hiring process optimization",
+    "Employee engagement and experience management",
+    "Employee retention",
+    "HR team efficiency improvement",
+    "Global workforce transparency and connectivity",
+    "Support for business growth and expansion"
+  ],
+  "competitive_advantages": [
+    "User-centric design, made for all users (HR, managers, employees)",
+    "Fosters employee connection and belonging with a social media-like interface",
+    "Promotes global transparency through features like Org Chart and people directory",
+    "Increases HR efficiency by automating tasks and offering pre-configured integrations",
+    "Supports business growth and expansion"
+  ],
+  "hr_functions_supported": [
+    "Core HR",
+    "HRIS (Human Resource Information Systems)",
+    "HCM (Human Capital Management)",
+    "Recruiting / Talent Acquisition",
+    "Employee Engagement",
+    "Employee Experience",
+    "Employee Retention",
+    "Organizational Management (Org Chart, People Directory)",
+    "HR Operations & Automation",
+    "Reporting (including anonymous reporting)"
+  ],
+  "integration_capabilities": [
+    "Pre-configured integrations"
+  ],
+  "roi_benefits": [
+    "Boosted hiring manager confidence and productivity",
+    "Increased hiring efficiency and quality of hire",
+    "Improved employee engagement and retention",
+    "Enhanced organizational productivity",
+    "Time savings for HR teams",
+    "Support for business growth and expansion"
+  ],
+  "searchable_keywords": [
+    "HiBob",
+    "Bob",
+    "HRMS",
+    "HCM",
+    "HRIS",
+    "Core HR Software",
+    "Human Capital Management",
+    "Human Resource Information Systems",
+    "Human Resource Management Systems",
+    "Modern HR Platform",
+    "Employee Experience",
+    "Employee Engagement",
+    "Employee Retention",
+    "HR Productivity",
+    "Global HR",
+    "HR Automation",
+    "Hiring Tools",
+    "Hiring Process Optimization",
+    "Org Chart",
+    "People Directory",
+    "Workflows",
+    "User-friendly HR software",
+    "HR tech",
+    "Workplace productivity"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "Managers",
+    "Employees"
+  ],
+  "scalability_features": [
+    "Supports global enterprises",
+    "Scalable for small, large, and global companies"
+  ],
+  "_weight": 1
+}

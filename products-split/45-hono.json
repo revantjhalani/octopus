@@ -1,0 +1,186 @@
+{
+  "id": 45,
+  "name": "HONO",
+  "description": "HONO began in 2008 by pioneering into HR-tech Solutions to emphasize on technology that addresses, simplifies, and humanises end-to-end HR processes. We build solutions that help employees to balance their work-life, team managers to optimize business outcomes, HR to simplify the entire workforce life cycle and organizations to drive positive change.",
+  "features": [
+    "Intelligent HRMS Software",
+    "Employee Engagement",
+    "Enterprise Grade Security",
+    "HONO HCM\u2019s Single Source of Truth"
+  ],
+  "founders": [
+    "Randeep Singh",
+    "Amit Jain"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Talent Management",
+    "Other / technology",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Core HR Software",
+    "Human Resource Information Systems (HRIS)",
+    "Human Capital Management",
+    "Human Resource Management Systems (HRMS)",
+    "HR management suites",
+    "Workforce management",
+    "Talent management software",
+    "Employee engagement software",
+    "Experience Software"
+  ],
+  "tags": [
+    "Hiring manager confidence",
+    "Hiring manager productivity"
+  ],
+  "headquarter": "Gurugram, Haryana",
+  "launch_date": "2008",
+  "order": 18,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Start your HR transformation journey with HONO.",
+  "ProductId": null,
+  "ShortDescription": "HONO human capital management platform simplifies complex HR tasks for both the workforce and HR ",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Everything you need to run HR",
+      "sequence": 0,
+      "description": "The HONO Hire to Retain Solution begins even before you hire anyone and goes well beyond their tenure at your organization."
+    },
+    {
+      "name": "Feel the Pulse of your Organization in real-time",
+      "sequence": 1,
+      "description": "Discover & Drive outstanding employee experience and engagement through a suite of intelligent tools, built using complex data science algorithms, with a view to make your lives simple."
+    },
+    {
+      "name": "Get actionable insights for overall employee wellbeing",
+      "sequence": 2,
+      "description": "Future-proof your workforce and organizational growth trajectory by tapping into the potential of HONO\u2019s Meta Library of organization context, to get a clear line of sight into transformational opportunities ."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-04-02T05:15:16.888Z",
+  "enhanced_description": "HONO, founded in 2008, offers an intelligent Human Capital Management (HCM) platform designed to simplify and humanize end-to-end HR processes. Their 'Hire to Retain Solution' comprehensively covers the entire workforce lifecycle, from pre-hire to post-tenure, aiming to optimize business outcomes for team managers, simplify complex HR tasks for HR professionals, and help employees achieve work-life balance. The platform features intelligent HRMS software leveraging complex data science algorithms to provide real-time, actionable insights for employee wellbeing and organizational growth. HONO emphasizes enterprise-grade security and maintains a single source of truth for all HR data, supporting organizations in driving positive change and future-proofing their workforce. It also includes dedicated tools for enhancing employee engagement and experience.",
+  "ideal_company_sizes": [
+    "Global enterprises"
+  ],
+  "key_use_cases": [
+    "End-to-end HR process management and simplification",
+    "Workforce lifecycle management (from hire to retain)",
+    "Employee work-life balance support",
+    "Optimizing business outcomes for team managers",
+    "Driving positive organizational change",
+    "Boosting hiring manager confidence and productivity",
+    "Discovering and driving employee experience and engagement",
+    "Gaining real-time organizational insights",
+    "Obtaining actionable insights for employee wellbeing",
+    "Future-proofing workforce and organizational growth trajectory"
+  ],
+  "competitive_advantages": [
+    "Pioneering HR-tech solutions since 2008",
+    "Emphasis on technology that humanizes and simplifies HR processes",
+    "Intelligent HRMS Software leveraging data science algorithms for insights",
+    "Enterprise-grade security",
+    "Single Source of Truth for HCM data ensuring data integrity",
+    "Comprehensive 'Hire to Retain Solution' covering the full employee lifecycle",
+    "Ability to provide real-time organizational pulse and actionable insights",
+    "Utilizes a 'Meta Library of organization context' for transformational opportunities"
+  ],
+  "hr_functions_supported": [
+    "Core HR",
+    "Human Capital Management (HCM)",
+    "Human Resource Information Systems (HRIS)",
+    "Human Resource Management Systems (HRMS)",
+    "Talent Management",
+    "Workforce Management",
+    "Employee Engagement",
+    "Employee Experience",
+    "Recruitment (Pre-hire phase)",
+    "Onboarding",
+    "HR Analytics (Actionable insights, data science)",
+    "Employee Wellbeing"
+  ],
+  "technology_stack": [
+    "Artificial intelligence",
+    "Data science algorithms"
+  ],
+  "roi_benefits": [
+    "Simplifies complex HR tasks for both workforce and HR",
+    "Helps employees balance work-life",
+    "Optimizes business outcomes for team managers",
+    "Simplifies the entire workforce life cycle for HR",
+    "Drives positive change within organizations",
+    "Boosts hiring manager confidence and productivity",
+    "Enhances employee experience and engagement",
+    "Provides actionable insights for improved employee wellbeing",
+    "Future-proofs workforce and organizational growth",
+    "Offers clear line of sight into transformational opportunities"
+  ],
+  "searchable_keywords": [
+    "HONO",
+    "HRMS",
+    "HCM",
+    "HR-tech",
+    "HR technology",
+    "Human Capital Management",
+    "Human Resource Management Systems",
+    "Talent Management",
+    "Employee Engagement",
+    "Workforce Management",
+    "Core HR Software",
+    "HRIS",
+    "HR management suites",
+    "Artificial intelligence",
+    "Intelligent HRMS",
+    "Enterprise Grade Security",
+    "Single Source of Truth",
+    "Hire to Retain Solution",
+    "Employee experience",
+    "Employee wellbeing",
+    "Data science",
+    "HR transformation",
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "End-to-end HR processes",
+    "Workforce lifecycle",
+    "Real-time insights",
+    "Organizational growth"
+  ],
+  "primary_users": [
+    "Employees",
+    "Team managers",
+    "HR professionals",
+    "Hiring Managers",
+    "Organizational leadership"
+  ],
+  "security_features": [
+    "Enterprise Grade Security"
+  ],
+  "_weight": 1
+}

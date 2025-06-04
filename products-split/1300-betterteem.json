@@ -1,0 +1,153 @@
+{
+  "id": 1300,
+  "name": "Betterteem",
+  "description": "Betterteem AI\u00ae is a platform that monitors employee experience. Using its algorithm, it serves as an early warning tool for unwanted employee resignations, enabling business operations leaders to take steps to prevent potential disruptions to their service delivery.",
+  "features": [
+    "Rewards & Recognition",
+    "Employee Experience",
+    "Data Analytics",
+    "Employee retention"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Total Rewards",
+    "Talent Management",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Experience Software",
+    "Employee recognition software",
+    "HR analytics software",
+    "Employee engagement software",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Employee satisfaction",
+    "Employee happiness",
+    "Employee engagement surveys",
+    "Employee benefits",
+    "Retention Strategies"
+  ],
+  "headquarter": "Taguig City, Metro Manila",
+  "launch_date": "2021",
+  "order": 21124,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We are your early warning tool for unwanted employee resignations.",
+  "ProductId": null,
+  "ShortDescription": "Betterteem AI\u00ae gets into employees' sentiments to help leaders improve talent engagement and retention.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Perks and Play",
+      "sequence": 0,
+      "description": "Boost team morale with Betterteem Perks by giving your employees access to exclusive discounts on top products and services, from clothing to travel, to enhance the employee experience."
+    },
+    {
+      "name": "Check-in",
+      "sequence": 1,
+      "description": "Help team managers promote accountability and growth with Check-In. Empower people leaders to monitor progress, record development plans, and provide assistance for career advancement."
+    },
+    {
+      "name": "Mission",
+      "sequence": 2,
+      "description": "Help team managers promote accountability and growth with a Check-In tool that is built to monitor progress, record development plans, and provide assistance for career advancement."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:23.375Z",
+  "enhanced_description": "Betterteem AI\u00ae is an AI-powered platform designed as an early warning tool for unwanted employee resignations. It monitors employee experience and sentiment, leveraging its algorithm to help business operations leaders prevent potential disruptions to service delivery by improving talent engagement and retention. The platform features 'Perks and Play' to boost team morale through exclusive discounts on products and services, and a 'Check-in' tool that empowers team managers to monitor employee progress, record development plans, and provide assistance for career advancement.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Predicting and preventing unwanted employee resignations",
+    "Monitoring and improving employee experience",
+    "Analyzing employee sentiment",
+    "Enhancing talent engagement",
+    "Improving employee retention",
+    "Boosting employee morale through rewards and recognition programs",
+    "Facilitating manager-employee check-ins for progress and development monitoring",
+    "Supporting career advancement discussions"
+  ],
+  "competitive_advantages": [
+    "AI-powered early warning system for employee resignations",
+    "Focus on employee sentiment analysis for deeper insights",
+    "Integration of rewards & recognition with retention strategies"
+  ],
+  "hr_functions_supported": [
+    "Employee Experience Management",
+    "Employee Retention",
+    "Rewards & Recognition",
+    "Employee Engagement",
+    "HR Analytics",
+    "Performance Management",
+    "Career Development"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Proprietary Algorithms"
+  ],
+  "roi_benefits": [
+    "Prevention of service delivery disruptions due to resignations",
+    "Improved talent engagement and retention",
+    "Increased team morale",
+    "Data-driven insights for leaders to improve talent management",
+    "Empowerment of people leaders to promote accountability and growth"
+  ],
+  "searchable_keywords": [
+    "Betterteem",
+    "Betterteem AI",
+    "employee experience",
+    "employee retention",
+    "AI",
+    "artificial intelligence",
+    "HR analytics",
+    "talent management",
+    "employee engagement",
+    "rewards and recognition",
+    "employee sentiment",
+    "resignation prediction",
+    "early warning system",
+    "employee morale",
+    "performance management",
+    "career development",
+    "employee benefits",
+    "employee satisfaction",
+    "employee happiness",
+    "employee engagement surveys",
+    "retention strategies",
+    "experience software",
+    "employee recognition software",
+    "HR analytics software",
+    "employee engagement software"
+  ],
+  "primary_users": [
+    "Business operations leaders",
+    "Team managers",
+    "People leaders"
+  ],
+  "_weight": 1
+}

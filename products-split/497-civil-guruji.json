@@ -1,0 +1,125 @@
+{
+  "id": 497,
+  "name": "Civil Guruji",
+  "description": "Learn, Plan & Build Better. Civil Guruji fulfills the gap between unemployment and the skills required by the industry. Join a network of 50,000+ successful alumni worldwide to become a distinguished Civil Engineer.",
+  "features": [
+    "Transforming Engineers through Training",
+    "PROVIDING ONLINE & OFFLINE TRAINING PAN INDIA.",
+    "corporate training"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Learning Experience Systems (LXPs)",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Learning efficiency",
+    "Adaptive learning",
+    "Personalised learning"
+  ],
+  "headquarter": "Bhilai, Chhattisgarh              ",
+  "launch_date": "2018",
+  "order": 20457,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Civil Guruji bridges the Gap between the Colleges and The Construction Industries!",
+  "ProductId": null,
+  "ShortDescription": "Civil Guruji Bridges the Gap between the Colleges and The Construction Industries which helps Civil Engineers to become skillful Globally by Providing Practical Training through Online and Offline modes of learning.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:28:41.168Z",
+  "enhanced_description": "Civil Guruji is a specialized HR technology solution focused on learning and development within the Civil Engineering domain. It provides comprehensive training to bridge the skills gap between academic education and the practical requirements of the construction industry. Through its online and offline training programs, available Pan India, Civil Guruji aims to transform engineers into distinguished professionals, accelerating skill development and learning efficiency. The platform emphasizes practical training and leverages concepts like adaptive and personalized learning, supporting a network of over 50,000 successful alumni globally. It also offers corporate training solutions for businesses in the construction sector.",
+  "target_industries": [
+    "Construction"
+  ],
+  "key_use_cases": [
+    "Skill transformation for engineers",
+    "Bridging skill gaps in the construction industry",
+    "Enhancing employability for civil engineers",
+    "Professional development and career advancement",
+    "Practical skill acquisition for engineering roles",
+    "Corporate training and employee upskilling programs"
+  ],
+  "competitive_advantages": [
+    "Large network of over 50,000 successful alumni",
+    "Emphasis on practical training to bridge industry-academic gaps",
+    "Hybrid delivery model (online and offline training)",
+    "Nationwide presence (Pan India)",
+    "Specialized focus on Civil Engineering and Construction Industry skills"
+  ],
+  "implementation_scenarios": [
+    "Remote learning via online platforms",
+    "In-person classroom or workshop training",
+    "Integrated into corporate learning and development programs"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Training"
+  ],
+  "technology_stack": [
+    "Artificial intelligence"
+  ],
+  "roi_benefits": [
+    "Increased employability for trained individuals",
+    "Reduction in skill gaps between academia and industry requirements",
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Enhanced professional distinction for civil engineers"
+  ],
+  "searchable_keywords": [
+    "Civil Guruji",
+    "Civil Engineer",
+    "Engineering training",
+    "Construction industry skills",
+    "Skill development",
+    "Practical training",
+    "Online learning",
+    "Offline training",
+    "Corporate training",
+    "Learning and Development",
+    "eLearning software",
+    "Learning Experience Systems (LXPs)",
+    "Artificial intelligence",
+    "Adaptive learning",
+    "Personalised learning",
+    "Employability"
+  ],
+  "primary_users": [
+    "Civil Engineers",
+    "Engineers"
+  ],
+  "deployment_options": [
+    "Online (Web-based/Cloud)",
+    "Offline (In-person/Classroom)"
+  ],
+  "_weight": 1
+}

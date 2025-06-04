@@ -1,0 +1,142 @@
+{
+  "id": 735,
+  "name": "Innogru",
+  "description": "Innoguru offers different approaches to Strategy Formation, depending on the situation at the start, the level of uncertainty and the area of uncertainties.",
+  "features": [
+    "Time-efficiency with succinct coaching journeys",
+    "Customized Coaching",
+    "Impactful change in safe environment"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Training management system"
+  ],
+  "tags": [
+    "Learning efficiency",
+    "Adaptive learning",
+    "Training effectiveness"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2022",
+  "order": 20688,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Your Coaching Specialist For Middle Managers",
+  "ProductId": null,
+  "ShortDescription": "Innoguru offers different approaches to Strategy Formation, depending on the situation at the start and the level of uncertainty ",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "DEI-Dare2Share",
+      "sequence": 0,
+      "description": "The Great Balancing Act \u2013 Strengthen the organisations\u2019 diversity stance with specialised coaching for women manager"
+    },
+    {
+      "name": "Innovative DC (Development Center)",
+      "sequence": 1,
+      "description": "Put Development back into DCs \u2013 Create an impactful change in a safe environment"
+    },
+    {
+      "name": "SPRINT Coaching",
+      "sequence": 2,
+      "description": "Coaching Your Future Leaders does not have to be a Marathon- Maximise time-efficiency with succinct coaching journeys"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:29.518Z",
+  "enhanced_description": "Innogru specializes in providing coaching solutions tailored for middle managers, focusing on accelerating skill development and improving learning efficiency. The service offers customized, time-efficient, and impactful coaching journeys designed to facilitate strategy formation, even in situations with high uncertainty. Key offerings include specialized coaching for women managers to strengthen diversity initiatives, innovative development centers for impactful change in a safe environment, and SPRINT Coaching for future leaders, emphasizing maximum time-efficiency through succinct coaching.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Strategy Formation",
+    "Accelerating Skill Development",
+    "Improving Learning Efficiency",
+    "Coaching Middle Managers",
+    "Specialized Coaching for Women Managers",
+    "Conducting Development Center Programs",
+    "Coaching Future Leaders"
+  ],
+  "competitive_advantages": [
+    "Time-efficiency with succinct coaching journeys",
+    "Customized Coaching approaches",
+    "Facilitates impactful change in a safe environment",
+    "Specialized coaching for middle managers",
+    "Tailored approaches to strategy formation based on uncertainty levels",
+    "Includes specialized coaching programs for women managers"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Training Management",
+    "Diversity, Equity, and Inclusion (DEI)"
+  ],
+  "roi_benefits": [
+    "Accelerated Skill Development",
+    "Improved Learning Efficiency",
+    "Maximized Time-Efficiency",
+    "Impactful Organizational Change",
+    "Strengthened Organizational Diversity Stance"
+  ],
+  "searchable_keywords": [
+    "Innogru",
+    "Strategy Formation",
+    "Coaching",
+    "Uncertainty",
+    "Time-efficiency",
+    "Succinct coaching journeys",
+    "Customized Coaching",
+    "Impactful change",
+    "Safe environment",
+    "Skill Development",
+    "Learning Efficiency",
+    "Learning and Development",
+    "Training eLearning software",
+    "Training management system",
+    "Adaptive learning",
+    "Training effectiveness",
+    "Coaching Specialist",
+    "Middle Managers",
+    "DEI-Dare2Share",
+    "Diversity",
+    "Women managers",
+    "Innovative DC",
+    "Development Center",
+    "SPRINT Coaching",
+    "Future Leaders"
+  ],
+  "primary_users": [
+    "Middle Managers",
+    "Women Managers",
+    "Future Leaders",
+    "Individuals undergoing development programs"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,160 @@
+{
+  "id": 794,
+  "name": "Klique",
+  "description": "KLIQUE, the global leader in empowering businesses worldwide and committed to providing world-class CRM solutions that help businesses of all sizes grow and succeed. We want to transform the current environment, where developers have a robotic tendency to offer a simple fix without regard for the end-user. Along with our specialised Salesforce solutions, we make a strong effort to restore that empathy and compassion.",
+  "features": [
+    "Website and app development",
+    "Data Analytics",
+    "PDF Remediation"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Internet of things",
+    "Machine learning HR"
+  ],
+  "tags": [
+    "Skill development",
+    "Skill acquisition",
+    "Training effectiveness"
+  ],
+  "headquarter": "Ajmer, Rajasthan",
+  "launch_date": "2022",
+  "order": 20747,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Innovative Solutions for a Connected World",
+  "ProductId": null,
+  "ShortDescription": "The organization is supported by a group of seasoned industry professionals with years of combined expertise.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Sales Cloud",
+      "sequence": 0,
+      "description": "With Sales cloud, you can streamline processes reduce duplication, set priorities, access information, and improve communication on the go. Here you can get a consolidated view of history and status, generate workflows and increase efficiency. "
+    },
+    {
+      "name": "Service Cloud",
+      "sequence": 1,
+      "description": "It aids in responding to customer queries more intelligently and quickly. With Service cloud, you can achieve increased customer engagements, organize and prioritize issues "
+    },
+    {
+      "name": "Field Service Lightning",
+      "sequence": 2,
+      "description": "t is now known as Salesforce field service, which provides services that extend beyond your workplace. Field service is part of an organization that employs a worker to perform services for a customer. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:34.869Z",
+  "enhanced_description": "Klique is positioned as a global leader in providing world-class CRM solutions, with a specialized focus on Salesforce. They aim to transform the typical developer approach by prioritizing empathy and end-user needs, moving beyond simple, robotic fixes. Their core offerings include website and app development, data analytics, and PDF remediation. Leveraging artificial intelligence, machine learning, and Internet of Things (IoT) technologies, Klique extends its expertise to HR, specifically targeting acceleration of skill development and learning efficiency, and improving training effectiveness. They offer in-depth solutions for key Salesforce clouds, including Sales Cloud for streamlining sales processes and increasing efficiency, Service Cloud for intelligent customer query resolution and enhanced customer engagement, and Field Service Lightning (now Salesforce Field Service) for managing services performed beyond the traditional workplace. The organization is supported by a team of seasoned industry professionals.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "CRM implementation and optimization",
+    "Sales process streamlining and efficiency improvement (via Salesforce Sales Cloud)",
+    "Customer service management and enhanced customer engagement (via Salesforce Service Cloud)",
+    "Field service management and optimization (via Salesforce Field Service)",
+    "Custom website and application development",
+    "Data analysis and insights generation",
+    "PDF document remediation",
+    "Accelerating skill development and learning efficiency within organizations",
+    "Improving training effectiveness through technology",
+    "Leveraging AI/ML for HR solutions"
+  ],
+  "competitive_advantages": [
+    "Specialized Salesforce solutions expertise",
+    "Emphasis on empathy and end-user centric development",
+    "Focus on transforming 'robotic' development approaches",
+    "Backed by seasoned industry professionals"
+  ],
+  "implementation_scenarios": [
+    "Custom Salesforce cloud implementation and configuration",
+    "Website and mobile application development projects",
+    "Data analytics project implementation"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development (Skill Development, Skill Acquisition, Training Effectiveness)",
+    "HR Technology (Machine Learning HR applications)"
+  ],
+  "technology_stack": [
+    "Salesforce",
+    "Artificial intelligence (AI)",
+    "Machine learning (ML)",
+    "Internet of Things (IoT)"
+  ],
+  "roi_benefits": [
+    "Increased efficiency and streamlined processes (via Sales Cloud)",
+    "Improved communication (via Sales Cloud)",
+    "Faster and more intelligent customer query responses (via Service Cloud)",
+    "Increased customer engagements (via Service Cloud)",
+    "Accelerated skill development for employees",
+    "Enhanced learning efficiency"
+  ],
+  "searchable_keywords": [
+    "Klique",
+    "CRM solutions",
+    "Salesforce solutions",
+    "Website development",
+    "App development",
+    "Data analytics",
+    "PDF remediation",
+    "Skill development",
+    "Learning efficiency",
+    "Artificial intelligence",
+    "AI",
+    "Internet of things",
+    "IoT",
+    "Machine learning",
+    "ML",
+    "Machine learning HR",
+    "ML HR",
+    "Skill acquisition",
+    "Training effectiveness",
+    "Sales Cloud",
+    "Service Cloud",
+    "Field Service Lightning",
+    "Salesforce field service",
+    "HR technology",
+    "Technology solutions"
+  ],
+  "primary_users": [
+    "Sales teams",
+    "Customer service teams",
+    "Field service personnel",
+    "HR professionals (especially L&D)",
+    "Employees/Learners",
+    "Business leaders"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,135 @@
+{
+  "id": 816,
+  "name": "Lean Pitch",
+  "description": "We help with Organizational development & coaching, employee engagement, and upskilling.",
+  "features": [
+    "Agile Training Courses",
+    "Coaching",
+    " Scrum Master Certification"
+  ],
+  "founders": [
+    "Jayaprakash D.B"
+  ],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Course authoring"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning optimisation",
+    "Skill acquisition"
+  ],
+  "headquarter": "Bengaluru",
+  "launch_date": "2011",
+  "order": 20769,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Creating WoW Experiences!",
+  "ProductId": null,
+  "ShortDescription": "Leanpitch is an Edu-Tech solutions company that offers training, consulting, and coaching to professionals and organizations",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Agile Training Courses",
+      "sequence": 0,
+      "description": "This article is about a company named Leanpitch that offers Agile training courses."
+    },
+    {
+      "name": "What is Agile",
+      "sequence": 1,
+      "description": "The article discusses what Agile is, which is a software development methodology that emphasizes iterative development, team collaboration, and continuous improvement."
+    },
+    {
+      "name": "Benefits of Agile Courses",
+      "sequence": 2,
+      "description": "The article also details the benefits of taking Agile courses, including improved communication, collaboration, and project management skills.vv"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:01.629Z",
+  "enhanced_description": "Lean Pitch, an Edu-Tech solutions company launched in 2011 and headquartered in Bengaluru, specializes in organizational development, coaching, employee engagement, and upskilling. It offers comprehensive training, consulting, and coaching services, including specialized Agile Training Courses and Scrum Master Certification. The company also provides a Corporate Learning Management System (LMS) and course authoring capabilities, aiming to improve communication, collaboration, and project management skills within organizations and for individual professionals.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Implementing and adopting Agile methodologies within organizations",
+    "Developing and certifying Scrum Masters",
+    "Improving employee communication, collaboration, and project management skills",
+    "Boosting employee engagement through targeted learning initiatives",
+    "Facilitating organizational development programs",
+    "Delivering upskilling programs for professionals",
+    "Managing corporate learning content and courses",
+    "Authoring custom learning content"
+  ],
+  "implementation_scenarios": [
+    "Deployment of a corporate learning management system for content delivery",
+    "Providing training and coaching services for organizational teams",
+    "Consulting for organizational development and Agile adoption",
+    "Utilizing course authoring tools for internal content creation"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Organizational Development",
+    "Employee Engagement",
+    "Talent Management (Skill Development/Upskilling)"
+  ],
+  "searchable_keywords": [
+    "Lean Pitch",
+    "Edu-Tech",
+    "Organizational development",
+    "Coaching",
+    "Employee engagement",
+    "Upskilling",
+    "Agile Training Courses",
+    "Scrum Master Certification",
+    "Training",
+    "Consulting",
+    "Corporate LMS",
+    "Course authoring",
+    "Skill development",
+    "Learning optimisation",
+    "Skill acquisition",
+    "Agile methodology",
+    "Iterative development",
+    "Team collaboration",
+    "Continuous improvement",
+    "Communication skills",
+    "Collaboration skills",
+    "Project management skills"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "Learning & Development managers",
+    "Project Managers",
+    "Team Leads",
+    "Aspiring Scrum Masters",
+    "Professionals seeking skill enhancement",
+    "Organizational leaders"
+  ],
+  "_weight": 1
+}

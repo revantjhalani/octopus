@@ -1,0 +1,152 @@
+{
+  "id": 474,
+  "name": "CARIVA (Thailand)",
+  "description": "CARIVA is an innovative health technology startup that has developed an AI-enabled personalized healthcare and precision medicine. Our solutions provide the digitalization of healthcare ecosystem to support distribution of cutting-edge health technology and to generate solutions integrated with human digital twins. We provide data-driven insights to accelerate life-changing innovations in the hopes of better health outcome for all.",
+  "features": [
+    "An AI-powered radiology assistant that empowers radiologists by providing an Artificial Intelligence tool to facilitate Organ and Tumor volume measurement in a CT scan image",
+    "A digital health platform, uses AI to provide personalized insights and recommendations based on data from wearables, medical records, and self-reports.",
+    "A technology that helps medical professionals diagnose and recommend treatments more accurately, comprehensively, and quickly."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Health & safety providers",
+    "Corporate wellness software"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee happiness programs"
+  ],
+  "headquarter": "Sathorn, Bangkok",
+  "launch_date": "2021",
+  "order": 20434,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "EMPOWER PEOPLE AND HEALTHCARE INDUSTRY.",
+  "ProductId": null,
+  "ShortDescription": "CARIVA is dedicated to making high value health-related data more accessible yet secured to individuals, healthcare professionals, researchers, and policy makers.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:28:05.810Z",
+  "enhanced_description": "CARIVA (Thailand) is an innovative health technology startup that leverages AI-enabled personalized healthcare and precision medicine. Their solutions digitalize the healthcare ecosystem, supporting the distribution of cutting-edge health technology and integrating with human digital twins. CARIVA provides data-driven insights to accelerate life-changing innovations, aiming for better health outcomes for all. The platform makes high-value health-related data accessible yet secured to individuals, healthcare professionals, researchers, and policy makers. Specific offerings include an AI-powered radiology assistant for organ and tumor volume measurement in CT scans, and a digital health platform utilizing AI to provide personalized insights and recommendations from wearables, medical records, and self-reports. This technology assists medical professionals in diagnosing and recommending treatments more accurately, comprehensively, and quickly.",
+  "target_industries": [
+    "Healthcare",
+    "Employers (for corporate wellness/HR initiatives)"
+  ],
+  "key_use_cases": [
+    "Medical image analysis and diagnostic support for radiologists (e.g., organ and tumor volume measurement in CT scans)",
+    "Personalized health management and preventative care for individuals",
+    "Clinical decision support for medical professionals (diagnosis and treatment recommendations)",
+    "Data-driven insights for healthcare research and policy making",
+    "Employee wellness programs and corporate health initiatives",
+    "Improving employee happiness and engagement through health support"
+  ],
+  "competitive_advantages": [
+    "AI-enabled personalized healthcare and precision medicine capabilities",
+    "Digitalization of the healthcare ecosystem",
+    "Integration with human digital twins",
+    "Data-driven insights for accelerating health innovations",
+    "AI-powered radiology assistance for precise measurements in CT scans",
+    "Ability to provide personalized insights and recommendations from diverse data sources (wearables, medical records, self-reports)",
+    "Enhances diagnostic accuracy, comprehensiveness, and speed for medical professionals",
+    "Focus on making high-value health data both accessible and secured"
+  ],
+  "hr_functions_supported": [
+    "Employee Wellness",
+    "Health & Safety",
+    "Employee Engagement",
+    "Total Rewards (health-related benefits)"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Digital Twins"
+  ],
+  "integration_capabilities": [
+    "Wearables data integration",
+    "Medical records integration",
+    "Self-reported data integration",
+    "Human digital twin data integration"
+  ],
+  "roi_benefits": [
+    "Improved health outcomes for individuals and employees",
+    "Accelerated life-changing innovations in healthcare",
+    "Enhanced diagnostic accuracy for medical professionals",
+    "More comprehensive treatment recommendations",
+    "Faster diagnosis and treatment processes",
+    "Improved employee happiness and engagement",
+    "Increased accessibility of high-value health data",
+    "Enhanced security for health-related data"
+  ],
+  "searchable_keywords": [
+    "CARIVA",
+    "Thailand",
+    "health technology",
+    "AI",
+    "artificial intelligence",
+    "personalized healthcare",
+    "precision medicine",
+    "healthcare ecosystem",
+    "digitalization",
+    "human digital twins",
+    "data-driven insights",
+    "health outcome",
+    "radiology assistant",
+    "organ measurement",
+    "tumor measurement",
+    "CT scan",
+    "digital health platform",
+    "personalized insights",
+    "recommendations",
+    "wearables",
+    "medical records",
+    "self-reports",
+    "medical professionals",
+    "diagnose",
+    "treatment recommendations",
+    "employee well-being",
+    "employee happiness programs",
+    "total rewards",
+    "health and safety providers",
+    "corporate wellness software",
+    "accessible health data",
+    "secured health data"
+  ],
+  "primary_users": [
+    "Radiologists",
+    "Medical Professionals",
+    "Individuals (patients/employees)",
+    "Healthcare Professionals",
+    "Researchers",
+    "Policy Makers"
+  ],
+  "security_features": [
+    "Secured high-value health-related data"
+  ],
+  "_weight": 1
+}

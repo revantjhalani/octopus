@@ -1,0 +1,180 @@
+{
+  "id": 661,
+  "name": "Hireciel",
+  "description": "HireCiel empowers staffing firms to achieve their key goal of profitable growth.Our platform equips recruitment and hiring professionals with the tools they need to effectively identify, connect with, and engage qualified candidates. With HireCiel, staffing firms can stay ahead of the competition and streamline their hiring processes for maximum efficiency and success. HireCiel is a SAAS based Recruitment platform. HireCiel provides real-time visibility on how teams are engaged on the ground. This visibility allows Staffing firms to allocate resources more effectively, load balance across teams, and make smart decisions with agility. The visibility and actionable analytics provided by HireCiel help Staffing Firms make their operations more customer-centric, efficient, and lean.",
+  "features": [
+    "Interview Scheduling",
+    "Requirement Management",
+    "Resume Database"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Recruiting software",
+    "Pre-employment screening software",
+    "Background check software",
+    "Pre-employment testing software",
+    "Reference check software",
+    "Recruiting automation software",
+    "Talent acquisition suites",
+    "Applicant tracking system (ATS)",
+    "Onboarding software",
+    "Video interviewing software",
+    "Staffing services providers",
+    "Job boards",
+    "Recruitment agencies",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Hiring efficiency",
+    "Hiring",
+    "Recruiting",
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "Hiring Efficiency",
+    "Quality of hire",
+    "Hiring tools",
+    "Hiring process optimization",
+    "Hiring automation",
+    "Hiring analytics",
+    "Data-driven hiring",
+    "Hiring best practices",
+    "Talent acquisition"
+  ],
+  "headquarter": "Bengaluru North, Karnataka",
+  "launch_date": "2022",
+  "order": 20615,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Hiring Made Easy",
+  "ProductId": null,
+  "ShortDescription": "HireCiel is a SAAS based Recruitment platform. HireCiel provides real-time visibility on how teams are engaged on the ground.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Interview Scheduling",
+      "sequence": 0,
+      "description": "Interview scheduling tool manages the logistics of the hiring process you can schedule and reschedule within your organization's calendar service. The reminders and notifications can reduce the errors."
+    },
+    {
+      "name": "Profile / Resume Validation",
+      "sequence": 1,
+      "description": "The resume validation process is the best way to mitigate the risks of hiring procedures from an entry level position to a senior level position. The resume validation process can guarantee the information provided right."
+    },
+    {
+      "name": "Reports",
+      "sequence": 2,
+      "description": "Real time graphical reporting and analytics keeps you updated on recruitment to get granular information. Smart Visual reports to understand your recruiting process and identify bottleneck and improve opportunities. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:00.706Z",
+  "enhanced_description": "HireCiel is a SAAS-based Recruitment platform specifically designed to empower staffing firms to achieve profitable growth by streamlining their hiring processes. It provides recruitment and hiring professionals with essential tools to effectively identify, connect with, and engage qualified candidates. The platform offers real-time visibility into team engagement and operations, facilitating effective resource allocation, load balancing, and agile decision-making. Key features include intuitive interview scheduling with calendar integration, reminders, and notifications, robust requirement management, and a comprehensive resume database. Additionally, HireCiel offers advanced profile and resume validation capabilities to mitigate hiring risks and real-time graphical reporting and analytics for understanding recruitment processes, identifying bottlenecks, and optimizing opportunities. These capabilities aim to boost hiring manager confidence and productivity, leading to more efficient, lean, and customer-centric operations.",
+  "target_industries": [
+    "Staffing & Recruitment"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Identifying, connecting with, and engaging qualified candidates",
+    "Streamlining and optimizing hiring processes",
+    "Managing and scheduling interviews",
+    "Handling candidate requirements",
+    "Maintaining and utilizing a resume database",
+    "Validating candidate profiles and resumes",
+    "Monitoring recruitment performance through analytics and reporting",
+    "Effective resource allocation and load balancing for recruitment teams",
+    "Making data-driven decisions in recruitment operations"
+  ],
+  "competitive_advantages": [
+    "SAAS-based platform for modern deployment and accessibility",
+    "Provides real-time visibility into team engagement and ground operations",
+    "Offers actionable analytics and smart visual reports for recruitment insights",
+    "Enables staffing firms to make operations more customer-centric, efficient, and lean",
+    "Features profile/resume validation to mitigate hiring risks",
+    "Helps identify recruitment bottlenecks and improve opportunities"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition"
+  ],
+  "integration_capabilities": [
+    "Calendar services (for interview scheduling)"
+  ],
+  "roi_benefits": [
+    "Enables profitable growth for staffing firms",
+    "Boosts hiring efficiency and success",
+    "Improves resource allocation and team load balancing",
+    "Facilitates agile and smart decision-making",
+    "Leads to more customer-centric, efficient, and lean operations",
+    "Reduces errors in interview logistics through reminders and notifications",
+    "Mitigates hiring risks through profile and resume validation",
+    "Optimizes recruitment processes by identifying and addressing bottlenecks",
+    "Increases hiring manager confidence and productivity",
+    "Enhances quality of hire"
+  ],
+  "searchable_keywords": [
+    "Hireciel",
+    "recruitment platform",
+    "staffing firms",
+    "hiring software",
+    "SAAS recruitment",
+    "real-time visibility",
+    "recruitment analytics",
+    "interview scheduling",
+    "requirement management",
+    "resume database",
+    "profile validation",
+    "resume validation",
+    "recruitment reports",
+    "hiring efficiency",
+    "talent acquisition",
+    "hiring tools",
+    "hiring process optimization",
+    "hiring automation",
+    "data-driven hiring",
+    "staffing management software",
+    "applicant tracking system",
+    "ATS",
+    "HR tech",
+    "recruiting"
+  ],
+  "primary_users": [
+    "Recruitment Professionals",
+    "Hiring Managers",
+    "Staffing Firm Executives/Leadership",
+    "Hiring Professionals"
+  ],
+  "deployment_options": [
+    "SaaS (Software as a Service)"
+  ],
+  "_weight": 1
+}

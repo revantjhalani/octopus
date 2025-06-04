@@ -1,0 +1,180 @@
+{
+  "id": 35,
+  "name": "Gusto",
+  "description": "Launched in 2012, Gusto empowers over 300,000 businesses nationwide, processing tens of billions in payroll annually. This all-in-one platform simplifies HR, benefits (including health insurance and 401(k)s), and payroll for SMBs. Their refreshingly easy system automates tasks and provides expert support, saving you time and reducing errors. Focus on your business, not paperwork.",
+  "features": [
+    "All-in-one Platform",
+    "Automated Payroll\n",
+    "Employee Benefits"
+  ],
+  "founders": [
+    "Josh R."
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Career management software",
+    "HR management suites",
+    "Talent management software",
+    "Time tracking",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies",
+    "Performance management system",
+    "Benefits administration services",
+    "Performance management solutions",
+    "Performance Review software",
+    "Payroll services providers",
+    "Workforce management"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring automation",
+    "Hiring analytics",
+    "Hiring manager productivity"
+  ],
+  "headquarter": "San Francisco, California",
+  "launch_date": "2011",
+  "order": 20015,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Streamline your business and reclaim your time with Gusto's automated payroll, HR, and benefits tools ",
+  "ProductId": null,
+  "ShortDescription": "Hire, pay, and manage your team all in one place.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Simplify Your Workday",
+      "sequence": 0,
+      "description": "Manage payroll, benefits, and HR tasks all in one place, saving you time and effort."
+    },
+    {
+      "name": "Empower Your People",
+      "sequence": 1,
+      "description": "Offer a user-friendly employee self-service portal for easy access to paystubs, benefits, and more."
+    },
+    {
+      "name": "Focus on What Matters",
+      "sequence": 2,
+      "description": "Gusto's team of HR experts ensures you stay compliant with regulations, allowing you to focus on growing your business."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": null,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": true,
+  "PublishedAt": "2024-01-27T19:59:45.765Z",
+  "enhanced_description": "Gusto, launched in 2012, is an all-in-one cloud-based platform designed to simplify HR, benefits, and payroll for Small and Medium Businesses (SMBs). Empowering over 300,000 businesses nationwide and processing tens of billions in payroll annually, Gusto offers a refreshingly easy system that automates tasks and provides expert support. The platform streamlines operations, enabling businesses to hire, pay, and manage their team all in one place. It includes comprehensive employee benefits management, such as health insurance and 401(k)s, and offers a user-friendly employee self-service portal for easy access to paystubs and benefits. Gusto's team of HR experts assists businesses in staying compliant with regulations, saving time, reducing errors, and allowing them to focus on core business growth.",
+  "ideal_company_sizes": [
+    "Small and Medium Businesses (SMBs)"
+  ],
+  "key_use_cases": [
+    "Automated payroll processing",
+    "Employee benefits administration (health insurance, 401k)",
+    "General HR management and task automation",
+    "Employee self-service for paystubs and benefits access",
+    "Compliance management for HR and payroll regulations",
+    "Talent acquisition and hiring management",
+    "Workforce management",
+    "Performance management"
+  ],
+  "competitive_advantages": [
+    "All-in-one integrated platform for HR, payroll, and benefits",
+    "User-friendly and easy-to-use system",
+    "Automation of routine HR and payroll tasks",
+    "Expert HR support and compliance assistance",
+    "Time and error reduction for businesses",
+    "User-friendly employee self-service portal"
+  ],
+  "hr_functions_supported": [
+    "Payroll",
+    "Benefits Administration",
+    "HR Management",
+    "Talent Management",
+    "Recruiting",
+    "Time Tracking",
+    "Learning & Development",
+    "Performance Management",
+    "Workforce Management",
+    "Employee Self-Service",
+    "Compliance"
+  ],
+  "roi_benefits": [
+    "Time savings in HR, payroll, and benefits management",
+    "Reduced administrative errors",
+    "Improved operational efficiency",
+    "Enhanced focus on core business activities and growth",
+    "Faster and more efficient talent acquisition",
+    "Assurance of compliance with HR and payroll regulations"
+  ],
+  "searchable_keywords": [
+    "Gusto",
+    "HR software",
+    "payroll",
+    "benefits",
+    "SMB HR",
+    "talent management",
+    "recruiting",
+    "total rewards",
+    "time tracking",
+    "performance management",
+    "workforce management",
+    "employee self-service",
+    "compliance",
+    "hiring",
+    "automation",
+    "HR tech",
+    "small business HR",
+    "medium business HR",
+    "401k",
+    "health insurance",
+    "HR experts",
+    "HR suites",
+    "talent acquisition",
+    "hiring automation",
+    "hiring analytics",
+    "paperless HR",
+    "online payroll",
+    "HR platform"
+  ],
+  "primary_users": [
+    "Business owners",
+    "HR administrators",
+    "HR managers",
+    "Hiring managers",
+    "Employees"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "compliance_features": [
+    "Assistance with HR and payroll regulatory compliance"
+  ],
+  "scalability_features": [
+    "Designed to support growing small and medium businesses",
+    "Capable of processing high volumes of payroll for a large customer base"
+  ],
+  "_weight": 1
+}

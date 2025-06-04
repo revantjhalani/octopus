@@ -1,0 +1,190 @@
+{
+  "id": 726,
+  "name": "Infor",
+  "description": "Infor is a global leader in business cloud software products for companies in industry specific markets. Infor builds complete industry suites in the cloud and efficiently deploys technology that puts the user experience first, leverages data science, and integrates easily into existing systems.\n \n\n Over 65,000 organisations worldwide rely on Infor to help overcome market disruptions and achieve business-wide digital transformation.",
+  "features": [
+    "Our goal is to make end users' jobs easier and help them operate more efficiently.",
+    "We can run systems end-to-end or just provide support for certain aspects of deployments.",
+    "Our award-winning support team provides comprehensive support for companies of all shapes and sizes."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Talent Management",
+    "Other / technology",
+    "Recruiting",
+    "Total Rewards",
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Employee scheduling software",
+    "Time tracking",
+    "Software and Services Related to HR Software",
+    "Staffing & management software",
+    "Payroll services providers",
+    "Staffing services providers",
+    "Artificial intelligence",
+    "Human Capital Management"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs"
+  ],
+  "headquarter": "New York, NY",
+  "launch_date": "2002",
+  "order": 15161,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Growing with your business - software that builds successful companies.",
+  "ProductId": null,
+  "ShortDescription": "As a global leader in business cloud software specialized by industry. I",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Finance and accounting",
+      "sequence": 0,
+      "description": "Coordinate financial and costing transactions with day-to-day operations."
+    },
+    {
+      "name": "Orchestrate end-to-end supply chain operations from planning to delivery with real-time visibility and efficiency.",
+      "sequence": 1,
+      "description": "Orchestrate end-to-end supply chain operations from planning to delivery with real-time visibility and efficiency."
+    },
+    {
+      "name": "Human capital management",
+      "sequence": 2,
+      "description": "Optimize your workforce with unified HR, payroll, talent and scheduling solutions for a seamless employee experience."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:19.503Z",
+  "enhanced_description": "Infor is a global leader in business cloud software, providing complete industry-specific suites designed to drive digital transformation and overcome market disruptions. Leveraging data science and prioritizing user experience, Infor's technology seamlessly integrates into existing systems. With over 65,000 organizations worldwide relying on its solutions, Infor aims to make end users' jobs easier and help them operate more efficiently. The company offers flexible deployment models, supporting end-to-end system operations or providing specific functional support, backed by an award-winning support team. Its comprehensive offerings span Human Capital Management (including HR, payroll, talent, and scheduling), Finance and Accounting, and Supply Chain operations, catering primarily to large and global enterprises.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Achieving business-wide digital transformation",
+    "Overcoming market disruptions",
+    "Optimizing workforce operations through unified HR, payroll, talent, and scheduling",
+    "Boosting hiring manager confidence and productivity",
+    "Hiring top talent faster and more efficiently",
+    "Coordinating financial and costing transactions with day-to-day operations",
+    "Orchestrating end-to-end supply chain operations from planning to delivery with real-time visibility and efficiency",
+    "Making end users' jobs easier and more efficient",
+    "Managing employee scheduling",
+    "Tracking time",
+    "Providing payroll services",
+    "Supporting staffing and management"
+  ],
+  "competitive_advantages": [
+    "Global leadership in business cloud software",
+    "Specialized by industry with complete industry suites",
+    "User experience-first approach",
+    "Leverages data science and artificial intelligence",
+    "Easy integration into existing systems",
+    "Award-winning comprehensive support",
+    "Flexible deployment options (end-to-end or partial support)"
+  ],
+  "implementation_scenarios": [
+    "Run systems end-to-end",
+    "Provide support for certain aspects of deployments"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Recruiting",
+    "Total Rewards",
+    "HRMS / HCM",
+    "Human Capital Management",
+    "Employee Scheduling",
+    "Time Tracking",
+    "Payroll",
+    "Staffing & Management"
+  ],
+  "technology_stack": [
+    "Cloud Software",
+    "Data Science",
+    "Artificial Intelligence"
+  ],
+  "integration_capabilities": [
+    "Integrates easily into existing systems"
+  ],
+  "roi_benefits": [
+    "Help overcome market disruptions",
+    "Achieve business-wide digital transformation",
+    "Make end users' jobs easier and more efficient",
+    "Boost hiring manager confidence and productivity",
+    "Hire top talent faster and more efficiently",
+    "Optimize workforce efficiency"
+  ],
+  "searchable_keywords": [
+    "Infor",
+    "Business Cloud Software",
+    "Industry Specific",
+    "Cloud Suites",
+    "User Experience",
+    "Data Science",
+    "Integration",
+    "Digital Transformation",
+    "Talent Management",
+    "Recruiting",
+    "Total Rewards",
+    "HRMS",
+    "HCM",
+    "Human Capital Management",
+    "Employee Scheduling",
+    "Time Tracking",
+    "Payroll Services",
+    "Staffing Software",
+    "Artificial Intelligence",
+    "Hiring",
+    "Talent Sourcing",
+    "Recruiting Costs",
+    "Workforce Optimization",
+    "Finance and Accounting",
+    "Supply Chain",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "primary_users": [
+    "End Users",
+    "Hiring Managers",
+    "HR Professionals",
+    "Employees"
+  ],
+  "deployment_options": [
+    "Cloud"
+  ],
+  "scalability_features": [
+    "Supports over 65,000 organizations worldwide",
+    "Designed for large and global enterprises"
+  ],
+  "_weight": 1
+}

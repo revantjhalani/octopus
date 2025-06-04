@@ -1,0 +1,118 @@
+{
+  "id": 299,
+  "name": "Superset - Great Learning",
+  "description": "Superset is India's first Official University Recruiting Platform. Founded with the aim to consolidate and democratize India\u2019s graduate hiring system, by connecting students and employers via college placement cells on a common platform, Superset helps universities streamline end-to-end placements process, equips employers with a single gateway to reach young college talent across the nation, and provides students increased number of authentic opportunities.",
+  "features": [
+    "System Security",
+    "Data Transfer",
+    "Confidentiality"
+  ],
+  "founders": [
+    "Naman Agrawal",
+    "Pranjal Goswami"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Course authoring"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning optimisation",
+    "Skill acquisition"
+  ],
+  "headquarter": "Bangalore, Karnataka",
+  "launch_date": "2016",
+  "order": 20261,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Where Talent\n Meets Opportunity",
+  "ProductId": null,
+  "ShortDescription": "Superset helps fresh graduates get their first jobs, enables employers to recruit faster, and helps colleges streamline campus placements",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:50.477Z",
+  "enhanced_description": "Superset is India's first Official University Recruiting Platform, founded with the aim to consolidate and democratize the nation's graduate hiring system. It operates as a common platform connecting students, employers, and college placement cells, facilitating end-to-end placement processes for universities and enabling employers to quickly recruit young college talent across India. The platform helps fresh graduates secure their first jobs by providing increased authentic opportunities, while also streamlining campus placements. Key features include System Security, Data Transfer, and Confidentiality.",
+  "key_use_cases": [
+    "Campus recruitment management",
+    "Graduate job search facilitation",
+    "Employer-university talent connection",
+    "Streamlining university placement processes",
+    "Faster fresher recruitment for employers"
+  ],
+  "competitive_advantages": [
+    "First official university recruiting platform in India",
+    "Consolidates and democratizes graduate hiring across India",
+    "Provides a single national gateway for employers to access college talent",
+    "Increases authentic job opportunities for students",
+    "Facilitates faster fresher recruitment"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition"
+  ],
+  "roi_benefits": [
+    "Increased efficiency in campus recruitment processes for universities",
+    "Broader access to college talent for employers",
+    "Faster time-to-hire for fresher roles for employers",
+    "Enhanced access to authentic job opportunities for graduates"
+  ],
+  "searchable_keywords": [
+    "Superset",
+    "Great Learning",
+    "University Recruiting Platform",
+    "Graduate Hiring",
+    "Campus Placements",
+    "Student Placement",
+    "Employer Recruiting",
+    "College Placement Cells",
+    "Fresher Recruitment",
+    "Job Opportunities",
+    "Skill Development",
+    "Learning and Development",
+    "Corporate LMS",
+    "Course Authoring",
+    "Talent Acquisition India",
+    "System Security",
+    "Data Transfer",
+    "Confidentiality"
+  ],
+  "primary_users": [
+    "Students",
+    "Employers",
+    "Universities",
+    "College placement cells"
+  ],
+  "security_features": [
+    "System Security",
+    "Data Transfer",
+    "Confidentiality"
+  ],
+  "_weight": 1
+}

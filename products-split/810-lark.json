@@ -1,0 +1,153 @@
+{
+  "id": 810,
+  "name": "Lark",
+  "description": "Lark is a new take on the office suite that is transforming workplace collaboration. Founded in 2016, Lark effectively combines messaging, schedule management and online collaborative documents in a single platform. Setting out to revolutionize the way team members collaborate for increased efficiency, Lark delivers a seamless user experience for the modern enterprise. It is available now on macOS, Windows, iOS and Android. Visit www.larksuite.com for more details.",
+  "features": [
+    "One workspace for all teams",
+    "Move forward on mobile",
+    "Thorough customer service"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Training & development companies",
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Training effectiveness",
+    "Learning optimisation",
+    "Employee engagement",
+    "Employee satisfaction"
+  ],
+  "headquarter": "Singapore, Singapore",
+  "launch_date": "2016",
+  "order": 20763,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The Future of Work starts with Lark, an all-in-one productivity suite that is built to handle your every business need.",
+  "ProductId": null,
+  "ShortDescription": "Lark is a new take on the office suite that is transforming workplace collaboration. Founded in 2016, Lark effectively combines messaging, schedule management and online collaborative documents in a single platform.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "All-in-one Platform for Improved Communication and Efficiency",
+      "sequence": 0,
+      "description": " Lark offers a variety of features like chat, meetings, docs, project management, and approvals in one platform. This eliminates the need to switch between different apps for different tasks, improving communication and streamlining workflows for businesses."
+    },
+    {
+      "name": "Trusted by Leading Companies and Cost-Effective",
+      "sequence": 1,
+      "description": "The article mentions that Lark is trusted by fast-growing companies from 125+ countries, indicating its reliability and effectiveness. Additionally, it claims that Lark can save businesses 70% on costs, making it a cost-effective solution."
+    },
+    {
+      "name": "Free Plan Available",
+      "sequence": 2,
+      "description": "Lark offers a free plan for up to 50 users, allowing businesses to try out the platform and see its benefits before committing to a paid plan. This makes it accessible to businesses of all sizes."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:54.334Z",
+  "enhanced_description": "Lark is an all-in-one productivity suite launched in 2016 that redefines workplace collaboration by combining essential tools like messaging, schedule management, online collaborative documents, chat, meetings, project management, and approvals into a single platform. This eliminates the need for businesses to switch between multiple applications, leading to improved communication, streamlined workflows, and increased efficiency for the modern enterprise. Available on macOS, Windows, iOS, and Android, Lark is trusted by fast-growing companies across over 125 countries, offers a free plan for up to 50 users, and claims to help businesses save up to 70% on costs.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Workplace Collaboration",
+    "Messaging",
+    "Schedule Management",
+    "Online Document Collaboration",
+    "Project Management",
+    "Workflow Approvals",
+    "Team Communication"
+  ],
+  "competitive_advantages": [
+    "All-in-one Platform",
+    "Cost Savings (up to 70%)",
+    "Seamless User Experience",
+    "Global Reach (trusted by companies from 125+ countries)",
+    "Free Plan Availability"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Total Rewards",
+    "Employee Engagement",
+    "Employee Experience"
+  ],
+  "roi_benefits": [
+    "Increased Efficiency",
+    "Cost Reduction",
+    "Streamlined Workflows",
+    "Improved Communication",
+    "Enhanced Employee Happiness and Engagement"
+  ],
+  "searchable_keywords": [
+    "Lark",
+    "office suite",
+    "workplace collaboration",
+    "messaging",
+    "schedule management",
+    "online documents",
+    "collaborative documents",
+    "chat",
+    "meetings",
+    "docs",
+    "project management",
+    "approvals",
+    "communication",
+    "efficiency",
+    "productivity suite",
+    "team collaboration",
+    "mobile",
+    "customer service",
+    "Learning and Development",
+    "Total Rewards",
+    "Training & development companies",
+    "Payroll services providers",
+    "Training effectiveness",
+    "Learning optimisation",
+    "Employee engagement",
+    "Employee satisfaction",
+    "cost savings",
+    "all-in-one platform",
+    "workflow management",
+    "team workspace"
+  ],
+  "primary_users": [
+    "Team Members",
+    "Employees",
+    "Managers",
+    "Project Managers",
+    "HR Professionals"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "_weight": 1
+}

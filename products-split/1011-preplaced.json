@@ -1,0 +1,145 @@
+{
+  "id": 1011,
+  "name": "Preplaced",
+  "description": "Our mentors are top industry experts associated with global brands and companies across tiers. They are selected after a thorough screening process to ensure that you always get the best-qualified mentors to guide you.",
+  "features": [
+    "One-to-one mentorship",
+    "Offer various fields",
+    "Prepare for interviews"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Career management software",
+    "Video interviewing software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    "Interviewing costs"
+  ],
+  "headquarter": "null",
+  "launch_date": "2019",
+  "order": 20954,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Personalized Learning Led by Mentors",
+  "ProductId": null,
+  "ShortDescription": "At Preplaced, we are dedicated to helping people achieve their career goals by providing mentor-led guidance.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Unlimited Chat with Mentor",
+      "sequence": 0,
+      "description": "Doubt? Get the right advice from your mentor via Chat.Doubt? Get the right advice from your mentor via Chat."
+    },
+    {
+      "name": "Task & Curated Resources",
+      "sequence": 1,
+      "description": "Yes! You will be certified for this mentorship program."
+    },
+    {
+      "name": "Job Referrals",
+      "sequence": 2,
+      "description": "Get Referrals from mentor community to top product and service based companies."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:38:45.494Z",
+  "enhanced_description": "Preplaced provides personalized, one-to-one mentorship programs designed to help individuals achieve their career goals. Mentors are top industry experts associated with global brands and companies across tiers, selected through a thorough screening process. The service offers guidance across various career fields, specializing in interview preparation. Key features include unlimited chat communication with mentors, access to curated resources and assignable tasks, and opportunities for job referrals from the mentor community to top product and service-based companies. Successful completion of mentorship programs can also lead to certification.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Career goal achievement",
+    "Interview preparation",
+    "Skill development and professional learning",
+    "Job seeking and placement support",
+    "Professional networking for job referrals"
+  ],
+  "competitive_advantages": [
+    "One-to-one personalized mentorship",
+    "Mentors are top industry experts from global brands",
+    "Thorough mentor screening process",
+    "Unlimited chat communication with mentors",
+    "Access to job referrals from mentor community",
+    "Opportunity for mentorship program certification"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Recruiting",
+    "Career Development",
+    "Learning & Development",
+    "Interviewing",
+    "Video Interviewing"
+  ],
+  "roi_benefits": [
+    "Increased hiring manager confidence and productivity (through better-prepared candidates)",
+    "Faster and more efficient hiring of top talent (through access to a mentored talent pool and referrals)",
+    "Reduced cost of hiring qualified employees (through better-prepared candidates and referrals)",
+    "Enhanced candidate quality and readiness for employment"
+  ],
+  "searchable_keywords": [
+    "Preplaced",
+    "mentorship",
+    "mentor",
+    "career goals",
+    "industry experts",
+    "one-to-one",
+    "interview preparation",
+    "career management",
+    "recruiting",
+    "talent management",
+    "talent sourcing",
+    "hiring",
+    "job referrals",
+    "personalized learning",
+    "chat with mentor",
+    "curated resources",
+    "certification",
+    "hiring manager confidence",
+    "recruiting costs",
+    "interviewing costs",
+    "video interviewing software"
+  ],
+  "primary_users": [
+    "Individuals seeking career guidance and development",
+    "Job seekers",
+    "Professionals aiming for career advancement",
+    "Mentors (industry experts providing guidance)",
+    "HR professionals/recruiters (potentially leveraging mentored talent or offering mentorship as an employee benefit)"
+  ],
+  "_weight": 1
+}

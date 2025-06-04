@@ -1,0 +1,183 @@
+{
+  "id": 337,
+  "name": "Veremark",
+  "description": "With veremark innovative pre-hire checks and background screening service, Veremark is on a mission to help the world trust faster.",
+  "features": [
+    "Faster and smoother background checks",
+    "Scalable, fast and cost effective Screening Solutions",
+    "Innovative methods for Pre-hire checks, screening and background checks"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Background check software",
+    "Pre-employment screening software",
+    "Pre-employment testing software"
+  ],
+  "tags": [
+    "Hiring best practices",
+    "Talent acquisition",
+    "Hiring process optimization",
+    "Talent acquisition costs"
+  ],
+  "headquarter": "London, England",
+  "launch_date": "2018",
+  "order": 20299,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Get to know your next hire",
+  "ProductId": null,
+  "ShortDescription": "Veremark is a background screening and pre-hire checks provider, supporting the hiring process for businesses everywhere",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [
+    "Workable",
+    "Bullhorn, Inc.",
+    "Greenhouse",
+    "Ceipal",
+    "Teamtailor"
+  ],
+  "Highlights": [
+    {
+      "name": "Background Checks ",
+      "sequence": 0,
+      "description": "This depends on the industry and type of role you are recruiting for. To determine whether you need reference checks, identity checks, bankruptcy checks, civil background checks, credit checks for employment or any of the other background checks we offer, chat to our team of dedicated account managers."
+    },
+    {
+      "name": "Rescreening",
+      "sequence": 1,
+      "description": "Veremark\u2019s automated employee rescreening solution helps you ensure that your employee background information and credentials are always up-to-date, allowing you to mitigate risk, maintain compliance, and create a safer workplace."
+    },
+    {
+      "name": "API",
+      "sequence": 2,
+      "description": "Veremark\u2019s API has been built to create a quick and easy integration into your existing workflow."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:35.257Z",
+  "enhanced_description": "Veremark offers innovative pre-hire checks and background screening services, supporting the hiring process for businesses globally. Their solutions are designed to be faster, smoother, scalable, and cost-effective, encompassing initial background checks and ongoing employee rescreening. The platform aims to boost hiring manager confidence and productivity, enable faster and more efficient hiring of top talent, and reduce the overall cost of hiring qualified employees. Veremark's capabilities include various background checks (e.g., reference, identity, bankruptcy, civil, credit for employment) and an automated employee rescreening solution to mitigate risk, maintain compliance, and create a safer workplace. It also provides a robust API for quick and easy integration into existing workflows, with direct integrations available for leading HCM/ATS platforms like Workable, Bullhorn, Greenhouse, Ceipal, and Teamtailor.",
+  "key_use_cases": [
+    "Pre-employment background checks",
+    "Ongoing employee background rescreening",
+    "Compliance maintenance through screening",
+    "Risk mitigation for workforce",
+    "Streamlined integration of background checks with Applicant Tracking Systems (ATS)",
+    "Optimizing hiring efficiency and speed"
+  ],
+  "competitive_advantages": [
+    "Faster and smoother background checks",
+    "Scalable, fast, and cost-effective screening solutions",
+    "Innovative methods for pre-hire and background checks",
+    "Automated employee rescreening capabilities",
+    "Quick and easy API integration into existing workflows"
+  ],
+  "implementation_scenarios": [
+    "Integration with existing Applicant Tracking Systems (ATS)",
+    "Integration with existing Human Capital Management (HCM) systems",
+    "Custom integration into proprietary HR workflows via API"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Pre-Employment Screening",
+    "Background Checks",
+    "Employee Rescreening",
+    "Compliance Management (related to screening)"
+  ],
+  "technology_stack": [
+    "API capabilities"
+  ],
+  "integration_capabilities": [
+    "Workable",
+    "Bullhorn, Inc.",
+    "Greenhouse",
+    "Ceipal",
+    "Teamtailor",
+    "Custom API integrations"
+  ],
+  "roi_benefits": [
+    "Reduced cost of hiring qualified employees",
+    "Faster time-to-hire",
+    "Increased hiring manager productivity and confidence",
+    "Improved efficiency in talent acquisition",
+    "Mitigated organizational risk through continuous screening",
+    "Enhanced compliance with employment regulations",
+    "Creation of a safer workplace environment"
+  ],
+  "searchable_keywords": [
+    "Veremark",
+    "background checks",
+    "pre-hire checks",
+    "pre-employment screening",
+    "employee background screening",
+    "talent acquisition",
+    "recruiting software",
+    "hiring process",
+    "HR technology",
+    "background check software",
+    "screening solutions",
+    "rescreening",
+    "automated rescreening",
+    "API integration",
+    "compliance screening",
+    "risk mitigation",
+    "cost-effective screening",
+    "scalable screening",
+    "hiring optimization",
+    "Workable integration",
+    "Bullhorn integration",
+    "Greenhouse integration",
+    "Ceipal integration",
+    "Teamtailor integration",
+    "identity checks",
+    "bankruptcy checks",
+    "civil background checks",
+    "credit checks for employment",
+    "reference checks",
+    "hiring best practices",
+    "talent acquisition costs",
+    "trust faster"
+  ],
+  "primary_users": [
+    "Recruiting Teams",
+    "Talent Acquisition Specialists",
+    "HR Professionals",
+    "Hiring Managers"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "compliance_features": [
+    "Support for maintaining compliance through screening"
+  ],
+  "scalability_features": [
+    "Scalable screening solutions"
+  ],
+  "_weight": 1
+}

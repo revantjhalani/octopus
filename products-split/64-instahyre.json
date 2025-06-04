@@ -1,0 +1,138 @@
+{
+  "id": 64,
+  "name": "Instahyre",
+  "description": "Instahyre is an advanced hiring platform based on artificial intelligence, enabling recruiters to hire top talent effortlessly.\nInstahyre provides the recruiter with a curated list of candidates ready for hire from our premium database. This enables the recruiter to spend more time on providing a top candidate experience.\n\nIf you are looking for jobs, Instahyre connects you with curated opportunities based on your profile. No fake jobs, no mass emails, and no spamming unlike other platforms.",
+  "features": [
+    "Jobs by Function & Location",
+    "AI based hiring platform",
+    "Curated list of jobs & candidate profiles"
+  ],
+  "founders": [
+    "Sarbojit Mallick"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruitment marketing platforms",
+    "Job boards"
+  ],
+  "tags": [
+    "Quick Hiring",
+    "Hiring speed",
+    "Recruiting efficiency",
+    "Talent sourcing",
+    "Hiring best practices"
+  ],
+  "headquarter": "New Delhi, Delhi",
+  "launch_date": "2016",
+  "order": 20040,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Leverage the power of AI to find jobs or source talent!",
+  "ProductId": null,
+  "ShortDescription": "Your Dream Job. Now.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "5X higher response from companies",
+      "sequence": 0,
+      "description": "Instahyre only matches you with the right jobs, leading to 5X response rates from companies compared to other job sites."
+    },
+    {
+      "name": "Your perfect job, delivered to you",
+      "sequence": 1,
+      "description": "At Instahyre, we do the work of finding the best jobs for you, so you can sit back and relax."
+    },
+    {
+      "name": "Privacy guaranteed",
+      "sequence": 2,
+      "description": "You can block specific companies from viewing your profile. Or you can block all companies and just apply to specific ones yourself."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-16T14:10:19.316Z",
+  "enhanced_description": "Leverage the power of AI to find jobs or source talent! Instahyre is an advanced AI-based hiring platform designed to effortlessly connect recruiters with top talent and job seekers with curated opportunities. For recruiters, it provides a curated list of ready-to-hire candidates from its premium database, allowing them to focus more on candidate experience and achieve quick hiring and recruiting efficiency. For job seekers, Instahyre delivers curated job opportunities based on their profile, promising no fake jobs, mass emails, or spam, and boasts a 5X higher response rate from companies by matching only with the right jobs. Users can also block specific companies from viewing their profile, ensuring privacy.",
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Talent Sourcing",
+    "Candidate Curation",
+    "Job Matching",
+    "Job Search",
+    "Recruitment Process Optimization",
+    "Streamlined Hiring"
+  ],
+  "competitive_advantages": [
+    "AI-based hiring platform",
+    "Curated list of candidates and job profiles",
+    "No fake jobs, mass emails, or spam (for job seekers)",
+    "5X higher response rate for job seekers",
+    "Guaranteed privacy for job seekers (ability to block companies)",
+    "Enables recruiters to focus on candidate experience"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Sourcing",
+    "Recruitment Marketing"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)"
+  ],
+  "roi_benefits": [
+    "Increased hiring speed",
+    "Improved recruiting efficiency",
+    "Access to top talent",
+    "Enhanced candidate experience (for recruiters)",
+    "Higher response rates (for job seekers)"
+  ],
+  "searchable_keywords": [
+    "Instahyre",
+    "AI hiring",
+    "recruitment platform",
+    "talent sourcing",
+    "job board",
+    "candidate matching",
+    "job matching",
+    "curated jobs",
+    "curated candidates",
+    "quick hiring",
+    "recruiting efficiency",
+    "top talent",
+    "candidate experience",
+    "job search",
+    "career opportunities",
+    "privacy in hiring",
+    "AI for HR"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Job Seekers",
+    "Candidates"
+  ],
+  "_weight": 1
+}

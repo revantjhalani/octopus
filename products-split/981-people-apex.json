@@ -1,0 +1,184 @@
+{
+  "id": 981,
+  "name": "People Apex",
+  "description": "PeopleApex is an integrated end-to-end enterprise-level HCM solution, designed to empower the employee with robust employee self services (ESS) and at the same time provide a holistic view for managers with manager self services (MSS). The product is designed to automate the HR processes with complete 360-degree integration with payroll. This multi-country, multi-language, and multi-currency product is designed by industry experts having multi-country in-depth, HR & payroll expertise. Industry-preconfigured best practices are adopted in our product and crafted to create a consumer-grade user experience. PeopleApex is a product of the A5E group of companies.",
+  "features": [
+    "Pre-configured Best Practices",
+    "One HR system for Multiple Countries",
+    "Rapid Deployment"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Talent Management",
+    "Recruiting",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software",
+    "Talent management software",
+    "Recruiting software",
+    "Staffing & management software",
+    "Onboarding software"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Talent sourcing",
+    "Candidate screening",
+    "Quick Hiring"
+  ],
+  "headquarter": "New York, NY",
+  "launch_date": "2018",
+  "order": 20927,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Employee Experience Platform",
+  "ProductId": null,
+  "ShortDescription": "Transform talent management strategies, enable remote collaboration for your digital workforce and motivate your people for greater productivity.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:38:10.689Z",
+  "enhanced_description": "PeopleApex is an integrated, end-to-end enterprise-level Human Capital Management (HCM) solution, presented as an Employee Experience Platform. It is designed to automate core HR processes with comprehensive 360-degree integration with payroll. The solution empowers employees through robust Employee Self Services (ESS) and provides managers with a holistic view via Manager Self Services (MSS). Developed by industry experts with deep multi-country HR and payroll expertise, PeopleApex is built for multi-country, multi-language, and multi-currency operations. It incorporates industry-preconfigured best practices and aims to deliver a consumer-grade user experience. The product focuses on transforming talent management strategies, enabling remote collaboration for digital workforces, and motivating employees for greater productivity. Key features include rapid deployment and providing a single HR system for multiple countries, aligning with business objectives to boost hiring manager confidence and productivity, and to hire top talent faster and more efficiently.",
+  "ideal_company_sizes": [
+    "Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee self-service management",
+    "Manager self-service management",
+    "Automation of HR processes",
+    "Payroll integration and management",
+    "Talent management strategy transformation",
+    "Enabling remote collaboration",
+    "Boosting employee productivity and motivation",
+    "Improving hiring manager confidence",
+    "Accelerating talent acquisition",
+    "Efficiently filling open positions"
+  ],
+  "competitive_advantages": [
+    "Integrated end-to-end HCM solution with 360-degree payroll integration",
+    "Multi-country, multi-language, and multi-currency support",
+    "Designed by industry experts with multi-country HR & payroll expertise",
+    "Adoption of industry-preconfigured best practices",
+    "Consumer-grade user experience",
+    "Consolidated HR system for multiple countries",
+    "Rapid deployment capabilities"
+  ],
+  "implementation_scenarios": [
+    "Rapid deployment utilizing pre-configured best practices"
+  ],
+  "hr_functions_supported": [
+    "Core HR",
+    "Payroll (integration)",
+    "Employee Self-Service (ESS)",
+    "Manager Self-Service (MSS)",
+    "Talent Management",
+    "Recruiting",
+    "Hiring",
+    "Talent Sourcing",
+    "Candidate Screening",
+    "Onboarding",
+    "Staffing & Management"
+  ],
+  "integration_capabilities": [
+    "360-degree integration with payroll"
+  ],
+  "roi_benefits": [
+    "Increased employee empowerment and efficiency through ESS",
+    "Enhanced manager insights and efficiency through MSS",
+    "Automated HR processes leading to efficiency gains",
+    "Streamlined operations and reduced errors via payroll integration",
+    "Faster time-to-value due to rapid deployment and pre-configured best practices",
+    "Global consistency and reduced complexity with one HR system for multiple countries",
+    "Improved talent management outcomes",
+    "Enhanced remote collaboration capabilities",
+    "Increased workforce productivity",
+    "Boosted hiring manager confidence",
+    "Faster and more efficient talent acquisition",
+    "Quicker fulfillment of open positions"
+  ],
+  "searchable_keywords": [
+    "People Apex",
+    "HCM solution",
+    "HRMS",
+    "Human Capital Management",
+    "Enterprise HCM",
+    "Integrated HR",
+    "End-to-end HR",
+    "Employee Self Services",
+    "ESS",
+    "Manager Self Services",
+    "MSS",
+    "HR automation",
+    "Payroll integration",
+    "Multi-country HR",
+    "Multi-language HR",
+    "Multi-currency HR",
+    "Global HR system",
+    "Pre-configured best practices",
+    "Consumer-grade user experience",
+    "Rapid deployment HR",
+    "Employee Experience Platform",
+    "Talent management",
+    "Remote collaboration",
+    "Digital workforce",
+    "Productivity",
+    "Hiring",
+    "Recruiting",
+    "Talent sourcing",
+    "Candidate screening",
+    "Quick hiring",
+    "Core HR software",
+    "Talent management software",
+    "Recruiting software",
+    "Staffing management software",
+    "Onboarding software",
+    "HR processes",
+    "Hiring manager confidence",
+    "Top talent acquisition",
+    "Open position fulfillment"
+  ],
+  "primary_users": [
+    "Employees",
+    "Managers",
+    "HR Professionals",
+    "Hiring Managers"
+  ],
+  "compliance_features": [
+    "Multi-country compliance (implied by multi-country, multi-language, multi-currency design and expert HR/payroll expertise)",
+    "Adherence to industry best practices (often include compliance elements)"
+  ],
+  "scalability_features": [
+    "Enterprise-level solution design",
+    "Support for multi-country, multi-language, and multi-currency operations",
+    "Ability to serve as one HR system for multiple countries"
+  ],
+  "_weight": 1
+}

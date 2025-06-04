@@ -1,0 +1,174 @@
+{
+  "id": 147,
+  "name": "Mercu",
+  "description": "Mercu enables employers to communicate effectively with their frontline workforce across hiring, training, announcements, and engagement through chat apps like WhatsApp and iMessage. No email, login, or new app is needed\u2014it's frictionless! Mercu, the AI assistant for frontline workers, automates hiring, scales onboarding, and makes knowledge and tools instantly available, specifically designed for deskless teams.",
+  "features": [
+    "Frictionless Communication software",
+    "Combine power of AI + ease of chat",
+    "Fast, Automated Hiring"
+  ],
+  "founders": [
+    "Elliott Gibb",
+    "Jascha Zittel"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Talent Management",
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "HR management suites",
+    "Employee engagement software",
+    "Training management system",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Employee resource groups",
+    "Hiring automation",
+    "Quick Hiring",
+    "Employee engagement"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2021",
+  "order": 20114,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "High-volume hiring without the high-volume overhead",
+  "ProductId": null,
+  "ShortDescription": "Mercu is the AI-powered recruitment automation platform for the frontline workforce",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "AI-Powered Screening",
+      "sequence": 0,
+      "description": "Confidently know who to shortlist without manually sorting through candidates."
+    },
+    {
+      "name": "Interview Scheduling",
+      "sequence": 1,
+      "description": "Automate interview scheduling and reduce no-shows by 30%."
+    },
+    {
+      "name": "Smart Workflows",
+      "sequence": 2,
+      "description": "Adapt Mercu to your existing workflows. Not the other way around."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:21.526Z",
+  "enhanced_description": "Mercu is an AI-powered recruitment automation platform and communication software specifically designed for the frontline and deskless workforce. It enables employers to communicate effectively across hiring, training, announcements, and engagement through familiar chat apps like WhatsApp and iMessage, eliminating the need for email, login, or new app downloads, thus ensuring a frictionless experience. Mercu streamlines high-volume hiring processes by offering fast, automated solutions like AI-powered screening to confidently shortlist candidates without manual sorting, and automated interview scheduling, which has been shown to reduce no-shows by 30%. Beyond hiring, Mercu scales onboarding, makes knowledge and tools instantly available, and supports skill development and engagement for improved employee happiness. Its smart workflow capabilities allow it to adapt to existing organizational processes.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Automated Hiring",
+    "Candidate Screening",
+    "Interview Scheduling",
+    "Onboarding",
+    "Training and Skill Development",
+    "Employee Communication",
+    "Employee Engagement",
+    "Knowledge Sharing"
+  ],
+  "competitive_advantages": [
+    "Frictionless communication through familiar chat apps (WhatsApp, iMessage)",
+    "Specifically designed for frontline and deskless teams",
+    "AI-powered communication and automation",
+    "Reduces interview no-shows by 30%",
+    "Adaptable to existing workflows"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Onboarding",
+    "Learning & Development",
+    "Employee Communications",
+    "Employee Engagement",
+    "Knowledge Management"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Chat app integration"
+  ],
+  "integration_capabilities": [
+    "WhatsApp",
+    "iMessage"
+  ],
+  "roi_benefits": [
+    "30% reduction in interview no-shows",
+    "Reduced overhead for high-volume hiring",
+    "Accelerated skill development and learning efficiency",
+    "Improved employee happiness and engagement",
+    "Increased efficiency in hiring processes"
+  ],
+  "searchable_keywords": [
+    "Mercu",
+    "frontline workforce",
+    "deskless teams",
+    "AI assistant",
+    "AI-powered recruitment",
+    "recruitment automation",
+    "hiring automation",
+    "quick hiring",
+    "high-volume hiring",
+    "candidate screening",
+    "interview scheduling",
+    "onboarding",
+    "training",
+    "eLearning",
+    "learning and development",
+    "employee communication",
+    "employee engagement",
+    "HR management",
+    "talent management",
+    "chat app integration",
+    "WhatsApp",
+    "iMessage",
+    "frictionless communication",
+    "HR software",
+    "employee resource groups"
+  ],
+  "primary_users": [
+    "HR Managers",
+    "Recruiting Teams",
+    "Hiring Managers",
+    "Learning & Development Teams",
+    "Internal Communications Teams",
+    "Frontline Employees",
+    "Deskless Workers"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "scalability_features": [
+    "Designed for high-volume hiring",
+    "Scalable onboarding processes"
+  ],
+  "_weight": 1
+}

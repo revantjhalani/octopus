@@ -1,0 +1,174 @@
+{
+  "id": 357,
+  "name": "XOXO Day",
+  "description": "Xoxoday is a Giift company & together they offer end-to-end SaaS solutions for managing engagement, loyalty, incentives and rewards. Our combined technology offering helps businesses drive growth with their customers, employees, sales teams, channel partners and merchants. Our suite of SaaS solutions includes LoyaltyCore, Marketplace, GiiftBox, Xoxoday, Empuls, and Compass. Giift addresses all market segments and industries. From the largest global corporations to mid-sized domestic entities and local merchants, our combined platform helps attract and retain customers and incentivize employees and partners.",
+  "features": [
+    "Work-life balance",
+    "Learning & Development",
+    "Global opportunities"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Employee recognition software",
+    "Benefits administration software"
+  ],
+  "tags": [
+    "Employee hapiness",
+    "Employee engagement",
+    "Employee satisfaction",
+    "Employee well being"
+  ],
+  "headquarter": "Singapore, Singapore",
+  "launch_date": "2012",
+  "order": 20319,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Rewards, Incentives, Payouts, Loyalty & Commissions Infrastructure for Businesses",
+  "ProductId": null,
+  "ShortDescription": "A platform for automating rewards, incentives, and payout programs at scale.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Campaign Automation",
+      "sequence": 0,
+      "description": "Easily customize your rewards experiences with automated workflows and eliminate the need for custom development."
+    },
+    {
+      "name": "Personalization at Scale",
+      "sequence": 1,
+      "description": "Customize campaigns as per your brand guidelines and deliver through multiple channels like SMS, email, and WhatsApp."
+    },
+    {
+      "name": "Send Rewards in Bulk",
+      "sequence": 2,
+      "description": "Buy, deliver and track rewards instantly and securely from thousands of popular brands to recipients across the globe."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:25:06.604Z",
+  "enhanced_description": "Xoxoday, a Giift company, offers end-to-end SaaS solutions focused on managing engagement, loyalty, incentives, and rewards. It serves as a comprehensive infrastructure for automating rewards, incentives, payouts, loyalty, and commissions for businesses at scale. The platform helps drive growth by attracting and retaining customers, and incentivizing employees, sales teams, channel partners, and merchants.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Mid-sized Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Managing engagement, loyalty, incentives, and rewards programs",
+    "Automating rewards, incentives, and payout programs at scale",
+    "Driving growth through customer, employee, sales team, channel partner, and merchant incentives",
+    "Attracting and retaining customers and partners",
+    "Automating customizable reward campaigns",
+    "Personalizing campaigns according to brand guidelines",
+    "Delivering rewards through multiple channels like SMS, email, and WhatsApp",
+    "Sending, delivering, and tracking rewards in bulk from thousands of popular brands globally"
+  ],
+  "competitive_advantages": [
+    "End-to-end SaaS solution for engagement, loyalty, incentives, and rewards",
+    "Campaign automation with customizable workflows, eliminating the need for custom development",
+    "Personalization of campaigns at scale",
+    "Multi-channel reward delivery (SMS, email, WhatsApp)",
+    "Ability to send, deliver, and track rewards instantly and securely in bulk",
+    "Access to a wide marketplace of thousands of popular brands for rewards",
+    "Global reach for reward delivery to recipients"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Employee Rewards",
+    "Employee Incentives",
+    "Employee Recognition",
+    "Benefits Administration",
+    "Employee Happiness",
+    "Employee Well-being"
+  ],
+  "integration_capabilities": [
+    "Integration with thousands of popular brands for reward delivery",
+    "SMS channel integration for reward delivery",
+    "Email channel integration for reward delivery",
+    "WhatsApp channel integration for reward delivery"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness and Engagement",
+    "Drive business growth",
+    "Enhanced customer and partner attraction and retention",
+    "Elimination of custom development for reward experiences"
+  ],
+  "searchable_keywords": [
+    "XOXO Day",
+    "Xoxoday",
+    "Giift",
+    "Rewards",
+    "Incentives",
+    "Payouts",
+    "Loyalty",
+    "Commissions",
+    "SaaS solutions",
+    "Engagement management",
+    "Loyalty management",
+    "Rewards management",
+    "Employee happiness",
+    "Employee engagement",
+    "Employee satisfaction",
+    "Employee well-being",
+    "Employee recognition software",
+    "Benefits administration software",
+    "Total Rewards",
+    "Campaign automation",
+    "Personalized campaigns",
+    "Bulk rewards",
+    "Global rewards",
+    "Work-life balance",
+    "Learning & Development",
+    "Global opportunities"
+  ],
+  "primary_users": [
+    "Businesses (general)",
+    "HR Teams",
+    "Sales Teams",
+    "Channel Partners",
+    "Merchants",
+    "Customers (as recipients)",
+    "Employees (as recipients)"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "scalability_features": [
+    "Supports automation at scale",
+    "Handles personalization at scale",
+    "Designed for large global corporations",
+    "Capable of sending rewards to recipients across the globe",
+    "Facilitates bulk reward sending and tracking",
+    "Integrates with thousands of popular brands"
+  ],
+  "security_features": [
+    "Secure reward delivery"
+  ],
+  "_weight": 1
+}

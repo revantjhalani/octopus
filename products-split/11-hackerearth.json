@@ -1,0 +1,156 @@
+{
+  "id": 11,
+  "name": "HackerEarth",
+  "description": "HackerEarth is the leading developer assessment software trusted by over 1,000 companies worldwide to accurately measure developer skills during recruitment. By streamlining the screening process, it enhances engineering hire quality and reduces recruiter workload. We have cultivated a vibrant community of over 4.5 million developers who engage in hackathons and coding challenges to hone their skills and compete globally. ",
+  "features": [
+    "Accurate Assessments",
+    "Improved Candidate Experience",
+    "Detailed Analytics"
+  ],
+  "founders": [],
+  "price": [
+    {}
+  ],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Recruiting",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Applicant tracking system (ATS)",
+    "Recruitment marketing platforms",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Hiring efficiency",
+    "Talent sourcing",
+    "Interview scheduling",
+    "Candidate screening",
+    "Skill development"
+  ],
+  "headquarter": "San Francisco, CA",
+  "launch_date": "2012",
+  "order": 20005,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Ditch resumes, assess coding skills effectively with HackerEarth's skill-first hiring. ",
+  "ProductId": null,
+  "ShortDescription": "The tech behind building greattech teams.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Full Hiring Lifecycle Support",
+      "sequence": 0,
+      "description": "Go beyond interviews with a platform for skill-based assessments, collaborative coding, and learning & development."
+    },
+    {
+      "name": "Data-Driven Insights",
+      "sequence": 1,
+      "description": "Assess skills, not resumes, with data-driven insights throughout the hiring process."
+    },
+    {
+      "name": "Engaged Developer Community",
+      "sequence": 2,
+      "description": "Access a massive developer community (10M+) for hiring challenges, hackathons, and employer branding."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": null,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": true,
+  "PublishedAt": "2024-02-21T12:57:29.721Z",
+  "enhanced_description": "HackerEarth is a leading developer assessment software that enables skill-first hiring, moving beyond resumes to accurately measure coding skills during recruitment. It supports the full technical hiring lifecycle by providing skill-based assessments, collaborative coding environments, and detailed analytics for data-driven insights. By streamlining the screening process, HackerEarth aims to enhance engineering hire quality and reduce recruiter workload, helping companies hire top technical talent faster and more efficiently. Furthermore, HackerEarth fosters accelerated skill development and learning efficiency through its massive community of over 10 million developers who actively engage in hackathons and coding challenges, offering unique opportunities for employer branding and talent sourcing.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Developer skill assessment during recruitment",
+    "Streamlining technical candidate screening processes",
+    "Improving the quality of engineering hires",
+    "Reducing recruiter workload in tech talent acquisition",
+    "Facilitating collaborative coding interviews",
+    "Supporting ongoing developer skill development and learning",
+    "Running hackathons and coding challenges for talent acquisition",
+    "Employer branding within the developer community",
+    "Talent sourcing for technical roles"
+  ],
+  "competitive_advantages": [
+    "Skill-first hiring approach, de-emphasizing resumes for coding skill assessment",
+    "Access to a massive and engaged developer community (10M+) for talent sourcing and employer branding",
+    "Comprehensive support for the full technical hiring lifecycle, including assessments, collaborative coding, and learning & development",
+    "Provides data-driven insights throughout the hiring process",
+    "Offers accurate developer skill assessments",
+    "Improves candidate experience during the assessment process",
+    "Designed to reduce recruiter workload for technical hiring",
+    "Supports accelerated skill development and learning efficiency"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Learning and Development",
+    "Talent Acquisition",
+    "Candidate Management",
+    "Talent Management"
+  ],
+  "roi_benefits": [
+    "Enhanced engineering hire quality",
+    "Reduced recruiter workload",
+    "Faster and more efficient hiring of top technical talent",
+    "Accelerated skill development and learning efficiency"
+  ],
+  "searchable_keywords": [
+    "HackerEarth",
+    "developer assessment",
+    "coding skills",
+    "technical recruitment",
+    "skill-first hiring",
+    "developer screening",
+    "engineering hiring",
+    "recruiter efficiency",
+    "hackathons",
+    "coding challenges",
+    "skill development",
+    "talent acquisition",
+    "recruiting software",
+    "ATS",
+    "candidate screening",
+    "interview scheduling",
+    "employer branding",
+    "collaborative coding",
+    "data-driven hiring",
+    "talent sourcing",
+    "learning and development",
+    "tech teams",
+    "developer community",
+    "accurate assessments",
+    "detailed analytics"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Hiring Managers (specifically Engineering Managers)",
+    "Developers (as candidates and community members)",
+    "HR Professionals"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,184 @@
+{
+  "id": 1351,
+  "name": "Hirestar",
+  "description": "Offer Experience and Employee Background Verification powered by Blockchain",
+  "features": [
+    "The Hirestar.io blockchain enables Talent Acquisition Manager to make informed choices before even engaging with the candidates and enforce professional behavior from the candidates.",
+    "Decentralize the Background Verification (BGV) process. Hirestar.io powered by Blockchain brings all stakeholders on one platform",
+    "Decentralize the Background Verification (BGV) process. Hirestar.io powered by Blockchain brings all stakeholders on one platform",
+    "To wow the candidate, Hirestar.io offers a rich offer-to-join experience. Also, some job offer letter samples, acceptance of offer letters, internship offer letters, etc. "
+  ],
+  "founders": [],
+  "price": [
+    {
+      "name": "",
+      "type": "",
+      "price": "",
+      "description": ""
+    }
+  ],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Pre-employment screening software",
+    "Background check software",
+    "Pre-employment testing software",
+    "Reference check software",
+    "Recruiting automation software",
+    "Talent acquisition suites",
+    "Applicant tracking system (ATS)",
+    "Onboarding software",
+    "Blockchain"
+  ],
+  "tags": [
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Data-driven hiring",
+    "Candidate screening",
+    "Talent acquisition",
+    "Hiring best practices"
+  ],
+  "headquarter": "Hyderabad, Telangana",
+  "launch_date": "2018",
+  "order": 999,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Beyond Hype: Blockchain's Potential to Reshape Our World",
+  "ProductId": null,
+  "ShortDescription": "Hirestar.io, a background verification company, gathers all stakeholders on a single blockchain platform.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": [
+      {
+        "times": [
+          {
+            "description": ""
+          }
+        ],
+        "header": "",
+        "sequence": 0,
+        "videourl": "",
+        "description": ""
+      }
+    ]
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Leveraging Blockchain's Potential",
+      "sequence": 0,
+      "description": "DappLogic recognizes the transformative power of blockchain technology beyond just cryptocurrency. They aim to develop innovative solutions that utilize blockchain's core strengths to create positive change."
+    },
+    {
+      "name": "Hyderabad Innovation",
+      "sequence": 1,
+      "description": " As a recent startup based in Hyderabad, India, DappLogic brings a fresh perspective and local talent to the blockchain space. This could indicate a focus on emerging markets or solutions relevant to the Indian context."
+    },
+    {
+      "name": "Streamlined Hiring",
+      "sequence": 2,
+      "description": "Hirestar.io offers a suite of services to empower confident and efficient hiring. Their platform automates workflows, manages verification processes, and integrates with existing HR systems for a smooth experience."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": true,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-12T06:39:23.659Z",
+  "enhanced_description": "Hirestar is a blockchain-powered HR technology solution designed to streamline and decentralize the employee background verification (BGV) process. It brings all stakeholders onto a single, immutable platform, enabling Talent Acquisition Managers to make informed choices about candidates and enforce professional behavior. Beyond verification, Hirestar.io enhances the candidate's offer-to-join experience by providing comprehensive tools and samples for various offer letters, including job offers, acceptance letters, and internship offers. The platform aims to automate workflows and seamlessly integrate with existing HR systems to facilitate confident and efficient hiring.",
+  "ideal_company_sizes": [
+    "Global Enterprises"
+  ],
+  "key_use_cases": [
+    "Employee background verification",
+    "Experience verification",
+    "Decentralizing background verification processes",
+    "Making informed hiring decisions pre-engagement",
+    "Enforcing professional candidate behavior",
+    "Managing the offer-to-join experience",
+    "Generating offer letter samples (job, acceptance, internship)",
+    "Automating hiring and verification workflows"
+  ],
+  "competitive_advantages": [
+    "Blockchain-powered decentralization of background verification",
+    "Ability to enforce professional behavior from candidates via blockchain record",
+    "Enhanced candidate offer-to-join experience with comprehensive tools and samples",
+    "Streamlined and automated hiring workflows",
+    "Integration with existing HR systems for a smooth experience"
+  ],
+  "implementation_scenarios": [
+    "Integration with existing HR systems"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Pre-employment screening",
+    "Background checks",
+    "Reference checks",
+    "Onboarding"
+  ],
+  "technology_stack": [
+    "Blockchain"
+  ],
+  "integration_capabilities": [
+    "Integration with existing HR systems"
+  ],
+  "roi_benefits": [
+    "Hire top talent faster",
+    "Hire top talent more efficiently",
+    "Reduced risk from making informed choices before engaging with candidates",
+    "Improved candidate quality through enforced professional behavior",
+    "Increased efficiency through workflow automation",
+    "Improved candidate experience"
+  ],
+  "searchable_keywords": [
+    "Hirestar",
+    "Background Verification",
+    "Employee Background Verification",
+    "Experience Verification",
+    "Blockchain HR",
+    "Decentralized BGV",
+    "Talent Acquisition",
+    "Recruiting",
+    "Pre-employment screening",
+    "Background check software",
+    "Reference check software",
+    "Recruiting automation",
+    "Applicant tracking system (ATS)",
+    "Onboarding software",
+    "Job offer letter",
+    "Candidate screening",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Data-driven hiring",
+    "Hiring best practices"
+  ],
+  "primary_users": [
+    "Talent Acquisition Managers",
+    "Recruiters",
+    "HR professionals"
+  ],
+  "security_features": [
+    "Blockchain-powered data integrity",
+    "Decentralized process enhancing resilience and transparency"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,150 @@
+{
+  "id": 506,
+  "name": "Cognigix",
+  "description": "Cognigix is a custom learning solutions and technology company that helps businesses to achieve their business goals. We design, develop and deliver unique learning solutions that makes learning fun and memorable. We are a diverse team of creative, caring and innovative professionals, passionate about helping our clients by providing cutting-edge solutions. Our solutions include learning design consultancy, custom eLearning, video development, immersive learning, mobile learning, Learning Management System (LMS), Learning as a Service (LaaS) and Learning Delivery App. Digital learning redefined to deliver measurable performance impact!",
+  "features": [
+    "Cognigix is one of the fastest-growing organizations in the e-Learning industry",
+    "the expertise and experience in developing customized e-Learning and learning apps and providing learning as a service",
+    "We build a collaborative culture and long-term relationship with clients, address their needs, and offer leading-edge learning "
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Learning Experience Systems (LXPs)",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Learning efficiency",
+    "Adaptive learning",
+    "Personalised learning",
+    "Skill acquisition"
+  ],
+  "headquarter": "Navi Mumbai, Maharashtra",
+  "launch_date": "2018",
+  "order": 20466,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Digital Learning Redefined",
+  "ProductId": null,
+  "ShortDescription": "Cognigix is a custom learning solutions and technology company that helps businesses to achieve their business goals.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:28:54.261Z",
+  "enhanced_description": "Cognigix is a custom learning solutions and technology company that specializes in designing, developing, and delivering unique digital learning experiences. Their goal is to help businesses achieve their objectives by making learning fun, memorable, and impactful, leading to measurable performance improvements. Their comprehensive offerings include learning design consultancy, bespoke eLearning content development, video production, immersive learning solutions, mobile learning applications, Learning Management System (LMS) implementation, and Learning as a Service (LaaS). Recognized as a fast-growing organization in the e-Learning industry, Cognigix emphasizes a collaborative culture and long-term client relationships to provide cutting-edge solutions.",
+  "key_use_cases": [
+    "Custom eLearning content development",
+    "Video-based learning solutions",
+    "Immersive learning experiences (e.g., VR/AR for training)",
+    "Mobile learning content and application delivery",
+    "Learning Management System (LMS) deployment and management",
+    "Learning as a Service (LaaS) for ongoing learning needs",
+    "Learning Delivery App implementation",
+    "Adaptive learning program design",
+    "Personalized learning pathway creation"
+  ],
+  "competitive_advantages": [
+    "Expertise in developing customized e-Learning and learning apps",
+    "Provision of Learning as a Service (LaaS)",
+    "Focus on creating fun and memorable learning experiences",
+    "Commitment to delivering measurable performance impact",
+    "Building collaborative cultures and long-term client relationships",
+    "Offering leading-edge and cutting-edge learning solutions"
+  ],
+  "implementation_scenarios": [
+    "Customized learning solution deployment",
+    "Managed learning services (Learning as a Service - LaaS)",
+    "On-premise or cloud-based LMS implementation",
+    "Mobile application deployment for learning content"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Training",
+    "Skill Management"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "eLearning software",
+    "Learning Management Systems (LMS)",
+    "Learning Experience Platforms (LXP)",
+    "Mobile learning technology",
+    "Video development technology",
+    "Immersive learning technology"
+  ],
+  "roi_benefits": [
+    "Achievement of business goals",
+    "Measurable performance impact",
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Enhanced skill acquisition",
+    "More engaging and memorable learning experiences"
+  ],
+  "searchable_keywords": [
+    "Cognigix",
+    "Learning solutions",
+    "eLearning",
+    "Custom eLearning",
+    "Video development",
+    "Immersive learning",
+    "Mobile learning",
+    "LMS",
+    "Learning Management System",
+    "LaaS",
+    "Learning as a Service",
+    "Learning Delivery App",
+    "Digital learning",
+    "Learning design consultancy",
+    "Learning and Development",
+    "Training eLearning software",
+    "Learning Experience Systems",
+    "LXP",
+    "Artificial intelligence",
+    "AI",
+    "Learning efficiency",
+    "Adaptive learning",
+    "Personalised learning",
+    "Skill acquisition",
+    "Skill development",
+    "Performance impact",
+    "Corporate training",
+    "Customized training"
+  ],
+  "primary_users": [
+    "Businesses (as clients)",
+    "HR teams (specifically L&D professionals)",
+    "Employees/Learners (as end-users of the learning solutions)"
+  ],
+  "deployment_options": [
+    "Cloud-based (implied by LaaS)",
+    "Mobile application deployment",
+    "Customized solution deployment"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,151 @@
+{
+  "id": 495,
+  "name": "CINNOX",
+  "description": "CINNOX is a comprehensive SaaS platform that unifies traditional and digital touchpoints. Businesses can connect, orchestrate, and evaluate all of their customer and team interactions to deliver a frictionless omnichannel experience that elevates business performance and optimises productivity. There\u2019s no turning back. The great digital transformation has reshaped the customer service businesses forever, with heightened demand for quality engagement through new modes of communication.",
+  "features": [
+    "Turn website traffic into sales conversions and build loyalty.",
+    "Filter out spam enquiries, automatically answer common questions, segment and qualify leads to free up your team to focus on value-adding tasks and conversions.",
+    "Route enquiries to the right agents based on automated routing rules, flexibly handling high traffic with ease."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Talent Management",
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Workforce management",
+    "HR management suites",
+    "Recruitment agencies",
+    "HR consulting providers",
+    "Recruiting automation software",
+    "Software and Services Related to HR Software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "headquarter": "Singapore, SG",
+  "launch_date": "2007",
+  "order": 20455,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Humanising Connections for Better Business",
+  "ProductId": null,
+  "ShortDescription": "CINNOX is a Total Experience SaaS platform that elevates customer and staff experiences with innovative omnichannel engagement and analytics solution.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:28:38.483Z",
+  "enhanced_description": "CINNOX is a comprehensive Total Experience (TX) SaaS platform that unifies traditional and digital touchpoints to humanize connections for better business outcomes. It enables organizations to connect, orchestrate, and evaluate all customer and team interactions, delivering a frictionless omnichannel experience that elevates both customer and staff experiences. This platform is designed to optimize business performance and productivity, directly addressing the heightened demand for quality engagement through new modes of communication in the digital transformation era.",
+  "key_use_cases": [
+    "Omnichannel customer and team interaction management",
+    "Customer service optimization",
+    "Lead generation and qualification from website traffic",
+    "Website visitor engagement and conversion",
+    "Automated enquiry handling and routing",
+    "Spam enquiry filtering",
+    "Automated common question answering",
+    "Staff experience enhancement",
+    "Recruitment process automation"
+  ],
+  "competitive_advantages": [
+    "Unified omnichannel platform for traditional and digital touchpoints",
+    "Comprehensive orchestration and evaluation of all customer and team interactions",
+    "Frictionless omnichannel experience delivery",
+    "Automated lead qualification, segmentation, and spam filtering",
+    "Automated and flexible enquiry routing for high traffic volumes",
+    "Focus on elevating both customer and staff experiences"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Recruiting",
+    "Workforce Management",
+    "HR Management Suites",
+    "Recruitment Agencies support",
+    "HR Consulting Providers support",
+    "Recruiting Automation",
+    "Hiring Manager productivity support"
+  ],
+  "roi_benefits": [
+    "Increased sales conversions from website traffic",
+    "Improved customer loyalty",
+    "Optimized business performance",
+    "Enhanced productivity",
+    "Reduced time spent on spam enquiries",
+    "Efficient handling of common questions through automation",
+    "Improved lead qualification efficiency",
+    "Increased team focus on value-adding tasks",
+    "Better handling of high traffic volumes for enquiries",
+    "Elevated customer experience",
+    "Elevated staff experience",
+    "Faster and more efficient hiring of top talent",
+    "Boosted hiring manager confidence and productivity"
+  ],
+  "searchable_keywords": [
+    "CINNOX",
+    "SaaS platform",
+    "Total Experience",
+    "TX platform",
+    "Omnichannel engagement",
+    "Customer interactions",
+    "Team interactions",
+    "Staff experience",
+    "Customer service",
+    "Digital transformation",
+    "Website traffic conversion",
+    "Sales conversions",
+    "Lead qualification",
+    "Automated routing",
+    "Spam filtering",
+    "FAQ automation",
+    "Business performance",
+    "Productivity optimization",
+    "Customer loyalty",
+    "Analytics solution",
+    "Humanising connections",
+    "Talent Management",
+    "Recruiting",
+    "Workforce management",
+    "HR management suites",
+    "Recruitment automation software",
+    "HR software",
+    "Hire Top Talent",
+    "Hiring Manager productivity"
+  ],
+  "primary_users": [
+    "Customer Service Teams",
+    "Sales Teams",
+    "Hiring Managers",
+    "Internal Employees (Staff)"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "scalability_features": [
+    "Ability to handle high traffic volumes flexibly"
+  ],
+  "_weight": 1
+}

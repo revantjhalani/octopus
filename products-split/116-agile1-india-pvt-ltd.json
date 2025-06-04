@@ -1,0 +1,174 @@
+{
+  "id": 116,
+  "name": "Agile1 India Pvt Ltd",
+  "description": "AgileOne designs and develops global workforce and procurement solutions for Fortune 1000 companies. Our focused and consultative approach provides solutions that streamline business processes and deliver efficiencies to human resources, procurement, and suppliers. Whether our customers are looking for programs to manage their flexible or direct hire workforce, or integrating technologies to capture and manage suppliers across an organization, we customize solutions that deliver cost savings, risk mitigation, vendor management, employment alternatives, and industry best practices.",
+  "features": [
+    "Managed Services Programs",
+    "Workforce Consulting",
+    "Professional Payrolling Solutions",
+    "Independent Contractor Compliance"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Talent Management",
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Workforce management",
+    "Talent management software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Hiring",
+    "Hiring Best Practices",
+    "Employee Engagement"
+  ],
+  "headquarter": "Torrance, CA",
+  "launch_date": "1999",
+  "order": 20086,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "One World. One Workforce",
+  "ProductId": null,
+  "ShortDescription": "AgileOne designs and develops global workforce and procurement solutions for Fortune 1000 companies.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "AgileOne delivers workforce solutions",
+      "sequence": 0,
+      "description": "AgileOne is a company that delivers workforce solutions to mid-market and enterprise clients."
+    },
+    {
+      "name": "AgileOne offers a module-based, global-ready technology platform",
+      "sequence": 1,
+      "description": "AgileOne offers a technology platform that automates operations, streamlines communication, captures data, and ensures visibility into all facets of the engagement process."
+    },
+    {
+      "name": "AgileOne also offers a suite of services",
+      "sequence": 2,
+      "description": "AgileOne also offers a suite of services to manage all aspects of contingent labor and talent acquisition needs"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-26T13:12:15.498Z",
+  "enhanced_description": "AgileOne designs and develops global workforce and procurement solutions tailored for Fortune 1000 companies, mid-market, and enterprise clients. Through a focused and consultative approach, they provide solutions that streamline business processes and deliver efficiencies across human resources, procurement, and supplier management. Their offerings include programs for managing flexible or direct hire workforces and integrating technologies to effectively manage suppliers across an organization. AgileOne's solutions are customized to deliver cost savings, mitigate risk, enhance vendor management, offer employment alternatives, and embed industry best practices. They leverage a module-based, global-ready technology platform that automates operations, streamlines communication, captures critical data, and ensures comprehensive visibility throughout the engagement process. Additionally, AgileOne provides a comprehensive suite of services to manage all aspects of contingent labor and talent acquisition needs.",
+  "ideal_company_sizes": [
+    "Fortune 1000 companies",
+    "Mid-market",
+    "Enterprise"
+  ],
+  "key_use_cases": [
+    "Managed Services Programs",
+    "Workforce Consulting",
+    "Professional Payrolling Solutions",
+    "Independent Contractor Compliance",
+    "Management of flexible workforce",
+    "Management of direct hire workforce",
+    "Supplier management and integration",
+    "Contingent labor management",
+    "Talent acquisition needs management",
+    "Automating workforce operations",
+    "Streamlining workforce communication",
+    "Workforce data capture and visibility"
+  ],
+  "competitive_advantages": [
+    "Focused and consultative approach",
+    "Customizable solutions",
+    "Global-ready technology platform",
+    "Module-based technology platform",
+    "Combination of technology and services for workforce and procurement solutions"
+  ],
+  "implementation_scenarios": [
+    "Customized solution implementation",
+    "Modular platform deployment"
+  ],
+  "hr_functions_supported": [
+    "Human Resources",
+    "Workforce Management",
+    "Talent Management",
+    "Recruiting",
+    "Payrolling",
+    "Independent Contractor Compliance",
+    "Vendor Management"
+  ],
+  "integration_capabilities": [
+    "Integration with technologies for supplier management"
+  ],
+  "roi_benefits": [
+    "Cost savings",
+    "Risk mitigation",
+    "Streamlined business processes",
+    "Efficiencies in human resources and procurement",
+    "Improved visibility into engagement processes",
+    "Automated operations",
+    "Streamlined communication"
+  ],
+  "searchable_keywords": [
+    "Agile1",
+    "AgileOne",
+    "Workforce solutions",
+    "Procurement solutions",
+    "Fortune 1000",
+    "Global workforce",
+    "Managed Services Programs",
+    "Workforce Consulting",
+    "Professional Payrolling Solutions",
+    "Independent Contractor Compliance",
+    "Talent Management",
+    "Recruiting",
+    "Workforce management software",
+    "Talent management software",
+    "Recruiting software",
+    "Hiring",
+    "Hiring Best Practices",
+    "Employee Engagement",
+    "Contingent labor",
+    "Direct hire workforce",
+    "Supplier management",
+    "Cost savings",
+    "Risk mitigation",
+    "Vendor management",
+    "Employment alternatives",
+    "Industry best practices",
+    "Technology platform",
+    "Automate operations",
+    "Streamline communication",
+    "Data capture",
+    "Visibility"
+  ],
+  "primary_users": [
+    "Human Resources personnel",
+    "Procurement personnel",
+    "Suppliers"
+  ],
+  "compliance_features": [
+    "Independent Contractor Compliance"
+  ],
+  "scalability_features": [
+    "Global-ready technology platform",
+    "Module-based platform",
+    "Designed for mid-market and enterprise clients"
+  ],
+  "_weight": 1
+}

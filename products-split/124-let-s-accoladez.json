@@ -1,0 +1,123 @@
+{
+  "id": 124,
+  "name": "Let's Accoladez!",
+  "description": "Accoladez was established with the vision of helping companies boost growth and revenue, by mobilizing their most critical asset: their people. A company\u2019s \u201cpeople\u201d do not only include its employees, but also its customers and channel partners. Together, this team plays a crucial role in determining how well a business does and how fast it grows.",
+  "features": [
+    "Smooth Interface",
+    "Easy To Navigate",
+    "User-friendly experience for everyone"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Performance management solutions",
+    "Performance Review software",
+    "Employee recognition software"
+  ],
+  "tags": [
+    "Employee happiness",
+    "Employee recognition",
+    "Employee happiness programs"
+  ],
+  "headquarter": "Banglore",
+  "launch_date": "2019",
+  "order": 20091,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Engage Motivate Reward",
+  "ProductId": null,
+  "ShortDescription": "Engage Beyond Transactions",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Improves Employee Engagement",
+      "sequence": 0,
+      "description": "By inspiring and motivating employees, Accoladez aims to create a more engaged workforce."
+    },
+    {
+      "name": "Reduces Attrition",
+      "sequence": 1,
+      "description": " By creating a stronger bond and sense of belonging, Accoladez hopes to decrease employee turnover."
+    },
+    {
+      "name": "User-Friendly Platform",
+      "sequence": 2,
+      "description": "Accoladez offers a simple and easy-to-use interface for everyone involved."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:20:51.845Z",
+  "enhanced_description": "Let's Accoladez! is a Total Rewards solution specializing in performance management and employee recognition. Designed to engage, motivate, and reward beyond transactions, the platform aims to boost company growth and revenue by mobilizing employees, customers, and channel partners. Key benefits include improving employee engagement and reducing attrition by fostering a stronger sense of belonging. The platform features a smooth, easy-to-navigate, and user-friendly interface for all users.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee recognition",
+    "Performance management",
+    "Performance reviews",
+    "Employee engagement improvement",
+    "Customer engagement",
+    "Channel partner engagement",
+    "Attrition reduction"
+  ],
+  "competitive_advantages": [
+    "User-friendly interface",
+    "Easy navigation",
+    "Smooth user experience"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards",
+    "Performance Management",
+    "Employee Recognition"
+  ],
+  "roi_benefits": [
+    "Boosts company growth",
+    "Increases revenue",
+    "Improves employee engagement",
+    "Reduces employee attrition"
+  ],
+  "searchable_keywords": [
+    "Employee recognition",
+    "Performance management",
+    "Total rewards",
+    "Employee engagement",
+    "Employee happiness",
+    "Performance review software",
+    "Employee motivation",
+    "Rewards programs",
+    "User-friendly HR software",
+    "Attrition reduction",
+    "Customer recognition",
+    "Channel partner recognition"
+  ],
+  "primary_users": [
+    "Employees",
+    "Customers",
+    "Channel partners"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,174 @@
+{
+  "id": 241,
+  "name": "Qualtrics",
+  "description": "Founded in 2002, our company has spent over 21 years working with the industries that impact you every day. From retail to government to healthcare, we\u2019ve been on a mission to bring humanity, connection, and empathy back to business. We are more than a platform\u2014we are the creators and stewards of the Experience Management category serving over 19,000 clients globally. Building a category demands grit, determination, and unconventional thinking\u2014primarily, it thrives on dedicated, high-functioning teams committed to customer service. That's our specialty.",
+  "features": [
+    "#1 XM Platform",
+    "18,000 Customers",
+    "Leader in IDC Analyst Reports"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Employee engagement software",
+    "Employee grievance",
+    "Experience Software",
+    "Talent management software",
+    "Workforce management",
+    "HR analytics software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee satisfaction",
+    "Employee benefits",
+    "Employee recognition",
+    "Employee development",
+    "Employee empowerment",
+    "Employee Engagement strategies",
+    "Employee engagement surveys"
+  ],
+  "headquarter": "Provo, UT and Seattle, WA                       ",
+  "launch_date": "2002",
+  "order": 20207,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Make every interaction an\n experience that matters",
+  "ProductId": null,
+  "ShortDescription": "Qualtrics creates software for leading brands to improve frontline experiences, build teams, and innovate products",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Customer Experience",
+      "sequence": 0,
+      "description": "Software to deliver better experiences in contact centres and across every digital and physical touchpoint."
+    },
+    {
+      "name": "Employee Experience",
+      "sequence": 1,
+      "description": "Software to engage teams, improve manager effectiveness, and make informed people and business decisions."
+    },
+    {
+      "name": "Strategy & Research",
+      "sequence": 2,
+      "description": "Software to design products people love, increase market share, and accelerate growth."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:57.961Z",
+  "enhanced_description": "Founded in 2002, Qualtrics is a pioneer and leader in the Experience Management (XM) category, serving over 19,000 clients globally. Recognized as the #1 XM Platform and a leader in IDC Analyst Reports, Qualtrics provides software designed to bring humanity, connection, and empathy back to business. The platform empowers organizations to improve frontline experiences, build high-functioning teams, and innovate products. It specifically offers solutions for Customer Experience (optimizing digital and physical touchpoints), Employee Experience (engaging teams, improving manager effectiveness, and informing people and business decisions), and Strategy & Research (designing products, increasing market share, and accelerating growth).",
+  "target_industries": [
+    "Retail",
+    "Government",
+    "Healthcare"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee experience management",
+    "Customer experience management",
+    "Product design and innovation",
+    "Market research and strategy",
+    "Improving employee engagement and satisfaction",
+    "Enhancing manager effectiveness",
+    "Informing people and business decisions through data",
+    "Managing employee grievances",
+    "Supporting employee development and recognition programs",
+    "Conducting employee engagement surveys",
+    "Workforce management",
+    "HR analytics",
+    "Improving frontline experiences"
+  ],
+  "competitive_advantages": [
+    "Pioneer and leader in the Experience Management (XM) category",
+    "Recognized as the #1 XM Platform",
+    "Leader in IDC Analyst Reports",
+    "Extensive global client base (over 19,000 clients)",
+    "Over 21 years of industry experience (since 2002)"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Employee Satisfaction",
+    "Employee Grievance Management",
+    "Talent Management",
+    "Workforce Management",
+    "HR Analytics",
+    "Employee Development",
+    "Employee Recognition",
+    "Manager Effectiveness",
+    "People Analytics"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Enhanced manager effectiveness",
+    "More informed people and business decisions",
+    "Increased market share",
+    "Accelerated business growth",
+    "Better frontline experiences",
+    "Stronger team building",
+    "Increased product innovation",
+    "Improved organizational culture",
+    "Enhanced customer and employee loyalty"
+  ],
+  "searchable_keywords": [
+    "Qualtrics",
+    "Experience Management",
+    "XM Platform",
+    "Employee Experience",
+    "Customer Experience",
+    "Talent Management",
+    "Employee Engagement",
+    "HR Analytics",
+    "Workforce Management",
+    "Employee Satisfaction",
+    "Employee Grievance",
+    "Employee Recognition",
+    "Employee Development",
+    "Manager Effectiveness",
+    "Product Experience",
+    "Market Research",
+    "Business Growth",
+    "Frontline Operations",
+    "People Analytics",
+    "Surveys",
+    "Employee Empowerment",
+    "Contact Center"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "People Managers",
+    "Business Leaders",
+    "Customer Experience Professionals",
+    "Product Managers",
+    "Market Researchers",
+    "Customer Service Managers"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,138 @@
+{
+  "id": 292,
+  "name": "SMU - Singapore Management University",
+  "description": "Singapore Management University (SMU) Established in 2000, SMU\u2019s mission is to generate leading-edge research with global impact and produce broad-based, creative and entrepreneurial leaders for the knowledge-based economy. Home to around 10,000 undergraduates and postgraduates, SMU comprises eight schools: School of Accountancy, Lee Kong Chian School of Business, School of Economics, School of Computer and Information Systems, Yung Pung How School of Law, School of Social Sciences, College of Integrative Studies and College of Graduate Research Studies. SMU offers a wide range of bachelor\u2019s, master\u2019s and PhD degree programmes in the disciplinary areas associated with the six schools, as well as in interdisciplinary combinations of these areas.",
+  "features": [
+    "VARIOUS LEAVE ENTITLEMENT",
+    "FLEXIBLE WORK OPTIONS",
+    "WORK-LIFE INTEGRATION"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Course authoring",
+    "Corporate LMS"
+  ],
+  "tags": [
+    "Skill development",
+    "Adaptive learning"
+  ],
+  "headquarter": "Singapore, singapore",
+  "launch_date": "2000",
+  "order": 20256,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Start Your Journey With SMU",
+  "ProductId": null,
+  "ShortDescription": "A premier university in Asia, the Singapore Management University (SMU) is internationally recognised for its world-class research and distinguished teaching.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Committed to Positive Change",
+      "sequence": 0,
+      "description": "Singapore Management University (SMU) mission is to create positive change through education."
+    },
+    {
+      "name": "Range of Programs",
+      "sequence": 1,
+      "description": "SMU offers undergraduate and graduate programs."
+    },
+    {
+      "name": "Global Impact",
+      "sequence": 2,
+      "description": "SMU is known for its research and international partnerships."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:43.836Z",
+  "enhanced_description": "Singapore Management University (SMU), established in 2000, is a premier Asian university globally recognized for its world-class research and distinguished teaching. Committed to generating leading-edge research with global impact, SMU aims to produce broad-based, creative, and entrepreneurial leaders for the knowledge-based economy. With approximately 10,000 undergraduates and postgraduates, SMU comprises eight schools and offers a wide range of bachelor\u2019s, master\u2019s, and PhD degree programmes across various disciplinary and interdisciplinary areas. Its mission includes creating positive change through education and fostering skill development and learning efficiency. The university also emphasizes employee well-being through various leave entitlements, flexible work options, and work-life integration initiatives.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerate Skill Development",
+    "Improve Learning Efficiency",
+    "Corporate Training Programs",
+    "Learning Content Creation",
+    "Learning Management System (LMS) Hosting"
+  ],
+  "competitive_advantages": [
+    "Internationally recognized for world-class research and distinguished teaching",
+    "Established history since 2000",
+    "Offers a wide range of bachelor's, master's and PhD degree programs",
+    "Committed to positive change through education",
+    "Focus on producing broad-based, creative, and entrepreneurial leaders",
+    "Global impact and international partnerships"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Benefits Administration",
+    "Workforce Management",
+    "Employee Well-being"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development for personnel",
+    "Improved learning efficiency for individuals and organizations",
+    "Enhanced employee satisfaction and retention through flexible work and work-life integration"
+  ],
+  "searchable_keywords": [
+    "SMU",
+    "Singapore Management University",
+    "University",
+    "Higher Education",
+    "Learning and Development",
+    "Corporate LMS",
+    "Course Authoring",
+    "Skill Development",
+    "Adaptive Learning",
+    "Research",
+    "Teaching",
+    "Leaders",
+    "Knowledge-based Economy",
+    "Undergraduates",
+    "Postgraduates",
+    "Degree Programmes",
+    "Leave Entitlement",
+    "Flexible Work Options",
+    "Work-Life Integration",
+    "Employee Benefits",
+    "HR",
+    "Global Impact",
+    "Asia"
+  ],
+  "primary_users": [
+    "Undergraduates",
+    "Postgraduates",
+    "Corporate Learners",
+    "HR Professionals",
+    "Learning & Development Professionals"
+  ],
+  "_weight": 1
+}

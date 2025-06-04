@@ -1,0 +1,161 @@
+{
+  "id": 1041,
+  "name": "Pyjama HR/ FullThrottle Labs Pvt. Ltd.",
+  "description": "PyjamaHR is a forever-FREE applicant tracking system (ATS) and recruitment software trusted by 5000+ businesses. Developed after careful analysis of the pain points and challenges faced by recruitment teams globally, our AI-powered sourcing and seamless integrations ensure you find the perfect candidate for your organization.",
+  "features": [
+    "Trusted security",
+    "Quick, global support",
+    "Expert advice"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Video interviewing software",
+    "Onboarding software",
+    "Software and Services Related to HR Software",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring",
+    ""
+  ],
+  "headquarter": "Bengaluru, IN",
+  "launch_date": "2020",
+  "order": 20984,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "World's Best Forever-Free Applicant Tracking Software (ATS)",
+  "ProductId": null,
+  "ShortDescription": "PyjamaHR is a forever-FREE applicant tracking system (ATS) and recruitment software trusted by 5000+ businesses.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Remote Work Opportunities:",
+      "sequence": 0,
+      "description": "Pyjamahr focuses on connecting professionals with remote work opportunities. This caters to a growing trend of people seeking flexible work arrangements and location independence."
+    },
+    {
+      "name": "Global Job Marketplace:",
+      "sequence": 1,
+      "description": " The website allows professionals to search for remote jobs from companies worldwide.  This broadens career prospects for job seekers and gives companies access to a wider talent pool."
+    },
+    {
+      "name": "Focus on Employer Branding",
+      "sequence": 2,
+      "description": "Pyjamahr might help companies showcase their remote work culture and attract qualified candidates through social media channels like LinkedIn."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:39:24.327Z",
+  "enhanced_description": "PyjamaHR is a forever-FREE applicant tracking system (ATS) and comprehensive recruitment software developed by FullThrottle Labs Pvt. Ltd. It is designed to address key pain points and challenges faced by recruitment teams globally, trusted by over 5000 businesses. The platform leverages AI-powered sourcing and seamless integrations to help organizations efficiently find and onboard qualified candidates. PyjamaHR also facilitates remote work opportunities by connecting professionals with a global job marketplace and assists companies in showcasing their remote work culture through employer branding, potentially via social media channels like LinkedIn.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Applicant tracking",
+    "AI-powered candidate sourcing",
+    "Video interviewing",
+    "Onboarding",
+    "Hiring process optimization",
+    "Reducing hiring costs",
+    "Boosting hiring manager confidence and productivity",
+    "Facilitating remote hiring",
+    "Global talent acquisition",
+    "Employer branding for remote work cultures"
+  ],
+  "competitive_advantages": [
+    "Forever-FREE pricing model",
+    "AI-powered candidate sourcing",
+    "Seamless integrations",
+    "Trusted security",
+    "Quick and global support",
+    "Expert advice for recruitment teams",
+    "Specialization in remote work opportunities and global job marketplace",
+    "Focus on employer branding for remote cultures"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Applicant Tracking",
+    "Candidate Sourcing",
+    "Video Interviewing",
+    "Onboarding",
+    "Talent Acquisition"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence"
+  ],
+  "integration_capabilities": [
+    "Seamless integrations (general)",
+    "LinkedIn (for employer branding)"
+  ],
+  "roi_benefits": [
+    "Reduced cost of hiring qualified employees",
+    "Increased hiring manager confidence",
+    "Improved hiring manager productivity",
+    "Access to a wider, global talent pool"
+  ],
+  "searchable_keywords": [
+    "Pyjama HR",
+    "FullThrottle Labs",
+    "Applicant Tracking System",
+    "ATS",
+    "Recruitment Software",
+    "Free ATS",
+    "AI Sourcing",
+    "Recruiting Automation",
+    "Video Interviewing Software",
+    "Onboarding Software",
+    "Talent Acquisition",
+    "Remote Hiring",
+    "Global Recruitment",
+    "Employer Branding",
+    "Hiring Process Optimization",
+    "Cost Reduction in Hiring",
+    "HR Technology",
+    "AI in HR"
+  ],
+  "primary_users": [
+    "Recruitment Teams",
+    "Hiring Managers",
+    "Job Seekers"
+  ],
+  "security_features": [
+    "Trusted security"
+  ],
+  "_weight": 1
+}

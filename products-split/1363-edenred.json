@@ -1,0 +1,153 @@
+{
+  "id": 1363,
+  "name": "Edenred",
+  "description": "Edenred India is the largest provider of rewards and loyalty solutions, managing B2B, B2C as well as B2E programs for large multinationals across the country. We currently manage over 500 relationship marketing programs with about 20 million channel partners, customers and employees as our end user base. Within India, Edenred manages 70% of the loyalty business including organisations from top industry verticals such as Telecom, IT/ IT Enabled Services, Retail, FMCG, Financial services and many more.",
+  "features": [
+    "Loyalty Software",
+    "CRM Software",
+    "Employee Engagement Software",
+    "Sales Team Engagement Software",
+    "Loyalty Programs",
+    "Channel Loyalty Programs"
+  ],
+  "founders": [],
+  "price": [
+    {
+      "name": "",
+      "type": "",
+      "price": "",
+      "description": ""
+    }
+  ],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration software",
+    "Employee recognition software",
+    "Corporate wellness software"
+  ],
+  "tags": [
+    "Employee hapiness",
+    "Employee engagement",
+    "Employee satisfaction",
+    "Employee well being"
+  ],
+  "headquarter": "Thane West, MAHARASHTRA",
+  "launch_date": "",
+  "order": 999,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "India's No. 1 Digital Rewards & Loyalty Software Company",
+  "ProductId": null,
+  "ShortDescription": "Edenred India is the largest provider of rewards and loyalty solutions, managing B2B, B2C as well as B2E programs for large multinationals across the country. ",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": [
+      {
+        "times": [
+          {
+            "description": ""
+          }
+        ],
+        "header": "",
+        "sequence": 0,
+        "videourl": "",
+        "description": ""
+      }
+    ]
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "",
+      "sequence": 0,
+      "description": ""
+    }
+  ],
+  "Approved": true,
+  "Claimed": true,
+  "Demo_Available": true,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-12T07:52:33.131Z",
+  "enhanced_description": "Edenred India is a leading provider of comprehensive digital rewards and loyalty solutions, established as the largest player in the Indian market with 70% market share in loyalty business. The platform supports B2B, B2C, and B2E relationship marketing programs, serving large multinational corporations. It currently manages over 500 programs for a vast user base of approximately 20 million channel partners, customers, and employees.",
+  "target_industries": [
+    "Telecom",
+    "IT/ IT Enabled Services",
+    "Retail",
+    "FMCG",
+    "Financial Services"
+  ],
+  "ideal_company_sizes": [
+    "Large"
+  ],
+  "key_use_cases": [
+    "Employee Engagement & Recognition",
+    "Customer Loyalty Management",
+    "Channel Partner Engagement",
+    "Sales Team Motivation & Engagement",
+    "Relationship Marketing Programs"
+  ],
+  "competitive_advantages": [
+    "Market Leadership (India)",
+    "Extensive Program Management Experience",
+    "Large User Base Management Capability",
+    "Comprehensive B2B, B2C, and B2E Program Support"
+  ],
+  "hr_functions_supported": [
+    "Employee Recognition",
+    "Employee Engagement",
+    "Benefits Administration",
+    "Corporate Wellness"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness & Engagement",
+    "Enhanced Customer Loyalty",
+    "Optimized Channel Partner Performance"
+  ],
+  "searchable_keywords": [
+    "Edenred",
+    "rewards",
+    "loyalty",
+    "digital rewards",
+    "loyalty software",
+    "employee engagement",
+    "employee recognition",
+    "benefits administration",
+    "corporate wellness",
+    "CRM",
+    "sales team engagement",
+    "channel loyalty",
+    "employee happiness",
+    "employee satisfaction",
+    "employee well-being",
+    "rewards management",
+    "loyalty programs",
+    "relationship marketing"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Sales Teams",
+    "Marketing Teams",
+    "Channel Managers",
+    "Employees",
+    "Customers",
+    "Channel Partners"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,129 @@
+{
+  "id": 704,
+  "name": "IIM Ahmedabad",
+  "description": "IIMA quickly assumed leadership in management education in India and has maintained it ever since. It has grown into India's favorite management school. The benchmark in management education in the country, it attracts the best of students and faculty. Recruiters ranging from global investment banks to NGOs working with the poor harvest its graduates.",
+  "features": [
+    "Top institute for management",
+    "Offer different MBA courses",
+    "Offer armed force programs"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Diversity and inclusion",
+    "Learning analytics"
+  ],
+  "headquarter": "Ahmedabad",
+  "launch_date": "1961",
+  "order": 20658,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Vidyaviniyogaadvikasah",
+  "ProductId": null,
+  "ShortDescription": "IIM Ahmedabad is globally recognized for its excellence in management education.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Student Counselling ",
+      "sequence": 0,
+      "description": " The Students' Personal and Career Development Centre is an on-campus counselling facility at the Indian Institute of Management, Ahmedabad. The Centre is committed to providing the Institute's students, faculty and staff members with a space for self exploration and addressing of psychological concerns, leading to personal, social and professional growth"
+    },
+    {
+      "name": "Hospitality & Utilities",
+      "sequence": 1,
+      "description": "The IIMA knows how precious time is and has set up all facilities so that no one has to run around off campus to get simple jobs done. The campus has its own cafes, banks and ATMs, children's creche facility, all-purpose store, courier & laundry services et al."
+    },
+    {
+      "name": "Sport Facilities",
+      "sequence": 2,
+      "description": "A glistening swimming pool, Squash courts, Snooker room, indoor badminton courts and a number of board game options to spend some hours away from your notes"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:51.700Z",
+  "enhanced_description": "IIM Ahmedabad, established in 1961, is a globally recognized, leading institution for management education in India. It has consistently maintained its leadership position, attracting top students and faculty. The institute offers various MBA courses and specialized programs, including those for armed forces. Its graduates are highly sought after by a wide range of recruiters, from global investment banks to NGOs, contributing to the development of a diverse and inclusive workforce.",
+  "target_industries": [
+    "Finance",
+    "Banking",
+    "Non-profit"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Talent Acquisition",
+    "Employee Training and Development",
+    "Leadership Development",
+    "Workforce Diversity and Inclusion"
+  ],
+  "competitive_advantages": [
+    "Top institute for management",
+    "Leadership in management education in India",
+    "India's favorite management school",
+    "Benchmark in management education",
+    "Attracts best students and faculty",
+    "Globally recognized for excellence"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Learning & Development",
+    "Diversity, Equity & Inclusion (DE&I)",
+    "Employee Training"
+  ],
+  "roi_benefits": [
+    "Access to top management talent",
+    "Enhances workforce quality",
+    "Supports diversity and inclusion objectives"
+  ],
+  "searchable_keywords": [
+    "IIM Ahmedabad",
+    "IIMA",
+    "management education",
+    "MBA courses",
+    "armed force programs",
+    "top institute",
+    "Learning and Development",
+    "Training & development companies",
+    "Diversity and inclusion",
+    "Learning analytics",
+    "Workforce Diversity",
+    "Inclusive Workforce"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "HR Professionals",
+    "Companies"
+  ],
+  "_weight": 1
+}

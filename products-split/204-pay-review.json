@@ -1,0 +1,118 @@
+{
+  "id": 204,
+  "name": "Pay Review",
+  "description": "PayReview was born with the sole intent of enabling companies to generate insights and automates the compensation review & increment process. Our founding team observed that thousands of companies across the world were still spending hundreds of man-hours each year in managing & controlling compensation management using the traditional paper and pen approach, at most excel. This manual approach seldom yielded desired results and resulted in inconsistent and misaligned activities, inefficiency and arbitrary compensation decisions. The meticulous processes not only lead to inefficient cost allocation but results in serious talent attraction and retention challenges.They realized a need to conceive an inbuilt intelligence and automation solution that will work as an agent of change and help in revolutionizing the HR Industry.",
+  "features": [
+    "Inbuilt Intelligence",
+    "Better Quality",
+    "Higher Efficiency"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Compensation management software"
+  ],
+  "tags": [
+    "Hiring costs",
+    "Sourcing costs"
+  ],
+  "headquarter": "Gurgaon, Haryana",
+  "launch_date": "2017",
+  "order": 20171,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "PayReview Your decision support system right pay, right insights, right now",
+  "ProductId": null,
+  "ShortDescription": "PayReview's Intelligent Employee compensation & benefits management software enables seamless salary review and benchmarking.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:26.292Z",
+  "enhanced_description": "PayReview is an intelligent compensation and benefits management software designed to automate and streamline the entire compensation review and increment process. It functions as a decision support system, generating critical insights to help companies make data-driven, consistent, and efficient compensation decisions. By replacing traditional manual methods (paper and excel), PayReview addresses common challenges like inconsistent compensation, inefficient cost allocation, and arbitrary decisions, ultimately aiming to improve talent attraction and retention. The solution enables seamless salary review and benchmarking.",
+  "key_use_cases": [
+    "Automating compensation review and increment processes",
+    "Generating insights for compensation decisions",
+    "Managing and controlling employee compensation",
+    "Conducting seamless salary reviews",
+    "Facilitating compensation benchmarking",
+    "Providing decision support for compensation strategies"
+  ],
+  "competitive_advantages": [
+    "Automation of manual compensation processes (paper/excel)",
+    "Inbuilt intelligence for data-driven decisions",
+    "Improved consistency and alignment in compensation activities",
+    "Enhanced efficiency in compensation management",
+    "Prevention of arbitrary compensation decisions",
+    "Support for better cost allocation",
+    "Aids in overcoming talent attraction and retention challenges",
+    "Acts as a comprehensive decision support system for compensation"
+  ],
+  "hr_functions_supported": [
+    "Compensation management",
+    "Total rewards management",
+    "Salary review",
+    "Compensation benchmarking",
+    "Talent attraction",
+    "Talent retention"
+  ],
+  "roi_benefits": [
+    "Reduction in man-hours spent on compensation management",
+    "Improved efficiency in compensation processes",
+    "Elimination of inconsistent and misaligned compensation activities",
+    "More efficient cost allocation for compensation",
+    "Reduction in the cost of hiring qualified employees",
+    "Improved talent attraction and retention"
+  ],
+  "searchable_keywords": [
+    "Pay Review",
+    "PayReview",
+    "compensation review",
+    "compensation management",
+    "salary review",
+    "compensation increment",
+    "benchmarking",
+    "total rewards",
+    "HR automation",
+    "compensation insights",
+    "talent attraction",
+    "talent retention",
+    "hiring costs",
+    "sourcing costs",
+    "decision support system",
+    "employee compensation",
+    "HR technology",
+    "compensation software"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "Compensation analysts",
+    "HR managers",
+    "Business leaders making compensation decisions"
+  ],
+  "_weight": 1
+}

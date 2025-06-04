@@ -1,0 +1,149 @@
+{
+  "id": 354,
+  "name": "XED",
+  "description": "Founded in 2015, XED is a leading provider of executive education in Middle East, Far East, LATAM and South Asia. Catering to the niche segment of senior leaders, XED offers open and custom programs for individuals and organizations. XED partners with Ivy Leagues and top global universities to offer high-impact programs in strategy, leadership, entrepreneurship, innovation, digital and finance, delivered by world-renowned faculty. Leveraging technology and immersive learning formats, XED has empowered several senior leaders from diverse organizations, Fortune 500 companies and global brands.",
+  "features": [
+    "Global Reach",
+    "Academic Partnerships",
+    "Innovative Learning"
+  ],
+  "founders": [
+    "Piyush Agrawal"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning optimisation",
+    "Skill acquisition",
+    "Personal learning",
+    "Continous learning",
+    "Training methodologies"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2015",
+  "order": 20316,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "At XED, we are driven by a profound belief in the boundless potential of the human spirit.",
+  "ProductId": null,
+  "ShortDescription": "XED specializes in executive education & empowers organizations & individuals",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Innovation",
+      "sequence": 0,
+      "description": "We are forward-thinking and adaptable, leading in education and technology to empower leaders for a dynamic world."
+    },
+    {
+      "name": "Accountability",
+      "sequence": 1,
+      "description": "We create a supportive environment, caring deeply about positive impacts on individuals and organizations."
+    },
+    {
+      "name": "Compassion",
+      "sequence": 2,
+      "description": "We take ownership, deliver on commitments, and ensure excellence to drive growth and progress."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:25:01.491Z",
+  "enhanced_description": "XED, founded in 2015 and headquartered in Singapore, is a leading provider of executive education specializing in high-impact programs for senior leaders and organizations. Operating with a global reach across the Middle East, Far East, LATAM, and South Asia, XED partners with Ivy League and top global universities. They offer both open and custom programs delivered by world-renowned faculty in critical areas such as strategy, leadership, entrepreneurship, innovation, digital, and finance. Leveraging technology and immersive learning formats, XED aims to accelerate skill development and learning efficiency, empowering senior leaders from diverse organizations, including Fortune 500 companies and global brands. The company's core values emphasize Innovation, Accountability, and Compassion, reflecting its commitment to leading in education and technology, delivering on commitments, and fostering positive impacts.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Developing senior leadership capabilities (strategy, leadership, entrepreneurship, innovation, digital, finance)",
+    "Providing customized executive education programs for corporate organizations",
+    "Offering open enrollment programs for individual senior leaders seeking advanced skill development",
+    "Accelerating skill development and learning efficiency for executives and senior management"
+  ],
+  "competitive_advantages": [
+    "Strong academic partnerships with Ivy Leagues and top global universities",
+    "Access to world-renowned faculty for program delivery",
+    "Specialization in executive education for senior leaders and niche segments",
+    "Extensive global reach across Middle East, Far East, LATAM, and South Asia",
+    "Leveraging technology and immersive learning formats for innovative program delivery",
+    "Focus on high-impact programs designed for practical application"
+  ],
+  "implementation_scenarios": [
+    "Enrollment of individual senior leaders in open executive education programs",
+    "Customized program delivery tailored to the specific needs of organizations and their senior leadership teams"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Talent Development",
+    "Training"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development and learning efficiency for senior leaders",
+    "Enhanced leadership capabilities across various strategic domains",
+    "Empowerment of senior leaders to drive organizational growth and progress",
+    "Delivery of high-impact learning outcomes for individuals and organizations"
+  ],
+  "searchable_keywords": [
+    "XED",
+    "executive education",
+    "leadership development",
+    "senior leadership training",
+    "custom leadership programs",
+    "open enrollment programs",
+    "corporate training",
+    "skill development",
+    "learning and development",
+    "L&D",
+    "strategy training",
+    "innovation training",
+    "digital leadership",
+    "finance education",
+    "entrepreneurship training",
+    "global executive education",
+    "Ivy League partnerships",
+    "immersive learning",
+    "continuous learning",
+    "skill acquisition",
+    "organizational learning",
+    "training methodologies",
+    "Middle East education",
+    "Far East education",
+    "LATAM education",
+    "South Asia education",
+    "senior leaders",
+    "Fortune 500 training"
+  ],
+  "primary_users": [
+    "Senior leaders",
+    "Corporate HR departments (specifically Learning & Development or Talent Management teams)",
+    "Individual executives seeking professional development"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,171 @@
+{
+  "id": 806,
+  "name": "KPSG",
+  "description": "KPSG Group is the best Business Process as a Service (BPaaS) company in Indonesia that provides the required human resources, information systems, as well as supporting technology. We combine expertise in Business Process Outsourcing (BPO) and Information Technology Outsourcing (ITO) as a solution for more effective and efficient business operations. KPSG Group has been operating since 1990 as the first outsourcing company in Indonesia and has developed into a BPaaS company with a focus on Customer Experience (CX) and Employee Experience (EX) solutions as it is today. ",
+  "features": [
+    "Accommodate Changing Business Needs",
+    "Advanced Technology with Efficient Cost",
+    "Learning as a Service (LaaS) Application"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing services providers",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs"
+  ],
+  "headquarter": "Jakarta, Jakarta",
+  "launch_date": "1990",
+  "order": 20759,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Empower Your Company in Operational Transformation",
+  "ProductId": null,
+  "ShortDescription": "KPSG Group provides you with the people, process, and technology you need to improve your customer and employee experiences. By combining the benefits of ITO with our expertise in BPO.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "EXTENSIVE EXPERIENCE",
+      "sequence": 0,
+      "description": "We have lots of experience & knowledge in handling a variety of business productivity projects from recruiting potential talent to managing the company\u2019s marketing strategy."
+    },
+    {
+      "name": "HOLISTIC SOLUTION",
+      "sequence": 1,
+      "description": "All-in-one solution for business process management! On top of providing a cloud-based IT system, we also provide quality human resources for your company."
+    },
+    {
+      "name": "TRUSTED BPAAS IN INDONESIA",
+      "sequence": 2,
+      "description": "KPSG is a BPaaS company that many Indonesian companies have relied on. So far we have been trusted by more than 400 companies from various industries"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:49.106Z",
+  "enhanced_description": "KPSG Group is a leading Business Process as a Service (BPaaS) company in Indonesia, established in 1990 as the nation's first outsourcing firm. They provide a holistic solution by combining expertise in Business Process Outsourcing (BPO) and Information Technology Outsourcing (ITO). KPSG offers the necessary human resources, information systems, and supporting technology to empower companies in their operational transformation. Their services focus on improving both Customer Experience (CX) and Employee Experience (EX), delivering effective and efficient business operations. KPSG is a trusted BPaaS provider, relied upon by over 400 companies across various industries in Indonesia, and is known for its extensive experience in handling diverse business productivity projects, from talent acquisition to marketing strategy management. They leverage advanced technology to offer cost-efficient solutions, including a Learning as a Service (LaaS) application, to accommodate evolving business needs.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Business Process Outsourcing (BPO)",
+    "Information Technology Outsourcing (ITO)",
+    "Improving Customer Experience (CX)",
+    "Improving Employee Experience (EX)",
+    "Streamlining Business Operations",
+    "Recruiting Top Talent",
+    "Managing Business Productivity Projects",
+    "Managing Company Marketing Strategy (via BPO)",
+    "Learning as a Service (LaaS)"
+  ],
+  "competitive_advantages": [
+    "Extensive experience in outsourcing and BPaaS (since 1990)",
+    "Holistic solution providing human resources, IT systems, and technology",
+    "Advanced technology with efficient cost",
+    "Trusted by over 400 companies in Indonesia",
+    "Ability to accommodate changing business needs",
+    "Focus on Customer Experience (CX) and Employee Experience (EX) solutions",
+    "Pioneering outsourcing company in Indonesia"
+  ],
+  "implementation_scenarios": [
+    "Service-based (BPaaS, BPO, ITO)",
+    "Cloud-based IT system deployment"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Staffing",
+    "Talent Sourcing",
+    "HR Consulting",
+    "Employee Experience Management"
+  ],
+  "roi_benefits": [
+    "More effective business operations",
+    "More efficient business operations",
+    "Cost efficiency",
+    "Faster talent acquisition",
+    "Improved Customer Experience (CX)",
+    "Improved Employee Experience (EX)"
+  ],
+  "searchable_keywords": [
+    "KPSG",
+    "Business Process as a Service",
+    "BPaaS",
+    "Human Resources",
+    "Information Systems",
+    "Supporting Technology",
+    "Business Process Outsourcing",
+    "BPO",
+    "Information Technology Outsourcing",
+    "ITO",
+    "Business Operations",
+    "Outsourcing",
+    "Customer Experience",
+    "CX",
+    "Employee Experience",
+    "EX",
+    "Recruiting",
+    "Hiring",
+    "Talent Sourcing",
+    "Recruiting Costs",
+    "Staffing Services",
+    "HR Consulting",
+    "Operational Transformation",
+    "People",
+    "Process",
+    "Technology",
+    "Business Productivity",
+    "Marketing Strategy",
+    "Business Process Management",
+    "Cloud-based IT System",
+    "Accommodate Changing Business Needs",
+    "Advanced Technology",
+    "Efficient Cost",
+    "Learning as a Service",
+    "LaaS"
+  ],
+  "primary_users": [
+    "Business Leaders",
+    "HR Leaders",
+    "IT Leaders",
+    "Operations Managers"
+  ],
+  "deployment_options": [
+    "Cloud-based (for IT systems)",
+    "Service-based (BPaaS, BPO, ITO)"
+  ],
+  "scalability_features": [
+    "Ability to accommodate changing business needs",
+    "Designed for large and global enterprises"
+  ],
+  "_weight": 1
+}

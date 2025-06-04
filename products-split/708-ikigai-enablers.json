@@ -1,0 +1,133 @@
+{
+  "id": 708,
+  "name": "Ikigai Enablers",
+  "description": "Ikigai Enablers is a Singapore-headquartered HRTech Advisory firm that helps enterprises find the right HR Tech solutions to address their business and talent challenges. The company has less than 25 employees and is dedicated to creating the greatest possible value for its clients",
+  "features": [
+    "Recruitment process outsourcing",
+    "Work on Tech advisory",
+    "One on one session"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Talent management software"
+  ],
+  "tags": [
+    "Talent sourcing",
+    "Talent acquisition"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2012",
+  "order": 20662,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "a reason for being",
+  "ProductId": null,
+  "ShortDescription": "Our mission is to enable individuals, teams and thereby enterprises to find their IKIGAI to ensure they have a sustainable growth.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Academy",
+      "sequence": 0,
+      "description": "Foster a culture of continuous growth & development with our diverse catalogue of courses & training programs. Designed to upskill HR professionals & cultivate leadership capabilities, this catalogue will empower you to drive future-proof strategic initiatives."
+    },
+    {
+      "name": "Advisory",
+      "sequence": 1,
+      "description": "Design, re-design & elevate your HR strategies with a wealth of knowledge & industry insights from our seasoned HR rockstars. Leverage their experience, innovative solutions & proven methods to position yourself for sustainable success."
+    },
+    {
+      "name": "Marketplace",
+      "sequence": 2,
+      "description": "A comprehensive hub of cutting-edge HRTech solutions, tools & resources catering to your business growth needs. Enhance your HR operations and stay ahead of the curve with our curated marketplace and drive business success."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:55.328Z",
+  "enhanced_description": "Ikigai Enablers is a Singapore-headquartered HRTech Advisory firm founded in 2012, dedicated to helping global and large enterprises find optimal HR Tech solutions to address their business and talent challenges. Beyond offering expert HR Tech advisory services, the company provides Recruitment Process Outsourcing (RPO) and one-on-one consultation sessions. It operates through three key pillars: an Academy offering courses for continuous growth and leadership development for HR professionals, an Advisory service focused on designing and elevating HR strategies with industry insights, and a Marketplace serving as a comprehensive hub for curated, cutting-edge HRTech solutions to enhance HR operations and drive business success. The firm aims to enable individuals, teams, and enterprises to achieve sustainable growth by aligning with their 'Ikigai' (reason for being).",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Selecting and implementing appropriate HR Tech solutions",
+    "Optimizing recruitment processes through outsourcing (RPO)",
+    "Strategic HR design and redesign",
+    "Upskilling and developing HR professionals and leadership capabilities",
+    "Enhancing overall HR operations and strategy",
+    "Hiring top talent faster and more efficiently"
+  ],
+  "competitive_advantages": [
+    "Specialized HRTech advisory expertise",
+    "Curated marketplace of HRTech solutions",
+    "Dedicated academy for HR professional development and leadership training",
+    "Combination of advisory, RPO, and training services"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Recruiting",
+    "Talent Acquisition",
+    "HR Strategy & Planning",
+    "HR Operations Management",
+    "HR Professional Development"
+  ],
+  "roi_benefits": [
+    "Faster and more efficient talent acquisition",
+    "Enhanced HR operations",
+    "Future-proof strategic HR initiatives",
+    "Sustainable business growth",
+    "Improved HR professional capabilities and leadership"
+  ],
+  "searchable_keywords": [
+    "HRTech Advisory",
+    "HR Tech solutions",
+    "Recruitment process outsourcing",
+    "RPO",
+    "Tech advisory",
+    "HR strategies",
+    "Talent Management",
+    "Recruiting",
+    "Staffing management software",
+    "Talent management software",
+    "Talent sourcing",
+    "Talent acquisition",
+    "HR operations",
+    "HR professional development",
+    "Leadership capabilities",
+    "Singapore HRTech",
+    "Enterprise HR"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "HR Professionals",
+    "Business Leaders (seeking HR strategy enhancement)"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,147 @@
+{
+  "id": 1075,
+  "name": "Regal Unlimited GA LLP",
+  "description": "Regal Unlimited is a premium leadership development company specialising in coaching, coach training, and mentoring. Our global reach and impact complement our proud Indian heritage.",
+  "features": [
+    "ICF Approved Coach Training",
+    "Corporate Leadership Workshop",
+    "Offer Team Coaching"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Adaptive learning"
+  ],
+  "headquarter": "Bengaluru",
+  "launch_date": "2012",
+  "order": 21018,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The Coaching school for the world",
+  "ProductId": null,
+  "ShortDescription": "Transforming Organizations, Coaching Leaders, Mentoring Coaches, and Healing all.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Executive Coaching",
+      "sequence": 0,
+      "description": "Executive Coaching Program nurtures individuals and organizations to achieve identified goals, discover new ideas, overcome limitations and achieve newer levels of success."
+    },
+    {
+      "name": "Coaching Unlimited",
+      "sequence": 1,
+      "description": "Coaching Unlimited is an intensive, immersive program for coaches to level up their coaching practice and build a successful coaching business."
+    },
+    {
+      "name": "Regal Coach Leadership Training",
+      "sequence": 2,
+      "description": "An online foundation coach training program for young and aspiring leaders across the globe to accelerate their leadership journey through acquiring the skill of coaching."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:40:04.896Z",
+  "enhanced_description": "Regal Unlimited GA LLP is a premium, globally-reaching leadership development company established in 2012, specializing in comprehensive coaching, coach training, and mentoring services. Key offerings include ICF Approved Coach Training, Corporate Leadership Workshops, and Team Coaching. They provide Executive Coaching programs that nurture individuals and organizations to achieve identified goals, a 'Coaching Unlimited' program designed for coaches to level up their practice, and 'Regal Coach Leadership Training' as an online foundation program for young and aspiring leaders. Headquartered in Bengaluru, Regal Unlimited is focused on accelerating skill development and learning efficiency for large and global enterprises.",
+  "target_industries": [
+    "Corporate Sector"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerating skill development and learning efficiency for individuals and organizations",
+    "Developing internal coaching capabilities within enterprises",
+    "Enhancing corporate leadership skills through workshops and coaching",
+    "Improving team performance via dedicated team coaching",
+    "Providing executive coaching for individual and organizational goal achievement",
+    "Professional development and business growth for existing coaches",
+    "Foundational leadership training for aspiring leaders"
+  ],
+  "competitive_advantages": [
+    "ICF Approved Coach Training (industry recognized accreditation)",
+    "Global reach and impact, serving enterprises worldwide",
+    "Specialization in premium leadership development, coaching, coach training, and mentoring",
+    "Comprehensive service portfolio covering executive, team, and coach-specific training"
+  ],
+  "implementation_scenarios": [
+    "Online delivery for specific training programs (e.g., Regal Coach Leadership Training)"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Talent Management"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Achievement of identified organizational and individual goals",
+    "Overcoming limitations and achieving new levels of success for individuals and organizations",
+    "Enhanced leadership capabilities",
+    "Successful coaching practice development for professionals"
+  ],
+  "searchable_keywords": [
+    "Regal Unlimited",
+    "Leadership development",
+    "Coaching",
+    "Coach training",
+    "Mentoring",
+    "ICF Approved Coach Training",
+    "Corporate Leadership Workshop",
+    "Team Coaching",
+    "Skill development",
+    "Learning efficiency",
+    "Adaptive learning",
+    "Executive Coaching",
+    "Coaching Unlimited",
+    "Regal Coach Leadership Training",
+    "Training management system",
+    "Learning Experience Systems",
+    "Training & development companies",
+    "Coaching school"
+  ],
+  "primary_users": [
+    "Organizational leaders (current and aspiring)",
+    "HR/L&D professionals",
+    "Professional coaches",
+    "Organizations (as clients)"
+  ],
+  "deployment_options": [
+    "Online (for specific programs)"
+  ],
+  "scalability_features": [
+    "Global reach and impact, serving global enterprises",
+    "Online program delivery enabling broader accessibility"
+  ],
+  "_weight": 1
+}

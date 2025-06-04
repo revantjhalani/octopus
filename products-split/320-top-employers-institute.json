@@ -1,0 +1,154 @@
+{
+  "id": 320,
+  "name": "Top Employers Institute",
+  "description": "Top Employers Institute has certified over 2 200 organisations in 122 countries/regions. These certified Top Employers positively impact the lives of 9 million employees globally. A certification programme that enables organisations to assess and improve the workplace environment",
+  "features": [
+    "Publisher to certifier",
+    "Time to synchronise.One brand, one methodology, one positioning, one way of working",
+    "Top Employers goes global"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Total Rewards",
+    "Talent Management",
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Employee recognition software",
+    "HR management suites",
+    "Talent acquisition suites"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee engagement",
+    "Quality of hire",
+    "Hiring efficiency"
+  ],
+  "headquarter": "Netherlands",
+  "launch_date": "2008",
+  "order": 20282,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Become a Recognised Top Employer",
+  "ProductId": null,
+  "ShortDescription": "Top Employers Institute is the global authority on recognising excellence in people practices",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Survey",
+      "sequence": 0,
+      "description": "To certify, your organisation will complete a detailed assessment of its people practices through the HR Best Practices Survey."
+    },
+    {
+      "name": "Validation",
+      "sequence": 1,
+      "description": "After you have completed the survey, your answers will be validated and scored by Top Employers Institute."
+    },
+    {
+      "name": "Feedback",
+      "sequence": 2,
+      "description": "Once officially certified as a recognised Top Employer, your organisation will receive feedback on your scoring."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:11.297Z",
+  "enhanced_description": "Top Employers Institute is a global authority that certifies organizations for excellence in people practices. Operating in 122 countries/regions, it has certified over 2,200 organizations, positively impacting 9 million employees globally. The certification program enables organizations to assess and improve their workplace environment through a detailed HR Best Practices Survey, followed by validation, scoring, and feedback on their performance.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Assess and improve the workplace environment",
+    "Recognize excellence in people practices",
+    "Improve employee happiness and engagement",
+    "Boost hiring manager confidence and productivity",
+    "Hire top talent faster and more efficiently",
+    "Conduct detailed assessment of people practices through HR Best Practices Survey",
+    "Receive validation and scoring on HR practices",
+    "Obtain feedback on HR practice scoring"
+  ],
+  "competitive_advantages": [
+    "Global presence with certifications in 122 countries/regions and over 2,200 organizations",
+    "Demonstrated positive impact on 9 million employees globally",
+    "Positioned as the global authority on recognizing excellence in people practices",
+    "Utilizes one standardized brand, methodology, positioning, and way of working globally"
+  ],
+  "implementation_scenarios": [
+    "Participation in a structured certification program for HR best practices assessment and improvement"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards",
+    "Talent Management",
+    "Recruiting",
+    "Employee Engagement",
+    "HR Best Practices",
+    "Workplace Environment Improvement"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Boosted hiring manager confidence and productivity",
+    "Faster and more efficient top talent acquisition",
+    "Recognition for excellence in people practices",
+    "Improved overall workplace environment",
+    "Enhanced employee well-being",
+    "Improved quality of hire and hiring efficiency"
+  ],
+  "searchable_keywords": [
+    "Top Employers Institute",
+    "HR certification",
+    "workplace excellence",
+    "people practices",
+    "employee engagement",
+    "talent management",
+    "recruiting",
+    "total rewards",
+    "HR best practices",
+    "employee well-being",
+    "quality of hire",
+    "hiring efficiency",
+    "global certification",
+    "employer branding",
+    "HR survey",
+    "workplace assessment",
+    "HR management",
+    "talent acquisition",
+    "employee recognition"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "HR leadership",
+    "Organizations seeking HR best practice validation and improvement"
+  ],
+  "scalability_features": [
+    "Supports organizations of small, large, and global enterprise sizes",
+    "Operates globally in 122 countries/regions",
+    "Utilizes a single, standardized methodology worldwide"
+  ],
+  "_weight": 1
+}

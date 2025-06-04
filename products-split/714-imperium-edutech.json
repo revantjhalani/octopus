@@ -1,0 +1,164 @@
+{
+  "id": 714,
+  "name": "Imperium Edutech",
+  "description": "we provide comprehensive support for corporations advancing their learning initiatives. Recognizing the shortcomings of a one-size-fits-all approach, we offer custom content creation, aligning learning with your unique business goals. Our Simulations and Gamification solutions enliven learning, making it engaging and interactive. Our Learning Management System (LMS) streamlines training, making it efficient.",
+  "features": [
+    "Cultural context",
+    "Simplify course with robust LMS",
+    "In-demand technic"
+  ],
+  "founders": [
+    "Bhargavi Upadhyaya"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Talent management software",
+    "Corporate LMS",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Talent sourcing",
+    "Talent acquisition"
+  ],
+  "headquarter": "Mumbai",
+  "launch_date": "2021",
+  "order": 20668,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Leveraging technology to make learning fun and accessible!",
+  "ProductId": null,
+  "ShortDescription": "At Imperium Edutech we are driven by our shared vision to transform learning through creativity and innovation.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": " Custom-made Strategic Content",
+      "sequence": 0,
+      "description": "We create content strategically, tailored to meet your targets or training requirements. Our team of professionals analyse the scope and designs the content using their storytelling approach. A variety of instinctive classroom factors are also incorporated to maximise the efficiency of these courses. "
+    },
+    {
+      "name": "Ingenious Design",
+      "sequence": 1,
+      "description": "Our experts deploy the tailored content to our enthusiastic instructional design team. Here, the effective information gets its engaging quotient through interactive elements. These courses make use of images, animations, videos and gamified content. Designed to support all learners."
+    },
+    {
+      "name": "Custom Content Development Cycle",
+      "sequence": 2,
+      "description": "At IE, we believe in constant upskilling. Our content, too, is designed to help the learner understand, retain and assess the information before certification."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:01.929Z",
+  "enhanced_description": "Imperium Edutech provides comprehensive support for corporations seeking to advance their learning initiatives. Moving beyond a one-size-fits-all approach, they specialize in custom content creation, strategically aligning learning with unique business goals and training requirements. Their offerings include engaging Simulations and Gamification solutions that enliven learning through interactive elements like images, animations, and videos. A robust Learning Management System (LMS) streamlines training processes, simplifying courses and maximizing efficiency. Imperium Edutech's approach focuses on transforming learning through creativity and innovation, ensuring content is designed for optimal learner understanding, retention, assessment, and certification, and can be adapted to cultural contexts while incorporating in-demand techniques. They serve small, large, and global enterprises.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Developing custom, strategic learning content tailored to specific organizational needs",
+    "Implementing interactive and engaging e-learning solutions through simulations and gamification",
+    "Streamlining and managing corporate training programs efficiently via an LMS",
+    "Upskilling and reskilling employees to meet evolving business requirements",
+    "Ensuring learner comprehension, retention, and formal assessment leading to certification",
+    "Creating culturally relevant and technically advanced learning courses"
+  ],
+  "competitive_advantages": [
+    "Custom Content Creation: Specialization in strategic, custom-made content tailored to unique business goals, moving beyond generic solutions",
+    "Engaging Learning Methodologies: Utilizes Simulations and Gamification, along with interactive elements (images, animations, videos) to create fun and engaging learning experiences",
+    "Robust LMS: Provides a streamlined and efficient Learning Management System for course simplification and effective training delivery",
+    "Holistic Content Development: Employs a storytelling approach, incorporates instinctive classroom factors, and focuses on understanding, retention, assessment, and certification",
+    "Instructional Design Expertise: Leverages an enthusiastic instructional design team to transform tailored content into engaging courses that support all learners",
+    "Adaptability: Ability to incorporate cultural context and in-demand techniques"
+  ],
+  "implementation_scenarios": [
+    "Corporations seeking to outsource custom learning content development services",
+    "Organizations looking to implement a new or enhance an existing corporate Learning Management System",
+    "Companies aiming to introduce interactive and gamified training modules"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Talent Management"
+  ],
+  "roi_benefits": [
+    "Increased efficiency and streamlined corporate training",
+    "Enhanced learner engagement and interaction, leading to better knowledge retention",
+    "Maximized course effectiveness through strategic content design and interactive elements",
+    "Improved alignment of learning initiatives with specific business objectives",
+    "Support for continuous upskilling and professional development, ensuring a skilled workforce",
+    "Clear assessment and certification pathways for documented skill acquisition"
+  ],
+  "searchable_keywords": [
+    "Imperium Edutech",
+    "Corporate learning",
+    "Learning initiatives",
+    "Custom content creation",
+    "Learning content development",
+    "Simulations",
+    "Gamification",
+    "Learning Management System",
+    "LMS",
+    "Corporate training",
+    "E-learning",
+    "Instructional design",
+    "Interactive learning",
+    "Employee training",
+    "Upskilling",
+    "Reskilling",
+    "Talent development",
+    "Talent management software",
+    "Training and development companies",
+    "Digital learning",
+    "Education technology",
+    "Edutech",
+    "Employee engagement",
+    "Learning transformation",
+    "Skill development",
+    "Corporate education",
+    "Online learning platform",
+    "Custom courses",
+    "Certification programs",
+    "Learning engagement",
+    "Training efficiency",
+    "Strategic learning",
+    "Cultural context learning",
+    "In-demand techniques training"
+  ],
+  "primary_users": [
+    "HR professionals (specifically L&D and Training Managers)",
+    "Employees/Learners (end-users of learning content and LMS)",
+    "Corporate executives overseeing learning initiatives"
+  ],
+  "scalability_features": [
+    "Designed to support all learners",
+    "Capable of serving small, large, and global enterprises"
+  ],
+  "_weight": 1
+}

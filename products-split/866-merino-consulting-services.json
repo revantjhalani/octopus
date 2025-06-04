@@ -1,0 +1,154 @@
+{
+  "id": 866,
+  "name": "Merino Consulting Services",
+  "description": "Merino Consulting Services operates globally across 44 countries, standing as a leading IT consulting and enterprise software provider. Our dedication lies in offering top-tier, straightforward, and cutting-edge enterprise solutions, making us a preferred choice for organizations spanning diverse sectors. At Merino, we excel in delivering advanced tech solutions, aiding businesses of all magnitudes in their digital transformation endeavours. Our proven service delivery and implementation strategies consistently yield optimal outcomes. Prioritizing client needs, we've earned our reputation as a trusted tech partner for renowned brands. \"Expect Beyond\" isn't just our slogan\u2014it's our ethos. We forge enduring client relationships by delivering unparalleled services and becoming integral allies to their ventures. Our round-the-clock availability emphasizes our commitment to outstanding service, distinguishing us from the rest.",
+  "features": [
+    "romp Response and ready to help",
+    "Customer centric approach",
+    "At Merino, we believe in People over Procedures. Our managers achieve performance through better employee engagement"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Internet of things",
+    "Blockchain"
+  ],
+  "tags": [
+    "Company culture",
+    "Employee benefits"
+  ],
+  "headquarter": "New Delhi, Delhi",
+  "launch_date": "2006",
+  "order": 20819,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Boundaries\n cannot stop us.\n EXPECT BEYOND",
+  "ProductId": null,
+  "ShortDescription": "Merino Consulting Services operates globally across 44 countries, standing as a leading IT consulting and enterprise software provider. Our dedication lies in offering top-tier, straightforward, and cutting-edge enterprise solutions, making us a preferred choice for organizations spanning diverse sectors.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Award-Winning IT Consulting Services",
+      "sequence": 0,
+      "description": "Merino Consulting Services recently won prestigious awards from Infor at Infor Velocity Tour, Mumbai 2024 [1]. This suggests that Merino Consulting Services is a well-respected company that provides high-quality IT consulting services."
+    },
+    {
+      "name": "Expertise in Implementation, Migration, and Application Management",
+      "sequence": 1,
+      "description": "Merino Consulting Services offers a variety of services including implementation, migration, and application management [1]. This means that they can help businesses with all aspects of their IT infrastructure, from setting up new systems to migrating to the cloud to managing ongoing operations."
+    },
+    {
+      "name": "Global Presence",
+      "sequence": 2,
+      "description": "Merino Consulting Services has expanded to Bilbao, Spain [1]. This suggests that they are a global company that can help businesses with their IT needs anywhere in the world."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:57.550Z",
+  "enhanced_description": "Merino Consulting Services is a leading global IT consulting and enterprise software provider operating in 44 countries. They specialize in offering top-tier, cutting-edge enterprise solutions and aiding businesses of all magnitudes in their digital transformation endeavors. Their core expertise includes implementation, migration, and application management for IT infrastructure, supporting clients in setting up new systems, migrating to the cloud, and managing ongoing operations. Merino leverages advanced technologies such as Artificial Intelligence, Internet of Things, and Blockchain. Renowned for their customer-centric approach, prompt responsiveness, and 24/7 availability, they prioritize client needs and have earned a reputation as a trusted tech partner for renowned brands. Their ethos, 'Expect Beyond,' is rooted in a 'People over Procedures' philosophy, focusing on achieving performance through better employee engagement, which also aligns with their objective to improve employee happiness and engagement. They have received awards for their high-quality IT consulting services.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Digital transformation initiatives",
+    "Enterprise software implementation",
+    "IT system migration (including cloud migration)",
+    "Ongoing application management and IT operations support",
+    "Improving employee happiness and engagement through IT strategies and organizational philosophy",
+    "Setting up new IT systems"
+  ],
+  "competitive_advantages": [
+    "Global presence across 44 countries",
+    "Award-winning IT consulting services",
+    "Expertise in implementation, migration, and application management",
+    "Customer-centric approach with prompt response and 24/7 availability",
+    "Focus on 'People over Procedures' and employee engagement for performance",
+    "Trusted tech partner for renowned brands",
+    "Proven service delivery and implementation strategies"
+  ],
+  "implementation_scenarios": [
+    "End-to-end IT system implementation",
+    "Data and system migration projects (including cloud migration)",
+    "Ongoing application management and support",
+    "Digital transformation project execution"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Employee Happiness",
+    "Company Culture Enhancement",
+    "Performance Management (through employee engagement)",
+    "Employee Benefits (as a strategic consideration for IT solutions)"
+  ],
+  "technology_stack": [
+    "Artificial intelligence",
+    "Internet of Things",
+    "Blockchain",
+    "Enterprise software",
+    "IT infrastructure"
+  ],
+  "roi_benefits": [
+    "Improved organizational performance through enhanced employee engagement",
+    "Successful digital transformation outcomes",
+    "Optimized IT infrastructure management and operations",
+    "Reduced operational complexities via streamlined enterprise solutions",
+    "Access to cutting-edge technologies (AI, IoT, Blockchain)"
+  ],
+  "searchable_keywords": [
+    "Merino Consulting Services",
+    "IT consulting",
+    "Enterprise software",
+    "Digital transformation",
+    "Global IT",
+    "IT infrastructure",
+    "Application management",
+    "Cloud migration",
+    "System implementation",
+    "Prompt response",
+    "Customer-centric",
+    "Employee engagement",
+    "People-centric",
+    "Employee happiness",
+    "Company culture",
+    "Employee benefits",
+    "Artificial intelligence",
+    "AI",
+    "Internet of Things",
+    "IoT",
+    "Blockchain",
+    "Award-winning IT services"
+  ],
+  "primary_users": [
+    "IT Leadership",
+    "HR Leadership",
+    "Business Stakeholders",
+    "C-suite Executives"
+  ],
+  "_weight": 1
+}

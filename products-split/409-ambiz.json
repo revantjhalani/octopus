@@ -1,0 +1,156 @@
+{
+  "id": 409,
+  "name": "AMBIZ",
+  "description": "AMBIZ was established in 17th of August 2018 starting the venture by establishing a quality apprenticeship program, with no CV & GPA. Through the development of AMBIZ\u2019s own agility assessment tools which allow us to identify talents\u2019 key capacities and match their fitness with the company needs. In 2020, the continuous development of the agility assessment attracted companies to trust AMBIZ as their partner for organizational transformation & development.  AMBIZ has helped 130+ companies in 20+ industries and 50.000+ talents.",
+  "features": [
+    "135+ Projects",
+    "HQ in the Lung of the World",
+    "30+ Industries"
+  ],
+  "founders": [
+    "Givari Rizky Michael A.",
+    "Rayhan Ahmad Yuzar"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training management system",
+    "Learning Experience Systems (LXPs)"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Learning speed"
+  ],
+  "headquarter": "Jakarta, Jakarta",
+  "launch_date": "2018",
+  "order": 20370,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Delivering Global Impact Through Localized Practices",
+  "ProductId": null,
+  "ShortDescription": "Transforming businesses and organizations to meet today's most pressing challenges",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "ASSESSMENT",
+      "sequence": 0,
+      "description": "Thorough assessments analyze organizations, identifying strengths, areas for improvement, and strategic opportunities."
+    },
+    {
+      "name": "CHANGE MANANEMENT",
+      "sequence": 1,
+      "description": "Guiding organizations through transformative journeys, ensuring smooth transitions and optimizing performance."
+    },
+    {
+      "name": "LEARNING",
+      "sequence": 2,
+      "description": "Thorough assessments analyze organizations, identifying strengths, areas for improvement, and strategic opportunities."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:26:31.166Z",
+  "enhanced_description": "Established on August 17th, 2018, AMBIZ began its journey by pioneering a quality apprenticeship program that evaluates talent without relying on traditional CVs or GPAs. This was made possible through the development of AMBIZ's proprietary agility assessment tools, designed to identify key talent capacities and effectively match them with specific company needs. By 2020, the continued success and refinement of these agility assessments led companies to engage AMBIZ as a trusted partner for broader organizational transformation and development initiatives. AMBIZ offers thorough organizational assessments to analyze strengths, identify areas for improvement, and pinpoint strategic opportunities. They also specialize in change management, guiding organizations through transformative journeys to ensure smooth transitions and optimize performance, alongside providing various learning solutions. To date, AMBIZ has successfully assisted over 130 companies across more than 20 industries and impacted over 50,000 talents.",
+  "target_industries": [
+    "Diverse industries (30+ industries served)"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Apprenticeship program development and management",
+    "Talent identification and capacity assessment",
+    "Talent-company fitness matching",
+    "Organizational transformation consulting",
+    "Organizational development",
+    "Accelerating skill development",
+    "Improving learning efficiency",
+    "Conducting comprehensive organizational assessments",
+    "Implementing change management strategies",
+    "Delivering learning experiences",
+    "Managing training programs"
+  ],
+  "competitive_advantages": [
+    "Proprietary agility assessment tools for talent evaluation",
+    "Unique apprenticeship program model that bypasses traditional CV and GPA requirements",
+    "Expertise in talent identification, organizational assessment, change management, and learning solutions",
+    "Proven track record with over 130 companies and 50,000 talents impacted",
+    "Ability to deliver global impact through localized practices"
+  ],
+  "implementation_scenarios": [
+    "Consultative partnership for organizational transformation and development",
+    "Service-led implementation of assessment and learning programs"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Talent Assessment",
+    "Learning & Development",
+    "Organizational Development",
+    "Change Management",
+    "Training Management",
+    "Workforce Planning"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Enhanced talent-company fit and retention",
+    "Optimized organizational performance through effective transformation and development",
+    "Smoother organizational transitions and reduced disruption"
+  ],
+  "searchable_keywords": [
+    "AMBIZ",
+    "Apprenticeship program",
+    "Agility assessment",
+    "Talent identification",
+    "Talent matching",
+    "Organizational transformation",
+    "Organizational development",
+    "Skill development",
+    "Learning efficiency",
+    "Training management system",
+    "Learning Experience Systems",
+    "LXP",
+    "Training effectiveness",
+    "Learning speed",
+    "HR assessment",
+    "Change management",
+    "Organizational learning",
+    "HR consulting",
+    "Talent development"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "Learning & Development Managers",
+    "Organizational Development Specialists",
+    "Business Leaders",
+    "Talent Acquisition Managers"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,188 @@
+{
+  "id": 6,
+  "name": "GuavaHR",
+  "description": "GuavaHR enhances workforce performance with a digital communications platform tailored for non-desk teams. We empower organizations with deskless or frontline employees to boost productivity through improved communication, faster feedback, and actionable insights. Addressing diverse challenges in communication, wellness, engagement, and organizational culture, GuavaHR supports companies with varied employee demographics, geographic locations, and IT skills.",
+  "features": [
+    "Engage your entire workforce",
+    "All your comms on mobile",
+    "Measure employee well-being"
+  ],
+  "founders": [
+    "Taavi Toots",
+    "Britt Velling"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Employee grievance",
+    "Employee engagement software",
+    "Experience Software",
+    "Time tracking",
+    "Training eLearning software",
+    "Workforce management"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Company culture",
+    "Employee benefits",
+    "Employee development"
+  ],
+  "headquarter": "Tallinn, Estonia",
+  "launch_date": "2019",
+  "order": 20003,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Foster Engagement and Safety with Two-Way Employee Communication",
+  "ProductId": null,
+  "ShortDescription": "We help our customers reach and engage their entire workforce, from corporate to frontline.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [
+    "HCM First 1"
+  ],
+  "Highlights": [
+    {
+      "name": "Bridging the Communication Gap",
+      "sequence": 0,
+      "description": "Seamless information flow with newsfeeds, filters & multilingual support. "
+    },
+    {
+      "name": "Boosting Engagement Across the Board",
+      "sequence": 1,
+      "description": "Unified platform for recognition, subcultures & location-independent engagement."
+    },
+    {
+      "name": "Supporting Employee Wellbeing",
+      "sequence": 2,
+      "description": "Weekly tips & resources to promote employee health & development."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": null,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2023-12-20T17:40:02.072Z",
+  "enhanced_description": "GuavaHR is a digital communications platform specifically designed to enhance workforce performance for non-desk, deskless, and frontline teams. It empowers organizations by facilitating improved two-way communication, enabling faster feedback, and providing actionable insights to boost productivity. The platform comprehensively addresses challenges related to communication, employee wellness, engagement, and organizational culture. GuavaHR supports companies with varied employee demographics, geographic locations, and IT skills, ensuring seamless information flow through features like newsfeeds with filters and multilingual support. It also boosts engagement via employee recognition features, support for subcultures, and location-independent connectivity, while promoting employee well-being through weekly tips and resources for health and development.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Improving internal communication for non-desk/frontline teams",
+    "Boosting employee engagement across the workforce",
+    "Facilitating two-way feedback and communication",
+    "Measuring and supporting employee well-being",
+    "Enhancing organizational culture",
+    "Providing mobile access for all company communications",
+    "Managing employee recognition programs",
+    "Disseminating company news and updates (newsfeeds)",
+    "Providing multilingual communication support",
+    "Supporting employee development and health initiatives",
+    "Managing employee grievances",
+    "Delivering employee training and e-learning content",
+    "Workforce management",
+    "Time tracking"
+  ],
+  "competitive_advantages": [
+    "Platform specifically tailored for non-desk, deskless, and frontline teams",
+    "Comprehensive mobile communication capabilities for an 'all comms on mobile' approach",
+    "Ability to support diverse employee demographics, geographic locations, and varying IT skill levels",
+    "Focus on fostering engagement and safety through two-way employee communication",
+    "Includes multilingual support for diverse workforces",
+    "Enables location-independent employee engagement"
+  ],
+  "hr_functions_supported": [
+    "Employee Communication",
+    "Employee Engagement",
+    "Employee Well-being Management",
+    "Organizational Culture Management",
+    "Talent Management",
+    "Learning & Development",
+    "Employee Recognition",
+    "Feedback Management",
+    "Employee Grievance Management",
+    "Time Tracking",
+    "Workforce Management",
+    "Employee Experience Management",
+    "Employee Development"
+  ],
+  "integration_capabilities": [
+    "HCM systems (e.g., HCM First 1)"
+  ],
+  "roi_benefits": [
+    "Enhanced workforce performance",
+    "Increased employee productivity through improved communication and feedback",
+    "Improved employee happiness and engagement",
+    "Faster feedback loops",
+    "Actionable insights for decision-making",
+    "Improved employee safety through effective communication"
+  ],
+  "searchable_keywords": [
+    "GuavaHR",
+    "Employee Communications Platform",
+    "Internal Communications",
+    "Deskless Workforce",
+    "Frontline Employees",
+    "Non-Desk Workers",
+    "Employee Engagement Software",
+    "Workforce Engagement",
+    "Employee Experience",
+    "Company Culture",
+    "Employee Wellness Software",
+    "Employee Well-being",
+    "Mobile Communication",
+    "Two-Way Communication",
+    "Employee Feedback",
+    "Employee Recognition",
+    "Digital Workplace",
+    "Talent Management Software",
+    "Learning & Development",
+    "Training Software",
+    "eLearning",
+    "Workforce Management Software",
+    "Time Tracking Software",
+    "Employee Grievance",
+    "Multilingual Support",
+    "Newsfeeds",
+    "HR Tech",
+    "HR Communication",
+    "Employee Safety"
+  ],
+  "primary_users": [
+    "Deskless employees",
+    "Frontline employees",
+    "Non-desk employees",
+    "HR professionals",
+    "Internal communications teams",
+    "Managers"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "scalability_features": [
+    "Supports small to global enterprise organizations",
+    "Designed for diverse employee demographics and geographic locations"
+  ],
+  "_weight": 1
+}

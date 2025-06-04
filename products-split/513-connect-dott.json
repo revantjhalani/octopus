@@ -1,0 +1,119 @@
+{
+  "id": 513,
+  "name": "Connect Dott",
+  "description": "The ConnectDott Talent Portal identifies this core motivations of talent and aligns them to the right jobs to get the best \u2018Cultural Fit\u2019. Through its unique ability to identify sub-conscious motivations independent of age, gender or ethnicity - ConnectDott\u2019s AI engine combines Skills & Personality in a most effective way to render a holistic identification of Talent.",
+  "features": [
+    "Provide SAAS facility ",
+    "Work on customer experience and employee experience ",
+    "Refined candidate provider "
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Job boards",
+    "Staffing & management software"
+  ],
+  "tags": [
+    "Quick Hiring",
+    "Talent acquisition",
+    "Candidate screening"
+  ],
+  "headquarter": "  Singapore",
+  "launch_date": "2016",
+  "order": 20473,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Connecting The Organizational Dots",
+  "ProductId": null,
+  "ShortDescription": "Connet Dott offers customized job search and recrutiment options.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:29:03.261Z",
+  "enhanced_description": "ConnectDott is a SaaS-based Talent Portal that leverages an advanced AI engine to optimize recruitment by focusing on cultural fit. It uniquely identifies subconscious motivations, skills, and personality traits of candidates, independent of age, gender, or ethnicity, to provide a holistic talent identification. The platform is designed to offer customized job search and recruitment options, aiming to provide a refined candidate pool while enhancing both customer and employee experiences.",
+  "key_use_cases": [
+    "Improving cultural fit in hiring",
+    "Holistic talent identification",
+    "Enhancing candidate experience",
+    "Refining candidate selection",
+    "Optimizing recruitment processes for speed and fit"
+  ],
+  "competitive_advantages": [
+    "AI-powered assessment for cultural fit",
+    "Identification of subconscious motivations independent of demographics",
+    "Holistic evaluation combining skills and personality",
+    "Refined candidate provision for better matches"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Candidate Screening",
+    "Staffing",
+    "Job Matching"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)"
+  ],
+  "roi_benefits": [
+    "Faster time-to-hire",
+    "Improved quality of hire through cultural fit",
+    "Enhanced employee experience",
+    "Optimized recruitment efficiency"
+  ],
+  "searchable_keywords": [
+    "Connect Dott",
+    "ConnectDott",
+    "Talent Portal",
+    "Cultural Fit",
+    "AI recruitment",
+    "Skills assessment",
+    "Personality assessment",
+    "Holistic talent identification",
+    "SaaS HR",
+    "Customer experience HR",
+    "Employee experience HR",
+    "Candidate screening",
+    "Recruiting software",
+    "Job boards",
+    "Staffing software",
+    "Talent acquisition",
+    "Quick Hiring",
+    "Job matching",
+    "Recruitment options"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "HR Managers",
+    "Talent Acquisition Specialists",
+    "Candidates"
+  ],
+  "deployment_options": [
+    "SaaS (Software-as-a-Service)"
+  ],
+  "_weight": 1
+}

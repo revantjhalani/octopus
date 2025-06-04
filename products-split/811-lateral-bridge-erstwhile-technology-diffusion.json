@@ -1,0 +1,161 @@
+{
+  "id": 811,
+  "name": "Lateral Bridge (erstwhile Technology Diffusion)",
+  "description": "Lateral Bridge, as the name suggests, aims to bridge the rising gap between the demand-supply of Tech Talent through Staff Augmentation Solutions. We understand that there is an abundance of qualified, stable, and affordable talent globally, but it can be difficult for organizations to find and access this talent. That's where we come in. We place a high value on the \"True Ability\" of the Talent we provide, and the \"Time\" in which we do so. We believe that this focus on quality and timeliness sets us apart and makes us a reliable choice for organizations looking to fill their tech talent needs.",
+  "features": [
+    "BUILD OR SCALE UP YOUR TECH TEAM WITHIN 7-30 DAYS",
+    "WORRY NO MORE ABOUT ATTRITION AND RETENTION",
+    "STRENGTHEN YOUR TEAM WITH GLOBAL TALENT"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Onboarding software",
+    "Staffing services providers",
+    "HR consulting providers",
+    "Staffing & management software",
+    "Video interviewing software"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring efficiency"
+  ],
+  "headquarter": "Sheridan, Wyoming",
+  "launch_date": "2021",
+  "order": 20764,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Global Marketplace for IT Staff Augmentation Solutions.",
+  "ProductId": null,
+  "ShortDescription": "Tech hiring has changed. Not all developers need to be on the payroll.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "SAVE ON SCOUTING COSTS",
+      "sequence": 0,
+      "description": "At Lateral Bridge, we charge absolutely nothing as a scouting, subscription, or recruitment fee."
+    },
+    {
+      "name": "ENJOY UNINTERRUPTED MOMENTUM",
+      "sequence": 1,
+      "description": "With a reserve pool on standby at all times for you, filling up for absenteeism is seamlessly managed."
+    },
+    {
+      "name": "PLUG AND PLAY",
+      "sequence": 2,
+      "description": "Starting to work with on-demand engineers is super simple and the contract can be completed/terminated by notice of 60 days."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:55.782Z",
+  "enhanced_description": "Lateral Bridge offers IT Staff Augmentation Solutions, acting as a global marketplace to bridge the demand-supply gap for tech talent. The service focuses on providing qualified, stable, and affordable global tech talent, emphasizing 'True Ability' and rapid delivery. It enables organizations to build or scale their tech teams quickly, typically within 7-30 days, while alleviating concerns about attrition and talent retention. Key advantages include zero scouting, subscription, or recruitment fees, access to a reserve talent pool for seamless continuity during absenteeism, and flexible 'plug and play' engagement with on-demand engineers, allowing contract termination with 60 days' notice. This approach helps organizations access top-tier global talent efficiently and flexibly, without the need for traditional payroll commitments.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Bridging the demand-supply gap for tech talent",
+    "Rapidly building or scaling tech teams (within 7-30 days)",
+    "Addressing attrition and retention challenges for tech roles",
+    "Accessing global tech talent pools",
+    "Ensuring business continuity by filling absenteeism with a reserve talent pool",
+    "Reducing scouting and recruitment costs for tech hiring",
+    "Engaging on-demand engineering talent for flexible workforce needs"
+  ],
+  "competitive_advantages": [
+    "Speed of talent acquisition (7-30 days for team building/scaling)",
+    "Cost-effectiveness (no scouting, subscription, or recruitment fees)",
+    "Access to high-quality global tech talent (focus on 'True Ability')",
+    "Flexibility in talent engagement ('plug and play' on-demand, 60-day notice for termination)",
+    "Mitigation of attrition and retention risks",
+    "Ensured business continuity (reserve pool for absenteeism)"
+  ],
+  "implementation_scenarios": [
+    "Staff augmentation for IT roles",
+    "Rapid team expansion and scaling",
+    "Strategic talent acquisition for specialized or temporary tech projects",
+    "Flexible workforce management for fluctuating tech talent demands"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Recruitment (specifically for tech talent)",
+    "Workforce Planning",
+    "Talent Management (related to retention and engagement through alternative staffing models)"
+  ],
+  "roi_benefits": [
+    "Savings on scouting, subscription, and recruitment fees",
+    "Increased hiring manager confidence and productivity",
+    "Reduced concerns related to employee attrition and retention",
+    "Maintained business momentum and continuity due to readily available talent",
+    "Access to a broader, global pool of qualified and affordable talent",
+    "Enhanced organizational agility through flexible staffing solutions"
+  ],
+  "searchable_keywords": [
+    "Lateral Bridge",
+    "Technology Diffusion",
+    "Tech Talent",
+    "Staff Augmentation",
+    "Global Talent",
+    "IT Staffing",
+    "Recruiting",
+    "Hiring",
+    "Talent Management",
+    "Hiring Efficiency",
+    "Remote Teams",
+    "On-demand talent",
+    "Developer staffing",
+    "Attrition management",
+    "Talent retention",
+    "Fast hiring",
+    "Outsourcing",
+    "HR consulting",
+    "Staffing services",
+    "Global marketplace for IT talent",
+    "Cost savings hiring",
+    "Flexible staffing",
+    "Plug and Play engineers",
+    "Uninterrupted workforce",
+    "Software developers",
+    "Tech team scaling",
+    "IT staff"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Professionals",
+    "Organizations/Companies seeking tech talent"
+  ],
+  "scalability_features": [
+    "Ability to build or scale up tech teams quickly",
+    "Provision of a reserve talent pool on standby",
+    "Offers on-demand engineers for flexible resource allocation"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,181 @@
+{
+  "id": 113,
+  "name": "Adobe",
+  "description": "Adobe is the global leader in digital media and digital marketing solutions. Our creative, marketing and document solutions empower everyone \u2013 from emerging artists to global brands \u2013 to bring digital creations to life and deliver immersive, compelling experiences to the right person at the right moment for the best results. In short, Adobe is everywhere, and we\u2019re changing the world through digital experiences.",
+  "features": [
+    "Creative Cloud",
+    "Creative Suite",
+    "Illustrator",
+    "Social Marketing",
+    "Web Marketing"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Internet of things"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee satisfaction",
+    "Employee well being",
+    "Company culture",
+    "Employee benefits",
+    "Employee recognition",
+    "Employee development",
+    "Employee empowerment",
+    "Employee Engagement strategies"
+  ],
+  "headquarter": "San Jose, CA",
+  "launch_date": "1982",
+  "order": 20083,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Changing the world through digital experiences.",
+  "ProductId": null,
+  "ShortDescription": "Adobe is the global leader in digital media and digital marketing solutions. ",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Industry Standard",
+      "sequence": 0,
+      "description": "Adobe software is considered the industry standard across various creative fields, including graphic design, photography, videography, and web development"
+    },
+    {
+      "name": "Suite of Creative Tools",
+      "sequence": 1,
+      "description": "Adobe offers a comprehensive suite of creative tools that cater to a wide range of needs. Some of the most popular applications include Photoshop for image editing, Illustrator for vector graphics, Premiere Pro for video editing, After Effects for motion graphics, and InDesign for page layout. "
+    },
+    {
+      "name": "Cloud-Based Collaboration",
+      "sequence": 2,
+      "description": "Many Adobe applications are now cloud-based, allowing for real-time collaboration among team members. This means that multiple users can work on the same project simultaneously, regardless of their physical location"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-26T13:12:11.013Z",
+  "enhanced_description": "Adobe is the global leader in digital media and digital marketing solutions, providing comprehensive creative, marketing, and document solutions. Its offerings include industry-standard tools such as Creative Cloud and Creative Suite applications like Illustrator, Photoshop (for image editing), Premiere Pro (for video editing), After Effects (for motion graphics), and InDesign (for page layout). These tools empower everyone, from emerging artists to global brands, across various creative fields including graphic design, photography, videography, and web development. Many Adobe applications are cloud-based, facilitating real-time collaboration among team members regardless of their physical location. Adobe also provides solutions for social and web marketing, aiming to deliver immersive, compelling digital experiences.",
+  "target_industries": [
+    "Digital Media",
+    "Digital Marketing",
+    "Advertising",
+    "Publishing",
+    "Design"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Digital content creation (e.g., graphics, videos, web assets)",
+    "Professional graphic design and image editing",
+    "Video production and motion graphics",
+    "Web content creation and development",
+    "Social media marketing campaign execution",
+    "Digital advertising campaign execution",
+    "Real-time team collaboration on creative projects",
+    "Employee professional development in creative skills",
+    "Creation of internal communications and company culture materials"
+  ],
+  "competitive_advantages": [
+    "Industry standard software across creative fields",
+    "Comprehensive suite of integrated creative tools",
+    "Global market leadership in digital media and marketing solutions",
+    "Cloud-based capabilities for real-time collaboration"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "hr_functions_supported": [
+    "Employee Development (e.g., skill training using Adobe tools)",
+    "Employee Engagement (e.g., fostering creativity, improving internal communications)",
+    "Company Culture (e.g., creating culture-related content)",
+    "Employee Empowerment (e.g., providing industry-standard tools)"
+  ],
+  "technology_stack": [
+    "Cloud-based technology",
+    "Artificial Intelligence (AI)",
+    "Internet of Things (IoT)"
+  ],
+  "roi_benefits": [
+    "Enhanced creative output and quality",
+    "Improved team collaboration and productivity",
+    "Streamlined digital media and marketing workflows",
+    "Support for employee happiness and engagement initiatives"
+  ],
+  "searchable_keywords": [
+    "Adobe",
+    "digital media",
+    "digital marketing",
+    "creative solutions",
+    "marketing solutions",
+    "document solutions",
+    "Creative Cloud",
+    "Creative Suite",
+    "Illustrator",
+    "Social Marketing",
+    "Web Marketing",
+    "technology",
+    "Artificial intelligence",
+    "Internet of things",
+    "Employee engagement",
+    "Employee satisfaction",
+    "Employee well being",
+    "Company culture",
+    "Employee benefits",
+    "Employee recognition",
+    "Employee development",
+    "Employee empowerment",
+    "Employee Engagement strategies",
+    "graphic design",
+    "photography",
+    "videography",
+    "web development",
+    "Photoshop",
+    "Premiere Pro",
+    "After Effects",
+    "InDesign",
+    "cloud-based collaboration"
+  ],
+  "primary_users": [
+    "Creative professionals",
+    "Marketers",
+    "Content creators",
+    "Designers",
+    "Photographers",
+    "Videographers",
+    "Web developers",
+    "Team members (for collaboration)"
+  ],
+  "scalability_features": [
+    "Designed to support users from individuals to global enterprises",
+    "Cloud-based architecture supports scaling of projects and teams"
+  ],
+  "_weight": 1
+}

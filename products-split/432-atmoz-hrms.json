@@ -1,0 +1,133 @@
+{
+  "id": 432,
+  "name": "Atmoz HRMS",
+  "description": "Atmoz is a brand owned by Contrarian Ventures LLP. We proudly service over 300 corporates across India, UAE, Nepal, Bangladesh, USA & UK. We are promoted by an IIM Alumni & are an ISO 9001:2015; ISO/IEC 27001:2013 certified company. We are a 9 year old \u2018young start-up\u2019. Our Founder Mr. Nand K Agarwal mortgaged his home to raise money to begin his entrepreneurial journey. We enjoy the blessing & support of our family, friends & well-wishers. We value this a-lot. We are for-ever grateful to everyone who has been a part of our journey till date. It\u2019s the little drops that fill the ocean.",
+  "features": [
+    "Its important to keep the employee & his work environment safe. We help you recognize risks & cover it.",
+    "NPS- Lets your employee save tax. We help you execute & manage the entire scheme.",
+    "Easily allocate assets like laptop, mobile etc to your employees & keep a track of it."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "HRMS / HCM",
+    "Talent Management",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Resource Information Systems (HRIS)",
+    "Time tracking",
+    "Employee scheduling software"
+  ],
+  "tags": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "headquarter": "",
+  "launch_date": "2015",
+  "order": 20392,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Experienced Change",
+  "ProductId": null,
+  "ShortDescription": "Atmoz is a brand owned by Contrarian Ventures LLP. We proudly service over 300 corporates spread across India, UAE, Nepal, Bangladesh, UK & USA.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": [],
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": false,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:27:09.055Z",
+  "enhanced_description": "Atmoz HRMS is a Human Capital Management (HCM) and Human Resource Management System (HRMS) solution developed by Contrarian Ventures LLP. Launched in 2015, Atmoz HRMS serves over 300 corporate clients across a broad geographical footprint including India, UAE, Nepal, Bangladesh, USA, and UK. The company is ISO 9001:2015 certified for quality management and ISO/IEC 27001:2013 certified for information security, underscoring its commitment to high standards in quality and data protection.",
+  "key_use_cases": [
+    "Human Resource Information Systems (HRIS)",
+    "Employee time tracking",
+    "Employee scheduling",
+    "National Pension System (NPS) scheme management and tax savings facilitation",
+    "Employee asset allocation and tracking (e.g., laptops, mobiles)",
+    "Work environment safety and risk recognition"
+  ],
+  "competitive_advantages": [
+    "Global service reach across multiple countries (India, UAE, Nepal, Bangladesh, USA, UK)",
+    "ISO 9001:2015 certified for Quality Management Systems",
+    "ISO/IEC 27001:2013 certified for Information Security Management Systems",
+    "Established presence with over 300 corporate clients",
+    "9 years of market experience"
+  ],
+  "hr_functions_supported": [
+    "Core HR (HRIS)",
+    "Time & Attendance Management",
+    "Employee Scheduling",
+    "Benefits Administration (NPS scheme management)",
+    "Asset Management",
+    "Workplace Safety Management",
+    "Talent Management (categorization suggests support, though specific features not detailed)"
+  ],
+  "roi_benefits": [
+    "Enables employee tax savings through NPS scheme management",
+    "Improves efficiency in tracking and managing company assets allocated to employees",
+    "Contributes to a safer employee work environment by recognizing and addressing risks",
+    "Aids in hiring top talent faster and more efficiently (derived from tags)",
+    "Boosts hiring manager confidence and productivity (derived from tags)"
+  ],
+  "searchable_keywords": [
+    "Atmoz HRMS",
+    "Contrarian Ventures LLP",
+    "HRMS",
+    "HCM",
+    "Human Resource Information Systems",
+    "HRIS",
+    "Time tracking",
+    "Employee scheduling software",
+    "Talent Management",
+    "Employee safety",
+    "Work environment safety",
+    "NPS management",
+    "Tax savings",
+    "Employee benefits",
+    "Asset management",
+    "Employee asset tracking",
+    "Risk recognition",
+    "Recruitment",
+    "Hiring",
+    "Corporate HR",
+    "ISO 9001:2015",
+    "ISO/IEC 27001:2013",
+    "India HRMS",
+    "UAE HRMS",
+    "Nepal HRMS",
+    "Bangladesh HRMS",
+    "USA HRMS",
+    "UK HRMS"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Employees (for benefits and asset management interactions)",
+    "Hiring Managers"
+  ],
+  "compliance_features": [
+    "ISO 9001:2015 (Quality Management System certification for the company, implying product quality)",
+    "ISO/IEC 27001:2013 (Information Security Management System certification for the company, implying secure data handling)",
+    "Support for National Pension System (NPS) scheme execution and management",
+    "Features for recognizing and covering risks related to employee work environment safety"
+  ],
+  "security_features": [
+    "Adherence to ISO/IEC 27001:2013 standards for Information Security Management Systems"
+  ],
+  "_weight": 1
+}

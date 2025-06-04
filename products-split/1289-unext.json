@@ -1,0 +1,185 @@
+{
+  "id": 1289,
+  "name": "Unext",
+  "description": "At UNext, we make learning perpetual and on-the-go with our powerful AI-powered platform - Lumen - and the social learning app - Epic.U. From breaking down complex content to byte-sized educational pieces and AI Professor for assistance to collaborative spaces to discuss, learn, code, test, and view recordings, we just made learning fun and truly immersive with our learner engagement tools. Ideal for both individual learners and enterprise professionals, now develop capabilities and expertise in the most personalized ways.",
+  "features": [
+    "Advanced Curriculum With A Strong Focus On Hands-on Learning",
+    "Educational & Professional Cohort Diversity",
+    "Robust Online Programs In Emerging Technologies",
+    "Full Stack Platform To Enable Online Programs"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies",
+    "Training eLearning software"
+  ],
+  "tags": [
+    "Skill development",
+    "Adaptive learning",
+    "Personalised learning",
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive Learning",
+    "Personalised Learning"
+  ],
+  "headquarter": "Bengaluru East, Karnataka",
+  "launch_date": "2020",
+  "order": 6,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Cutting Edge AI-powered Learning Solutions",
+  "ProductId": null,
+  "ShortDescription": "Online courses and certifications for a changing world.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Lumen: An AI-powered Mobile-first Learning Platform",
+      "sequence": 0,
+      "description": "Lumen is a mobile-first, AI-enabled platform that allows learners to study anywhere, anytime and provides an interactive, personalized and unique learning experience. "
+    },
+    {
+      "name": "Epic.U: A Unique Social Networking App For Students",
+      "sequence": 1,
+      "description": "Epic.U, our community networking app, is a next-gen social learning platform where learners across geographies can interact and share thoughts through weekly meet ups and challenges."
+    },
+    {
+      "name": "TalentNext: Our Advanced Online Assessment Platform",
+      "sequence": 2,
+      "description": "TalentNext is an all-in-one, customizable platform that provides end-to-end technology-led assessment solutions, redefining recruitment intelligence and campus hiring."
+    }
+  ],
+  "Approved": true,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:08.742Z",
+  "enhanced_description": "Unext offers cutting-edge AI-powered learning solutions, primarily through its Lumen platform and Epic.U social learning app. Lumen is an AI-enabled, mobile-first platform designed for interactive and personalized learning, enabling 'anywhere, anytime' study. Epic.U functions as a community networking app, fostering social learning through collaborative spaces for discussion, coding, testing, and viewing recordings, along with weekly meetups and challenges. The platform excels at breaking down complex content into byte-sized educational pieces and provides an AI Professor for assistance, making learning immersive and engaging. Unext also includes TalentNext, an advanced, customizable online assessment platform offering end-to-end technology-led solutions for recruitment intelligence and campus hiring. Ideal for both individual learners and enterprise professionals, Unext focuses on accelerating skill development and learning efficiency with robust online programs in emerging technologies and a strong emphasis on hands-on learning.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerating skill development and learning efficiency",
+    "Delivering personalized and adaptive learning experiences",
+    "Enabling on-the-go and mobile-first learning",
+    "Facilitating social and collaborative learning among diverse cohorts",
+    "Providing AI-powered assistance for content comprehension",
+    "Offering hands-on learning, coding, and testing environments",
+    "Managing and delivering robust online programs in emerging technologies",
+    "Conducting online assessments for recruitment intelligence and campus hiring",
+    "Enhancing learner engagement and retention"
+  ],
+  "competitive_advantages": [
+    "AI-powered learning platform (Lumen)",
+    "Mobile-first learning experience (Lumen)",
+    "Unique social learning app for community interaction (Epic.U)",
+    "Integrated AI Professor for learning assistance",
+    "Content breakdown into byte-sized educational pieces",
+    "Collaborative spaces for discussion, coding, testing, and viewing recordings",
+    "Strong focus on hands-on learning in curriculum",
+    "Personalized learning pathways",
+    "Dedicated online assessment platform for recruitment and campus hiring (TalentNext)",
+    "Full-stack platform capability for online programs"
+  ],
+  "implementation_scenarios": [
+    "As a comprehensive corporate learning and development (L&D) system",
+    "As a training management system for online programs",
+    "As a learning experience platform (LXP) for continuous and personalized learning",
+    "As an online assessment solution for recruitment, particularly for campus hiring"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Training Management",
+    "Skill Development",
+    "Talent Acquisition (specifically Recruitment Intelligence, Campus Hiring, Online Assessments)"
+  ],
+  "technology_stack": [
+    "AI"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Enhanced learning retention",
+    "Fostered continuous learning culture",
+    "Increased training effectiveness",
+    "Faster skill acquisition",
+    "Optimized learning outcomes",
+    "Redefined recruitment intelligence and campus hiring processes"
+  ],
+  "searchable_keywords": [
+    "Unext",
+    "AI-powered learning",
+    "Lumen",
+    "Epic.U",
+    "TalentNext",
+    "social learning",
+    "mobile learning",
+    "personalized learning",
+    "adaptive learning",
+    "skill development",
+    "corporate LMS",
+    "LXP",
+    "training management",
+    "online programs",
+    "emerging technologies",
+    "hands-on learning",
+    "collaborative learning",
+    "AI Professor",
+    "online assessments",
+    "recruitment intelligence",
+    "campus hiring",
+    "learning analytics",
+    "learning retention",
+    "continuous learning",
+    "training effectiveness",
+    "skill acquisition",
+    "eLearning software",
+    "training & development"
+  ],
+  "primary_users": [
+    "Individual learners",
+    "Enterprise professionals (employees)",
+    "Students (for educational programs and campus hiring)",
+    "HR/L&D professionals",
+    "Recruiters",
+    "Hiring Managers"
+  ],
+  "deployment_options": [
+    "Cloud/SaaS"
+  ],
+  "_weight": 1
+}

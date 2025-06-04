@@ -1,0 +1,182 @@
+{
+  "id": 1272,
+  "name": "Employment Hero",
+  "description": "Employment Hero is committed to revolutionizing employment experiences. Our all-in-one solution supports businesses at every stage, from recruitment to HR, compliance, and payroll, unlocking team potential effortlessly. Established in 2014, we've achieved rapid growth, doubling year-over-year and reaching unicorn status in 2022. Serving 300,000 businesses globally with over 2 million users, our platform and Swag app innovate continuously to enhance work environments, making employment simpler and more rewarding for all.",
+  "features": [
+    "Automated Workflows ",
+    "Smart Payroll Management",
+    "Built-in Resources"
+  ],
+  "founders": [
+    "Ben Thompson"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Recruiting",
+    "Total Rewards",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Capital Management",
+    "Staffing services providers",
+    "Recruiting software",
+    "Job boards"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Hiring",
+    "Recruiting",
+    "Hiring automation",
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed"
+  ],
+  "headquarter": "Sydney, NSW",
+  "launch_date": "2014",
+  "order": 21100,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "You can do it all with Employment Hero.",
+  "ProductId": null,
+  "ShortDescription": "The smarter way to manage people, payroll and productivity for growing businesses",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Streamlined Process",
+      "sequence": 0,
+      "description": "Automate workflows for a smooth and efficient onboarding experience."
+    },
+    {
+      "name": "Simplified HR Management",
+      "sequence": 1,
+      "description": "Utilize pre-built contracts, policies, and HR templates to save time and ensure compliance."
+    },
+    {
+      "name": "Real-People Support",
+      "sequence": 2,
+      "description": "Access personalized advice and resources from dedicated HR professionals whenever you need it. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:13:43.495Z",
+  "enhanced_description": "Employment Hero offers an all-in-one HR technology solution designed to simplify and enhance the employment experience for businesses of all sizes, especially growing ones. Launched in 2014, the platform has achieved significant global adoption, serving over 300,000 businesses and 2 million users. It provides comprehensive support across the entire employee lifecycle, from recruitment and hiring automation to HR management, compliance, and payroll. Key functionalities include automated workflows for streamlined processes like onboarding, smart payroll management, and a robust suite of built-in HR resources such as pre-built contracts, policies, and templates. The platform also integrates features for total rewards management, employee benefits, and skill development, alongside offering personalized support from dedicated HR professionals, all aimed at unlocking team potential and boosting productivity.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Growing Businesses"
+  ],
+  "key_use_cases": [
+    "End-to-end Recruitment and Hiring",
+    "Streamlined Onboarding Process Automation",
+    "Comprehensive HR Management",
+    "Smart Payroll Processing",
+    "Ensuring HR and Employment Compliance",
+    "Employee Benefits and Total Rewards Administration",
+    "Skill Development and Learning Management",
+    "Access to HR Expertise and Support"
+  ],
+  "competitive_advantages": [
+    "All-in-one comprehensive HR, Payroll, and Recruitment platform",
+    "Extensive automation capabilities for workflows and onboarding",
+    "Built-in compliance tools and HR resources (templates, policies)",
+    "Direct access to expert HR professional support",
+    "Demonstrated rapid growth and large global user base",
+    "Continuous innovation with platform features and the Swag app"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Hiring",
+    "Onboarding",
+    "Human Capital Management (HCM)",
+    "HR Management",
+    "Payroll Management",
+    "Compliance Management",
+    "Total Rewards Management",
+    "Employee Benefits Administration",
+    "Learning & Development",
+    "Skill Management"
+  ],
+  "roi_benefits": [
+    "Increased efficiency and productivity through automation",
+    "Reduced compliance risk with built-in resources and expert support",
+    "Improved employee experience and engagement",
+    "Time savings in HR administration and payroll processes",
+    "Accelerated skill development and learning efficiency"
+  ],
+  "searchable_keywords": [
+    "Employment Hero",
+    "HRMS",
+    "HCM",
+    "Recruiting",
+    "Recruitment",
+    "Payroll",
+    "Compliance",
+    "HR",
+    "Human Resources",
+    "All-in-one HR solution",
+    "Automated Workflows",
+    "Smart Payroll Management",
+    "Built-in Resources",
+    "Employee benefits",
+    "Hiring",
+    "Hiring automation",
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Streamlined Process",
+    "Onboarding",
+    "Simplified HR Management",
+    "HR templates",
+    "Contracts",
+    "Policies",
+    "Real-People Support",
+    "HR professionals",
+    "Growing businesses",
+    "Productivity",
+    "Swag app"
+  ],
+  "primary_users": [
+    "HR Administrators",
+    "Business Owners/Managers",
+    "Employees"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "compliance_features": [
+    "Built-in resources for compliance",
+    "Pre-built contracts and policies to ensure compliance"
+  ],
+  "scalability_features": [
+    "Designed to support growing businesses",
+    "Proven scalability to accommodate 300,000+ businesses and 2M+ users globally"
+  ],
+  "_weight": 1
+}

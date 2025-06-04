@@ -1,0 +1,186 @@
+{
+  "id": 61,
+  "name": "inFeedo",
+  "description": "inFeedo is a conversational employee experience platform that uses AI and people science to engage and enable your workforce. Get a unified view of your company\u2019s health. Find what motivates employees to stay with you and predict why they might quit.",
+  "features": [
+    " Artificial Intelligence",
+    "Predictive People Analytics",
+    "Enterprise Software",
+    "Employee Engagement"
+  ],
+  "founders": [
+    "Varun Puri",
+    "Palash Jain"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "HR analytics software",
+    "HR management suites",
+    "Employee engagement software",
+    "Employee grievance",
+    "Experience Software",
+    "Talent management software",
+    "Artificial intelligence",
+    "Workforce management"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee satisfaction",
+    "Employee development",
+    "Employee empowerment",
+    "Employee happiness programs",
+    "Employee happiness metrics"
+  ],
+  "headquarter": "New York, NY",
+  "launch_date": "2016",
+  "order": 28,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "AI-powered People Experience platform that employees love",
+  "ProductId": null,
+  "ShortDescription": "AI-powered People Experience platform that employees love",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [
+    "Workday",
+    "WhatsApp",
+    "Oracle",
+    "SAP",
+    "Glassdoor",
+    "Microsoft Teams",
+    "Workplace",
+    "Slack",
+    "Gmail",
+    "Google Data Studio"
+  ],
+  "Highlights": [
+    {
+      "name": "Amber by inFeedo",
+      "sequence": 0,
+      "description": "Cultivate high-performing teams with a continuous and personalized Employee Engagement Platform: Your Chief Listening Officer to empathetically listen, analyze, and act on employee concerns at scale"
+    },
+    {
+      "name": "AI-Assist: AI-mazingly simplified Employee Support Platform",
+      "sequence": 1,
+      "description": "Resolve upto 86% of your employee queries automagically with AI and boost efficiency"
+    }
+  ],
+  "Approved": true,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-16T14:10:15.419Z",
+  "enhanced_description": "inFeedo is an AI-powered conversational employee experience platform designed specifically for large enterprises. It leverages Artificial Intelligence and people science to continuously engage and enable the workforce. The platform, including its 'Amber by inFeedo' component, functions as a \"Chief Listening Officer,\" empathetically listening, analyzing, and acting on employee concerns at scale to cultivate high-performing teams. It provides a unified view of company health and utilizes predictive people analytics to identify employee motivations for staying and to predict potential attrition. Additionally, through its 'AI-Assist' feature, it streamlines employee support, automating the resolution of a significant percentage of common queries (up to 86%) to boost efficiency for HR and support teams.",
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Improving employee happiness and engagement",
+    "Gaining a unified view of company health",
+    "Predicting employee attrition and identifying retention drivers",
+    "Proactively listening to and addressing employee concerns at scale",
+    "Automating employee query resolution and support",
+    "Cultivating high-performing teams"
+  ],
+  "competitive_advantages": [
+    "Conversational AI approach for employee experience",
+    "Predictive People Analytics for talent retention",
+    "Functions as a 'Chief Listening Officer' for empathetic, scalable employee listening",
+    "Automates a significant portion of employee query resolution (up to 86%)",
+    "Provides a unified view of company health leveraging AI and people science"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "HR Analytics",
+    "Employee Grievance Management",
+    "Employee Experience Management",
+    "Talent Management",
+    "Workforce Management",
+    "Employee Support",
+    "Employee Retention"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence",
+    "People Science"
+  ],
+  "integration_capabilities": [
+    "Workday",
+    "WhatsApp",
+    "Oracle",
+    "SAP",
+    "Glassdoor",
+    "Microsoft Teams",
+    "Workplace (by Meta)",
+    "Slack",
+    "Gmail",
+    "Google Data Studio"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Reduced employee attrition through predictive insights",
+    "Increased HR/support efficiency by automating query resolution",
+    "Enhanced employee productivity and enablement",
+    "Better understanding of company health and employee motivations"
+  ],
+  "searchable_keywords": [
+    "inFeedo",
+    "employee experience",
+    "AI",
+    "people science",
+    "employee engagement",
+    "workforce engagement",
+    "company health",
+    "employee retention",
+    "employee motivation",
+    "predictive analytics",
+    "HR analytics software",
+    "enterprise software",
+    "talent management",
+    "HR management suites",
+    "employee grievance",
+    "experience software",
+    "workforce management",
+    "employee satisfaction",
+    "employee development",
+    "employee empowerment",
+    "employee happiness programs",
+    "employee happiness metrics",
+    "Amber",
+    "AI-Assist",
+    "conversational platform",
+    "Chief Listening Officer",
+    "HR tech"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Teams",
+    "People Operations Leaders",
+    "HR Business Partners"
+  ],
+  "scalability_features": [
+    "Designed for large enterprises",
+    "Capable of listening, analyzing, and acting on employee concerns at scale"
+  ],
+  "_weight": 1
+}

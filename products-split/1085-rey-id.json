@@ -1,0 +1,116 @@
+{
+  "id": 1085,
+  "name": "Rey.id",
+  "description": "We believe that insurance product can bring a better impression, not only as a means to play your health risk claims, but also to serve a complete healthcare services, as well as improving your quality of life.",
+  "features": [
+    " Fit for Cash Flow",
+    "Transparent Access to Employee Health Data",
+    "More flexible"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee benefits"
+  ],
+  "headquarter": "Jakarta",
+  "launch_date": "2021",
+  "order": 21028,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Delivering care by technology, beyond your typical life & health insurance",
+  "ProductId": null,
+  "ShortDescription": "We are a new kind of insurance which serves you like your family doctor -- all from your gadget.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:40:14.461Z",
+  "enhanced_description": "Rey.id is a technology-driven insurance product that goes beyond typical life & health insurance. It aims to deliver comprehensive healthcare services and improve the quality of life for employees, serving them like a family doctor directly from their gadgets. The platform focuses on transparent access to employee health data, offering flexible solutions that are 'Fit for Cash Flow', and ultimately seeking to improve employee happiness and engagement.",
+  "key_use_cases": [
+    "Providing comprehensive healthcare services to employees",
+    "Managing employee health risk claims",
+    "Improving employee quality of life through integrated health services",
+    "Enabling transparent access to employee health data for employers",
+    "Supporting employee well-being and engagement initiatives",
+    "Delivering personalized health consultations via technology ('family doctor' model)"
+  ],
+  "competitive_advantages": [
+    "Delivers care by technology, beyond typical life & health insurance",
+    "Serves users like a family doctor directly from their gadget (mobile-first, personalized care)",
+    "Offers flexible solutions ('More flexible')",
+    "Designed to be 'Fit for Cash Flow' (cost-effective/optimized financial model)",
+    "Provides 'Transparent Access to Employee Health Data' for employers"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards Management",
+    "Corporate Wellness Programs",
+    "Employee Benefits Administration",
+    "Health & Safety Management",
+    "Employee Well-being Programs",
+    "Employee Engagement & Happiness Initiatives"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Better cash flow management for employers related to benefits",
+    "Enhanced employee quality of life, potentially leading to increased productivity and retention"
+  ],
+  "searchable_keywords": [
+    "Rey.id",
+    "insurance",
+    "health insurance",
+    "life insurance",
+    "healthcare",
+    "employee benefits",
+    "employee well-being",
+    "corporate wellness software",
+    "health & safety providers",
+    "total rewards",
+    "HR tech",
+    "digital health",
+    "online doctor",
+    "virtual care",
+    "flexible insurance",
+    "transparent health data",
+    "employee engagement",
+    "employee happiness"
+  ],
+  "primary_users": [
+    "Employees (as beneficiaries of health services and insurance)",
+    "HR Professionals (for managing benefits, wellness, and accessing employee health data)",
+    "Employers (for strategic benefits planning and employee engagement)"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "Mobile Application"
+  ],
+  "_weight": 1
+}

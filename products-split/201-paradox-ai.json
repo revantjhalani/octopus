@@ -1,0 +1,182 @@
+{
+  "id": 201,
+  "name": "Paradox AI",
+  "description": "At Paradox, we envision a world where hiring is streamlined through meaningful conversations. Our conversational recruiting software automates tasks like screening and interview scheduling, freeing up valuable time for human connections. Trusted by global brands such as Unilever, McDonald\u2019s, and Nestle, we enhance hiring experiences and have been recognized with prestigious awards, including HR Executive Top Product and Forbes\u2019 Top 500 Startups to Work For.",
+  "features": [
+    "Conversational software to make your job easier.",
+    "Boosting Recruitment Team to enhance their efficiency",
+    "Software company to reduce software dependency."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Pre-employment screening software",
+    "Pre-employment testing software",
+    "Reference check software",
+    "Recruiting automation software",
+    "Talent acquisition suites",
+    "Applicant tracking system (ATS)",
+    "Onboarding software",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "Hiring efficiency",
+    "Quality of hire",
+    "Hiring tools",
+    "Hiring process optimization",
+    "Hiring automation",
+    "Hiring analytics",
+    "Data-driven hiring",
+    "Hiring Best Practices",
+    "Talent acquisition"
+  ],
+  "headquarter": "Scottsdale, Arizona",
+  "launch_date": "2016",
+  "order": 20168,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Every great hire starts with hello",
+  "ProductId": null,
+  "ShortDescription": "Conversational recruiting software that automates the work your teams don\u2019t have time for",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Conversational Career Sites",
+      "sequence": 0,
+      "description": "24/7, dynamic experiences for every candidate."
+    },
+    {
+      "name": "Conversational CRM",
+      "sequence": 1,
+      "description": "Find, pipeline, and organize qualified talent."
+    },
+    {
+      "name": "Conversational ATS",
+      "sequence": 2,
+      "description": "Mobile-first automation for frontline workers and managers."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:23.412Z",
+  "enhanced_description": "Paradox AI offers conversational recruiting software designed to streamline the hiring process by automating tasks like screening and interview scheduling. Its core mission is to free up valuable time for recruiters and hiring managers, allowing for more meaningful human connections. The platform features Conversational Career Sites for 24/7 dynamic candidate experiences, Conversational CRM to find, pipeline, and organize qualified talent, and a Conversational ATS providing mobile-first automation specifically tailored for frontline workers and managers. Trusted by global brands like Unilever, McDonald's, and Nestle, Paradox AI aims to boost hiring manager confidence and productivity and has received industry recognition, including HR Executive Top Product and Forbes\u2019 Top 500 Startups to Work For.",
+  "target_industries": [
+    "Consumer Goods",
+    "Retail",
+    "Food Service",
+    "Hospitality"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Automated candidate screening",
+    "Automated interview scheduling",
+    "24/7 candidate engagement via career sites",
+    "Talent pipelining",
+    "Talent organization",
+    "Recruitment process automation",
+    "Enhancing recruiter efficiency",
+    "Improving hiring manager productivity",
+    "Mobile-first talent acquisition for frontline roles"
+  ],
+  "competitive_advantages": [
+    "Conversational AI-driven platform",
+    "Automation of tedious recruiting tasks (screening, scheduling)",
+    "Focus on freeing up time for human connections",
+    "Proven success with global enterprise clients (Unilever, McDonald's, Nestle)",
+    "Industry awards and recognition (HR Executive Top Product, Forbes\u2019 Top 500 Startups to Work For)",
+    "Dedicated conversational career sites, CRM, and ATS features",
+    "Mobile-first design specifically for frontline workers and managers"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Pre-employment Screening",
+    "Pre-employment Testing",
+    "Reference Checks",
+    "Applicant Tracking",
+    "Onboarding",
+    "Interview Management"
+  ],
+  "technology_stack": [
+    "Artificial intelligence"
+  ],
+  "roi_benefits": [
+    "Streamlined hiring process",
+    "Increased efficiency for recruitment teams",
+    "Time savings through task automation",
+    "Enhanced hiring manager confidence and productivity",
+    "Improved candidate experience (24/7 engagement)",
+    "Better talent pipelining and organization"
+  ],
+  "searchable_keywords": [
+    "Paradox AI",
+    "conversational recruiting software",
+    "hiring automation",
+    "recruitment automation",
+    "AI recruiting",
+    "screening automation",
+    "interview scheduling software",
+    "talent acquisition",
+    "ATS",
+    "Applicant Tracking System",
+    "recruiting software",
+    "pre-employment screening",
+    "pre-employment testing",
+    "reference check software",
+    "onboarding software",
+    "hiring tools",
+    "hiring process optimization",
+    "hiring efficiency",
+    "hiring manager productivity",
+    "hiring manager confidence",
+    "quality of hire",
+    "conversational career sites",
+    "conversational CRM",
+    "conversational ATS",
+    "mobile-first automation",
+    "frontline workers",
+    "talent pipelining",
+    "candidate engagement"
+  ],
+  "primary_users": [
+    "Recruitment Teams",
+    "Hiring Managers",
+    "Candidates",
+    "Frontline Managers"
+  ],
+  "_weight": 1
+}

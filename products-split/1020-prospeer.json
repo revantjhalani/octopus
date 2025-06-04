@@ -1,0 +1,147 @@
+{
+  "id": 1020,
+  "name": "Prospeer",
+  "description": "Prospeer is Automate the most crucial yet time and cost consuming stages of the recruitment process. Unlock cost savings, revenue growth, and operational efficiency with our comprehensive, AI-driven qualitative hiring platform.",
+  "features": [
+    "Flexible plans",
+    "More feature Use case",
+    "Intuitive User Interface"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Onboarding software",
+    "Video interviewing software",
+    "Machine learning HR",
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Hiring efficiency",
+    "Talent sourcing"
+  ],
+  "headquarter": "Gurgaon",
+  "launch_date": "2021",
+  "order": 20963,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "AI-Driven Qualitative Hiring Platform",
+  "ProductId": null,
+  "ShortDescription": "Prospeer is an AI-driven qualitative hiring platform.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Streamlined Recruitment",
+      "sequence": 0,
+      "description": "Prospeer leverages AI to automate aspects of the hiring process, aiming to save companies time and resources when searching for qualified candidates. "
+    },
+    {
+      "name": "Improved Candidate Matching",
+      "sequence": 1,
+      "description": ": Prospeer's AI technology can analyze candidate profiles and job requirements, potentially leading to better matches between candidates and open position"
+    },
+    {
+      "name": "One-way Video Interviews",
+      "sequence": 2,
+      "description": "Prospeer uses one-way video interviews as part of their process. This can offer advantages like allowing candidates to interview at their own convenience and helping employers assess communication skills beyond a traditional resume."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:38:58.206Z",
+  "enhanced_description": "Prospeer is an AI-driven qualitative hiring platform designed to automate crucial, time, and cost-consuming stages of the recruitment process. It leverages AI to streamline recruitment, aiming to unlock cost savings, revenue growth, and operational efficiency. Key capabilities include improved candidate matching through AI analysis of profiles and job requirements, and the use of one-way video interviews to assess communication skills and offer candidate convenience.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Automating recruitment stages",
+    "Improving candidate matching",
+    "Conducting one-way video interviews",
+    "Accelerating hiring speed",
+    "Enhancing hiring efficiency",
+    "Talent sourcing"
+  ],
+  "competitive_advantages": [
+    "AI-driven qualitative hiring platform",
+    "Automation of time and cost-consuming recruitment stages",
+    "Improved candidate matching through AI",
+    "One-way video interviewing capability",
+    "Intuitive User Interface",
+    "Potential for cost savings and operational efficiency"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Candidate Screening",
+    "Video Interviewing",
+    "Onboarding"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Machine Learning"
+  ],
+  "roi_benefits": [
+    "Cost savings",
+    "Revenue growth",
+    "Operational efficiency",
+    "Faster hiring",
+    "More efficient hiring",
+    "Time savings in recruitment",
+    "Resource savings in recruitment"
+  ],
+  "searchable_keywords": [
+    "Prospeer",
+    "Recruitment",
+    "Hiring",
+    "AI",
+    "Artificial Intelligence",
+    "Qualitative Hiring",
+    "Automated Recruitment",
+    "Cost Savings",
+    "Operational Efficiency",
+    "Revenue Growth",
+    "Talent Acquisition",
+    "Candidate Matching",
+    "Video Interviewing",
+    "One-way Video",
+    "Machine Learning HR",
+    "Hiring Speed",
+    "Hiring Efficiency",
+    "Talent Sourcing",
+    "Recruiting Software",
+    "Onboarding Software"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Recruiters",
+    "Hiring Managers"
+  ],
+  "_weight": 1
+}

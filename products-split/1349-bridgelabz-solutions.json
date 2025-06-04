@@ -1,0 +1,130 @@
+{
+  "id": 1349,
+  "name": "BridgeLabz Solutions",
+  "description": "BridgeLabz, an AWS recognized incubator, focuses on enhancing tech employability. Partnering with 700+ leading tech firms like Yatra and Capgemini, it has placed over 6000 engineers. Recognized with the Business World Techtor Award 2020 and securing 2nd place at the Global Edtech Startup Awards 2019, it's also a top 100 startup as per the Maharashtra government. BridgeLabz collaborates with NSDC and Yunus Social Fund for skill development and innovation.",
+  "features": [
+    "Code Like a Pro",
+    "Real Projects, Real Results",
+    "Land Your Dream Job"
+  ],
+  "founders": [
+    "Vishal Choksi",
+    "Manoj Barot"
+  ],
+  "price": [],
+  "business_objectives": [],
+  "categories": [],
+  "sub_categories": [],
+  "tags": [
+    "Emplyee coaching\nEmplyee development\n\nLearning"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2016",
+  "order": 999,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Nurturing Engineers through our Experiential Fellowship Program",
+  "ProductId": null,
+  "ShortDescription": "BridgeLabz helps in Bridging the Gap Between Talent and Opportunity.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Fast-Track to Job-Ready",
+      "sequence": 0,
+      "description": " Master in-demand skills in just 16 weeks with 500+ coding hours. "
+    },
+    {
+      "name": "Expert Mentorship",
+      "sequence": 1,
+      "description": "Learn from the best with a 1:10 mentor ratio. "
+    },
+    {
+      "name": "Live & Interactive",
+      "sequence": 2,
+      "description": "100% live sessions for active learning."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-12T06:08:36.197Z",
+  "enhanced_description": "BridgeLabz, an AWS recognized incubator, offers an Experiential Fellowship Program designed to enhance tech employability and bridge the gap between talent and opportunity. The program is a fast-track to job-readiness, enabling individuals to master in-demand skills in just 16 weeks, involving over 500 coding hours. It features expert mentorship with a 1:10 mentor ratio and is delivered through 100% live and interactive sessions for active learning. BridgeLabz emphasizes real projects for real results, aiming to help participants land their dream job. They have successfully placed over 6000 engineers by partnering with 700+ leading tech firms including Yatra and Capgemini. The organization has received significant recognition, including the Business World Techtor Award 2020 and securing 2nd place at the Global Edtech Startup Awards 2019, and is listed as a top 100 startup by the Maharashtra government. BridgeLabz also collaborates with NSDC and Yunus Social Fund for skill development and innovation.",
+  "target_industries": [
+    "Technology"
+  ],
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Tech talent development for job readiness",
+    "Engineer placement services",
+    "Skill enhancement and upskilling programs",
+    "Experiential learning for aspiring engineers",
+    "Building a pipeline of job-ready tech talent for companies"
+  ],
+  "competitive_advantages": [
+    "AWS recognized incubator status",
+    "Extensive network of 700+ leading tech firm partners for placements",
+    "Proven track record with over 6000 engineers placed",
+    "Award-winning recognition (Business World Techtor Award 2020, Global Edtech Startup Awards 2019)",
+    "Government recognition (Top 100 startup as per Maharashtra government)",
+    "Partnerships with NSDC and Yunus Social Fund for skill development",
+    "Structured 16-week, 500+ coding hour experiential fellowship program",
+    "High-quality expert mentorship with a 1:10 mentor ratio",
+    "100% live and interactive learning sessions",
+    "Focus on real projects for practical experience"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Talent Acquisition",
+    "Employee Coaching",
+    "Employee Development",
+    "Workforce Planning (by providing skilled talent)"
+  ],
+  "roi_benefits": [
+    "For individuals (engineers): Accelerated career readiness (16 weeks), acquisition of in-demand tech skills, improved job placement prospects, access to expert mentorship and real-world project experience.",
+    "For partner companies: Access to a pool of pre-trained, job-ready engineers; reduced time-to-hire for tech roles; enhanced tech talent pipeline; partnership with an award-winning and recognized talent incubator."
+  ],
+  "searchable_keywords": [
+    "BridgeLabz",
+    "tech employability",
+    "engineer placement",
+    "skill development",
+    "experiential learning",
+    "fellowship program",
+    "job readiness",
+    "coding bootcamp",
+    "tech talent",
+    "HR tech",
+    "talent acquisition",
+    "learning and development",
+    "employee coaching",
+    "employee development",
+    "workforce development",
+    "career accelerator"
+  ],
+  "primary_users": [
+    "Aspiring Engineers",
+    "Tech Professionals seeking upskilling",
+    "HR Departments of Tech Firms (as beneficiaries of talent pool)"
+  ],
+  "_weight": 1
+}

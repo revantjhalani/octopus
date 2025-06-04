@@ -1,0 +1,209 @@
+{
+  "id": 1262,
+  "name": "EduThrill",
+  "description": "Talent Titan's SAAS and TurnKey Recruitment and Training solutions revolutionise Hiring and Workforce development. With well-integrated, automated solutions for Candidate Attraction, Gamified Assessments/AI screening and Candidate Engagement, Talent Titan streamlines the entire Talent Attraction workflow to enable Talent Acquisition teams across the globe higher Top Talent at scale. Our unique Training solutions enable organizations to train their distributed workforces in a standardized and scalable manner.",
+  "features": [
+    "AI-Driven End-To-End Hiring: Carnival-style hiring drives with fully automated, integrated workflow enabling branding, sourcing and filtering of candidates for experienced as well as graduate hiring",
+    "SaaS Based Assessment Solutions: JD-specific Gamified assessments powered by a library with 500K+ questions covering all major roles in MCQ, Subjective, Coding, Video based formats made available through EduThrill platform",
+    "Digitized Employee Induction: Gamified Micro learning modules covering key new Employee Induction & Initiation steps across the Org and Business Unit in a standard and rewarding format"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Talent Management"
+  ],
+  "sub_categories": [],
+  "tags": [
+    "Quick Hiring",
+    "Hiring speed"
+  ],
+  "headquarter": "Hyderabad, Telangana",
+  "launch_date": "2017",
+  "order": 21090,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Offerings range from End-to-End Hiring, Employer Branding, and L&D solutions for corporate to Proctored Examinations and Interview Preparation Assessment solutions for Institutes. We also help students prepare for various exams and job seekers in preparing and landing on the job of their dreams.",
+  "ProductId": null,
+  "ShortDescription": " India\u2019s First Artificial Intelligence (AI) Driven Gamified Platform For Hiring, Learning, Assessment And Engagement",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [
+    "Lever",
+    "Darwinbox",
+    "Zoho Recruit",
+    "TurboHire"
+  ],
+  "Highlights": [
+    {
+      "name": "Data-Driven Assessments",
+      "sequence": 0,
+      "description": "Revolutionize your hiring process with data-driven assessments curated specifically and automatically for each and every job description."
+    },
+    {
+      "name": "Volume Hiring",
+      "sequence": 1,
+      "description": "Accelerate volume hiring with our AI-powered talent acquisition tools: brand, source, assess, filter & schedule with a uniquely streamlined process."
+    },
+    {
+      "name": "Learning Management",
+      "sequence": 2,
+      "description": "Elevate employee learning and training processes, and drive better engagement and productivity, all while you grow your team\u2019s skills to take on larger challenges."
+    },
+    {
+      "name": "Talent Lifecycle Suite",
+      "sequence": 3,
+      "description": "Our end-to-end solution spans talent acquisition, assessments, recruitment marketing and enriched training & engagement."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": true,
+  "PublishedAt": "2024-03-05T11:13:29.867Z",
+  "enhanced_description": "EduThrill, offered by Talent Titan, is presented as India's first Artificial Intelligence (AI) driven gamified platform designed as a comprehensive Talent Lifecycle Suite. It provides SAAS and TurnKey solutions to revolutionize end-to-end hiring, employer branding, and workforce development. The platform offers well-integrated, automated workflows for candidate attraction, AI screening, and gamified assessments, enabling talent acquisition teams to efficiently source, filter, and hire top talent at scale, specifically accelerating volume hiring drives. Beyond recruitment, EduThrill delivers unique training solutions, including digitized, gamified micro-learning modules for employee induction and a robust learning management system, supporting standardized and scalable workforce development for distributed teams. Its offerings also extend to proctored examinations and interview preparation assessments, catering to a diverse audience including corporations, institutes, students, and job seekers.",
+  "target_industries": [
+    "Education"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "End-to-End Hiring",
+    "Volume Hiring",
+    "Candidate Attraction",
+    "Gamified Assessments",
+    "AI Screening",
+    "Employee Induction/Onboarding",
+    "Learning & Development",
+    "Workforce Development",
+    "Proctored Examinations",
+    "Interview Preparation Assessments",
+    "Employer Branding",
+    "Recruitment Marketing"
+  ],
+  "competitive_advantages": [
+    "AI-Driven Platform",
+    "Gamified Solutions",
+    "End-to-End Talent Lifecycle Suite",
+    "Automated & Integrated Workflow",
+    "Data-Driven Assessments",
+    "JD-specific Assessment Curation",
+    "Extensive Assessment Question Library (500K+ questions)",
+    "Standardized & Scalable Training for Distributed Workforces",
+    "Streamlined Talent Attraction Process",
+    "Carnival-style hiring drives"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Recruitment",
+    "Hiring",
+    "Talent Acquisition",
+    "Workforce Development",
+    "Training",
+    "Learning & Development (L&D)",
+    "Onboarding",
+    "Employee Induction",
+    "Employer Branding",
+    "Recruitment Marketing",
+    "Assessments",
+    "Employee Engagement"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "SaaS",
+    "Gamification"
+  ],
+  "integration_capabilities": [
+    "Lever",
+    "Darwinbox",
+    "Zoho Recruit",
+    "TurboHire"
+  ],
+  "roi_benefits": [
+    "Higher top talent acquisition at scale",
+    "Standardized and scalable workforce training",
+    "Boost in hiring manager confidence and productivity",
+    "Accelerated hiring speed",
+    "Streamlined talent attraction workflow",
+    "Improved employee engagement (through learning)",
+    "Increased employee productivity (through learning)",
+    "Enhanced skill growth for teams"
+  ],
+  "searchable_keywords": [
+    "EduThrill",
+    "Talent Titan",
+    "Recruitment",
+    "Training",
+    "Hiring",
+    "Workforce Development",
+    "Candidate Attraction",
+    "Gamified Assessments",
+    "AI Screening",
+    "Candidate Engagement",
+    "Talent Acquisition",
+    "Employee Induction",
+    "Micro learning",
+    "Talent Management",
+    "Quick Hiring",
+    "Hiring speed",
+    "End-to-End Hiring",
+    "Employer Branding",
+    "L&D solutions",
+    "Proctored Examinations",
+    "Interview Preparation Assessment",
+    "AI Driven Platform",
+    "Learning Platform",
+    "Assessment Platform",
+    "Engagement Platform",
+    "Data-Driven Assessments",
+    "Volume Hiring",
+    "Learning Management",
+    "Talent Lifecycle Suite",
+    "SaaS HR Tech",
+    "TurnKey HR Solution",
+    "Automated Hiring",
+    "JD-specific Assessments",
+    "Coding Assessments",
+    "Video Assessments",
+    "MCQ Assessments",
+    "Subjective Assessments",
+    "Employee Onboarding"
+  ],
+  "primary_users": [
+    "Talent Acquisition Teams",
+    "Hiring Managers",
+    "Organizations (Corporate)",
+    "Employees",
+    "Distributed Workforces",
+    "Institutes",
+    "Students",
+    "Job Seekers"
+  ],
+  "deployment_options": [
+    "SaaS"
+  ],
+  "scalability_features": [
+    "Designed to train distributed workforces in a standardized and scalable manner",
+    "Enables hiring of top talent at scale"
+  ],
+  "_weight": 1
+}

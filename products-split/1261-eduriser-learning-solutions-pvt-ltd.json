@@ -1,0 +1,157 @@
+{
+  "id": 1261,
+  "name": "EduRiser Learning Solutions Pvt. Ltd",
+  "description": "The EduRiser way of Design, Development and Delivery of learning solutions transforms the learners by elevating his/her skills, gives them the confidence to outshine at their work, making a significant contribution to their personal and organisational growth.",
+  "features": [
+    "Power-packed learning solutions focused on learner experience. E-learning solutions that are interactive, promote participative learning, encourage group dynamics while being learner centric and engaging.",
+    "The Next-Generation Corporate Learning Platform. The robust technology supporting our learning suite (CKLS) provides flexibility to deliver comprehensive content from multiple resources.",
+    "Learner Engagement through a wide variety of activities, including open questions, polls, on-the-job assignments, to list a few. Mobile-friendly, intuitive, effortless navigation delivers an unmatched user experience. Motivates learners individually and collectively as a peer."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training management system",
+    "Training & development companies",
+    "Course authoring"
+  ],
+  "tags": [
+    "Skill development",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning efficiency",
+    "Personalised learning"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2010",
+  "order": 21089,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "EduRiser facilitates how the learner transforms the knowledge to the application of the learning in an actual work situation to create impact for the learner and the client organisations.",
+  "ProductId": null,
+  "ShortDescription": "Skills are the new currency. Our E-Learning solutions go beyond \u2018resilience\u2019 and \u2018digital fluency\u2019, the two most desirable skills globally.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [
+    "Vector Solutions",
+    "CrossKnowledge"
+  ],
+  "Highlights": [
+    {
+      "name": "Grounded in the 'Science of Learning', Application-oriented, World-class Content Library.",
+      "sequence": 0,
+      "description": "Rich, Comprehensive, High Impact Learning Experience"
+    },
+    {
+      "name": "Strategic Partnership with CrossKnowledge (A Wiley Brand), and Vector Solutions",
+      "sequence": 1,
+      "description": "Premium Content from the Global Best Institutes, Top-notch Mentors, Management Professors and Authors backed by the state-of-the-art Technology"
+    },
+    {
+      "name": "Leadership Broad, In-depth, Practical Learning Solutions Ideal for Individual Contributors and People Across Different Management LevelsTraining | Behavioural Effectiveness | Managerial Development  Functional Skills | Technical Skill Development",
+      "sequence": 2,
+      "description": "Leadership Training | Behavioural Effectiveness | Managerial Development  Functional Skills | Technical Skill Development"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": true,
+  "PublishedAt": "2024-03-05T11:13:28.887Z",
+  "enhanced_description": "EduRiser Learning Solutions Pvt. Ltd specializes in the design, development, and delivery of e-learning solutions that transform learners by elevating their skills and confidence, leading to significant personal and organizational growth. As a next-generation corporate learning platform (CKLS), EduRiser offers robust, mobile-friendly technology supporting interactive, participative, and engaging learner experiences. Its solutions are application-oriented, grounded in the 'Science of Learning', and include a world-class content library, delivering comprehensive content from multiple resources. EduRiser focuses on accelerating skill development and learning efficiency, offering diverse content spanning leadership training, behavioural effectiveness, managerial development, functional skills, and technical skill development. The platform engages learners through activities like open questions, polls, and on-the-job assignments, ensuring an intuitive and effortless user experience. Strategic partnerships with CrossKnowledge (A Wiley Brand) and Vector Solutions provide access to premium content and state-of-the-art technology, enabling learners to apply knowledge directly to work situations for tangible impact.",
+  "ideal_company_sizes": [
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerate skill development",
+    "Improve learning efficiency",
+    "Employee skill elevation and confidence building",
+    "Facilitate application of learning in real work situations",
+    "Provide corporate learning and development programs",
+    "Deliver leadership training",
+    "Enhance behavioural effectiveness",
+    "Support managerial development",
+    "Develop functional skills",
+    "Develop technical skills"
+  ],
+  "competitive_advantages": [
+    "Focus on learner experience and engagement",
+    "Interactive, participative, and group dynamic-oriented e-learning solutions",
+    "Robust, next-generation corporate learning platform (CKLS)",
+    "Flexibility to deliver comprehensive content from multiple resources",
+    "Mobile-friendly, intuitive, and effortless user experience",
+    "Features for learner motivation (individual and peer-based)",
+    "Learning solutions grounded in the 'Science of Learning' and application-oriented",
+    "World-class content library",
+    "Strategic partnerships with CrossKnowledge (A Wiley Brand) and Vector Solutions for premium content and technology",
+    "Broad, in-depth, practical learning solutions suitable for all management levels and individual contributors"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Training Management",
+    "Course Authoring"
+  ],
+  "integration_capabilities": [
+    "Vector Solutions",
+    "CrossKnowledge"
+  ],
+  "roi_benefits": [
+    "Elevation of learner skills",
+    "Increased learner confidence and work performance",
+    "Significant contribution to personal and organizational growth",
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Enhanced training effectiveness",
+    "Successful application of learning in actual work situations to create impact"
+  ],
+  "searchable_keywords": [
+    "E-learning",
+    "Corporate Learning",
+    "Skill Development",
+    "Training Management System",
+    "Learning Platform",
+    "Training & Development",
+    "Course Authoring",
+    "Skill Acquisition",
+    "Learning Efficiency",
+    "Personalised Learning",
+    "Leadership Training",
+    "Behavioural Effectiveness",
+    "Managerial Development",
+    "Functional Skills",
+    "Technical Skills",
+    "Learner Engagement",
+    "Mobile Learning",
+    "Interactive Learning",
+    "Application-oriented Learning",
+    "Content Library"
+  ],
+  "primary_users": [
+    "Learners",
+    "Individual Contributors",
+    "Managers",
+    "Leaders",
+    "Client Organizations (admin/L&D teams)"
+  ],
+  "_weight": 1
+}

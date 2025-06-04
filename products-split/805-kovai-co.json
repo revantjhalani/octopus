@@ -1,0 +1,126 @@
+{
+  "id": 805,
+  "name": "Kovai.co",
+  "description": "Our Founder, Saravana Kumar after 10 years of working as a software consultant in London identified a gap in the availability of necessary tools in the market when it comes to managing and monitoring Microsoft BizTalk Server environments. In 2010, he was attending a Microsoft conference in Redmond, Washington and he floated an idea with fellow technology enthusiasts. After returning, he spent a year building the initial version. At the same conference, the following year (2011), he demonstrated what he had built and everyone was blown away seeing the potential of the product. He received a lot of feedback, fine tuned the product and finally launched it in June 2011 as BizTalk360 which is our first product. Within a couple of weeks, he received the first order from Hong Kong. Slowly but steadily the company started to grow organically.",
+  "features": [
+    "We have the honesty and integrity to admit when we are wrong and the courage to change.",
+    "Our customers inspire us to do great things. We strive to serve them exceeding their expectation.",
+    "We believe that powers of individuals are amplified through collaboration and teamwork."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Sales compensation software"
+  ],
+  "tags": [
+    "Software and Services Related to HR Software"
+  ],
+  "headquarter": "Sidcup , UK",
+  "launch_date": "2009",
+  "order": 20758,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "\"Necessity is the mother of invention\".",
+  "ProductId": null,
+  "ShortDescription": "Kovai.co is a premier enterprise software company offering multiple products at scale both in the Enterprise arena and in the B2B SaaS space.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Kovai.co: Enterprise Software and SaaS with AI",
+      "sequence": 0,
+      "description": "Kovai.co is a leading company in the enterprise software and SaaS industry. They offer exceptional software products powered by AI that deliver significant value to their customers."
+    },
+    {
+      "name": "Kovai.co Products",
+      "sequence": 1,
+      "description": "Kovai.co offers three main products: BizTalk360, Turbo360, and Document360. These products address different needs, including BizTalk server administration and monitoring, enterprise-grade Azure monitoring, and creation of online knowledge bases."
+    },
+    {
+      "name": "Kovai.co Team and Reach",
+      "sequence": 2,
+      "description": "Kovai.co has a large team of over 290 employees and serves more than 2500 customers worldwide, indicating their global presence and reach."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:47.881Z",
+  "enhanced_description": "Kovai.co is a premier enterprise software company and B2B SaaS provider, founded in 2009. The company's origin stems from its founder, Saravana Kumar, identifying a market gap for tools to manage and monitor Microsoft BizTalk Server environments. This led to the development and launch of their first product, BizTalk360, in June 2011. Today, Kovai.co offers multiple exceptional software products at scale, powered by AI, delivering significant value to their customers globally. Their core product portfolio includes BizTalk360 for Microsoft BizTalk server administration and monitoring, Turbo360 for enterprise-grade Azure monitoring, and Document360 for the creation of online knowledge bases. With a team of over 290 employees, Kovai.co serves more than 2500 large and global enterprise customers worldwide.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Microsoft BizTalk Server administration and monitoring",
+    "Enterprise-grade Azure monitoring",
+    "Creation of online knowledge bases"
+  ],
+  "competitive_advantages": [
+    "Products powered by AI",
+    "Exceptional software products"
+  ],
+  "technology_stack": [
+    "Microsoft BizTalk Server",
+    "Microsoft Azure",
+    "AI"
+  ],
+  "integration_capabilities": [
+    "Microsoft BizTalk Server",
+    "Microsoft Azure"
+  ],
+  "searchable_keywords": [
+    "Kovai.co",
+    "enterprise software",
+    "B2B SaaS",
+    "AI",
+    "BizTalk360",
+    "Turbo360",
+    "Document360",
+    "BizTalk server",
+    "Azure monitoring",
+    "knowledge base",
+    "software",
+    "monitoring",
+    "administration",
+    "UK",
+    "Microsoft",
+    "Total Rewards",
+    "Sales compensation software",
+    "HR Software"
+  ],
+  "primary_users": [
+    "IT professionals",
+    "System administrators",
+    "DevOps engineers",
+    "IT operations teams",
+    "Content creators",
+    "Technical writers",
+    "Customer support teams",
+    "Internal business users"
+  ],
+  "deployment_options": [
+    "SaaS"
+  ],
+  "_weight": 1
+}

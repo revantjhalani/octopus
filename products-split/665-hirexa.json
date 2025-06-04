@@ -1,0 +1,166 @@
+{
+  "id": 665,
+  "name": "Hirexa",
+  "description": "Hirexa Solutions is a leading player in the talent acquisition ecosystem, catering to clients across the United States, United Kingdom, Europe, and India. We specialize in providing next-generation technology talent, and our rapid growth has positioned us as a trusted name in the industry. Our core focus is on empowering our clients by connecting them with a highly skilled pool of technology professionals. By facilitating this talent acquisition process, we enable businesses to enhance productivity and efficiency within their operations. We recognize the significance of agility in today's fast-paced business landscape and offer support in adopting nimble structures to quickly adapt to market changes. ",
+  "features": [
+    "Talent Market Research",
+    "Payroll Services",
+    "Software Services"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Onboarding software",
+    "Staffing services providers",
+    "Recruitment agencies",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "Hiring efficiency",
+    "Quality of hire"
+  ],
+  "headquarter": "London, UK",
+  "launch_date": "2015",
+  "order": 20619,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Talent Acquisitions, International Mobility, Technology, Tech Interviews on Demand, Talent Market Research.",
+  "ProductId": null,
+  "ShortDescription": "Hirexa Solutions is a leading player in the talent acquisition ecosystem.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Global Mobility",
+      "sequence": 0,
+      "description": "We are constantly seeking to keep up with the latest immigration laws and practices, to help our clients abide by the law and work collaboratively to keep up their level of efficiency"
+    },
+    {
+      "name": "Software Services",
+      "sequence": 1,
+      "description": "Digital is at the heart of sustainable profitable growth. We help you make that a reality and embrace it with speed and confidence with our top-notch software services."
+    },
+    {
+      "name": "Payroll Services",
+      "sequence": 2,
+      "description": "Hirexa is capable of managing global governance and payroll to seamlessly integrate multiple legacy systems with highly experienced specialists to help your business grow"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:05.698Z",
+  "enhanced_description": "Hirexa Solutions is a leading global provider in the talent acquisition ecosystem, specializing in next-generation technology talent. Operating across the United States, United Kingdom, Europe, and India, Hirexa empowers clients by connecting them with a highly skilled pool of technology professionals to enhance productivity and efficiency. Their services facilitate agile business structures and include Talent Market Research, Tech Interviews on Demand, and comprehensive International and Global Mobility support to ensure compliance with immigration laws. Additionally, Hirexa offers Payroll Services, managing global governance and payroll, with the capability to seamlessly integrate multiple legacy systems, and provides Software Services aimed at driving digital transformation for sustainable business growth.",
+  "target_industries": [
+    "Technology"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Acquiring highly skilled technology professionals",
+    "Enhancing business productivity and efficiency through talent acquisition",
+    "Adopting agile business structures for market adaptability",
+    "Conducting talent market research",
+    "Managing global payroll and governance",
+    "Ensuring compliance with international immigration laws and practices for global talent mobility",
+    "Facilitating digital transformation through software services",
+    "Providing on-demand technology interviews",
+    "Boosting hiring manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "Specialization in next-generation technology talent acquisition",
+    "Global presence across the United States, United Kingdom, Europe, and India",
+    "Expertise in global mobility and immigration law compliance",
+    "Capability to manage global governance and payroll seamlessly",
+    "Ability to integrate with multiple legacy systems for payroll services",
+    "Offering 'Tech Interviews on Demand'"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Payroll",
+    "HR Consulting",
+    "Staffing Services",
+    "Global Mobility"
+  ],
+  "integration_capabilities": [
+    "Seamless integration with multiple legacy systems (for payroll and global governance)"
+  ],
+  "roi_benefits": [
+    "Enhanced business productivity and efficiency",
+    "Boosted hiring manager confidence",
+    "Increased hiring manager productivity",
+    "Improved organizational agility to adapt to market changes",
+    "Ensured compliance with immigration laws and practices",
+    "Supported sustainable profitable growth through digital transformation"
+  ],
+  "searchable_keywords": [
+    "Hirexa",
+    "Talent Acquisition",
+    "Recruiting",
+    "Hiring",
+    "Staffing",
+    "Recruitment Agencies",
+    "HR Consulting",
+    "Payroll Services",
+    "Software Services",
+    "Talent Market Research",
+    "Technology Talent",
+    "Tech Interviews on Demand",
+    "International Mobility",
+    "Global Mobility",
+    "Immigration",
+    "Hiring Manager Confidence",
+    "Hiring Manager Productivity",
+    "Hiring Efficiency",
+    "Quality of Hire",
+    "US",
+    "UK",
+    "Europe",
+    "India",
+    "Digital Transformation",
+    "Legacy System Integration"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Teams",
+    "Recruiters",
+    "Business Leaders"
+  ],
+  "compliance_features": [
+    "Compliance with immigration laws and practices",
+    "Global governance and payroll compliance"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,141 @@
+{
+  "id": 424,
+  "name": "Ask Your Team",
+  "description": "AskYourTeam is the employee experience platform with a difference. We put your needs front and centre, taking the time to truly understand your unique challenges and needs to deliver the outcomes you want.  We help to drive sustainable productivity, improve leader performance, create happier, safer more inclusive cultures, and offer the tailored support you need to make the biggest impact. Based in New Zealand and Australia, working globally, within organisations or supply chains.  \n",
+  "features": [
+    "Fully focused on your needs",
+    "Customised, not complicated",
+    "Direction where it matters most"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Total Rewards",
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Employee recognition software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning speed"
+  ],
+  "headquarter": "Hastings, Hawkes Bay",
+  "launch_date": "2014",
+  "order": 20384,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We help organisations to enhance performance and wellbeing. ",
+  "ProductId": null,
+  "ShortDescription": "Driving the change you need is easier with the right partner by your side.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Customer-focused",
+      "sequence": 0,
+      "description": "We define success uniquely for you, providing precise tools to meet your needs."
+    },
+    {
+      "name": "Expert guidance",
+      "sequence": 1,
+      "description": "Skilled team ensures real results in productivity and wellbeing."
+    },
+    {
+      "name": "Actionable insights",
+      "sequence": 2,
+      "description": "We pinpoint key improvements with easy tools and expert guidance."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:26:56.427Z",
+  "enhanced_description": "AskYourTeam is an employee experience platform that focuses on understanding and addressing an organization's unique challenges to deliver desired outcomes. It is designed to drive sustainable productivity, improve leader performance, and create happier, safer, and more inclusive cultures, ultimately enhancing overall performance and wellbeing. The platform is highly customer-focused, offering customized, not complicated, solutions with expert guidance to provide actionable insights where they matter most. Operating globally from New Zealand and Australia, Ask Your Team supports organizations of all sizes, including those within supply chains.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Driving sustainable productivity",
+    "Improving leader performance",
+    "Creating happier, safer, and more inclusive cultures",
+    "Accelerating skill development",
+    "Improving learning efficiency",
+    "Enhancing organizational performance",
+    "Improving employee wellbeing",
+    "Pinpointing key areas for improvement"
+  ],
+  "competitive_advantages": [
+    "Fully focused on customer needs",
+    "Customized and not complicated approach",
+    "Provides direction where it matters most",
+    "Customer-focused: defines success uniquely for each client, providing precise tools",
+    "Expert guidance: skilled team ensures real results in productivity and wellbeing",
+    "Actionable insights: pinpoints key improvements with easy tools and expert guidance"
+  ],
+  "hr_functions_supported": [
+    "Employee Experience",
+    "Employee Engagement",
+    "Performance Management",
+    "Learning & Development",
+    "Total Rewards",
+    "Recruiting",
+    "Employee Recognition"
+  ],
+  "roi_benefits": [
+    "Sustainable productivity",
+    "Improved leader performance",
+    "Happier, safer, and more inclusive cultures",
+    "Enhanced organizational performance",
+    "Improved employee wellbeing",
+    "Accelerated skill development",
+    "Increased learning efficiency"
+  ],
+  "searchable_keywords": [
+    "employee experience platform",
+    "productivity",
+    "leader performance",
+    "inclusive cultures",
+    "wellbeing",
+    "customized",
+    "tailored support",
+    "customer-focused",
+    "expert guidance",
+    "actionable insights",
+    "Total Rewards",
+    "Recruiting",
+    "Employee recognition software",
+    "Recruiting software",
+    "Skill development",
+    "Learning speed",
+    "performance enhancement"
+  ],
+  "primary_users": [
+    "Employees",
+    "Leaders",
+    "HR Professionals"
+  ],
+  "_weight": 1
+}

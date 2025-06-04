@@ -1,0 +1,134 @@
+{
+  "id": 540,
+  "name": "E42",
+  "description": "E42 is the world\u2019s leading AI and NLP-powered no-code platform to build AI co-workers that automate complex people- and process-centric processes across functions. Having worked with more than 60 enterprises, bringing their business process automation idea to life\u2014E42 is digitally transforming enterprises making them intelligent one AI co-worker at a time. This means not just huge cost savings but also innovation, disruption, and sustainable growth. E42\u2019s far-reaching impact goes beyond significant cost savings, enabling enterprises to embrace innovation, disruption, and sustainable growth. With the deployment of AI co-workers, enterprises are experiencing a paradigm shift in how they operate. Tedious and time-consuming as well as complex business processes are automated, allowing employees to focus on high-value activities that require creativity, critical thinking, and human expertise\u2014unleashing the potential for continuous innovation while unlocking new avenues for problem-solving.",
+  "features": [
+    "Work from your home or your friend\u2019s home or your friend\u2019s friend\u2019s home or our office in Pune \u2013 you choose!",
+    "Comprehensive health plan-We do, really believe in health first!",
+    "Quarterly Workation-Work from striking locations across the country, every quarter!"
+  ],
+  "founders": [
+    "Animesh Samuel",
+    "Sanjeev Menon"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Internet of things"
+  ],
+  "tags": [
+    "Learning efficiency",
+    "Training effectiveness"
+  ],
+  "headquarter": "Pune, Maharashtra",
+  "launch_date": "2012",
+  "order": 20500,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Empowering enterprises and humans alike with Cognitive Process Automation through AI co-workers!",
+  "ProductId": null,
+  "ShortDescription": "E42 is a no-code Cognitive Process Automation (CPA) platform to build AI.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:29:32.206Z",
+  "enhanced_description": "E42 is a leading AI and NLP-powered no-code Cognitive Process Automation (CPA) platform designed to build AI co-workers. It automates complex people- and process-centric processes across various functions, enabling enterprises to achieve significant cost savings, foster innovation, and drive sustainable growth. By automating tedious and time-consuming tasks, E42 allows employees to concentrate on high-value activities requiring creativity, critical thinking, and human expertise, thereby unlocking continuous innovation and problem-solving. A key business objective supported by E42 is accelerating skill development and learning efficiency, contributing to improved training effectiveness within organizations. The platform's capabilities are aimed at digitally transforming enterprises by making them intelligent, one AI co-worker at a time.",
+  "key_use_cases": [
+    "Automating complex people-centric business processes",
+    "Automating complex process-centric business processes",
+    "Digital transformation through AI co-workers",
+    "Achieving significant cost savings through automation",
+    "Freeing up human employees for high-value, creative, and critical thinking tasks",
+    "Accelerating skill development",
+    "Improving learning efficiency",
+    "Enhancing training effectiveness"
+  ],
+  "competitive_advantages": [
+    "AI and NLP-powered core technology",
+    "No-code platform for building AI co-workers",
+    "Enables huge cost savings for enterprises",
+    "Drives innovation and disruption within enterprises",
+    "Supports sustainable business growth",
+    "Facilitates focus on high-value human activities (creativity, critical thinking, human expertise)"
+  ],
+  "implementation_scenarios": [
+    "Building and deploying AI co-workers to automate business processes across functions",
+    "Implementing cognitive process automation for specific business needs"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development (specifically skill development and training effectiveness)",
+    "General HR process automation (for people-centric processes)"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Natural Language Processing (NLP)",
+    "No-code platform"
+  ],
+  "roi_benefits": [
+    "Significant cost savings",
+    "Increased innovation potential",
+    "Enables business disruption",
+    "Promotes sustainable growth",
+    "Enhanced employee focus on high-value activities",
+    "Continuous innovation",
+    "Unlocking new avenues for problem-solving",
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Improved training effectiveness"
+  ],
+  "searchable_keywords": [
+    "E42",
+    "AI",
+    "Artificial Intelligence",
+    "NLP",
+    "Natural Language Processing",
+    "No-code platform",
+    "AI co-workers",
+    "Automation",
+    "Business Process Automation",
+    "People-centric processes",
+    "Process-centric processes",
+    "Digital transformation",
+    "Cost savings",
+    "Innovation",
+    "Disruption",
+    "Sustainable growth",
+    "Cognitive Process Automation",
+    "CPA",
+    "Skill Development",
+    "Learning Efficiency",
+    "Training effectiveness",
+    "Technology",
+    "Internet of Things"
+  ],
+  "primary_users": [
+    "Business users or developers building automation solutions via the no-code platform",
+    "Employees interacting with AI co-workers and automated processes"
+  ],
+  "_weight": 1
+}

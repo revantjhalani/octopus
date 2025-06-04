@@ -1,0 +1,152 @@
+{
+  "id": 561,
+  "name": "Enhansen",
+  "description": "EnHansen Performance works with leaders, sales professionals and individuals to transform performance by using the Neuroscience of Leadership, Neuromarketing and Executive Coaching. It draws on the Neuroscience of Leadership and Emotional Intelligence research to provide managers with tangible facts and strategies on becoming an effective leader and producing high performance teams.",
+  "features": [
+    "Emotional Intelligence",
+    "PRISM Brain Mapping (world\u2019s first neuroscience-based online assessment tool)",
+    "Neuromarketing and Neurosales"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement",
+    "Accelerate Skill Development and Learning Efficiency",
+    "Build a More Diverse and Inclusive Workforce",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Talent Management",
+    "Learning and Development",
+    "Recruiting",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration services",
+    "Employee engagement software",
+    "Onboarding software",
+    "Training eLearning software",
+    "Staffing services providers",
+    "Recruitment agencies",
+    "Training management system",
+    "HR analytics software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Learning speed",
+    "Workforce diversity",
+    "Hiring analytics",
+    "Recruiting"
+  ],
+  "headquarter": "Sydney, NSW, AU",
+  "launch_date": "2003",
+  "order": 21165,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Transforming Managers & Individuals into Agile Leaders of Change & Performance",
+  "ProductId": null,
+  "ShortDescription": "EnHansen Performance provides leadership, sales and performance solutions using the latest neuroscience research. We have proven strategies to \u201cEMPOWER, PERSUADE and PERFORM with the BRAIN in mind\u201d.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:30:02.311Z",
+  "enhanced_description": "EnHansen Performance transforms managers and individuals into agile leaders of change and performance, leveraging the Neuroscience of Leadership, Neuromarketing, and Executive Coaching. The product provides leadership, sales, and performance solutions, drawing on Neuroscience of Leadership and Emotional Intelligence research to offer tangible facts and strategies for effective leadership and producing high-performance teams. It employs proven strategies to empower, persuade, and perform, all with the brain in mind.",
+  "key_use_cases": [
+    "Transforming leadership performance",
+    "Enhancing sales professional performance",
+    "Developing Emotional Intelligence",
+    "Conducting neuroscience-based online assessments (PRISM Brain Mapping)",
+    "Improving team performance and effectiveness",
+    "Applying Neuromarketing and Neurosales strategies",
+    "Accelerating skill development and learning efficiency",
+    "Improving employee engagement and happiness",
+    "Building a more diverse and inclusive workforce",
+    "Boosting hiring manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "Leverages Neuroscience of Leadership and Emotional Intelligence research for practical strategies",
+    "Utilizes PRISM Brain Mapping, described as the world\u2019s first neuroscience-based online assessment tool",
+    "Focuses on brain-centric strategies for empowerment, persuasion, and performance"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Learning and Development",
+    "Recruiting",
+    "Employee Engagement",
+    "Training Management",
+    "HR Analytics"
+  ],
+  "technology_stack": [
+    "Neuroscience-based online assessment tool (PRISM Brain Mapping)"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness and Engagement",
+    "Accelerated Skill Development and Learning Efficiency",
+    "Enhanced Workforce Diversity and Inclusion",
+    "Boosted Hiring Manager Confidence and Productivity"
+  ],
+  "searchable_keywords": [
+    "Enhansen",
+    "performance",
+    "leadership",
+    "neuroscience",
+    "neuromarketing",
+    "executive coaching",
+    "emotional intelligence",
+    "PRISM Brain Mapping",
+    "online assessment",
+    "neurosales",
+    "talent management",
+    "learning and development",
+    "recruiting",
+    "employee engagement",
+    "training",
+    "eLearning",
+    "HR analytics",
+    "skill development",
+    "learning efficiency",
+    "training effectiveness",
+    "learning speed",
+    "workforce diversity",
+    "hiring analytics",
+    "managers",
+    "individuals",
+    "agile leaders",
+    "change management",
+    "high-performance teams"
+  ],
+  "primary_users": [
+    "Leaders",
+    "Sales Professionals",
+    "Individuals",
+    "Managers",
+    "Hiring Managers"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "Online assessment tool"
+  ],
+  "_weight": 1
+}

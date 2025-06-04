@@ -1,0 +1,147 @@
+{
+  "id": 1757,
+  "name": "HireMatch",
+  "description": "We are changing the job market. We believe that the best candidates come from recommendations. That is why we have created a crowd staffing recruitment model that is unique on the market and based on an international community of HR experts. Our process allows us to source matched candidates faster than agencies operating under traditional models.",
+  "features": [
+    "740+ Company Worldwide",
+    "999+ People Hired",
+    "95% Satisfied User"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management",
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "HR management suites",
+    "Employee engagement software",
+    "Core HR Software"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Quick Hiring",
+    "Hiring efficiency"
+  ],
+  "headquarter": "Hayward, California",
+  "launch_date": "2004",
+  "order": 21338,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We help job seekers find their perfect match",
+  "ProductId": null,
+  "ShortDescription": "Remove the barriers to growth by scaling your team fast with top-notch United States IT talent",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": " Get in touch",
+      "sequence": 0,
+      "description": "Tell us all about your project and the profiles you\u2019re looking for and our staffing team will begin a search right away."
+    },
+    {
+      "name": " Meet your team",
+      "sequence": 1,
+      "description": "After we find you some potential teammates, it\u2019s time to see for yourself who all is a fit."
+    },
+    {
+      "name": " Hassle-free nearshoring",
+      "sequence": 2,
+      "description": "Collaborate and let your nearsure team become fully integrated with yours to achieve your goals."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-07-11T08:50:08.095Z",
+  "enhanced_description": "HireMatch offers a unique crowd staffing recruitment model, leveraging an international community of HR experts to source matched candidates faster than traditional agencies. This approach is designed to help companies quickly scale their teams, particularly with top-notch IT talent from the United States, thereby removing barriers to growth and filling open positions more quickly. The process involves submitting project requirements, receiving potential candidate matches, and facilitating the seamless integration of new nearsure team members.",
+  "target_industries": [
+    "Information Technology"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Mid-market",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Rapid talent acquisition for IT roles",
+    "Efficient candidate sourcing and matching",
+    "Accelerated team growth and scaling",
+    "Nearshoring/offshoring IT talent",
+    "Filling open positions quickly"
+  ],
+  "competitive_advantages": [
+    "Unique crowd-staffing recruitment model",
+    "Leverages an international community of HR experts",
+    "Faster candidate sourcing compared to traditional agencies",
+    "Focus on sourcing top-notch IT talent from the United States",
+    "Ability to quickly scale client teams"
+  ],
+  "implementation_scenarios": [
+    "Nearshoring IT team integration"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Staffing",
+    "Talent Management"
+  ],
+  "roi_benefits": [
+    "Faster time-to-hire",
+    "Improved hiring efficiency",
+    "Accelerated team growth",
+    "Access to high-quality IT talent",
+    "Increased user satisfaction (95%)"
+  ],
+  "searchable_keywords": [
+    "HireMatch",
+    "recruitment",
+    "talent acquisition",
+    "quick hiring",
+    "hiring efficiency",
+    "crowd staffing",
+    "IT talent",
+    "nearshoring",
+    "global HR experts",
+    "fast sourcing",
+    "team scaling",
+    "candidate matching",
+    "talent management",
+    "HR technology",
+    "staffing solution",
+    "US IT talent"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "Recruiting Teams",
+    "HR Leaders"
+  ],
+  "scalability_features": [
+    "Designed to help companies scale their teams fast",
+    "Crowd staffing model allows for scalable sourcing"
+  ],
+  "_weight": 1
+}

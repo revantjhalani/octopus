@@ -1,0 +1,159 @@
+{
+  "id": 349,
+  "name": "World at Work",
+  "description": "WorldatWork brings together the best professionals from around the world to provide the foremost education, leadership and community dedicated to elevating employee experiences and organizational performance. For over 65 years, WorldatWork has set the standard in rewards best practices, professional development and human capital leadership. Over 90% of the Global 500 companies trust and rely on WorldatWork education and certified professionals to power their employee rewards, engagement and retention efforts. Our mission is to make the world a great place by providing education, leadership and community to elevate employee experiences and driving organizational performance.",
+  "features": [
+    "Financial Benefits",
+    "Health Benefits",
+    "Insurance Benefits"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency",
+    "Improve Employee Happiness and Engagement",
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Total Rewards",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Workforce management",
+    "Performance management solutions",
+    "Performance Review software",
+    "Training eLearning software"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Learning speed",
+    "Workforce diversity"
+  ],
+  "headquarter": "Scottsdale, Arizona",
+  "launch_date": "1955",
+  "order": 20311,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "WorldatWork brings together professionals dedicated to elevating employee experiences & performance through rewards.",
+  "ProductId": null,
+  "ShortDescription": "WorldatWork brings together professionals dedicated to elevating employee experiences & performance through rewards.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Fuel Your Career & Your Impact",
+      "sequence": 0,
+      "description": "WorldatWork will help you gain the in-demand Total Rewards skills and credentials trusted by HR professionals from over 93% of Fortune 500 companies."
+    },
+    {
+      "name": "Together, We Can Make the Workplace Better",
+      "sequence": 1,
+      "description": "WorldatWork serves rewards and HR professionals working throughout the world, in organizations of all sizes and in every industry."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:53.664Z",
+  "enhanced_description": "WorldatWork is a global professional association and education provider dedicated to elevating employee experiences and organizational performance, primarily through expertise in Total Rewards. For over 65 years, WorldatWork has set the standard in rewards best practices, professional development, and human capital leadership. They provide education, leadership, and community to help professionals gain in-demand Total Rewards skills and credentials. Over 90% of the Global 500 companies trust and rely on WorldatWork education and certified professionals to power their employee rewards, engagement, and retention efforts. WorldatWork serves rewards and HR professionals in organizations of all sizes and industries worldwide.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Professional development and skill enhancement in Total Rewards",
+    "Establishing best practices in compensation, benefits, and rewards",
+    "Improving employee engagement and retention through effective rewards strategies",
+    "Accelerating HR skill development and learning efficiency",
+    "Fostering workforce diversity and inclusion",
+    "Elevating overall employee experiences and organizational performance"
+  ],
+  "competitive_advantages": [
+    "Over 65 years of established expertise and legacy in rewards and HR",
+    "Recognized as setting the standard in rewards best practices, professional development, and human capital leadership",
+    "High trust and reliance from a significant majority of Global 500 and Fortune 500 companies for education and certified professionals",
+    "Provides in-demand Total Rewards skills and credentials",
+    "Global community and network of rewards and HR professionals"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards",
+    "Compensation Management",
+    "Benefits Administration",
+    "Learning and Development",
+    "Talent Management",
+    "Performance Management",
+    "Workforce Management",
+    "Employee Engagement",
+    "Employee Retention",
+    "Diversity and Inclusion"
+  ],
+  "roi_benefits": [
+    "Improved employee engagement and retention",
+    "Enhanced organizational performance",
+    "Accelerated skill development and learning efficiency for HR professionals",
+    "Stronger foundation in rewards best practices leading to better employee experiences",
+    "Development of a more diverse and inclusive workforce"
+  ],
+  "searchable_keywords": [
+    "WorldatWork",
+    "Total Rewards",
+    "HR education",
+    "HR certification",
+    "Professional development",
+    "Employee benefits",
+    "Compensation",
+    "Rewards best practices",
+    "Human capital leadership",
+    "Talent management",
+    "Learning and development",
+    "Skill development",
+    "Employee engagement",
+    "Employee retention",
+    "Workforce management",
+    "Performance management",
+    "Diversity and inclusion",
+    "HR community",
+    "Training",
+    "eLearning",
+    "LXP",
+    "Financial benefits",
+    "Health benefits",
+    "Insurance benefits",
+    "Training effectiveness",
+    "Global 500",
+    "Fortune 500"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Total Rewards Professionals",
+    "Compensation Professionals",
+    "Benefits Professionals",
+    "Talent Management Professionals",
+    "Learning and Development Professionals"
+  ],
+  "_weight": 1
+}

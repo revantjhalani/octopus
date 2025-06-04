@@ -1,0 +1,161 @@
+{
+  "id": 260,
+  "name": "Rolling Arrays",
+  "description": "Rolling arrays journey started in 2009, helping enterprises drive value from HR Tech solutions to attract, develop, and retain best-fit talent. Over the years, our good work helped us to be recognized as a great HR Transformation Solutions partner in the APAC. We honed our expertise in HR Tech Consulting, diving into SAP Success Factors implementation to help script people-centric success for our clients. Create positive Human Experience across our customers and employees. For our customers, we strive to achieve our purpose by designing HR Process and HR systems that accelerate their professional growth. For our employees, we constantly nurture a culture of care, growth and gratitude.",
+  "features": [
+    "SAP SuccessFactors Align",
+    "SAP SuccessFactors Automate",
+    "SAP SuccessFactors Adopt"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software",
+    "Human Capital Management"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting"
+  ],
+  "headquarter": "Singapore, Singapore",
+  "launch_date": "2009",
+  "order": 20225,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Driving SAP SuccessFactors led HR Transformation since 2009",
+  "ProductId": null,
+  "ShortDescription": "Leaders In HR Tech Consulting With SF As Our Ace",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "SAP SuccessFactors Consulting",
+      "sequence": 0,
+      "description": "Integrates SAP modules with HR Tech expertise for streamlined workflow."
+    },
+    {
+      "name": "Implementation",
+      "sequence": 1,
+      "description": "Deploys full suite or specific modules for optimized solutions."
+    },
+    {
+      "name": "Change Management",
+      "sequence": 2,
+      "description": "Drives adoption and enhances functionality post-implementation through feedback and configuration."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:15.189Z",
+  "enhanced_description": "Rolling Arrays, established in 2009, is a recognized HR Technology consulting and HR Transformation solutions partner with extensive expertise in SAP SuccessFactors implementation. Operating primarily in the APAC region, they help a wide range of enterprises, including Small, Large, and Global organizations, to attract, develop, and retain best-fit talent. Their comprehensive service offerings include SAP SuccessFactors Consulting for integrating SAP modules and streamlining workflows, full suite or specific module Implementation for optimized solutions, and robust Change Management to drive adoption and enhance functionality post-implementation. Rolling Arrays focuses on designing people-centric HR processes and systems to create a positive Human Experience, accelerate professional growth, and boost outcomes such as Hiring Manager confidence and productivity.",
+  "target_industries": [],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Driving HR Transformation initiatives",
+    "Implementing SAP SuccessFactors solutions",
+    "Optimizing HR processes and systems",
+    "Streamlining HR workflows through SAP module integration",
+    "Improving talent attraction, development, and retention strategies",
+    "Enhancing Human Experience across the workforce",
+    "Boosting Hiring Manager confidence and productivity",
+    "Managing change and ensuring adoption of new HR technologies",
+    "Deploying full SAP SuccessFactors suites or specific modules"
+  ],
+  "competitive_advantages": [
+    "Specialized expertise in SAP SuccessFactors implementation and consulting",
+    "Proven track record since 2009 in HR Tech Consulting and HR Transformation",
+    "Recognized as a leading HR Transformation Solutions partner in APAC",
+    "Comprehensive service offerings including Consulting, Implementation, and Change Management for SAP SuccessFactors",
+    "Ability to serve a broad range of company sizes from small to global enterprises"
+  ],
+  "implementation_scenarios": [
+    "Full SAP SuccessFactors suite deployment",
+    "Specific SAP SuccessFactors module deployment"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Hiring",
+    "Talent Management",
+    "Performance Management",
+    "Learning & Development",
+    "Core HR",
+    "Human Capital Management"
+  ],
+  "technology_stack": [
+    "SAP SuccessFactors",
+    "SAP modules"
+  ],
+  "integration_capabilities": [
+    "Integration of SAP modules with HR Tech expertise"
+  ],
+  "roi_benefits": [
+    "Drives value from HR Tech solutions",
+    "Accelerates professional growth",
+    "Boosts Hiring Manager Confidence and Productivity",
+    "Creates positive Human Experience",
+    "Enables people-centric success",
+    "Streamlines HR workflows",
+    "Optimizes HR solutions",
+    "Enhances functionality post-implementation"
+  ],
+  "searchable_keywords": [
+    "Rolling Arrays",
+    "HR Tech Consulting",
+    "HR Transformation",
+    "SAP SuccessFactors",
+    "SAP SuccessFactors Implementation",
+    "SAP SuccessFactors Consulting",
+    "SAP SuccessFactors Change Management",
+    "HCM",
+    "HRMS",
+    "Human Capital Management",
+    "Core HR Software",
+    "Hiring",
+    "Recruiting",
+    "Talent Management",
+    "HR Process Design",
+    "HR Systems",
+    "Human Experience",
+    "APAC",
+    "SAP Modules"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Business Leaders",
+    "Hiring Managers",
+    "Client Employees (as end-users of implemented HR systems)"
+  ],
+  "scalability_features": [
+    "Capable of serving small, large, and global enterprises"
+  ],
+  "_weight": 1
+}

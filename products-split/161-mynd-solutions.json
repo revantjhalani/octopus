@@ -1,0 +1,185 @@
+{
+  "id": 161,
+  "name": "Mynd Solutions",
+  "description": "Mynd Integrated Solutions is a leading global service provider in business process and technology management, offering broad spectrum of services in Finance and Accounting (FAO), Human Resource Outsourcing (HRO), Information Technology (IT) and Consulting. Our team of subject matter experts have the right blend of technology and effective business process experience to help you fully realize the benefits of process improvements. Mynd Integrated Solutions provides significant value beyond the technology.",
+  "features": [
+    "Web-based solution on cloud",
+    "Backend processing services",
+    "Automation-driven solution"
+  ],
+  "founders": [
+    "Saurav Wadhwa"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "Other / technology",
+    "HRMS / HCM",
+    "Recruiting",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Blockchain",
+    "Core HR Software",
+    "Recruitment marketing platforms"
+  ],
+  "tags": [
+    "Recruiting efficiency",
+    "Talent acquisition"
+  ],
+  "headquarter": "Gurgaon, Haryana",
+  "launch_date": "2002",
+  "order": 20128,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Propel your business to new heights of efficiency with Mynd",
+  "ProductId": null,
+  "ShortDescription": "Business growth fuelled by a combination of human and artificial intelligence",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Next Generation Capabilities",
+      "sequence": 0,
+      "description": "Enhancing Value through integration of BPM Technology (embedded features like OCR , WFM & DMS etc)"
+    },
+    {
+      "name": "Scalable Infrastructure",
+      "sequence": 1,
+      "description": "Global F&A delivery Capability \u2013Knowledge of IFRS, GAAPs , withholding taxes and other country specific local laws."
+    },
+    {
+      "name": "Strategic Outsourcing Partner",
+      "sequence": 2,
+      "description": "Wide range of Finance, HR, IT Solutions & services offered under one roof."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:41.294Z",
+  "enhanced_description": "Mynd Integrated Solutions is a leading global service provider in business process and technology management. They offer a broad spectrum of services, including Finance and Accounting (FAO), Human Resource Outsourcing (HRO), Information Technology (IT), and Consulting. The solution is a web-based, cloud platform driven by automation, leveraging a combination of human and artificial intelligence to propel businesses to new heights of efficiency and foster growth. It provides significant value beyond just technology, with a team of subject matter experts blending technology and effective business process experience to help clients realize the benefits of process improvements.",
+  "ideal_company_sizes": [
+    "Small",
+    "Mid-market",
+    "Enterprise"
+  ],
+  "key_use_cases": [
+    "Business process and technology management",
+    "Finance and Accounting Outsourcing (FAO)",
+    "Human Resource Outsourcing (HRO)",
+    "Information Technology (IT) solutions and services",
+    "Consulting services",
+    "Backend processing services",
+    "Strategic outsourcing partnership",
+    "Filling open positions more quickly"
+  ],
+  "competitive_advantages": [
+    "Leading global service provider",
+    "Blend of technology and effective business process experience",
+    "Provides significant value beyond technology",
+    "Automation-driven solution",
+    "Next Generation Capabilities (integration of BPM Technology, OCR, WFM, DMS)",
+    "Scalable Infrastructure",
+    "Strategic Outsourcing Partner",
+    "Wide range of Finance, HR, IT solutions & services offered under one roof",
+    "Business growth fueled by human and artificial intelligence"
+  ],
+  "hr_functions_supported": [
+    "Human Resource Outsourcing (HRO)",
+    "HRMS / HCM",
+    "Recruiting",
+    "Core HR Software",
+    "Recruitment Marketing",
+    "Talent Acquisition"
+  ],
+  "technology_stack": [
+    "Cloud",
+    "Automation",
+    "Artificial Intelligence (AI)",
+    "Blockchain",
+    "BPM Technology",
+    "OCR",
+    "WFM (Workforce Management)",
+    "DMS (Document Management System)"
+  ],
+  "integration_capabilities": [
+    "BPM Technology integration"
+  ],
+  "roi_benefits": [
+    "Propel business to new heights of efficiency",
+    "Realize benefits of process improvements",
+    "Fill open positions more quickly",
+    "Increased recruiting efficiency",
+    "Business growth"
+  ],
+  "searchable_keywords": [
+    "Mynd Solutions",
+    "Mynd Integrated Solutions",
+    "Business Process Management",
+    "Technology Management",
+    "Outsourcing",
+    "Finance and Accounting Outsourcing",
+    "FAO",
+    "Human Resource Outsourcing",
+    "HRO",
+    "IT Solutions",
+    "IT Services",
+    "Consulting",
+    "Web-based solution",
+    "Cloud",
+    "Backend processing",
+    "Automation",
+    "Artificial Intelligence",
+    "AI",
+    "HRMS",
+    "HCM",
+    "Recruiting",
+    "Talent Acquisition",
+    "Core HR Software",
+    "Blockchain",
+    "Recruitment Marketing",
+    "Recruiting efficiency",
+    "Process improvement",
+    "BPM Technology",
+    "OCR",
+    "WFM",
+    "DMS",
+    "Global service provider",
+    "Strategic outsourcing",
+    "Scalable infrastructure"
+  ],
+  "primary_users": [
+    "HR leaders and professionals",
+    "Finance leaders and professionals",
+    "IT leaders and professionals",
+    "Business leaders and executives"
+  ],
+  "deployment_options": [
+    "Cloud",
+    "Web-based (SaaS)"
+  ],
+  "scalability_features": [
+    "Scalable Infrastructure"
+  ],
+  "_weight": 1
+}

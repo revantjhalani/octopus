@@ -1,0 +1,193 @@
+{
+  "id": 404,
+  "name": "Altrocks Tech",
+  "description": "We are leaders in the practical application of emerging tech and evolving intelligence. We have instigated diverse innovative methodologies delivering remarkable value to all our clients. Our team is embellished with full stack engineers with rich experience of building and maintaining scalable big data applications. We are capable of crafting elegant solutions with latest technologies like Neo4j, Blockchain, angular js, node js, Ionic framework, IBM Bluemix, Azure etc. Altrocks has highly skilled & certified developers for Block Chain , Neo4j Graph Database etc.,",
+  "features": [
+    "Secure IT Professionals",
+    "Adapt Digital Transformations",
+    "Electronic Manufacturing Services"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Software and Services Related to HR Software",
+    "Machine learning HR"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "Singapore, Singapore",
+  "launch_date": "2012",
+  "order": 20365,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Your strategic experts for mission drive prodcuts and service",
+  "ProductId": null,
+  "ShortDescription": "Altrocks stay at the forefront of the current and emerging technologies.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Cloud ",
+      "sequence": 0,
+      "description": "We provide services in Cloud migration, Cybersecurity, Optimization & performance enhancement."
+    },
+    {
+      "name": "Innovative Mobile App Development",
+      "sequence": 1,
+      "description": "At Altrocks, we excel in designing and developing intuitive and innovative mobile applications that deliver proven results to our clients."
+    },
+    {
+      "name": "AL & ML",
+      "sequence": 2,
+      "description": "We, being a firm that promotes foremost technology, have Machine Learning as its core service."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:26:24.319Z",
+  "enhanced_description": "Altrocks Tech is a technology leader specializing in the practical application of emerging technologies and evolving intelligence, providing strategic expertise for mission-driven products and services. They stay at the forefront of current and emerging technologies, with a core focus on Artificial Intelligence and Machine Learning services. Their team consists of full-stack engineers with extensive experience in building and maintaining scalable big data applications. Altrocks Tech excels in crafting elegant solutions using a range of cutting-edge technologies including Neo4j, Blockchain, Angular JS, Node JS, Ionic framework, IBM Bluemix, and Azure. They boast highly skilled and certified developers specifically for Blockchain and Neo4j Graph Database. In the HR technology domain, Altrocks Tech offers software and services related to HR software, particularly focusing on machine learning HR solutions, cloud migration, cybersecurity, optimization, performance enhancement, and innovative mobile app development.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global"
+  ],
+  "key_use_cases": [
+    "Optimizing talent acquisition processes for faster, more efficient, and cost-effective hiring of top talent.",
+    "Boosting hiring manager confidence and productivity through enhanced HR solutions.",
+    "Reducing the cost of hiring qualified employees.",
+    "Adapting and implementing digital transformations within HR functions.",
+    "Developing and maintaining scalable, data-driven HR applications utilizing AI and ML.",
+    "Providing cloud migration services for HR systems and data.",
+    "Enhancing cybersecurity for HR-related applications and sensitive data."
+  ],
+  "competitive_advantages": [
+    "Leaders in the practical application of emerging tech and evolving intelligence.",
+    "Instigated diverse innovative methodologies.",
+    "Team of full-stack engineers experienced in building and maintaining scalable big data applications.",
+    "Capable of crafting elegant solutions with latest technologies.",
+    "Highly skilled and certified developers for Blockchain and Neo4j Graph Database.",
+    "Machine Learning is a core service.",
+    "Focus on delivering remarkable value and proven results to clients.",
+    "Strategic experts for mission-driven products and services."
+  ],
+  "implementation_scenarios": [
+    "Custom HR software development and implementation.",
+    "Cloud migration for existing HR systems."
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Hiring Process Optimization",
+    "Hiring Automation",
+    "Data-Driven Hiring",
+    "HR Digital Transformation",
+    "HR System Infrastructure (Cloud & Big Data)",
+    "HR Data Security"
+  ],
+  "technology_stack": [
+    "Neo4j",
+    "Blockchain",
+    "Angular JS",
+    "Node JS",
+    "Ionic framework",
+    "IBM Bluemix",
+    "Azure",
+    "Artificial intelligence (AI)",
+    "Machine learning (ML)",
+    "Big Data",
+    "Cloud technologies"
+  ],
+  "roi_benefits": [
+    "Faster talent acquisition",
+    "More efficient talent acquisition",
+    "Boosted hiring manager confidence",
+    "Increased hiring manager productivity",
+    "Reduced cost of hiring qualified employees",
+    "Delivery of remarkable value to clients",
+    "Delivery of proven results"
+  ],
+  "searchable_keywords": [
+    "Altrocks Tech",
+    "emerging tech",
+    "evolving intelligence",
+    "innovative methodologies",
+    "full stack engineers",
+    "scalable big data applications",
+    "Neo4j",
+    "Blockchain",
+    "Angular JS",
+    "Node JS",
+    "Ionic framework",
+    "IBM Bluemix",
+    "Azure",
+    "certified developers",
+    "secure IT professionals",
+    "digital transformations",
+    "electronic manufacturing services",
+    "HR software",
+    "artificial intelligence",
+    "machine learning HR",
+    "talent acquisition",
+    "hiring best practices",
+    "hiring process optimization",
+    "talent acquisition costs",
+    "hiring automation",
+    "data-driven hiring",
+    "strategic experts",
+    "mission-driven products",
+    "cloud migration",
+    "cybersecurity",
+    "optimization",
+    "performance enhancement",
+    "mobile app development"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "Talent Acquisition Teams",
+    "Recruiters"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "scalability_features": [
+    "Designed for scalable big data applications",
+    "Cloud optimization and performance enhancement services"
+  ],
+  "security_features": [
+    "Secure IT Professionals services",
+    "Cybersecurity services"
+  ],
+  "_weight": 1
+}

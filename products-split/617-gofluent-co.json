@@ -1,0 +1,147 @@
+{
+  "id": 617,
+  "name": "GoFluent co.",
+  "description": "GoFluent provide language skills by blending technology, content, and virtual human interaction on any device. goFLUENT provides language solutions in Spanish, French, Chinese, German, Italian, Portuguese, Dutch, Russian, Korean, Arabic, and Japanese. goFLUENT is present in 20 countries across all continents and has helped millions of people become better communicators in the languages of business.",
+  "features": [
+    "learning with LMS, LXP, or intranet integration",
+    "Work through SCORM, SAML 2.0, or API",
+    "Provide corporate license"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Training & development companies",
+    "Course authoring"
+  ],
+  "tags": [
+    "Skill development",
+    "Skill acquisition",
+    "Learning efficiency"
+  ],
+  "headquarter": "Geneva",
+  "launch_date": "2000",
+  "order": 20574,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "provide everyone an equal voice",
+  "ProductId": null,
+  "ShortDescription": "Go Fluent provider of hyper-personalized solutions that accelerate language skills by blending technology, content, and virtual human interaction on any device.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:31:13.109Z",
+  "enhanced_description": "GoFluent provides hyper-personalized language solutions designed to accelerate skill development by blending technology, diverse content, and virtual human interaction, accessible on any device. The platform supports key business languages including Spanish, French, Chinese, German, Italian, Portuguese, Dutch, Russian, Korean, Arabic, and Japanese, and operates globally in 20 countries, having empowered millions to enhance their business communication skills.",
+  "ideal_company_sizes": [
+    "Corporate"
+  ],
+  "key_use_cases": [
+    "Corporate Language Training",
+    "Global Business Communication Enhancement",
+    "Employee Language Skill Development"
+  ],
+  "competitive_advantages": [
+    "Blended learning approach (technology, content, virtual human interaction)",
+    "Hyper-personalized learning solutions",
+    "Extensive language support (11 business languages)",
+    "Global presence across 20 countries",
+    "Proven impact with millions of users",
+    "Seamless integration with existing learning ecosystems (LMS, LXP, intranet)"
+  ],
+  "implementation_scenarios": [
+    "Integration with existing Learning Management Systems (LMS)",
+    "Integration with Learning Experience Platforms (LXP)",
+    "Integration with corporate intranets"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Employee Training",
+    "Skill Development"
+  ],
+  "technology_stack": [
+    "SCORM",
+    "SAML 2.0",
+    "API"
+  ],
+  "integration_capabilities": [
+    "LMS integration",
+    "LXP integration",
+    "Intranet integration",
+    "SCORM compatibility",
+    "SAML 2.0 support",
+    "API integration"
+  ],
+  "roi_benefits": [
+    "Accelerated Skill Development",
+    "Improved Learning Efficiency",
+    "Enhanced Business Communication",
+    "Improved Global Collaboration (implied by language solutions and global presence)"
+  ],
+  "searchable_keywords": [
+    "GoFluent",
+    "language skills",
+    "language solutions",
+    "corporate training",
+    "eLearning software",
+    "virtual human interaction",
+    "hyper-personalized learning",
+    "business communication",
+    "skill development",
+    "skill acquisition",
+    "learning efficiency",
+    "LMS integration",
+    "LXP integration",
+    "intranet integration",
+    "SCORM",
+    "SAML 2.0",
+    "API",
+    "Spanish language training",
+    "French language training",
+    "Chinese language training",
+    "German language training",
+    "Italian language training",
+    "Portuguese language training",
+    "Dutch language training",
+    "Russian language training",
+    "Korean language training",
+    "Arabic language training",
+    "Japanese language training"
+  ],
+  "primary_users": [
+    "Corporate Learners",
+    "L&D Professionals"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "scalability_features": [
+    "Supports millions of users",
+    "Operates across 20 countries on all continents"
+  ],
+  "_weight": 1
+}

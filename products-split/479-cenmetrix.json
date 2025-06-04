@@ -1,0 +1,162 @@
+{
+  "id": 479,
+  "name": "Cenmetrix",
+  "description": "Cenmetrix enables its clients to digitize their assets and infrastructure. By deploying innovative technology such as biometrics, RFID, artificial intelligence, and IoT, Cenmetrix provides its clients with the data and insights to monitor, measure and monetize their critical investments. Incorporating tailormade solutions from Cenmetrix enables clients to ensure their assets such as land, buildings, factories, vehicle fleets, furniture, equipment, and raw materials are secured, tracked, and optimized to support business objectives. The company continues to identify and deploy cost-effective solutions by sourcing best-in-class hardware from its global partners and marrying that with custom software developed by its inhouse R&D teams. Cenmetrix was a pioneer in deploying biometric solutions in Sri Lanka at its inception in 2005, and over the past 15 years has expanded its range to include multi form authentications such as face recognition, iris recognition, as well as advanced solutions in NFC and RFID technology. The company is the exclusive distributor for leading brands such as Suprema (biometrics), Alien Technology (RFID), Nedap (long-range identification), Skidata (parking systems) and Samsung SDS (smart homes).",
+  "features": [
+    "Security Access Control",
+    "Biometric Fingerprint Solution",
+    "Biometric, RFID, & NFC Identity Management"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Software and Services Related to HR Software",
+    "Blockchain"
+  ],
+  "tags": [
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "Colombo 05, Western",
+  "launch_date": "2005",
+  "order": 20439,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Driving innovative and smart solutions!",
+  "ProductId": null,
+  "ShortDescription": "Cenmetrix is a cutting edge systems integrator specializing in IT hardware & software development solutions.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:28:13.404Z",
+  "enhanced_description": "Cenmetrix is a cutting-edge systems integrator specializing in IT hardware and software development solutions, enabling clients to digitize their assets and infrastructure. They deploy innovative technologies such as biometrics, RFID, artificial intelligence (AI), and IoT to provide data and insights for monitoring, measuring, and monetizing critical investments. Cenmetrix offers tailor-made solutions to secure, track, and optimize assets like land, buildings, factories, vehicle fleets, furniture, equipment, and raw materials, thereby supporting business objectives. A pioneer in biometric solutions in Sri Lanka since 2005, Cenmetrix has expanded its range to include multi-form authentications like face and iris recognition, NFC, and advanced RFID technology. The company sources best-in-class hardware from global partners, including exclusive distributorships for Suprema (biometrics), Alien Technology (RFID), Nedap (long-range identification), Skidata (parking systems), and Samsung SDS (smart homes), complemented by custom software developed by its in-house R&D teams to deliver cost-effective solutions.",
+  "target_industries": [
+    "Manufacturing",
+    "Logistics & Transportation",
+    "Real Estate",
+    "Property Management",
+    "Facilities Management"
+  ],
+  "key_use_cases": [
+    "Digitizing assets and infrastructure",
+    "Monitoring critical investments",
+    "Measuring critical investments",
+    "Monetizing critical investments",
+    "Securing assets",
+    "Tracking assets",
+    "Optimizing assets",
+    "Security access control",
+    "Biometric fingerprint solutions",
+    "Biometric, RFID, & NFC identity management",
+    "Parking systems management",
+    "Smart home integration"
+  ],
+  "competitive_advantages": [
+    "Pioneering experience in biometric solutions in Sri Lanka since 2005",
+    "Broad range of multi-form authentication technologies (biometrics, RFID, NFC, face, iris recognition)",
+    "Exclusive distributorships for leading global hardware brands (Suprema, Alien Technology, Nedap, Skidata, Samsung SDS)",
+    "In-house R&D for custom software development",
+    "Ability to provide tailor-made solutions",
+    "Focus on cost-effective solutions"
+  ],
+  "implementation_scenarios": [
+    "Custom system integration projects involving hardware and software deployment",
+    "On-premise deployment of hardware and tailor-made software solutions"
+  ],
+  "hr_functions_supported": [
+    "Access Control (physical access for personnel and visitors)",
+    "Identity Management (for personnel and visitors)"
+  ],
+  "technology_stack": [
+    "Biometrics",
+    "RFID",
+    "Artificial Intelligence (AI)",
+    "IoT (Internet of Things)",
+    "NFC (Near Field Communication)",
+    "Face Recognition",
+    "Iris Recognition",
+    "Custom Software Development",
+    "IT Hardware"
+  ],
+  "integration_capabilities": [
+    "Custom software integration as a systems integrator"
+  ],
+  "roi_benefits": [
+    "Improved security for critical assets",
+    "Enhanced monitoring and tracking of assets",
+    "Data-driven insights for asset management",
+    "Optimization of asset utilization",
+    "Potential for cost reduction through efficiency and security",
+    "Monetization of critical investments"
+  ],
+  "searchable_keywords": [
+    "Cenmetrix",
+    "Biometrics",
+    "RFID",
+    "IoT",
+    "Artificial Intelligence",
+    "AI",
+    "Access Control",
+    "Security",
+    "Identity Management",
+    "NFC",
+    "Asset Management",
+    "Asset Tracking",
+    "Infrastructure Digitization",
+    "Face Recognition",
+    "Iris Recognition",
+    "Systems Integrator",
+    "IT Hardware Solutions",
+    "Software Development",
+    "Custom Software",
+    "Smart Homes",
+    "Parking Systems",
+    "Physical Security"
+  ],
+  "primary_users": [
+    "Operations Managers",
+    "Facilities Managers",
+    "Security Managers",
+    "Asset Managers",
+    "IT Managers",
+    "Business Owners/Executives"
+  ],
+  "deployment_options": [
+    "On-premise (involving hardware installation and custom software deployment)"
+  ],
+  "security_features": [
+    "Security Access Control",
+    "Biometric Fingerprint Solution",
+    "Biometric, RFID, & NFC Identity Management",
+    "Face Recognition",
+    "Iris Recognition",
+    "Securing assets"
+  ],
+  "_weight": 1
+}

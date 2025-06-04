@@ -1,0 +1,146 @@
+{
+  "id": 216,
+  "name": "PERSOLKELLY Consulting",
+  "description": "PERSOLKELLY Consulting, a leading global HR consulting and professional services firm, spans the Asia-Pacific region. Formed through the joint venture of PERSOL Group and Kelly Services Inc., it's a top recruitment company in APAC. Formerly BTI Consultants and Intelligence SMC, it specializes in talent development, HR advisory, and organizational effectiveness. Committed to innovation, PERSOLKELLY Consulting empowers individuals and enterprises, shaping a future workforce focused on productivity and positivity.",
+  "features": [
+    "Human Resource Consulting & Management Advisory",
+    "Leadership & Executive Development",
+    "Talent Management Technology"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Recruiting",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "HR consulting providers",
+    "Training eLearning software"
+  ],
+  "tags": [
+    "Recruiting efficiency",
+    "Hiring automation",
+    "Skill development"
+  ],
+  "headquarter": "Kuala Lumpur, WP",
+  "launch_date": "2016",
+  "order": 20182,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Empowering People and Enterprises",
+  "ProductId": null,
+  "ShortDescription": "A leading global human resource consulting and professional services company",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Global HR Expertise",
+      "sequence": 0,
+      "description": "PERSOLKELLY Consulting leads in global human resource consulting and professional services."
+    },
+    {
+      "name": "Empowering the Future Workforce",
+      "sequence": 1,
+      "description": "We collaborate with PERSOL Research and Consulting to shape the future workforce in Asia Pacific and Japan."
+    },
+    {
+      "name": "Strong Industry Presence",
+      "sequence": 2,
+      "description": "As part of PERSOLKELLY, a joint venture of PERSOL Group and Kelly Services, Inc., we deliver innovative HR solutions globally."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:37.069Z",
+  "enhanced_description": "PERSOLKELLY Consulting is a leading global HR consulting and professional services firm that spans the Asia-Pacific region, dedicated to empowering people and enterprises. Formed through a strategic joint venture between PERSOL Group and Kelly Services Inc., it stands as a top recruitment company in APAC. Formerly known as BTI Consultants and Intelligence SMC, the firm specializes in comprehensive talent development, HR advisory, and organizational effectiveness, leveraging global HR expertise. Committed to innovation and in collaboration with PERSOL Research and Consulting, PERSOLKELLY Consulting is focused on shaping a future workforce centered on productivity and positivity, delivering innovative HR solutions globally.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Human Resource Consulting & Management Advisory",
+    "Leadership & Executive Development",
+    "Talent Management Technology implementation and optimization",
+    "Talent acquisition and recruitment efficiency improvement",
+    "Accelerated skill development and learning programs",
+    "Organizational effectiveness enhancement"
+  ],
+  "competitive_advantages": [
+    "Global HR expertise and leadership in human resource consulting and professional services",
+    "Strong presence and top recruitment capabilities in the Asia-Pacific region",
+    "Backed by the joint venture of PERSOL Group and Kelly Services Inc., indicating robust resources and industry standing",
+    "Commitment to innovation in HR solutions",
+    "Focus on shaping the future workforce through collaboration with PERSOL Research and Consulting"
+  ],
+  "hr_functions_supported": [
+    "Human Resource Consulting",
+    "Management Advisory",
+    "Leadership Development",
+    "Executive Development",
+    "Talent Management",
+    "Recruiting",
+    "Learning and Development",
+    "Organizational Effectiveness"
+  ],
+  "roi_benefits": [
+    "Faster and more efficient talent acquisition",
+    "Accelerated skill development and learning efficiency",
+    "Increased workforce productivity",
+    "Enhanced workforce positivity and engagement"
+  ],
+  "searchable_keywords": [
+    "PERSOLKELLY Consulting",
+    "HR consulting",
+    "Human Resource Consulting",
+    "Management Advisory",
+    "Leadership Development",
+    "Executive Development",
+    "Talent Management Technology",
+    "Recruiting",
+    "Learning and Development",
+    "HR consulting providers",
+    "Training eLearning software",
+    "Recruiting efficiency",
+    "Hiring automation",
+    "Skill development",
+    "Professional services",
+    "Asia-Pacific",
+    "APAC recruitment",
+    "Talent development",
+    "HR advisory",
+    "Organizational effectiveness",
+    "Workforce productivity",
+    "Kelly Services",
+    "PERSOL Group"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Business Leaders",
+    "Executives",
+    "Managers",
+    "Individual Contributors (for talent and skill development)"
+  ],
+  "_weight": 1
+}

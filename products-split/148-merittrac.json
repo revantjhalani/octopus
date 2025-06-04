@@ -1,0 +1,162 @@
+{
+  "id": 148,
+  "name": "Merittrac",
+  "description": "MeritTrac is a 100% subsidiary of Manipal Global Education (MaGE) which is one of the largest and highly rated education services providers. As a leader in assessments, MeritTrac has been leveraging its ISO certified processes in transforming the way assessments are managed and delivered in India. MeritTrac offers high levels of reliability, quality and security for consistently delivering large assessments. In addition to delivering assessments in the Computer based and Paper based mode, MeritTrac offers assessment services.",
+  "features": [
+    "All in one assessment platform",
+    "ISO Certified method",
+    "Fast, Automated assessment"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning",
+    "Skill development",
+    "Training effectiveness",
+    "Training methodologies"
+  ],
+  "headquarter": "Banglore",
+  "launch_date": "2000",
+  "order": 20115,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Setting new benchmarks",
+  "ProductId": null,
+  "ShortDescription": "MeritTrac is a premier assessment company in India.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Workforce Development",
+      "sequence": 0,
+      "description": "Technology-driven assessments to identify skill gaps and leadership abilities."
+    },
+    {
+      "name": "Recruitment Assessment",
+      "sequence": 1,
+      "description": "Assess candidate skills across the employee lifecycle."
+    },
+    {
+      "name": "Cognitive Assessment",
+      "sequence": 2,
+      "description": "Evaluates candidates' ability to learn and understand new concepts."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:23.931Z",
+  "enhanced_description": "MeritTrac, a 100% subsidiary of Manipal Global Education (MaGE), is a premier assessment company based in India. It offers an all-in-one assessment platform that leverages ISO certified processes to deliver reliable, high-quality, and secure assessments. These assessments can be delivered in computer-based and paper-based modes, catering to large-scale requirements. MeritTrac focuses on transforming assessment management and delivery, providing services for workforce development (identifying skill gaps and leadership abilities), recruitment assessment (evaluating candidate skills across the employee lifecycle), and cognitive assessment (evaluating ability to learn new concepts).",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Skill gap identification",
+    "Leadership ability assessment",
+    "Candidate skill evaluation during recruitment",
+    "Cognitive ability assessment",
+    "Accelerating skill development",
+    "Improving learning efficiency"
+  ],
+  "competitive_advantages": [
+    "ISO certified processes",
+    "High reliability, quality, and security for large assessments",
+    "All-in-one assessment platform",
+    "Fast and automated assessments",
+    "Backed by a large and highly rated education services provider (Manipal Global Education)",
+    "Premier assessment company in India (market leadership)"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Learning & Development",
+    "Talent Management",
+    "Workforce Planning"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Faster assessment processes",
+    "Automated assessment delivery",
+    "Better hiring decisions through comprehensive candidate skill evaluation",
+    "Enhanced workforce planning and development through skill gap identification"
+  ],
+  "searchable_keywords": [
+    "Merittrac",
+    "assessment platform",
+    "online assessments",
+    "computer-based tests",
+    "paper-based tests",
+    "skill assessment",
+    "cognitive assessment",
+    "recruitment assessment",
+    "workforce development",
+    "learning efficiency",
+    "skill development",
+    "training effectiveness",
+    "ISO certified assessments",
+    "automated assessments",
+    "fast assessments",
+    "learning and development",
+    "corporate training",
+    "LMS",
+    "LXP",
+    "talent assessment",
+    "HR assessment",
+    "Manipal Global Education",
+    "learning analytics",
+    "learning retention",
+    "continuous learning",
+    "training methodologies"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Recruiters",
+    "Learning & Development Managers",
+    "Training Managers",
+    "Candidates (taking assessments)",
+    "Employees (taking assessments)"
+  ],
+  "compliance_features": [
+    "ISO certified processes"
+  ],
+  "scalability_features": [
+    "Ability to consistently deliver large assessments"
+  ],
+  "security_features": [
+    "High levels of security for assessments"
+  ],
+  "_weight": 1
+}

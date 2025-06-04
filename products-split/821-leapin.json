@@ -1,0 +1,137 @@
+{
+  "id": 821,
+  "name": "LeapIn",
+  "description": "We\u2019re working on a vision to bring the National Disability Strategy to life by making it easy to navigate the NDIS and implement personal goals and plans.Leap in! offers a unique, digital-based platform that connects Australians with disabilities, providers and the community groups who support them, all in one delightfully simple place.",
+  "features": [
+    "Offer plan management",
+    "Provide E-learning and Magazine",
+    "Agile Development"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "HRMS / HCM",
+    "Recruiting",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Capital Management",
+    "Recruiting software",
+    "Talent acquisition suites"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "Queensland",
+  "launch_date": "2017",
+  "order": 20774,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Unlock your NDIS with Leap in!",
+  "ProductId": null,
+  "ShortDescription": "Leap in! is a registered charity and a NDIS-registered plan manager.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Understanding NDIS",
+      "sequence": 0,
+      "description": "This article provides information about the NDIS (National Disability Insurance Scheme) and how it can benefit people with disabilities."
+    },
+    {
+      "name": "Leap in! - Your NDIS Plan Management Partner",
+      "sequence": 1,
+      "description": "Leap in! is a company that helps people with disabilities navigate the NDIS. They offer a free app and resources to assist you in managing your NDIS plan."
+    },
+    {
+      "name": "Award-Winning Services",
+      "sequence": 2,
+      "description": "Leap in! was recognized as the Most Outstanding Plan Management company, highlighting their exceptional service in the field."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:07.430Z",
+  "enhanced_description": "LeapIn is a digital-based platform and NDIS-registered plan manager focused on simplifying the National Disability Insurance Scheme (NDIS) for Australians with disabilities. As a registered charity, it aims to help users navigate the NDIS, implement personal goals, and manage their plans. The platform connects individuals with disabilities, NDIS providers, and supporting community groups. It offers plan management services, e-learning resources, and a magazine, accessible via a free app, having been recognized as an award-winning plan management company.",
+  "key_use_cases": [
+    "NDIS plan navigation",
+    "NDIS plan management",
+    "Connecting NDIS participants with providers and community groups",
+    "Implementing personal goals and plans related to NDIS"
+  ],
+  "competitive_advantages": [
+    "Award-winning services (Most Outstanding Plan Management company)",
+    "Unique, digital-based platform for NDIS management",
+    "Offers a free app and resources",
+    "Registered charity status",
+    "NDIS-registered plan manager"
+  ],
+  "roi_benefits": [
+    "Simplified NDIS navigation",
+    "Efficient NDIS plan management",
+    "Facilitates achievement of personal goals and plans",
+    "Improved access to NDIS support and resources"
+  ],
+  "searchable_keywords": [
+    "LeapIn",
+    "NDIS",
+    "National Disability Insurance Scheme",
+    "disability support",
+    "plan management",
+    "NDIS plan management",
+    "digital platform",
+    "NDIS navigation",
+    "NDIS goals",
+    "disability providers",
+    "community support",
+    "e-learning",
+    "magazine",
+    "Australia",
+    "registered charity",
+    "award-winning",
+    "HRMS",
+    "HCM",
+    "recruiting",
+    "talent acquisition",
+    "human capital management",
+    "hiring software",
+    "talent acquisition suites"
+  ],
+  "primary_users": [
+    "Australians with disabilities (NDIS participants)",
+    "NDIS service providers",
+    "Community groups supporting individuals with disabilities"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)",
+    "Mobile application"
+  ],
+  "compliance_features": [
+    "NDIS compliance (as a registered plan manager)"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,125 @@
+{
+  "id": 421,
+  "name": "Asia Ecomm Group",
+  "description": "Accelerating the growth of Health & Wellness brands by partnering with them to enter, expand and establish in key Asia markets through our 'Tradetech' platform. Through AEG, brands leverage our unique digital ecosystem providing the necessary knowledge, network and finance to scale across key markets. Today, our solution is being utilised by Supplement, Beauty & Skin, Pet Nutrition, and Health Food brands from the US, Europe, Australia, and Asian countries looking to access the broader Asian region using a network of Partners providing access to both Online and Offline channels ",
+  "features": [
+    "E-commerce Management",
+    "Retail Distribution",
+    "Warehousing & Storage"
+  ],
+  "founders": [
+    "Sam Bedi"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing services providers",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    ""
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2022",
+  "order": 20381,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Accelerating Brand Growth in Asia!",
+  "ProductId": null,
+  "ShortDescription": "We accelerate Health & Wellness brands in key Asian markets through our 'Tradetech' platform",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "iTradeHub",
+      "sequence": 0,
+      "description": "Connects brands with partners using AI to help them enter new markets, find good partners, and generate demand."
+    },
+    {
+      "name": "iBizValuation",
+      "sequence": 1,
+      "description": "Helps investors find investment opportunities using automated valuation and virtual due diligence assistance."
+    },
+    {
+      "name": "Influencer Advisory Market",
+      "sequence": 2,
+      "description": "An online marketplace for health advisors and influencers to sell products and leverage their knowledge."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:26:52.949Z",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerating talent acquisition efficiency",
+    "Improving hiring manager effectiveness",
+    "Providing HR consulting services",
+    "Offering staffing solutions"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Staffing",
+    "HR Consulting"
+  ],
+  "roi_benefits": [
+    "Faster talent acquisition",
+    "Improved efficiency in hiring processes",
+    "Increased hiring manager productivity",
+    "Enhanced hiring manager confidence"
+  ],
+  "searchable_keywords": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    "Staffing services",
+    "HR consulting",
+    "Talent acquisition",
+    "Hiring efficiency",
+    "Hiring manager productivity",
+    "HR solutions",
+    "Global enterprise recruiting",
+    "Large enterprise recruiting",
+    "Small enterprise recruiting"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Hiring Managers",
+    "Recruiters"
+  ],
+  "_weight": 1
+}

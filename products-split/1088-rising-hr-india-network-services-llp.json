@@ -1,0 +1,104 @@
+{
+  "id": 1088,
+  "name": "Rising HR India Network Services LLP",
+  "description": "Rising HR India Network Services LLP provides recturment consulting, events and other activites related to HR",
+  "features": [
+    "Recuritment Events",
+    "Recrutiment Consulting",
+    "HR services with wide network across country"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing services providers",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    ""
+  ],
+  "headquarter": "India",
+  "launch_date": "2022",
+  "order": 21031,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Recruitment Solutions",
+  "ProductId": null,
+  "ShortDescription": "Rising HR India Network Services LLP is recrutiment services",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:40:17.863Z",
+  "enhanced_description": "Rising HR India Network Services LLP specializes in providing comprehensive recruitment solutions and HR services. This includes recruitment consulting, organizing recruitment events, and leveraging a wide HR network across India. The services aim to boost hiring manager confidence and productivity, and help organizations hire top talent faster and more efficiently.",
+  "key_use_cases": [
+    "Strategic recruitment planning",
+    "Talent sourcing and acquisition",
+    "Recruitment event management",
+    "Hiring process optimization",
+    "Boosting hiring manager productivity"
+  ],
+  "competitive_advantages": [
+    "Extensive national HR network across India"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "HR Consulting"
+  ],
+  "roi_benefits": [
+    "Faster talent acquisition",
+    "Improved hiring efficiency",
+    "Increased hiring manager confidence",
+    "Enhanced hiring productivity",
+    "Potential reduction in recruiting costs"
+  ],
+  "searchable_keywords": [
+    "HR consulting",
+    "Recruitment events",
+    "Talent acquisition",
+    "Staffing services",
+    "HR network",
+    "India HR",
+    "Hiring solutions",
+    "Recruiting services",
+    "Talent sourcing",
+    "Recruiting costs",
+    "HR services"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Professionals",
+    "Talent Acquisition Teams",
+    "Organizations seeking recruitment services"
+  ],
+  "_weight": 1
+}

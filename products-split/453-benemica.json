@@ -1,0 +1,138 @@
+{
+  "id": 453,
+  "name": "BENEMICA",
+  "description": "Benemica is an integrated self-service Employee, HRD Administration, Payroll and Tax Calculation application for Companies, Accountants and Consultants. Has been equipped with an attendance feature, so it is suitable for those looking for an attendance application. We offer a process that has been proven to be efficient and effective for managing, engaging, developing, growing Employees and increasing speed in the Payroll process to your Company.",
+  "features": [
+    "In a matter of days you can help your company comply with regulations.",
+    "Pay only for what you use, with no hidden fees.",
+    "More economical, the right investment for growing technology needs."
+  ],
+  "founders": [
+    "Hariman Lie"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing services providers",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring efficiency"
+  ],
+  "headquarter": "JAKARTA PUSAT, DKI Jakarta",
+  "launch_date": "2016",
+  "order": 20413,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Beneficial, Dynamic, Accurate.",
+  "ProductId": null,
+  "ShortDescription": "Benemica provides innovative cloud-based HR management solutions, designed through comprehensive analysis of 100+ companies in various industries.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": [],
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": false,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:27:41.579Z",
+  "enhanced_description": "Benemica is an integrated, cloud-based self-service application designed for Employee and HRD Administration, Payroll, and Tax Calculation. It includes an attendance feature, making it suitable for companies seeking efficient attendance tracking. Developed through comprehensive analysis of over 100 companies across various industries, Benemica offers a proven process for managing, engaging, developing, and growing Employees, while also increasing speed in the Payroll process and helping companies comply with regulations.",
+  "key_use_cases": [
+    "Employee self-service",
+    "HRD administration",
+    "Payroll processing",
+    "Tax calculation",
+    "Attendance tracking",
+    "Employee management",
+    "Employee engagement",
+    "Employee development",
+    "Regulatory compliance management",
+    "Hiring and recruiting processes",
+    "Improving hiring manager productivity"
+  ],
+  "competitive_advantages": [
+    "Integrated self-service platform",
+    "Cloud-based solution",
+    "Pay-per-use pricing model (no hidden fees)",
+    "Cost-effectiveness and economical investment",
+    "Proven efficient and effective processes",
+    "Increased speed in payroll processing",
+    "Ability to quickly achieve regulatory compliance",
+    "Innovative HR management solutions"
+  ],
+  "hr_functions_supported": [
+    "Employee Administration",
+    "HRD Administration",
+    "Payroll Management",
+    "Tax Calculation",
+    "Attendance Management",
+    "Employee Engagement",
+    "Talent Development",
+    "Recruiting",
+    "Hiring"
+  ],
+  "roi_benefits": [
+    "Improved efficiency and effectiveness in HR management",
+    "Increased speed in payroll processing",
+    "Reduced risk through regulatory compliance",
+    "Cost savings due to economical and pay-for-use model",
+    "Improved employee happiness and engagement",
+    "Boosted hiring manager confidence and productivity"
+  ],
+  "searchable_keywords": [
+    "BENEMICA",
+    "HR management",
+    "cloud-based HR",
+    "employee administration",
+    "HRD administration",
+    "payroll",
+    "tax calculation",
+    "attendance application",
+    "recruiting",
+    "hiring",
+    "employee engagement",
+    "talent development",
+    "HR tech",
+    "HR software",
+    "compliance",
+    "self-service HR",
+    "HR consulting",
+    "staffing services",
+    "HR efficiency",
+    "human resources"
+  ],
+  "primary_users": [
+    "Companies",
+    "Accountants",
+    "Consultants",
+    "HR Professionals",
+    "Employees (for self-service)",
+    "Hiring Managers"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "compliance_features": [
+    "Regulatory compliance assistance"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,174 @@
+{
+  "id": 1748,
+  "name": "Chrono.tech",
+  "description": "Founded in 2016, Chrono.tech is revolutionizing job access and contractor engagement. Based in Sydney, the company emerged following a 2016 token sale. It offers innovative tools like LaborX for recruitment, TimeX for Plasma-based exchanges, and PaymentX for cryptocurrency payroll solutions. These streamline processes, cut costs, and enhance reliability, catering to diverse sectors with superior quality and efficiency in recruitment, invoicing, and payments.",
+  "features": [
+    "Lock your TIME in the TimeWarp smart contract and receive regular rewards",
+    "Increase your earnings by committing to longer lock-ups",
+    "Job Mining and Premium Account status on LaborX\n"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "HRMS / HCM",
+    "Other / technology",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software",
+    "Human Capital Management",
+    "Recruiting automation software"
+  ],
+  "tags": [
+    "Talent sourcing",
+    "Quick Hiring",
+    "Hiring automation"
+  ],
+  "headquarter": "Sydney, NSW",
+  "launch_date": "2016",
+  "order": 21337,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Blockchain HR Software Solutions",
+  "ProductId": null,
+  "ShortDescription": "Fintech company focusing on HR-solutions for business",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": " LaborX",
+      "sequence": 0,
+      "description": " LaborX LaborX is a global recruitment platform that connects individuals with work opportunities, wherever they are based in the world, and enables them to get paid in crypto. "
+    },
+    {
+      "name": " TimeX",
+      "sequence": 1,
+      "description": "The platform merges centralized and decentralized technologies for speed, security, cost-efficiency, and protection against illegal activities."
+    },
+    {
+      "name": " PaymentX",
+      "sequence": 2,
+      "description": "PaymentX is an automated cryptocurrency payroll solution for your business. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-07-10T13:39:37.022Z",
+  "enhanced_description": "Founded in 2016, Chrono.tech is a Sydney-based fintech company specializing in blockchain-powered HR software solutions. Emerging from a 2016 token sale, its innovative suite of tools aims to revolutionize job access, contractor engagement, recruitment, invoicing, and payments. Key offerings include LaborX, a global recruitment platform enabling crypto payments; TimeX, a Plasma-based exchange merging centralized and decentralized technologies for speed, security, and cost-efficiency; and PaymentX, an automated cryptocurrency payroll solution for businesses. Chrono.tech's ecosystem also allows users to lock their TIME tokens in the TimeWarp smart contract for rewards, and access Job Mining and Premium Account status on LaborX, collectively streamlining processes, cutting costs, and enhancing reliability for diverse sectors.",
+  "target_industries": [],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Global recruitment and talent acquisition",
+    "Contractor engagement and management",
+    "Automated cryptocurrency payroll processing",
+    "Streamlining HR and payment processes",
+    "Reducing costs in recruitment and payments",
+    "Enabling crypto payments for work opportunities",
+    "Trading cryptocurrencies securely and efficiently (TimeX)",
+    "Earning rewards through token staking (TimeWarp)",
+    "Hiring top talent faster and more efficiently"
+  ],
+  "competitive_advantages": [
+    "Leverages blockchain technology for HR solutions",
+    "Enables cryptocurrency payments for payroll and contractors",
+    "Offers a global reach for recruitment through LaborX",
+    "Reduces costs and enhances efficiency in HR operations",
+    "Provides a hybrid centralized/decentralized exchange for speed, security, and cost-efficiency (TimeX)",
+    "Offers a unique token-based reward system (TimeWarp)",
+    "Focus on automated solutions for recruitment, invoicing, and payments"
+  ],
+  "implementation_scenarios": [],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Hiring",
+    "Payroll (Cryptocurrency)",
+    "Human Capital Management (HCM)",
+    "Core HR"
+  ],
+  "technology_stack": [
+    "Blockchain",
+    "Plasma (for exchanges)",
+    "Smart Contracts",
+    "Cryptocurrency",
+    "Centralized and Decentralized Technologies"
+  ],
+  "integration_capabilities": [],
+  "roi_benefits": [
+    "Cost reduction in recruitment, invoicing, and payments",
+    "Increased efficiency in HR and payment processes",
+    "Enhanced reliability of HR operations",
+    "Faster and more efficient talent acquisition",
+    "Opportunities for increased earnings/rewards through token staking",
+    "Improved speed and security of transactions (TimeX)"
+  ],
+  "searchable_keywords": [
+    "Chrono.tech",
+    "Blockchain HR",
+    "HR Software Solutions",
+    "Fintech HR",
+    "LaborX",
+    "TimeX",
+    "PaymentX",
+    "Recruiting",
+    "Recruitment Automation",
+    "Talent Sourcing",
+    "Quick Hiring",
+    "Hiring Automation",
+    "Cryptocurrency Payroll",
+    "Crypto Payments",
+    "Contractor Engagement",
+    "Job Access",
+    "HRMS",
+    "HCM",
+    "Core HR Software",
+    "Human Capital Management",
+    "TIME token",
+    "TimeWarp",
+    "Job Mining",
+    "Global Recruitment Platform",
+    "Automated Payroll",
+    "Blockchain HR Software"
+  ],
+  "primary_users": [
+    "Businesses",
+    "Employers",
+    "HR Professionals",
+    "Contractors",
+    "Job Seekers",
+    "Individuals (seeking work)"
+  ],
+  "deployment_options": [],
+  "compliance_features": [],
+  "scalability_features": [],
+  "security_features": [
+    "Security (of the TimeX platform)",
+    "Protection against illegal activities (on TimeX)"
+  ],
+  "_weight": 1
+}

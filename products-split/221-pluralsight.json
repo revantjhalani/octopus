@@ -1,0 +1,167 @@
+{
+  "id": 221,
+  "name": "Pluralsight",
+  "description": "At Pluralsight, we\u2019re advancing the world\u2019s tech workforce, and that starts with making your teams more proficient, your work more efficient and effective\u2014and giving you more to celebrate. We\u2019re dreaming big, but our work is all about the details. After all, we get to a better tech workforce one skill, one process improvement, one technologist at a time. Find out how we're solving tech workforce challenges, boosting careers, and creating opportunity.",
+  "features": [
+    "Trusted by 70% of the Fortune 500 to train their employees",
+    "24-hour remote learning from anywhere, at any time\nGet started",
+    "Over 7,800 courses in software dev, data & analytics, AI, cyber-security, and cloud"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Skill acquisition",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised learning",
+    "Personalised Learning",
+    "Learning retention",
+    "Continuous learning"
+  ],
+  "headquarter": "Draper, UT",
+  "launch_date": "2004",
+  "order": 20187,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Pluralsight empowers you to upgrade your skills",
+  "ProductId": null,
+  "ShortDescription": "We\u2019re inspiring and empowering the technology workforce to achieve their goals",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Develop internal cloud talent",
+      "sequence": 0,
+      "description": "Overcome complex challenges, foster cloud expertise, and align skill development strategically."
+    },
+    {
+      "name": "Cloud transformation through team creation",
+      "sequence": 1,
+      "description": "Build outcome-focused skill programs for mission-critical projects and enhance employer reputation."
+    },
+    {
+      "name": "Upskilling/reskilling for tech fluency",
+      "sequence": 2,
+      "description": "Boost collaboration and tech understanding organization-wide with a comprehensive initiative."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:40.860Z",
+  "enhanced_description": "Pluralsight is a comprehensive learning and development platform designed to advance the global tech workforce. Trusted by 70% of Fortune 500 companies, it empowers organizations of all sizes \u2013 small, large, and global enterprises \u2013 to accelerate skill development and enhance learning efficiency. The platform offers 24-hour remote access to an extensive library of over 7,800 courses, covering critical technology domains such as software development, data & analytics, artificial intelligence, cybersecurity, and cloud computing. Pluralsight addresses key tech workforce challenges by enabling the development of internal cloud talent, facilitating cloud transformation through structured team-based learning, and driving organization-wide upskilling and reskilling initiatives for tech fluency.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerate skill development and learning efficiency for technology teams",
+    "Develop internal cloud talent and foster cloud expertise",
+    "Facilitate cloud transformation initiatives through team creation",
+    "Implement organization-wide upskilling and reskilling programs for tech fluency",
+    "Build outcome-focused skill programs for mission-critical projects",
+    "Provide continuous learning and training in software development, data & analytics, AI, cybersecurity, and cloud"
+  ],
+  "competitive_advantages": [
+    "Trusted by 70% of the Fortune 500, indicating strong enterprise adoption and reliability",
+    "Offers 24-hour remote learning from anywhere, at any time, providing significant flexibility and accessibility",
+    "Features an extensive catalog of over 7,800 courses in high-demand tech domains (software dev, data & analytics, AI, cyber-security, cloud)",
+    "Specializes in advancing the tech workforce and solving specific tech workforce challenges"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based deployment",
+    "Remote learning access"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Talent Management (specifically skill development, upskilling, reskilling)"
+  ],
+  "roi_benefits": [
+    "Increased team proficiency and improved work efficiency and effectiveness",
+    "Accelerated skill development and enhanced learning efficiency",
+    "Strategic alignment of skill development with business objectives",
+    "Improved project outcomes for mission-critical projects",
+    "Enhanced employer reputation",
+    "Fosters cloud expertise within the organization",
+    "Boosts collaboration and tech understanding organization-wide"
+  ],
+  "searchable_keywords": [
+    "Pluralsight",
+    "tech workforce development",
+    "skill development",
+    "skill acquisition",
+    "learning efficiency",
+    "training effectiveness",
+    "learning optimization",
+    "adaptive learning",
+    "personalized learning",
+    "continuous learning",
+    "remote learning",
+    "online courses",
+    "e-learning",
+    "corporate LMS",
+    "LXP",
+    "learning experience platform",
+    "training management system",
+    "software development training",
+    "data analytics training",
+    "AI training",
+    "cybersecurity training",
+    "cloud training",
+    "upskilling",
+    "reskilling",
+    "cloud talent",
+    "cloud transformation",
+    "tech fluency",
+    "enterprise learning",
+    "employee training",
+    "digital skills",
+    "technology skills"
+  ],
+  "primary_users": [
+    "Employees (specifically tech professionals/technologists)",
+    "Teams (participating in learning programs)",
+    "L&D Managers",
+    "HR Managers"
+  ],
+  "deployment_options": [
+    "SaaS",
+    "Cloud-based"
+  ],
+  "_weight": 1
+}

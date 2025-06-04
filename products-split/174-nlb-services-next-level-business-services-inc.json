@@ -1,0 +1,153 @@
+{
+  "id": 174,
+  "name": "NLB Services / Next Level Business Services, Inc",
+  "description": "NLB one of the fastest growing transformational workforce solution providers headquartered in Atlanta, with presence across 15 global locations. Powered by largest organic talent supplementation engine, strong digital capabilities and 8000+ strong team, NLB Services helps global enterprises reimagine their businesses to thrive in the digital age. Our vast global presence and unyielding customer centricity have enabled us to forge strategic partnerships with leading Fortune 500 companies, worldwide.",
+  "features": [
+    "#1 Industry\u2019s largest organic recruitment engine",
+    "200,000+ global resource pool in our talent community",
+    "8,000+ people working in 900+ client projects"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Talent management software"
+  ],
+  "tags": [
+    "Talent sourcing",
+    "Talent acquisition"
+  ],
+  "headquarter": "Alpharetta, Georgia",
+  "launch_date": "2007",
+  "order": 20141,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "NLB is a fast growing workforce solution provider with global delivery capability",
+  "ProductId": null,
+  "ShortDescription": "NLB Services Reimagines businesses to stay one step ahead of the fast-changing world.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Smarter Hiring",
+      "sequence": 0,
+      "description": "AI & experts find perfect talent, faster."
+    },
+    {
+      "name": "Pre-vetted Talent Pool",
+      "sequence": 1,
+      "description": "ClearedTalent\u2122 delivers qualified candidates instantly."
+    },
+    {
+      "name": "Digital Boost",
+      "sequence": 2,
+      "description": "Automate tasks & accelerate transformation with RPA & AI."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:55.441Z",
+  "enhanced_description": "NLB Services, a rapidly expanding global workforce solution provider headquartered in Atlanta with a presence across 15 international locations, specializes in helping enterprises thrive in the digital age. Leveraging its industry-leading organic recruitment engine, a vast 200,000+ global talent community, and a robust team of over 8,000 professionals working on 900+ client projects, NLB delivers transformational workforce solutions. Their approach, including AI-driven Smarter Hiring and a Pre-vetted Talent Pool (ClearedTalent\u2122), ensures rapid access to qualified candidates. Furthermore, NLB supports digital transformation by automating tasks and accelerating initiatives with RPA and AI capabilities, fostering strategic partnerships with Fortune 500 companies worldwide.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Talent acquisition and sourcing",
+    "Workforce solution provision",
+    "Digital transformation acceleration",
+    "Automation of business processes using RPA and AI",
+    "Efficient hiring of top talent",
+    "Accessing pre-vetted talent pools"
+  ],
+  "competitive_advantages": [
+    "Industry's largest organic recruitment engine",
+    "Extensive global presence (15 locations)",
+    "Vast global talent resource pool (200,000+)",
+    "Large operational team (8,000+ professionals)",
+    "Experience with a high volume of client projects (900+)",
+    "Strategic partnerships with Fortune 500 companies",
+    "Proprietary pre-vetted talent pool (ClearedTalent\u2122)",
+    "AI-driven talent identification and acquisition",
+    "Ability to accelerate digital transformation with RPA & AI"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Recruiting",
+    "Staffing",
+    "Talent Management",
+    "Workforce Management"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Robotic Process Automation (RPA)"
+  ],
+  "roi_benefits": [
+    "Faster talent acquisition",
+    "More efficient hiring processes",
+    "Instant access to qualified and pre-vetted candidates",
+    "Accelerated digital transformation",
+    "Enhanced business efficiency through task automation",
+    "Ability to secure top talent more effectively"
+  ],
+  "searchable_keywords": [
+    "NLB Services",
+    "Next Level Business Services",
+    "workforce solutions",
+    "talent acquisition",
+    "recruitment engine",
+    "staffing",
+    "talent management",
+    "global talent",
+    "AI",
+    "RPA",
+    "pre-vetted talent",
+    "ClearedTalent",
+    "digital transformation",
+    "organic recruitment",
+    "talent sourcing",
+    "global enterprise",
+    "Fortune 500",
+    "Atlanta",
+    "Alpharetta",
+    "hiring solutions",
+    "business services"
+  ],
+  "primary_users": [
+    "Client companies (HR leaders)",
+    "Client companies (Talent Acquisition teams)",
+    "Client companies (Business unit leaders seeking workforce solutions)"
+  ],
+  "scalability_features": [
+    "Global presence across 15 locations",
+    "200,000+ global resource pool",
+    "8,000+ strong team supporting 900+ client projects",
+    "Capable of serving Global and Large Enterprises"
+  ],
+  "_weight": 1
+}

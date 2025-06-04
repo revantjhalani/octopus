@@ -1,0 +1,179 @@
+{
+  "id": 1253,
+  "name": "Drona HQ",
+  "description": "#Empowering you to build digital tools, streamline processes, and drive your productivity. Allowing you to focus on delivering high impact work, efficiently.",
+  "features": [
+    "DronaHQ SaaS Platform offers unlimited apps and connectors across all plans with: - Visual development - Drag and Drop UI/UX Builder - Ready database connectors - API Connectors - Web & Mobile apps - Automations - Business logic editor - Custom branding - SSO - Embeddable Apps - PDF generator"
+  ],
+  "founders": [
+    " Divyesh Kharade"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Other / technology",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Internet of things",
+    "Machine learning HR",
+    "VR and AR Software",
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Hiring automation",
+    "Hiring efficiency",
+    "Hiring tools",
+    "Hiring best practices"
+  ],
+  "headquarter": "San Francisco, California",
+  "launch_date": "2007",
+  "order": 21081,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "DronaHQ - low code platform for engineering teams to democratize custom application development.",
+  "ProductId": null,
+  "ShortDescription": "Low Code App Development Platform to build rich web & mobile apps at speed. Internal tools, GUI, Admin Panels, CRUD.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Build Your First App",
+      "sequence": 0,
+      "description": "This tutorial guides you through the steps to create a simple database GUI using Dronahq. The application connects to a sample PostgreSQL database, allowing you to read and update customer information."
+    },
+    {
+      "name": "Connecting Datasources",
+      "sequence": 1,
+      "description": "Databases play a crucial role in numerous applications, serving as the backbone for storing and managing data. With DronaHQ, you have the capability to execute queries for data retrieval and modification directly from its intuitive editor."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": true,
+  "PublishedAt": "2024-03-05T11:13:17.746Z",
+  "enhanced_description": "Drona HQ is a low-code SaaS platform designed to empower engineering teams to rapidly build digital tools, streamline processes, and enhance productivity by democratizing custom application development. It offers a visual development environment with a drag-and-drop UI/UX builder, enabling the creation of rich web and mobile applications, internal tools, GUIs, admin panels, and CRUD applications. The platform supports unlimited apps and connectors, featuring ready database and API connectors, automation capabilities, a business logic editor, custom branding, SSO, embeddable apps, and a PDF generator. It facilitates the building of database GUIs and direct data source querying.",
+  "target_industries": [
+    "Human Resources",
+    "Technology (General)",
+    "Any industry requiring custom internal tools and applications"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Custom application development",
+    "Internal tool building",
+    "Web application development",
+    "Mobile application development",
+    "Database GUI creation",
+    "Admin panel development",
+    "CRUD application development",
+    "Process automation",
+    "Hiring automation",
+    "Data retrieval and modification tools"
+  ],
+  "competitive_advantages": [
+    "Low-code visual development for rapid application building",
+    "Drag-and-drop UI/UX builder",
+    "Unlimited apps and connectors across all plans",
+    "Broad connectivity with ready database and API connectors",
+    "Comprehensive feature set for app creation including automations and business logic editor",
+    "SaaS platform"
+  ],
+  "implementation_scenarios": [
+    "Building new custom web and mobile applications",
+    "Developing internal tools for specific business needs",
+    "Embedding applications into existing digital environments or portals"
+  ],
+  "hr_functions_supported": [
+    "Hiring and Recruitment (Automation, Efficiency, Tools)",
+    "HR Operations (through custom tool development)",
+    "HR Management (through custom tool development)"
+  ],
+  "integration_capabilities": [
+    "Ready database connectors",
+    "API connectors",
+    "Embeddable applications"
+  ],
+  "roi_benefits": [
+    "Increased productivity through streamlined processes and digital tools",
+    "Faster application development time due to low-code approach",
+    "Democratization of custom application development, reducing reliance on extensive coding",
+    "Improved efficiency in daily operations and specific HR functions like hiring",
+    "Enhanced hiring manager confidence and productivity"
+  ],
+  "searchable_keywords": [
+    "Drona HQ",
+    "low code",
+    "low-code platform",
+    "app development",
+    "digital tools",
+    "streamline processes",
+    "productivity",
+    "web apps",
+    "mobile apps",
+    "internal tools",
+    "GUI",
+    "admin panels",
+    "CRUD",
+    "visual development",
+    "drag and drop",
+    "UI/UX builder",
+    "database connectors",
+    "API connectors",
+    "automations",
+    "business logic editor",
+    "custom branding",
+    "SSO",
+    "embeddable apps",
+    "PDF generator",
+    "SaaS",
+    "HRMS",
+    "HCM",
+    "HR technology",
+    "hiring automation",
+    "hiring efficiency",
+    "hiring tools",
+    "hiring best practices"
+  ],
+  "primary_users": [
+    "Engineering teams",
+    "HR Managers",
+    "Application developers",
+    "Business users (creating digital tools)"
+  ],
+  "deployment_options": [
+    "SaaS",
+    "Cloud-based"
+  ],
+  "scalability_features": [
+    "Unlimited apps and connectors across all plans"
+  ],
+  "security_features": [
+    "Single Sign-On (SSO)"
+  ],
+  "_weight": 1
+}

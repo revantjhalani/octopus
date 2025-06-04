@@ -1,0 +1,117 @@
+{
+  "id": 1086,
+  "name": "Ring Central",
+  "description": "RingCentral empowers businesses with AI-first conversation intelligence, and unlocks rich customer and employee interactions to gain insights and accelerate business outcomes. With decades of expertise in reliable and secure cloud communications, RingCentral has earned the trust of millions of customers and thousands of partners worldwide.",
+  "features": [
+    "Offer service  to Non profit organization ",
+    " Wide range of services ",
+    "partnership in different ways "
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Internet of things"
+  ],
+  "tags": [
+    "Learning efficiency",
+    "Skill acquisition",
+    "Personalised learning"
+  ],
+  "headquarter": "California",
+  "launch_date": "1999",
+  "order": 21029,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "The complete cloud communication platform",
+  "ProductId": null,
+  "ShortDescription": "RingCentral, Inc. (NYSE: RNG) is a leading global provider of cloud-based business communications",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:40:15.383Z",
+  "enhanced_description": "RingCentral is a leading global provider of AI-first cloud-based business communications, offering a complete platform to empower businesses. It leverages conversation intelligence to unlock rich customer and employee interactions, gaining insights and accelerating business outcomes. With decades of expertise in reliable and secure cloud communications, RingCentral has earned the trust of millions of customers and thousands of partners worldwide.",
+  "target_industries": [
+    "Non-profit"
+  ],
+  "key_use_cases": [
+    "Gaining insights from customer and employee interactions",
+    "Accelerating business outcomes",
+    "Accelerating skill development",
+    "Improving learning efficiency"
+  ],
+  "competitive_advantages": [
+    "AI-first conversation intelligence",
+    "Decades of expertise in reliable and secure cloud communications",
+    "Global trust and widespread customer/partner adoption"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Workforce Development"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence",
+    "Cloud Computing",
+    "Internet of Things"
+  ],
+  "roi_benefits": [
+    "Improved business outcomes acceleration",
+    "Enhanced insights from interactions",
+    "Increased skill development and learning efficiency"
+  ],
+  "searchable_keywords": [
+    "Ring Central",
+    "cloud communications",
+    "business communications",
+    "AI conversation intelligence",
+    "artificial intelligence",
+    "learning efficiency",
+    "skill acquisition",
+    "personalized learning",
+    "non-profit communication",
+    "cloud platform",
+    "IoT",
+    "employee interactions",
+    "secure communications"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Professionals",
+    "Business Leaders"
+  ],
+  "deployment_options": [
+    "Cloud"
+  ],
+  "scalability_features": [
+    "Global scalability"
+  ],
+  "security_features": [
+    "Secure cloud communications"
+  ],
+  "_weight": 1
+}

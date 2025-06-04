@@ -1,0 +1,111 @@
+{
+  "id": 1263,
+  "name": "Eduvannz",
+  "description": "Eduvanz was founded in 2016 with the mission to empower students to make educated and informed decisions by providing free financial resources and unbiased advice.",
+  "features": [
+    "Loans for School, College, Vocational courses, Upskilling courses & online Courses",
+    "Products on easy EMI's Electronics, Gaming, Wearables & Mobility"
+  ],
+  "founders": [
+    "Varun Chopra"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [],
+  "sub_categories": [
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee hapiness",
+    "Employee well being",
+    "Employee satisfaction"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2016",
+  "order": 21091,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Eduvanz provides low cost, smart loans to finance your skill based educational trainings.",
+  "ProductId": null,
+  "ShortDescription": "Eduvanz provides low cost, smart loans to finance your skill based educational trainings.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:13:30.456Z",
+  "enhanced_description": "Eduvanz, founded in 2016 in Mumbai, Maharashtra, is a financial technology service that provides low-cost, smart loans to finance various educational and skill-based training programs, including school, college, vocational, upskilling, and online courses. Beyond educational financing, Eduvanz also offers products on easy EMIs for electronics, gaming, wearables, and mobility. Positioned within the HR technology space as a software and service, its core mission, within an HR context, is to empower employees by providing free financial resources and unbiased advice, ultimately aiming to improve employee happiness, engagement, well-being, and satisfaction through access to funding for professional development and personal growth.",
+  "key_use_cases": [
+    "Financing for employee upskilling and professional development courses",
+    "Providing financial support for employee education and training programs",
+    "Offering a financial wellness benefit focused on educational expenses for employees",
+    "Enabling access to skill-based educational training for employees"
+  ],
+  "competitive_advantages": [
+    "Offers low cost loans",
+    "Provides smart loans",
+    "Offers free financial resources",
+    "Provides unbiased financial advice",
+    "Products available on easy EMIs"
+  ],
+  "hr_functions_supported": [
+    "Employee Benefits (specifically financial support for education)",
+    "Learning & Development (by facilitating access to educational courses)",
+    "Employee Engagement",
+    "Employee Experience",
+    "Employee Well-being"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness",
+    "Enhanced employee engagement",
+    "Increased employee well-being",
+    "Higher employee satisfaction",
+    "Facilitates employee skill development and retention"
+  ],
+  "searchable_keywords": [
+    "Eduvanz",
+    "education loans",
+    "skill development",
+    "upskilling",
+    "vocational courses",
+    "online courses",
+    "financial resources",
+    "financial advice",
+    "EMI",
+    "employee happiness",
+    "employee engagement",
+    "employee well-being",
+    "employee satisfaction",
+    "HR software",
+    "HR services",
+    "employee benefits",
+    "learning and development financing",
+    "professional development loans",
+    "financial wellness for employees"
+  ],
+  "primary_users": [
+    "Employees seeking financial assistance for education or skill development",
+    "HR professionals managing employee benefits and learning & development programs"
+  ],
+  "_weight": 1
+}

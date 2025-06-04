@@ -1,0 +1,124 @@
+{
+  "id": 176,
+  "name": "NUS",
+  "description": "The National University of Singapore (NUS) is Singapore\u2019s flagship university, which offers a global approach to education, research and enterprise, with a focus on Asian perspectives and expertise. We have 16 colleges, faculties and schools across three campuses in Singapore, with more than 40,000 students from 100 countries enriching our vibrant and diverse campus community. We have also established more than 20 NUS Overseas Colleges entrepreneurial hubs around the world.",
+  "features": [
+    "60 Bachelor's degrees",
+    "12.8K Graduate students",
+    "2.5K Faculty"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Course authoring"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Adaptive learning"
+  ],
+  "headquarter": "Singapore, Singapore",
+  "launch_date": "1905",
+  "order": 20143,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Dreamers. Trailblazers. Changemakers of Tomorrow.",
+  "ProductId": null,
+  "ShortDescription": "At NUS, we believe in education, research and service that change lives.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Top Ranked",
+      "sequence": 0,
+      "description": "NUS is a world-class university, ranking #8 globally (QS World University Rankings)."
+    },
+    {
+      "name": "Global Hub",
+      "sequence": 1,
+      "description": " With over 38,000 students from 100+ countries, NUS offers a vibrant and diverse campus life."
+    },
+    {
+      "name": "Research Powerhouse",
+      "sequence": 2,
+      "description": "NUS prioritizes research and innovation, attracting top minds and creating real-world solutions."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:57.524Z",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerating skill development for employees",
+    "Improving learning efficiency within an organization",
+    "Managing corporate learning programs via an LMS",
+    "Authoring and creating learning content for training initiatives"
+  ],
+  "competitive_advantages": [
+    "Leverages the expertise and academic rigor of a top-ranked global university (#8 globally by QS World University Rankings)",
+    "Offers a global perspective and diverse learning environment, potentially influencing its learning solutions",
+    "Rooted in a strong research and innovation culture, which may inform its learning methodologies and content"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Improved learning efficiency"
+  ],
+  "searchable_keywords": [
+    "NUS",
+    "National University of Singapore",
+    "Learning and Development",
+    "Corporate LMS",
+    "Course authoring",
+    "Skill development",
+    "Learning efficiency",
+    "Adaptive learning",
+    "LMS",
+    "e-learning",
+    "online learning",
+    "corporate training",
+    "education",
+    "Singapore"
+  ],
+  "primary_users": [
+    "Corporate learners (employees)",
+    "HR professionals",
+    "Learning and Development (L&D) professionals",
+    "Content creators (e.g., instructional designers, subject matter experts)"
+  ],
+  "scalability_features": [
+    "Designed to support a large number of users (e.g., implied by over 40,000 students and 2.5K faculty within the university context, and targeting Large/Global Enterprises)",
+    "Supports global operations and diverse user bases (implied by 'Global Hub' and '100+ countries')"
+  ],
+  "_weight": 1
+}

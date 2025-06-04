@@ -1,0 +1,134 @@
+{
+  "id": 1314,
+  "name": "BluTech Talent",
+  "description": "BluTech Talent Plus, founded by HR veterans, helps businesses move from HCM to Human Experience Management (HXM) using SAP SuccessFactors. Our 50+ years of HR expertise and focus on digital transformation ensure successful implementation for your organization.",
+  "features": [
+    "Customized Solutions",
+    "Cloud-Based Expertise",
+    "Long-Term Partnership"
+  ],
+  "founders": [
+    "Gowtham Boyanapally"
+  ],
+  "price": [],
+  "business_objectives": [],
+  "categories": [],
+  "sub_categories": [],
+  "tags": [],
+  "headquarter": "Pune, Maharashtra",
+  "launch_date": "2019",
+  "order": 21134,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Outstanding Employee Experience Through Technology",
+  "ProductId": null,
+  "ShortDescription": "Your search for a world class SAP SuccessFactors partner ends here!",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [
+    "HCM TEST2"
+  ],
+  "Highlights": [
+    {
+      "name": "Proven Approach",
+      "sequence": 0,
+      "description": "Deploy a standard, reliable SAP SuccessFactors methodology to maximize your system's benefits."
+    },
+    {
+      "name": "Delivering on Your Vision",
+      "sequence": 1,
+      "description": "We focus on your HR digitization roadmap, change management, transformation goals, and technology needs."
+    },
+    {
+      "name": "Supporting Your Operations",
+      "sequence": 2,
+      "description": "Our models cater to all your demands, from ticket-based resolution to virtual administration."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:43.415Z",
+  "enhanced_description": "BluTech Talent Plus is a world-class SAP SuccessFactors partner, founded by HR veterans with over 50 years of combined HR expertise. They specialize in helping large and global enterprises transition from traditional HCM to Human Experience Management (HXM) by providing successful SAP SuccessFactors implementations. Their focus on digital transformation, proven methodology, and support for HR digitization roadmaps, change management, and transformation goals aims to deliver outstanding employee experiences through technology. BluTech Talent offers customized solutions, cloud-based expertise, and commits to long-term partnerships, including comprehensive post-implementation operational support models like ticket-based resolution and virtual administration.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "SAP SuccessFactors implementation",
+    "HR digital transformation",
+    "Human Experience Management (HXM) adoption",
+    "Change management during HR technology rollout",
+    "Optimizing SAP SuccessFactors usage",
+    "Post-implementation support for SAP SuccessFactors operations"
+  ],
+  "competitive_advantages": [
+    "Deep HR expertise (50+ years of combined experience)",
+    "Specialization in SAP SuccessFactors HXM transformation",
+    "Proven SAP SuccessFactors implementation methodology",
+    "Focus on digital transformation and change management",
+    "Offers customized solutions and long-term partnership",
+    "Comprehensive post-implementation operational support"
+  ],
+  "implementation_scenarios": [
+    "Full SAP SuccessFactors suite implementation",
+    "Migration from HCM to HXM platforms",
+    "HR digital transformation projects"
+  ],
+  "hr_functions_supported": [
+    "HR Digital Transformation",
+    "HR Technology Implementation",
+    "HR Change Management",
+    "HR System Administration (post-implementation support)"
+  ],
+  "technology_stack": [
+    "SAP SuccessFactors"
+  ],
+  "roi_benefits": [
+    "Maximized benefits from SAP SuccessFactors investment",
+    "Successful digital transformation of HR",
+    "Improved employee experience through technology adoption"
+  ],
+  "searchable_keywords": [
+    "BluTech Talent",
+    "BluTech Talent Plus",
+    "SAP SuccessFactors partner",
+    "HXM implementation",
+    "Human Experience Management",
+    "HCM transformation",
+    "HR digital transformation",
+    "HR technology implementation",
+    "change management",
+    "cloud HR",
+    "customized HR solutions",
+    "HR consulting",
+    "enterprise HR",
+    "global HR",
+    "employee experience technology",
+    "HR digitization",
+    "SAP SuccessFactors support",
+    "HR system administration"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "HR IT Teams",
+    "CHROs",
+    "CIOs"
+  ],
+  "_weight": 1
+}

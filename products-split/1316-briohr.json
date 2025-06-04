@@ -1,0 +1,152 @@
+{
+  "id": 1316,
+  "name": "BrioHR",
+  "description": "\nChatGPT\nBrioHR empowers businesses to prioritize people with a comprehensive, cloud-based HR solution. From payroll to recruitment and performance management, our intuitive and scalable software enhances workplace experiences worldwide. Whether for recruitment, onboarding, leave management, or strategic HR analytics, BrioHR provides the tools and support to optimize HR processes, enabling organizations to focus on their people and customer relationships effectively.",
+  "features": [
+    "All-in-One HRIS",
+    "Automated Workflows",
+    "Data-Driven Decisions"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Payroll services providers",
+    "Applicant tracking system (ATS)"
+  ],
+  "tags": [
+    "HRMS"
+  ],
+  "headquarter": "Kuala Lumpur, Malaysia",
+  "launch_date": "2018",
+  "order": 21135,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Southeast Asia\u2019s fastest growing end-to-end HR platform",
+  "ProductId": null,
+  "ShortDescription": "HR Software That Simplifies All Your HR Processes",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Stress-Free HR",
+      "sequence": 0,
+      "description": "Dedicated HR manager and simple-to-use platform let you focus on your business, not paperwork."
+    },
+    {
+      "name": "Grow with Confidence",
+      "sequence": 1,
+      "description": "Our scalable platform adapts to your evolving needs, ensuring a long-lasting HR solution."
+    },
+    {
+      "name": "Transparent Value",
+      "sequence": 2,
+      "description": "Simple pricing and exceptional support deliver maximum productivity for your investment."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:46.908Z",
+  "enhanced_description": "BrioHR is a comprehensive, cloud-based, and intuitive HR software designed to simplify end-to-end HR processes for businesses. Touted as Southeast Asia's fastest-growing HR platform, it supports core functions like payroll, recruitment, performance management, onboarding, leave management, and strategic HR analytics. The platform offers automated workflows and data-driven decision-making capabilities, emphasizing stress-free HR with dedicated HR manager support and a simple-to-use, scalable solution that adapts to evolving business needs, delivering transparent value and maximum productivity.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Payroll management",
+    "Recruitment management",
+    "Performance management",
+    "Onboarding",
+    "Leave management",
+    "Strategic HR analytics",
+    "Workflow automation",
+    "Data-driven decision making"
+  ],
+  "competitive_advantages": [
+    "Cloud-based solution",
+    "Comprehensive end-to-end HRIS",
+    "Intuitive and scalable platform",
+    "Dedicated HR manager support",
+    "Simple and transparent pricing",
+    "Exceptional customer support",
+    "Focus on maximizing productivity for investment",
+    "Southeast Asia's fastest growing platform"
+  ],
+  "hr_functions_supported": [
+    "Payroll",
+    "Recruitment",
+    "Performance Management",
+    "Onboarding",
+    "Leave Management",
+    "HR Analytics",
+    "Applicant Tracking System (ATS)",
+    "HRIS"
+  ],
+  "roi_benefits": [
+    "Enhanced workplace experiences",
+    "Optimized HR processes",
+    "Reduced administrative burden/paperwork",
+    "Increased focus on core business and customer relationships",
+    "Improved productivity",
+    "Enables data-driven decisions",
+    "Scalability for long-term HR solution"
+  ],
+  "searchable_keywords": [
+    "BrioHR",
+    "HR software",
+    "HR solution",
+    "HRIS",
+    "HRMS",
+    "HCM",
+    "Payroll",
+    "Recruitment",
+    "Performance management",
+    "Onboarding",
+    "Leave management",
+    "HR analytics",
+    "Automated workflows",
+    "Data-driven decisions",
+    "Cloud HR",
+    "Southeast Asia HR",
+    "Applicant tracking system",
+    "ATS",
+    "End-to-end HR",
+    "HR processes",
+    "Stress-Free HR",
+    "Scalable HR"
+  ],
+  "primary_users": [
+    "HR managers",
+    "HR professionals",
+    "Employees"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "scalability_features": [
+    "Scalable platform that adapts to evolving needs"
+  ],
+  "_weight": 1
+}

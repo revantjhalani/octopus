@@ -1,0 +1,169 @@
+{
+  "id": 139,
+  "name": "MARS Recruitment",
+  "description": "MARS Recruitment specializes in aligning talent with opportunities across various industries. Our industry specialists offer extensive experience and personalized service, ensuring a deep understanding of organizational needs. We prioritize partnership, providing ongoing support and career advice beyond recruitment. With a collaborative team approach spanning offices and borders, we maximize potential by offering access to diverse opportunities and emerging talent, making us your preferred recruitment partner.",
+  "features": [
+    "Specialization Across Industries",
+    "Focus on Skills and Experience",
+    "Project-Based Solutions"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Job boards",
+    "Recruitment marketing platforms",
+    "HR consulting providers",
+    "Staffing services providers",
+    "Recruitment agencies"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Talent acquisition",
+    "Talent sourcing",
+    "Hiring best practices",
+    "Talent pipeline"
+  ],
+  "headquarter": "Perth, Melbourne & Sydney",
+  "launch_date": "2008",
+  "order": 20106,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Aligning Talent with Oppurtunity",
+  "ProductId": null,
+  "ShortDescription": "MARS Recruitment helps in searching best talents and recruiting them across industry verticals",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Proven Track Record",
+      "sequence": 0,
+      "description": "With a focus on high-caliber candidates, MARS Recruitment likely has a successful track record of placing qualified individuals in top companies."
+    },
+    {
+      "name": "Global Reach",
+      "sequence": 1,
+      "description": "They have a presence in multiple countries, including Australia and the UK."
+    },
+    {
+      "name": "Client-Centric Approach",
+      "sequence": 2,
+      "description": "Their focus on understanding client needs and tailoring solutions suggests a commitment to client satisfaction."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:09.251Z",
+  "enhanced_description": "Established in 2008, MARS Recruitment is a global recruitment agency and staffing service provider, with a presence in Australia (Perth, Melbourne, Sydney) and the UK. Specializing across various industries, they align talent with opportunities through industry specialists offering extensive experience and personalized service. MARS prioritizes partnership, delivering ongoing support and career advice, and leverages a collaborative team approach to access diverse opportunities and emerging talent. With a proven track record and client-centric approach, MARS aims to help organizations hire top talent faster and more efficiently.",
+  "target_industries": [
+    "Cross-industry"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Aligning talent with opportunities",
+    "Searching and recruiting best talents",
+    "Project-based staffing solutions",
+    "Talent acquisition",
+    "Talent sourcing",
+    "Providing career advice and ongoing support"
+  ],
+  "competitive_advantages": [
+    "Specialized industry expertise",
+    "Personalized service",
+    "Partnership-focused approach",
+    "Global reach (Australia, UK)",
+    "Collaborative team approach",
+    "Access to diverse opportunities and emerging talent",
+    "Proven track record",
+    "Client-centric approach",
+    "Ongoing support and career advice beyond recruitment"
+  ],
+  "implementation_scenarios": [
+    "Project-based staffing"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Talent Sourcing",
+    "Staffing Services",
+    "HR Consulting (career advice)"
+  ],
+  "roi_benefits": [
+    "Faster hiring",
+    "More efficient hiring",
+    "Access to top talent",
+    "Improved recruiting efficiency"
+  ],
+  "searchable_keywords": [
+    "MARS Recruitment",
+    "Recruiting",
+    "Job boards",
+    "Recruitment marketing platforms",
+    "HR consulting providers",
+    "Staffing services providers",
+    "Recruitment agencies",
+    "Hiring speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Talent acquisition",
+    "Talent sourcing",
+    "Hiring best practices",
+    "Talent pipeline",
+    "Talent",
+    "Opportunity",
+    "Specialization",
+    "Industries",
+    "Skills",
+    "Experience",
+    "Project-Based Solutions",
+    "Partnership",
+    "Support",
+    "Career Advice",
+    "Collaborative",
+    "Team",
+    "Global Reach",
+    "Client-Centric",
+    "Proven Track Record",
+    "Perth",
+    "Melbourne",
+    "Sydney",
+    "Australia",
+    "UK"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Professionals",
+    "Business Leaders",
+    "Job Seekers",
+    "Candidates"
+  ],
+  "_weight": 1
+}

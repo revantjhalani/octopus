@@ -1,0 +1,155 @@
+{
+  "id": 129,
+  "name": "Lissun App",
+  "description": "We are a tech-enabled mental and emotional health startup that supports people and corporates in fulfilling their mental health needs. We are a team of mental health, technology, and wellness professionals.  We also specializes in providing support to Children having developmental delays at our centers in various cities in India. ",
+  "features": [
+    "35000+ Therapies on our platform",
+    "10+ Categories where we are integrating mental heath into mainstream healthcare",
+    "200+ Clients whom we are serving to solve mental heath at scale"
+  ],
+  "founders": [
+    "Krishna Veer Singh",
+    "Tarun Gupta"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee happiness",
+    ""
+  ],
+  "headquarter": "Gurgaon, Haryana",
+  "launch_date": "2021",
+  "order": 20096,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Solving Mental Health at Scale",
+  "ProductId": null,
+  "ShortDescription": "Your mental health, Our priority",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Accessible Mental Healthcare",
+      "sequence": 0,
+      "description": "Lissun connects users with therapists remotely, making mental health services more accessible, especially for those in locations with limited resources."
+    },
+    {
+      "name": "Variety of Therapists",
+      "sequence": 1,
+      "description": "Lissun provides a platform to connect with therapists with diverse specializations to cater to individual needs."
+    },
+    {
+      "name": "Privacy and Security",
+      "sequence": 2,
+      "description": "The platform prioritizes user privacy and adheres to data security regulations to ensure a safe online therapy experience."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:20:58.549Z",
+  "enhanced_description": "Lissun App is a tech-enabled mental and emotional health platform focused on providing accessible and scalable mental health support. It serves both individuals and corporates, prioritizing user mental well-being and aiming to improve employee happiness and engagement. The platform offers a wide range of services, including over 35,000 therapies across more than 10 categories, integrating mental health into mainstream healthcare. It connects users with a variety of specialized therapists remotely, ensuring privacy and adherence to data security regulations for a safe online therapy experience. Lissun also provides specialized support for children with developmental delays at its physical centers in India, and has served over 200 corporate clients.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Providing mental and emotional health support to individuals",
+    "Supporting corporates in fulfilling employee mental health needs",
+    "Improving employee happiness and engagement within organizations",
+    "Facilitating remote access to therapy services",
+    "Connecting users with specialized therapists",
+    "Providing support for children with developmental delays"
+  ],
+  "competitive_advantages": [
+    "Extensive therapy offerings (35000+ therapies)",
+    "Integration of mental health into mainstream healthcare categories",
+    "Proven capability to serve mental health at scale (200+ clients)",
+    "Accessible mental healthcare through remote connectivity",
+    "Diverse range of specialized therapists",
+    "Prioritization of user privacy and adherence to data security regulations"
+  ],
+  "hr_functions_supported": [
+    "Employee Well-being",
+    "Employee Engagement",
+    "Employee Support"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness",
+    "Increased employee engagement"
+  ],
+  "searchable_keywords": [
+    "Lissun App",
+    "mental health",
+    "emotional health",
+    "tech-enabled",
+    "startup",
+    "corporate wellness",
+    "employee well being",
+    "employee happiness",
+    "therapies",
+    "healthcare integration",
+    "accessible mental healthcare",
+    "remote therapy",
+    "online therapy",
+    "telehealth",
+    "therapists",
+    "privacy",
+    "security",
+    "data security",
+    "HR software",
+    "wellness platform",
+    "children developmental delays",
+    "mental health support"
+  ],
+  "primary_users": [
+    "Individuals seeking mental and emotional health support",
+    "Employees of corporate clients",
+    "Human Resources (HR) departments in organizations",
+    "Children with developmental delays (at centers)"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "Mobile Application (App)"
+  ],
+  "compliance_features": [
+    "Adherence to data security regulations"
+  ],
+  "scalability_features": [
+    "Designed to solve mental health at scale",
+    "Serving over 200 corporate clients",
+    "Platform supports 35000+ therapies"
+  ],
+  "security_features": [
+    "Prioritizes user privacy",
+    "Adheres to data security regulations",
+    "Ensures a safe online therapy experience"
+  ],
+  "_weight": 1
+}

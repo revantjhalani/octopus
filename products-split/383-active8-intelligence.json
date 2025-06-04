@@ -1,0 +1,162 @@
+{
+  "id": 383,
+  "name": "Active8 Intelligence",
+  "description": "Founded in 2005, Activ8 Intelligence started as a tech-enabled HR consultancy, pioneering the use of employee data to solve HR problems. We work with organisations on large scale projects to increase employee engagement, reduce recruitment costs and increase retention by identifying things like \u2018flight risks\u2019 and \u2018good hires\u2019. Our people analytics platform, illumin8HR, evolved as we recognised the value of bringing employee data sources together to inform decisions and to understand their impact.",
+  "features": [
+    "Diversity, Equity and Inclusion",
+    "By bringing your people data together in one platform, illumin8HR can help your managers, HR and Finance teams make data driven decisions about the future workforce.",
+    "Gathering engagement data through surveys and pulse tests has become a rich source of intelligence to help identify potential problems and ultimately, ensure staff feel valued and supported."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Workforce management",
+    "HR management suites",
+    "Recruitment agencies",
+    "HR consulting providers",
+    "Recruiting automation software",
+    "Software and Services Related to HR Software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Hiring analytics"
+  ],
+  "headquarter": "",
+  "launch_date": "2005",
+  "order": 20344,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "People Analytics made easy",
+  "ProductId": null,
+  "ShortDescription": "Activ8 have offices in Derby and London in the UK and have partnered with some of the largest HRIS and talent providers in the US and Europe, including Raet, SDWorx and Liaison.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": [],
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": false,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:25:49.765Z",
+  "enhanced_description": "Active8 Intelligence, founded in 2005, originated as a tech-enabled HR consultancy, pioneering the use of employee data to solve complex HR problems. Their people analytics platform, illumin8HR, evolved to consolidate diverse employee data sources into a single platform, empowering data-driven decision-making for managers, HR, and Finance teams regarding the future workforce. The platform is designed to support large-scale HR projects, focusing on increasing employee engagement, reducing recruitment costs, and improving retention by identifying key insights such as 'flight risks' and 'good hires'. It specifically features capabilities for Diversity, Equity, and Inclusion initiatives and gathers engagement data through surveys and pulse tests to identify potential issues and ensure staff feel valued and supported.",
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Increasing employee engagement",
+    "Reducing recruitment costs",
+    "Increasing employee retention",
+    "Identifying potential 'flight risks'",
+    "Identifying 'good hires'",
+    "Enabling data-driven decision making for workforce planning",
+    "Supporting Diversity, Equity and Inclusion initiatives",
+    "Boosting hiring manager confidence and productivity",
+    "Hiring top talent faster and more efficiently"
+  ],
+  "competitive_advantages": [
+    "Origin as a pioneering tech-enabled HR consultancy leveraging employee data",
+    "Consolidates diverse employee data sources into a single people analytics platform (illumin8HR)",
+    "Expertise in specific outcomes like engagement, cost reduction, and retention",
+    "Strategic partnerships with major HRIS and talent providers (e.g., Raet, SDWorx, Liaison)"
+  ],
+  "implementation_scenarios": [
+    "Large-scale HR project implementation",
+    "Consultancy-driven implementation leveraging HR expertise",
+    "Integration with existing HRIS and talent management systems"
+  ],
+  "hr_functions_supported": [
+    "People Analytics",
+    "Employee Engagement",
+    "Diversity, Equity and Inclusion (DEI)",
+    "Workforce Planning",
+    "Talent Acquisition",
+    "Recruitment",
+    "Talent Management",
+    "HR Management",
+    "Retention Management"
+  ],
+  "integration_capabilities": [
+    "HRIS integration (e.g., Raet, SDWorx)",
+    "Talent provider integration (e.g., Liaison)",
+    "Integration with various employee data sources"
+  ],
+  "roi_benefits": [
+    "Increased employee engagement",
+    "Reduced recruitment costs",
+    "Improved employee retention",
+    "Enhanced data-driven decision-making for workforce",
+    "Boosted hiring manager confidence and productivity",
+    "Faster and more efficient top talent acquisition",
+    "Improved staff valuation and support"
+  ],
+  "searchable_keywords": [
+    "Active8 Intelligence",
+    "illumin8HR",
+    "People Analytics",
+    "HR technology",
+    "HR consultancy",
+    "employee data",
+    "HR problems",
+    "employee engagement",
+    "recruitment costs",
+    "employee retention",
+    "flight risks",
+    "good hires",
+    "data-driven decisions",
+    "future workforce",
+    "surveys",
+    "pulse tests",
+    "Diversity Equity Inclusion",
+    "DEI",
+    "Talent Management",
+    "Recruiting",
+    "Workforce management",
+    "HR management suites",
+    "Recruitment automation",
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Hiring analytics",
+    "HRIS integration",
+    "Raet",
+    "SDWorx",
+    "Liaison"
+  ],
+  "primary_users": [
+    "HR teams",
+    "Managers",
+    "Finance teams",
+    "Hiring Managers"
+  ],
+  "_weight": 1
+}

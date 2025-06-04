@@ -1,0 +1,135 @@
+{
+  "id": 789,
+  "name": "keySkillset",
+  "description": "keySkillset is a New-York based company operating since 2017 and is a patent pending platform under US law, which has developed a simulation based Learning Management System which helps facilitate practice as you learn.Our story began when Tatiana, our founder and a corporate trainer, started to notice a pattern in the questions asked by her trainees. Most of them were able to understand the concepts, but they faced the challenge of how to practice, how to retain the knowledge they had just acquired. At keySkillset, we strive to help our clients optimize the 40 hours of work per week by doing more in the same number of hours. We help every learner put themselves in an automatic mode to perform basic daily productivity functions 10x to 20x faster.",
+  "features": [
+    "Hands-on learning with immersive guided techniques",
+    "With Tutoring, you can set your own learning space helping you tackle complex scenarios",
+    "Only platform to employ a diverse array of learning formats: Video, Simulation, Face to Face & Audio in one place"
+  ],
+  "founders": [
+    "Nithin Krishna"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Course authoring",
+    "Corporate LMS"
+  ],
+  "tags": [
+    "Learning optimisation",
+    "Continuous learning"
+  ],
+  "headquarter": "Water Mill, New York",
+  "launch_date": "2018",
+  "order": 20742,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Revolutionize Your\n Learning with\n Guided Simulation",
+  "ProductId": null,
+  "ShortDescription": "keySkillset is a Learning Management System developed to make learning key business software skill sets easy through guided simulated learning.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Focus on Practical Skill Development",
+      "sequence": 0,
+      "description": "  KeySkillset emphasizes learning by doing through their simulated learning environment. This hands-on approach allows users to gain practical skills they can immediately apply in their work."
+    },
+    {
+      "name": "Personalized Learning Paths:",
+      "sequence": 1,
+      "description": "The platform offers a variety of learning formats including video tutorials, simulations, and face-to-face coaching. This allows users to personalize their learning experience based on their preferred learning style and specific needs."
+    },
+    {
+      "name": "Target Audience",
+      "sequence": 2,
+      "description": "While the website doesn't explicitly mention a specific target audience, the focus on practical skills and Excel courses suggests they cater to professionals seeking to improve their workplace skills, particularly in data analysis and spreadsheet software."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:30.506Z",
+  "enhanced_description": "keySkillset is a New-York based, patent-pending Learning Management System (LMS) launched in 2018, which has developed a unique simulation-based platform designed to facilitate practice as you learn. Originating from a corporate trainer's insight into trainees' challenges with practice and knowledge retention, keySkillset strives to help clients optimize their work productivity by enabling learners to perform basic daily functions 10x to 20x faster. It offers a hands-on learning experience through immersive guided techniques and is noted as the only platform to integrate a diverse array of learning formats including Video, Simulation, Face to Face (tutoring), and Audio in one place, allowing for personalized learning paths. The platform focuses on practical skill development, particularly for key business software skill sets, such as data analysis and spreadsheet software, catering to professionals seeking to improve their workplace skills.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerating skill development and learning efficiency",
+    "Improving workplace productivity for daily functions",
+    "Hands-on training for key business software skill sets",
+    "Facilitating skill practice and knowledge retention through simulation",
+    "Providing personalized learning paths for corporate training"
+  ],
+  "competitive_advantages": [
+    "Patent-pending simulation-based learning platform",
+    "Only platform to combine video, simulation, face-to-face, and audio learning formats in one place",
+    "Strong emphasis on hands-on learning and practical skill development through immersive guided techniques",
+    "Aims to increase productivity by 10x to 20x for basic daily functions"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Corporate Training",
+    "Skill Development"
+  ],
+  "roi_benefits": [
+    "Increased productivity (10x to 20x faster for daily functions)",
+    "Optimized work hours and efficiency",
+    "Accelerated skill development",
+    "Improved learning efficiency"
+  ],
+  "searchable_keywords": [
+    "LMS",
+    "Learning Management System",
+    "Simulation-based learning",
+    "Hands-on training",
+    "Skill development",
+    "Productivity enhancement",
+    "Corporate training",
+    "Learning optimization",
+    "Continuous learning",
+    "Business software skills",
+    "Data analysis training",
+    "Spreadsheet software training",
+    "Guided simulation",
+    "Immersive learning",
+    "Blended learning",
+    "Personalized learning",
+    "Workplace skills",
+    "Skill retention",
+    "Course authoring",
+    "Corporate LMS",
+    "Tutoring"
+  ],
+  "primary_users": [
+    "Learners",
+    "Trainees",
+    "Corporate Employees",
+    "Professionals"
+  ],
+  "_weight": 1
+}

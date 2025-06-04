@@ -1,0 +1,163 @@
+{
+  "id": 127,
+  "name": "LinkedIn",
+  "description": "LinkedIn is a business and employment-focused social media platform that works through websites and mobile apps and The platform is primarily used for professional networking and career development, and allows jobseekers to post their CVs and employers to post jobs.",
+  "features": [
+    "Online social network representing real-world professional relationships.",
+    "Create economic opportunity for every member of the global workforce.",
+    "Connect the world\u2019s professionals to make them more productive and successful."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Pre-employment screening software",
+    "Recruiting automation software",
+    "Applicant tracking system (ATS)",
+    "Recruitment marketing platforms",
+    "Job boards",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Hiring Speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Hiring best practices",
+    "Talent pipeline"
+  ],
+  "headquarter": "Sunnyvale, California, U.S",
+  "launch_date": "2003",
+  "order": 20094,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "LinkedIn connects the world's professionals to make them more productive and successful. ",
+  "ProductId": null,
+  "ShortDescription": "Manage your professional identity. Build and engage with your professional network.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "LinkedIn Sales Navigator",
+      "sequence": 0,
+      "description": "Sales Navigator makes relationship-based selling easy by helping you connect with the right people."
+    },
+    {
+      "name": "LinkedIn Recruiter",
+      "sequence": 1,
+      "description": "LinkedIn Recruiter is an all-encompassing hiring platform for talent professionals that helps find, connect with, and manage the people you want to be on your team. "
+    },
+    {
+      "name": "LinkedIn Business Manager",
+      "sequence": 2,
+      "description": "LinkedIn Business Manager is a managerial platform that makes it easier for organizations to manage their Campaign Manager Ad accounts and LinkedIn Pages from one place"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:20:56.001Z",
+  "enhanced_description": "LinkedIn is a leading business and employment-focused social media platform accessible via websites and mobile apps. It is primarily used for professional networking and career development, enabling jobseekers to manage their professional identity and post CVs, while employers can post jobs. The platform aims to connect the world's professionals to make them more productive and successful, fostering real-world professional relationships and creating economic opportunity for the global workforce. Key offerings include LinkedIn Recruiter, an all-encompassing hiring platform for talent professionals; LinkedIn Sales Navigator, designed to facilitate relationship-based selling; and LinkedIn Business Manager, which helps organizations manage Campaign Manager Ad accounts and LinkedIn Pages.",
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Professional networking",
+    "Career development",
+    "Job searching",
+    "Job posting",
+    "Talent acquisition",
+    "Recruitment",
+    "Professional relationship management",
+    "Sales prospecting",
+    "Marketing and advertising for businesses",
+    "Brand management for organizations"
+  ],
+  "competitive_advantages": [
+    "Vast global professional network",
+    "Focus on real-world professional relationships",
+    "Specialized platforms for recruiting (LinkedIn Recruiter) and sales (LinkedIn Sales Navigator)",
+    "Centralized platform for professional identity and career development"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Applicant Tracking",
+    "Recruitment Marketing",
+    "Pre-employment Screening",
+    "Talent Pipelining"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence"
+  ],
+  "roi_benefits": [
+    "Increased hiring speed",
+    "Improved recruiting efficiency",
+    "Enhanced professional productivity",
+    "Facilitates career development and economic opportunity",
+    "Streamlined talent acquisition processes",
+    "Easier relationship-based selling"
+  ],
+  "searchable_keywords": [
+    "LinkedIn",
+    "professional network",
+    "social media",
+    "employment",
+    "recruiting",
+    "talent acquisition",
+    "job board",
+    "ATS",
+    "applicant tracking system",
+    "recruitment software",
+    "career development",
+    "professional identity",
+    "job search",
+    "hiring",
+    "talent pipeline",
+    "recruitment marketing",
+    "pre-employment screening",
+    "recruitment automation",
+    "sales navigator",
+    "LinkedIn Recruiter",
+    "business manager",
+    "professional relationships",
+    "global workforce",
+    "AI",
+    "artificial intelligence"
+  ],
+  "primary_users": [
+    "Job seekers",
+    "Employers",
+    "Recruiters",
+    "Talent acquisition professionals",
+    "Sales professionals",
+    "Marketing professionals",
+    "General professionals"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "Web-based",
+    "Mobile application"
+  ],
+  "_weight": 1
+}

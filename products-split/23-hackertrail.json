@@ -1,0 +1,178 @@
+{
+  "id": 23,
+  "name": "Hackertrail",
+  "description": "HackerTrail reshapes tech job searches, empowering candidates to find roles matching their strengths and preferences. Our proprietary tech and content disrupt traditional recruitment, backed by top HR tech investors. With 120+ clients across 5 cities and candidates from 80+ countries, we prioritize customer-centricity, value creation, meaningful collaboration, and transparent communication. Challenging the status quo, we enable techies worldwide to confidently secure their dream jobs.",
+  "features": [
+    "Global Talent Pool",
+    "Skill-Matching Technology",
+    "Personalized Approach"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Applicant tracking system (ATS)",
+    "Recruitment marketing platforms",
+    "Recruitment agencies"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring efficiency",
+    "Hiring automation",
+    "Hiring tools",
+    "Hiring analytics",
+    "Data-driven hiring",
+    "Hiring best practices"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2014",
+  "order": 20006,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "HackerTrail connects talent with opportunity in one seamless, efficient process. ",
+  "ProductId": null,
+  "ShortDescription": "Let HackerTrail be\r\npart of your career journey.\r",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "AI-powered Search",
+      "sequence": 0,
+      "description": "Find top tech talent faster with Scout, our cutting-edge sourcing tool."
+    },
+    {
+      "name": "Skill-Assured Matches",
+      "sequence": 1,
+      "description": "Litmus, our assessment platform, guarantees qualified candidates for your needs."
+    },
+    {
+      "name": "Tech Industry Network",
+      "sequence": 2,
+      "description": "Join Purple Squirrel, our exclusive club, for collaboration and knowledge sharing."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": null,
+  "New_Arrival": null,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-08T08:32:19.260Z",
+  "enhanced_description": "HackerTrail is an HR technology solution launched in 2014, headquartered in Singapore, that revolutionizes tech job searches and recruitment globally. It empowers candidates from over 80 countries to find roles matching their strengths and preferences through its proprietary skill-matching technology and personalized approach. For clients, HackerTrail aims to boost hiring manager confidence and productivity by providing access to a global talent pool. Key features include 'Scout', an AI-powered sourcing tool for finding top tech talent faster, 'Litmus', an assessment platform ensuring skill-assured matches and qualified candidates, and 'Purple Squirrel', an exclusive club for tech industry collaboration and knowledge sharing. With over 120 clients across 5 cities, HackerTrail serves companies of all sizes, from small businesses to large and global enterprises, by disrupting traditional recruitment practices and fostering data-driven hiring.",
+  "target_industries": [
+    "Technology"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Mid-Market",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Tech talent sourcing and acquisition",
+    "Candidate skill assessment and validation",
+    "Matching candidates to roles based on strengths and preferences",
+    "Modernizing recruitment processes for tech roles",
+    "Building and leveraging a professional network for techies",
+    "Boosting hiring manager productivity and confidence",
+    "Applicant tracking for tech roles"
+  ],
+  "competitive_advantages": [
+    "Proprietary skill-matching technology and content",
+    "AI-powered talent sourcing (Scout)",
+    "Skill-assured candidate qualification via assessment platform (Litmus)",
+    "Exclusive tech industry network for collaboration (Purple Squirrel)",
+    "Global talent pool spanning 80+ countries",
+    "Customer-centric and value-creation approach",
+    "Disruptive approach to traditional recruitment"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Sourcing",
+    "Applicant Tracking",
+    "Candidate Assessment",
+    "Recruitment Marketing",
+    "Hiring Analytics"
+  ],
+  "technology_stack": [
+    "AI"
+  ],
+  "integration_capabilities": [],
+  "roi_benefits": [
+    "Faster time-to-hire for tech talent",
+    "Increased hiring manager confidence",
+    "Enhanced hiring manager productivity",
+    "Higher quality of hire through skill-assured matches",
+    "Improved hiring efficiency",
+    "Automated recruitment tasks",
+    "Data-driven hiring decisions",
+    "Reduced hiring risks"
+  ],
+  "searchable_keywords": [
+    "Hackertrail",
+    "HackerTrail",
+    "tech job searches",
+    "tech talent",
+    "recruitment",
+    "HR tech",
+    "candidates",
+    "clients",
+    "job matching",
+    "skill matching",
+    "hiring",
+    "Global Talent Pool",
+    "Skill-Matching Technology",
+    "Personalized Approach",
+    "Recruiting software",
+    "Applicant tracking system",
+    "ATS",
+    "Recruitment marketing platforms",
+    "Recruitment agencies",
+    "Hiring efficiency",
+    "Hiring automation",
+    "Hiring tools",
+    "Hiring analytics",
+    "Data-driven hiring",
+    "Hiring best practices",
+    "AI-powered Search",
+    "sourcing tool",
+    "Skill-Assured Matches",
+    "assessment platform",
+    "qualified candidates",
+    "Tech Industry Network",
+    "collaboration",
+    "knowledge sharing",
+    "Scout",
+    "Litmus",
+    "Purple Squirrel",
+    "talent acquisition",
+    "tech recruitment"
+  ],
+  "primary_users": [
+    "Candidates (Techies)",
+    "Hiring Managers",
+    "Recruiters",
+    "Employers"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,169 @@
+{
+  "id": 106,
+  "name": "Ascent HR",
+  "description": "Ascent HR's customized HR solutions strengthen clients\u2019 business infrastructure, processes and enable them to be more flexible, accessible, efficient & secure. Thus, sharpening their competitive advantage. They offer a hybrid framework of customised technology solutions supported by an efficient and tightly integrated services layer. ",
+  "features": [
+    "HR Automation as a SaaS Service",
+    "Payroll Processing as a Managed Service",
+    "Benefits and Compliance",
+    "HR Compliance Management"
+  ],
+  "founders": [
+    "Geeta Lachireddy"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Talent Management",
+    "Recruiting",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "HR analytics software",
+    "Staffing & management software"
+  ],
+  "tags": [
+    "Hiring",
+    "Hiring process optimization",
+    "Recruiting efficiency",
+    ""
+  ],
+  "headquarter": "Bengaluru",
+  "launch_date": "2002",
+  "order": 20076,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Powering People Practice",
+  "ProductId": null,
+  "ShortDescription": "AscentHR is a company that offers solutions and services for payroll, compliance, and HR consulting across industries and countries.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "HR Management System (HRMS)",
+      "sequence": 0,
+      "description": "Streamline your HR processes with AscentHR's HRMS, a comprehensive solution for managing payroll, benefits, time and attendance, and more."
+    },
+    {
+      "name": "Consulting Services",
+      "sequence": 1,
+      "description": "Get expert guidance on all your HR needs, from strategy and compliance to talent management and employee relations."
+    },
+    {
+      "name": "Scalable Solutions",
+      "sequence": 2,
+      "description": "AscentHR's solutions are designed to grow with your business, so you can be confident that you have the HR support you need at every stage."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-26T12:20:30.908Z",
+  "enhanced_description": "Ascent HR provides a powerful and flexible 'People Practice' platform, offering customized HR solutions through a hybrid framework of SaaS-based technology and tightly integrated managed services. Their comprehensive suite includes HR automation, payroll processing, benefits administration, and robust HR compliance management, all designed to strengthen business infrastructure, streamline processes, and enhance competitive advantage. Ascent HR also offers expert HR consulting services and scalable solutions built to grow with evolving business needs, supporting companies across various sizes and international operations.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Automating core HR processes",
+    "Managing payroll operations",
+    "Ensuring HR regulatory compliance",
+    "Administering employee benefits",
+    "Optimizing talent acquisition and hiring efficiency",
+    "Strategic HR consulting and guidance",
+    "Managing time and attendance",
+    "Supporting employee relations"
+  ],
+  "competitive_advantages": [
+    "Customized HR solutions",
+    "Hybrid framework of technology solutions and integrated services layer",
+    "Scalable solutions designed to grow with businesses",
+    "Focus on enhancing flexibility, accessibility, efficiency, and security",
+    "Expert HR consulting services available"
+  ],
+  "hr_functions_supported": [
+    "HR Automation",
+    "Payroll",
+    "Benefits Administration",
+    "HR Compliance Management",
+    "Talent Management",
+    "Recruiting / Hiring",
+    "HR Analytics",
+    "Staffing & Management",
+    "Time & Attendance",
+    "Employee Relations",
+    "HR Strategy & Consulting"
+  ],
+  "roi_benefits": [
+    "Increased business infrastructure strength",
+    "Enhanced process efficiency",
+    "Improved organizational flexibility",
+    "Greater accessibility",
+    "Sharpened competitive advantage",
+    "Faster and more efficient talent acquisition",
+    "Streamlined HR processes",
+    "Confident business growth through scalable HR support"
+  ],
+  "searchable_keywords": [
+    "Ascent HR",
+    "HR solutions",
+    "HR automation",
+    "SaaS",
+    "payroll processing",
+    "managed service",
+    "benefits",
+    "compliance",
+    "HR compliance management",
+    "HRMS",
+    "HCM",
+    "talent management",
+    "recruiting",
+    "hiring",
+    "HR analytics software",
+    "staffing software",
+    "management software",
+    "people practice",
+    "HR consulting",
+    "scalable solutions",
+    "time and attendance",
+    "employee relations",
+    "HR strategy"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "HR Managers",
+    "HR Leadership / Executives",
+    "Business Leaders"
+  ],
+  "deployment_options": [
+    "Cloud (SaaS)"
+  ],
+  "compliance_features": [
+    "Comprehensive HR compliance management"
+  ],
+  "scalability_features": [
+    "Solutions designed to grow with your business"
+  ],
+  "_weight": 1
+}

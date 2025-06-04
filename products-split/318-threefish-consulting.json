@@ -1,0 +1,168 @@
+{
+  "id": 318,
+  "name": "ThreeFish Consulting",
+  "description": "ThreeFish is a People and Organisation Capability Consulting company that focuses on applying behavioral science to help people and organizations operate at their true potential. We are the Master Distributor for Hogan Assessments in India. ThreeFish follow the Scientist-Practitioner model. Our solutions build on the Science of Organizational Psychology to solve people and organization capability problems. As the Master Distributor for Hogan Assessments, we serve Hogan\u2019s global clients and MNC consulting firms that are Hogan partners. We work closely with Indian companies to integrate Hogan Assessments for leadership assessment and development. We collaborate with other Hogan solution partners and independent practitioners for expanding the Hogan reach and impact in India.",
+  "features": [
+    "Data Driven",
+    "Proven Impact",
+    "Technology Enabled"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Pre-employment screening software",
+    "Pre-employment testing software",
+    "Training & development companies",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Data-driven hiring",
+    "Candidate screening",
+    "Adaptive learning",
+    "Personalised learning",
+    "Learning optimisation"
+  ],
+  "headquarter": "New Delhi, New Delhi",
+  "launch_date": "2016",
+  "order": 20280,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Assessment . Coaching . Consulting",
+  "ProductId": null,
+  "ShortDescription": "ThreeFish is a People and Organisation Capability Consulting company that focuses on applying behavioral science to help people and organizations operate at their true potential.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Assessment",
+      "sequence": 0,
+      "description": "We use the powerful Science of Personality to predict Leadership Effectiveness."
+    },
+    {
+      "name": "Coaching",
+      "sequence": 1,
+      "description": "We provide coaching support for emerging, mid-level and senior executive level leaders"
+    },
+    {
+      "name": "Consulting",
+      "sequence": 2,
+      "description": "We provide Consulting solutions in the areas of Talent Management, Leadership Team Development and bespoke Leadership Learning."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:08.440Z",
+  "enhanced_description": "ThreeFish Consulting is a People and Organisation Capability Consulting company that applies behavioral science, grounded in the Scientist-Practitioner model and Organizational Psychology, to help individuals and organizations realize their full potential. As the Master Distributor for Hogan Assessments in India, ThreeFish integrates these powerful personality assessments for leadership assessment and development, serving Hogan\u2019s global clients, MNC consulting firms, and Indian companies. Their technology-enabled, data-driven solutions with proven impact encompass assessment for predicting leadership effectiveness, coaching for leaders at all levels, and consulting in talent management, leadership team development, and bespoke leadership learning.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Applying behavioral science for organizational capability enhancement",
+    "Solving people and organization capability problems",
+    "Integrating Hogan Assessments for leadership assessment and development",
+    "Predicting leadership effectiveness through personality science",
+    "Providing coaching support for emerging, mid-level, and senior executive leaders",
+    "Consulting for talent management initiatives",
+    "Facilitating leadership team development",
+    "Delivering bespoke leadership learning solutions",
+    "Accelerating and improving top talent acquisition"
+  ],
+  "competitive_advantages": [
+    "Deep expertise in behavioral science and organizational psychology (Scientist-Practitioner model)",
+    "Exclusive Master Distributor for Hogan Assessments in India, providing unique access and expertise",
+    "Solutions are data-driven, ensuring evidence-based outcomes",
+    "Demonstrated proven impact in client engagements",
+    "Leverages technology for enhanced service delivery and insights"
+  ],
+  "implementation_scenarios": [
+    "Integration of Hogan Assessments into client leadership assessment and development programs",
+    "Consulting engagements for talent management and leadership development initiatives",
+    "Delivery of leadership coaching programs",
+    "Collaborative partnerships with other Hogan solution partners and independent practitioners"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Learning and Development",
+    "Talent Management",
+    "Organizational Development",
+    "Assessment"
+  ],
+  "technology_stack": [
+    "Hogan Assessments"
+  ],
+  "integration_capabilities": [
+    "Integration with Hogan Assessments for client-specific leadership assessment and development initiatives"
+  ],
+  "roi_benefits": [
+    "Enables people and organizations to operate at their true potential",
+    "Solves critical people and organization capability problems",
+    "Improves prediction of leadership effectiveness",
+    "Facilitates faster and more efficient hiring of top talent",
+    "Enhances leadership assessment and development outcomes"
+  ],
+  "searchable_keywords": [
+    "ThreeFish Consulting",
+    "People and Organisation Capability",
+    "Behavioral Science",
+    "Organizational Psychology",
+    "Hogan Assessments",
+    "India",
+    "Leadership Assessment",
+    "Leadership Development",
+    "Talent Management",
+    "Leadership Team Development",
+    "Leadership Learning",
+    "Data-Driven",
+    "Proven Impact",
+    "Technology Enabled",
+    "Recruiting",
+    "Learning and Development",
+    "Pre-employment Screening",
+    "Pre-employment Testing",
+    "Training & Development Companies",
+    "HR Consulting Providers",
+    "Data-driven Hiring",
+    "Candidate Screening",
+    "Adaptive Learning",
+    "Personalised Learning",
+    "Learning Optimisation",
+    "Assessment",
+    "Coaching",
+    "Consulting",
+    "Leadership Effectiveness",
+    "Scientist-Practitioner Model"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Organizational Leaders (emerging, mid-level, senior executive)",
+    "MNC Consulting Firms (Hogan partners)",
+    "Indian Companies",
+    "Independent Practitioners (Hogan partners/collaborators)"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,189 @@
+{
+  "id": 722,
+  "name": "Infimetrics",
+  "description": "Infimetrics is a global provider of IT consulting and development services helping customers to achieve the business goals and improve performance with a range of services which includes Digital transformation, IT Consulting services, IT Managed Services, Product Engineering services. We help organizations to increase scalability and optimize business processes with the help of information technology so that they are always ahead of the competition. Infimetrics take pride in delivering solutions to clients in Europe, Australia, USA, India and has ever-growing capabilities in Enterprise Mobility, Data analysis, AI/ML, Enterprise Cloud, etc",
+  "features": [
+    "Powering the enterprise to the future, staying relevant and modern.",
+    "Enhance customer experience with digital transformation.",
+    "Accelerate business with next-gen AI and ML technology."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Talent Management",
+    "Other / technology",
+    "Recruiting",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Employee scheduling software",
+    "Time tracking",
+    "Software and Services Related to HR Software",
+    "Staffing & management software",
+    "Payroll services providers",
+    "Staffing services providers",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs"
+  ],
+  "headquarter": "Nagpur, Maharashtra",
+  "launch_date": "2017",
+  "order": 20676,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Partner in creating and delivering value.",
+  "ProductId": null,
+  "ShortDescription": "Infimetrics is a global provider of IT consulting and development services helping customers to achieve the business goals and improve performance with a range of services which includes Digital transformation, IT Consulting services, IT Managed Services, Product Engineering services.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "DIGITAL TRANSFORMATION",
+      "sequence": 0,
+      "description": "With the power of digital transformation. Infimetrics helps transform businesses by adopting digital technologies."
+    },
+    {
+      "name": "COGNITIVE COMPUTING",
+      "sequence": 1,
+      "description": "Unleash the power of Artificial Intelligence to drive growth analysing trends and predicting results."
+    },
+    {
+      "name": "PROCESS DIGITIZATION",
+      "sequence": 2,
+      "description": "Transforming an organization using technology to optimise the process and automating the business workflow."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:13.552Z",
+  "enhanced_description": "Infimetrics is a global provider of comprehensive IT consulting and development services, established in 2017. Their offerings span Digital Transformation, IT Consulting, IT Managed Services, and Product Engineering, aimed at helping organizations achieve business goals, improve performance, increase scalability, and optimize business processes. They leverage advanced capabilities in Enterprise Mobility, Data analysis, AI/ML, and Enterprise Cloud to provide next-gen solutions. While offering broad IT services, Infimetrics specifically targets HR-related objectives such as boosting hiring manager confidence and productivity, and accelerating top talent acquisition. They support HR functions including Talent Management, Recruiting, Total Rewards, Employee Scheduling, Time Tracking, Payroll, and Staffing. Infimetrics primarily serves Large and Global Enterprises across Europe, Australia, USA, and India.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Digital Transformation",
+    "IT Consulting services",
+    "IT Managed Services",
+    "Product Engineering services",
+    "Business process optimization",
+    "Automating business workflow",
+    "Increasing organizational scalability",
+    "Enhancing customer experience with digital transformation",
+    "Accelerating business with next-gen AI and ML technology",
+    "Driving growth through AI-powered trend analysis and prediction",
+    "Boosting hiring manager confidence and productivity",
+    "Hiring top talent faster and more efficiently"
+  ],
+  "competitive_advantages": [
+    "Global presence with client delivery in Europe, Australia, USA, India",
+    "Expertise in next-gen AI and ML technology",
+    "Proven capabilities in Enterprise Mobility, Data analysis, and Enterprise Cloud",
+    "Specialization in Digital Transformation and Process Digitization",
+    "Focus on increasing scalability and optimizing business processes"
+  ],
+  "implementation_scenarios": [
+    "Project-based IT consulting and development",
+    "Custom software/solution engineering",
+    "Ongoing IT managed services"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Recruiting",
+    "Hiring",
+    "Talent Sourcing",
+    "Total Rewards",
+    "Employee Scheduling",
+    "Time Tracking",
+    "Payroll",
+    "Staffing",
+    "Workforce Management"
+  ],
+  "technology_stack": [
+    "AI/ML (Artificial Intelligence/Machine Learning)",
+    "Data analysis",
+    "Enterprise Cloud",
+    "Enterprise Mobility",
+    "Cognitive Computing"
+  ],
+  "roi_benefits": [
+    "Improved organizational performance",
+    "Increased business scalability",
+    "Optimized business processes",
+    "Enhanced customer experience",
+    "Accelerated business operations through AI/ML",
+    "Boosted hiring manager confidence",
+    "Increased hiring manager productivity",
+    "Faster top talent acquisition",
+    "More efficient top talent acquisition",
+    "Data-driven growth and predictive results",
+    "Automated business workflows"
+  ],
+  "searchable_keywords": [
+    "Infimetrics",
+    "IT consulting",
+    "development services",
+    "digital transformation",
+    "IT Managed Services",
+    "Product Engineering",
+    "scalability",
+    "process optimization",
+    "enterprise mobility",
+    "data analysis",
+    "AI",
+    "ML",
+    "enterprise cloud",
+    "cognitive computing",
+    "talent management",
+    "recruiting",
+    "hiring",
+    "talent sourcing",
+    "recruiting costs",
+    "employee scheduling",
+    "time tracking",
+    "payroll",
+    "staffing",
+    "HR software",
+    "business workflow automation",
+    "human resources"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Leaders",
+    "Recruiting Teams",
+    "IT Leaders",
+    "Business Executives"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "scalability_features": [
+    "Focus on increasing organizational scalability through IT consulting and development services"
+  ],
+  "_weight": 1
+}

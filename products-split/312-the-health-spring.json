@@ -1,0 +1,149 @@
+{
+  "id": 312,
+  "name": "The Health Spring",
+  "description": "Healthspring was founded with a vision of correcting our broken health delivery system where it matters most- at the entry level of care, which is \u201cPrimary Care\u201d It encompasses a huge area at pre-hospital space right from care at home to responding to day to day health care needs. This could be acute and chronic illnesses to more urgent and emergency medical situations.\n The all important Preventive care can only be dispensed and monitored effectively at a robust Primary Care System. A large section of our population working in Industrial complexes and Corporate Houses which are growing, need a robust Preventive Occupational Health care service and Industrial Hygiene at their on-site modern clinics.\n It is our endeavour to have a chain of high quality Health Centres with all the services required to bridge the huge gap that exists at present in people\u2019s health care needs. Each Healthspring Centre in the location brings all the health care services under one roof- for individual, family, community, corporate houses and Industrial complexes",
+  "features": [
+    "Occupational Healthcare Services",
+    "Periodic Health Evaluations",
+    "Health & Wellness Workshops"
+  ],
+  "founders": [
+    "Kaushik Sen"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee well being"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2010",
+  "order": 20274,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Family health experts",
+  "ProductId": null,
+  "ShortDescription": "At Healthspring, we are committed to a culture of good health.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Operational Excellence",
+      "sequence": 0,
+      "description": "With a key focus on a strong operational network that helps us monitor and manage our patient and client demands optimally, we are able to achieve an excellent level of functional efficiency."
+    },
+    {
+      "name": "Extensively trained medical personnel",
+      "sequence": 1,
+      "description": "We are one of the largest recruiters of trained medical staff. From our specialists to our surgeons to our paramedical staff, we ensure that every single member of our team is qualified and experienced to handle a range of conditions, to help us manage our patients\u2019 concerns effectively and efficiently."
+    },
+    {
+      "name": " Care Coordination",
+      "sequence": 2,
+      "description": "With the round the clock access to our facilities and prompt consults with specialists, we ensure that every individual patient receives personalized care. Through our coordinated efforts to give you the most seamless experience, we aim to make every patient feel at ease, at every stage of the treatment process."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:02.709Z",
+  "enhanced_description": "Healthspring focuses on providing comprehensive primary and preventive healthcare at the entry level of care, aiming to bridge existing gaps in health delivery. They establish a chain of high-quality Health Centres that consolidate all necessary healthcare services under one roof, catering to individuals, families, communities, corporate houses, and industrial complexes. This includes addressing day-to-day healthcare needs, managing acute and chronic illnesses, and responding to urgent and emergency medical situations. A significant emphasis is placed on preventive care and, specifically for businesses, the provision of robust Preventive Occupational Health care services and Industrial Hygiene, often delivered through on-site modern clinics. Their operational model highlights operational excellence, achieved through a strong network to optimally monitor and manage patient and client demands, and relies on extensively trained medical personnel. They are noted as one of the largest recruiters of qualified medical staff. The service ensures coordinated care, offering round-the-clock access to facilities and prompt specialist consultations, ensuring personalized and seamless patient experiences.",
+  "target_industries": [
+    "Manufacturing",
+    "Corporate Sector",
+    "Industrial"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Providing on-site primary healthcare for employees",
+    "Implementing occupational health and safety programs",
+    "Conducting periodic health evaluations and check-ups for staff",
+    "Delivering health and wellness workshops for employee education",
+    "Managing day-to-day employee health needs including acute and chronic illnesses",
+    "Handling urgent and emergency medical situations in the workplace",
+    "Establishing industrial hygiene practices within company premises"
+  ],
+  "competitive_advantages": [
+    "Strong operational network ensuring functional efficiency and optimal patient/client demand management",
+    "Extensively trained and qualified medical personnel, including specialists, surgeons, and paramedical staff",
+    "Comprehensive care coordination offering round-the-clock access and prompt consultations for personalized patient experiences",
+    "Integrated services under one roof at Health Centres for holistic care delivery",
+    "Specialization in preventive occupational health and industrial hygiene for corporate and industrial clients"
+  ],
+  "implementation_scenarios": [
+    "Deployment of on-site modern clinics within industrial complexes and corporate houses",
+    "Access to a network of high-quality Health Centres at various locations"
+  ],
+  "hr_functions_supported": [
+    "Employee Health & Safety",
+    "Employee Wellness Programs",
+    "Benefits Administration",
+    "Employee Engagement"
+  ],
+  "roi_benefits": [
+    "Improve Employee Happiness and Engagement",
+    "Reduced employee absenteeism due to improved health",
+    "Enhanced employee productivity through a healthier workforce",
+    "Potential for lower overall healthcare costs through preventive and primary care management"
+  ],
+  "searchable_keywords": [
+    "The Health Spring",
+    "Healthspring",
+    "Primary Care",
+    "Preventive Care",
+    "Occupational Healthcare Services",
+    "Industrial Hygiene",
+    "Periodic Health Evaluations",
+    "Health & Wellness Workshops",
+    "Employee Well-being",
+    "Total Rewards",
+    "Health & Safety Providers",
+    "Corporate Health",
+    "Industrial Health",
+    "On-site Clinics",
+    "Employee Health",
+    "Workplace Health",
+    "Medical Services",
+    "Care Coordination",
+    "Family Health Experts"
+  ],
+  "primary_users": [
+    "Employees (as recipients of healthcare services)",
+    "HR Managers / Benefits Administrators (as program overseers and decision-makers)"
+  ],
+  "deployment_options": [
+    "On-site service delivery at client locations (corporate/industrial)",
+    "Access through a network of physical Health Centres"
+  ],
+  "scalability_features": [
+    "Operational excellence through a strong operational network designed to monitor and manage client demands optimally",
+    "Ability to expand reach through a 'chain of high quality Health Centres'"
+  ],
+  "_weight": 1
+}

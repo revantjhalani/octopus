@@ -1,0 +1,166 @@
+{
+  "id": 1360,
+  "name": "Apna",
+  "description": "Looking for the perfect job? Your search ends here with apna.co, India's largest and fastest-growing professional opportunities platform. Trusted by over 5 crore job seekers, apna is the go-to platform for fresh graduates, experienced professionals, and anyone exploring new career opportunities.  With access to over 50 Lakh job openings across India, apna simplifies your job search process. Just relax, complete your profile, and let recruiters contact you directly. So, basically you don\u2019t need to apply to jobs, jobs apply to you!",
+  "features": [
+    "Largest Job Platform in India",
+    "Extensive Job Openings",
+    "Global Reach"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Job boards",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring efficiency",
+    "Quality of hire",
+    "Hiring best practices",
+    "Talent sourcing"
+  ],
+  "headquarter": "Bengaluru",
+  "launch_date": "2019",
+  "order": 999,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "India's largest professional networking & job opportunities platform. ",
+  "ProductId": null,
+  "ShortDescription": "Apna.co is a website where you can search jobs online, post a job, and find candidates for various roles and industries.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "AI-powered Features",
+      "sequence": 0,
+      "description": "Apna leverages AI to enhance the job search experience. This includes features like an AI-based resume builder and interview preparation assistance."
+    },
+    {
+      "name": "Focus on Skill Development",
+      "sequence": 1,
+      "description": "Apna goes beyond just job listings and aims to empower users by providing networking and skilling opportunities. They offer resources or partner with institutions to help users develop relevant skills for their desired careers."
+    },
+    {
+      "name": "Diverse Job Openings",
+      "sequence": 2,
+      "description": "Apna offers a wide range of job categories, from IT and engineering to sales, marketing, and customer service. They also cater to specific needs with sections for fresh graduates, work-from-home opportunities, and part-time jobs."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-12T07:39:31.579Z",
+  "enhanced_description": "Apna.co is India's largest and fastest-growing professional networking and job opportunities platform, trusted by over 5 crore job seekers. It serves as a go-to platform for fresh graduates, experienced professionals, and anyone exploring new career opportunities, offering access to over 50 Lakh job openings across India. Apna simplifies the job search process by allowing recruiters to contact job seekers directly, essentially making jobs apply to the candidates. The platform leverages AI for features like an AI-based resume builder and interview preparation assistance. Beyond job listings, Apna empowers users with networking and skilling opportunities, partnering with institutions to help users develop relevant skills. It supports a diverse range of job categories, including IT, engineering, sales, marketing, and customer service, with specific sections for fresh graduates, work-from-home, and part-time jobs. For businesses, Apna enables online job posting and efficient candidate sourcing across various roles and industries.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global"
+  ],
+  "key_use_cases": [
+    "Job search and discovery for candidates",
+    "Direct recruiter-to-candidate outreach (jobs apply to you)",
+    "AI-powered resume building for candidates",
+    "Interview preparation assistance for candidates",
+    "Skill development and professional networking for candidates",
+    "Online job posting for recruiters",
+    "Candidate sourcing and talent discovery for recruiters",
+    "Efficient talent acquisition for businesses"
+  ],
+  "competitive_advantages": [
+    "Market leadership: India's largest and fastest-growing professional opportunities platform.",
+    "Extensive network: Trusted by over 5 crore job seekers with access to over 50 Lakh job openings across India.",
+    "Reverse application model: Unique approach where recruiters contact job seekers directly (jobs apply to you).",
+    "AI-powered tools: Includes AI-based resume builder and interview preparation assistance.",
+    "Holistic career development: Focuses on skill development and networking opportunities beyond just job listings.",
+    "Diverse job categories: Covers a wide range of fields and caters to various employment needs (fresh graduates, WFH, part-time)."
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Talent Sourcing"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)"
+  ],
+  "roi_benefits": [
+    "Faster talent acquisition for businesses",
+    "More efficient talent acquisition for businesses",
+    "Improved quality of hire",
+    "Simplified and streamlined job search process for candidates",
+    "Enhanced hiring efficiency for recruiters",
+    "Reduced time-to-hire"
+  ],
+  "searchable_keywords": [
+    "Apna",
+    "India jobs",
+    "job platform",
+    "professional networking",
+    "job opportunities",
+    "job board",
+    "recruiting software",
+    "hiring",
+    "talent acquisition",
+    "talent sourcing",
+    "job search",
+    "recruiters",
+    "candidates",
+    "fresh graduates",
+    "experienced professionals",
+    "career opportunities",
+    "job openings",
+    "AI resume builder",
+    "interview preparation",
+    "skill development",
+    "networking",
+    "skilling",
+    "IT jobs",
+    "engineering jobs",
+    "sales jobs",
+    "marketing jobs",
+    "customer service jobs",
+    "work-from-home jobs",
+    "part-time jobs",
+    "online job posting",
+    "candidate discovery",
+    "hiring efficiency",
+    "quality of hire",
+    "hiring best practices"
+  ],
+  "primary_users": [
+    "Job seekers",
+    "Fresh graduates",
+    "Experienced professionals",
+    "Recruiters",
+    "Hiring managers"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "Web-based"
+  ],
+  "_weight": 1
+}

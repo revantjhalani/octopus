@@ -1,0 +1,132 @@
+{
+  "id": 1006,
+  "name": "PNA Consulting",
+  "description": "We are a team of experienced professionals dedicated to providing comprehensive and innovative solutions to meet our clients\u2019 needs. Our consultancy services encompass a wide range of areas, including financial, legal, strategic, and operational.",
+  "features": [
+    "Reliable in Word and Deed",
+    "Analytical Problem Solver",
+    "Offer special attention for charitable organisation"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Payroll services providers",
+    "Sales compensation software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee development"
+  ],
+  "headquarter": "Ahmedabad ",
+  "launch_date": "2023",
+  "order": 20949,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We boost your business",
+  "ProductId": null,
+  "ShortDescription": "\u201cpna consultancy\u201d is a brand name under which Padmaja Narayan Associates Private Limited, a consulting company serve clients\u2019 business needs.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Management Consulting Service",
+      "sequence": 0,
+      "description": "Pna Consultancy might specialize in providing management consulting services to businesses. This could involve areas like strategy development, operational improvement, or human resources management."
+    },
+    {
+      "name": "Focus on Small and Medium Enterprises ",
+      "sequence": 1,
+      "description": "Pna Consultancy might cater their services specifically to SMEs. Understanding the unique challenges faced by smaller businesses allows them to tailor their consulting approach for maximum impact."
+    },
+    {
+      "name": "Experienced Team:",
+      "sequence": 2,
+      "description": " The consultancy likely has a team of experienced professionals with expertise in various business disciplines. This team can leverage their knowledge to provide valuable guidance and support to client companies."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:38:39.806Z",
+  "enhanced_description": "PNA Consulting, operating under the brand name \u201cpna consultancy\u201d by Padmaja Narayan Associates Private Limited, is a consulting company that provides comprehensive and innovative solutions to help clients boost their business. Their services encompass a wide range of areas including financial, legal, strategic, and operational consultancy, with a strong focus on management consulting services. The team consists of experienced professionals dedicated to being reliable in word and deed, and employing an analytical approach to problem-solving. They also offer special attention to charitable organizations.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Provide comprehensive consulting solutions for financial, legal, strategic, and operational needs",
+    "Offer management consulting services, including strategy development and operational improvement",
+    "Manage payroll services for clients",
+    "Implement and manage sales compensation programs",
+    "Improve employee happiness and engagement",
+    "Support employee development initiatives"
+  ],
+  "competitive_advantages": [
+    "Team of experienced professionals",
+    "Analytical problem-solving approach",
+    "Commitment to reliability and trustworthiness",
+    "Specialized attention and services for charitable organizations"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards Management",
+    "Payroll Management",
+    "Sales Compensation Management",
+    "Employee Engagement",
+    "Employee Development",
+    "Human Resources Management"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Enhanced business performance and growth"
+  ],
+  "searchable_keywords": [
+    "PNA Consulting",
+    "pna consultancy",
+    "Padmaja Narayan Associates",
+    "Total Rewards",
+    "Payroll services",
+    "Sales compensation",
+    "Employee engagement",
+    "Employee development",
+    "Management consulting",
+    "Financial consulting",
+    "Legal consulting",
+    "Strategic consulting",
+    "Operational consulting",
+    "Business solutions",
+    "Consultancy services",
+    "HR consulting",
+    "Reliable consulting",
+    "Analytical problem solver",
+    "Charitable organization support"
+  ],
+  "primary_users": [
+    "Business Leaders",
+    "HR Professionals",
+    "Finance Teams",
+    "Client organizations"
+  ],
+  "_weight": 1
+}

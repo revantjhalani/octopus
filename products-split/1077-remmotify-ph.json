@@ -1,0 +1,157 @@
+{
+  "id": 1077,
+  "name": "Remmotify PH",
+  "description": "Our approach to employment solutions enable international businesses to save up to 70% on labor costs. We insulate them from administrative burden, compliance and labor issues taking care of hiring compliance, payroll, HR administrative needs while they focus on growing their business.",
+  "features": [
+    "Cost-effective remote hiring",
+    "Company compliance with Philippine labor laws",
+    "GDPR and cybersecurity training"
+  ],
+  "founders": [
+    "Erwin Kok"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Onboarding software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee well being",
+    "Employee benefits"
+  ],
+  "headquarter": "Philippines ",
+  "launch_date": "2021",
+  "order": 21020,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Exoanding your team just gor simpler",
+  "ProductId": null,
+  "ShortDescription": "Remotify is an Employer of Record plus (+) solution that enables freedom and security",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Remote Staffing Solutions:",
+      "sequence": 0,
+      "description": "Remotify helps businesses hire remote employees in the Philippines. This can be beneficial for companies looking to reduce costs, access a wider range of talent, or build a more geographically diverse team."
+    },
+    {
+      "name": "Benefits of Hiring Remote Employees",
+      "sequence": 1,
+      "description": "The website highlights the advantages of hiring remote workers, including lower overhead costs and the ability to tap into a global talent pool."
+    },
+    {
+      "name": "Support with Legal and Administrative Aspects",
+      "sequence": 2,
+      "description": "Remotify goes beyond just finding qualified candidates. They assist businesses with the legal and administrative aspects of hiring remote employees in the Philippines, ensuring a smooth onboarding process."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:40:06.555Z",
+  "enhanced_description": "Remmotify PH is an Employer of Record (EOR) plus (+) solution designed for international businesses seeking to expand their teams by hiring remote employees in the Philippines. This service enables clients to achieve significant labor cost savings, potentially up to 70%, while being insulated from the complexities of administrative burdens, compliance issues, and local labor laws. Remmotify handles essential HR administrative needs including hiring compliance, payroll, and ensures adherence to Philippine labor laws. Additionally, the service provides GDPR and cybersecurity training, allowing businesses to focus on their core growth initiatives with security and confidence in their global hiring strategy.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "International remote talent acquisition",
+    "Labor cost optimization",
+    "HR administrative outsourcing",
+    "Ensuring compliance with Philippine labor laws",
+    "Building geographically diverse teams"
+  ],
+  "competitive_advantages": [
+    "Up to 70% labor cost savings",
+    "Comprehensive Employer of Record (EOR) services",
+    "Insulation from administrative and compliance burdens",
+    "Expertise in Philippine labor law compliance",
+    "Provision of GDPR and cybersecurity training",
+    "Access to a skilled remote talent pool in the Philippines"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Onboarding",
+    "Payroll",
+    "HR Administration",
+    "Compliance Management",
+    "Learning & Development (for compliance training)"
+  ],
+  "roi_benefits": [
+    "Up to 70% reduction in labor costs",
+    "Reduced administrative overhead and burden",
+    "Mitigation of compliance and labor law risks",
+    "Enhanced focus on core business growth",
+    "Improved access to a global talent pool",
+    "Streamlined international hiring and onboarding"
+  ],
+  "searchable_keywords": [
+    "Remmotify PH",
+    "Employer of Record",
+    "EOR",
+    "Remote hiring",
+    "Philippines hiring",
+    "Philippine labor laws",
+    "International hiring",
+    "Global talent acquisition",
+    "Cost-effective hiring",
+    "Labor cost savings",
+    "HR administrative services",
+    "Payroll services",
+    "Hiring compliance",
+    "GDPR training",
+    "Cybersecurity training",
+    "Remote staffing",
+    "Global employment solutions",
+    "HR outsourcing",
+    "Onboarding solutions",
+    "Recruiting solutions",
+    "Employee engagement",
+    "Employee well being",
+    "Employee benefits",
+    "Remote workforce",
+    "Global PEO"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "Talent Acquisition Teams",
+    "Finance Leaders",
+    "Business Owners",
+    "Executives"
+  ],
+  "compliance_features": [
+    "Philippine labor law compliance",
+    "GDPR compliance (via training)",
+    "Cybersecurity compliance (via training)",
+    "Hiring compliance management"
+  ],
+  "security_features": [
+    "Cybersecurity training for employees",
+    "GDPR compliance support"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,165 @@
+{
+  "id": 1027,
+  "name": "Psychometrica",
+  "description": "We guide our clients along every step of their people management journey: from recruiting people that fit in best with your requirements, helping them retain and groom their talent, minimize attrition, identify training and development needs, choose the best ones for higher roles, and so on.",
+  "features": [
+    "international Assessment",
+    "Wide range feilds covers",
+    "ONLINE PSYCHOMETRIC TESTS"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Reduce the Cost of Hiring Qualified Employees",
+    "Improve Employee Happiness and Engagement",
+    "Accelerate Skill Development and Learning Efficiency",
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Recruiting",
+    "Total Rewards",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Pre-employment screening software",
+    "Background check software",
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Screening costs",
+    "Sourcing costs",
+    "Hiring costs",
+    "Employee well being",
+    "Employee satisfaction",
+    "Employee benefits"
+  ],
+  "headquarter": "Mumbai",
+  "launch_date": "1995",
+  "order": 20970,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Online Psychometric Assessment Portal",
+  "ProductId": null,
+  "ShortDescription": "Psychometrica is one of the premium brands in Mumbai serving psychometric assessments to a highly esteem clientele.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Employee Profiling",
+      "sequence": 0,
+      "description": "Psychometrica offers a range of psychometric tests to help companies profile their employees and identify strengths, weaknesses, and development areas."
+    },
+    {
+      "name": "Recruitment and Retention",
+      "sequence": 1,
+      "description": " Psychometrica's services are aimed at assisting companies throughout the employee lifecycle, from recruitment and selection to training and development. This can help companies find the right fit for open positions and retain valuable talent."
+    },
+    {
+      "name": " Psychometrica's services are aimed at assisting companies throughout the employee lifecycle, from recruitment and selection to training and development. This can help companies find the right fit for open positions and retain valuable talent.",
+      "sequence": 2,
+      "description": "By using psychometric assessments, companies can gain valuable insights into their workforce, which can lead to better decision-making around hiring, training, and promotion."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:39:06.592Z",
+  "enhanced_description": "Psychometrica is an online psychometric assessment portal, established in 1995, that guides clients through their people management journey. As a premium brand specializing in international psychometric assessments covering a wide range of fields, it supports the entire employee lifecycle. Its services include pre-employment screening and selection, employee profiling to identify strengths, weaknesses, and development needs, talent retention strategies, and insights for training, development, and promotion decisions. This helps companies minimize attrition and make better, data-driven decisions for talent management.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Pre-employment screening and selection",
+    "Employee profiling",
+    "Talent retention",
+    "Talent grooming and development",
+    "Minimizing attrition",
+    "Identifying training needs",
+    "Identifying development needs",
+    "Succession planning for higher roles",
+    "Informing hiring decisions",
+    "Informing training decisions",
+    "Informing promotion decisions",
+    "Gaining workforce insights for decision-making"
+  ],
+  "competitive_advantages": [
+    "Extensive experience (founded in 1995)",
+    "Online assessment delivery",
+    "International assessment capabilities",
+    "Covers a wide range of fields/assessments",
+    "Premium brand reputation"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Talent Management",
+    "Learning and Development",
+    "Employee Engagement",
+    "Succession Planning"
+  ],
+  "roi_benefits": [
+    "Reduced cost of hiring qualified employees",
+    "Improved employee happiness and engagement",
+    "Accelerated skill development and learning efficiency",
+    "Minimized attrition",
+    "Improved talent retention",
+    "Enhanced decision-making for hiring, training, and promotion",
+    "Better fit for open positions",
+    "Cost savings in screening, sourcing, and hiring"
+  ],
+  "searchable_keywords": [
+    "Psychometrica",
+    "psychometric tests",
+    "online psychometric assessments",
+    "recruitment assessments",
+    "pre-employment screening",
+    "talent management",
+    "employee profiling",
+    "talent retention",
+    "training needs assessment",
+    "development needs assessment",
+    "succession planning",
+    "hiring solutions",
+    "talent acquisition",
+    "HR analytics",
+    "employee engagement",
+    "skill development",
+    "attrition reduction",
+    "online assessments",
+    "international assessments",
+    "HR technology",
+    "people management",
+    "employee well-being",
+    "employee satisfaction",
+    "hiring costs reduction"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Recruiters",
+    "Talent Acquisition Managers",
+    "Learning & Development Managers",
+    "HR Leaders"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "_weight": 1
+}

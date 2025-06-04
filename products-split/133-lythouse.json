@@ -1,0 +1,156 @@
+{
+  "id": 133,
+  "name": "Lythouse",
+  "description": "Lythouse, founded in 2018, pioneers safety and happiness solutions for citizens and enterprises through data-driven innovation. Our state-of-the-art safety solution ensures comprehensive workplace safety, offering instant emergency assistance at the push of a button, including ambulance, roadside aid, and legal support. AI tools provide timely emergency alerts for added security. Our Happiness Solution promotes mental and physical well-being with tailored wellness plans and virtual classes.",
+  "features": [
+    "Employee Safety System",
+    "Operational Resilience",
+    "VR Fire Training"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Employee happiness",
+    "Employee well being",
+    "Employee satisfaction",
+    "Employee engagement"
+  ],
+  "headquarter": "Gurgaon, Haryana ",
+  "launch_date": "2018",
+  "order": 20100,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Ensure the safety of what matters most - Your people",
+  "ProductId": null,
+  "ShortDescription": "AI-driven next generation\n platform which keeps your\n employees & families safe,\n engaged and happy.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "AI-Ml based tool",
+      "sequence": 0,
+      "description": "Enhanced customer experience with automated tools."
+    },
+    {
+      "name": "14,000+ SOS handled",
+      "sequence": 1,
+      "description": "SOS for immediate assistance during any kind of emergency."
+    },
+    {
+      "name": "ISO certified",
+      "sequence": 2,
+      "description": "ISO certification for business continuity, data security achieved."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:02.711Z",
+  "enhanced_description": "Lythouse, founded in 2018, delivers innovative, data-driven solutions for citizen and enterprise safety and happiness. Its AI-driven, state-of-the-art platform provides comprehensive workplace safety, offering instant emergency assistance (ambulance, roadside aid, legal support) and timely emergency alerts through AI tools. The platform also includes a Happiness Solution focused on mental and physical well-being, featuring tailored wellness plans and virtual classes. Lythouse is ISO certified, demonstrating a commitment to business continuity and data security, and has a proven track record with over 14,000 SOS instances handled.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Ensuring comprehensive workplace safety",
+    "Providing instant emergency assistance for employees (ambulance, roadside aid, legal support)",
+    "Delivering timely emergency alerts through AI tools for enhanced security",
+    "Promoting mental and physical well-being through tailored wellness plans and virtual classes",
+    "Facilitating VR-based fire safety training",
+    "Enhancing operational resilience and business continuity"
+  ],
+  "competitive_advantages": [
+    "AI-driven next-generation platform for holistic safety and well-being",
+    "Comprehensive solution combining emergency assistance, workplace safety, and employee well-being",
+    "Proven track record with over 14,000 SOS emergencies handled",
+    "ISO certified for business continuity and data security",
+    "Offers VR Fire Training for practical safety education"
+  ],
+  "hr_functions_supported": [
+    "Occupational Health & Safety",
+    "Employee Well-being",
+    "Employee Engagement",
+    "HR Operations (emergency response, alerts)"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Machine Learning (ML)",
+    "Virtual Reality (VR)"
+  ],
+  "roi_benefits": [
+    "Improved employee safety and reduced incident rates",
+    "Faster emergency response times with instant assistance",
+    "Proactive risk mitigation through timely emergency alerts",
+    "Enhanced employee mental and physical well-being, potentially leading to increased productivity and reduced absenteeism",
+    "Improved employee happiness and engagement",
+    "Strengthened operational resilience and business continuity"
+  ],
+  "searchable_keywords": [
+    "Lythouse",
+    "safety solution",
+    "happiness solution",
+    "workplace safety",
+    "emergency assistance",
+    "ambulance",
+    "roadside aid",
+    "legal support",
+    "AI tools",
+    "emergency alerts",
+    "mental well-being",
+    "physical well-being",
+    "wellness plans",
+    "virtual classes",
+    "employee safety system",
+    "operational resilience",
+    "VR fire training",
+    "AI-ML based tool",
+    "SOS",
+    "ISO certified",
+    "employee happiness",
+    "employee well being",
+    "employee satisfaction",
+    "employee engagement",
+    "safety platform",
+    "employee security",
+    "HR technology"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Professionals",
+    "Safety Managers",
+    "Operations Teams"
+  ],
+  "compliance_features": [
+    "ISO certified (for business continuity and data security)"
+  ],
+  "security_features": [
+    "Data security (ISO certified)"
+  ],
+  "_weight": 1
+}

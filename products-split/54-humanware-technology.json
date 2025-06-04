@@ -1,0 +1,174 @@
+{
+  "id": 54,
+  "name": "Humanware Technology",
+  "description": "Humanware Technology, offers a premier Human Resource Management System (HRMS) designed to transform HR operations from hire to retire. Our intelligent, user-centric software integrates AI, Chatbot, and RPA technologies, automating HR tasks to reduce costs and enhance efficiency. Humanware HRMS delivers business intelligence, analytics, and strategic insights, fostering a transparent and productive culture.",
+  "features": [
+    " HR Metaverse",
+    "Elegance user interface",
+    " Org-social tent"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee satisfaction",
+    "Company culture"
+  ],
+  "headquarter": "Navi Mumbai, Maharashtra",
+  "launch_date": "2013",
+  "order": 20031,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "A Complete End to End HR Software ERP Solution for Any Business.",
+  "ProductId": null,
+  "ShortDescription": "HRMS Software to Unlock Your HR Potential",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Performance management",
+      "sequence": 0,
+      "description": "360 feedback, 9 box grid, OKRs and many more keeps team on track for success."
+    },
+    {
+      "name": "BI & HR Analytics",
+      "sequence": 1,
+      "description": "Data-driven approach with BI Powered HR Analytics for accurate and real time data."
+    },
+    {
+      "name": "Travel & Expenses",
+      "sequence": 2,
+      "description": "100% configurable pay heads with smart OCR capture for Quick & Easy Approval."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-15T12:55:42.475Z",
+  "enhanced_description": "Humanware Technology offers a premier, intelligent, and user-centric Human Resource Management System (HRMS) designed to deliver a complete end-to-end HR software ERP solution for businesses, transforming HR operations from hire to retire. This powerful HRMS integrates advanced AI, Chatbot, and Robotic Process Automation (RPA) technologies to automate HR tasks, significantly reducing costs and enhancing overall efficiency. It delivers robust business intelligence, comprehensive analytics, and strategic insights, fostering a transparent and productive organizational culture. Key functionalities include advanced performance management tools like 360-degree feedback, 9-box grid, and OKRs, enabling data-driven HR analytics with real-time insights, and streamlining travel and expense management with 100% configurable pay heads and smart OCR capture for quick and easy approvals. The system also features an 'HR Metaverse', an 'Elegance user interface', and an 'Org-social tent' to enhance user experience and foster engagement.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "End-to-end HR operations management",
+    "Automation of HR tasks to reduce costs and enhance efficiency",
+    "Strategic HR decision-making through business intelligence and analytics",
+    "Performance management and tracking for employee success (360 feedback, OKRs)",
+    "Streamlined travel and expense management with OCR and configurable pay heads",
+    "Fostering employee engagement and satisfaction",
+    "Core HR administration"
+  ],
+  "competitive_advantages": [
+    "Integration of AI, Chatbot, and RPA technologies for automation",
+    "Intelligent and user-centric software design",
+    "Unique 'HR Metaverse' feature",
+    "Elegant user interface",
+    "Org-social tent functionality to promote collaboration and culture",
+    "Comprehensive performance management tools (360 feedback, 9 box grid, OKRs)",
+    "Data-driven BI and real-time HR analytics capabilities",
+    "Smart OCR capture and 100% configurable pay heads for expense management"
+  ],
+  "hr_functions_supported": [
+    "Core HR",
+    "Performance Management",
+    "HR Analytics",
+    "Business Intelligence",
+    "Travel & Expense Management",
+    "Employee Engagement",
+    "HR Automation"
+  ],
+  "technology_stack": [
+    "AI (Artificial Intelligence)",
+    "Chatbot",
+    "RPA (Robotic Process Automation)",
+    "Metaverse technology",
+    "Business Intelligence (BI)",
+    "OCR (Optical Character Recognition)"
+  ],
+  "roi_benefits": [
+    "Reduced HR operational costs",
+    "Enhanced HR efficiency",
+    "Improved employee happiness and engagement",
+    "Fostering a transparent and productive company culture",
+    "Team performance tracking and success enablement",
+    "Accurate and real-time HR data for informed decisions",
+    "Quick and easy approval processes for expenses"
+  ],
+  "searchable_keywords": [
+    "Humanware Technology",
+    "HRMS",
+    "HCM",
+    "HR Software",
+    "ERP Solution",
+    "Human Resource Management System",
+    "HR operations",
+    "hire to retire",
+    "AI",
+    "Chatbot",
+    "RPA",
+    "HR automation",
+    "cost reduction",
+    "efficiency enhancement",
+    "business intelligence",
+    "analytics",
+    "strategic insights",
+    "transparent culture",
+    "productive culture",
+    "HR Metaverse",
+    "Elegance user interface",
+    "Org-social tent",
+    "employee engagement",
+    "employee satisfaction",
+    "company culture",
+    "Core HR Software",
+    "Performance management",
+    "360 feedback",
+    "9 box grid",
+    "OKRs",
+    "BI & HR Analytics",
+    "real-time data",
+    "Travel & Expenses",
+    "configurable pay heads",
+    "OCR capture",
+    "approval",
+    "End to End HR Software",
+    "HR Potential",
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Employees",
+    "Managers",
+    "Company Leadership / Executives"
+  ],
+  "_weight": 1
+}

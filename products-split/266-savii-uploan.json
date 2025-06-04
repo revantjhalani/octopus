@@ -1,0 +1,132 @@
+{
+  "id": 266,
+  "name": "Savii (Uploan)",
+  "description": "At SAVii Philippines, a salary is more than just take-home pay \u2013 it\u2019s the safest vehicle to financial empowerment. We support over 500,000 employees with safe, convenient and affordable loans, advances, mental health support, financial education and COVID insurance, with no risk or obligation for employers.\n Our 100+ corporate employer partners get data insight that can help manage attrition and unlock engaged, productive employees.",
+  "features": [
+    "Hassle-free setup with fewer requirements",
+    "Dedicated support in partnership with your employer",
+    "Accessible online, apply anytime"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Employee recognition software"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee happiness"
+  ],
+  "headquarter": "Makati City, Metro Manila",
+  "launch_date": "2017",
+  "order": 20231,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Financial well-being linked to your salary",
+  "ProductId": null,
+  "ShortDescription": "At Savii Philippines, a salary is more than just take-home pay \u2013 it\u2019s the safest vehicle to financial empowerment.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:20.506Z",
+  "enhanced_description": "Savii (Uploan) is a Philippines-based HR technology solution focused on employee financial empowerment and holistic well-being, directly linked to salary. The platform offers employees safe, convenient, and affordable financial services, including loans and advances, complemented by mental health support, financial education, and COVID insurance. For its 100+ corporate employer partners, Savii provides valuable data insights that assist in managing attrition and fostering a more engaged and productive workforce, all without posing any financial risk or obligation to the employer.",
+  "ideal_company_sizes": [],
+  "key_use_cases": [
+    "Providing safe and affordable employee loans and advances",
+    "Offering mental health support to employees",
+    "Delivering financial education programs to employees",
+    "Providing COVID insurance as an employee benefit",
+    "Gaining data insights for attrition management and workforce planning",
+    "Improving employee happiness and engagement through financial and well-being support"
+  ],
+  "competitive_advantages": [
+    "Hassle-free setup for employers with fewer requirements",
+    "Dedicated support in partnership with the employer",
+    "Accessible online platform allowing employees to apply anytime",
+    "Eliminates financial risk or obligation for corporate employer partners",
+    "Provides actionable data insights to employers to help manage attrition",
+    "Comprehensive offering including financial services, mental health, financial education, and insurance"
+  ],
+  "implementation_scenarios": [],
+  "hr_functions_supported": [
+    "Total Rewards Management",
+    "Benefits Administration",
+    "Employee Well-being Programs",
+    "Financial Wellness Programs",
+    "Employee Assistance Programs (EAP)",
+    "HR Analytics (Attrition Management)",
+    "Employee Engagement"
+  ],
+  "technology_stack": [],
+  "integration_capabilities": [],
+  "roi_benefits": [
+    "Reduced employee attrition by addressing financial stress and enhancing well-being",
+    "Increased employee engagement and productivity",
+    "Mitigation of financial risk and obligation for employers related to employee support",
+    "Improved employee happiness and morale within the workforce"
+  ],
+  "searchable_keywords": [
+    "Savii",
+    "Uploan",
+    "salary",
+    "financial empowerment",
+    "loans",
+    "advances",
+    "mental health",
+    "financial education",
+    "COVID insurance",
+    "employer partners",
+    "data insight",
+    "attrition",
+    "engaged employees",
+    "productive employees",
+    "hassle-free setup",
+    "dedicated support",
+    "online application",
+    "Total Rewards",
+    "Employee recognition software",
+    "Employee well being",
+    "Employee happiness",
+    "financial well-being",
+    "Philippines",
+    "Makati City",
+    "Metro Manila"
+  ],
+  "primary_users": [
+    "Employees (as recipients of services)",
+    "HR Professionals (for program management and insights)",
+    "Employers (as partners and beneficiaries of engagement data)"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "SaaS (Software as a Service)"
+  ],
+  "compliance_features": [],
+  "scalability_features": [],
+  "security_features": [],
+  "_weight": 1
+}

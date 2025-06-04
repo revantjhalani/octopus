@@ -1,0 +1,148 @@
+{
+  "id": 1071,
+  "name": "Recruitify",
+  "description": "Recruitify is a leading recruitment company, managed by executive search professionals and a team which is dedicated and highly trained in their respective domains. We have the adequate experience in identifying, short-listing the potential candidates as per specific client requirements and adapting to the changing needs of the clients to ensure maximum delivery and satisfaction. We take time to make comprehensive understanding of client\u2019s business and are committed to provide unparalleled quality and services. By collaborating our sound expertise, extensive talent pool and commitment to quality and timelines, with the organizations\u2019 requirement, we are able to become their preferred business partners.",
+  "features": [
+    "Transform teams with very best talent",
+    "Our relationships are long term",
+    "Trust & Confidentiality are key to our business"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting automation software",
+    "Staffing services providers"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "Gurgaon, Haryana",
+  "launch_date": "2019",
+  "order": 21014,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Connecting the right people!",
+  "ProductId": null,
+  "ShortDescription": "A professionally run company connecting the right people!",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Managed by Executive Search Professionals",
+      "sequence": 0,
+      "description": "We are passionate recruiters: follow global executive search standards to get you the ideal candidate."
+    },
+    {
+      "name": "Quality Assurance & Timeline",
+      "sequence": 1,
+      "description": "We deliver results in the shortest time line, it is easy to do the right hire with us."
+    },
+    {
+      "name": "Sound Network of Professionals",
+      "sequence": 2,
+      "description": "Unparalled understanding and industry outreach helps all the way to a successful closure"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:40:00.597Z",
+  "enhanced_description": "Recruitify is a leading recruitment company, established in 2019 and headquartered in Gurgaon, Haryana. It specializes in executive search services, managed by passionate executive search professionals and a highly trained, dedicated team. The company focuses on building long-term relationships by comprehensively understanding each client's business, identifying and short-listing potential candidates as per specific requirements, and adapting to changing needs to ensure maximum delivery and satisfaction. Recruitify is committed to providing unparalleled quality and services, leveraging its sound expertise, extensive talent pool, and adherence to global executive search standards. They aim to transform teams with the very best talent, delivering results efficiently and within the shortest possible timelines, thereby becoming a preferred business partner for organizations by connecting the right people.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Identifying potential candidates",
+    "Short-listing candidates as per specific client requirements",
+    "Adapting to changing client recruitment needs",
+    "Providing comprehensive understanding of client\u2019s business for recruitment",
+    "Ensuring maximum delivery and satisfaction in recruitment"
+  ],
+  "competitive_advantages": [
+    "Managed by executive search professionals",
+    "Dedicated and highly trained team",
+    "Adequate experience in identifying and short-listing candidates",
+    "Adaptability to changing client needs",
+    "Comprehensive understanding of client\u2019s business",
+    "Unparalleled quality and services",
+    "Sound expertise",
+    "Extensive talent pool",
+    "Commitment to quality and timelines",
+    "Focus on long-term relationships",
+    "Emphasis on trust and confidentiality",
+    "Follows global executive search standards",
+    "Delivers results in the shortest time frame",
+    "Sound network of professionals and industry outreach"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Staffing"
+  ],
+  "roi_benefits": [
+    "Maximum delivery and satisfaction (for clients)",
+    "Boost Hiring Manager Confidence",
+    "Boost Hiring Manager Productivity",
+    "Transform teams with the very best talent",
+    "Faster hiring/delivery (shortest time line)",
+    "Easier right hires"
+  ],
+  "searchable_keywords": [
+    "Recruitify",
+    "Recruiting",
+    "Recruiting automation software",
+    "Staffing services providers",
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Talent",
+    "Hiring Manager Confidence",
+    "Hiring Manager Productivity",
+    "Executive Search",
+    "Recruitment Company",
+    "Staffing",
+    "Talent Pool",
+    "HR Tech",
+    "India",
+    "Gurgaon",
+    "Haryana",
+    "Recruitment service"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "Clients",
+    "Organizations"
+  ],
+  "_weight": 1
+}

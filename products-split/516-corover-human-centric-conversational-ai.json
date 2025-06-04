@@ -1,0 +1,154 @@
+{
+  "id": 516,
+  "name": "CoRover - Human Centric Conversational AI",
+  "description": "which is secure, scalable and reliable; equipped with patent-pending tech (based on AI, ML, NLP, AR & VR); and powers Multi-Format (AI VideoBots, AI VoiceBots, AI ChatBots), Multi-Lingual (100+ Languages) and Multi-Channel/Omni-Channel AI Virtual Assistants being used by 1 Billion+ Users.",
+  "features": [
+    "Video-Voice Commerce Virtual Assistants ",
+    "CoRover offers end-to-end managed ChatBot as a Service (CaaS)",
+    "Multi-Lingual and Omni-Channel"
+  ],
+  "founders": [
+    "Kunal Bhakhri"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Workforce management",
+    "HR management suites",
+    "Recruitment agencies",
+    "HR consulting providers",
+    "Recruiting automation software",
+    "Software and Services Related to HR Software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Workforce diversity",
+    "Employee diversity"
+  ],
+  "headquarter": " Bengaluru",
+  "launch_date": "2016",
+  "order": 20476,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Elevating Enterprises with Generative AI Powered Human-Centric Conversational AI Platform",
+  "ProductId": null,
+  "ShortDescription": "CoRover is the world\u2019s first and the highest ROI delivering human-centric Conversational and Generative AI platform.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:29:07.504Z",
+  "enhanced_description": "CoRover is a human-centric conversational and generative AI platform designed for enterprises, leveraging patent-pending technology based on AI, ML, NLP, AR, and VR. It provides secure, scalable, and reliable multi-format (AI VideoBots, AI VoiceBots, AI ChatBots), multi-lingual (supporting 100+ languages), and multi-channel/omni-channel AI Virtual Assistants. Operating as an end-to-end managed ChatBot as a Service (CaaS), CoRover claims to be the world's first and highest ROI-delivering platform, currently supporting over 1 billion users.",
+  "ideal_company_sizes": [
+    "Enterprise"
+  ],
+  "key_use_cases": [
+    "AI Virtual Assistant deployment for various enterprise needs",
+    "Recruiting automation and candidate engagement via conversational AI",
+    "Support for talent management functions through virtual assistants",
+    "Workforce management assistance and self-service HR queries",
+    "Implementation of conversational AI for diversity and inclusion initiatives (e.g., building a more diverse and inclusive workforce)",
+    "Video-Voice commerce virtual assistants (potentially for internal employee services or training)"
+  ],
+  "competitive_advantages": [
+    "Human-centric conversational and generative AI",
+    "Patent-pending technology (AI, ML, NLP, AR, VR)",
+    "Support for multiple formats (VideoBots, VoiceBots, ChatBots)",
+    "Extensive language support (100+ languages)",
+    "Omni-channel deployment capabilities",
+    "Proven scalability and reliability, supporting over 1 billion users",
+    "Claims of being the world's first platform in its category",
+    "Claims of delivering the highest ROI",
+    "Offered as an end-to-end managed ChatBot as a Service (CaaS)"
+  ],
+  "implementation_scenarios": [
+    "Managed Service (as a Service)"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Management",
+    "Workforce Management",
+    "Diversity & Inclusion (D&I)"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Machine Learning (ML)",
+    "Natural Language Processing (NLP)",
+    "Augmented Reality (AR)",
+    "Virtual Reality (VR)",
+    "Generative AI"
+  ],
+  "roi_benefits": [
+    "High Return on Investment (ROI)"
+  ],
+  "searchable_keywords": [
+    "CoRover",
+    "Human Centric AI",
+    "Conversational AI",
+    "Generative AI",
+    "AI Virtual Assistants",
+    "AI VideoBots",
+    "AI VoiceBots",
+    "AI ChatBots",
+    "Multi-Format AI",
+    "Multi-Lingual AI",
+    "Omni-Channel AI",
+    "ChatBot as a Service",
+    "CaaS",
+    "Talent Management",
+    "Recruiting",
+    "Workforce Management",
+    "Recruiting Automation",
+    "Workforce Diversity",
+    "Employee Diversity",
+    "Enterprise AI",
+    "Secure AI",
+    "Scalable AI",
+    "Reliable AI",
+    "Patent-Pending AI",
+    "AI for HR",
+    "HR Technology",
+    "HR Software"
+  ],
+  "primary_users": [
+    "HR Professionals (Administrators/Managers)",
+    "Employees",
+    "Candidates"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "scalability_features": [
+    "Scalable architecture",
+    "Supports high user volume (1 Billion+ users)"
+  ],
+  "security_features": [
+    "Secure platform"
+  ],
+  "_weight": 1
+}

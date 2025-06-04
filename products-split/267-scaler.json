@@ -1,0 +1,107 @@
+{
+  "id": 267,
+  "name": "Scaler",
+  "description": "Scaler is an online transformative upskilling platform for working tech professionals. Our industry-vetted approach towards teaching & training young professionals not only helps them upskill but also #CreateImpact in the real world. We are devoted to creating an ecosystem that nurtures our learners and assists them in unlocking talent, skills & opportunities at every stage of their careers. Learners enrolled with us are taught, guided, and mentored by industry veterans and experts from leading tech organisations, including Google, Meta, Netflix, Microsoft, Amazon, Hotstar, Twitter etc.",
+  "features": [
+    "Great Team",
+    "Market-Leading Compensation",
+    "Create Direct Impact"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Course authoring"
+  ],
+  "tags": [
+    "Personalised learning",
+    "Skill acquisition",
+    "Skill development"
+  ],
+  "headquarter": "Bengaluru East, Karnataka",
+  "launch_date": "2019",
+  "order": 20232,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Your Path to a Successful Tech Career!",
+  "ProductId": null,
+  "ShortDescription": "Scaler is an online transformative upskilling platform for working tech professionals",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:21.380Z",
+  "enhanced_description": "Scaler is an online transformative upskilling platform designed for working tech professionals. It employs an industry-vetted approach to teaching and training, aiming to accelerate skill development and learning efficiency, enabling learners to #CreateImpact in the real world. The platform provides a nurturing ecosystem where learners are taught, guided, and mentored by industry veterans and experts from leading tech organizations such as Google, Meta, Netflix, Microsoft, Amazon, Hotstar, and Twitter, facilitating personalized learning, skill acquisition, and career advancement.",
+  "target_industries": [
+    "Technology"
+  ],
+  "key_use_cases": [
+    "Professional skill development for tech professionals",
+    "Accelerated learning and skill acquisition",
+    "Career advancement and opportunity unlocking",
+    "Personalized learning for tech skills"
+  ],
+  "competitive_advantages": [
+    "Industry-vetted curriculum and teaching methodology",
+    "Mentorship and guidance from experts at leading tech organizations"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Enhanced career opportunities for tech professionals",
+    "Ability to create real-world impact through acquired skills"
+  ],
+  "searchable_keywords": [
+    "upskilling platform",
+    "online learning",
+    "tech education",
+    "professional development",
+    "skill acquisition",
+    "skill development",
+    "personalized learning",
+    "e-learning",
+    "training software",
+    "career growth",
+    "tech skills",
+    "industry experts",
+    "mentorship",
+    "Scaler",
+    "tech career"
+  ],
+  "primary_users": [
+    "Working tech professionals",
+    "Individual learners",
+    "Tech professionals seeking career advancement"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "_weight": 1
+}

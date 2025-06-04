@@ -1,0 +1,175 @@
+{
+  "id": 1247,
+  "name": "Disprz",
+  "description": "Disprz identifies and benchmarks employees\u2019 skills needed for different job roles, assesses their current levels, creates impactful learning pathways, drives hyper-personalized learning to bridge skill gaps and drives learning adoption. Disprz makes available insightful analytics that link back skilling to business performance.",
+  "features": [
+    "Facilitate Skill-based Personalized Learning with a Learning Experience Platform",
+    "Scalable training and enablement for your frontline workers",
+    "Drive learning & development with a feature-rich Enterprise LMS",
+    ""
+  ],
+  "founders": [
+    "Subramanian (Subbu) Viswanathan",
+    "Kuljit Chadha"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised learning",
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning"
+  ],
+  "headquarter": "West Orange, New Jersey",
+  "launch_date": "2015",
+  "order": 21075,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Disprz is an AI-powered, mobile upskilling and reskilling suite, helping enterprises unlock business potential by enabling organization-wide skilling, while personalizing learning for the individual.",
+  "ProductId": null,
+  "ShortDescription": "Upskilling, Learning & Mobility- ",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Upskill and Reskill to address talent gaps",
+      "sequence": 0,
+      "description": "Drive skill development by using role-specific insights on individual skills and career opportunities.  Guide employees towards meaningful learning opportunities, propelling their professional development within everyday work."
+    },
+    {
+      "name": "Quantify skills to drive results",
+      "sequence": 1,
+      "description": "Assess skills for job readiness, benchmarking for industry and functional alignment. Adapt skills to fit with company culture and market needs. Bridge skill gaps with role-specific content."
+    },
+    {
+      "name": "Increase competitive market advantage",
+      "sequence": 2,
+      "description": "Give employees the opportunity to upskill and reskill with role-based and interest-based skill development, ultimately attracting and retaining the best talent."
+    },
+    {
+      "name": "Analytics tied to current or future talent gaps & business outcomes",
+      "sequence": 3,
+      "description": "Enhance retention by delivering bursts of bite-sized microlearning content at the right time and on mobile for their convenience."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:13:07.527Z",
+  "enhanced_description": "Disprz is an AI-powered, mobile upskilling and reskilling suite designed to identify and benchmark employee skills for various job roles, assess current proficiency, and create hyper-personalized learning pathways to bridge skill gaps. It drives learning adoption through impactful content delivery, including bite-sized microlearning, and provides insightful analytics that link skilling directly to business performance. The platform facilitates skill-based personalized learning via a Learning Experience Platform (LXP) and offers scalable training and enablement for frontline workers through a feature-rich Enterprise LMS. Disprz ultimately helps global enterprises accelerate skill development, improve talent retention, increase competitive market advantage, and unlock business potential by enabling organization-wide skilling while personalizing learning for the individual.",
+  "ideal_company_sizes": [
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Skill identification and benchmarking for job roles",
+    "Skill gap assessment and bridging through personalized learning",
+    "Hyper-personalized learning and development initiatives",
+    "Upskilling and reskilling programs for talent gaps",
+    "Scalable training and enablement for frontline workers",
+    "Enterprise-wide learning management and content delivery",
+    "Linking learning analytics to business performance and outcomes",
+    "Improving talent attraction and retention through continuous learning opportunities"
+  ],
+  "competitive_advantages": [
+    "AI-powered personalization of learning pathways",
+    "Mobile-first learning experience with bite-sized microlearning",
+    "Ability to link skilling directly to business performance via insightful analytics",
+    "Comprehensive skill identification, benchmarking, and assessment capabilities",
+    "Support for organization-wide skilling alongside individual personalization",
+    "Scalable training and enablement specifically for frontline workers"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Talent Management",
+    "Workforce Planning",
+    "HR Analytics"
+  ],
+  "technology_stack": [
+    "Artificial intelligence"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Effective bridging of skill gaps",
+    "Enhanced business performance",
+    "Increased competitive market advantage",
+    "Improved talent attraction and retention",
+    "Quantifiable skill development results"
+  ],
+  "searchable_keywords": [
+    "Disprz",
+    "AI-powered",
+    "mobile learning",
+    "upskilling",
+    "reskilling",
+    "skill development",
+    "personalized learning",
+    "learning experience platform",
+    "LXP",
+    "enterprise LMS",
+    "corporate LMS",
+    "training management",
+    "e-learning",
+    "learning & development",
+    "skill gaps",
+    "learning analytics",
+    "talent retention",
+    "continuous learning",
+    "adaptive learning",
+    "microlearning",
+    "frontline worker training",
+    "skill assessment",
+    "skill benchmarking",
+    "talent management",
+    "HR technology"
+  ],
+  "primary_users": [
+    "Employees",
+    "Frontline workers",
+    "L&D Professionals",
+    "HR Leaders"
+  ],
+  "scalability_features": [
+    "Scalable training and enablement for frontline workers",
+    "Support for organization-wide skilling"
+  ],
+  "_weight": 1
+}

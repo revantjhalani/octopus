@@ -1,0 +1,183 @@
+{
+  "id": 782,
+  "name": "Karat",
+  "description": "Karat created the world\u2019s first Interviewing Cloud to solve the multi-decade global shortage of software engineers. The Interviewing Cloud is an always-on, scalable, and consistent human + technology solution for conducting predictive, fair, and enjoyable technical interviews 24/7. Karat\u2019s global network of Interview Engineers, unparalleled market intelligence, and purpose-built interviewing infrastructure opens the pipeline for engineering talent, limits pedigree bias, and provides access for underrepresented candidates. The fastest growing and largest enterprises such as Roblox, American Express, Intuit, Compass, and Wayfair trust Karat to expand hiring capacity, unlock developer time, and raise engineering quality so they can innovate and grow.",
+  "features": [
+    "Reliably identify talent",
+    "Delight candidates",
+    "Reclaim engineering bandwidth"
+  ],
+  "founders": [
+    "Mohit Bhende"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "Other / technology",
+    "Learning and Development",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Video interviewing software",
+    "Recruitment agencies",
+    "Recruiting software",
+    "Performance Review software",
+    "Artificial intelligence",
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs"
+  ],
+  "headquarter": "Seattle, Washington",
+  "launch_date": "2014",
+  "order": 20735,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We\u2019re Karat, the world\u2019s largest interviewing company",
+  "ProductId": null,
+  "ShortDescription": "Karat help companies hire top engineering talent by improving the quality, efficiency, and equity of their technical hiring process. When every interview is predictive, fair and enjoyable, we can work together to unlock opportunity \u2014 for everyone.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Karat helps businesses hire qualified engineers",
+      "sequence": 0,
+      "description": "Karat assists businesses in finding and recruiting qualified engineers by providing various services throughout the technical interviewing process."
+    },
+    {
+      "name": "Variety of services for technical interviewing:",
+      "sequence": 1,
+      "description": "Karat offers a comprehensive approach to technical interviewing. Their services include interview scheduling, candidate evaluation, and data analysis, ensuring a smooth and efficient hiring process."
+    },
+    {
+      "name": "Improved hiring outcomes for clients",
+      "sequence": 2,
+      "description": "Clients using Karat's services report benefits like saving time and improving the quality of their engineering hires. This suggests Karat's services can significantly enhance a company's recruitment process."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:22.846Z",
+  "enhanced_description": "Karat pioneered the world's first 'Interviewing Cloud,' an innovative human + technology solution designed to address the global scarcity of software engineers. This always-on, scalable platform facilitates consistent, predictive, fair, and enjoyable technical interviews around the clock. Leveraging a global network of Interview Engineers, unparalleled market intelligence, and purpose-built infrastructure, Karat aims to expand the pipeline for engineering talent, mitigate pedigree bias, and enhance access for underrepresented candidates. The service assists businesses in finding and recruiting qualified engineers by providing a comprehensive approach to technical interviewing, including interview scheduling, candidate evaluation, and data analysis. Leading enterprises like Roblox, American Express, Intuit, Compass, and Wayfair rely on Karat to boost hiring capacity, free up valuable developer time, and elevate engineering quality, ultimately enabling innovation and growth. Its core objective is to improve the quality, efficiency, and equity of the technical hiring process, ensuring every interview is predictive, fair, and enjoyable to unlock opportunities for all.",
+  "target_industries": [
+    "Technology",
+    "Enterprises with significant engineering talent needs"
+  ],
+  "ideal_company_sizes": [
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Conducting predictive, fair, and enjoyable technical interviews",
+    "Expanding engineering hiring capacity",
+    "Unlocking and reclaiming developer bandwidth from interviewing tasks",
+    "Raising and improving engineering quality through better hires",
+    "Limiting pedigree bias in technical hiring",
+    "Providing equitable access for underrepresented candidates",
+    "Automated interview scheduling",
+    "Comprehensive candidate evaluation during technical interviews",
+    "Data analysis for optimizing the interviewing process"
+  ],
+  "competitive_advantages": [
+    "Pioneered the world's first Interviewing Cloud",
+    "Positioned as the world's largest interviewing company",
+    "Offers an always-on, scalable, and consistent human + technology solution",
+    "Utilizes a global network of specialized Interview Engineers",
+    "Provides unparalleled market intelligence for hiring",
+    "Features purpose-built interviewing infrastructure",
+    "Designed to actively limit pedigree bias in hiring",
+    "Facilitates increased access for underrepresented candidates"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition"
+  ],
+  "technology_stack": [
+    "Artificial intelligence",
+    "Video interviewing software",
+    "Cloud (Interviewing Cloud)"
+  ],
+  "roi_benefits": [
+    "Expanded engineering hiring capacity",
+    "Reduced engineering bandwidth drain (unlock developer time)",
+    "Improved quality of engineering hires",
+    "Boosted Hiring Manager confidence and productivity",
+    "Faster and more efficient hiring of top talent",
+    "Time savings for businesses in the recruitment process",
+    "Increased efficiency of the technical hiring process",
+    "Potential reduction in recruiting costs"
+  ],
+  "searchable_keywords": [
+    "Karat",
+    "Interviewing Cloud",
+    "technical interviews",
+    "software engineers",
+    "engineering talent",
+    "hiring",
+    "recruiting",
+    "talent acquisition",
+    "video interviewing software",
+    "AI",
+    "artificial intelligence",
+    "talent identification",
+    "candidate experience",
+    "engineering bandwidth",
+    "hiring manager productivity",
+    "top talent",
+    "efficiency",
+    "equity in hiring",
+    "bias reduction",
+    "underrepresented candidates",
+    "interview scheduling",
+    "candidate evaluation",
+    "data analysis",
+    "recruitment agencies",
+    "recruiting software",
+    "HR technology",
+    "talent sourcing",
+    "recruiting costs"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "Talent Acquisition Teams",
+    "Recruiters"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "compliance_features": [
+    "Fair interviewing practices",
+    "Bias reduction (e.g., limits pedigree bias)",
+    "Promotes access for underrepresented candidates (equity)"
+  ],
+  "scalability_features": [
+    "Scalable solution",
+    "Always-on service",
+    "24/7 availability for interviews"
+  ],
+  "_weight": 1
+}

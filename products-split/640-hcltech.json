@@ -1,0 +1,162 @@
+{
+  "id": 640,
+  "name": "HCLTech",
+  "description": "HCLTech is a global technology company, home to more than 221,000 people across 60 countries, delivering industry-leading capabilities centered around digital, engineering, cloud and AI, powered by a broad portfolio of technology services and products. We work with clients across all major verticals, providing industry solutions for Financial Services, Manufacturing, Life Sciences and Healthcare, Technology and Services, Telecom and Media, Retail and CPG, and Public Services.",
+  "features": [
+    "Navigate the future of work with confidence",
+    "Next-gen solutions for modern workforce management",
+    "Deepen client engagement"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Internet of things",
+    "Software and Services Related to HR Software",
+    "Machine learning HR"
+  ],
+  "tags": [
+    "Employee engagement"
+  ],
+  "headquarter": "Noida, Uttar Pradesh",
+  "launch_date": "1991",
+  "order": 26,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We bring together the best of technology and our people to supercharge progress.",
+  "ProductId": null,
+  "ShortDescription": "We bring together the best of technology and our people to supercharge progress.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Unleashing the power within",
+      "sequence": 0,
+      "description": "Empower your organization with our HCM services, offering strategic guidance, seamless implementation, and ongoing support to optimize your HR ecosystem."
+    },
+    {
+      "name": "Industry Expertise",
+      "sequence": 1,
+      "description": "HCLTech works with clients in many industries including financial services, manufacturing, and healthcare."
+    },
+    {
+      "name": "Client Focus",
+      "sequence": 2,
+      "description": "HCLTech enhances operational efficiency, optimizes cloud usage, and delivers exceptional customer experiences across industries."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-29T12:36:36.455Z",
+  "enhanced_description": "HCLTech is a global technology company with a presence in over 60 countries, employing more than 221,000 people. The company delivers industry-leading capabilities focused on digital transformation, engineering, cloud computing, and artificial intelligence (AI) through a broad portfolio of technology services and products. HCLTech provides industry-specific solutions across major verticals including Financial Services, Manufacturing, Life Sciences and Healthcare, Technology and Services, Telecom and Media, Retail and CPG, and Public Services, with a focus on modern workforce management and optimizing HR ecosystems.",
+  "target_industries": [
+    "Financial Services",
+    "Manufacturing",
+    "Life Sciences and Healthcare",
+    "Technology and Services",
+    "Telecom and Media",
+    "Retail and CPG",
+    "Public Services"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Workforce management",
+    "HR ecosystem optimization",
+    "Employee happiness and engagement improvement"
+  ],
+  "competitive_advantages": [
+    "Global presence and scale (221,000+ people across 60 countries)",
+    "Industry-leading capabilities in digital, engineering, cloud, and AI",
+    "Broad portfolio of technology services and products",
+    "Deep client engagement focus",
+    "Industry expertise across diverse sectors",
+    "Strategic guidance, seamless implementation, and ongoing support for HCM services"
+  ],
+  "implementation_scenarios": [
+    "Strategic guidance for HR ecosystem optimization",
+    "Seamless implementation of HCM services",
+    "Ongoing support for HR technology solutions"
+  ],
+  "hr_functions_supported": [
+    "Workforce management",
+    "HR ecosystem optimization",
+    "Employee engagement",
+    "Human Capital Management (HCM) services"
+  ],
+  "technology_stack": [
+    "Digital",
+    "Engineering",
+    "Cloud",
+    "Artificial intelligence (AI)",
+    "Internet of Things (IoT)",
+    "Machine learning (ML)"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness and Engagement",
+    "Enhanced operational efficiency",
+    "Optimized cloud usage"
+  ],
+  "searchable_keywords": [
+    "HCLTech",
+    "global technology company",
+    "digital transformation",
+    "engineering services",
+    "cloud computing",
+    "artificial intelligence",
+    "AI",
+    "technology services",
+    "HR software",
+    "HR services",
+    "workforce management",
+    "HCM services",
+    "HR ecosystem",
+    "employee engagement",
+    "employee happiness",
+    "machine learning HR",
+    "IoT",
+    "operational efficiency",
+    "client engagement",
+    "industry solutions",
+    "Financial Services",
+    "Manufacturing",
+    "Life Sciences",
+    "Healthcare",
+    "Telecom",
+    "Media",
+    "Retail",
+    "CPG",
+    "Public Services"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "HR Managers",
+    "Organizational Leaders (focused on workforce strategy)"
+  ],
+  "_weight": 1
+}

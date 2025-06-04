@@ -1,0 +1,149 @@
+{
+  "id": 198,
+  "name": "Otomeyt",
+  "description": "At Otomeyt, we are on a mission to disrupt the art of Recruitment and Training through Intelligent Tech-led Platforms. Say hello to a new era where the worlds of staffing and training are seamlessly integrated through technology to create a future-ready workforce. We help our clients build success stories by helping them hire great talent with speed and ease, measure and train their employees, and bring about talent predictability. Our slew of proprietary AI-based tools will ensure you ALWAYS hire the right talent and train them effectively.",
+  "features": [
+    "A $2 Billion global conglomerate powering future-first tech.",
+    "Helping enterprises large and small clientele hire the best talent faster.",
+    "With over 15 years of proven client success, we bring a wealth of experience to the industry."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "HR analytics software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Recruiting efficiency",
+    "Talent sourcing",
+    "Recruiting"
+  ],
+  "headquarter": "Singapore, Singapore",
+  "launch_date": "2018",
+  "order": 20165,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The Smart S3 Platform Source, Skill, Scale",
+  "ProductId": null,
+  "ShortDescription": "Our powerful in-house AI helps ensure we deliver results like never before.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "In-house AI-powered Product Suite",
+      "sequence": 0,
+      "description": "Otomeyt's cutting-edge approach to talent solutions has earned us the trust of leading organizations across industries."
+    },
+    {
+      "name": "Customisable, Scalable and Adaptable Customisable, Scalable and Adaptable",
+      "sequence": 1,
+      "description": "We've designed our platform-led services to be easily customizable, allowing you to scale and adapt as your organization grows."
+    },
+    {
+      "name": "Trusted by Industry Leaders",
+      "sequence": 2,
+      "description": "Our proven track record demonstrates our commitment to excellence and our ability to deliver results for our clients."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:20.229Z",
+  "enhanced_description": "Otomeyt is an intelligent, tech-led platform on a mission to disrupt recruitment and training. It seamlessly integrates staffing and training processes through proprietary AI-based tools to help organizations build a future-ready workforce. Otomeyt enables clients to hire great talent with speed and ease, measure and train employees effectively, and achieve talent predictability. The platform is designed to be customizable, scalable, and adaptable, serving enterprises of all sizes, from small to large and global, with a focus on sourcing, skilling, and scaling talent. Backed by a $2 Billion global conglomerate and boasting over 15 years of proven client success, Otomeyt leverages its powerful in-house AI to deliver results in talent acquisition and development.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Talent Acquisition",
+    "Employee Training",
+    "Talent Development",
+    "Talent Predictability",
+    "Recruitment Efficiency",
+    "Talent Sourcing"
+  ],
+  "competitive_advantages": [
+    "Proprietary AI-powered product suite",
+    "Seamless integration of recruitment and training functionalities",
+    "Over 15 years of proven client success and industry experience",
+    "Customizable and scalable platform",
+    "Adaptable to organizational growth and needs",
+    "Trusted by industry leaders"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Training",
+    "Talent Management",
+    "HR Analytics",
+    "Staffing"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)"
+  ],
+  "roi_benefits": [
+    "Faster talent acquisition",
+    "Improved quality of hire",
+    "Enhanced recruitment efficiency",
+    "Increased hiring manager confidence",
+    "Increased hiring manager productivity",
+    "Improved employee training effectiveness",
+    "Enhanced talent predictability"
+  ],
+  "searchable_keywords": [
+    "Otomeyt",
+    "Recruitment",
+    "Training",
+    "Talent Management",
+    "AI HR Tech",
+    "AI-powered recruitment",
+    "Talent acquisition",
+    "Employee training",
+    "HR analytics",
+    "Staffing software",
+    "Recruiting efficiency",
+    "Talent sourcing",
+    "Talent predictability",
+    "Customizable HR software",
+    "Scalable HR platform",
+    "HR technology"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Recruiters",
+    "Talent Acquisition Teams",
+    "Learning & Development Teams",
+    "Hiring Managers"
+  ],
+  "scalability_features": [
+    "Customizable",
+    "Scalable",
+    "Adaptable"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,147 @@
+{
+  "id": 709,
+  "name": "iKompass",
+  "description": "Ikompass primary area of focus is Data Science, Machine Learning, Artificial Intelligence, Project Management, Cyber Security and Serverless technologies.",
+  "features": [
+    "Provide On-demand courses in Singapore",
+    "Robotic process automation graphical representation",
+    "Offer Big data courses"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Training & development companies",
+    "Machine learning HR"
+  ],
+  "tags": [
+    "Diversity and inclusion",
+    "Learning analytics"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2009",
+  "order": 20663,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Courses  for   Singapore Professionals",
+  "ProductId": null,
+  "ShortDescription": "We are an education organization specializing in a niche set of courses and skills.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Industry Experts and Flexible Course Formats",
+      "sequence": 0,
+      "description": "iKompass offers data science courses taught by industry experts [1]. The courses are offered in a variety of formats, including physical classroom, virtual live classroom, and online [1]. This means that iKompass can provide students with a learning experience that meets their needs and preferences."
+    },
+    {
+      "name": "Courses for Beginners and Experts",
+      "sequence": 1,
+      "description": "iKompass offers courses that are designed for both beginners and experts [1]. This means that iKompass can provide students with the level of instruction they need to succeed in their data science studies."
+    },
+    {
+      "name": "Learn in Person or Online",
+      "sequence": 2,
+      "description": "Students can choose to learn in person or online [1]. This flexibility allows students to choose the learning format that best suits their needs and lifestyle."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:56.399Z",
+  "enhanced_description": "iKompass is an education organization established in 2009 and headquartered in Singapore, specializing in a niche set of courses and skills for Singaporean professionals. Its primary focus areas include Data Science, Machine Learning, Artificial Intelligence, Project Management, Cyber Security, and Serverless technologies. The platform offers on-demand and live courses, including Big Data and Robotic Process Automation, which are taught by industry experts. Courses are designed for both beginners and experts and are delivered in flexible formats, including physical classroom, virtual live classroom, and online. As a learning and development solution, iKompass functions as a corporate LMS and training provider, aiming to help organizations build a more diverse and inclusive workforce.",
+  "ideal_company_sizes": [
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Corporate learning and development for technical skills",
+    "Upskilling and reskilling employees in Data Science, Machine Learning, AI, Project Management, Cyber Security, and Serverless technologies",
+    "Providing on-demand technology courses",
+    "Implementing training programs for Big Data and Robotic Process Automation",
+    "Supporting initiatives to build a more diverse and inclusive workforce through skill development"
+  ],
+  "competitive_advantages": [
+    "Specialization in high-demand technology areas (Data Science, ML, AI, Cyber Security, Serverless)",
+    "Courses taught by industry experts",
+    "Flexible course formats (physical, virtual live, online) to suit diverse learning needs",
+    "Offers content for both beginners and experts in various technical domains",
+    "Localized focus on Singaporean professionals"
+  ],
+  "implementation_scenarios": [
+    "Integration into existing corporate training programs",
+    "Deployment within organizational Learning & Development departments",
+    "Support for employee upskilling initiatives in technology domains"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Training & development",
+    "Diversity and Inclusion",
+    "Talent Development"
+  ],
+  "roi_benefits": [
+    "Contribution to building a more diverse and inclusive workforce",
+    "Development of critical technical skills within the employee base",
+    "Enhanced employee capabilities through expert-led and flexible training"
+  ],
+  "searchable_keywords": [
+    "iKompass",
+    "Data Science courses",
+    "Machine Learning training",
+    "Artificial Intelligence programs",
+    "Project Management courses",
+    "Cyber Security education",
+    "Serverless technologies training",
+    "On-demand courses Singapore",
+    "Robotic process automation training",
+    "Big data courses",
+    "Diversity and inclusion training",
+    "Learning analytics",
+    "Learning and Development",
+    "Corporate LMS",
+    "Training & development companies",
+    "Machine learning HR",
+    "Education organization",
+    "Niche skills",
+    "Singapore professionals",
+    "Industry experts",
+    "Flexible course formats",
+    "Physical classroom",
+    "Virtual live classroom",
+    "Online learning",
+    "Beginner courses",
+    "Expert courses",
+    "Upskilling",
+    "Reskilling"
+  ],
+  "primary_users": [
+    "Singapore Professionals",
+    "Corporate employees seeking technical upskilling",
+    "HR and Learning & Development managers overseeing corporate training",
+    "Individuals interested in Data Science, Machine Learning, AI, Project Management, Cyber Security, and Serverless technologies"
+  ],
+  "_weight": 1
+}

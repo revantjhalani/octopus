@@ -1,0 +1,105 @@
+{
+  "id": 622,
+  "name": "Grade Up",
+  "description": "To help our students prepare efficiently for various exams, we offer online classroom programs conducted by India\u2019s top faculty, comprehensive study material that\u2019s exclusively designed by our subject-matter experts & latest pattern test series with in-depth performance analysis so that they can recognize their true potential & establish a successful career.",
+  "features": [
+    "Preparation for all competitive exams",
+    "Online classes",
+    "Provide appropriate material"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Training & development companies",
+    "Course authoring"
+  ],
+  "tags": [
+    "Skill development",
+    "Skill acquisition",
+    "Learning efficiency"
+  ],
+  "headquarter": "Noida, Uttar Pradesh",
+  "launch_date": "2015",
+  "order": 20579,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "The Most Comprehensive Exam Preparation App",
+  "ProductId": null,
+  "ShortDescription": "BYJU\u2019S Exam Prep, formerly Gradeup is the most comprehensive preparation app for all exams.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:31:18.937Z",
+  "enhanced_description": "Grade Up, now known as BYJU\u2019S Exam Prep, is an online learning platform and comprehensive app designed to help students efficiently prepare for various competitive exams. It offers online classroom programs led by India\u2019s top faculty, comprehensive study material exclusively designed by subject-matter experts, and latest pattern test series with in-depth performance analysis. The platform aims to accelerate skill development and learning efficiency, empowering students to recognize their true potential and establish successful careers.",
+  "key_use_cases": [
+    "Online competitive exam preparation for students",
+    "Skill development and learning efficiency for exam readiness",
+    "Accessing comprehensive online study materials and expert-led classes",
+    "Self-assessment and performance analysis for academic improvement"
+  ],
+  "competitive_advantages": [
+    "Instruction by India\u2019s top faculty",
+    "Comprehensive study material exclusively designed by subject-matter experts",
+    "Latest pattern test series with in-depth performance analysis",
+    "Positioned as the most comprehensive preparation app for all exams"
+  ],
+  "roi_benefits": [
+    "Improved exam performance leading to successful career outcomes",
+    "Efficient and accelerated skill development for exam readiness",
+    "Enhanced learning efficiency through structured programs and expert guidance",
+    "Self-awareness of potential through detailed performance analysis"
+  ],
+  "searchable_keywords": [
+    "Grade Up",
+    "BYJU\u2019S Exam Prep",
+    "exam preparation",
+    "online classes",
+    "competitive exams",
+    "study material",
+    "test series",
+    "performance analysis",
+    "skill development",
+    "skill acquisition",
+    "learning efficiency",
+    "eLearning software",
+    "training",
+    "course authoring",
+    "online learning",
+    "education app"
+  ],
+  "primary_users": [
+    "Students",
+    "Individuals seeking competitive exam preparation"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "Mobile application"
+  ],
+  "_weight": 1
+}

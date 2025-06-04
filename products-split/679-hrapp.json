@@ -1,0 +1,163 @@
+{
+  "id": 679,
+  "name": "HRapp",
+  "description": "HRapp built a platform to manage the 21st-century workforce\n As all the major fields, Human Resource Management has taken many leaps over the years. We hated the idea of thrusting HRs with out-moded software as \u201csolutions\u201d to manage their day-to-day tasks. We want to disrupt the HR Tech Space for better and equip HRs and employees with an end-to-end platform that is as interactive as social media, yet powerful enough to handle all HR tasks effortlessly.",
+  "features": [
+    "Unique Solutions",
+    "Custom solutions for each problem",
+    "Supports in all business-related aspects"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Onboarding software",
+    "Recruiting software",
+    "Career management software",
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    "Employee satisfaction"
+  ],
+  "headquarter": "Coimbatore, TAMIL NADU",
+  "launch_date": "2011",
+  "order": 20633,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Streamline your talent management workflows with one of the most innovative platform.",
+  "ProductId": null,
+  "ShortDescription": "HRAPP is a Cloud-Based HRMS and Payroll solution with cutting edge web technologies.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "No, Spreadsheets can\u2019t do them all",
+      "sequence": 0,
+      "description": "Managing your workforce using Spreadsheets will only pull you down, hamper your productivity and give you only a unidirectional view on your workforce, especially if your organization has more than 10 members"
+    },
+    {
+      "name": "Ultimate Workforce Efficiency Hacker",
+      "sequence": 1,
+      "description": "With HRAPP, Organisations can effectively track the productivity of employee's business activities and capture screenshots optionally. Employee Monitoring software comes with a desktop client for all major platforms to support the endpoint monitoring capability and reporting."
+    },
+    {
+      "name": "Have all the data at your fingertips?",
+      "sequence": 2,
+      "description": "The more data-driven the world becomes, the more it expects you to become data-informed. Imagine pulling out all the stats you need about your workforce from anywhere. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:22.007Z",
+  "enhanced_description": "HRapp is a cloud-based HRMS and Payroll solution designed to manage the 21st-century workforce, equipping HR professionals and employees with an end-to-end platform. It aims to disrupt the HR Tech Space by offering an interactive experience, similar to social media, while being powerful enough to handle all HR tasks effortlessly using cutting-edge web technologies. The platform provides unique and custom solutions, supporting various business-related aspects from talent acquisition to workforce management and employee productivity tracking.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Managing day-to-day HR tasks",
+    "Streamlining talent management workflows",
+    "Onboarding new employees",
+    "Recruiting and talent sourcing",
+    "Managing employee careers",
+    "Processing payroll",
+    "Tracking employee productivity and business activities (with optional screenshot capture)",
+    "Providing data-driven insights and workforce analytics",
+    "Boosting hiring manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "End-to-end HR platform",
+    "Interactive user experience (social media-like)",
+    "Cloud-based solution",
+    "Utilizes cutting-edge web technologies",
+    "Offers unique and custom solutions for HR problems",
+    "Includes employee monitoring with desktop clients for major platforms (productivity tracking, optional screenshots)",
+    "Eliminates the need for traditional spreadsheet-based HR management",
+    "Enables data-driven decision-making with readily available workforce data"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Management",
+    "Total Rewards",
+    "Onboarding",
+    "Payroll",
+    "Career Management",
+    "Employee Productivity Tracking",
+    "Workforce Data Analytics"
+  ],
+  "technology_stack": [
+    "Cloud-Based",
+    "Cutting edge web technologies",
+    "Desktop client for all major platforms (for employee monitoring)"
+  ],
+  "roi_benefits": [
+    "Boosts hiring manager confidence",
+    "Increases hiring manager productivity",
+    "Enhances overall workforce efficiency",
+    "Reduces reliance on manual HR processes (e.g., spreadsheets)",
+    "Facilitates data-informed decision-making",
+    "Potential reduction in recruiting costs",
+    "Improvement in employee satisfaction"
+  ],
+  "searchable_keywords": [
+    "HRapp",
+    "HRMS",
+    "Payroll",
+    "Cloud HRMS",
+    "HR Software",
+    "HR Platform",
+    "Human Resources",
+    "Recruiting",
+    "Hiring",
+    "Talent Sourcing",
+    "Onboarding Software",
+    "Career Management Software",
+    "Talent Management",
+    "Total Rewards",
+    "Workforce Management",
+    "Employee Monitoring",
+    "Productivity Tracking",
+    "Data-driven HR",
+    "Employee Satisfaction",
+    "Recruiting Costs",
+    "HR Tech",
+    "HR Analytics"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Employees",
+    "Hiring Managers"
+  ],
+  "deployment_options": [
+    "Cloud-Based (SaaS)"
+  ],
+  "_weight": 1
+}

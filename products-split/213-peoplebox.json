@@ -1,0 +1,161 @@
+{
+  "id": 213,
+  "name": "Peoplebox",
+  "description": "Founded in late 2018 by Abhinav and Alagu, Peoplebox stems from their experience at a hyper-growth health-tech start-up where they witnessed rapid scaling challenges firsthand. Having seen technology's potential to streamline execution for startups and enhance focus, alignment, and results, they launched Peoplebox. The platform aims to empower hyper-growth companies with tools for effective performance management and employee engagement.",
+  "features": [
+    "OKR Software to align teams & execute fast",
+    "360 degree employee reviews software that slashes 90% admin workload",
+    "People Analytics with Gen-AI"
+  ],
+  "founders": [
+    "Alagu Muthuraman"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Talent management software",
+    "Workforce management",
+    "Performance management system",
+    "Performance Review software",
+    "Performance management solutions",
+    "HR analytics software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee recognition",
+    "Employee development",
+    "Employee empowerment",
+    "Employee Engagement strategies"
+  ],
+  "headquarter": "San Francisco, California",
+  "launch_date": "2019",
+  "order": 20179,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Y Combinator Backed Talent Management and People Analytics Platform",
+  "ProductId": null,
+  "ShortDescription": "Easily integrate goals and performance into people\u2019s workflows",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Directly Impact Business Results",
+      "sequence": 0,
+      "description": "Single platform to connect People and Business Strategy."
+    },
+    {
+      "name": "Very Easy-to-Use, Highly Customizable",
+      "sequence": 1,
+      "description": "Customise and run your performance reviews as per your needs."
+    },
+    {
+      "name": "Track Goals in Magically Easy Way",
+      "sequence": 2,
+      "description": "Integrate with work tools to auto-update progress on goals."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:34.236Z",
+  "enhanced_description": "Peoplebox, founded in late 2018 by Abhinav and Alagu, is a Y Combinator-backed talent management and people analytics platform. Born from the founders' experience with rapid scaling challenges at a hyper-growth health-tech startup, the platform is designed to empower hyper-growth companies by streamlining execution, enhancing focus, alignment, and results. It achieves this by providing tools for effective performance management and employee engagement, easily integrating goals and performance into people's workflows.",
+  "ideal_company_sizes": [
+    "Small-Enterprise",
+    "Large-Enterprise",
+    "Global-Enterprise"
+  ],
+  "key_use_cases": [
+    "Aligning teams and executing fast with OKR software",
+    "Conducting 360-degree employee reviews with reduced administrative workload",
+    "Leveraging Gen-AI for people analytics",
+    "Managing and improving employee performance",
+    "Enhancing employee happiness and engagement",
+    "Tracking goals and progress seamlessly by integrating with work tools",
+    "Connecting people strategy with business strategy to directly impact results"
+  ],
+  "competitive_advantages": [
+    "Backed by Y Combinator",
+    "Designed for hyper-growth companies and startups",
+    "Slashes 90% administrative workload for 360-degree employee reviews",
+    "Utilizes Gen-AI for advanced people analytics",
+    "Offers a single platform to connect People and Business Strategy",
+    "Very easy-to-use and highly customizable for performance reviews",
+    "Allows for magical goal tracking with auto-updates from integrated work tools",
+    "Enables easy integration of goals and performance into existing workflows"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Performance Management",
+    "Performance Reviews",
+    "Employee Engagement",
+    "HR Analytics"
+  ],
+  "technology_stack": [
+    "Gen-AI"
+  ],
+  "integration_capabilities": [
+    "Integrates with work tools to auto-update progress on goals"
+  ],
+  "roi_benefits": [
+    "Slashes 90% admin workload for 360-degree employee reviews",
+    "Improves employee happiness and engagement",
+    "Directly impacts business results by connecting people and business strategy",
+    "Enhances focus, alignment, and overall business results",
+    "Streamlines execution for hyper-growth companies"
+  ],
+  "searchable_keywords": [
+    "Peoplebox",
+    "OKR software",
+    "360 degree employee reviews",
+    "People Analytics",
+    "Gen-AI",
+    "Talent Management",
+    "Performance management system",
+    "Performance Review software",
+    "HR analytics software",
+    "Employee engagement",
+    "Employee recognition",
+    "Employee development",
+    "Employee empowerment",
+    "Employee Engagement strategies",
+    "Goals",
+    "Performance",
+    "Workflows",
+    "Y Combinator",
+    "Hyper-growth companies",
+    "Startups"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Managers",
+    "Employees"
+  ],
+  "scalability_features": [
+    "Designed to address rapid scaling challenges for hyper-growth companies",
+    "Aimed at empowering hyper-growth companies",
+    "Supports Small, Large, and Global Enterprises"
+  ],
+  "_weight": 1
+}

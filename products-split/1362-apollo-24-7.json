@@ -1,0 +1,136 @@
+{
+  "id": 1362,
+  "name": "Apollo 24|7",
+  "description": "Apollo 24|7 is a part of the multi-specialty healthcare group Apollo Hospitals with the core belief that Expertise is for Everyone. With the launch of Apollo 24|7, the vision of our founder Dr Prathap C Reddy of removing mobility barriers from healthcare has become a reality.\n\nApollo 24|7 helps you get treated from Apollo certified doctors at any time of the day, wherever you are. The mobile app has features like E- consultation, online pharmacy, home diagnostic test and digital vault where you can upload all your medical history.\n\n",
+  "features": [
+    "Online Doctor Consultations",
+    "Online Pharmacy",
+    "Diagnostic Tests at home",
+    "CIRCLE - Apollo 24|7's Premium Healthcare Program"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee well being"
+  ],
+  "headquarter": "Hyderabad, India",
+  "launch_date": "2020",
+  "order": 999,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Always caring about your health, we are here to help you!",
+  "ProductId": null,
+  "ShortDescription": "Apollo 24|7 helps you get treated from Apollo certified doctors at any time of the day, wherever you are. The mobile app has features like E- consultation, online pharmacy, home diagnostic test and digital vault where you can upload all your medical history.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Largest Online Pharmacy In India",
+      "sequence": 0,
+      "description": "With more than 5,600 stores in India, Apollo Pharmacy is not just the largest online pharmacy store in India but in Asia as well. Our pharmacy chain has been operational and been providing genuine quality healthcare products for more than 39 years. "
+    },
+    {
+      "name": "Most Trusted Online Medical Store Of India",
+      "sequence": 1,
+      "description": "As pioneers in the healthcare segment, we understand the importance of trust.. We ensure that every product sold through our stores are checked for their authenticity, quality, and compliance with the Central Drugs Standard Control Organization, the national regulatory body for Indian pharmaceuticals and medical devices."
+    },
+    {
+      "name": "100% Genuine Medicine From Apollo Pharmacy",
+      "sequence": 2,
+      "description": "All medicines/healthcare products sold on Apollo Pharmacy are procured from our sister company - Apollo Pharmacy, with a reputation of selling only 100% genuine products. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-12T07:51:35.335Z",
+  "enhanced_description": "Apollo 24|7, an integral part of the renowned multi-specialty healthcare group Apollo Hospitals, is a mobile application designed to overcome mobility barriers in healthcare by providing convenient access to medical services. Launched in 2020, the platform offers e-consultations with Apollo certified doctors, an online pharmacy for genuine medicines, and home diagnostic test services. It also includes a digital vault for secure management of personal medical history and a premium healthcare program called CIRCLE. Leveraging the extensive network of Apollo Pharmacy, it claims to be the largest online pharmacy in India and Asia, and the most trusted online medical store, ensuring the authenticity and quality of products in compliance with the Central Drugs Standard Control Organization (CDSCO). This service is positioned as a Total Rewards offering to improve employee happiness and engagement.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Remote doctor consultations for employees",
+    "Online ordering and delivery of genuine medicines for employees",
+    "Scheduling and conducting diagnostic tests at employees' homes",
+    "Digital storage and management of employee medical history",
+    "Providing a premium healthcare program as an employee benefit"
+  ],
+  "competitive_advantages": [
+    "Part of Apollo Hospitals, a multi-specialty healthcare group",
+    "Access to Apollo certified doctors",
+    "Largest online pharmacy in India and Asia (part of Apollo Pharmacy network of 5,600+ stores)",
+    "Most trusted online medical store in India with 39+ years of operational history",
+    "Ensures 100% genuine medicines, authenticated and compliant with CDSCO"
+  ],
+  "implementation_scenarios": [
+    "Deployment as an employee benefit program accessible via mobile application"
+  ],
+  "hr_functions_supported": [
+    "Employee Benefits Management",
+    "Employee Wellness Programs",
+    "Health & Safety Providers"
+  ],
+  "roi_benefits": [
+    "Improve Employee Happiness and Engagement",
+    "Enhanced access to healthcare services for employees",
+    "Convenience for employees through online consultations, home diagnostics, and online pharmacy"
+  ],
+  "searchable_keywords": [
+    "Apollo 24|7",
+    "Apollo Hospitals",
+    "Healthcare",
+    "Employee well-being",
+    "Total Rewards",
+    "Health & safety providers",
+    "Online doctor consultation",
+    "E-consultation",
+    "Online pharmacy",
+    "Home diagnostic test",
+    "Digital medical vault",
+    "Medical history management",
+    "Premium healthcare program",
+    "Employee happiness",
+    "Employee engagement",
+    "Employee benefits",
+    "India healthcare",
+    "Mobile health app"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Professionals"
+  ],
+  "deployment_options": [
+    "Mobile application"
+  ],
+  "compliance_features": [
+    "Compliance with Central Drugs Standard Control Organization (CDSCO) for pharmaceuticals and medical devices"
+  ],
+  "_weight": 1
+}

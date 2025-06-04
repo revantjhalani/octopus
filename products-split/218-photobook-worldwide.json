@@ -1,0 +1,124 @@
+{
+  "id": 218,
+  "name": "Photobook Worldwide",
+  "description": "Photobook Established in 2005, we have since expanded across our borders and currently hold offices in Australia, Canada, Malaysia, Thailand, Indonesia, and the Philippines. This allows us to extend our reach to the global market, effectively serving over 100 countries. We are the largest photobook player in the region and an increasingly formidable force within the industry across the globe. At present, our production capacity is about 150,000 photobooks a month and we have printed well over 1 million photobooks to date.",
+  "features": [
+    "Ensure superior craftsmanship and deliver lifelong quality.",
+    "expanded our product range to canvas prints, greeting cards, and photo prints among many others.",
+    "AI-powered tools are your creative companions"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Internet of things",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Continuous learning"
+  ],
+  "headquarter": "Subang Jaya, Selangor",
+  "launch_date": "2005",
+  "order": 20184,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Provides a unique experience in preserving meaningful memories ",
+  "ProductId": null,
+  "ShortDescription": "The leading e-commerce photo and personalisation company in the region for consumers and businesses",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Free Shipping",
+      "sequence": 0,
+      "description": "You are entitled for FREE shipping upon spending a qualifying amount on our products."
+    },
+    {
+      "name": "100% Quality Guarantee",
+      "sequence": 1,
+      "description": "100% Quality Guarantee is all about your satisfaction. We want you to be HAPPY."
+    },
+    {
+      "name": "Free Personalization Options",
+      "sequence": 2,
+      "description": "Providing you with full personalization and creative control is the nature of our business."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:38.500Z",
+  "enhanced_description": "Photobook Worldwide, established in 2005, is a leading e-commerce company specializing in photo and personalization services for consumers and businesses. With a global reach, serving over 100 countries and maintaining offices in Australia, Canada, Malaysia, Thailand, Indonesia, and the Philippines, it is recognized as the largest photobook player in its region. The company boasts a significant production capacity of approximately 150,000 photobooks per month, having printed well over 1 million photobooks to date. Their diverse product range includes photobooks, canvas prints, greeting cards, and photo prints, emphasizing superior craftsmanship and lifelong quality. Leveraging AI-powered tools as creative companions, Photobook Worldwide aims to provide a unique experience in preserving meaningful memories.",
+  "key_use_cases": [
+    "Preserving personal memories through customizable photo products",
+    "Creating personalized gifts for consumers and businesses",
+    "Developing custom branding or marketing materials (for businesses)",
+    "Facilitating employee recognition or corporate gifting programs (for businesses)"
+  ],
+  "competitive_advantages": [
+    "Largest photobook player in the region with a growing global force",
+    "Extensive global reach, serving over 100 countries with multiple offices",
+    "High production capacity capable of handling large volumes (150,000 photobooks/month)",
+    "Commitment to superior craftsmanship and lifelong quality",
+    "Utilization of AI-powered tools for enhanced creativity and user experience",
+    "Diverse product range beyond photobooks (canvas prints, greeting cards, photo prints)",
+    "Customer-centric benefits: Free Shipping (with qualifying amount), 100% Quality Guarantee, Free Personalization Options"
+  ],
+  "technology_stack": [
+    "Artificial intelligence"
+  ],
+  "roi_benefits": [
+    "Effective and lasting preservation of meaningful memories",
+    "Assurance of high-quality, durable photo products",
+    "Enhanced customer satisfaction through extensive personalization options and guarantees"
+  ],
+  "searchable_keywords": [
+    "Photobook",
+    "photo",
+    "personalization",
+    "e-commerce",
+    "canvas prints",
+    "greeting cards",
+    "photo prints",
+    "AI-powered tools",
+    "AI",
+    "memories",
+    "quality",
+    "craftsmanship",
+    "customization",
+    "prints",
+    "digital photography",
+    "creative",
+    "global"
+  ],
+  "primary_users": [
+    "Consumers",
+    "Businesses"
+  ],
+  "scalability_features": [
+    "High production capacity of approximately 150,000 photobooks per month",
+    "Established global operational infrastructure with offices in multiple countries and service to over 100 countries"
+  ],
+  "_weight": 1
+}

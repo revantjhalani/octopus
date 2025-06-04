@@ -1,0 +1,142 @@
+{
+  "id": 452,
+  "name": "Beehive Software",
+  "description": "Beehive Software Services provides state-of-the-art, technology-centric solution that help companies to develop, manage, reward and retain their most important asset \u2013 their people. With many year\u2019s of experience in delivering HR software solutions in the field of complete Employee life cycle management, Beehive is committed to deliver service excellence.\n Beehive prime focus lies in providing flexible, people-centric solution that improves day-to-day execution of HCM strategies to drive the HR processes which are critical for organization\u2019s success which helps to maintain a competitive talent advantage. By empowering the organization to focus on considerable value of its people towards its goals, Beehive HCM ensures significantly improved corporate performance and results.. Beehive Software Services offers In house, Hosted and Software as a Service (SaaS) HCM software systems that are designed to support both local and international deployment including solutions for Leave and Attendance, Payroll Management, Employee Performance Management, Employee Survey, Training & Development, Recruitment Management and many more.",
+  "features": [
+    "Employee Database Management",
+    "Employee Probation / Confirmation",
+    "Employee Asset Tracker"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Talent Management",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Resource Management Systems (HRMS)",
+    "HR management suites"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    ""
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2014",
+  "order": 20412,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Bee the Future!",
+  "ProductId": null,
+  "ShortDescription": "Beehive Software Services provides state-of-the-art, technology-centric solution that help companies to develop, manage, reward and retain their most important asset \u2013 their people.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": [],
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": false,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:27:40.504Z",
+  "enhanced_description": "Beehive Software Services offers state-of-the-art, technology-centric HCM software systems designed to help companies develop, manage, reward, and retain their most important asset \u2013 their people. With extensive experience in delivering HR software solutions for complete Employee Lifecycle Management, Beehive is committed to service excellence. Their primary focus is on providing flexible, people-centric solutions that improve the day-to-day execution of HCM strategies and drive critical HR processes for organizational success, helping maintain a competitive talent advantage and significantly improving corporate performance. Beehive HCM supports both local and international deployments, offering modules such as Leave and Attendance, Payroll Management, Employee Performance Management, Employee Survey, Training & Development, and Recruitment Management. Solutions are available via In-house, Hosted, and Software as a Service (SaaS) deployment models.",
+  "target_industries": [],
+  "ideal_company_sizes": [],
+  "key_use_cases": [
+    "Complete Employee Lifecycle Management",
+    "Streamlining HR processes and HCM strategies",
+    "Maintaining competitive talent advantage",
+    "Recruitment and hiring management",
+    "Employee performance tracking and development",
+    "Payroll and attendance management",
+    "Employee data and asset management",
+    "Employee engagement through surveys"
+  ],
+  "competitive_advantages": [
+    "Multiple deployment options (In-house, Hosted, SaaS)",
+    "Support for local and international deployments",
+    "Extensive experience in HR software solutions and complete employee lifecycle management",
+    "Focus on flexible and people-centric solutions",
+    "Ability to improve corporate performance and results through optimized HR processes"
+  ],
+  "implementation_scenarios": [
+    "On-premise (In-house)",
+    "Hosted",
+    "Software as a Service (SaaS)"
+  ],
+  "hr_functions_supported": [
+    "Core HR Management (Employee Database, Probation/Confirmation)",
+    "HR Operations (Employee Asset Tracking)",
+    "Time & Attendance Management",
+    "Payroll Management",
+    "Performance Management",
+    "Employee Engagement",
+    "Learning & Development",
+    "Talent Acquisition / Recruitment Management"
+  ],
+  "technology_stack": [],
+  "integration_capabilities": [],
+  "roi_benefits": [
+    "Significantly improved corporate performance and results",
+    "Enhanced competitive talent advantage",
+    "Improved day-to-day execution of HCM strategies",
+    "Empowers organizations to focus on the value of their people",
+    "Better development, management, reward, and retention of talent"
+  ],
+  "searchable_keywords": [
+    "HRMS",
+    "HCM",
+    "Human Resources Management System",
+    "Talent Management",
+    "Employee Lifecycle Management",
+    "Recruitment Management",
+    "Payroll Management",
+    "Leave Management",
+    "Attendance Management",
+    "Performance Management",
+    "Training & Development",
+    "Employee Survey",
+    "HR Software",
+    "HR Solutions",
+    "Employee Database",
+    "Asset Tracking",
+    "Hiring",
+    "Recruiting",
+    "HR Management Suite",
+    "People Management",
+    "HR Processes"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "HR Managers",
+    "Hiring Managers",
+    "Department Managers"
+  ],
+  "deployment_options": [
+    "On-premise",
+    "Hosted",
+    "SaaS (Software as a Service)"
+  ],
+  "compliance_features": [],
+  "scalability_features": [],
+  "security_features": [],
+  "_weight": 1
+}

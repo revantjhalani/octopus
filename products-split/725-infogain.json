@@ -1,0 +1,137 @@
+{
+  "id": 725,
+  "name": "Infogain",
+  "description": "What if you could harness the power of generative AI to easily explore HR policies and create personalized insights?\n\nASK NAVIK powered by Azure OpenAl is a generative Al solution developed by Infogain serving the needs of a diverse workforce. Watch the demo video for more details.",
+  "features": [
+    "Drive productivity and improve experiences with Generative AI"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs"
+  ],
+  "headquarter": "Los Gatos, CA",
+  "launch_date": "1990",
+  "order": 20679,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Ask NAVIK for HR",
+  "ProductId": null,
+  "ShortDescription": "Infogain is a human-centered digital platform and software company that creates extensible platforms for digital businesses.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": [
+      {
+        "times": [
+          {
+            "description": "What if you could harness the power of generative AI to easily explore HR policies and create personalized insights?  ASK NAVIK powered by Azure OpenAl is a generative Al solution developed by Infogain serving the needs of a diverse workforce. "
+          }
+        ],
+        "header": "Ask NAVIK for HR",
+        "sequence": 0,
+        "videourl": "https://www.youtube.com/watch?v=6zpocjBK2iY",
+        "description": "What if you could harness the power of generative AI to easily explore HR policies and create personalized insights?  ASK NAVIK powered by Azure OpenAl is a generative Al solution developed by Infogain serving the needs of a diverse workforce. "
+      }
+    ]
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Evolve your culture and thrive",
+      "sequence": 0,
+      "description": "Infogain Digital Workplace services enable your people to solve problems and strengthen a sense of community even when they can\u2019t all be in the same place. We connect people to each other and to your process so your business can thrive."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": true,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:17.463Z",
+  "enhanced_description": "ASK NAVIK, a generative AI solution developed by Infogain and powered by Azure OpenAI, enables users to easily explore HR policies and generate personalized insights. It is designed to serve the needs of a diverse workforce, aiming to drive productivity and improve experiences within the HR domain. Infogain, the parent company, is described as a human-centered digital platform and software company that creates extensible platforms for digital businesses, with a broader focus on digital workplace services to connect people and processes.",
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Exploring HR policies",
+    "Creating personalized HR insights",
+    "Boosting hiring manager confidence and productivity",
+    "Improving employee happiness and engagement",
+    "Supporting recruiting processes",
+    "Assisting with talent sourcing"
+  ],
+  "competitive_advantages": [
+    "Utilizes generative AI capabilities for HR",
+    "Powered by Azure OpenAI technology",
+    "Focuses on human-centered digital platform design",
+    "Aims to drive productivity and improve user experiences in HR"
+  ],
+  "hr_functions_supported": [
+    "HR Policy Management",
+    "Employee Engagement",
+    "Recruiting",
+    "Hiring",
+    "Talent Sourcing"
+  ],
+  "technology_stack": [
+    "Generative AI",
+    "Azure OpenAI"
+  ],
+  "roi_benefits": [
+    "Increased productivity for hiring managers and employees",
+    "Improved employee happiness and engagement",
+    "Enhanced employee experiences",
+    "More efficient exploration of HR policies"
+  ],
+  "searchable_keywords": [
+    "Infogain",
+    "ASK NAVIK",
+    "Generative AI",
+    "AI",
+    "Artificial Intelligence",
+    "HR Software",
+    "HR Technology",
+    "HR Policies",
+    "Personalized Insights",
+    "Azure OpenAI",
+    "Productivity",
+    "Employee Experience",
+    "Hiring Manager",
+    "Employee Engagement",
+    "Recruiting",
+    "Hiring",
+    "Talent Sourcing",
+    "Recruiting Costs"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "Employees",
+    "HR Professionals"
+  ],
+  "_weight": 1
+}

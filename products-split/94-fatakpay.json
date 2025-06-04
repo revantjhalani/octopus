@@ -1,0 +1,119 @@
+{
+  "id": 94,
+  "name": "Fatakpay",
+  "description": "FatakPay guarantees a brilliant, quicker, and transparent transaction experience \u2013 without interest fees or hidden charges. Sign up in minutes, get your credit approved digitally, and proceed with any transaction securely anywhere using the FatakPay app.\n",
+  "features": [
+    "One payment App for\neveryone and everything.",
+    "Funding your dreams\nand aspirations.",
+    "Pay utility bills with ease!"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [],
+  "sub_categories": [],
+  "tags": [],
+  "headquarter": "Mumbai",
+  "launch_date": "2013",
+  "order": 20064,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Scan, Borrow, Breathe: Fast and Convenient Loans with Fatakpay.",
+  "ProductId": null,
+  "ShortDescription": "A new way to access money faster.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Focus on Short-Term Loans.",
+      "sequence": 0,
+      "description": "Fatakpay caters to individuals needing quick financial assistance, likely offering smaller loans with shorter repayment terms compared to traditional banks."
+    },
+    {
+      "name": "Scan & Pay Convenience.",
+      "sequence": 1,
+      "description": " Leverages QR code technology for a seamless application and loan disbursement process. This eliminates the need for lengthy paperwork."
+    },
+    {
+      "name": "Digital & Paperless.",
+      "sequence": 2,
+      "description": "The entire loan experience is likely conducted online, offering a fast and hassle-free solution."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-26T12:02:25.775Z",
+  "enhanced_description": "FatakPay is a mobile application designed for individuals, offering a quick, transparent, and secure transaction experience for fast and convenient access to short-term loans. The platform distinguishes itself by guaranteeing no interest fees or hidden charges. Users can sign up and get credit approved digitally in minutes, enabling seamless, secure transactions anywhere. The entire loan experience is digital and paperless, leveraging QR code technology for efficient application and disbursement, thus eliminating traditional paperwork.",
+  "key_use_cases": [
+    "Accessing short-term loans for quick financial assistance",
+    "Funding personal aspirations and immediate needs",
+    "Paying utility bills digitally",
+    "General digital payment transactions"
+  ],
+  "competitive_advantages": [
+    "No interest fees or hidden charges, ensuring transparency",
+    "Quick digital credit approval in minutes",
+    "Entirely digital and paperless loan experience",
+    "Leverages QR code technology for seamless application and disbursement",
+    "Focus on fast and convenient short-term loans",
+    "Hassle-free user experience"
+  ],
+  "roi_benefits": [
+    "Time savings through quick sign-up and digital approval processes",
+    "Cost savings due to no interest fees or hidden charges",
+    "Enhanced convenience through a fully digital and paperless experience",
+    "Rapid access to funds for immediate financial needs"
+  ],
+  "searchable_keywords": [
+    "Fatakpay",
+    "loans",
+    "short-term loans",
+    "personal loans",
+    "digital loans",
+    "mobile loans",
+    "fast loans",
+    "convenient loans",
+    "quick financial assistance",
+    "payment app",
+    "utility bill payments",
+    "QR code payments",
+    "digital credit",
+    "paperless",
+    "interest-free",
+    "no hidden charges",
+    "online transactions",
+    "borrow money",
+    "scan to pay",
+    "credit app"
+  ],
+  "primary_users": [
+    "Individual consumers seeking quick financial assistance",
+    "Individuals needing fast and convenient short-term credit",
+    "Individuals looking for an easy way to pay utility bills"
+  ],
+  "deployment_options": [
+    "Mobile app",
+    "Online"
+  ],
+  "technology_stack": [
+    "QR code technology"
+  ],
+  "_weight": 1
+}

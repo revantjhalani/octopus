@@ -1,0 +1,159 @@
+{
+  "id": 134,
+  "name": "Magnolia",
+  "description": "Magnolia is the world's premier composable digital experience platform. With over 450 enterprise customers and thousands of Community Edition deployments globally, it integrates seamlessly with diverse tech stacks. Magnolia empowers businesses to unify content and data sources, streamlining digital delivery with a user-friendly interface. Trusted by industry leaders like American Express and CNN, Magnolia ensures personalized, optimized customer experiences across sectors from banking to media.",
+  "features": [
+    "Forms & Marketing Automation",
+    "Single-Page App (SPA) Editing",
+    "Optimized Content Authoring (Stories App)"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Hiring automation"
+  ],
+  "headquarter": "Basel, Switzerland",
+  "launch_date": "1997",
+  "order": 20101,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "A platform for your real-world marketing needs",
+  "ProductId": null,
+  "ShortDescription": "Turn complex content into incredible digital experiences",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Compose experiences visually",
+      "sequence": 0,
+      "description": " Streamline your digital delivery with an intuitive editor that offers in-line editing, drag-and-drop components, and omnichannel preview."
+    },
+    {
+      "name": "Reuse content across sites and channels",
+      "sequence": 1,
+      "description": "Manage hundreds of brand sites in one place, delivering localized content globally without duplication."
+    },
+    {
+      "name": "Personalize and Optimize",
+      "sequence": 2,
+      "description": "Boost conversions and customer satisfaction with personalized digital experiences. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:03.596Z",
+  "enhanced_description": "Magnolia is the world's premier composable digital experience platform (DXP) designed to unify content and data sources for streamlined digital delivery and personalized customer experiences. It offers a user-friendly interface with an intuitive editor, supporting in-line editing, drag-and-drop components, and omnichannel preview. While serving a broad range of industries from banking to media, Magnolia also provides capabilities relevant to HR technology, specifically supporting hiring automation and contributing to objectives like hiring top talent faster and more efficiently. Trusted by industry leaders such as American Express and CNN, Magnolia integrates seamlessly with diverse tech stacks and enables content reuse across hundreds of brand sites and channels globally without duplication. Key features include Forms & Marketing Automation, Single-Page App (SPA) Editing, and Optimized Content Authoring via its Stories App.",
+  "target_industries": [
+    "Banking",
+    "Financial Services",
+    "Media"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Medium Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Digital experience creation and management",
+    "Content authoring and publishing",
+    "Personalization and optimization of digital experiences",
+    "Omnichannel content delivery",
+    "Forms management and marketing automation",
+    "Single-Page Application (SPA) development and editing",
+    "Hiring automation and talent acquisition efficiency",
+    "Managing hundreds of brand sites and localized content globally"
+  ],
+  "competitive_advantages": [
+    "Composable architecture for flexible integration with diverse tech stacks",
+    "User-friendly and intuitive editor with visual composition tools (in-line editing, drag-and-drop)",
+    "Ability to manage hundreds of brand sites and reuse content globally without duplication",
+    "Focus on personalized and optimized customer experiences",
+    "Trusted by industry leaders like American Express and CNN"
+  ],
+  "implementation_scenarios": [
+    "Integration with existing enterprise systems and diverse technology stacks",
+    "Modular deployment of digital experience components",
+    "Consolidation of disparate content and data sources"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Hiring Automation"
+  ],
+  "integration_capabilities": [
+    "Integration with diverse technology stacks",
+    "Content and data source unification"
+  ],
+  "roi_benefits": [
+    "Streamlined digital delivery and improved operational efficiency",
+    "Increased conversions and customer satisfaction through personalization",
+    "Improved content management efficiency and reduced duplication costs",
+    "Faster and more efficient hiring processes",
+    "Accelerated content authoring and publishing workflows"
+  ],
+  "searchable_keywords": [
+    "Magnolia",
+    "Digital Experience Platform",
+    "DXP",
+    "Composable DXP",
+    "Content Management",
+    "CMS",
+    "Marketing Automation",
+    "Forms Management",
+    "SPA Editing",
+    "Single-Page App",
+    "Content Authoring",
+    "Stories App",
+    "Personalized Experiences",
+    "Customer Experience",
+    "Omnichannel",
+    "Visual Editor",
+    "Drag and Drop",
+    "Hiring Automation",
+    "Recruitment Software",
+    "HR Software",
+    "AI",
+    "Artificial Intelligence",
+    "Digital Marketing",
+    "Enterprise DXP"
+  ],
+  "primary_users": [
+    "Content Authors",
+    "Marketing Teams",
+    "Digital Experience Managers",
+    "Business Users"
+  ],
+  "scalability_features": [
+    "Supports hundreds of brand sites and global content delivery",
+    "Designed for enterprise-level deployments with over 450 enterprise customers"
+  ],
+  "_weight": 1
+}

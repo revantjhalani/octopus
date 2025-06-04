@@ -1,0 +1,144 @@
+{
+  "id": 741,
+  "name": "Int-Labs",
+  "description": "entrepreneurs, passionate about innovation\n We have had our own skin in the game since our first startups, and have figured out what works, and what does not. We also strongly believe that the majority of world changing innovations actually happen at corporations, rather than startups. We are passionate about unlocking the innovative potential of those who are crazy enough to try. We are a boutique innovation agency founded by active entrepreneurs and startup founders. Our vision at Int Labs is to empower people to imagine, and build innovative solutions for the world. We understand innovation.",
+  "features": [
+    "Venture & product development",
+    "Innovation transformation",
+    "Learning & development"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Training management system"
+  ],
+  "tags": [
+    "Learning efficiency",
+    "Adaptive learning",
+    "Training effectiveness"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2018",
+  "order": 20694,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Building innovative products, leaders, and organisations",
+  "ProductId": null,
+  "ShortDescription": "Int Labs is to empower people to imagine, and build innovative solutions for the world.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Boutique consulting, not volume consulting",
+      "sequence": 0,
+      "description": "Our smaller size allows us to be more efficient, and agile. We will give you a better solution faster, with a higher ROI."
+    },
+    {
+      "name": "We are obsessed with creating impact",
+      "sequence": 1,
+      "description": "When innovation is impact-driven, it has the ability to change the world. We don't just talk about theory, but focus on real life problems-to-be-solved"
+    },
+    {
+      "name": "We are entrepreneurs, who live innovation",
+      "sequence": 2,
+      "description": "We understand the innovation that actually works, because we have used it in our own start-ups"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:35.530Z",
+  "enhanced_description": "Int-Labs is a boutique innovation agency founded by active entrepreneurs and startup founders. Their core vision is to empower individuals within corporations to imagine and build innovative solutions. They specialize in unlocking the innovative potential of organizations, focusing on building innovative products, leaders, and organizations. Their approach emphasizes practical, real-world innovation, drawing from their founders' extensive experience in building startups and understanding what truly works in innovation.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Innovation transformation within corporations",
+    "Venture and product development initiatives",
+    "Accelerating skill development and learning efficiency in innovation",
+    "Empowering employees to imagine and build innovative solutions",
+    "Developing innovative leaders and organizations"
+  ],
+  "competitive_advantages": [
+    "Boutique and agile consulting approach, leading to more efficient, faster solutions and higher ROI",
+    "Founders are active entrepreneurs with first-hand experience in building and scaling startups, ensuring practical and proven innovation strategies",
+    "Obsession with creating impact, focusing on real-life problems-to-be-solved rather than just theory",
+    "Deep understanding of innovation that actually works, validated through personal startup experiences"
+  ],
+  "implementation_scenarios": [
+    "Strategic innovation consulting engagements",
+    "Custom innovation program development and deployment",
+    "Organizational innovation transformation initiatives"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Skill Development",
+    "Training Management",
+    "Innovation Training",
+    "Employee Upskilling"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Enhanced training effectiveness",
+    "Higher return on investment for innovation initiatives",
+    "Creation of impactful, real-world solutions"
+  ],
+  "searchable_keywords": [
+    "Int-Labs",
+    "innovation",
+    "innovation agency",
+    "innovation consulting",
+    "corporate innovation",
+    "product development",
+    "venture development",
+    "innovation transformation",
+    "learning & development",
+    "skill development",
+    "learning efficiency",
+    "training effectiveness",
+    "adaptive learning",
+    "training management system",
+    "elearning software",
+    "innovative products",
+    "innovative leaders",
+    "organisational innovation",
+    "boutique consulting",
+    "agile innovation",
+    "impact-driven innovation",
+    "entrepreneurial expertise",
+    "corporate training"
+  ],
+  "primary_users": [
+    "Innovation Leaders",
+    "Learning & Development Professionals",
+    "Product Development Teams",
+    "Corporate Executives",
+    "Employees engaged in innovation initiatives"
+  ],
+  "_weight": 1
+}

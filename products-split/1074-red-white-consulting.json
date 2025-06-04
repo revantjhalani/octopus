@@ -1,0 +1,141 @@
+{
+  "id": 1074,
+  "name": "Red & White Consulting",
+  "description": "A Boutique Consulting Firm; supported by a team of two principal consultants - top talents formerly with Citi Indonesia. The team has deep experiences and complementary expertise in Human Analytics | Financial Analytics | Business Analytics | Transforming Business Intelligence & Analytics Function | \u2018Connect the dots\u2019 to turn data into profit. Consulted for companies in Indonesia, Singapore, Malaysia, Taiwan, South Korea, Hong Kong and China; range across Manufacturing, Retail, NGO and Banking.",
+  "features": [
+    "Business Analytics Consulting",
+    "Human Capital Analytics Consulting ",
+    "Financial Analytics Consulting"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "HR analytics software"
+  ],
+  "tags": [
+    "Hiring analytics",
+    "Hiring best practices"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2013",
+  "order": 21017,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We Are Business Engineers",
+  "ProductId": null,
+  "ShortDescription": "We are Business Engineers. We Think Differently. A Boutique Consulting Firm; supported by a team of two principal consultants - top talents formerly with Citi Indonesia.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Talent Analytics",
+      "sequence": 0,
+      "description": "Data-driven analytical methods and tools to align and optimise Human Capital with business objectives, resulting in increased effectiveness and efficiency for organisations. "
+    },
+    {
+      "name": "Financial Analytics",
+      "sequence": 1,
+      "description": "If you fail to plan, you plan to fail. Most people have heard of the benefits of financial planning and want to better manage their company finances. We must build a strategic business planning process to achieve sustained business performance and profitability, which include"
+    },
+    {
+      "name": "Business Analytics \u200b",
+      "sequence": 2,
+      "description": "We will help you how to create a plan that matches short-term and long-term goals with specific innovative solutions to help meet business profitability."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:40:03.861Z",
+  "enhanced_description": "Red & White Consulting is a boutique consulting firm established in 2013, specializing in data-driven strategies across Human Analytics, Financial Analytics, and Business Analytics. The firm is supported by a team of two principal consultants, both top talents formerly with Citi Indonesia, offering deep and complementary expertise. They focus on transforming Business Intelligence & Analytics functions, helping organizations 'connect the dots' to turn data into profit. Their services include data-driven analytical methods and tools to align and optimize human capital with business objectives for increased effectiveness and efficiency (Talent Analytics); strategic business planning for sustained business performance and profitability (Financial Analytics); and creating innovative solutions to meet short-term and long-term profitability goals (Business Analytics). Red & White Consulting has a proven international track record, having consulted for Global and Large Enterprises in Indonesia, Singapore, Malaysia, Taiwan, South Korea, Hong Kong, and China, across diverse industries such as Manufacturing, Retail, NGO, and Banking.",
+  "target_industries": [
+    "Manufacturing",
+    "Retail",
+    "NGO",
+    "Banking"
+  ],
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Transforming Business Intelligence & Analytics Function",
+    "Turning data into profit",
+    "Human Capital Analytics Consulting",
+    "Financial Analytics Consulting",
+    "Business Analytics Consulting",
+    "Aligning and optimizing human capital with business objectives",
+    "Strategic business planning for sustained performance and profitability",
+    "Creating plans to meet business profitability goals",
+    "Boosting Hiring Manager Confidence and Productivity"
+  ],
+  "competitive_advantages": [
+    "Team of two principal consultants formerly with Citi Indonesia (top talents)",
+    "Deep and complementary expertise in Human, Financial, and Business Analytics",
+    "Proven international consulting experience across multiple countries (Indonesia, Singapore, Malaysia, Taiwan, South Korea, Hong Kong, China)",
+    "Experience across diverse industries (Manufacturing, Retail, NGO, Banking)"
+  ],
+  "hr_functions_supported": [
+    "Human Analytics",
+    "Talent Management",
+    "HR Analytics",
+    "Hiring",
+    "Talent Analytics"
+  ],
+  "roi_benefits": [
+    "Turn data into profit",
+    "Increased effectiveness and efficiency for organisations",
+    "Sustained business performance and profitability",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "searchable_keywords": [
+    "Red & White Consulting",
+    "Boutique Consulting Firm",
+    "Human Analytics",
+    "Financial Analytics",
+    "Business Analytics",
+    "Transforming Business Intelligence",
+    "Analytics Function",
+    "Data to profit",
+    "Business Analytics Consulting",
+    "Human Capital Analytics Consulting",
+    "Financial Analytics Consulting",
+    "Talent Management",
+    "HR analytics software",
+    "Hiring analytics",
+    "Hiring best practices",
+    "Business Engineers",
+    "Talent Analytics",
+    "Financial Planning",
+    "Strategic Business Planning"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "Business Leaders",
+    "HR Leaders",
+    "Finance Leaders"
+  ],
+  "_weight": 1
+}

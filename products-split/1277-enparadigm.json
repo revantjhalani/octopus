@@ -1,0 +1,182 @@
+{
+  "id": 1277,
+  "name": "Enparadigm",
+  "description": "enParadigm leverages Generative AI & Immersive AI solutions to create hyper-personalised, immersive experiences, driving business impact and behavioural change across levels and functions. We have been recognized among the fastest growing tech companies in APAC by Deloitte as part of the Deloitte Tech Fast 500 APAC program. We leverage our proprietary simulations, and a rigorous sustained-learning approach. Learn more about our work. ",
+  "features": [
+    "Business acumen",
+    "Sales-force development",
+    "Leadership development"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Training effectiveness",
+    "Skill acquisition",
+    "Training methodologies",
+    "Recruiting efficiency",
+    "Skill development",
+    "Learning efficiency",
+    "Learning speed",
+    "Learning optimisation",
+    "Adaptive learning",
+    "Personalised learning",
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning"
+  ],
+  "headquarter": "Maharashtra, Mumbai",
+  "launch_date": "2019",
+  "order": 10,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Experiential Learning That Works",
+  "ProductId": null,
+  "ShortDescription": "Crafting talent for the Future of Work with world-class Experiential Learning & Talent Intelligence",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Catalyx - Talent Intelligence & Experiential Learning Platform",
+      "sequence": 0,
+      "description": "Enparadigm\u2019s Talent Intelligence & Experiential Learning Platform enables organizations to profile, assess and develop employees\u2019 competencies to achieve role-fit for the Future of Work."
+    },
+    {
+      "name": "Compass - Hybrid Learning Journeys and Talent Development Programs",
+      "sequence": 1,
+      "description": "Enparadigm\u2019s Hybrid Talent Development Programs use our proprietary simulation-driven blended learning methodologies."
+    },
+    {
+      "name": "Confluence - Business simulations platform",
+      "sequence": 2,
+      "description": "Prepare your team for real-world business challenges through immersive business simulations in a safe digital environment."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:13:50.796Z",
+  "enhanced_description": "Enparadigm provides a world-class Experiential Learning & Talent Intelligence platform, leveraging Generative AI and Immersive AI solutions to create hyper-personalised, immersive experiences. These solutions are designed to drive business impact and behavioural change across all employee levels and functions. The platform employs proprietary simulations and a rigorous sustained-learning approach to accelerate skill development and learning efficiency. Key offerings include Catalyx, a Talent Intelligence & Experiential Learning Platform for profiling, assessing, and developing employee competencies for future role-fit; Compass, which facilitates hybrid learning journeys and talent development programs through simulation-driven blended learning methodologies; and Confluence, a business simulations platform to prepare teams for real-world business challenges in a safe digital environment. Enparadigm specializes in areas such as business acumen, sales-force development, and leadership development, aiming to craft talent for the Future of Work. The company has been recognized by Deloitte among the fastest growing tech companies in APAC.",
+  "ideal_company_sizes": [
+    "Large Enterprises"
+  ],
+  "key_use_cases": [
+    "Driving business impact and behavioural change",
+    "Accelerating skill development and learning efficiency",
+    "Developing business acumen",
+    "Enhancing sales-force capabilities",
+    "Fostering leadership development",
+    "Profiling, assessing, and developing employee competencies for role-fit",
+    "Delivering hybrid and blended learning journeys",
+    "Implementing immersive business simulations for real-world challenge preparation"
+  ],
+  "competitive_advantages": [
+    "Leverages Generative AI and Immersive AI solutions",
+    "Offers hyper-personalised, immersive experiences",
+    "Utilizes proprietary simulations",
+    "Employs a rigorous sustained-learning approach",
+    "Recognized among the fastest growing tech companies in APAC by Deloitte",
+    "Focus on Experiential Learning and Talent Intelligence"
+  ],
+  "implementation_scenarios": [
+    "Platform-based deployment for experiential learning",
+    "Hybrid/Blended learning program implementation"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Talent Management",
+    "Training Management"
+  ],
+  "technology_stack": [
+    "Generative AI",
+    "Immersive AI",
+    "Proprietary Simulations"
+  ],
+  "roi_benefits": [
+    "Drives business impact",
+    "Promotes behavioural change",
+    "Accelerates skill development",
+    "Increases learning efficiency",
+    "Improves training effectiveness",
+    "Enhances skill acquisition",
+    "Optimizes learning speed and retention",
+    "Helps achieve role-fit for the Future of Work"
+  ],
+  "searchable_keywords": [
+    "Enparadigm",
+    "Experiential Learning",
+    "Talent Intelligence",
+    "AI",
+    "Generative AI",
+    "Immersive AI",
+    "Simulations",
+    "Business Acumen",
+    "Sales-force Development",
+    "Leadership Development",
+    "Skill Development",
+    "Learning Efficiency",
+    "Training",
+    "eLearning",
+    "Corporate LMS",
+    "LXP",
+    "Training Management System",
+    "Behavioural Change",
+    "Competency Development",
+    "Hybrid Learning",
+    "Blended Learning",
+    "Future of Work",
+    "Skill Acquisition",
+    "Learning Optimisation",
+    "Adaptive Learning",
+    "Personalised Learning",
+    "Learning Analytics",
+    "Learning Retention",
+    "Continuous Learning"
+  ],
+  "primary_users": [
+    "Employees across all levels and functions",
+    "Salesforce",
+    "Leaders",
+    "Teams",
+    "Organizations (as clients)"
+  ],
+  "deployment_options": [
+    "Cloud-based platform",
+    "SaaS"
+  ],
+  "scalability_features": [
+    "Designed for large enterprise deployments",
+    "Supports learning across levels and functions"
+  ],
+  "_weight": 1
+}

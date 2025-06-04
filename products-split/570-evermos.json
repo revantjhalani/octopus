@@ -1,0 +1,123 @@
+{
+  "id": 570,
+  "name": "Evermos",
+  "description": "Evermos is a connected commerce platform that empowers local brands and underserved communities by providing a distribution network and commerce services containing products that comply with sharia principles. As a one-stop platform, Evermos provides comprehensive services and a reseller network equipped with various training to support reseller success regardless of gender, educational background, geographic location, or income level.",
+  "features": [
+    "Purpose-driven Workplace",
+    "Making Impact Together",
+    "Having Equal Opportunity"
+  ],
+  "founders": [
+    "Ghufron Mustaqim",
+    "Jauhari Khairul Kawistara"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Other / technology",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Internet of things",
+    "Artificial intelligence",
+    "Training eLearning software"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Learning optimisation"
+  ],
+  "headquarter": "Bandung, Jawa Barat",
+  "launch_date": "2018",
+  "order": 20529,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Empowering communities through equal opportunities",
+  "ProductId": null,
+  "ShortDescription": "Evermos is a connected commerce platform that empowers local brands and underserved communities by providing a distribution network and commerce services containing products that comply with sharia principles.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:30:15.714Z",
+  "enhanced_description": "Evermos is a connected commerce platform designed to empower local brands and underserved communities by providing a comprehensive distribution network and commerce services, specializing in products that comply with sharia principles. As a one-stop solution, Evermos extends beyond commerce by offering a robust learning and development program for its reseller network. This includes various training and eLearning software, leveraging technologies like Artificial Intelligence and the Internet of Things, to accelerate skill development and enhance learning efficiency. The platform is committed to supporting reseller success and fostering equal opportunity, making training accessible regardless of gender, educational background, geographic location, or income level, thereby aligning with its purpose-driven mission to create societal impact.",
+  "key_use_cases": [
+    "Providing comprehensive training and e-learning for a distributed reseller network",
+    "Accelerating skill development and learning efficiency for individuals",
+    "Supporting reseller success through continuous learning opportunities",
+    "Fostering equal opportunity by making training accessible to diverse backgrounds"
+  ],
+  "competitive_advantages": [
+    "Empowerment of local brands and underserved communities",
+    "Specialization in sharia-compliant products and services",
+    "Comprehensive 'one-stop platform' offering both commerce and integrated training",
+    "Inclusive approach to training, ensuring equal opportunity regardless of background",
+    "Explicit focus on accelerating skill development and learning efficiency for its network",
+    "Purpose-driven mission attracting values-aligned resellers and partners"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Training Management",
+    "Skill Management"
+  ],
+  "technology_stack": [
+    "Internet of Things (IoT)",
+    "Artificial Intelligence (AI)",
+    "eLearning software"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development for resellers, leading to enhanced performance",
+    "Improved learning efficiency within the reseller network",
+    "Increased reseller success and productivity through comprehensive training",
+    "Economic empowerment for local brands and underserved communities via enhanced capabilities"
+  ],
+  "searchable_keywords": [
+    "Evermos",
+    "connected commerce",
+    "eCommerce platform",
+    "local brands empowerment",
+    "underserved communities",
+    "distribution network",
+    "sharia principles",
+    "reseller network",
+    "reseller training",
+    "eLearning software",
+    "skill development",
+    "learning efficiency",
+    "learning optimisation",
+    "equal opportunity",
+    "purpose-driven workplace",
+    "making impact together",
+    "AI in commerce",
+    "IoT in commerce",
+    "Learning and Development",
+    "Training eLearning",
+    "Bandung"
+  ],
+  "primary_users": [
+    "Resellers",
+    "Local brands (as platform beneficiaries/users)",
+    "Individuals from underserved communities (as training recipients/platform users)"
+  ],
+  "_weight": 1
+}

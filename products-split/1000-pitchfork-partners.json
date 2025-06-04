@@ -1,0 +1,147 @@
+{
+  "id": 1000,
+  "name": "Pitchfork Partners",
+  "description": "We live in a new business reality. Business models have been reinvented. Supply chains have been restructured. The way we work has changed. Consumer mobility is impacted. Media consumption habits are changing.",
+  "features": [
+    "Work with oragnisation reputation",
+    "Provide marketing services",
+    "Offer creative service "
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Employee recognition software",
+    "Benefits administration services"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee benefits"
+  ],
+  "headquarter": "Mumbai",
+  "launch_date": "2015",
+  "order": 20943,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Strategic Consulting",
+  "ProductId": null,
+  "ShortDescription": "Pitchfork Partners, set up in January 2015, is a new-age strategy consultancy, specializing in corporate and business issues that needs holistic solutions.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "RESEARCH AND INSIGHTS",
+      "sequence": 0,
+      "description": "We use the latest technology to conduct research and mine data that can be translated into actionable insights. We work with clients to assist with strategy, planning and measurement. This empowers them to create results-driven marketing rooted in analytics and powered by strategy and creativity."
+    },
+    {
+      "name": "INVESTOR RELATIONS",
+      "sequence": 1,
+      "description": "We help brands communicate complex messages to key financial audiences. From helping to manage quarterly earnings cycles to developing a consistent messaging strategy, we deliver the whole suite of investor relations skills."
+    },
+    {
+      "name": "PUBLIC AFFAIRS",
+      "sequence": 2,
+      "description": "We help clients navigate the intersection of government, stakeholders and policymakers to boost ideas that will shape the future. Our experts will work with you to fulfill your needs and focus on creating positive impact."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:38:33.357Z",
+  "enhanced_description": "Pitchfork Partners, established in January 2015, is a new-age strategy consultancy specializing in corporate and business issues requiring holistic solutions. They work to enhance organizational reputation, provide comprehensive marketing and creative services, and offer expert guidance in investor relations and public affairs. Leveraging the latest technology for research and data insights, they empower clients to create results-driven strategies. A key business objective is to improve employee happiness and engagement, with capabilities extending to areas typically covered by Total Rewards, including advice on employee recognition and benefits administration.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Improving and managing organization reputation",
+    "Providing strategic marketing services",
+    "Delivering creative services for corporate communications",
+    "Conducting research and data mining for actionable business insights",
+    "Assisting with strategy, planning, and measurement for marketing initiatives",
+    "Communicating complex messages to financial audiences (Investor Relations)",
+    "Managing quarterly earnings cycles and consistent messaging strategy",
+    "Navigating government, stakeholders, and policymakers (Public Affairs)",
+    "Consulting on strategies to improve employee happiness and engagement",
+    "Advising on employee recognition programs and systems",
+    "Consulting on benefits administration strategies"
+  ],
+  "competitive_advantages": [
+    "New-age strategy consultancy offering holistic solutions",
+    "Utilizes latest technology for research and data mining for actionable insights",
+    "Focus on results-driven marketing rooted in analytics and powered by strategy and creativity",
+    "Expertise in Investor Relations, including managing quarterly earnings and messaging strategies",
+    "Specialized knowledge in Public Affairs to navigate government and stakeholders"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Total Rewards",
+    "Employee Recognition",
+    "Benefits Administration"
+  ],
+  "technology_stack": [
+    "Latest technology for research and data mining"
+  ],
+  "roi_benefits": [
+    "Creation of results-driven marketing strategies",
+    "Improved employee happiness and engagement",
+    "Enhanced corporate reputation",
+    "Effective communication of complex messages to financial audiences",
+    "Positive impact through strategic public affairs"
+  ],
+  "searchable_keywords": [
+    "Pitchfork Partners",
+    "Strategic Consulting",
+    "Strategy consultancy",
+    "Corporate issues",
+    "Business issues",
+    "Holistic solutions",
+    "Organisation reputation",
+    "Marketing services",
+    "Creative service",
+    "Research",
+    "Insights",
+    "Data mining",
+    "Analytics",
+    "Investor Relations",
+    "Public Affairs",
+    "Employee happiness",
+    "Employee engagement",
+    "Total Rewards",
+    "Employee recognition",
+    "Benefits administration",
+    "Corporate communications",
+    "PR",
+    "Consultancy"
+  ],
+  "primary_users": [
+    "Senior Leadership (e.g., CEOs, CXOs)",
+    "Marketing Departments",
+    "Public Relations/Communications Teams",
+    "Investor Relations Teams",
+    "HR Teams (for engagement, total rewards, recognition, benefits)"
+  ],
+  "_weight": 1
+}

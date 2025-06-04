@@ -1,0 +1,135 @@
+{
+  "id": 694,
+  "name": "ICOG",
+  "description": "Our mighty mission is to disrupt and transform the current learning ecosystem into one driven by competency. By enabling your team to build competencies around organizational and personal vision at an accelerated pace, you can get more done, faster and better. That roughly translates into becoming a high-impact, high-performing organization.",
+  "features": [
+    "Intelligent content curation",
+    "Personalized content recommendations",
+    "Performance measurement"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Diversity and inclusion",
+    "Learning analytics"
+  ],
+  "headquarter": "Dallas, Texas",
+  "launch_date": "2019",
+  "order": 20648,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "First-ever Personalized Intelligent Virtual Learning Assistant for accelerated organizational growth",
+  "ProductId": null,
+  "ShortDescription": "ICOG helps organisations go \"Beyond Learning and Experience Management\". We are assisting global organizations transform their talent through AI-based personalization and content curation, linked to upskilling and measurable performance.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Personalized Learning Experience Platform",
+      "sequence": 0,
+      "description": "ICOG AI uses a proprietary algorithm to measure a user's learning journey and delivers content curated to a user's needs . This means that ICOG AI can provide a personalized learning experience that is tailored to each individual's strengths and weaknesses."
+    },
+    {
+      "name": "Social Learning Platform",
+      "sequence": 1,
+      "description": "ICOG AI provides a platform for social learning . This means that users can learn from each other by interacting and collaborating with other users on the platform. Social learning can be a powerful tool for reinforcing knowledge and developing new skills."
+    },
+    {
+      "name": "Competency-Based Learning",
+      "sequence": 2,
+      "description": "The document discusses what a competency framework is . A competency framework is a structure that outlines the skills and knowledge that are required for a particular job or role. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:40.441Z",
+  "enhanced_description": "ICOG is positioned as the \"First-ever Personalized Intelligent Virtual Learning Assistant,\" designed to disrupt and transform the learning ecosystem into a competency-driven model. It empowers organizations to build competencies around their vision at an accelerated pace, leading to high-impact and high-performing outcomes. The platform goes \"Beyond Learning and Experience Management\" by leveraging AI-based personalization and content curation through a proprietary algorithm that measures a user's learning journey and delivers content tailored to their individual needs, strengths, and weaknesses. ICOG facilitates measurable performance improvement and talent transformation, supporting key objectives like building a more diverse and inclusive workforce. Additionally, it offers a social learning platform for user interaction and collaboration, reinforcing knowledge and developing new skills within a competency-based learning framework.",
+  "ideal_company_sizes": [
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Transforming talent through AI-based personalized learning and content curation",
+    "Building and developing organizational and individual competencies",
+    "Accelerating upskilling and skill development for employees",
+    "Measuring and tracking learning performance linked to organizational outcomes",
+    "Facilitating social learning and collaboration among employees",
+    "Implementing and managing competency frameworks within the organization",
+    "Supporting diversity and inclusion initiatives through targeted learning"
+  ],
+  "competitive_advantages": [
+    "First-ever Personalized Intelligent Virtual Learning Assistant",
+    "AI-based personalization and intelligent content curation using a proprietary algorithm",
+    "Focus on competency-driven learning and accelerated talent development",
+    "Provides measurable performance insights directly linked to learning outcomes",
+    "Offers a comprehensive social learning platform for enhanced collaboration",
+    "Goes \"Beyond Learning and Experience Management\" for holistic talent transformation"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Diversity and Inclusion",
+    "Performance Management (specifically performance measurement linked to learning and upskilling)",
+    "Talent Development"
+  ],
+  "roi_benefits": [
+    "Increased organizational efficiency and output (\"get more done, faster and better\")",
+    "Transition to a high-impact, high-performing organization",
+    "Accelerated organizational growth",
+    "Enhanced talent transformation",
+    "Measurable improvements in employee performance and skills",
+    "Improved knowledge retention and skill acquisition through personalized and social learning"
+  ],
+  "searchable_keywords": [
+    "ICOG",
+    "Learning and Development",
+    "Corporate LMS",
+    "Training & development companies",
+    "Diversity and inclusion",
+    "Learning analytics",
+    "AI learning",
+    "Personalized learning",
+    "Intelligent content curation",
+    "Virtual learning assistant",
+    "Competency-based learning",
+    "Social learning platform",
+    "Performance measurement",
+    "Upskilling",
+    "Talent transformation",
+    "Competency framework"
+  ],
+  "primary_users": [
+    "Employees",
+    "Learners",
+    "L&D Professionals",
+    "HR Managers",
+    "Organizational Leadership"
+  ],
+  "_weight": 1
+}

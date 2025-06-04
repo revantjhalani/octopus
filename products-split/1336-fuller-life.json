@@ -1,0 +1,167 @@
+{
+  "id": 1336,
+  "name": "Fuller Life",
+  "description": "The Fuller Life is an employee wellbeing company with 2 decades of experience serving 100+ customers like ITC, Kotak, Ford, and Embassy. We also are the people behind the Runners for Life and Corporate Health Summit.\n\nOur flagship offering is Wellbeing on the Web (WoW) for companies, which covers physical, financial, emotional, and social wellbeing for companies as small as 25 to 1 lakh people.",
+  "features": [
+    "Webinars with wellness experts",
+    "Engagement metrics and analytics",
+    "Weekly branded communication",
+    "Self-assessments",
+    "1-to-1 consultations with counsellors, doctors and dietitians"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Benefits administration software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee benefits",
+    "Employee hapiness",
+    "Employee happiness metrics"
+  ],
+  "headquarter": "India (Karnataka)",
+  "launch_date": "2001",
+  "order": 21154,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "India\u2019s one-stop holistic corporate wellbeing program for employees",
+  "ProductId": null,
+  "ShortDescription": "India\u2019s one-stop holistic corporate wellbeing program for employees",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Pioneers",
+      "sequence": 0,
+      "description": "We have supported health and wellbeing programs for employees of most evolved companies"
+    },
+    {
+      "name": "Services",
+      "sequence": 1,
+      "description": "We have worked with Fortune 500 companies across all wellbeing offerings"
+    },
+    {
+      "name": "Vantage point",
+      "sequence": 2,
+      "description": "We work across industries, sizes of companies and workforce types"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:15:03.214Z",
+  "enhanced_description": "Fuller Life offers India's one-stop holistic corporate wellbeing program, Wellbeing on the Web (WoW), designed for employees. With two decades of experience, Fuller Life has served over 100 customers, including Fortune 500 companies like ITC, Kotak, Ford, and Embassy, showcasing their ability to support health and wellbeing programs for evolved organizations across various industries, company sizes, and workforce types. The program comprehensively covers physical, financial, emotional, and social wellbeing for companies ranging from 25 to 1 lakh employees. Fuller Life is also known for organizing events like Runners for Life and the Corporate Health Summit.",
+  "target_industries": [
+    "FMCG",
+    "Finance",
+    "Automotive",
+    "Real Estate",
+    "Commercial Services"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Providing holistic employee wellbeing support (physical, financial, emotional, social)",
+    "Delivering expert-led wellness webinars",
+    "Tracking employee engagement and wellbeing program effectiveness through analytics",
+    "Facilitating regular branded communication on wellbeing topics",
+    "Enabling employee self-assessments for wellbeing",
+    "Offering confidential 1-to-1 consultations with counsellors, doctors, and dietitians"
+  ],
+  "competitive_advantages": [
+    "Two decades of experience in the employee wellbeing sector",
+    "Proven track record with over 100 established customers, including Fortune 500 companies",
+    "Pioneering expertise in corporate health and wellbeing programs",
+    "Holistic coverage of physical, financial, emotional, and social wellbeing",
+    "Versatility to serve companies across diverse industries, sizes, and workforce types",
+    "Engagement with broader wellness ecosystem through events like Runners for Life and Corporate Health Summit"
+  ],
+  "implementation_scenarios": [
+    "Web-based platform deployment"
+  ],
+  "hr_functions_supported": [
+    "Employee Wellbeing",
+    "Employee Engagement",
+    "Benefits Administration",
+    "Health & Safety",
+    "Total Rewards"
+  ],
+  "integration_capabilities": [],
+  "roi_benefits": [
+    "Improved Employee Happiness",
+    "Enhanced Employee Engagement"
+  ],
+  "searchable_keywords": [
+    "Fuller Life",
+    "employee wellbeing",
+    "corporate wellbeing",
+    "employee wellness",
+    "corporate wellness",
+    "holistic wellbeing",
+    "physical wellbeing",
+    "financial wellbeing",
+    "emotional wellbeing",
+    "social wellbeing",
+    "Wellbeing on the Web",
+    "WoW",
+    "wellness experts",
+    "engagement metrics",
+    "analytics",
+    "wellness communication",
+    "self-assessments",
+    "counsellors",
+    "doctors",
+    "dietitians",
+    "1-to-1 consultations",
+    "Total Rewards",
+    "corporate wellness software",
+    "benefits administration software",
+    "health & safety providers",
+    "employee benefits",
+    "employee happiness metrics",
+    "health programs",
+    "employee engagement"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Professionals"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "compliance_features": [],
+  "scalability_features": [
+    "Supports companies from 25 to 100,000 employees",
+    "Capable of serving small, large, and global enterprises"
+  ],
+  "security_features": [],
+  "_weight": 1
+}

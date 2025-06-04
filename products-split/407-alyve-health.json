@@ -1,0 +1,154 @@
+{
+  "id": 407,
+  "name": "Alyve Health",
+  "description": "Established in 2020 after extensive market research, Alyve Health offers a unique healthcare proposition with a robust network including 90,000+ doctors, habit coaches, care guides, 10,000+ hospitals, and 14,000+ diagnostic centers covering over 17,000 pin codes in India. Their fully integrated platform ensures accessible, hassle-free, cashless healthcare journeys, supported by detailed app design rooted in behavioral science for effective user engagement and outcomes.",
+  "features": [
+    "Transparency and Accessibility",
+    "By Your Side at Every Step",
+    "Making It Happen for You"
+  ],
+  "founders": [
+    "Sushant Roy",
+    "Vineet Mehta"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee well being",
+    "Employee benefits"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2020",
+  "order": 20368,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "India's Fastest-Growing Health Tech Start-Up!",
+  "ProductId": null,
+  "ShortDescription": "Health plans reimagined to add Life to your Years",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Actionable health insights",
+      "sequence": 0,
+      "description": "Take control of your health with AI-based actionable insights."
+    },
+    {
+      "name": "Ask Alyve",
+      "sequence": 1,
+      "description": "We're your full-time support system, with the answers you need."
+    },
+    {
+      "name": "All insurance in one",
+      "sequence": 2,
+      "description": "Access and manage all your insurance plans in one central hub."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:26:28.664Z",
+  "enhanced_description": "Alyve Health, established in 2020, is India's fastest-growing health tech start-up, reimagining health plans to add life to years. It offers a unique healthcare proposition through a fully integrated platform designed for accessible, hassle-free, and cashless healthcare journeys. The platform boasts a robust network within India, including over 90,000 doctors, habit coaches, and care guides, alongside more than 10,000 hospitals and 14,000 diagnostic centers, covering over 17,000 pin codes. Its detailed app design, rooted in behavioral science, ensures effective user engagement and outcomes. Key features include AI-based actionable health insights, a full-time support system called 'Ask Alyve' for user queries, and a central hub to access and manage all insurance plans.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Medium Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Managing employee healthcare journeys",
+    "Providing cashless healthcare access",
+    "Delivering personalized health insights to employees",
+    "Offering 24/7 health support and guidance",
+    "Centralizing and managing employee insurance plans",
+    "Implementing corporate wellness programs",
+    "Supporting employee health and safety initiatives"
+  ],
+  "competitive_advantages": [
+    "Extensive healthcare network in India (90,000+ doctors, 10,000+ hospitals, 14,000+ diagnostic centers across 17,000+ pin codes)",
+    "Fully integrated platform for accessible, hassle-free, and cashless healthcare journeys",
+    "App design rooted in behavioral science for enhanced user engagement and outcomes",
+    "AI-based actionable health insights",
+    "Centralized hub for managing all insurance plans",
+    "Dedicated full-time support system ('Ask Alyve')"
+  ],
+  "hr_functions_supported": [
+    "Benefits Administration",
+    "Wellness Programs",
+    "Employee Health & Safety"
+  ],
+  "technology_stack": [
+    "AI (Artificial Intelligence)",
+    "Mobile (App Design)",
+    "Behavioral Science"
+  ],
+  "integration_capabilities": [
+    "Integration with various insurance providers/plans (implied by 'All insurance in one')"
+  ],
+  "roi_benefits": [
+    "Improved employee well-being and engagement through effective user interaction",
+    "Streamlined and hassle-free healthcare access for employees",
+    "Simplified management of employee health and insurance benefits"
+  ],
+  "searchable_keywords": [
+    "Alyve Health",
+    "Health Tech",
+    "Healthcare",
+    "Wellness",
+    "Corporate Wellness",
+    "Employee Well-being",
+    "Employee Engagement",
+    "Employee Benefits",
+    "Health & Safety",
+    "Digital Health",
+    "Telehealth",
+    "Doctor Network",
+    "Hospital Network",
+    "Diagnostic Centers",
+    "Cashless Healthcare",
+    "Health Insights",
+    "AI Health",
+    "Insurance Management",
+    "India Health",
+    "Health Plans",
+    "Behavioral Science",
+    "Health Platform"
+  ],
+  "primary_users": [
+    "Employees (as end-users of the healthcare platform and app)",
+    "HR Professionals (for managing employee benefits, wellness, and health & safety programs)"
+  ],
+  "deployment_options": [
+    "Mobile Application",
+    "Web-based Platform"
+  ],
+  "_weight": 1
+}

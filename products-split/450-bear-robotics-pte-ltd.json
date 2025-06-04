@@ -1,0 +1,127 @@
+{
+  "id": 450,
+  "name": "Bear Robotics Pte Ltd",
+  "description": "Headquartered in Redwood City, California, Bear Robotics is making hospitality management easier. Its versatile Autonomous Mobile Robots (AMRs) for the food service and hospitality field are safe, reliable, and deployed in just a few hours. The result is improvement in operating efficiency and service quality to customers - all while working alongside your work force. Whether you\u2019re running a diner or curating elite culinary experiences, there\u2019s so much hustle behind the scenes. This is not only costly but also puts barriers between your guests, servers, and the moments that matter. By automating the extra work, it\u2019s our promise that you\u2019ll see lower turnover, less errors, better reviews and return customers.",
+  "features": [
+    "Comprehensive Health Care Coverage",
+    "Internet and Phone Reimbursement",
+    "Remote Work Available"
+  ],
+  "founders": [
+    "Juan Higueros"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency",
+    "Improve Employee Happiness and Engagement",
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Learning Experience Systems (LXPs)",
+    "Corporate LMS",
+    "Training & development companies",
+    "Training eLearning software"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Learning speed",
+    "Workforce diversity"
+  ],
+  "headquarter": "Redwood City, California",
+  "launch_date": "2017",
+  "order": 20410,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "The world's most advanced service robots for the restaurant and hospitality sector.",
+  "ProductId": null,
+  "ShortDescription": "Bear Robotics is the brainchild of restaurant experts and tech entrepreneurs.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": [],
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": false,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:27:38.215Z",
+  "enhanced_description": "Bear Robotics offers Autonomous Mobile Robots (AMRs) specifically designed for the food service and hospitality sector. These versatile robots are safe, reliable, and can be deployed rapidly, often in just a few hours. They are engineered to work collaboratively alongside human staff, automating repetitive 'behind the scenes' tasks. This automation aims to significantly improve operational efficiency and service quality for customers, leading to tangible benefits such as lower employee turnover, reduced operational errors, better customer reviews, and increased return customers.",
+  "target_industries": [
+    "Food Service",
+    "Hospitality",
+    "Restaurants"
+  ],
+  "key_use_cases": [
+    "Automating repetitive tasks in food service",
+    "Improving operating efficiency in hospitality",
+    "Enhancing customer service quality in restaurants",
+    "Supporting human workforce in hospitality operations",
+    "Streamlining hospitality management"
+  ],
+  "competitive_advantages": [
+    "Rapid deployment (in just a few hours)",
+    "Safe and reliable Autonomous Mobile Robots (AMRs)",
+    "Designed to work alongside existing workforce",
+    "Impacts key HR metrics like lower employee turnover",
+    "Reduces operational errors",
+    "Enhances customer satisfaction leading to better reviews and return customers",
+    "Advanced service robotics technology"
+  ],
+  "implementation_scenarios": [
+    "Quick deployment",
+    "Integration into existing operational workflows",
+    "Collaborative deployment alongside human staff"
+  ],
+  "hr_functions_supported": [
+    "Talent Retention",
+    "Employee Engagement"
+  ],
+  "roi_benefits": [
+    "Improved operating efficiency",
+    "Enhanced customer service quality",
+    "Reduced employee turnover",
+    "Minimization of operational errors",
+    "Increased customer satisfaction (better reviews)",
+    "Increased return customers",
+    "Improved employee happiness and engagement"
+  ],
+  "searchable_keywords": [
+    "Bear Robotics",
+    "Autonomous Mobile Robots",
+    "AMR",
+    "Service Robots",
+    "Hospitality Robots",
+    "Restaurant Automation",
+    "Food Service Robotics",
+    "Hospitality Management",
+    "Operational Efficiency",
+    "Customer Service Improvement",
+    "Workforce Support",
+    "Employee Turnover Reduction"
+  ],
+  "primary_users": [
+    "Restaurant Owners",
+    "Hospitality Managers",
+    "Restaurant Staff",
+    "Hospitality Operations Teams"
+  ],
+  "deployment_options": [
+    "On-premise physical deployment"
+  ],
+  "_weight": 1
+}

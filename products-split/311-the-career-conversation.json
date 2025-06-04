@@ -1,0 +1,161 @@
+{
+  "id": 311,
+  "name": "The Career Conversation",
+  "description": "The Career Conversation help organisations create authentic long-term connection between their brand and young talent. The Career Conversation learnt what works. Through connecting with over 10,000 young minds in Australia, Asia and EMEA we\u2019ve learnt how to win their heads and hearts and get them \u2018work ready\u2019. Managers, mentors, and buddies have an important role to play in engaging early career talent. Our solutions include creative ways to develop the skills and confidence of these leaders. Our products and solutions make it \u2018easy\u2019 for busy HR teams to take action. We remove barriers and reduce risk. Gen Z expect a great experience. Mobile, digital, engaging, and authentic are now the \u2018table stakes\u2019 of engagement. We help you meet and exceed this expectation.",
+  "features": [
+    "Creative, multi format content created and delivered",
+    "Capturing data and insights that influence actions and measure impact",
+    "Personalised, digital campaigns deliver exceptional user experience"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Career management software",
+    "Employee engagement software"
+  ],
+  "tags": [
+    "Employee satisfaction",
+    "Employee happiness programs"
+  ],
+  "headquarter": "Melbourne, Victoria        ",
+  "launch_date": "2017",
+  "order": 20273,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We help organisations connect with bright young minds.",
+  "ProductId": null,
+  "ShortDescription": "Competition for early career talent is fierce. Connecting, influencing, and supporting bright young minds as they transition into the workforce has never been more important.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Content",
+      "sequence": 0,
+      "description": "We create and curate striking short form content. We build on themes that inspire, support and educate."
+    },
+    {
+      "name": " Technology",
+      "sequence": 1,
+      "description": "Gen Z expect a smooth user experience. We use leading technology without acquisition or integration. "
+    },
+    {
+      "name": "Production",
+      "sequence": 2,
+      "description": "The capacity and skills you can\u2019t easily access.Video editing, content creation, re-hashing the old, survey design + more."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:02.051Z",
+  "enhanced_description": "The Career Conversation is a specialized HR technology solution designed to help organizations, particularly those targeting early career talent and Gen Z, create authentic, long-term connections and foster 'work readiness'. The service leverages insights gained from engaging over 10,000 young minds across Australia, Asia, and EMEA. It provides creative, multi-format content and personalized digital campaigns that deliver exceptional user experiences, aligning with Gen Z's expectations for mobile, digital, engaging, and authentic interactions. A key aspect of its offering involves developing the skills and confidence of managers, mentors, and buddies who are crucial in engaging young talent. The solution aims to make it 'easy' for busy HR teams to take action by removing barriers and reducing risk, while also capturing data and insights to influence actions and measure impact. Additionally, it offers comprehensive production services, including video editing, content creation, and survey design, providing capabilities that HR teams might not easily access internally.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Connecting and influencing young talent during their transition into the workforce",
+    "Engaging early career talent effectively",
+    "Developing skills and confidence of managers, mentors, and buddies for early career engagement",
+    "Fostering 'work readiness' among young talent",
+    "Creating authentic, long-term brand connections with young talent",
+    "Measuring impact and capturing insights on talent engagement strategies",
+    "Delivering personalized digital campaigns for early career talent development",
+    "Content creation and curation for inspiring, supporting, and educating young talent"
+  ],
+  "competitive_advantages": [
+    "Proven methodology based on extensive experience (10,000+ young minds engaged across multiple regions)",
+    "Specialized focus on winning the 'heads and hearts' of young talent (Gen Z)",
+    "Designed for ease of use for HR teams, reducing barriers and risk",
+    "Meets and exceeds Gen Z expectations for mobile, digital, engaging, and authentic user experiences",
+    "Provides outsourced production capacity and skills, including video editing, content creation, and survey design",
+    "Leverages leading technology without requiring client acquisition or integration",
+    "Offers creative, multi-format content delivery",
+    "Ability to capture data and insights to measure program impact"
+  ],
+  "implementation_scenarios": [
+    "Vendor-managed digital service/platform",
+    "Standalone digital platform managed by the vendor"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Career Management",
+    "Employee Engagement",
+    "Learning & Development"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Reduced operational risk for HR teams",
+    "Ability to measure impact and demonstrate ROI of talent programs",
+    "Enhanced long-term brand connection with young talent",
+    "Improved 'work readiness' of early career talent",
+    "Reduced workload for HR teams by providing 'easy-to-use' solutions and removing barriers"
+  ],
+  "searchable_keywords": [
+    "The Career Conversation",
+    "young talent",
+    "early career talent",
+    "Gen Z",
+    "work ready",
+    "managers",
+    "mentors",
+    "buddies",
+    "employee engagement",
+    "talent management",
+    "career management",
+    "digital campaigns",
+    "mobile experience",
+    "authentic engagement",
+    "HR solutions",
+    "data insights",
+    "impact measurement",
+    "content creation",
+    "video editing",
+    "survey design",
+    "creative content",
+    "multi-format content",
+    "personalized digital campaigns",
+    "user experience",
+    "employee satisfaction",
+    "employee happiness programs",
+    "bright young minds",
+    "workforce transition"
+  ],
+  "primary_users": [
+    "HR Teams",
+    "Managers",
+    "Mentors",
+    "Buddies",
+    "Early career talent",
+    "Young talent",
+    "Gen Z employees"
+  ],
+  "deployment_options": [
+    "Cloud-based SaaS"
+  ],
+  "_weight": 1
+}

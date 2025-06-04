@@ -1,0 +1,163 @@
+{
+  "id": 423,
+  "name": "Asia Select, Inc. (ASI)",
+  "description": "In today's competitive job market, attracting and retaining top talent is crucial for organizational success. Asia Select excels in navigating the complexities of talent acquisition, offering strategic solutions to meet recruitment challenges. With a deep understanding of the evolving talent landscape, we specialize in providing right-fit individuals and quality HR solutions, driving success for businesses through our holistic approach and industry leadership in talent management.",
+  "features": [
+    "Recruitment Process Outsourcing (RPO)",
+    "Contingency and Executive Search",
+    "ZMG Research and Talent Intelligence (RTI)"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Staffing services providers",
+    "HR consulting providers",
+    "Human Capital Management"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    ""
+  ],
+  "headquarter": "Makati, Metro Manila",
+  "launch_date": "1997",
+  "order": 20383,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "A Human Capital Solutions Company",
+  "ProductId": null,
+  "ShortDescription": "At Asia Select, we bring people and career opportunities together.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Cutting-edge recruitment technology",
+      "sequence": 0,
+      "description": "Access to 200,000+ professionals via our platform and extensive search capabilities."
+    },
+    {
+      "name": "Streamlined recruitment process",
+      "sequence": 1,
+      "description": "Efficient project management with quality candidate endorsements after calibration meetings with our headhunters."
+    },
+    {
+      "name": "Expert recruitment specialists",
+      "sequence": 2,
+      "description": " Dedicated team versed in talent market trends, ready to meet your business needs."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:26:55.525Z",
+  "enhanced_description": "Asia Select, Inc. (ASI) is a Human Capital Solutions Company established in 1997, specializing in connecting people with career opportunities. They excel in navigating the complexities of talent acquisition and management, offering strategic solutions for attracting and retaining top talent. Through a holistic approach, ASI provides right-fit individuals and quality HR solutions, aiming to drive business success. Their core services include Recruitment Process Outsourcing (RPO), Contingency and Executive Search, and ZMG Research and Talent Intelligence (RTI). ASI leverages cutting-edge recruitment technology, including a proprietary platform with access to over 200,000 professionals and extensive search capabilities. They offer a streamlined recruitment process with efficient project management and quality candidate endorsements, supported by a dedicated team of expert recruitment specialists and headhunters well-versed in talent market trends.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Recruitment Process Outsourcing",
+    "Executive Search",
+    "Contingency Search",
+    "Talent Intelligence and Research",
+    "Strategic Talent Acquisition",
+    "Efficient Candidate Sourcing",
+    "Improving Hiring Manager Productivity",
+    "Solving Recruitment Challenges"
+  ],
+  "competitive_advantages": [
+    "Deep understanding of evolving talent landscape",
+    "Holistic approach to talent management",
+    "Industry leadership in talent management",
+    "Access to a large professional database (200,000+ professionals)",
+    "Cutting-edge recruitment technology and extensive search capabilities",
+    "Streamlined and efficient recruitment process",
+    "Expert recruitment specialists and headhunters"
+  ],
+  "implementation_scenarios": [
+    "Full Recruitment Process Outsourcing (RPO)",
+    "Project-based Recruitment (Contingency/Executive Search)",
+    "HR Consulting Engagements"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Talent Management",
+    "Executive Search",
+    "HR Consulting",
+    "Talent Intelligence"
+  ],
+  "roi_benefits": [
+    "Faster time-to-hire",
+    "Improved recruitment efficiency",
+    "Access to high-quality candidates",
+    "Increased hiring manager productivity",
+    "Enhanced hiring manager confidence",
+    "Strategic talent acquisition",
+    "Potential reduction in recruiting costs"
+  ],
+  "searchable_keywords": [
+    "Asia Select",
+    "ASI",
+    "Talent Acquisition",
+    "Recruitment",
+    "HR Solutions",
+    "Talent Management",
+    "Recruitment Process Outsourcing",
+    "RPO",
+    "Contingency Search",
+    "Executive Search",
+    "Talent Intelligence",
+    "Staffing",
+    "HR Consulting",
+    "Hiring",
+    "Talent Sourcing",
+    "Human Capital Solutions",
+    "Headhunters",
+    "Professional Search",
+    "Candidate Sourcing",
+    "Recruitment Technology",
+    "Workforce Solutions",
+    "Talent Landscape"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Leaders",
+    "Talent Acquisition Teams",
+    "Business Leaders"
+  ],
+  "deployment_options": [
+    "Service-based"
+  ],
+  "_weight": 1
+}

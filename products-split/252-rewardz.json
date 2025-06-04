@@ -1,0 +1,144 @@
+{
+  "id": 252,
+  "name": "Rewardz",
+  "description": "Headquartered in Singapore and with a growing footprint spanning over 30 countries, we couple innovative Rewards-as-a-Service technology with our extensive and relevant reward marketplace to meet all your incentive needs. Offering both cloud-based mobile and web platforms and plug-in solutions, we have served over 250 clients and 1.5 million users. Be it motivating employees, building customer loyalty, raising sales performance or fostering a culture of wellness, our platforms are easy to use, fun and relevant. ",
+  "features": [
+    "Alignment with your corporate objectives",
+    "Real, visible, meaningful, recognition",
+    "Curated relevant local rewards"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration software"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Employee happiness"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2012",
+  "order": 20217,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We Empower You to Reward & Recognise With Ease Everyday",
+  "ProductId": null,
+  "ShortDescription": "At Rewardz, we create moments of joy in a world where you always feel value",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Tailored program and system, based on your business needs",
+      "sequence": 0,
+      "description": " Give tailored rewards to your employees, channel partners, and customers."
+    },
+    {
+      "name": "Easy integration with white-labeling option",
+      "sequence": 1,
+      "description": "Flexibility to choose a reward system that is the most suitable for your business."
+    },
+    {
+      "name": "Numerous partners all across the world",
+      "sequence": 2,
+      "description": "Our rich catalogue has endless options of benefits and prizes to give the best way of creating moments of joy for everyone."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:07.744Z",
+  "enhanced_description": "Rewardz is a Singapore-headquartered HR technology provider specializing in incentive and recognition solutions, with a growing global footprint spanning over 30 countries. It offers a Rewards-as-a-Service platform, accessible via cloud-based mobile and web platforms, as well as plug-in solutions. Having served over 250 clients and 1.5 million users, Rewardz empowers organizations to easily reward and recognize employees, build customer loyalty, raise sales performance, and foster a culture of wellness. The platform focuses on providing real, visible, and meaningful recognition through an extensive and relevant reward marketplace, offering curated local and global rewards tailored to align with corporate objectives.",
+  "key_use_cases": [
+    "Employee motivation and engagement",
+    "Customer loyalty programs",
+    "Sales performance incentives",
+    "Wellness programs",
+    "Channel partner incentives"
+  ],
+  "competitive_advantages": [
+    "Innovative Rewards-as-a-Service technology",
+    "Extensive and relevant global reward marketplace",
+    "Curated local rewards",
+    "Tailored program and system capabilities",
+    "Easy integration options",
+    "White-labeling availability",
+    "User-friendly (easy to use, fun, relevant) platform"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based deployment (mobile and web platforms)",
+    "Plug-in solutions",
+    "White-labeling implementation"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards Management",
+    "Employee Recognition",
+    "Employee Benefits Administration",
+    "Employee Engagement",
+    "Employee Happiness",
+    "Wellness Program Management"
+  ],
+  "integration_capabilities": [
+    "Plug-in solutions",
+    "Easy integration options",
+    "White-labeling"
+  ],
+  "roi_benefits": [
+    "Improved employee motivation",
+    "Enhanced employee engagement and happiness",
+    "Increased customer loyalty",
+    "Improved sales performance",
+    "Fostered culture of wellness",
+    "Alignment with corporate objectives"
+  ],
+  "searchable_keywords": [
+    "Rewardz",
+    "Rewards-as-a-Service",
+    "Employee Rewards",
+    "Employee Recognition",
+    "Incentive Programs",
+    "Employee Engagement",
+    "Employee Happiness",
+    "Total Rewards",
+    "Benefits Administration",
+    "Employee Benefits",
+    "Customer Loyalty",
+    "Sales Incentives",
+    "Wellness Programs",
+    "Channel Partner Rewards",
+    "White-labeling rewards",
+    "Global Rewards",
+    "Local Rewards"
+  ],
+  "primary_users": [
+    "Employees",
+    "Customers",
+    "Channel Partners"
+  ],
+  "deployment_options": [
+    "Cloud-based (Mobile, Web)",
+    "Plug-in solutions"
+  ],
+  "_weight": 1
+}

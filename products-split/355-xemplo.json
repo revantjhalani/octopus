@@ -1,0 +1,176 @@
+{
+  "id": 355,
+  "name": "Xemplo",
+  "description": "Meet Xemplo, the all-in-one workforce management solution designed to streamline HR processes for businesses worldwide. Xemplo manages the end-to-end employee/contractor lifecycle, maintaining compliance with in-country legislation while providing a consistent global user experience. At Xemplo, our mission is to simplify workforce management for businesses of all sizes. We believe managing employees and contractors should be easy, efficient, and compliant, no matter where a business is based. That\u2019s why we offer innovative solutions that automate tasks, deliver valuable insights, and provide a single source of truth for HR professionals and managers.",
+  "features": [
+    "Drive compliant operations with legal monitoring & updates",
+    "Ensure data security with a compliance first approach",
+    "Regularly updated contract frameworks and policies"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Talent Management",
+    "Other / technology",
+    "Recruiting",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Employee scheduling software",
+    "Time tracking",
+    "Software and Services Related to HR Software",
+    "Staffing & management software",
+    "Payroll services providers",
+    "Staffing services providers"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs"
+  ],
+  "headquarter": "Sydney, New South Wales",
+  "launch_date": "2018",
+  "order": 20317,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The people management platform built on compliance",
+  "ProductId": null,
+  "ShortDescription": "Meet Xemplo, the all-in-one workforce management solution designed to streamline HR processes for businesses worldwide.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Hire smarter & faster",
+      "sequence": 0,
+      "description": "Our software simplifies candidate recruitment for your growing business, enabling you to efficiently attract top talent, quickly assess their qualifications, and guide them through every stage of the recruitment process with ease."
+    },
+    {
+      "name": "Transform your onboarding process",
+      "sequence": 1,
+      "description": "Xemplo Onboarding is a streamlined, paperless onboarding solution that simplifies the process of welcoming new hires. It allows businesses to create a positive first impression, engaging candidates from the moment they accept their new role."
+    },
+    {
+      "name": "Optimise workforce efficiency with smart time management",
+      "sequence": 2,
+      "description": "With easy entry from anywhere on any device, user friendly approval features, and integrated payroll support, Xemplo delivers a complete solution for monitoring workforce activity."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:25:03.205Z",
+  "enhanced_description": "Xemplo is an all-in-one workforce management solution designed to streamline HR processes globally, managing the end-to-end employee/contractor lifecycle. Built on a compliance-first approach, it ensures adherence to in-country legislation through legal monitoring and updates, regularly updated contract frameworks, and robust data security. The platform aims to simplify workforce management by automating tasks, delivering valuable insights, and providing a single source of truth for HR professionals and managers. Key capabilities include smart and efficient recruitment, streamlined paperless onboarding, and intelligent time management accessible from any device.",
+  "key_use_cases": [
+    "End-to-end employee/contractor lifecycle management",
+    "Workforce compliance management",
+    "Candidate recruitment and talent acquisition",
+    "New hire onboarding",
+    "Time management and tracking",
+    "Workforce activity monitoring",
+    "HR process streamlining"
+  ],
+  "competitive_advantages": [
+    "Compliance-first approach to workforce management",
+    "Global compliance with in-country legislation",
+    "All-in-one workforce management solution",
+    "Consistent global user experience",
+    "Automation of HR tasks",
+    "Delivery of valuable HR insights",
+    "Single source of truth for HR data",
+    "Streamlined, paperless onboarding solution"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Recruiting",
+    "Hiring",
+    "Talent Sourcing",
+    "Onboarding",
+    "Time Tracking",
+    "Employee Scheduling",
+    "Payroll (support)",
+    "Workforce Management",
+    "Total Rewards"
+  ],
+  "integration_capabilities": [
+    "Integrated payroll support"
+  ],
+  "roi_benefits": [
+    "Streamlined HR processes",
+    "Improved compliance with in-country legislation",
+    "Simplified workforce management",
+    "Automated HR tasks",
+    "Delivery of valuable insights for HR professionals and managers",
+    "Provision of a single source of truth for HR data",
+    "Boosted Hiring Manager Confidence and Productivity",
+    "Faster and more efficient hiring processes",
+    "Efficient attraction and assessment of top talent",
+    "Streamlined and paperless new hire onboarding",
+    "Positive first impression for new hires",
+    "Optimized workforce efficiency"
+  ],
+  "searchable_keywords": [
+    "Xemplo",
+    "workforce management",
+    "HR",
+    "human resources",
+    "talent management",
+    "recruiting",
+    "hiring",
+    "talent sourcing",
+    "onboarding",
+    "time tracking",
+    "employee scheduling",
+    "payroll",
+    "compliance",
+    "legal monitoring",
+    "data security",
+    "people management",
+    "staffing",
+    "contractor management",
+    "global HR",
+    "HR tech",
+    "HR software",
+    "workforce efficiency"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "Managers",
+    "Hiring Managers",
+    "Employees",
+    "Contractors"
+  ],
+  "deployment_options": [
+    "Cloud-based / SaaS"
+  ],
+  "compliance_features": [
+    "Legal monitoring and updates",
+    "Compliance with in-country legislation",
+    "Compliance-first approach",
+    "Regularly updated contract frameworks and policies"
+  ],
+  "security_features": [
+    "Data security (with a compliance-first approach)"
+  ],
+  "_weight": 1
+}

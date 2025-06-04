@@ -1,0 +1,151 @@
+{
+  "id": 186,
+  "name": "OneBanc Technologies Pvt. Ltd.",
+  "description": "OneBanc, a neo bank start-up, is an artificial intelligence-enabled harmonizer that personalizes employee banking, benefits, and expenses. The idea of OneBanc started when a young girl asked Vibhore, a serial entrepreneur, why the money in her piggybank never grew. Adopting this as the philosophy of #DemandMore, OneBanc connects enterprises, banks, and HR Tech platforms to enhance value for all stakeholders.",
+  "features": [
+    "Financial Wellness",
+    "Personalized Banking",
+    "Maximum Security"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration services",
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Workforce diversity",
+    "Workplace diversity"
+  ],
+  "headquarter": "Gurgaon, Haryana",
+  "launch_date": "2019",
+  "order": 20153,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Personalised Experiential Banking!",
+  "ProductId": null,
+  "ShortDescription": "OneBanc is a neobank, building the economic infrastructure for the workforce of India",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Strengthen Your Trust",
+      "sequence": 0,
+      "description": "We prioritize compliance and conduct regular audits without any compromise."
+    },
+    {
+      "name": "Certifications & Compliance",
+      "sequence": 1,
+      "description": "We employ industry's best practices, ensuring security and privacy compliance. "
+    },
+    {
+      "name": "Maintain Your Privacy",
+      "sequence": 2,
+      "description": "We respect your preferences concerning the collection and use of your personal information. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:07.869Z",
+  "enhanced_description": "OneBanc is a neobank and an artificial intelligence-enabled harmonizer specifically designed to personalize employee banking, benefits, and expenses for the workforce in India. Adopting the philosophy of #DemandMore, OneBanc aims to build the economic infrastructure for employees by connecting enterprises, banks, and HR Tech platforms to enhance value for all stakeholders. The platform focuses on providing financial wellness, personalized banking experiences, and maximum security, ensuring compliance through regular audits, industry best practices, and stringent privacy controls.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Personalized employee banking services",
+    "Employee benefits administration",
+    "Employee expense management",
+    "Enhancing employee financial wellness",
+    "Providing payroll services",
+    "Supporting diversity and inclusion initiatives through accessible financial infrastructure"
+  ],
+  "competitive_advantages": [
+    "AI-enabled personalization of employee banking, benefits, and expenses",
+    "Ecosystem connectivity linking enterprises, banks, and HR Tech platforms",
+    "Strong emphasis on maximum security, compliance, and privacy",
+    "Focus on financial wellness for the workforce"
+  ],
+  "hr_functions_supported": [
+    "Benefits Administration",
+    "Payroll",
+    "Financial Wellness",
+    "Total Rewards Management"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence"
+  ],
+  "integration_capabilities": [
+    "HR Technology platforms",
+    "Banking systems"
+  ],
+  "roi_benefits": [
+    "Enhanced employee financial wellness and satisfaction",
+    "Improved personalization of employee financial services and benefits",
+    "Contribution to building a more diverse and inclusive workforce",
+    "Risk reduction through enhanced security, compliance, and privacy measures"
+  ],
+  "searchable_keywords": [
+    "OneBanc",
+    "neobank",
+    "artificial intelligence",
+    "AI",
+    "employee banking",
+    "employee benefits",
+    "employee expenses",
+    "financial wellness",
+    "personalized banking",
+    "maximum security",
+    "total rewards",
+    "benefits administration services",
+    "payroll services",
+    "workforce diversity",
+    "workplace diversity",
+    "experiential banking",
+    "workforce India",
+    "HR Tech",
+    "compliance",
+    "privacy"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Professionals",
+    "Enterprise Administrators"
+  ],
+  "compliance_features": [
+    "Prioritizes compliance and conducts regular audits",
+    "Employs industry best practices for security and privacy compliance",
+    "Respects user preferences concerning the collection and use of personal information"
+  ],
+  "security_features": [
+    "Maximum Security",
+    "Industry best practices for security compliance",
+    "Privacy protection for personal information",
+    "Regular audits"
+  ],
+  "_weight": 1
+}

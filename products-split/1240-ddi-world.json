@@ -1,0 +1,173 @@
+{
+  "id": 1240,
+  "name": "DDI World",
+  "description": "Get to know everything about DDI, a global leadership consulting firm that helps you hire, promote, and develop exceptional leaders. From first-time managers to C-suite executives, our commitment is to be by your side to help you make every moment of leadership count.",
+  "features": [
+    "Solutions: Complete solutions from the C-suite to emerging leaders",
+    "\n\nResearch: Built on deep research into the science and practice of leadership",
+    "Strategy: Our people are not only kind and smart, but incredible leadership strategists",
+    "Development: We make it easy to give your leaders just the right kind of development"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Skill acquisition",
+    "Recruiting efficiency",
+    "Quick hiring",
+    "Employee engagement",
+    "leadership development",
+    "leadership courses",
+    "succession management",
+    "succession planning",
+    "behavioral interviewing"
+  ],
+  "headquarter": "Bridgeville, PA",
+  "launch_date": "1970",
+  "order": 21070,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Global leadership consulting firm that helps organizations hire, promote, and develop exceptional leaders",
+  "ProductId": null,
+  "ShortDescription": "DDI helps organizations create and launch high-impact leadership development programs with a focus on performance, culture, and diversity",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Cultivating Leaders: From C-Suite Vision to Emerging Talent",
+      "sequence": 0,
+      "description": "We aim to expand globally or create a full pipeline program from the frontline to the C-suite."
+    },
+    {
+      "name": "Next-Generation Leadership Development",
+      "sequence": 1,
+      "description": " With DDI, you get your own Strategic Learning Team who is by your side every step to ensure your success."
+    },
+    {
+      "name": "Better Business Results",
+      "sequence": 2,
+      "description": "By seeing the increased scores over time, we find the right solutions."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:12:57.441Z",
+  "enhanced_description": "DDI World is a global leadership consulting firm, established in 1970, that specializes in helping organizations hire, promote, and develop exceptional leaders. Their comprehensive solutions cater to all levels, from first-time managers to C-suite executives. Built on deep research into the science and practice of leadership, DDI's offerings are designed and delivered by expert leadership strategists. They focus on creating and launching high-impact leadership development programs that drive performance, enhance organizational culture, and promote diversity. DDI commits to partnering with clients, providing a dedicated Strategic Learning Team to ensure successful program implementation and measurable business results, aiming to accelerate skill development and learning efficiency.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Leadership hiring and promotion",
+    "Leadership development program design and launch",
+    "Accelerating skill development and learning efficiency for leaders",
+    "Succession management and planning",
+    "Behavioral interviewing for leadership roles",
+    "Building a leadership pipeline from frontline to C-suite"
+  ],
+  "competitive_advantages": [
+    "Solutions built on deep research into the science and practice of leadership",
+    "Expertise of incredible leadership strategists",
+    "Dedicated Strategic Learning Team for client support and success",
+    "Global consulting capabilities",
+    "Extensive experience (established 1970) in leadership consulting"
+  ],
+  "implementation_scenarios": [
+    "Consultative program design and execution",
+    "Partnership with a dedicated Strategic Learning Team for ongoing support"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Learning & Development",
+    "Talent Management",
+    "Succession Planning"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development and learning efficiency for leaders",
+    "Improved recruiting efficiency and faster hiring of leaders",
+    "Enhanced employee engagement through effective leadership",
+    "Measurable improvements in leadership performance scores",
+    "Better overall business results"
+  ],
+  "searchable_keywords": [
+    "DDI World",
+    "DDI",
+    "leadership consulting",
+    "leadership development",
+    "leader development",
+    "leadership training",
+    "leadership courses",
+    "leadership programs",
+    "hire leaders",
+    "promote leaders",
+    "develop leaders",
+    "C-suite leadership",
+    "emerging leaders",
+    "first-time managers",
+    "frontline leaders",
+    "global leadership firm",
+    "leadership strategy",
+    "leadership research",
+    "skill development",
+    "learning efficiency",
+    "skill acquisition",
+    "recruiting efficiency",
+    "quick hiring",
+    "employee engagement",
+    "succession management",
+    "succession planning",
+    "behavioral interviewing",
+    "talent management",
+    "corporate LMS",
+    "training eLearning software",
+    "training management system",
+    "leadership pipeline",
+    "strategic learning team",
+    "business results",
+    "performance improvement",
+    "organizational culture",
+    "diversity in leadership"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "Learning & Development Managers",
+    "Talent Acquisition Leaders",
+    "C-suite Executives"
+  ],
+  "scalability_features": [
+    "Ability to support leadership development across all organizational levels (frontline to C-suite)",
+    "Global delivery capabilities"
+  ],
+  "_weight": 1
+}

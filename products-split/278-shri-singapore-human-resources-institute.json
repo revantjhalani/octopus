@@ -1,0 +1,172 @@
+{
+  "id": 278,
+  "name": "SHRI - Singapore Human Resources Institute",
+  "description": "The SHRI group - comprising SHRI Academy, SHRI Corporate Learning & Consultancy Hub and The Singapore Professionals\u2019 & Executives\u2019 Co-operative (SPEC) - offers a wide range of services to promote continuous learning, skills-upgrading and professional development. Committed to developing appropriate standards of HR, SHRI is a pioneer of Singapore\u2019s HR Accreditation Framework, The Singapore HR Awards, The National Workplace Happiness Survey, The Singapore HR Congress & Business-Connect Exposition and the Singapore HR Challenge for post-secondary and tertiary institutions. SHRI also works closely with national HR associations worldwide, such as the World Federation of People Management Associations (WFPMA), the Asia Pacific Federation of Human Resource Management (APFHRM) and the Society for Human Resource Management (SHRM), to bring global and regional best HR practices and insights to people managers in Singapore.",
+  "features": [
+    "Driving Professionalism",
+    "SHRI is a great place to meet like-minded professionals and expand your professional network.",
+    "Invest in your future and get the tools and expertise you need to succeed."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Course authoring",
+    "Corporate LMS"
+  ],
+  "tags": [
+    "Skill development",
+    "Adaptive learning"
+  ],
+  "headquarter": "Singapore, Singapore",
+  "launch_date": "1965",
+  "order": 20243,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Powering Human Capital",
+  "ProductId": null,
+  "ShortDescription": "Singapore Human Resources Institute (SHRI) is a leading, not-for-profit, professional HR body, which represents a strong network of members, comprising individuals and organisations across diverse industries.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Courses and Programs",
+      "sequence": 0,
+      "description": "SHRI offers a wide range of courses and programs on topics such as HR leadership, talent management, performance management, compensation and benefits, and industrial relations."
+    },
+    {
+      "name": "Consultancy Services",
+      "sequence": 1,
+      "description": "SHRI also provides consultancy services to businesses to help them improve their HR practices. SHRI's consultants can help businesses with a variety of HR issues, such as developing HR strategies, designing and implementing HR programs, and managing HR operations."
+    },
+    {
+      "name": "Leading provider of HR training and consultancy",
+      "sequence": 2,
+      "description": "SHRI is a leading provider of HR training and consultancy services in Singapore. They offer a wide range of courses and programs to help HR professionals develop their skills and knowledge in all aspects of HR management."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:31.101Z",
+  "enhanced_description": "SHRI - Singapore Human Resources Institute is a pioneering, not-for-profit professional HR body established in 1965, dedicated to advancing human capital and HR excellence in Singapore. Through its components like SHRI Academy and SHRI Corporate Learning & Consultancy Hub, it delivers a comprehensive suite of services including continuous learning, skills-upgrading, and professional development programs. SHRI is instrumental in setting HR standards, evidenced by its role in the Singapore HR Accreditation Framework, The Singapore HR Awards, and The National Workplace Happiness Survey. It also fosters a vibrant HR community by organizing events such as The Singapore HR Congress & Business-Connect Exposition and facilitating global best practices through partnerships with international associations like WFPMA, APFHRM, and SHRM. SHRI offers a wide range of courses covering HR leadership, talent management, performance management, compensation and benefits, industrial relations, and provides expert consultancy services to businesses of all sizes for improving their HR practices and operations.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Professional development and skill enhancement for HR professionals",
+    "HR accreditation and standard setting",
+    "Access to global and regional HR best practices and insights",
+    "Professional networking for HR practitioners",
+    "Strategic HR consulting and program implementation",
+    "Workplace happiness assessment",
+    "Recognition of HR excellence (awards)",
+    "Industry event participation and business connection"
+  ],
+  "competitive_advantages": [
+    "Pioneer status in Singapore's HR Accreditation Framework and HR standards development",
+    "Extensive global network through partnerships with WFPMA, APFHRM, and SHRM",
+    "Leading provider of HR training and consultancy services in Singapore",
+    "Established reputation and long history (since 1965) as a professional HR body",
+    "Comprehensive service offerings including learning, consultancy, accreditation, and events",
+    "Strong network of individual and organizational members across diverse industries",
+    "Not-for-profit model, focusing on professional advancement"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Talent Management",
+    "Performance Management",
+    "Compensation & Benefits",
+    "Industrial Relations",
+    "HR Leadership & Strategy",
+    "HR Operations",
+    "HR Standards & Accreditation",
+    "Employee Engagement & Experience",
+    "Professional Networking"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development and increased learning efficiency for HR professionals",
+    "Improved HR capabilities and practices within organizations",
+    "Enhanced career advancement opportunities for individuals",
+    "Access to global and regional HR best practices leading to competitive advantage",
+    "Higher professional standing and recognition within the HR field",
+    "Better informed HR strategic decision-making through expert consultancy",
+    "Enhanced workplace happiness and employee engagement"
+  ],
+  "searchable_keywords": [
+    "SHRI",
+    "Singapore Human Resources Institute",
+    "HR",
+    "Human Resources",
+    "Professional Development",
+    "Learning and Development",
+    "Skills Upgrading",
+    "HR Training",
+    "HR Consultancy",
+    "HR Accreditation Framework",
+    "HR Awards",
+    "Workplace Happiness Survey",
+    "HR Congress",
+    "Business Exposition",
+    "HR Challenge",
+    "WFPMA",
+    "APFHRM",
+    "SHRM",
+    "People Management",
+    "HR Practices",
+    "HR Insights",
+    "Professional Network",
+    "HR Expertise",
+    "HR Leadership",
+    "Talent Management",
+    "Performance Management",
+    "Compensation and Benefits",
+    "Industrial Relations",
+    "HR Strategies",
+    "HR Programs",
+    "HR Operations",
+    "Skill Development",
+    "Adaptive Learning",
+    "Not-for-profit HR body",
+    "HR Network",
+    "HR Members",
+    "Corporate LMS",
+    "Course Authoring"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "People Managers",
+    "Businesses (seeking HR consultancy)",
+    "HR Departments",
+    "Post-secondary and Tertiary Institutions"
+  ],
+  "compliance_features": [
+    "Support for Singapore HR Accreditation Framework",
+    "Development of appropriate HR standards"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,129 @@
+{
+  "id": 115,
+  "name": "Aetna",
+  "description": "At Aetna, a CVS Health\u00ae company, we\u2019re building a healthier world by making health care easy, affordable and all about you. Because Healthier Happens Together\u2122! Follow our page for company news, industry commentary, jobs and more. Founded in 1853 in Hartford, CT, Aetna\u00ae is one of the nation's leading diversified health care benefits companies, serving an estimated 39 million people with information and resources to help them make better decisions about their health. As a health care leader, we believe that our corporate responsibility starts with helping people live healthier lives. And that means using our resources to make the communities and the world we live in better places.\r\n\r\nDiversity & Inclusion: Our focus on diversity and inclusion reflects the world around us. Having a diverse group of employees gives us a broader and deeper view of how to serve the people and businesses in our communities. As part of CVS Health, over 70% of our workforce is comprised of women.\r\n",
+  "features": [
+    "Consumer Health",
+    "Accountable Care",
+    "Health care innovation"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee well being",
+    "Diversity and inclusion"
+  ],
+  "headquarter": "Hartford, Connecticut",
+  "launch_date": "1853",
+  "order": 20085,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Healthier happens together",
+  "ProductId": null,
+  "ShortDescription": "Here at Aetna, a CVS Health\u00ae company, we\u2019re building a healthier world by making health care easy, affordable and all about you. ",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Health Insurance Plans",
+      "sequence": 0,
+      "description": "Aetna offers a variety of health insurance plans, including individual and family plans, employer solutions, and Medicare plans."
+    },
+    {
+      "name": "Finding a Doctor",
+      "sequence": 1,
+      "description": " Members can find a doctor or dentist through Aetna."
+    },
+    {
+      "name": "Dental and Vision Plans",
+      "sequence": 2,
+      "description": "The company also offers dental, vision and supplemental insurance."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-26T13:12:14.014Z",
+  "enhanced_description": "Aetna, a CVS Health\u00ae company, is a leading diversified health care benefits provider. Established in 1853, it serves an estimated 39 million people by making health care easy, affordable, and accessible. Aetna offers a wide range of health insurance plans, including individual and family plans, employer solutions, and Medicare plans. Additionally, they provide dental, vision, and supplemental insurance options. Members can utilize their services to find doctors and dentists. Aetna is committed to consumer health, accountable care, and health care innovation, with a strong focus on corporate responsibility and promoting diversity and inclusion.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Providing comprehensive health insurance benefits to employees (employer solutions)",
+    "Facilitating access to healthcare providers for members (doctors, dentists)",
+    "Offering supplemental insurance options like dental and vision plans",
+    "Supporting employee well-being initiatives",
+    "Managing overall total rewards programs for an organization"
+  ],
+  "competitive_advantages": [
+    "One of the nation's leading diversified health care benefits companies",
+    "Extensive reach, serving an estimated 39 million people",
+    "Focus on making healthcare easy, affordable, and consumer-centric",
+    "Commitment to corporate responsibility, diversity, and inclusion",
+    "Emphasis on health care innovation and accountable care",
+    "Part of CVS Health\u00ae, leveraging broader health ecosystem"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards Management",
+    "Benefits Administration",
+    "Employee Well-being Programs",
+    "Diversity & Inclusion Initiatives (supporting company values)"
+  ],
+  "roi_benefits": [
+    "Potentially improved employee health outcomes leading to reduced absenteeism",
+    "Enhanced employee satisfaction and retention through comprehensive health benefits",
+    "Access to a wide range of affordable and easy-to-use health benefits for employees",
+    "Empowering employees with information and resources to make better health decisions"
+  ],
+  "searchable_keywords": [
+    "Aetna",
+    "CVS Health",
+    "healthcare benefits",
+    "health insurance",
+    "employer health plans",
+    "medical insurance",
+    "dental insurance",
+    "vision insurance",
+    "supplemental insurance",
+    "Medicare plans",
+    "total rewards",
+    "employee well-being",
+    "diversity and inclusion",
+    "accountable care",
+    "consumer health",
+    "health care innovation",
+    "health and safety providers",
+    "benefits administration"
+  ],
+  "primary_users": [
+    "HR Professionals (for employer solutions and benefits management)",
+    "Benefit Administrators",
+    "Employees (as recipients and users of health benefits and services)",
+    "Individual Consumers (for individual and family plans)"
+  ],
+  "_weight": 1
+}

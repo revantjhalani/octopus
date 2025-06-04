@@ -1,0 +1,150 @@
+{
+  "id": 850,
+  "name": "Magic EdTech",
+  "description": "Magic EdTech - Digital Learning for Everyone. We began our journey with the simple idea of using technology to bring learning to life. Our mission statement is \u201cMagic is committed to humanity\u2019s pursuit of happiness by making lifelong digital learning accessible, affordable, and sustainable\"",
+  "features": [
+    "Cloudbased mobile learning platform",
+    "Product maintenance & support, Games",
+    "Product content development"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Course authoring"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning optimisation",
+    "Skill acquisition"
+  ],
+  "headquarter": "New York, NY",
+  "launch_date": "1990",
+  "order": 20803,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Inclusive Digital Learning Products and Platforms",
+  "ProductId": null,
+  "ShortDescription": "Magic EdTech - Digital Learning for Everyone We began our journey with the simple idea of using technology to bring learning to life. Our mission statement is \u201cMagic is committed to humanity\u2019s pursuit of happiness by making lifelong digital learning accessible, affordable, and sustainable\"",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Proven Track Record and Industry Recognition:",
+      "sequence": 0,
+      "description": "Magic EdTech boasts a long-standing presence in the industry, serving over 200 clients worldwide [3]. They've also achieved the prestigious Gold Award from IMS Learning Impact Award 2020 for their MagicBox platform, used by over 5 million students globally [3]. This recognition highlights their commitment to delivering high-quality and impactful digital learning solutions."
+    },
+    {
+      "name": "Focus on Accessibility and Inclusivity:",
+      "sequence": 1,
+      "description": "Magic EdTech emphasizes making digital learning accessible and inclusive for all [1].  They achieve this by:Cloud-Based Solutions and Mobile learning "
+    },
+    {
+      "name": "Empowering End-to-End Digital Learning:",
+      "sequence": 2,
+      "description": "Magic EdTech doesn't just offer isolated tools, they provide a comprehensive suite of services to support the entire digital learning lifecycle [1]. This includes: building learning platforms , content creation and anylictics. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:39.735Z",
+  "enhanced_description": "Magic EdTech is a global leader in digital learning solutions, offering a comprehensive suite of services to support the entire digital learning lifecycle. Founded in 1990, the company leverages technology to make lifelong digital learning accessible, affordable, and sustainable. Their offerings include a cloud-based mobile learning platform, product content development, and ongoing product maintenance and support. Recognized with a Gold Award from IMS Learning Impact Award 2020 for their MagicBox platform, which serves over 5 million students globally, Magic EdTech boasts a proven track record and a strong focus on accessibility and inclusivity.",
+  "target_industries": [
+    "Corporate"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerating skill development",
+    "Improving learning efficiency",
+    "Developing digital learning content",
+    "Building and deploying learning platforms",
+    "Providing mobile learning solutions"
+  ],
+  "competitive_advantages": [
+    "Long-standing industry presence (since 1990)",
+    "Proven track record with over 200 global clients",
+    "Industry recognition (IMS Learning Impact Award 2020 Gold Award for MagicBox platform)",
+    "Extensive global user base (5 million+ students on MagicBox)",
+    "Strong focus on accessibility and inclusivity in digital learning",
+    "Comprehensive end-to-end digital learning solutions (platform building, content creation, analytics)"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based deployment of learning platforms",
+    "Content creation and development for digital learning initiatives"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Skill Development",
+    "Training"
+  ],
+  "technology_stack": [
+    "Cloud-based",
+    "Mobile technology"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Increased learning efficiency",
+    "Accessible digital learning",
+    "Affordable digital learning",
+    "Sustainable digital learning"
+  ],
+  "searchable_keywords": [
+    "Magic EdTech",
+    "Digital Learning",
+    "Learning Platform",
+    "Mobile Learning",
+    "Corporate LMS",
+    "Course Authoring",
+    "Content Development",
+    "Skill Development",
+    "Learning Optimization",
+    "Skill Acquisition",
+    "EdTech",
+    "Cloudbased Learning",
+    "Learning Efficiency",
+    "Accessibility",
+    "Inclusivity"
+  ],
+  "primary_users": [
+    "Corporate learners",
+    "Employees",
+    "L&D professionals",
+    "Students (in context of MagicBox platform)"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "scalability_features": [
+    "Supports over 5 million students globally on MagicBox platform",
+    "Designed for Global Enterprise and Large Enterprise clients",
+    "Cloud-based architecture"
+  ],
+  "_weight": 1
+}

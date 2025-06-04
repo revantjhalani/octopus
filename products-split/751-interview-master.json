@@ -1,0 +1,131 @@
+{
+  "id": 751,
+  "name": "Interview Master",
+  "description": "InterviewsMaster is an Online Bootcamp that provides personalized 1-1 mentorship & coaching from the top tech engineers who will guide you to crack interviews. There is a 0$ upfront fee, and you pay only if you land a high paying tech job through us. When going in for an interview, you only have one chance to make the right first impression. However, preparing well for the interview will help you determine your success chances when applying for a new job. Getting through a job interview has always been difficult and stressful for candidates. Therefore, it is essential to prepare and be at your best, whether in a virtual or in-person interview. InterviewsMaster aims to help engineering students in the US land their dream job. Once you enrol on our Online Bootcamp, you will get matched with a dedicated coach from FAANG and tier 1 companies. The coach understands you better to design a study plan using our world-class content and will guide you on your path to success.",
+  "features": [
+    "Extensive Curriculum in Algorithms & Data Structures, System Design spanning 200+ lectures",
+    "Live weekly tests from mentors with detailed feedback to improve",
+    "Referrals in 50+ top tech companies. Mass automation to get you 3X interviews guaranteed"
+  ],
+  "founders": [
+    "Jobin Jose"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Training management system",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised learning",
+    "Learning retention",
+    "Continuous Learning"
+  ],
+  "headquarter": "Marlton, New Jersey",
+  "launch_date": "2022",
+  "order": 20704,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "An Online Bootcamp to empower Software Engineers to land a top-paying tech job with a 0$ upfront fee!",
+  "ProductId": null,
+  "ShortDescription": "InterviewsMaster is an Online Bootcamp that provides personalized 1-1 mentorship & coaching from the top tech engineers who will guide you to crack interviews.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:45.343Z",
+  "enhanced_description": "Interview Master is an online bootcamp explicitly designed for engineering students and software engineers in the US aiming to secure high-paying tech jobs. It provides comprehensive interview preparation through personalized 1-on-1 mentorship and coaching from experienced tech engineers, including those from FAANG and tier-1 companies. The program features an extensive curriculum covering Algorithms & Data Structures and System Design across 200+ lectures. A key differentiator is its unique 'pay-after-you-land-a-job' model with a $0 upfront fee, aligning the program's success with the candidate's employment outcome. Participants receive live weekly tests with detailed feedback, benefit from mass automation to secure a guaranteed 3X more interviews, and gain access to referrals at over 50 top tech companies, significantly enhancing their job search efficiency and success rates.",
+  "target_industries": [
+    "Technology"
+  ],
+  "key_use_cases": [
+    "Interview preparation for tech roles",
+    "Skill development in Algorithms & Data Structures",
+    "Skill development in System Design",
+    "Personalized career coaching and mentorship",
+    "Accelerating job search through referrals and interview guarantees",
+    "Candidate readiness for tech interviews"
+  ],
+  "competitive_advantages": [
+    "Income Share Agreement (ISA) model with $0 upfront fee (pay only if you land a high-paying tech job)",
+    "Personalized 1-on-1 mentorship and coaching",
+    "Coaches from FAANG and tier 1 companies",
+    "Guaranteed 3X interviews through mass automation",
+    "Referrals to 50+ top tech companies"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Talent Acquisition"
+  ],
+  "roi_benefits": [
+    "Enables candidates to land high-paying tech jobs",
+    "Eliminates upfront financial risk for participants",
+    "Increases success chances in job applications and interviews",
+    "Accelerates skill development and learning efficiency",
+    "Guarantees increased interview opportunities for candidates"
+  ],
+  "searchable_keywords": [
+    "Interview Master",
+    "InterviewsMaster",
+    "online bootcamp",
+    "tech interview preparation",
+    "software engineer training",
+    "engineering student career",
+    "FAANG coach",
+    "1-1 mentorship",
+    "system design curriculum",
+    "data structures algorithms",
+    "tech job placement",
+    "job search accelerator",
+    "interview coaching",
+    "skill development bootcamp",
+    "learning and development program",
+    "training effectiveness",
+    "skill acquisition",
+    "personalized learning",
+    "job referrals",
+    "income share agreement",
+    "career coaching"
+  ],
+  "primary_users": [
+    "Engineering students",
+    "Software engineers",
+    "Job candidates"
+  ],
+  "deployment_options": [
+    "Online"
+  ],
+  "_weight": 1
+}

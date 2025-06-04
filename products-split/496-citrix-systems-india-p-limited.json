@@ -1,0 +1,127 @@
+{
+  "id": 496,
+  "name": "Citrix Systems India P Limited",
+  "description": "It\u2019s what drives us to create technology that transcends the constraints of time, place, infrastructure, networks, and devices. And it\u2019s the reason thousands of organizations around the world trust us to keep their apps available, their data safe, and their people productive\u2014wherever and whenever work happens.",
+  "features": [
+    "Deliver workspaces that are as flexible as your workforce",
+    "Boost security and producti vity at the same time",
+    "App and Desktop Virtualization"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Talent Management",
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Workforce management",
+    "HR management suites",
+    "Recruitment agencies",
+    "HR consulting providers",
+    "Recruiting automation software",
+    "Software and Services Related to HR Software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "headquarter": "Fort Lauderdale, FL",
+  "launch_date": "1995",
+  "order": 20456,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "mpowering companies to deploy secure, remote apps & desktops at any scale.",
+  "ProductId": null,
+  "ShortDescription": "When we pioneered remote access, we believed people should be able to work anywhere and in any way they need. Three decades later, that\u2019s even more true than ever.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:28:40.110Z",
+  "enhanced_description": "Citrix Systems provides technology that enables organizations to deliver secure, remote applications and desktops at any scale. Pioneering remote access, their solutions transcend constraints of time, place, infrastructure, networks, and devices to ensure applications are available, data is safe, and people remain productive wherever and whenever work happens. This allows for the delivery of flexible workspaces that adapt to a dynamic workforce, boosting both security and productivity simultaneously, and aiding in areas like talent management and recruiting by enabling efficient remote work environments.",
+  "key_use_cases": [
+    "Delivering secure, remote applications and desktops",
+    "Enabling flexible and remote workforces",
+    "Boosting security and productivity for employees",
+    "Ensuring application availability and data safety across diverse environments",
+    "Supporting recruiting processes by improving hiring manager confidence and efficiency",
+    "App and desktop virtualization"
+  ],
+  "competitive_advantages": [
+    "Pioneered remote access solutions",
+    "Ability to transcend constraints of time, place, infrastructure, networks, and devices",
+    "Ensures continuous app availability and data safety",
+    "Simultaneously boosts security and productivity",
+    "Delivers highly flexible workspaces"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Recruiting",
+    "Workforce management",
+    "HR management suites (as a supporting technology)",
+    "Recruitment automation (as a supporting technology)"
+  ],
+  "roi_benefits": [
+    "Increased employee productivity",
+    "Enhanced data security",
+    "Improved application availability",
+    "Faster and more efficient hiring of top talent",
+    "Boosted hiring manager confidence and productivity"
+  ],
+  "searchable_keywords": [
+    "Citrix Systems",
+    "remote access",
+    "remote work",
+    "app virtualization",
+    "desktop virtualization",
+    "secure apps",
+    "secure desktops",
+    "virtual workspaces",
+    "flexible workforce",
+    "data security",
+    "productivity",
+    "Talent Management",
+    "Recruiting",
+    "Workforce management",
+    "HR technology",
+    "Hiring Manager",
+    "recruiting automation",
+    "IT infrastructure",
+    "digital workspace"
+  ],
+  "primary_users": [
+    "Employees (end-users)",
+    "Hiring Managers",
+    "IT Administrators (implied by technology type)"
+  ],
+  "scalability_features": [
+    "Supports deployment at any scale"
+  ],
+  "security_features": [
+    "Secure app and desktop deployment",
+    "Data safety",
+    "Enhanced security for remote access"
+  ],
+  "_weight": 1
+}

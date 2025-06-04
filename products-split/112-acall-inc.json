@@ -1,0 +1,144 @@
+{
+  "id": 112,
+  "name": "ACALL Inc.",
+  "description": "Acall Digital Workplace Solutions fit into all kind of operations such as office reception, access control, and space management through diverse tool integration and flexible customization. Acall supports the automation and analysis of space management, such as the visualization of space utilization rates using check-in data for each spot and the automatic release if any no-show. By creating a \"Hybrid Work Platform\", we can create an office environment that is safe, secure, and comfortable to work in.",
+  "features": [
+    "Workplace Management",
+    "Co-working management",
+    "Chat Tools Integration",
+    "Gate Linkage Access Control"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Workforce management",
+    "Employee engagement software"
+  ],
+  "tags": [
+    "Employee engagement"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2010",
+  "order": 20082,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Life in Work and Work in Life for Happiness",
+  "ProductId": null,
+  "ShortDescription": "Acall Digital Workplace Solutions fit into all kind of operations such as office reception, access control, and space management through diverse tool integration and flexible customization.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Automation of reception and entry and exit",
+      "sequence": 0,
+      "description": "The iPad reception greatly reduces the service work. You can freely customize the reception menu contents, cooperation services, and screen design, so you can build a reception / entry and exit system that fits your company's operation."
+    },
+    {
+      "name": "Check-in management",
+      "sequence": 1,
+      "description": "You can reserve spaces and seats from any device and tool. You can obtain usage results by check-in/out, and use resources without waste by automatically canceling color reservations and real-time synchronizing usage status."
+    },
+    {
+      "name": "ntroduction by taking advantage of existing operations",
+      "sequence": 2,
+      "description": "It can also be linked with applications such as chat tools and hardware such as extension phones, gates and electronic locks. Acall will also be expanded as the office grows."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-26T12:47:49.196Z",
+  "enhanced_description": "Acall Digital Workplace Solutions offer a comprehensive platform for office reception, access control, and space management, supporting hybrid work environments. The platform automates reception and entry/exit processes with customizable iPad interfaces, significantly reducing manual service work. It provides advanced check-in management, enabling users to reserve spaces and seats from any device, track real-time utilization, and automatically release resources from no-shows, optimizing space usage. Acall also features robust integration capabilities with various tools such as chat applications, extension phones, gates, and electronic locks, designed to be flexible and scalable to support office expansion and ensure a safe, secure, and comfortable working environment.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Automated office reception",
+    "Access control management",
+    "Space management and booking",
+    "Co-working space management",
+    "Visualization of space utilization rates",
+    "Automatic release of no-show reservations",
+    "Hybrid work environment management",
+    "Employee and visitor check-in/check-out",
+    "Streamlined entry and exit processes"
+  ],
+  "competitive_advantages": [
+    "Highly customizable reception menus, services, and screen design",
+    "Significant reduction in manual reception service work",
+    "Automation of no-show cancellations for efficient space utilization",
+    "Real-time synchronization of space usage status",
+    "Diverse integration capabilities with existing tools and hardware",
+    "Designed for scalability and expansion with growing offices"
+  ],
+  "hr_functions_supported": [
+    "Workforce management",
+    "Employee engagement"
+  ],
+  "integration_capabilities": [
+    "Chat tools",
+    "Gate linkage access control",
+    "Extension phones",
+    "Electronic locks"
+  ],
+  "roi_benefits": [
+    "Automation of reception and entry/exit processes",
+    "Reduced operational costs through automation",
+    "Optimized space utilization and resource management",
+    "Enhanced employee experience in hybrid work settings",
+    "Improved efficiency in resource allocation (e.g., meeting rooms, desks)",
+    "Data-driven insights into space usage patterns"
+  ],
+  "searchable_keywords": [
+    "ACALL",
+    "Digital Workplace Solutions",
+    "Office reception",
+    "Access control",
+    "Space management",
+    "Workplace Management",
+    "Co-working management",
+    "Chat Tools Integration",
+    "Gate Linkage Access Control",
+    "Hybrid Work Platform",
+    "Space utilization",
+    "Check-in management",
+    "Workforce management",
+    "Employee engagement software",
+    "Employee engagement",
+    "Automation",
+    "Resource management",
+    "iPad reception"
+  ],
+  "primary_users": [
+    "Office administrators",
+    "Facility managers",
+    "Employees (for space booking/check-in)",
+    "Visitors"
+  ],
+  "scalability_features": [
+    "Designed to be expanded as the office grows"
+  ],
+  "_weight": 1
+}

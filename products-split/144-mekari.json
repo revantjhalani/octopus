@@ -1,0 +1,169 @@
+{
+  "id": 144,
+  "name": "Mekari",
+  "description": "The high rate of digitalization in Indonesia over the past few years has been the main trigger for the birth of Mekari. Technological innovation is not just a business tool, but can also create deeper added value. Mekari is here as a platform and ecosystem for entrepreneurs, leaders, and individuals passionate about riding the wave of digital transformation. We aim to help them build businesses and professional practitioners to bring about meaningful change more effectively.",
+  "features": [
+    "35,000+ Customer",
+    "1,000,000+ Application users",
+    "9+ trillion Business transactions"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Other / technology",
+    "HRMS / HCM",
+    "Talent Management",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Resource Information Systems (HRIS)",
+    "Payroll services providers",
+    "Employee engagement software"
+  ],
+  "tags": [
+    "Hiring efficiency",
+    "Quality of hire",
+    "Hiring process optimization"
+  ],
+  "headquarter": "Jakarta Pusat, DKI Jakarta",
+  "launch_date": "2015",
+  "order": 20111,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Power your business growth",
+  "ProductId": null,
+  "ShortDescription": "The safest and most trusted SaaS platform for business",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Cloud based",
+      "sequence": 0,
+      "description": "Free installation, maintenance and platform development costs."
+    },
+    {
+      "name": "World-class security",
+      "sequence": 1,
+      "description": "The system is certified to regulatory standards and industry safety requirements."
+    },
+    {
+      "name": "Dedicated support",
+      "sequence": 2,
+      "description": "Consultation support, implementation assistance to after sales."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:15.158Z",
+  "enhanced_description": "Mekari is a comprehensive cloud-based SaaS platform and ecosystem designed to empower businesses and professional practitioners in Indonesia through digital transformation. As a trusted provider of HRMS, HCM, and Talent Management solutions, Mekari specifically supports Human Resource Information Systems (HRIS), Payroll services, and Employee Engagement. The platform aims to boost hiring manager confidence and productivity through features focused on hiring efficiency, quality of hire, and hiring process optimization. Mekari offers a cloud-based solution, eliminating installation and maintenance costs, backed by world-class security certified to regulatory standards, and provides dedicated support including consultation and implementation assistance.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "HRIS management",
+    "Payroll processing",
+    "Employee engagement",
+    "Talent acquisition optimization",
+    "Hiring process management",
+    "Improving quality of hire",
+    "Boosting hiring manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "Large customer base (35,000+ customers)",
+    "Extensive user adoption (1,000,000+ application users)",
+    "High volume of business transactions processed (9+ trillion)",
+    "Cloud-based deployment with no installation or maintenance costs",
+    "Certified world-class security",
+    "Comprehensive dedicated support (consultation, implementation, after-sales)"
+  ],
+  "implementation_scenarios": [
+    "Cloud deployment",
+    "Assisted implementation"
+  ],
+  "hr_functions_supported": [
+    "HRIS",
+    "Payroll",
+    "Employee Engagement",
+    "Talent Management",
+    "HCM (Human Capital Management)",
+    "Recruitment/Hiring"
+  ],
+  "roi_benefits": [
+    "Increased hiring manager confidence",
+    "Improved hiring manager productivity",
+    "Enhanced hiring efficiency",
+    "Optimized hiring processes",
+    "Reduced IT infrastructure and maintenance costs (due to cloud deployment)",
+    "Streamlined HR operations"
+  ],
+  "searchable_keywords": [
+    "Mekari",
+    "HRMS",
+    "HCM",
+    "HRIS",
+    "Talent Management",
+    "Payroll",
+    "Employee Engagement",
+    "Hiring",
+    "Recruitment",
+    "SaaS",
+    "Cloud HR",
+    "Digital Transformation",
+    "HR Technology",
+    "Business Growth",
+    "Security",
+    "Dedicated Support",
+    "Indonesia HR",
+    "Hiring efficiency",
+    "Quality of hire",
+    "Hiring process optimization"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Professionals",
+    "Business Leaders",
+    "Employees (for engagement and HRIS access)",
+    "Entrepreneurs"
+  ],
+  "deployment_options": [
+    "Cloud"
+  ],
+  "compliance_features": [
+    "Certified to regulatory standards",
+    "Meets industry safety requirements"
+  ],
+  "scalability_features": [
+    "Supports a large customer base (35,000+ customers)",
+    "Handles high transaction volumes (9+ trillion business transactions)",
+    "Designed for global and large enterprise usage"
+  ],
+  "security_features": [
+    "World-class security standards",
+    "Certified to regulatory standards",
+    "Meets industry safety requirements"
+  ],
+  "_weight": 1
+}

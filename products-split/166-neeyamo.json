@@ -1,0 +1,144 @@
+{
+  "id": 166,
+  "name": "Neeyamo",
+  "description": "In February 2009, Neeyamo was formed with a mission to leverage technology, innovation, and ingenuity to help multinational organizations efficiently support their global employee population. As a technology-first company, Neeyamo was always concerned with optimizing employee experience while minimizing employee intervention. With the understanding that accuracy increases multifold with fewer human fingers on things, NeeyamoWorks was born.",
+  "features": [
+    "A simple, intuitive, and easy-to-use solution to the complicated global payroll process.",
+    "Remain compliant to ever-changing global and local regulations.",
+    "Discover technology-first modules with innovation at its nerve centre."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Pre-employment screening software",
+    "Background check software"
+  ],
+  "tags": [
+    "Screening costs",
+    "Sourcing costs",
+    "Hiring costs"
+  ],
+  "headquarter": "Chennai, Tamil Nadu",
+  "launch_date": "2009",
+  "order": 20133,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "A technology led approach to global payroll and EOR",
+  "ProductId": null,
+  "ShortDescription": "Where Payroll Meets Possibility: Connecting Global Teams and Talent",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Global Payroll Core",
+      "sequence": 0,
+      "description": "Pay your global workforce through a single payroll engine."
+    },
+    {
+      "name": " Global Payroll Plus",
+      "sequence": 1,
+      "description": "Extend the core payroll solution to accommodate support for ancillary requirements."
+    },
+    {
+      "name": " Global Employee Management",
+      "sequence": 2,
+      "description": "A portfolio of products to effectively onboard and manage international employees."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:48.029Z",
+  "enhanced_description": "Neeyamo, established in 2009, is a technology-first HR solutions provider designed to assist multinational organizations in efficiently supporting their global employee populations. The company's core mission revolves around leveraging technology and innovation to optimize employee experience while minimizing human intervention, aiming for increased accuracy. Neeyamo offers a comprehensive, intuitive solution for the complexities of global payroll, ensuring compliance with ever-changing global and local regulations. Its product suite, NeeyamoWorks, includes a single engine for global payroll processing (Global Payroll Core), extended capabilities for ancillary payroll requirements (Global Payroll Plus), and a portfolio of products for effective onboarding and management of international employees (Global Employee Management). Additionally, Neeyamo provides solutions in recruiting, specifically for pre-employment screening and background checks, with the objective of reducing the overall cost of hiring qualified employees.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Global payroll processing for multinational organizations",
+    "Ensuring compliance with global and local payroll regulations",
+    "Onboarding and managing international employees",
+    "Pre-employment screening for candidates",
+    "Conducting background checks",
+    "Optimizing employee experience in a global context",
+    "Reducing global hiring costs"
+  ],
+  "competitive_advantages": [
+    "Technology-first approach with innovation at its core",
+    "Designed for minimal employee intervention to enhance accuracy",
+    "Simplified and intuitive global payroll processes",
+    "Ensures compliance with dynamic global and local regulations",
+    "Centralized global payroll engine for unified workforce payment"
+  ],
+  "hr_functions_supported": [
+    "Global Payroll Management",
+    "Employee Management",
+    "Onboarding (International Employees)",
+    "Recruitment (Pre-employment Screening & Background Checks)"
+  ],
+  "roi_benefits": [
+    "Reduced cost of hiring qualified employees",
+    "Increased operational efficiency in global payroll processes",
+    "Improved accuracy by minimizing human intervention",
+    "Enhanced compliance and reduced regulatory risk",
+    "Optimized global employee experience"
+  ],
+  "searchable_keywords": [
+    "Neeyamo",
+    "global payroll",
+    "EOR",
+    "global employee management",
+    "international employees",
+    "HR technology",
+    "multinational organizations",
+    "compliance",
+    "global regulations",
+    "pre-employment screening",
+    "background check software",
+    "recruiting",
+    "onboarding",
+    "payroll compliance",
+    "hiring costs",
+    "employee experience",
+    "global workforce",
+    "talent management"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Global Payroll Managers",
+    "Recruitment Teams",
+    "HR Administrators",
+    "Compliance Officers"
+  ],
+  "compliance_features": [
+    "Global regulatory compliance",
+    "Local regulatory compliance"
+  ],
+  "scalability_features": [
+    "Supports global workforce management",
+    "Designed for large and global enterprises"
+  ],
+  "_weight": 1
+}

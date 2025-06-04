@@ -1,0 +1,178 @@
+{
+  "id": 361,
+  "name": "Zalaris HR Services",
+  "description": "Zalaris, recognised by leading industry analysts as one of Europe\u2019s leading HR & payroll solutions and services providers, who have demonstrated excellence in the industry by achieving exceptionally high client net promoter scores and benefitting from over two decades of uninterrupted growth. Zalaris operates throughout Europe and the Asia Pacific, providing solutions and services to clients in over 100 countries worldwide through a unique international delivery model whilst maintaining locally based support for clients with local requirements.",
+  "features": [
+    "Flexible working hours/environmen.",
+    "International working environment",
+    "Friendly, highly competent and supportive colleagues"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting",
+    "Total Rewards",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Payroll services providers",
+    "HR management suites",
+    "Workforce management",
+    "Time tracking",
+    "Talent management software",
+    "Recruiting software",
+    "Software and Services Related to HR Software",
+    "Talent acquisition suites"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "null",
+  "launch_date": "2000",
+  "order": 20323,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Zalaris brings you PeopleHub - the one-stop shop for your HR & payroll!",
+  "ProductId": null,
+  "ShortDescription": "Our mission is to simplify HR and payroll administration, and empower you with useful information.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Core HR Software",
+      "sequence": 0,
+      "description": "Zalaris\u2019 integrated HR solutions enable you to keep up with changes to your business and workforce, including managing people profiles, organisation charts, employee benefits, documents, time and attendance and compliance"
+    },
+    {
+      "name": "Travel & Expense Services",
+      "sequence": 1,
+      "description": "Zalaris\u2019 Travel & Expense Services are a simple and convenient way to gain greater visibility of costs within your organisation. With specialised knowledge of local regulations, Zalaris\u2019 services go beyond simply processing your employees travel and expense claims and support our customers with all subsequent tax regulations."
+    },
+    {
+      "name": "Recruiting Services",
+      "sequence": 2,
+      "description": "The Zalaris Recruting Solution is fully automated, however, Zalaris can offer advice and support to ensure best practice is achieved whilst using the technology."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:25:12.756Z",
+  "enhanced_description": "Zalaris HR Services, powered by PeopleHub, is a comprehensive one-stop shop for HR and payroll. Recognized by leading industry analysts as one of Europe\u2019s premier HR & payroll solutions and services providers, Zalaris aims to simplify administration and empower organizations with useful information. With over two decades of uninterrupted growth and exceptionally high client net promoter scores, Zalaris operates across Europe and Asia Pacific, serving clients in over 100 countries worldwide through a unique international delivery model that combines global reach with locally based support. The services encompass integrated Core HR software for managing people profiles, organization charts, employee benefits, documents, time and attendance, and compliance. Additionally, Zalaris offers Travel & Expense Services for greater visibility of costs and compliance with local tax regulations, alongside a fully automated Recruiting Solution complemented by expert advice for best practices.",
+  "key_use_cases": [
+    "Simplifying HR and payroll administration",
+    "Managing people profiles, organization charts, employee benefits, documents, time and attendance",
+    "Ensuring compliance with HR and tax regulations",
+    "Gaining greater visibility of travel and expense costs",
+    "Processing employee travel and expense claims",
+    "Automating the recruiting process",
+    "Boosting hiring manager confidence and productivity",
+    "Hiring top talent faster and more efficiently",
+    "Reducing the cost of hiring qualified employees"
+  ],
+  "competitive_advantages": [
+    "Recognized by leading industry analysts as a top HR & payroll solutions and services provider in Europe",
+    "Achieved exceptionally high client net promoter scores",
+    "Over two decades of uninterrupted growth",
+    "Unique international delivery model across Europe and Asia Pacific",
+    "Provides locally based support for clients with local requirements in over 100 countries",
+    "Specialized knowledge of local regulations for travel & expense services"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Recruiting",
+    "Total Rewards",
+    "Payroll services",
+    "HR management",
+    "Workforce management",
+    "Time tracking",
+    "Talent acquisition",
+    "Core HR",
+    "Employee benefits management",
+    "Document management",
+    "Time and attendance management",
+    "Travel & Expense management"
+  ],
+  "roi_benefits": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Reduce the Cost of Hiring Qualified Employees",
+    "Gain greater visibility of costs within the organization (Travel & Expense)"
+  ],
+  "searchable_keywords": [
+    "Zalaris HR Services",
+    "PeopleHub",
+    "HR & payroll solutions",
+    "HR & payroll services",
+    "Talent Management",
+    "Recruiting",
+    "Total Rewards",
+    "Payroll services providers",
+    "HR management suites",
+    "Workforce management",
+    "Time tracking",
+    "Talent management software",
+    "Recruiting software",
+    "Talent acquisition suites",
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Core HR Software",
+    "Travel & Expense Services",
+    "Recruiting Services",
+    "people profiles",
+    "organisation charts",
+    "employee benefits",
+    "documents",
+    "time and attendance",
+    "compliance",
+    "tax regulations",
+    "international delivery model",
+    "local support",
+    "flexible working",
+    "international working environment",
+    "HR administration"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR professionals",
+    "Payroll professionals",
+    "Employees (for travel & expense claims, time & attendance)"
+  ],
+  "compliance_features": [
+    "Compliance management within Core HR",
+    "Specialized knowledge of local regulations for Travel & Expense Services",
+    "Support with subsequent tax regulations for Travel & Expense"
+  ],
+  "_weight": 1
+}

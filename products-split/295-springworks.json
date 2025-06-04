@@ -1,0 +1,115 @@
+{
+  "id": 295,
+  "name": "Springworks",
+  "description": "Springworks is the embodiment of our vision and ambition to revolutionise the HR landscape with products that serve businesses in the most human way.\n We are leading the world to the future of HR which should have been ours already. We are bringing together technology, intelligence and human emotion.We are changing the way we work. We are Springworks.",
+  "features": [
+    "WORK FROM ANYWHERE",
+    "FLEXIBLE WORK TIMINGS",
+    "FEEDBACK CULTURE"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Recruiting",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software",
+    "Recruiting software",
+    "Onboarding software"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting"
+  ],
+  "headquarter": "Santa Monica, CA",
+  "launch_date": "2014",
+  "order": 20258,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Redefining the future of HR today",
+  "ProductId": null,
+  "ShortDescription": "Springworks is the embodiment of our vision and ambition to revolutionise the HR landscape with products that serve businesses in the most human way.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:46.678Z",
+  "enhanced_description": "Springworks is an HR technology platform dedicated to revolutionizing the HR landscape with human-centric products. As a comprehensive HRMS/HCM solution, it supports core HR functions, recruiting, and onboarding processes. Key features include capabilities for 'WORK FROM ANYWHERE' environments, 'FLEXIBLE WORK TIMINGS', and fostering a robust 'FEEDBACK CULTURE'. The platform is specifically designed to boost hiring manager confidence and productivity.",
+  "key_use_cases": [
+    "Core HR administration and management",
+    "Recruitment process management",
+    "New hire onboarding management",
+    "Facilitating flexible and remote work arrangements",
+    "Promoting and managing a continuous feedback culture",
+    "Improving hiring manager efficiency and confidence"
+  ],
+  "competitive_advantages": [
+    "Human-centric approach to HR technology",
+    "Support for modern flexible and remote work models",
+    "Emphasis on fostering a positive feedback culture"
+  ],
+  "hr_functions_supported": [
+    "Core HR",
+    "Human Capital Management (HCM)",
+    "Recruiting",
+    "Onboarding",
+    "Workforce Management (flexible/remote work)",
+    "Performance Management (feedback)"
+  ],
+  "roi_benefits": [
+    "Increased hiring manager productivity",
+    "Enhanced hiring manager confidence"
+  ],
+  "searchable_keywords": [
+    "Springworks",
+    "HRMS",
+    "HCM",
+    "Recruiting software",
+    "Onboarding software",
+    "Core HR Software",
+    "Hiring",
+    "Recruitment",
+    "Work From Anywhere",
+    "Flexible Work Timings",
+    "Feedback Culture",
+    "HR technology",
+    "Human Resources",
+    "Talent Acquisition",
+    "Employee Experience",
+    "Remote Work Solutions",
+    "Flexible Work Management"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "HR Administrators",
+    "Recruiters",
+    "Hiring Managers",
+    "Employees",
+    "Team Managers"
+  ],
+  "_weight": 1
+}

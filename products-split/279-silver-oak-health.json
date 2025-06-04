@@ -1,0 +1,167 @@
+{
+  "id": 279,
+  "name": "Silver Oak Health",
+  "description": "Established in 2015, Silver Oak Health is one of the leading Employee Assistance Program (EAP) service provider in the country. The company is based in Bangalore and uses intellectual property from best known Clinical Psychologists and research institutions around the world to develop digital products in India, and provides affordable solutions to customers. Silver Oak Health is an ISO 27001:2013 certified company. Silver Oak Health is providing EAP services to over 200 corporate clients and serves over a million lives in the country. The company provides innovative tools like the EWAP portal and a contemporary app for employees to access counsellors, as well as a digital dashboard for HR managers to monitor the utilisation of EAP services by employees.",
+  "features": [
+    "Silver Oak Health is the trusted EAP provider for companies of all sizes across India",
+    "Providing holistic support to employees nationwide",
+    "Silver Oak Health is ISO 27001 certified which underscores our commitment to maintaining the highest standards of information security."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee happiness"
+  ],
+  "headquarter": "Bangalore, Karnataka",
+  "launch_date": "2015",
+  "order": 20244,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "BUILDING RESILIENT, \n MINDFUL & SAFE ORGANISATIONS",
+  "ProductId": null,
+  "ShortDescription": "Silver Oak Health is based in Bangalore and uses intellectual property from best known Clinical Psychologists and research institutions around the world to develop digital products in India, and provides affordable solutions to customer",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Area of Expertise",
+      "sequence": 0,
+      "description": "Employee Assistance Program (EAP) provider in India"
+    },
+    {
+      "name": "Services Offered",
+      "sequence": 1,
+      "description": "Phone and face-to-face counseling, workshops, and digital stress management programs"
+    },
+    {
+      "name": "Empowering Employee Well-being:",
+      "sequence": 2,
+      "description": "Silver Oak Health is a leading Employee Assistance Program (EAP) provider in India. We partner with companies of all sizes to help them create a happier, healthier, and more productive workforce."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:31.899Z",
+  "enhanced_description": "Silver Oak Health, established in 2015 and headquartered in Bangalore, is a leading Employee Assistance Program (EAP) provider in India. They leverage intellectual property from renowned Clinical Psychologists and research institutions globally to develop affordable digital products. The company is ISO 27001:2013 certified, underscoring its commitment to maintaining the highest standards of information security. Serving over 200 corporate clients and supporting more than a million lives across the country, Silver Oak Health offers holistic EAP services. These services include phone and face-to-face counseling, workshops, and digital stress management programs. Their innovative digital tools comprise an EWAP portal and a contemporary mobile app for employees to easily access counsellors, along with a digital dashboard for HR managers to monitor EAP service utilization. Silver Oak Health is trusted by companies of all sizes across India to build resilient, mindful, and safe organizations, aiming to improve overall employee happiness and engagement.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee mental health and well-being support",
+    "Confidential counseling services (phone and face-to-face)",
+    "Stress management programs",
+    "Workshops for employee development and resilience",
+    "Digital access to EAP services via web portal and mobile app",
+    "Monitoring EAP utilization by HR managers",
+    "Improving employee happiness and engagement"
+  ],
+  "competitive_advantages": [
+    "Leading EAP provider in India",
+    "Solutions backed by intellectual property from clinical psychologists and research institutions",
+    "Offers affordable EAP solutions",
+    "ISO 27001:2013 certified, demonstrating high information security standards",
+    "Extensive client base (200+ corporate clients, 1M+ lives served)",
+    "Innovative digital tools (EWAP portal, employee app, HR dashboard)",
+    "Provides holistic support including phone, face-to-face, workshops, and digital programs",
+    "Supports companies of all sizes, including global enterprises"
+  ],
+  "implementation_scenarios": [
+    "Service-based model with access to digital platforms (web portal, mobile application)",
+    "Subscription-based access to EAP services and digital tools"
+  ],
+  "hr_functions_supported": [
+    "Employee Well-being Management",
+    "Mental Health Support",
+    "Benefits Administration",
+    "HR Analytics (EAP utilization)",
+    "Workforce Engagement",
+    "Health and Safety"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Enhanced employee well-being and mental health",
+    "Increased workforce productivity",
+    "Contribution to building resilient and mindful organizations",
+    "Cost-effective employee support solutions",
+    "Improved organizational safety"
+  ],
+  "searchable_keywords": [
+    "Silver Oak Health",
+    "Employee Assistance Program",
+    "EAP",
+    "India",
+    "Bangalore",
+    "corporate EAP",
+    "employee well-being",
+    "mental health support",
+    "counseling",
+    "psychological support",
+    "stress management",
+    "digital EAP",
+    "EWAP portal",
+    "employee app",
+    "HR dashboard",
+    "ISO 27001",
+    "information security",
+    "holistic support",
+    "employee happiness",
+    "employee engagement",
+    "benefits administration",
+    "health & safety",
+    "workforce productivity",
+    "organizational resilience",
+    "affordable solutions"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Managers"
+  ],
+  "deployment_options": [
+    "SaaS",
+    "Cloud-based"
+  ],
+  "compliance_features": [
+    "ISO 27001:2013 certification"
+  ],
+  "scalability_features": [
+    "Proven ability to serve over a million lives",
+    "Supports over 200 corporate clients",
+    "Capable of serving Global and Large Enterprises"
+  ],
+  "security_features": [
+    "ISO 27001:2013 certified",
+    "Commitment to maintaining the highest standards of information security"
+  ],
+  "_weight": 1
+}

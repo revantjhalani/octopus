@@ -1,0 +1,165 @@
+{
+  "id": 877,
+  "name": "Middle Earth HR",
+  "description": "Middle Earth HR was started 25 years ago in Dec 1996 . Over the first few years Middle Earth HR started as a general Hr services company which slowly evolved to focus on HR, L&D and leadership certification programs by 2007. Since then Middle Earth HR grew in leaps and bounds to become Asia and Africa's leading L&D organization focusing on supporting these communities with practical, high quality and value for money certifications. Middle earth is built on providing our learners with targeted learning journeys which create a wow experience with a highly supportive environment. Today we offer more than 40 certifications which allow working professionals belonging to the HR, L&D and leadership community to build credible learning journeys to grow careers, build best practice based system in their organizations and learn cutting edge training subjects. Middle earth offers 6 distinct types of certifications.",
+  "features": [
+    "PROVIDING VERIFIABLE IMPACT AND TRANSFER OF LEARNING TO WORKPLACE     ",
+    "HAVING BLENDED DELIVERY SKILLS IN E-LEARNING, OUTBOUND, CLASS ROOM, VILT AND COACHING",
+    "HAVING OUR OWN STUDIO TO DEVELOP E-LEARNING CONTENT"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Course authoring",
+    "Learning Experience Systems (LXPs)"
+  ],
+  "tags": [
+    "Learning efficiency",
+    "Continuous learning",
+    "Adaptive learning",
+    "Employee engagement"
+  ],
+  "headquarter": "Hyderabad, Telangana",
+  "launch_date": "1997",
+  "order": 20830,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Be the best that You can be",
+  "ProductId": null,
+  "ShortDescription": "Middle Earth HR (MEHR) is the world's 7th largest practical HR training providing company. Recently it has started a new wing which provides leadership certification courses.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Various Topics",
+      "sequence": 0,
+      "description": "The certifications cover a variety of topics including talent management, analytics, and coaching."
+    },
+    {
+      "name": "Easy Accessibility ",
+      "sequence": 1,
+      "description": "The certifications are offered in a blended format, live zoom classes, and some are online."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:36:11.113Z",
+  "enhanced_description": "Middle Earth HR, launched in December 1996, initially offered general HR services and evolved by 2007 to specialize in HR, L&D, and leadership certification programs. Recognized as Asia and Africa's leading L&D organization and the world's 7th largest practical HR training company, MEHR provides over 40 certifications. These certifications are designed to offer practical, high-quality, and value-for-money learning journeys for working professionals in HR, L&D, and leadership, enabling them to advance careers, implement best practices, and learn cutting-edge subjects across topics such as talent management, analytics, and coaching. The programs are delivered through a comprehensive blended format including e-learning, outbound training, classroom sessions, Virtual Instructor-Led Training (VILT), and coaching, with live Zoom classes and other online options. Middle Earth HR emphasizes verifiable impact and the transfer of learning to the workplace, supported by its own studio for e-learning content development.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Career development for HR, L&D, and leadership professionals",
+    "Implementation of best practice-based systems in organizations",
+    "Acquisition of cutting-edge training subjects and skills",
+    "Accelerating skill development and learning efficiency",
+    "Ensuring verifiable impact and transfer of learning to the workplace",
+    "Improving employee happiness and engagement through structured learning"
+  ],
+  "competitive_advantages": [
+    "Leading L&D organization in Asia and Africa",
+    "World's 7th largest practical HR training company",
+    "Over 40 certifications covering a variety of topics",
+    "Provides practical, high-quality, and value-for-money certifications",
+    "Offers targeted learning journeys for a 'wow' experience with a highly supportive environment",
+    "Focus on verifiable impact and transfer of learning to the workplace",
+    "Comprehensive blended delivery skills (e-learning, outbound, classroom, VILT, coaching)",
+    "Own studio for e-learning content development ensuring quality control"
+  ],
+  "implementation_scenarios": [
+    "Professional certification for individuals",
+    "Corporate training programs for HR, L&D, and leadership teams",
+    "Blended learning initiatives combining online and in-person formats"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Talent Management",
+    "HR Analytics",
+    "Coaching",
+    "Employee Engagement"
+  ],
+  "technology_stack": [
+    "Zoom"
+  ],
+  "roi_benefits": [
+    "Enhanced career growth for professionals",
+    "Implementation of best practices within organizations",
+    "Acquisition of cutting-edge skills and knowledge",
+    "Verifiable transfer of learning to the workplace, leading to tangible impact",
+    "Accelerated skill development and increased learning efficiency",
+    "Improved employee happiness and engagement through structured L&D programs",
+    "Value for money on certifications"
+  ],
+  "searchable_keywords": [
+    "Middle Earth HR",
+    "MEHR",
+    "HR training",
+    "L&D certification",
+    "leadership certification",
+    "HR services",
+    "skill development",
+    "learning journeys",
+    "talent management",
+    "HR analytics",
+    "coaching certification",
+    "blended learning",
+    "e-learning",
+    "online courses",
+    "classroom training",
+    "VILT",
+    "virtual instructor-led training",
+    "corporate training",
+    "professional development",
+    "continuous learning",
+    "adaptive learning",
+    "employee engagement",
+    "learning efficiency",
+    "Asia L&D",
+    "Africa L&D",
+    "practical HR",
+    "certification programs",
+    "training eLearning software",
+    "course authoring",
+    "LXP",
+    "Learning Experience Systems",
+    "1996",
+    "1997"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "L&D professionals",
+    "Leadership professionals"
+  ],
+  "deployment_options": [
+    "Cloud-based (e-learning, VILT, online classes)",
+    "On-site (classroom, outbound, coaching)"
+  ],
+  "_weight": 1
+}

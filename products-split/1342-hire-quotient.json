@@ -1,0 +1,175 @@
+{
+  "id": 1342,
+  "name": "Hire Quotient",
+  "description": "HireQuotient is a purpose-driven HR tech firm revolutionizing recruitment with people-centric technology. Leveraging Generative AI, Skill Intelligence, and ChatGPT, we simplify the hiring process. Our platform automates outbound recruitment, ensuring a pipeline filled with quality candidates, and shortlists skilled individuals for in-person interviews, making recruitment efficient and meaningful for both recruiters and candidates.",
+  "features": [
+    "\u2018Fuss-free\u2019 Hiring",
+    "Collaborate like Clockwork",
+    "Craft Your Employer Brand"
+  ],
+  "founders": [],
+  "price": [
+    {
+      "name": "",
+      "type": "",
+      "price": "",
+      "description": ""
+    }
+  ],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Recruiting automation software",
+    "Talent acquisition suites",
+    "Video interviewing software"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Interview scheduling",
+    "Talent pipeline"
+  ],
+  "headquarter": "San Francisco, US",
+  "launch_date": "2021",
+  "order": 0,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Assess More, Interview Less, Hire Better",
+  "ProductId": null,
+  "ShortDescription": "A Great Hiring Story Begins with HireQuotient",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": [
+      {
+        "times": [
+          {
+            "description": ""
+          }
+        ],
+        "header": "",
+        "sequence": 0,
+        "videourl": "",
+        "description": ""
+      }
+    ]
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Faster Hiring",
+      "sequence": 0,
+      "description": "Fill open positions 25% quicker with HireQuotient's automated workflows and efficient candidate assessment."
+    },
+    {
+      "name": "More Internal Talent",
+      "sequence": 1,
+      "description": " HireQuotient helps identify top performers within your company, leading to a 30% increase in successful internal hires."
+    },
+    {
+      "name": "Cost-Per-Hire Cut in Half",
+      "sequence": 2,
+      "description": "Reduce your hiring costs by 50%, streamlines the process, reduces wasted time, and helps you find the perfect candidate for the role."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": true,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-11T13:41:06.817Z",
+  "enhanced_description": "HireQuotient is a purpose-driven HR tech firm that revolutionizes recruitment using people-centric technology. It leverages Generative AI, Skill Intelligence, and ChatGPT to simplify the hiring process. The platform automates outbound recruitment to build a pipeline of quality candidates and shortlists skilled individuals for in-person interviews, making recruitment efficient and meaningful for both recruiters and candidates. Key features include 'Fuss-free' Hiring, enabling seamless collaboration, and tools to craft an employer brand. It aims to help organizations hire top talent faster and more efficiently, with reported benefits such as filling open positions 25% quicker, increasing successful internal hires by 30%, and reducing cost-per-hire by 50%.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Talent Acquisition",
+    "Recruitment Automation",
+    "Candidate Sourcing",
+    "Candidate Shortlisting",
+    "Interview Scheduling",
+    "Employer Branding",
+    "Internal Talent Identification",
+    "Collaborative Hiring",
+    "Candidate Assessment",
+    "Expedited Hiring"
+  ],
+  "competitive_advantages": [
+    "Leverages Generative AI, Skill Intelligence, and ChatGPT for advanced recruitment",
+    "Automates outbound recruitment to ensure a quality candidate pipeline",
+    "Efficient shortlisting of skilled individuals for interviews",
+    "Proven quantifiable ROI in faster hiring (25% quicker)",
+    "Proven quantifiable ROI in increased internal hires (30% increase)",
+    "Proven quantifiable ROI in reduced cost-per-hire (50% reduction)",
+    "Focus on people-centric technology to simplify hiring"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Recruitment Automation",
+    "Interview Management",
+    "Candidate Management",
+    "Talent Pipelining",
+    "Employer Branding",
+    "Internal Mobility"
+  ],
+  "technology_stack": [
+    "Generative AI",
+    "Skill Intelligence",
+    "ChatGPT"
+  ],
+  "roi_benefits": [
+    "25% quicker time to fill open positions",
+    "30% increase in successful internal hires",
+    "50% reduction in cost-per-hire"
+  ],
+  "searchable_keywords": [
+    "Hire Quotient",
+    "HR tech",
+    "recruitment",
+    "hiring",
+    "talent acquisition",
+    "recruiting software",
+    "recruiting automation",
+    "talent acquisition suite",
+    "video interviewing",
+    "interview scheduling",
+    "talent pipeline",
+    "generative AI",
+    "skill intelligence",
+    "ChatGPT",
+    "candidate sourcing",
+    "candidate shortlisting",
+    "employer branding",
+    "internal mobility",
+    "internal hires",
+    "cost-per-hire",
+    "time-to-hire",
+    "candidate assessment",
+    "collaborative hiring",
+    "fuss-free hiring"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Hiring Managers",
+    "HR Professionals",
+    "Candidates"
+  ],
+  "_weight": 1
+}

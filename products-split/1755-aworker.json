@@ -1,0 +1,150 @@
+{
+  "id": 1755,
+  "name": "Aworker",
+  "description": "Aworker is a blockchain-based recruitment platform revolutionizing the industry with decentralized assessment, verification, and job-seeking via smart contracts. It caters to sectors like business development, project management, and backend development, offering over 1000 web3 jobs. Explore opportunities with remote companies focusing on blockchain, smart contracts, crypto, DeFi, and NFT technologies, shaping the future of work in decentralized ecosystems.",
+  "features": [
+    "Extensive Job Listings",
+    "Search and Filter Options",
+    "Connection to Growing Remote Companies"
+  ],
+  "founders": [
+    "Anton Cherkasov"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "HRMS / HCM",
+    "Other / technology",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Blockchain",
+    "Human Resource Management Systems (HRMS)"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Data driven Hiring"
+  ],
+  "headquarter": "Tallinn, Harjumaa",
+  "launch_date": "2017",
+  "order": 21341,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Web3 Jobs for you",
+  "ProductId": null,
+  "ShortDescription": "Find your dream job in web3 space in the growing remote companiesDiscover 1000+ web3 jobs at the growing remote companies working on blockchain, smart contracts, crypto, DeFi, NFT, and more. ",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Focus on Web3 Jobs",
+      "sequence": 0,
+      "description": "Find jobs in the hot Web3 space (blockchain, NFTs, Metaverse etc.)"
+    },
+    {
+      "name": "Remote Work Opportunities",
+      "sequence": 1,
+      "description": "Discover dream jobs without location limitations."
+    },
+    {
+      "name": "Access to Growing Market",
+      "sequence": 2,
+      "description": "Join the exciting world of Web3 with a growing pool of opportunities."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-07-11T07:27:33.708Z",
+  "enhanced_description": "Aworker is a blockchain-based recruitment platform designed to revolutionize talent acquisition within the Web3 ecosystem. It facilitates decentralized assessment, verification, and job-seeking via smart contracts, connecting job seekers with over 1000 remote opportunities in blockchain, smart contracts, crypto, DeFi, and NFT technologies. The platform supports key roles like business development, project management, and backend development, aiming to help companies hire top talent faster and more efficiently while offering extensive job listings and advanced search capabilities.",
+  "target_industries": [
+    "Blockchain Technology",
+    "Cryptocurrency",
+    "Decentralized Finance (DeFi)",
+    "NFTs",
+    "Web3 Technology Sector"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Decentralized recruitment and talent acquisition",
+    "Skill and credential verification using blockchain",
+    "Connecting Web3 professionals with remote companies",
+    "Streamlining job search for Web3 roles",
+    "Faster and more efficient hiring for Web3 companies"
+  ],
+  "competitive_advantages": [
+    "Leveraging blockchain and smart contracts for decentralized recruitment",
+    "Specialized focus on Web3 talent and job opportunities",
+    "Facilitating remote work opportunities within the Web3 ecosystem",
+    "Enhanced trust and transparency through decentralized verification"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Recruitment",
+    "Candidate Sourcing",
+    "Candidate Verification"
+  ],
+  "technology_stack": [
+    "Blockchain",
+    "Smart Contracts",
+    "Artificial Intelligence"
+  ],
+  "roi_benefits": [
+    "Faster and more efficient talent acquisition",
+    "Improved quality of hire through decentralized verification",
+    "Access to specialized Web3 talent pool"
+  ],
+  "searchable_keywords": [
+    "Aworker",
+    "blockchain recruitment",
+    "Web3 jobs",
+    "remote work",
+    "talent acquisition",
+    "decentralized hiring",
+    "smart contracts",
+    "crypto jobs",
+    "DeFi jobs",
+    "NFT jobs",
+    "job platform",
+    "recruitment platform",
+    "candidate verification",
+    "AI in HR",
+    "data-driven hiring",
+    "HR tech",
+    "job listings",
+    "search and filter"
+  ],
+  "primary_users": [
+    "Job Seekers",
+    "Recruiters",
+    "Hiring Managers",
+    "Web3 Companies"
+  ],
+  "_weight": 1
+}

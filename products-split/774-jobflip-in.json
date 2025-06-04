@@ -1,0 +1,162 @@
+{
+  "id": 774,
+  "name": "JobFlip.in",
+  "description": "Jobflip core practice areas span broadly across the Marketing & Sales, Maintenance, Operations,Finance,HR, IT & Systems and Administration, Jobflip caters to diverse industries such as Engineering,Supply Chain & Logistics, Consulting, Customer Support, BFSI,Retail and Manufacturing.",
+  "features": [
+    "Wide range of services",
+    "3 month replacement guarantee",
+    "Pre-screened Data or candidates"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Recruiting automation software",
+    "Job boards"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Talent sourcing",
+    "Candidate screening",
+    "Job boards"
+  ],
+  "headquarter": "Mumbai",
+  "launch_date": "2020",
+  "order": 20727,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Jobs for everyone",
+  "ProductId": null,
+  "ShortDescription": "Jobflip caters the job in Pharma, Retail,Banking & Finance, HR, IT & Systems & Administration, Engineering,Supply Chain",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Free Job Search Platform:",
+      "sequence": 0,
+      "description": "JobFlip offers a free platform for job seekers to find employment opportunities. This allows easy access to a wide range of postings without any subscription fees."
+    },
+    {
+      "name": "Diverse Job Openings",
+      "sequence": 1,
+      "description": "The website features jobs across various industries and positions, including marketing, sales, administration, HR, and IT & Systems. This caters to a broad audience with diverse career goals."
+    },
+    {
+      "name": "Online and Offline Recruitment Services",
+      "sequence": 2,
+      "description": "bFlip offers both online job postings and mentions offline recruitment services. This suggests they might connect job seekers with potential employers through other channels as well. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:12.510Z",
+  "enhanced_description": "JobFlip.in is a comprehensive recruitment platform based in Mumbai, India, launched in 2020. It offers both online job postings and offline recruitment services, aiming to help companies fill open positions more quickly. The platform provides a free job search platform for job seekers, featuring a diverse range of opportunities across various industries including Engineering, Supply Chain & Logistics, Consulting, Customer Support, BFSI, Retail, Manufacturing, Pharma, and Banking & Finance. JobFlip's core practice areas cover functions such as Marketing & Sales, Maintenance, Operations, Finance, HR, IT & Systems, and Administration. Employers benefit from services like access to pre-screened candidates and a 3-month replacement guarantee.",
+  "target_industries": [
+    "Engineering",
+    "Supply Chain & Logistics",
+    "Consulting",
+    "Customer Support",
+    "BFSI",
+    "Retail",
+    "Manufacturing",
+    "Pharma",
+    "Banking & Finance"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global"
+  ],
+  "key_use_cases": [
+    "Sourcing candidates for various functional areas (Marketing & Sales, Maintenance, Operations, Finance, HR, IT & Systems, Administration)",
+    "Expediting the hiring process",
+    "Accessing pre-screened talent",
+    "Filling open positions across diverse industries",
+    "Providing job search opportunities for job seekers"
+  ],
+  "competitive_advantages": [
+    "3-month replacement guarantee for hires",
+    "Access to pre-screened candidates",
+    "Offers both online and offline recruitment services",
+    "Free job search platform for job seekers"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Candidate Management"
+  ],
+  "roi_benefits": [
+    "Faster time-to-hire",
+    "Reduced risk of bad hires",
+    "Reduced recruitment effort and cost"
+  ],
+  "searchable_keywords": [
+    "JobFlip.in",
+    "JobFlip",
+    "Recruiting",
+    "Staffing",
+    "Recruitment automation",
+    "Job boards",
+    "Hiring speed",
+    "Talent sourcing",
+    "Candidate screening",
+    "Job search",
+    "Online recruitment",
+    "Offline recruitment",
+    "Pre-screened candidates",
+    "Replacement guarantee",
+    "Marketing jobs",
+    "Sales jobs",
+    "Maintenance jobs",
+    "Operations jobs",
+    "Finance jobs",
+    "HR jobs",
+    "IT jobs",
+    "Systems jobs",
+    "Administration jobs",
+    "Engineering jobs",
+    "Supply Chain jobs",
+    "Logistics jobs",
+    "Consulting jobs",
+    "Customer Support jobs",
+    "BFSI jobs",
+    "Retail jobs",
+    "Manufacturing jobs",
+    "Pharma jobs",
+    "Banking jobs",
+    "Mumbai recruitment",
+    "India jobs"
+  ],
+  "primary_users": [
+    "Employers",
+    "Recruiters",
+    "Job Seekers"
+  ],
+  "deployment_options": [
+    "Web-based"
+  ],
+  "_weight": 1
+}

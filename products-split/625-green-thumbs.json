@@ -1,0 +1,131 @@
+{
+  "id": 625,
+  "name": "Green Thumbs",
+  "description": "Green thumb provide customized service that your company requires. Our reality based thinking takes the guesswork out of making the best decisions about your bottom-line. We help organizations grow. Whether it\u2019s your people or business in general, GreenThumbs empowers you in every way.",
+  "features": [
+    "Leading edge technology to gather",
+    "360 feedback solution",
+    "Convert employee into brand ambassador"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Diversity and inclusion",
+    "Learning analytics"
+  ],
+  "headquarter": "Delhi",
+  "launch_date": "2012",
+  "order": 20582,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Talent Search, Talent Assessments, 360 Degree Appraisals, Employees Engagement Surveys & related solutions.",
+  "ProductId": null,
+  "ShortDescription": "With Green Thumbs, you ensure a high-performance, value-added partner that is professional, knowledgeable and committed to your success.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "360 Degree Feedback",
+      "sequence": 0,
+      "description": "GreenThumbs offers 360-degree feedback surveys, which can help companies identify areas for improvement and track employee progress."
+    },
+    {
+      "name": "Scientifically Driven Recruitment",
+      "sequence": 1,
+      "description": "GreenThumbs uses scientifically designed assessments and surveys to help companies select the most high-performing candidates."
+    },
+    {
+      "name": "Talent Acquisition Expertise",
+      "sequence": 2,
+      "description": "GreenThumbs is a recruitment firm that offers a variety of services to help companies find and hire the best talent"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:31:22.129Z",
+  "enhanced_description": "Green Thumbs, established in 2012, is an HR technology and consulting service provider offering customized solutions to help organizations grow their people and business. They specialize in talent management, learning & development, and diversity & inclusion. Key offerings include 360-degree feedback solutions, scientifically designed assessments for talent acquisition and selection, and employee engagement surveys. Green Thumbs aims to empower companies to build high-performance workforces, foster diversity, and convert employees into brand ambassadors.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Talent acquisition and recruitment (including scientifically driven assessments)",
+    "360-degree feedback and performance appraisals",
+    "Employee engagement surveys",
+    "Corporate learning and development (including LMS solutions)",
+    "Diversity and inclusion initiatives",
+    "Employee branding and advocacy programs"
+  ],
+  "competitive_advantages": [
+    "Customized service approach",
+    "Scientifically designed assessments for recruitment and talent selection",
+    "Reality-based thinking for strategic HR decisions"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Talent Acquisition",
+    "Performance Management (360-degree appraisals)",
+    "Employee Engagement",
+    "Diversity and Inclusion"
+  ],
+  "roi_benefits": [
+    "Improved employee performance",
+    "Enhanced talent acquisition outcomes",
+    "Increased employee engagement",
+    "Support for building a more diverse and inclusive workforce",
+    "Fostering employee advocacy (brand ambassadorship)"
+  ],
+  "searchable_keywords": [
+    "Green Thumbs",
+    "HR Consulting",
+    "Talent Management",
+    "Learning and Development",
+    "360-degree Feedback",
+    "Talent Acquisition",
+    "Recruitment Assessments",
+    "Employee Engagement",
+    "Diversity and Inclusion",
+    "Corporate LMS",
+    "Training Solutions",
+    "HR Analytics",
+    "Performance Appraisals",
+    "Employee Surveys",
+    "Delhi HR"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Talent Acquisition Teams",
+    "Learning & Development Managers",
+    "Business Leaders"
+  ],
+  "_weight": 1
+}

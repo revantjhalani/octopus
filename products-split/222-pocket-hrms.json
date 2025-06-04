@@ -1,0 +1,162 @@
+{
+  "id": 222,
+  "name": "Pocket HRMS",
+  "description": "Pocket HRMS understands that a company's success hinges on how it manages its employees. We created Pocket HRMS to align with this philosophy, offering more than just a business partnership. Powered by advanced cloud technology, it enhances HR operations with transparency, efficiency, and strategic insights, boosting productivity. Invest wisely in Pocket HRMS to transform your HR department and elevate your business outcomes like never before.",
+  "features": [
+    "Employee Self Service",
+    "Real-time Analytics",
+    "Advanced Data Security"
+  ],
+  "founders": [
+    "Kumar Siddhartha",
+    "Jitendra Somani\t"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Resource Management Systems (HRMS)"
+  ],
+  "tags": [
+    "Employee satisfaction",
+    "Employee benefits"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2013",
+  "order": 20188,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Empowering Businesses with smHRt\u00ae Solutions",
+  "ProductId": null,
+  "ShortDescription": "Futuristic Cloud-HRMS powered by Artificial Intelligence for Digital Bharat 2.0",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "AI-based Cloud HRMS",
+      "sequence": 0,
+      "description": "24/7 Microsoft Azure-based Operations with easy-to-use Portals for HR and Employees."
+    },
+    {
+      "name": "Expansive Integrations",
+      "sequence": 1,
+      "description": "Integration with WhatsApp, Google Meet, Zoom, and more, for Streamlined Simplicity."
+    },
+    {
+      "name": "Modular Deployment",
+      "sequence": 2,
+      "description": "Highly Flexible Quick Implementation Architecture for Maximum ROI for SMEs & Start-ups."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:41.652Z",
+  "enhanced_description": "Pocket HRMS, an AI-based Cloud HRMS empowering businesses with smHRt\u00ae Solutions, recognizes that successful companies prioritize effective employee management. This futuristic Cloud-HRMS, powered by Artificial Intelligence for Digital Bharat 2.0, goes beyond a typical business partnership. It leverages advanced cloud technology, specifically 24/7 Microsoft Azure-based operations, to enhance HR operations with transparency, efficiency, and strategic insights, boosting productivity. It offers easy-to-use portals for HR and employees, features like Employee Self Service, Real-time Analytics, and Advanced Data Security. With expansive integrations including WhatsApp, Google Meet, and Zoom, and a highly flexible, modular deployment architecture, Pocket HRMS aims to deliver maximum ROI for SMEs and Start-ups, transforming HR departments and elevating business outcomes.",
+  "ideal_company_sizes": [
+    "Small and Medium-sized Enterprises (SMEs)",
+    "Start-ups"
+  ],
+  "key_use_cases": [
+    "Streamlining HR operations",
+    "Providing employee self-service",
+    "Gaining real-time HR insights",
+    "Improving HR efficiency and transparency",
+    "Boosting organizational productivity",
+    "Supporting strategic HR decision-making"
+  ],
+  "competitive_advantages": [
+    "AI-powered Cloud HRMS",
+    "24/7 Microsoft Azure-based operations",
+    "Easy-to-use portals for HR and employees",
+    "Extensive integration capabilities (e.g., WhatsApp, Google Meet, Zoom)",
+    "Modular and flexible deployment architecture",
+    "Quick implementation for maximum ROI",
+    "Advanced data security",
+    "Provides strategic HR insights"
+  ],
+  "implementation_scenarios": [
+    "Modular deployment (starting with core modules and expanding)",
+    "Quick implementation"
+  ],
+  "hr_functions_supported": [
+    "Core HR management",
+    "Employee self-service",
+    "HR analytics and reporting",
+    "Employee benefits administration",
+    "Employee satisfaction support"
+  ],
+  "technology_stack": [
+    "Cloud technology",
+    "Artificial Intelligence (AI)",
+    "Microsoft Azure"
+  ],
+  "integration_capabilities": [
+    "WhatsApp",
+    "Google Meet",
+    "Zoom",
+    "General business communication and collaboration platforms"
+  ],
+  "roi_benefits": [
+    "Increased productivity",
+    "Enhanced HR operations efficiency",
+    "Strategic HR insights leading to better business outcomes",
+    "Maximized return on investment (ROI)"
+  ],
+  "searchable_keywords": [
+    "Pocket HRMS",
+    "HRMS",
+    "HCM",
+    "Human Resource Management System",
+    "Cloud HRMS",
+    "AI HRMS",
+    "Artificial Intelligence HR",
+    "HR Technology",
+    "Employee Self Service",
+    "Real-time Analytics",
+    "Advanced Data Security",
+    "HR Operations",
+    "Employee Management",
+    "HR Software",
+    "SME HRMS",
+    "Startup HRMS",
+    "Employee Benefits",
+    "Employee Satisfaction",
+    "Microsoft Azure HR",
+    "Digital Bharat HR",
+    "smHRt Solutions"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Employees"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "security_features": [
+    "Advanced Data Security"
+  ],
+  "_weight": 1
+}

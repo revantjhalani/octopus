@@ -1,0 +1,150 @@
+{
+  "id": 1369,
+  "name": "AIA Singapore",
+  "description": "AIA Singapore is part of the AIA Group, which is the largest independent publicly listed pan-Asian life insurance group in the world and the second largest life insurance company in the world by market capitalisation.\n\nAs a leading company in Singapore, AIA Singapore takes a leadership role in contributing to the nation\u2019s social and economic progress by enabling families to live healthier, longer, better lives. Together with one of Singapore\u2019s biggest and most committed team of AIA Financial Services Consultants, our dedicated staff are united in continually pursuing this goal.\n\n",
+  "features": [
+    "Life insurance",
+    "Retirement planning",
+    "Accident and health insurance",
+    "Wealth management solutions"
+  ],
+  "founders": [],
+  "price": [
+    {
+      "name": "",
+      "type": "",
+      "price": "",
+      "description": ""
+    }
+  ],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee benefits"
+  ],
+  "headquarter": "Hong Kong",
+  "launch_date": "1919",
+  "order": 999,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Healthier, Longer, Better Lives",
+  "ProductId": null,
+  "ShortDescription": "With a focus on providing excellent service to our customers, we partner with individuals, families and corporates in Singapore for a brighter and more prosperous future for all.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": [
+      {
+        "times": [
+          {
+            "description": ""
+          }
+        ],
+        "header": "",
+        "sequence": 0,
+        "videourl": "",
+        "description": ""
+      }
+    ]
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Healthy Living",
+      "sequence": 0,
+      "description": " AIA Singapore is committed to helping people live healthier, longer, better lives"
+    },
+    {
+      "name": "Investment Products ",
+      "sequence": 1,
+      "description": "AIA Singapore also offers investment products."
+    },
+    {
+      "name": "Insurance Products",
+      "sequence": 2,
+      "description": " AIA Singapore offers a variety of insurance products including Health, Life, Critical Illness, Disability Income, and Travel insurance."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": true,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-12T08:39:48.886Z",
+  "enhanced_description": "AIA Singapore, part of the world's largest independent publicly listed pan-Asian life insurance group and second largest life insurance company by market capitalization, is a leading provider in Singapore. Committed to enabling individuals, families, and corporates to live healthier, longer, better lives, AIA Singapore focuses on excellent service. They offer a comprehensive suite of solutions including life insurance, retirement planning, accident and health insurance, and wealth management. Their product offerings include a variety of insurance products such as Health, Life, Critical Illness, Disability Income, and Travel insurance, alongside investment products. The company aims to contribute to national social and economic progress, partnering with businesses to improve employee happiness and engagement through robust total rewards programs.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Providing comprehensive employee benefits packages (life, health, accident insurance)",
+    "Facilitating employee retirement planning",
+    "Offering wealth management solutions for employees as part of total rewards",
+    "Improving employee happiness and engagement through health and financial well-being programs",
+    "Managing health and safety benefits for the workforce"
+  ],
+  "competitive_advantages": [
+    "Largest independent publicly listed pan-Asian life insurance group globally",
+    "Second largest life insurance company globally by market capitalization",
+    "Leading company in Singapore",
+    "One of Singapore\u2019s biggest and most committed teams of Financial Services Consultants"
+  ],
+  "hr_functions_supported": [
+    "Benefits administration",
+    "Employee well-being programs",
+    "Total rewards management",
+    "Retirement planning"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Support for employee well-being (healthier, longer, better lives)"
+  ],
+  "searchable_keywords": [
+    "AIA Singapore",
+    "Life insurance",
+    "Retirement planning",
+    "Accident insurance",
+    "Health insurance",
+    "Wealth management solutions",
+    "Employee benefits",
+    "Total Rewards",
+    "Health & safety providers",
+    "Employee happiness",
+    "Employee engagement",
+    "Financial services",
+    "Investment products",
+    "Critical Illness insurance",
+    "Disability Income insurance",
+    "Travel insurance",
+    "Corporate benefits",
+    "Singapore"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "Employees (as beneficiaries of benefits)"
+  ],
+  "scalability_features": [
+    "Serves global enterprises",
+    "Serves large enterprises",
+    "Positioned as the largest independent publicly listed pan-Asian life insurance group"
+  ],
+  "_weight": 1
+}

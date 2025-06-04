@@ -1,0 +1,143 @@
+{
+  "id": 657,
+  "name": "Hiration",
+  "description": "Hiration is a passionate group of people who are driven to solve your professional problems. Our story goes something like this- we faced a lot of trouble ourselves in finding our true calling. In fact, we followed the path that was 'in vogue' and learnt the hard way that each person has their true calling. Having learned from this, we now truly want to help professionals globally to find their way. Hence, we have started by solving a part of the problem - we help you represent your professional career and achievements in the best possible manner",
+  "features": [
+    "Resume and Cover Letter Builder",
+    "Interview Preparation",
+    "Resume Reviewer"
+  ],
+  "founders": [
+    "Anish Raj Sikka",
+    "Aditya Sharma "
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Hiring best practices",
+    "Hiring tools"
+  ],
+  "headquarter": "Palo Alto, California",
+  "launch_date": "2017",
+  "order": 20611,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "On a mission to help career services and outcome teams improve career outcomes for learners globally!",
+  "ProductId": null,
+  "ShortDescription": "Hiration is on a mission to revolutionize the career services.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Build a Strong Resume with Hiration's Easy-to-Use Tools",
+      "sequence": 0,
+      "description": "Some of the important points are that Hiration offers a resume builder, cover letter templates, and interview prep. Users have said that Hiration\u2019s resume builder is easy to use and creates professional-looking resumes."
+    },
+    {
+      "name": "Get the Edge in Your Job Search with Hiration's AI-Powered Assistance",
+      "sequence": 1,
+      "description": "In addition, Hiration's AI resume review tool can help you improve your resume by suggesting edits."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:31:56.147Z",
+  "enhanced_description": "Hiration is dedicated to revolutionizing career services by empowering career services and outcome teams globally to improve career outcomes for their learners. The platform offers a comprehensive suite of tools designed to help individuals represent their professional career and achievements effectively, including an easy-to-use resume and cover letter builder, interview preparation resources, and an AI-powered resume review tool that provides suggestions for improvement.",
+  "target_industries": [
+    "Education",
+    "Career Development"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Building professional resumes and cover letters",
+    "Preparing individuals for job interviews",
+    "Improving resume quality through AI-powered feedback",
+    "Supporting career services organizations in enhancing learner employability",
+    "Streamlining career document creation for job seekers"
+  ],
+  "competitive_advantages": [
+    "Easy-to-use resume builder that produces professional-looking resumes",
+    "AI-powered resume review for personalized improvement suggestions",
+    "Comprehensive suite of career preparation tools (resume, cover letter, interview prep)"
+  ],
+  "implementation_scenarios": [
+    "Integration into career development programs for educational institutions or career services organizations"
+  ],
+  "hr_functions_supported": [
+    "Recruiting support (candidate-facing)",
+    "Career Development (for learners)"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)"
+  ],
+  "roi_benefits": [
+    "Enhanced quality of candidate resumes and cover letters",
+    "Improved interview preparedness for job seekers",
+    "Better career outcomes for learners",
+    "Streamlined process for career services teams to support job seekers",
+    "Contribution to faster and more efficient hiring processes (by preparing better candidates)"
+  ],
+  "searchable_keywords": [
+    "Hiration",
+    "Resume Builder",
+    "Cover Letter Builder",
+    "Interview Preparation",
+    "Resume Reviewer",
+    "AI Resume Review",
+    "Career Services",
+    "Career Outcomes",
+    "Job Search Tools",
+    "Professional Development",
+    "Employability",
+    "Hiring Tools",
+    "Recruiting Technology",
+    "HR Consulting",
+    "Career Coaching",
+    "Job Application"
+  ],
+  "primary_users": [
+    "Job seekers",
+    "Students",
+    "Career services professionals",
+    "Educational institutions",
+    "Career development centers"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "scalability_features": [
+    "Supports large and global user bases"
+  ],
+  "_weight": 1
+}

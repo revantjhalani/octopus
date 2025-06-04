@@ -1,0 +1,175 @@
+{
+  "id": 1244,
+  "name": "Deloitte",
+  "description": "Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited (\u201cDTTL\u201d), its global network of member firms, and their related entities. DTTL (also referred to as \u201cDeloitte Global\u201d) and each of its member firms are legally separate and independent entities. DTTL does not provide services to clients.",
+  "features": [
+    "Audit & Assurance: Audit is about much more than just the numbers. It\u2019s about attesting to accomplishments and challenges, helping to assure strong foundations for future aspirations. Deloitte illuminates the what, how, and why of change so you\u2019re always ready to act ahead.",
+    "Consulting: Are you ready to innovate and transform your business? By connecting with Deloitte you can imagine, deliver, and run your future, wherever you compete, using the latest technologies, from strategy development through implementation. Because impact isn\u2019t created alone. Together we can make history.",
+    "Financial Advisory: Our end-to-end advisory solutions help unlock and preserve value in mergers and acquisitions, restructuring, investigations and disputes, and drive a greater impact for our clients and society."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Employee engagement software",
+    "Talent management software"
+  ],
+  "tags": [
+    "Hiring manager confidence",
+    "Hiring manager productivity"
+  ],
+  "headquarter": "London, England",
+  "launch_date": "1845",
+  "order": 21072,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Deloitte is a leading global provider of audit and assurance, consulting, financial advisory, risk advisory, tax, and related services. ",
+  "ProductId": null,
+  "ShortDescription": "Deloitte India is a leading professional services firm that offers a range of services across various sectors and industries.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Core Business Operations Services",
+      "sequence": 0,
+      "description": "Bringing new efficiencies to the heart of your business."
+    },
+    {
+      "name": "Human Capital",
+      "sequence": 1,
+      "description": "Deloitte\u2019s Human Capital services leverage research, analytics, and industry insights to help design and execute critical programs from business driven HR to innovative talent, leadership, and change programs."
+    },
+    {
+      "name": "Cultivate evergreen value with AI and data",
+      "sequence": 2,
+      "description": "Deloitte\u2019s AI & Data offering delivers people and solutions to cultivate your data as a strategic asset, integrate and scale your AI, and sustain your digital ecosystem - so you can keep innovating and growing."
+    },
+    {
+      "name": "Consulting Services for Industries",
+      "sequence": 3,
+      "description": "Our industry consultants help address your most challenging issues by providing strategic, financial, operational, human capital, and IT services."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:13:03.721Z",
+  "enhanced_description": "Deloitte is a leading global professional services firm offering a comprehensive range of services, including audit & assurance, consulting, financial advisory, risk advisory, and tax. Within the human capital domain, Deloitte provides specialized services that leverage research, analytics, and industry insights to design and execute critical programs. These programs encompass business-driven HR strategies, innovative talent management, leadership development, and organizational change initiatives. The firm also offers advanced AI & Data capabilities to help clients cultivate data as a strategic asset, integrate and scale AI solutions, and sustain their digital ecosystems for continuous innovation and growth. Deloitte's consulting services are tailored to address challenging industry-specific issues through strategic, financial, operational, human capital, and IT expertise. They serve a diverse client base, from small to global and large enterprises.",
+  "ideal_company_sizes": [
+    "Small Business",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Attesting to accomplishments and challenges in business operations (Audit & Assurance)",
+    "Business innovation and transformation, from strategy development through implementation (Consulting)",
+    "Unlocking and preserving value during mergers and acquisitions, restructuring, investigations, and disputes (Financial Advisory)",
+    "Designing and executing critical HR programs, talent initiatives, leadership development, and change management efforts (Human Capital Services)",
+    "Leveraging AI and data to cultivate strategic assets, integrate AI, and sustain digital ecosystems",
+    "Addressing complex industry-specific challenges through strategic, financial, operational, human capital, and IT services",
+    "Boosting hiring manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "Leading global provider of professional services",
+    "Global network of member firms",
+    "Leverages research, analytics, and industry insights in Human Capital services",
+    "Utilizes the latest technologies for strategy development and implementation",
+    "Offers end-to-end advisory solutions",
+    "Provides expertise in cultivating data as a strategic asset, integrating AI, and sustaining digital ecosystems",
+    "Comprehensive service offering across audit, consulting, financial advisory, risk advisory, and tax"
+  ],
+  "implementation_scenarios": [
+    "Strategy development through implementation of business and technology solutions",
+    "Design and execution of critical HR programs and initiatives"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Employee Engagement",
+    "HR Strategy",
+    "Leadership Development",
+    "Change Management",
+    "Talent Acquisition",
+    "HR Analytics"
+  ],
+  "technology_stack": [
+    "AI",
+    "Data"
+  ],
+  "integration_capabilities": [
+    "Integration of AI solutions",
+    "Sustainability of digital ecosystems"
+  ],
+  "roi_benefits": [
+    "Assurance of strong foundations for future aspirations",
+    "Business innovation and transformation",
+    "Unlocking and preserving value",
+    "Driving greater impact for clients and society",
+    "Bringing new efficiencies to business operations",
+    "Boosting hiring manager confidence",
+    "Increasing hiring manager productivity",
+    "Cultivating data as a strategic asset",
+    "Enabling continuous innovation and growth"
+  ],
+  "searchable_keywords": [
+    "Deloitte",
+    "DTTL",
+    "Professional services",
+    "Global network",
+    "Audit",
+    "Assurance",
+    "Consulting",
+    "Financial Advisory",
+    "Risk Advisory",
+    "Tax",
+    "Human Capital",
+    "HR programs",
+    "Talent management",
+    "Leadership",
+    "Change programs",
+    "AI",
+    "Data",
+    "Digital ecosystem",
+    "Business transformation",
+    "Strategy development",
+    "Implementation",
+    "Mergers and Acquisitions",
+    "Restructuring",
+    "Investigations",
+    "Disputes",
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "Employee engagement"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Leaders",
+    "Business Leaders",
+    "Executives"
+  ],
+  "scalability_features": [
+    "Serves global enterprises",
+    "Capable of integrating and scaling AI solutions"
+  ],
+  "_weight": 1
+}

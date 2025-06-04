@@ -1,0 +1,150 @@
+{
+  "id": 143,
+  "name": "Mednefits",
+  "description": "Mednefits is a B2B employee medical benefits platform that simplifies employee care with automated, affordable, and accessible benefits. With over 1,000 health and wellness partners in Singapore and Malaysia, Mednefits optimizes and disrupts the employee benefits market. We use tech-driven solutions to empower companies to provide better benefits, creating happier and healthier workplaces. ",
+  "features": [
+    "Pay per basis model",
+    "Free Sign up",
+    "Works with existing HR Policy"
+  ],
+  "founders": [
+    "Chris Teo",
+    "Clarence Hexiang Zhang",
+    "Hadiyanto Wibawa"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Health & safety providers",
+    "Corporate wellness software"
+  ],
+  "tags": [
+    "Employee happiness",
+    "Employee well being"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2015",
+  "order": 20110,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Employee Medical Benefits made easy",
+  "ProductId": null,
+  "ShortDescription": "All-in-one outpatient and flexi benefits platform",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Direct access to a benefits marketplace",
+      "sequence": 0,
+      "description": "Unlock cashless experience across 7 benefits categories at over 5,000+ vetted providers."
+    },
+    {
+      "name": "Benefits administration & management",
+      "sequence": 1,
+      "description": "Solutions that adapt to your company policies, handle employee movement seamlessly, and provide real-time utilisation tracking."
+    },
+    {
+      "name": "Customisation",
+      "sequence": 2,
+      "description": "Design a custom benefits policy that caters to the needs of your diverse workforce."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:13.215Z",
+  "enhanced_description": "Mednefits is a B2B employee medical benefits platform designed to simplify employee care through automated, affordable, and accessible benefits. It operates as an all-in-one outpatient and flexi benefits platform, empowering companies to provide better benefits and foster happier, healthier workplaces. The platform boasts an extensive network of over 1,000 health and wellness partners across Singapore and Malaysia, providing direct access to a benefits marketplace with a cashless experience across 7 benefits categories and over 5,000 vetted providers. Mednefits offers comprehensive benefits administration and management solutions that adapt to existing company policies, seamlessly handle employee movement, and provide real-time utilization tracking. It also enables high levels of customization, allowing companies to design custom benefits policies that cater to the diverse needs of their workforce. The service operates on a flexible 'pay per basis' model and offers free sign-up, designed to work seamlessly with existing HR policies.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Managing employee medical and flexible benefits",
+    "Providing direct access to a health and wellness provider marketplace",
+    "Administering and tracking employee benefits utilization",
+    "Customizing employee benefits policies",
+    "Streamlining employee benefits access and experience",
+    "Integrating new benefit programs with existing HR policies"
+  ],
+  "competitive_advantages": [
+    "Automated, affordable, and accessible benefits delivery",
+    "Disruptive, tech-driven approach to employee benefits",
+    "Flexible 'pay per basis' pricing model",
+    "Free sign-up",
+    "Compatibility with existing HR policies",
+    "Extensive direct-access benefits marketplace with 5,000+ providers and cashless experience",
+    "Comprehensive benefits administration and real-time utilization tracking",
+    "High degree of benefits policy customisation"
+  ],
+  "implementation_scenarios": [
+    "Integration with existing HR policies and frameworks",
+    "Deployment as an add-on to current HR operations for benefits management"
+  ],
+  "hr_functions_supported": [
+    "Benefits Administration",
+    "Compensation & Total Rewards Management",
+    "Employee Well-being & Wellness Programs"
+  ],
+  "integration_capabilities": [
+    "Compatibility with existing HR policies and frameworks"
+  ],
+  "roi_benefits": [
+    "Cost optimization through automated and affordable benefits",
+    "Improved employee happiness and engagement leading to better retention",
+    "Increased efficiency in benefits administration through automation and real-time tracking",
+    "Enhanced access to a wide network of health and wellness providers for employees",
+    "Flexible cost management with a 'pay per basis' model"
+  ],
+  "searchable_keywords": [
+    "employee medical benefits",
+    "corporate wellness",
+    "health and wellness platform",
+    "flexible benefits",
+    "outpatient benefits",
+    "benefits administration",
+    "total rewards",
+    "employee care",
+    "benefits management",
+    "HR tech",
+    "employee engagement",
+    "employee well-being",
+    "cashless benefits",
+    "benefits marketplace",
+    "pay-per-basis benefits",
+    "customizable benefits",
+    "benefits tracking",
+    "HR policy integration"
+  ],
+  "primary_users": [
+    "HR Administrators",
+    "HR Managers",
+    "Employees (as end-users of benefits)"
+  ],
+  "scalability_features": [
+    "Designed for scalability across small, large, and global enterprises",
+    "Seamless handling of employee movement within the benefits platform"
+  ],
+  "_weight": 1
+}

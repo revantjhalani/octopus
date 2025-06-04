@@ -1,0 +1,132 @@
+{
+  "id": 753,
+  "name": "Interviewer AI",
+  "description": "At Interviewer.AI, we build Explainable AI to bring the most transparent and user-friendly smart hiring solution to your company. We help recruitment teams to identify desirable candidates during the entire talent acquisition process. An Explainable AI approach allows to highlight candidates\u2019 key performance factors and minimize the risk of making biased decisions. The online video interviewing software cuts the time of unnecessary pre-interviews, giving businesses more time to focus on what\u2019s really important \u2013 their company. The software is powered by top-notch AI hiring technology, analyzing key factors of potential candidates, including psychological and technical aspects.",
+  "features": [
+    "Future-ready process with AI",
+    "Custom Hiring solutions",
+    "AI-driven process to enhance efficiency"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Video interviewing software",
+    "Onboarding software",
+    "Machine learning HR"
+  ],
+  "tags": [
+    "Interviewing costs",
+    "Hiring automation"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2018",
+  "order": 20706,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Smart Video Recruiter",
+  "ProductId": null,
+  "ShortDescription": "Interviewer.AI is an AI-powered video recruitment software that helps you, pre-screen candidates before scheduling them for face-to-face interviews. It also offers an interview-coaching platform for students and universities.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:47.545Z",
+  "enhanced_description": "Interviewer AI provides an Explainable AI-powered online video interviewing software designed to streamline the talent acquisition process. It helps recruitment teams identify desirable candidates by analyzing key factors, including psychological and technical aspects, through its top-notch AI hiring technology. The solution aims to cut down unnecessary pre-interview time, pre-screen candidates effectively before face-to-face interviews, and minimize biased decisions by highlighting candidate performance factors. Additionally, Interviewer AI offers an interview-coaching platform specifically for students and universities.",
+  "key_use_cases": [
+    "Candidate Pre-screening",
+    "Automated Video Interviewing",
+    "Bias Reduction in Hiring",
+    "Candidate Performance Factor Analysis (psychological & technical)",
+    "Streamlining Talent Acquisition",
+    "Interview Coaching (for students and universities)"
+  ],
+  "competitive_advantages": [
+    "Explainable AI for transparent and unbiased hiring decisions",
+    "Reduction of unnecessary pre-interview time",
+    "Comprehensive AI analysis of psychological and technical candidate factors",
+    "Customizable hiring solutions",
+    "Focus on future-ready and efficient AI-driven processes"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Video Interviewing",
+    "Candidate Pre-screening",
+    "Candidate Assessment",
+    "Onboarding"
+  ],
+  "technology_stack": [
+    "AI",
+    "Machine Learning",
+    "Explainable AI"
+  ],
+  "roi_benefits": [
+    "Reduced cost of hiring qualified employees",
+    "Time savings in pre-interview stages",
+    "Improved hiring efficiency",
+    "Minimized risk of biased hiring decisions",
+    "Identification of desirable candidates"
+  ],
+  "searchable_keywords": [
+    "Interviewer AI",
+    "Explainable AI",
+    "AI hiring",
+    "recruitment software",
+    "video interviewing",
+    "online interviewing",
+    "candidate pre-screening",
+    "talent acquisition",
+    "hiring automation",
+    "bias reduction",
+    "candidate assessment",
+    "psychological assessment",
+    "technical assessment",
+    "interview coaching",
+    "recruiting",
+    "machine learning HR",
+    "onboarding software",
+    "smart hiring",
+    "efficiency",
+    "cost reduction",
+    "HR technology",
+    "future-ready HR",
+    "smart video recruiter"
+  ],
+  "primary_users": [
+    "Recruitment Teams",
+    "Hiring Managers",
+    "Talent Acquisition Specialists",
+    "Students",
+    "Universities"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "SaaS"
+  ],
+  "_weight": 1
+}

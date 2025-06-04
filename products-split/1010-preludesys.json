@@ -1,0 +1,154 @@
+{
+  "id": 1010,
+  "name": "PreludeSys",
+  "description": "We work with young and mature enterprises in a diverse set of verticals. As a trusted technology partner, we go the extra mile in helping our clients leverage technology and outsourcing using our technical expertise and industry experience. Our focus is on enhancing the business value through digital transformation by applying cloud, mobile, and AI-related technologies.",
+  "features": [
+    "Offer cloud migration",
+    "Privacy regulation",
+    "Offer higher ROI"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Internet of things"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Employee well being",
+    "Employee recognition"
+  ],
+  "headquarter": "null",
+  "launch_date": "1999",
+  "order": 20953,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Real potential, Realised",
+  "ProductId": null,
+  "ShortDescription": "PreludeSys is an IT services company that specializes in Digital Transformation through Microsoft Azure",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Global Technology Solutions Provider:",
+      "sequence": 0,
+      "description": " PreludeSys is a global technology solutions provider founded in 1998. They offer a variety of services including Enterprise Application Integration, Application Modernization and Cloud Migration, Business Intelligence and Data Analytics, Business Application Services "
+    },
+    {
+      "name": "Award-Winning Workplace",
+      "sequence": 1,
+      "description": "PreludeSys has been certified as a 'Great Place to Work' in 2021, 2022, and 2023."
+    },
+    {
+      "name": "Diverse Clientele",
+      "sequence": 2,
+      "description": " PreludeSys works with both young and mature enterprises across the globe in a diverse set of verticals."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:38:44.097Z",
+  "enhanced_description": "PreludeSys is a global IT services and technology solutions provider founded in 1999, specializing in Digital Transformation through Microsoft Azure. They partner with young and mature enterprises across diverse verticals to enhance business value by leveraging technical expertise and industry experience. Their services include Enterprise Application Integration, Application Modernization, Cloud Migration, Business Intelligence and Data Analytics, and Business Application Services, applying cloud, mobile, and AI-related technologies, with a focus on privacy regulation compliance and delivering higher ROI.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Digital Transformation",
+    "Cloud Migration",
+    "Enterprise Application Integration",
+    "Application Modernization",
+    "Business Intelligence and Data Analytics",
+    "Business Application Services",
+    "Leveraging AI for business value",
+    "Leveraging IoT for business value"
+  ],
+  "competitive_advantages": [
+    "Trusted technology partner",
+    "Deep technical expertise and industry experience",
+    "Specialization in Microsoft Azure for Digital Transformation",
+    "Global reach as a technology solutions provider",
+    "Focus on achieving higher ROI for clients"
+  ],
+  "implementation_scenarios": [
+    "Outsourcing",
+    "Managed Services",
+    "Project-based Implementation"
+  ],
+  "technology_stack": [
+    "Microsoft Azure",
+    "Cloud technologies",
+    "Mobile technologies",
+    "Artificial Intelligence (AI)",
+    "Internet of Things (IoT)"
+  ],
+  "integration_capabilities": [
+    "Enterprise Application Integration"
+  ],
+  "roi_benefits": [
+    "Improved business value",
+    "Higher Return on Investment (ROI)"
+  ],
+  "searchable_keywords": [
+    "PreludeSys",
+    "IT services",
+    "Digital Transformation",
+    "Microsoft Azure",
+    "Cloud migration",
+    "Artificial Intelligence",
+    "AI",
+    "Internet of Things",
+    "IoT",
+    "Cloud technologies",
+    "Mobile technologies",
+    "Enterprise Application Integration",
+    "Application Modernization",
+    "Business Intelligence",
+    "Data Analytics",
+    "Business Application Services",
+    "Technology solutions",
+    "Outsourcing",
+    "Privacy regulation",
+    "ROI",
+    "Business value",
+    "Employee benefits",
+    "Employee well being",
+    "Employee recognition",
+    "Global technology"
+  ],
+  "primary_users": [
+    "IT Departments",
+    "Business Leaders",
+    "Executives"
+  ],
+  "compliance_features": [
+    "Privacy regulations"
+  ],
+  "scalability_features": [
+    "Scalable solutions leveraging cloud technologies"
+  ],
+  "_weight": 1
+}

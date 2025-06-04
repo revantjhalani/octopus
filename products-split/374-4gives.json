@@ -1,0 +1,123 @@
+{
+  "id": 374,
+  "name": "4Gives",
+  "description": "4Gives is in the business of growing your business\n Flexible payments solutions for merchants of all sizes",
+  "features": [
+    "Offer financial assistance to your employees for their personal or emergency needs.",
+    "Let your employees shop from thousands of physical or online stores.",
+    "Provide credit and loans to your employees at no cost to you."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Employee recognition software",
+    "Benefits administration services",
+    "Performance management solutions",
+    "Sales compensation software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee happiness",
+    "Employee well being",
+    "Employee happiness programs",
+    "Employee benefits"
+  ],
+  "headquarter": "null",
+  "launch_date": "2020",
+  "order": 20335,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Secured lending services for customers, merchants, and employers.",
+  "ProductId": null,
+  "ShortDescription": "Secured lending services for customers, merchants, and employers",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Payments Solutions",
+      "sequence": 0,
+      "description": "Enhance convenience and boost sales effortlessly."
+    },
+    {
+      "name": "Business Credit Line",
+      "sequence": 1,
+      "description": "Startup capital, cashflow management"
+    },
+    {
+      "name": "Personal Loans",
+      "sequence": 2,
+      "description": "Flexible financing options to meet your individual needs"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:25:35.167Z",
+  "enhanced_description": "4Gives provides secured lending services and flexible payment solutions, enabling employers to offer financial assistance, credit, and loans to their employees for personal or emergency needs. This service is provided at no direct cost to the employer and allows employees to shop from a wide range of physical or online stores. The solution aims to improve employee happiness, engagement, and overall well-being by addressing their financial needs.",
+  "key_use_cases": [
+    "Providing financial assistance to employees for personal needs",
+    "Offering financial assistance to employees for emergency needs",
+    "Extending credit and loans to employees",
+    "Enabling employees to shop at thousands of physical or online stores using provided funds/credit",
+    "Improving employee financial well-being",
+    "Boosting employee happiness and engagement"
+  ],
+  "competitive_advantages": [
+    "Provides credit and loans to employees at no cost to the employer",
+    "Enables employees to shop from thousands of physical or online stores, offering broad flexibility"
+  ],
+  "hr_functions_supported": [
+    "Employee Benefits Administration",
+    "Total Rewards Management",
+    "Employee Financial Well-being",
+    "Employee Engagement"
+  ],
+  "roi_benefits": [
+    "Improve Employee Happiness and Engagement",
+    "Provides a benefit to employees at no direct cost to the employer"
+  ],
+  "searchable_keywords": [
+    "4Gives",
+    "employee financial assistance",
+    "employee loans",
+    "employee credit",
+    "employee benefits",
+    "financial well-being",
+    "employee happiness",
+    "employee engagement",
+    "total rewards",
+    "benefits administration",
+    "employee emergency funds",
+    "secured lending services",
+    "personal loans for employees",
+    "flexible payments solutions",
+    "employee well being programs"
+  ],
+  "primary_users": [
+    "HR Professionals (Employers)",
+    "Employees"
+  ],
+  "_weight": 1
+}

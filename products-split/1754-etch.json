@@ -1,0 +1,186 @@
+{
+  "id": 1754,
+  "name": "Etch",
+  "description": "Etch accelerates business transformation with innovative digital solutions, empowering organizations for over 20 years to revolutionize operations, enhance customer value, and achieve exponential growth. Our strategic approach and swift delivery optimize collaboration and efficiency, pioneering management principles for continuous improvement and breakthrough performance in partnership with clients.",
+  "features": [
+    "We help you to develop a customer-centric strategy that translates your purpose and business objectives into action.",
+    "We make engaging, intuitive experiences that captivate people and drive business impact.",
+    "We help you to connect with your target audience meaningfully, across the full digital channel mix."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "HRMS / HCM",
+    "Other / technology",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Recruiting automation software",
+    "Core HR Software",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Hiring automation",
+    "Data driven Hiring",
+    "Recruiting efficiency"
+  ],
+  "headquarter": "London",
+  "launch_date": "2012",
+  "order": 21342,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Digital transformation at extraordinary speed",
+  "ProductId": null,
+  "ShortDescription": "Your partner for delivering digital customer experiences at scale",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Delivery by design",
+      "sequence": 0,
+      "description": "We combine Design Thinking and Agile Development to create collaborative teams, enabling rapid business change and delivering impressive results in delivery."
+    },
+    {
+      "name": "Community driven",
+      "sequence": 1,
+      "description": "Specialist digital expertise on demand, to help solve any problem for any business. "
+    },
+    {
+      "name": "Intensely collaborative",
+      "sequence": 2,
+      "description": "We encourage frequent experimentation and open communication to achieve rapid problem-solving, fostering continuous innovation and faster, better decision-making."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-07-11T06:55:16.070Z",
+  "enhanced_description": "Etch accelerates business transformation with innovative digital solutions, leveraging over 20 years of experience to empower organizations to revolutionize operations, enhance customer value, and achieve exponential growth. As a partner for delivering digital customer experiences at scale and extraordinary speed, our strategic approach combines Design Thinking and Agile Development ('Delivery by Design'), fostering intensely collaborative environments for rapid business change, continuous innovation, and faster, better decision-making. We specialize in developing customer-centric strategies and crafting engaging, intuitive digital experiences to connect meaningfully with target audiences across the full digital channel mix, ultimately driving significant business impact. Within HR technology, Etch aids in boosting Hiring Manager Confidence and Productivity through solutions for recruiting automation, data-driven hiring, and core HR/HCM functionalities, supported by specialist digital expertise on demand.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerating digital business transformation",
+    "Revolutionizing business operations",
+    "Enhancing customer value",
+    "Achieving exponential business growth",
+    "Optimizing collaboration and efficiency within organizations",
+    "Developing customer-centric strategies",
+    "Creating engaging and intuitive digital experiences",
+    "Connecting with target audiences across digital channels",
+    "Boosting Hiring Manager confidence and productivity",
+    "Implementing and optimizing recruiting automation",
+    "Enabling data-driven hiring practices",
+    "Providing core HR software solutions"
+  ],
+  "competitive_advantages": [
+    "Over 20 years of industry experience",
+    "Strategic approach with swift delivery",
+    "Pioneering management principles for continuous improvement",
+    "Expertise in Design Thinking and Agile Development ('Delivery by Design') for rapid business change",
+    "Community-driven model offering specialist digital expertise on demand",
+    "Intensely collaborative approach fostering frequent experimentation and open communication",
+    "Capability for rapid problem-solving and continuous innovation",
+    "Focus on achieving faster, better decision-making for clients",
+    "Ability to deliver digital transformation at extraordinary speed",
+    "Capability to deliver digital customer experiences at scale"
+  ],
+  "implementation_scenarios": [
+    "Project-based digital transformation leveraging Design Thinking and Agile Development",
+    "Collaborative and iterative solution development",
+    "Expert-led implementation of digital solutions including HR technology"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "HRMS (Human Resources Management Systems)",
+    "HCM (Human Capital Management)",
+    "Core HR"
+  ],
+  "technology_stack": [
+    "Artificial intelligence (AI)"
+  ],
+  "roi_benefits": [
+    "Accelerated business transformation",
+    "Revolutionized operations",
+    "Enhanced customer value",
+    "Achieved exponential growth",
+    "Optimized collaboration",
+    "Increased efficiency",
+    "Boosted Hiring Manager Confidence",
+    "Improved Hiring Manager Productivity",
+    "Drives business impact",
+    "Delivers impressive results in project delivery",
+    "Fosters continuous innovation",
+    "Enables faster, better decision-making"
+  ],
+  "searchable_keywords": [
+    "Etch",
+    "Digital transformation",
+    "Digital solutions",
+    "HR technology",
+    "Recruiting",
+    "HRMS",
+    "HCM",
+    "Core HR",
+    "Recruiting automation software",
+    "Artificial intelligence",
+    "AI",
+    "Hiring automation",
+    "Data driven hiring",
+    "Recruiting efficiency",
+    "Business objectives",
+    "Hiring Manager Confidence",
+    "Hiring Manager Productivity",
+    "Customer-centric strategy",
+    "Engaging experiences",
+    "Intuitive experiences",
+    "Digital channel mix",
+    "Delivery by design",
+    "Design Thinking",
+    "Agile Development",
+    "Collaborative teams",
+    "Rapid business change",
+    "Community driven",
+    "Specialist digital expertise",
+    "Intensely collaborative",
+    "Problem-solving",
+    "Continuous innovation",
+    "Decision-making",
+    "Digital customer experiences",
+    "Scale",
+    "Speed",
+    "London"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Professionals",
+    "HR Leadership"
+  ],
+  "scalability_features": [
+    "Delivering digital customer experiences at scale"
+  ],
+  "_weight": 1
+}

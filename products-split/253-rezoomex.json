@@ -1,0 +1,166 @@
+{
+  "id": 253,
+  "name": "Rezoomex",
+  "description": "Rezoomex NFT Marketplace is an innovative platform that allows software professionals to monetize their capabilities and skills by turning their resumes into unique digital assets. These assets, or NFTs, are stored on a blockchain, which enables users to prove ownership and authenticity of their resumes. In this marketplace, smart contracts govern the way individuals and companies safely transact and build reputation. Rezoomex NFT Marketplace is run by a DAO,- Decentralized Autonomous Organization providing unbiased way to search, discover and engage.",
+  "features": [
+    "Convert your caliber to Caliber$ tokens",
+    "Earn by entering smart contracts for interesting side projects and tasks",
+    "Build your reputation based on Caliber$ staked on you"
+  ],
+  "founders": [
+    "Sarita Joglekar"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software"
+  ],
+  "tags": [
+    "Recruiting efficiency",
+    "Talent sourcing",
+    "Recruiting"
+  ],
+  "headquarter": "Pune, Maharashtra",
+  "launch_date": "2013",
+  "order": 20218,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Empowering Remote Teams, Championing Ethics",
+  "ProductId": null,
+  "ShortDescription": "Rezoomex is a Tech Gig Work Platform that values ethics and performance",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Ethical professionals under oath",
+      "sequence": 0,
+      "description": "Professionals are under oath to behave ethically. Those violating the norm would lose all their Caliber$ tokens!"
+    },
+    {
+      "name": "Smart Contracts",
+      "sequence": 1,
+      "description": " Use smart contracts to tightly link pay to measurable outcomes."
+    },
+    {
+      "name": "Agile Copilot",
+      "sequence": 2,
+      "description": " A bot to by the side of your remote employees to keep them focused and engaged."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:08.549Z",
+  "enhanced_description": "Rezoomex is an innovative NFT Marketplace and Tech Gig Work Platform specifically designed for software professionals. It empowers these professionals to convert their resumes and skills into unique digital assets (NFTs) on a blockchain, ensuring verifiable ownership and authenticity. The platform leverages smart contracts to facilitate secure transactions between individuals and companies, allowing professionals to monetize their capabilities through side projects and tasks, earning Caliber$ tokens. Reputation is built and tracked based on Caliber$ staked. Governed by a Decentralized Autonomous Organization (DAO), Rezoomex aims to provide an unbiased method for companies to efficiently search, discover, and engage top talent, particularly for remote teams. A unique feature is the focus on ethical professionals who are under oath, with violations resulting in loss of Caliber$ tokens, ensuring high standards of conduct. It also includes an 'Agile Copilot' bot designed to keep remote employees focused and engaged, and smart contracts are used to tightly link pay to measurable outcomes, championing performance and ethics in the gig economy.",
+  "target_industries": [
+    "Technology"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Monetizing software professional skills and capabilities",
+    "Creating and verifying resume NFTs for ownership and authenticity",
+    "Facilitating secure transactions between talent and companies using smart contracts",
+    "Earning income for side projects and tasks for software professionals",
+    "Building and tracking professional reputation based on staked tokens",
+    "Searching, discovering, and engaging top software talent",
+    "Hiring top talent faster and more efficiently",
+    "Linking compensation directly to measurable project outcomes",
+    "Enhancing focus and engagement for remote employees",
+    "Managing ethical conduct in the gig workforce"
+  ],
+  "competitive_advantages": [
+    "Blockchain-based NFT resumes for verifiable ownership and authenticity",
+    "Decentralized Autonomous Organization (DAO) for unbiased talent search and engagement",
+    "Smart contracts enabling secure, transparent, and performance-based transactions",
+    "Unique Caliber$ token system for monetization and reputation building",
+    "Emphasis on ethical professionals under oath, enhancing trust and quality",
+    "Dedicated 'Agile Copilot' bot for remote team engagement and focus"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Sourcing",
+    "Gig Workforce Management",
+    "Remote Workforce Management",
+    "Performance Management"
+  ],
+  "technology_stack": [
+    "NFT (Non-Fungible Tokens)",
+    "Blockchain",
+    "Smart Contracts",
+    "DAO (Decentralized Autonomous Organization)",
+    "Cryptocurrency Tokens (Caliber$)"
+  ],
+  "roi_benefits": [
+    "Faster and more efficient hiring of top software talent",
+    "Improved talent quality and reduced risk due to ethical professional vetting",
+    "Enhanced productivity and engagement for remote teams",
+    "Optimized compensation by linking pay to measurable outcomes",
+    "New monetization opportunities for software professionals"
+  ],
+  "searchable_keywords": [
+    "Rezoomex",
+    "NFT Marketplace",
+    "software professionals",
+    "resume NFTs",
+    "blockchain",
+    "digital assets",
+    "smart contracts",
+    "DAO",
+    "Decentralized Autonomous Organization",
+    "gig work platform",
+    "tech gig work",
+    "Caliber$ tokens",
+    "remote teams",
+    "ethics",
+    "recruiting",
+    "talent sourcing",
+    "recruiting software",
+    "recruiting efficiency",
+    "talent acquisition",
+    "ethical professionals",
+    "performance-based pay",
+    "Agile Copilot",
+    "hiring",
+    "talent monetization",
+    "decentralized recruiting",
+    "web3 HR",
+    "talent marketplace"
+  ],
+  "primary_users": [
+    "Software Professionals",
+    "Hiring Managers",
+    "Recruiters",
+    "Companies (seeking talent)",
+    "Remote Employees"
+  ],
+  "security_features": [
+    "Blockchain-enabled data integrity and verifiable ownership of digital assets",
+    "Smart contract-governed secure transactions between parties"
+  ],
+  "_weight": 1
+}

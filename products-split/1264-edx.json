@@ -1,0 +1,165 @@
+{
+  "id": 1264,
+  "name": "EdX",
+  "description": "Online learning that delivers real professional progress across nearly every career discipline, from artificial intelligence and robotics to sustainability and public health. Together with universities and organizations at the forefront of their fields, edX offers thousands of job-relevant programs designed to give every ambitious learner a path to achievement.",
+  "features": [
+    "Expert-led educational experiences.",
+    "Flexible pathways to personal and professional achievement.",
+    "Educational opportunities at every investment level."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Course authoring",
+    "Training management system",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Adaptive learning",
+    "Personalised learning"
+  ],
+  "headquarter": "Lanham, Maryland",
+  "launch_date": "2012",
+  "order": 21092,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "edX is the online learning platform that readies you, your teams, and your organization for every career moment.",
+  "ProductId": null,
+  "ShortDescription": "edX is a platform for learning and career development that offers thousands of courses and programs",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [
+    "Google",
+    "Berkeley University of Califonia",
+    "Boston University",
+    "Havard University",
+    "Massachusetts Institute of Technology"
+  ],
+  "Highlights": [
+    {
+      "name": "Transforming ambition into impact",
+      "sequence": 0,
+      "description": "We measure our success by the lives and careers we\u2019ve changed, and transparently share our outcomes for the benefit of all. Here are some of the things we\u2019ve learned and achieved and how we prioritize student success in everything we do."
+    },
+    {
+      "name": "Explore careers at 2U",
+      "sequence": 1,
+      "description": "If you\u2019re passionate about creating learning experiences that drive real progress, you\u2019ll fit right in working alongside our purpose-driven team."
+    },
+    {
+      "name": "Helping great organizations create greater opportunity",
+      "sequence": 2,
+      "description": "On edX, we offer thousands of courses, professional certificates, boot camps, credit-bearing micro credentials, and undergraduate and graduate degrees."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": true,
+  "PublishedAt": "2024-03-05T11:13:31.595Z",
+  "enhanced_description": "EdX is a comprehensive online learning platform offering thousands of job-relevant programs across nearly every career discipline, including artificial intelligence, robotics, sustainability, and public health. Collaborating with leading universities and organizations, EdX provides expert-led educational experiences designed to accelerate skill development and learning efficiency for individuals, teams, and entire organizations. The platform supports personal and professional achievement through flexible pathways, offering diverse educational opportunities such as courses, professional certificates, boot camps, credit-bearing micro credentials, and undergraduate and graduate degrees, catering to various investment levels. EdX is committed to transforming ambition into real professional impact by prioritizing student success and measuring outcomes.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerate skill development and learning efficiency for individuals and organizations.",
+    "Enable professional progress across diverse career disciplines.",
+    "Provide flexible pathways for personal and professional achievement.",
+    "Facilitate team upskilling and reskilling within organizations.",
+    "Offer a wide range of educational programs, including courses, professional certificates, boot camps, and degrees."
+  ],
+  "competitive_advantages": [
+    "Partnerships with leading universities and organizations for content.",
+    "Extensive catalog of thousands of job-relevant programs.",
+    "Expert-led educational experiences.",
+    "Flexible pathways to personal and professional achievement.",
+    "Educational opportunities available at every investment level.",
+    "Focus on driving and measuring real professional progress and impact.",
+    "Prioritization of student success with transparent outcome sharing."
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Training Management",
+    "Skill Management",
+    "Employee Development"
+  ],
+  "integration_capabilities": [
+    "Google",
+    "Berkeley University of Califonia",
+    "Boston University",
+    "Havard University",
+    "Massachusetts Institute of Technology"
+  ],
+  "roi_benefits": [
+    "Delivers real professional progress for learners.",
+    "Accelerates skill development for individuals and organizations.",
+    "Increases learning efficiency.",
+    "Transforms ambition into measurable impact on careers.",
+    "Prepares individuals, teams, and organizations for future career moments."
+  ],
+  "searchable_keywords": [
+    "EdX",
+    "online learning",
+    "learning platform",
+    "skill development",
+    "learning efficiency",
+    "career development",
+    "professional progress",
+    "artificial intelligence",
+    "robotics",
+    "sustainability",
+    "public health",
+    "expert-led educational experiences",
+    "flexible pathways",
+    "educational opportunities",
+    "course authoring",
+    "training management system",
+    "training & development companies",
+    "adaptive learning",
+    "personalised learning",
+    "upskilling",
+    "reskilling",
+    "professional certificates",
+    "boot camps",
+    "micro credentials",
+    "undergraduate degrees",
+    "graduate degrees",
+    "employee development",
+    "team development"
+  ],
+  "primary_users": [
+    "Individual Learners",
+    "Employees",
+    "Teams",
+    "Organizations (Employers)"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "_weight": 1
+}

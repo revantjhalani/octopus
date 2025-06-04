@@ -1,0 +1,164 @@
+{
+  "id": 856,
+  "name": "Mastek",
+  "description": "Mastek is an enterprise digital & cloud transformation specialist that engineers excellence for customers across 40 countries, including the UK, Europe, US, Middle East, Asia Pacific and India. We help enterprises navigate the digital landscape and stay competitive by unlocking the power of data, modernising applications and accelerating digital advantage for our customers. Mastek's mission is to Decomplex Digital with Trust, Value and Velocity and make our clients\u2019 business future-ready with an industry-first approach. Aligned to this vision, Evosys, a Mastek company, has partnered with 1500+ customers globally in their Oracle Cloud transformation journey",
+  "features": [
+    "Digital & Application Engineering",
+    "Digital Experience & Commerce",
+    "Data, Automation & AI"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Internet of things"
+  ],
+  "tags": [
+    "Skill development",
+    "Skill acquisition"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "1982",
+  "order": 20809,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Trust Value Velocity",
+  "ProductId": null,
+  "ShortDescription": "Mastek is a global Turnkey Digital Engineering & Cloud Transformation specialist delivering innovative solutions and business outcomes for its clients for more than 40 years.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Government",
+      "sequence": 0,
+      "description": "Mastek\u2019s public sector and government consulting services leverages the power of tommorow\u2019s technologies and helps you solve the challenges of a changing world."
+    },
+    {
+      "name": "Healthcare",
+      "sequence": 1,
+      "description": "Mastek\u2019s reimagines your technology choice and helps you build an agile intelligent, high-performing healthcare system that drives  long-term results."
+    },
+    {
+      "name": "Retail",
+      "sequence": 2,
+      "description": "Mastek\u2019s agile digital retail technologies automate business to business processes, drive efficiencies and are transforming customer experience."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:46.145Z",
+  "enhanced_description": "Mastek is a global enterprise digital & cloud transformation specialist with over 40 years of experience, engineering excellence for customers across 40 countries. They help enterprises navigate the digital landscape, unlock the power of data, modernize applications, and accelerate digital advantage. Mastek's mission is to 'Decomplex Digital with Trust, Value and Velocity' and make businesses future-ready through an industry-first approach. Evosys, a Mastek company, has partnered with over 1500 customers globally in their Oracle Cloud transformation journey, providing turnkey digital engineering and cloud transformation solutions.",
+  "target_industries": [
+    "Government",
+    "Healthcare",
+    "Retail"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Digital & Application Engineering",
+    "Digital Experience & Commerce",
+    "Data, Automation & AI",
+    "Unlocking the power of data",
+    "Modernizing applications",
+    "Accelerating digital advantage",
+    "Oracle Cloud transformation journey",
+    "Solving public sector and government challenges",
+    "Building agile, intelligent, high-performing healthcare systems",
+    "Automating business-to-business processes in retail",
+    "Driving efficiencies and transforming customer experience in retail"
+  ],
+  "competitive_advantages": [
+    "Global presence across 40 countries",
+    "Over 40 years of experience in digital engineering and cloud transformation",
+    "Specialization in enterprise digital & cloud transformation",
+    "Extensive partnership with 1500+ customers globally in Oracle Cloud transformation",
+    "Mission to 'Decomplex Digital with Trust, Value and Velocity'",
+    "Industry-first approach"
+  ],
+  "implementation_scenarios": [
+    "Digital transformation projects",
+    "Cloud transformation projects",
+    "Turnkey Digital Engineering solutions"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development (L&D)"
+  ],
+  "technology_stack": [
+    "Oracle Cloud",
+    "Artificial Intelligence (AI)",
+    "Internet of Things (IoT)",
+    "Automation"
+  ],
+  "integration_capabilities": [
+    "Oracle Cloud ecosystem integration"
+  ],
+  "roi_benefits": [
+    "Accelerate digital advantage",
+    "Make clients' business future-ready",
+    "Unlock the power of data",
+    "Drive efficiencies",
+    "Transform customer experience",
+    "Achieve long-term results"
+  ],
+  "searchable_keywords": [
+    "Mastek",
+    "digital transformation",
+    "cloud transformation",
+    "enterprise",
+    "digital engineering",
+    "application engineering",
+    "digital experience",
+    "commerce",
+    "data",
+    "automation",
+    "AI",
+    "artificial intelligence",
+    "internet of things",
+    "IoT",
+    "skill development",
+    "skill acquisition",
+    "learning efficiency",
+    "Oracle Cloud",
+    "government",
+    "healthcare",
+    "retail",
+    "B2B",
+    "global",
+    "specialist",
+    "turnkey solutions"
+  ],
+  "primary_users": [
+    "Enterprise clients",
+    "Business customers"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,165 @@
+{
+  "id": 1333,
+  "name": "FranklinCovey",
+  "description": "We transform organizations by building exceptional leaders, teams, and cultures that get results. When organizations partner with us, their people change behavior\u2014both individually and collectively\u2014in ways that have a dramatic impact.\n\nOur content, based on timeless principles of human effectiveness, is designed to help people change both their mindsets and their behavior. It is combined with a team of experts, a dynamic behavior change platform, and key metrics that deliver exceptional results again and again.",
+  "features": [
+    "Develop Your Leaders",
+    "Engage Your People",
+    "Build a Winning Culture",
+    "Achieve Breakthrough Results"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Training management system",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Training effectiveness",
+    "Personalised learning",
+    "Learning optimisation",
+    "Skill acquisition",
+    "Learning speed",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised Learning",
+    "Learning retention",
+    "Continuous learning"
+  ],
+  "headquarter": "Salt Lake City, UT",
+  "launch_date": "1997",
+  "order": 21151,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We Enable Greatness In People And Organizations Everywhere\n",
+  "ProductId": null,
+  "ShortDescription": "We transform organizations by building exceptional leaders, teams, and cultures that get results.\n",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Leadership Development for Success",
+      "sequence": 0,
+      "description": "FranklinCovey is a leadership training company that offers courses, services, and technology to help businesses develop their leaders and improve their culture."
+    },
+    {
+      "name": "Empowering Leaders",
+      "sequence": 1,
+      "description": "Some of the specific services they offer include coaching, consulting, and access to an online platform."
+    },
+    {
+      "name": "Driving Results",
+      "sequence": 2,
+      "description": "FranklinCovey helps clients achieve results such as improved employee engagement, increased productivity, and stronger customer relationships."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:15:00.609Z",
+  "enhanced_description": "FranklinCovey is a global leadership training and development company that transforms organizations by building exceptional leaders, teams, and cultures to achieve dramatic results. Their offerings encompass courses, services, and technology, including access to a dynamic online platform. The content is based on timeless principles of human effectiveness, combined with a team of experts and key metrics to deliver results. FranklinCovey focuses on accelerating skill development and learning efficiency, enabling behavior change, both individually and collectively. Their services specifically include coaching, consulting, and an online platform designed to help businesses develop leaders, improve culture, engage employees, and ultimately achieve outcomes such as improved employee engagement, increased productivity, and stronger customer relationships.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Leadership development",
+    "Employee engagement",
+    "Culture building and transformation",
+    "Accelerating skill development and learning efficiency",
+    "Improving organizational productivity",
+    "Strengthening customer relationships",
+    "Individual and collective behavior change"
+  ],
+  "competitive_advantages": [
+    "Content based on timeless principles of human effectiveness",
+    "Combination of expert teams, dynamic behavior change platform, and key metrics",
+    "Comprehensive offering of courses, services (coaching, consulting), and technology (online platform)",
+    "Focus on achieving measurable results like improved employee engagement, increased productivity, and stronger customer relationships"
+  ],
+  "implementation_scenarios": [
+    "Blended learning (combining online platform access with coaching and consulting services)"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Leadership Development",
+    "Training Management",
+    "Skill Development",
+    "Employee Engagement",
+    "Culture Management"
+  ],
+  "roi_benefits": [
+    "Improved employee engagement",
+    "Increased productivity",
+    "Stronger customer relationships",
+    "Accelerated skill development",
+    "Enhanced learning efficiency",
+    "Dramatic impact on organizational results"
+  ],
+  "searchable_keywords": [
+    "FranklinCovey",
+    "Leadership Development",
+    "Employee Engagement",
+    "Culture Building",
+    "Breakthrough Results",
+    "Learning and Development",
+    "Training eLearning software",
+    "Training management system",
+    "Training & development companies",
+    "Skill development",
+    "Training effectiveness",
+    "Personalised learning",
+    "Learning optimisation",
+    "Skill acquisition",
+    "Learning speed",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised Learning",
+    "Learning retention",
+    "Continuous learning",
+    "Leaders",
+    "Teams",
+    "Cultures",
+    "Behavior change",
+    "Online platform",
+    "Coaching",
+    "Consulting",
+    "Productivity",
+    "Customer relationships"
+  ],
+  "primary_users": [
+    "Leaders",
+    "Employees",
+    "Teams",
+    "HR Professionals",
+    "Managers"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "_weight": 1
+}

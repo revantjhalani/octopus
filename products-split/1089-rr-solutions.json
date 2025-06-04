@@ -1,0 +1,108 @@
+{
+  "id": 1089,
+  "name": "RR Solutions",
+  "description": "Serving clients across borders, we understand the intricacies of diverse markets.\n Unrivaled Quality: Our premium gifts are crafted to perfection, ensuring each gift leaves a mark.\n Personalized Approach: Tailoring solutions to your brand's values and objectives.",
+  "features": [
+    "High rated services ",
+    "Wide range of product category",
+    "Unparalleled Quality"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency",
+    "Improve Employee Happiness and Engagement",
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Recruiting",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Staffing services providers",
+    "Training & development companies",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Learning speed",
+    "Workforce diversity"
+  ],
+  "headquarter": "Delhi",
+  "launch_date": "2008",
+  "order": 21032,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Gifts that speaks to your heart",
+  "ProductId": null,
+  "ShortDescription": "At RR Solution, we're dedicated to helping businesses worldwide make a lasting impression through thoughtful and customized corporate gifts.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:40:19.430Z",
+  "enhanced_description": "RR Solutions specializes in providing thoughtful and customized corporate gifts, helping businesses worldwide make a lasting impression. They offer premium, high-quality gifts crafted to perfection, with a personalized approach that tailors solutions to a brand's specific values and objectives, serving clients across diverse markets.",
+  "key_use_cases": [
+    "Enhancing employee engagement through corporate gifting",
+    "Employee recognition and appreciation programs",
+    "Client appreciation and relationship building",
+    "Corporate branding and promotional initiatives",
+    "Customized gifting for various business objectives"
+  ],
+  "competitive_advantages": [
+    "Unrivaled/Unparalleled Quality of gifts",
+    "Personalized approach to tailoring solutions",
+    "Ability to serve clients across diverse international markets",
+    "Wide range of product categories for gifting",
+    "High rated services"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Recognition & Rewards"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Enhanced corporate image and brand relationships",
+    "Making a lasting impression with stakeholders"
+  ],
+  "searchable_keywords": [
+    "corporate gifts",
+    "customized corporate gifts",
+    "premium gifts",
+    "personalized gifts",
+    "business gifts",
+    "employee recognition gifts",
+    "client appreciation gifts",
+    "gift solutions",
+    "global gifting",
+    "quality gifts",
+    "corporate gifting solutions"
+  ],
+  "primary_users": [
+    "Businesses seeking to make a lasting impression",
+    "HR professionals (for employee engagement/recognition)",
+    "Marketing teams (for branding/client relations)",
+    "Sales teams (for client appreciation)"
+  ],
+  "_weight": 1
+}

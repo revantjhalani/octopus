@@ -1,0 +1,173 @@
+{
+  "id": 415,
+  "name": "Apli",
+  "description": "Apli is a recruiting automation platform that connects candidates to jobs 50 times faster than with traditional methods. With technology, we can fill billions of work days that are currently being lost because companies can\u2019t hire fast enough or bad candidate profiling leads to high turnover. Apli was named in 2019 and 2018 to Fast Company's list of Top 10 Most Innovative Companies In Latin America and was recognized as a leader in Future of Work solutions by MIT\u2019s Initiative on the Digital Economy.",
+  "features": [
+    "Intuitive and powerful conversational applications",
+    "Built-in skills assessments and video interviewing",
+    "Streamlined interview coordination"
+  ],
+  "founders": [
+    "Vera Makarov",
+    "Jose Maria Pertusa"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Workforce management",
+    "HR management suites",
+    "Recruitment agencies",
+    "HR consulting providers",
+    "Recruiting automation software",
+    "Software and Services Related to HR Software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "Cuauht\u00e9moc, Ciudad de M\u00e9xico",
+  "launch_date": "2016",
+  "order": 20375,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Apli automates recruiting so you can hire better and faster",
+  "ProductId": null,
+  "ShortDescription": "A complete AI-powered recruiting solution",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Automate Screening",
+      "sequence": 0,
+      "description": "Use AI to select top talent resembling your best performers."
+    },
+    {
+      "name": "Ensure Effective Onboarding",
+      "sequence": 1,
+      "description": "Consistent journey with videos, training, surveys, and responsive support."
+    },
+    {
+      "name": "Enhance Candidate Experience",
+      "sequence": 2,
+      "description": "Engaging ads, interactive job descriptions, and mobile-friendly applications."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:26:41.521Z",
+  "enhanced_description": "Apli is an AI-powered recruiting automation platform designed to accelerate hiring and reduce turnover by connecting candidates to jobs significantly faster than traditional methods. It offers intuitive conversational applications, built-in skills assessments, video interviewing, and streamlined interview coordination. The platform automates candidate screening using AI to identify top talent and enhance the candidate experience through engaging ads, interactive job descriptions, and mobile-friendly applications. Apli also supports effective onboarding with a consistent journey including videos, training, surveys, and responsive support. Recognized by Fast Company as a Top 10 Most Innovative Company in Latin America (2019 and 2018) and by MIT\u2019s Initiative on the Digital Economy as a leader in Future of Work solutions, Apli aims to help companies hire top talent faster and more efficiently, boost hiring manager confidence and productivity, and reduce the cost of hiring qualified employees.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Faster talent acquisition and job placement",
+    "Automated candidate screening and evaluation",
+    "Streamlined interview scheduling and coordination",
+    "Enhanced candidate experience through mobile and interactive applications",
+    "Support for effective onboarding processes",
+    "Reducing hiring costs and improving efficiency",
+    "Boosting hiring manager confidence and productivity",
+    "Mitigating high turnover through better candidate profiling"
+  ],
+  "competitive_advantages": [
+    "Significantly faster candidate-to-job matching (50 times faster than traditional methods)",
+    "Recognized innovation by Fast Company (Top 10 Most Innovative Companies In Latin America in 2019 and 2018)",
+    "Leadership in Future of Work solutions (recognized by MIT\u2019s Initiative on the Digital Economy)",
+    "Comprehensive AI-powered recruiting solution",
+    "AI-driven talent screening and matching based on top performer profiles"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Candidate Screening",
+    "Candidate Assessment",
+    "Interview Management",
+    "Onboarding",
+    "Recruitment Automation"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence",
+    "Conversational AI"
+  ],
+  "roi_benefits": [
+    "Significantly reduced time-to-hire",
+    "Increased recruiting efficiency and productivity",
+    "Reduced costs associated with hiring",
+    "Lower employee turnover",
+    "Improved quality of hires",
+    "Enhanced hiring manager productivity and confidence",
+    "Recovery of lost work days due to slow hiring"
+  ],
+  "searchable_keywords": [
+    "Apli",
+    "recruiting",
+    "automation",
+    "platform",
+    "AI",
+    "talent acquisition",
+    "hiring",
+    "faster hiring",
+    "efficient hiring",
+    "reduced turnover",
+    "candidate profiling",
+    "conversational applications",
+    "skills assessments",
+    "video interviewing",
+    "interview coordination",
+    "automated screening",
+    "talent matching",
+    "onboarding",
+    "candidate experience",
+    "mobile applications",
+    "interactive job descriptions",
+    "recruitment software",
+    "talent management",
+    "workforce management",
+    "HR management",
+    "hiring process optimization",
+    "data-driven hiring",
+    "recruitment costs",
+    "HR tech",
+    "future of work",
+    "digital economy"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "HR Professionals",
+    "Hiring Managers",
+    "Job Candidates"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,163 @@
+{
+  "id": 1249,
+  "name": "Docebo",
+  "description": "h Docebo\u2019s multi-product learning suite, enterprises around the world are equipped to tackle any learning challenge and create a successful learning culture within their organization.",
+  "features": [
+    "The AI-powered LMS built for enterprise: Our flagship learning management system delivers sharp design, even sharper functionality, and the flexibility to scale for any team or use case.",
+    "Create content in minutes with the power of AI. Content can make or break your learning programs. Let Shape\u2019s AI do the heavy lifting.",
+    "Grow your business with content. Docebo Content aggregates best-in-class courses, book summaries, audio lessons and more from 150+ publishers with global reach. With new content added monthly, our library grows with your business.",
+    "Measure the effectiveness of learning. Go beyond the numbers to understand the impact of your training."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Training management system",
+    "Course authoring",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed"
+  ],
+  "headquarter": "Toronto, Ontario",
+  "launch_date": "2005",
+  "order": 21077,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Docebo is redefining the way enterprises leverage technology to create and manage content, deliver training, and understand the business impact of their learning experiences.",
+  "ProductId": null,
+  "ShortDescription": "The Docebo Learning Platform. Driven by innovation, powered by AI.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [
+    "Credly",
+    "Trainicity",
+    "eSKILLZ",
+    "Microsoft Teams"
+  ],
+  "Highlights": [
+    {
+      "name": "Technology and innovation",
+      "sequence": 0,
+      "description": "Docebo has always been on the forefront of new technologies because technology can make learning simpler and more effective. We were the first in our industry to embrace machine learning and generative AI, because every learner should be able to create and experience high-quality, relevant, and personalized learning content."
+    },
+    {
+      "name": "Built for the business of learning",
+      "sequence": 1,
+      "description": "Docebo is focused on helping enterprises deliver scalable, hyper-personalized learning to all their audiences. And we believe learning should have a measurable business impact\u2014by growing revenue, reducing costs, mitigating risk, and engaging learners."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:13:11.024Z",
+  "enhanced_description": "Docebo offers a multi-product, AI-powered learning platform designed for enterprises. It enables organizations to create, manage, and deliver training content, as well as measure the business impact of their learning experiences. Leveraging machine learning and generative AI, Docebo aims to simplify content creation, enhance personalization, and provide a scalable learning solution. The platform focuses on accelerating skill development, growing revenue, reducing costs, mitigating risk, and engaging learners to build a successful learning culture.",
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Tackle any learning challenge",
+    "Create a successful learning culture",
+    "Create and manage learning content",
+    "Deliver training programs",
+    "Understand the business impact of learning experiences",
+    "Accelerate skill development",
+    "Measure learning effectiveness",
+    "Deliver scalable, hyper-personalized learning"
+  ],
+  "competitive_advantages": [
+    "AI-powered Learning Management System (LMS)",
+    "Pioneering adoption of machine learning and generative AI in the industry",
+    "Delivers scalable and hyper-personalized learning experiences",
+    "Focus on measurable business impact (revenue growth, cost reduction, risk mitigation, learner engagement)",
+    "Offers sharp design and functionality",
+    "Provides flexibility to scale for any team or use case",
+    "Aggregates best-in-class content from 150+ publishers with global reach"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Training Management",
+    "Course Authoring"
+  ],
+  "technology_stack": [
+    "AI-powered LMS",
+    "Machine Learning",
+    "Generative AI"
+  ],
+  "integration_capabilities": [
+    "Credly",
+    "Trainicity",
+    "eSKILLZ",
+    "Microsoft Teams"
+  ],
+  "roi_benefits": [
+    "Ability to understand the business impact of learning",
+    "Improved measurement of training effectiveness",
+    "Potential for growing revenue",
+    "Potential for reducing costs",
+    "Potential for mitigating risk",
+    "Increased learner engagement",
+    "Accelerated skill development",
+    "Improved learning efficiency"
+  ],
+  "searchable_keywords": [
+    "Docebo",
+    "Learning Platform",
+    "AI-powered LMS",
+    "Enterprise Learning",
+    "Learning Management System",
+    "Training Software",
+    "eLearning Software",
+    "Training Management",
+    "Course Authoring",
+    "Content Creation AI",
+    "Skill Development",
+    "Learning Efficiency",
+    "Training Effectiveness",
+    "Skill Acquisition",
+    "Learning Speed",
+    "Machine Learning",
+    "Generative AI",
+    "Online Courses",
+    "Corporate Learning",
+    "Learning Culture",
+    "Personalized Learning",
+    "Scalable Learning"
+  ],
+  "primary_users": [
+    "Enterprises",
+    "Learners",
+    "Training Managers",
+    "HR Professionals"
+  ],
+  "scalability_features": [
+    "Flexibility to scale for any team or use case",
+    "Designed to deliver scalable, hyper-personalized learning to all audiences"
+  ],
+  "_weight": 1
+}

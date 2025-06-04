@@ -1,0 +1,161 @@
+{
+  "id": 1265,
+  "name": "EHL",
+  "description": "EHL Group now offers a wide range of leading educational programs from apprenticeships to master's degrees, as well as professional and executive education, on three campuses in Switzerland and Singapore. EHL Group also offers consulting and certification services to companies and learning centers around the world.",
+  "features": [
+    "Hospitality Consulting and Training: Our subject-experts prepare hospitality businesses for the future of the industry with bespoke services that analyze performance, identify smart investments and implement customer-centric development strategies.",
+    "EHL offers a variety of ways to collaborate with students that will give you access to a large and unique audience of international hospitality students, faculty and graduate professionals."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Adaptive learning",
+    "Personalised learning"
+  ],
+  "headquarter": "Lausanne 25, Vaud",
+  "launch_date": "",
+  "order": 21093,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "EHL Group's purpose is to provide education, services, and working environments that are people-centered and open to the world.",
+  "ProductId": null,
+  "ShortDescription": "EHL Group is the global reference in education, innovation and consulting for the hospitality and service sector.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [
+    "Swiss Deluxe Hotels",
+    "France 24",
+    "Newly London",
+    "Relais & Chateaux"
+  ],
+  "Highlights": [
+    {
+      "name": "EHL Advisory",
+      "sequence": 0,
+      "description": "Formerly named Lausanne Hospitality Consulting (LHC), this branch was created as EHL\u2019s internal training resource in 1967. It provides tailor-made business consulting services for hospitality business and other organizations."
+    },
+    {
+      "name": "Innovation Hub",
+      "sequence": 1,
+      "description": "EHL launched the first incubator for hospitality concepts and start-ups in 2009 to create a dedicated resource for the development of new hospitality and F&B concepts. "
+    },
+    {
+      "name": "Industry Resources & Partnerships",
+      "sequence": 2,
+      "description": "The EHL Group offers a variety of services and resources to our network of industry partners in education and the hospitality industry. These initiatives include our industry alliance, digital transformation, sponsored research institutes, recruitment and talent development services, which draw on the expertise and activities of several departments or entities, to provide global agility and leverage. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": true,
+  "PublishedAt": "2024-03-05T11:13:32.658Z",
+  "enhanced_description": "EHL Group is a global reference in education, innovation, and consulting for the hospitality and service sector. They provide a wide range of leading educational programs, from apprenticeships to master's degrees, as well as professional and executive education, delivered across three campuses in Switzerland and Singapore. Beyond education, EHL Group offers bespoke consulting and certification services to companies and learning centers worldwide, specifically preparing hospitality businesses for future industry challenges by analyzing performance, identifying smart investments, and implementing customer-centric development strategies. Their offerings extend to facilitating collaboration with a unique audience of international hospitality students, faculty, and graduate professionals, providing access to a skilled talent pipeline. This comprehensive approach is centered on people and is globally agile.",
+  "target_industries": [
+    "Hospitality",
+    "Service Sector",
+    "Learning Centers"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Skill development and learning efficiency acceleration",
+    "Professional and executive education",
+    "Apprenticeship programs",
+    "Master's degree programs",
+    "Tailor-made business consulting for hospitality and other organizations",
+    "Performance analysis for hospitality businesses",
+    "Identification of smart investments for hospitality businesses",
+    "Implementation of customer-centric development strategies",
+    "Certification services for companies and learning centers",
+    "Talent development services",
+    "Recruitment support through student collaboration",
+    "Digital transformation consulting",
+    "Development of new hospitality and F&B concepts"
+  ],
+  "competitive_advantages": [
+    "Global reference in hospitality education, innovation, and consulting",
+    "Wide range of educational programs from apprenticeships to master's degrees",
+    "Bespoke and tailor-made consulting services",
+    "Focus on people-centered education and services",
+    "Operates an Innovation Hub, the first incubator for hospitality concepts and start-ups",
+    "Provides access to a large and unique audience of international hospitality students, faculty, and graduate professionals",
+    "Expertise in adaptive learning",
+    "Expertise in personalized learning",
+    "Offers global agility in its services and resources"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Training",
+    "Talent Development",
+    "Recruitment",
+    "Strategic HR Consulting"
+  ],
+  "roi_benefits": [
+    "Accelerate skill development",
+    "Improve learning efficiency"
+  ],
+  "searchable_keywords": [
+    "EHL",
+    "Hospitality",
+    "Service sector",
+    "Education",
+    "Training",
+    "Consulting",
+    "Learning",
+    "Development",
+    "Skill development",
+    "Learning efficiency",
+    "Adaptive learning",
+    "Personalised learning",
+    "Apprenticeships",
+    "Master's degrees",
+    "Executive education",
+    "Professional education",
+    "Certification",
+    "Hospitality consulting",
+    "Training & development companies",
+    "Talent development",
+    "Innovation hub",
+    "Recruitment collaboration",
+    "Digital transformation",
+    "F&B concepts"
+  ],
+  "primary_users": [
+    "Hospitality businesses",
+    "Service sector companies",
+    "Learning centers",
+    "Students (international hospitality students)",
+    "Individuals seeking professional and executive education",
+    "Faculty",
+    "Graduate professionals"
+  ],
+  "_weight": 1
+}

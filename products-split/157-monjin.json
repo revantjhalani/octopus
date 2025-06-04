@@ -1,0 +1,145 @@
+{
+  "id": 157,
+  "name": "Monjin",
+  "description": "Monjin is the world\u2019s first interviewer network, featuring a global force of experienced domain experts as interview panelists. With a vetted database of over 50,000 assessed video interviews, Monjin cuts hiring costs and time by 68%. The platform schedules video interviews worldwide based on skills, role, and experience. Monjin interviews can be watched, assessed, and experienced from anywhere, anytime, enhancing recruitment efficiency and quality.",
+  "features": [
+    "Real Video Interview with Industry Expert",
+    "Enhanced Communication",
+    "Higher Selection Probability"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Video interviewing software",
+    "Onboarding software"
+  ],
+  "tags": [
+    "Interviewing costs",
+    "Hiring automation"
+  ],
+  "headquarter": "Pune, Maharashtra",
+  "launch_date": "2014",
+  "order": 20124,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Connecting talents and recruiters with renovated interviewing process",
+  "ProductId": null,
+  "ShortDescription": "We are world\u2019s first people assessment video platform with an Interviewers network",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "We are in this 24/7 ",
+      "sequence": 0,
+      "description": "We aim to have a perfect platform but problems do happen. "
+    },
+    {
+      "name": "2)\tYour privacy is our assurance ",
+      "sequence": 1,
+      "description": "With Monjin privacy settings, you can keep a tab on who can view your profile and interview."
+    },
+    {
+      "name": "3)\tBecome a certified interviewer ",
+      "sequence": 2,
+      "description": "Complete the interviewer empanelment program & become Monjin certified interviewer."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:35.962Z",
+  "enhanced_description": "Monjin is positioned as the world's first interviewer network and a pioneering people assessment video platform. It leverages a global network of experienced domain experts who serve as interview panelists. The platform boasts a vetted database containing over 50,000 assessed video interviews. Monjin's core offering includes scheduling real video interviews worldwide, precisely matching based on skills, role, and experience. These interviews can be accessed, assessed, and experienced remotely from anywhere, at any time, significantly enhancing recruitment efficiency and quality. Monjin aims to reduce hiring costs and time by up to 68%, connecting talents and recruiters through a streamlined interviewing process. It offers features like enhanced communication, higher selection probability, and privacy settings allowing users to control who can view their profile and interviews. Monjin also supports an interviewer empanelment program for certified interviewers.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Global video interview scheduling based on skills, role, and experience",
+    "Remote video interview assessment and playback",
+    "Expert-led candidate assessment and evaluation",
+    "Reducing hiring costs and time through automation",
+    "Enhancing candidate selection probability",
+    "Managing and certifying an interviewer network",
+    "People assessment via video platform"
+  ],
+  "competitive_advantages": [
+    "First-to-market as the world's first interviewer network",
+    "Global force of experienced domain experts as interview panelists",
+    "Vetted database of over 50,000 assessed video interviews",
+    "Proven ability to cut hiring costs and time by 68%",
+    "Offers Real Video Interviews with Industry Experts",
+    "Enhances communication during the interview process",
+    "Leads to higher selection probability of candidates",
+    "Provides 24/7 platform availability and support (implied)",
+    "Offers privacy settings for user profiles and interviews"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Video interviewing",
+    "Candidate assessment",
+    "Hiring automation",
+    "Onboarding"
+  ],
+  "roi_benefits": [
+    "68% reduction in hiring costs and time",
+    "Enhanced recruitment efficiency",
+    "Improved recruitment quality",
+    "Higher selection probability",
+    "Reduced cost of hiring qualified employees"
+  ],
+  "searchable_keywords": [
+    "Monjin",
+    "interviewer network",
+    "video interviews",
+    "recruiting",
+    "hiring costs",
+    "hiring time",
+    "interviewing costs",
+    "hiring automation",
+    "people assessment",
+    "industry expert interviews",
+    "domain experts",
+    "interview panelists",
+    "global interviews",
+    "remote interviews",
+    "recruitment efficiency",
+    "candidate assessment",
+    "selection probability",
+    "onboarding software",
+    "HR tech",
+    "recruitment technology",
+    "certified interviewer"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Candidates (Talents)",
+    "Expert Interviewers (Domain Experts)"
+  ],
+  "security_features": [
+    "Privacy settings for profile and interview viewing control"
+  ],
+  "_weight": 1
+}

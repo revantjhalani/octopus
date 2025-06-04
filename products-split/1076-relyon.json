@@ -1,0 +1,135 @@
+{
+  "id": 1076,
+  "name": "Relyon",
+  "description": "Saral by Relyon are a host of user-friendly software in the domains of Payroll, Taxation & Accounts. Our products ease your compliance processes.",
+  "features": [
+    "Software facility",
+    "Provide tax and e-filing service",
+    "Saral all-in-one product"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Employee referral program",
+    "Retention strategies"
+  ],
+  "headquarter": "Chennai",
+  "launch_date": "2000",
+  "order": 21019,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Empowering your business",
+  "ProductId": null,
+  "ShortDescription": "We simplify business processes and compliances with our products in the domain of Payroll, Taxation and Accounts.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Software solutions for Accounting, Payroll, and Tax Filing",
+      "sequence": 0,
+      "description": "Relyonsoft offers a variety of software products that can be used to automate many accounting tasks, including payroll and tax filing. This can save businesses time and money by streamlining these essential processes."
+    },
+    {
+      "name": "Easy Filing and User-Friendly Interface: ",
+      "sequence": 1,
+      "description": "Their software is designed to be easy to use and navigate, even for users without extensive accounting experience. This allows businesses of all sizes to benefit from their solutions"
+    },
+    {
+      "name": "Reliable Software:",
+      "sequence": 2,
+      "description": "Relyonsoft emphasizes the reliability of their software. This is important for accounting tasks, where accuracy and data security are essentia"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:40:05.652Z",
+  "enhanced_description": "Relyon offers the Saral suite of user-friendly software solutions designed to streamline business processes and compliance across Payroll, Taxation, and Accounts. Their reliable software provides an easy-to-use interface and efficient e-filing services, ensuring accuracy and data security for essential accounting and HR-related tasks.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Payroll management",
+    "Tax preparation and filing",
+    "E-filing of taxes",
+    "Accounting automation",
+    "Compliance management for payroll and tax"
+  ],
+  "competitive_advantages": [
+    "User-friendly interface",
+    "Ease of filing",
+    "Reliability of software",
+    "Data accuracy",
+    "Data security"
+  ],
+  "hr_functions_supported": [
+    "Payroll management"
+  ],
+  "roi_benefits": [
+    "Time savings in payroll, tax, and accounting processes",
+    "Cost reduction in compliance and administrative tasks",
+    "Improved compliance adherence",
+    "Streamlined business processes"
+  ],
+  "searchable_keywords": [
+    "Payroll",
+    "Taxation",
+    "Accounts",
+    "Compliance",
+    "Software",
+    "User-friendly",
+    "Tax filing",
+    "e-filing",
+    "Saral",
+    "All-in-one",
+    "Business processes",
+    "Total Rewards",
+    "Payroll services",
+    "Reliable",
+    "Data security",
+    "Accuracy",
+    "Employee referral program",
+    "Retention strategies",
+    "Accounting"
+  ],
+  "primary_users": [
+    "Payroll professionals",
+    "Accountants",
+    "Finance departments",
+    "HR professionals (for payroll)"
+  ],
+  "compliance_features": [
+    "Tax compliance support",
+    "Regulatory compliance for payroll and accounting"
+  ],
+  "security_features": [
+    "Data security"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,166 @@
+{
+  "id": 813,
+  "name": "Layam",
+  "description": "Layam was incorporated in Chennai in the year 2007 with a mission to stay ahead of competition by innovating newer lines of service offerings based on the changing needs of clients, market trends and technological development.",
+  "features": [
+    "Offer Contract based Jobs",
+    "Offshore Development",
+    "Offer NAPS program"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Recruiting",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Staffing services providers",
+    "HR consulting providers",
+    "Training management system"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring efficiency"
+  ],
+  "headquarter": "Chennai, Tamil Nadu",
+  "launch_date": "2007",
+  "order": 20766,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Catalyst for Growth",
+  "ProductId": null,
+  "ShortDescription": "The most trusted and reliable Management solutions partner for large corporate, educational institutions and automobile industry.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Layam Group Services",
+      "sequence": 0,
+      "description": " Layam offers staffing, job contract, contract manufacturing, talent acquisition, learning and development, and business consulting services."
+    },
+    {
+      "name": "Layam Group Business Model",
+      "sequence": 1,
+      "description": "Layam strives to reduce rework costs and provide the best quality service by using a brain count strategy."
+    },
+    {
+      "name": "Layam Group Client Testimonials",
+      "sequence": 2,
+      "description": "Clients have praised Layam for their professionalism, efficiency, and ability to meet their needs."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:58.160Z",
+  "enhanced_description": "Layam, established in Chennai in 2007, is a trusted and reliable management solutions partner, primarily catering to large corporates, educational institutions, and the automobile industry. With a mission to innovate service offerings based on client needs, market trends, and technological developments, Layam provides a comprehensive suite of services including staffing, job contracts, contract manufacturing, talent acquisition, learning and development programs (such as the NAPS program), and business consulting services. Layam focuses on delivering high-quality, efficient solutions to boost hiring manager confidence and productivity, improve employee happiness and engagement, and reduce rework costs through an intelligent 'brain count strategy'.",
+  "target_industries": [
+    "Automobile",
+    "Education",
+    "Manufacturing",
+    "General Corporate"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Contingent Workforce Management",
+    "Contract Staffing",
+    "Offshore Team Setup and Management",
+    "Apprenticeship Program Management",
+    "Talent Acquisition and Recruitment Process Outsourcing",
+    "Learning and Development Program Delivery",
+    "HR Consulting and Strategy",
+    "Workforce Planning",
+    "Training Management"
+  ],
+  "competitive_advantages": [
+    "Broad service offering including staffing, talent acquisition, L&D, and business consulting",
+    "Focus on innovation and adaptability to market changes",
+    "Commitment to reducing rework costs and delivering quality service",
+    "Intelligent resource allocation ('brain count strategy')",
+    "Reputation for professionalism, efficiency, and client satisfaction",
+    "Trusted and reliable management solutions partner"
+  ],
+  "implementation_scenarios": [
+    "Managed Services",
+    "Service-led implementation (for HR consulting and staffing solutions)"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Staffing",
+    "Talent Acquisition",
+    "Learning & Development",
+    "HR Consulting",
+    "Workforce Planning",
+    "Apprenticeship Program Management"
+  ],
+  "roi_benefits": [
+    "Increased hiring manager confidence and productivity",
+    "Improved employee happiness and engagement",
+    "Reduced rework costs",
+    "Enhanced service quality and efficiency"
+  ],
+  "searchable_keywords": [
+    "Layam",
+    "HR Tech",
+    "Staffing",
+    "Recruitment",
+    "Learning and Development",
+    "L&D",
+    "HR Consulting",
+    "Talent Acquisition",
+    "Contract Jobs",
+    "Offshore Development",
+    "NAPS program",
+    "Apprenticeship",
+    "Training Management System",
+    "Workforce Management",
+    "HR Solutions",
+    "Management Partner",
+    "Automobile Industry",
+    "Educational Institutions",
+    "Corporate Solutions",
+    "Hiring Efficiency",
+    "Employee Engagement",
+    "Professional Services",
+    "Contingent Workforce",
+    "Contract Manufacturing",
+    "Job Contracts",
+    "Business Consulting"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Hiring Managers",
+    "Talent Acquisition Teams",
+    "Learning & Development Teams",
+    "Business Leaders"
+  ],
+  "compliance_features": [
+    "NAPS (National Apprenticeship Promotion Scheme) compliance"
+  ],
+  "_weight": 1
+}

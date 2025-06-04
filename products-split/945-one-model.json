@@ -1,0 +1,129 @@
+{
+  "id": 945,
+  "name": "One Model",
+  "description": "One Model\u2019s founding team has spent years in the workforce analytics space, beginning their journey together at Infohrm (since acquired by SuccessFactors, then SAP). While working with hundreds of organizations, they saw customers struggle with the complexities of HR data to assemble it and generate any meaningful insight from it. So in late 2014, Chris Butler, David Wilson, and Matthew Wilton founded One Model with the mission of making an organization\u2019s most complex data accessible and valuable for all. They built a team and platform around the vision of business leaders seamlessly interacting with workforce data to unlock value in their people and their organizations. Today, One Model is trusted by large organizations who want to work with a team of HR data experts who are passionate about your success!",
+  "features": [
+    "Flexible to Fit Your Business",
+    "More Insights with the People Data Cloud",
+    "Advanced Security & Privacy"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Recruiting",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Staffing services providers",
+    "HR consulting providers",
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "",
+  "launch_date": "2014",
+  "order": 20892,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Brilliant people analytics. Know everything about your workforce. Make better, faster, more ethical talent decisions.",
+  "ProductId": null,
+  "ShortDescription": "One Model\u2019s founding team has spent years in the workforce analytics space, beginning their journey together at Infohrm (since acquired by SuccessFactors, then SAP).",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": [],
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": false,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:37:25.297Z",
+  "enhanced_description": "One Model is a workforce analytics platform designed to transform complex HR data into accessible and valuable insights for business leaders. Founded by a team with extensive experience in workforce analytics (ex-Infohrm, SuccessFactors, SAP), the platform aims to empower organizations to know everything about their workforce and make better, faster, more ethical talent decisions. It offers flexibility to fit diverse business needs, provides deep insights through its 'People Data Cloud,' and ensures advanced security and privacy. One Model is specifically aimed at large organizations looking to boost hiring manager confidence and productivity, hire top talent faster and more efficiently, and reduce the cost of hiring qualified employees through data-driven approaches.",
+  "target_industries": [],
+  "ideal_company_sizes": [
+    "Large Organizations"
+  ],
+  "key_use_cases": [
+    "Making complex HR data accessible and valuable for insights",
+    "Informing and improving talent decisions (e.g., hiring)",
+    "Optimizing hiring processes and reducing associated costs",
+    "Boosting hiring manager confidence and productivity",
+    "Achieving faster and more efficient talent acquisition"
+  ],
+  "competitive_advantages": [
+    "Founding team's extensive prior experience in workforce analytics (Infohrm, SuccessFactors, SAP)",
+    "Support from a team of HR data experts dedicated to customer success",
+    "Flexible platform designed to adapt to business needs",
+    "Leveraging a 'People Data Cloud' for comprehensive insights",
+    "Advanced security and privacy features"
+  ],
+  "implementation_scenarios": [],
+  "hr_functions_supported": [
+    "Workforce Analytics",
+    "People Analytics",
+    "Recruiting",
+    "Talent Acquisition",
+    "Total Rewards"
+  ],
+  "technology_stack": [],
+  "integration_capabilities": [],
+  "roi_benefits": [
+    "Reduced cost of hiring qualified employees",
+    "Increased efficiency and speed in hiring top talent",
+    "Improved hiring manager productivity and confidence",
+    "Enhanced and faster talent decision-making"
+  ],
+  "searchable_keywords": [
+    "One Model",
+    "Workforce analytics",
+    "People analytics",
+    "HR data",
+    "Talent decisions",
+    "Recruiting",
+    "Total Rewards",
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring",
+    "HR insights",
+    "People Data Cloud",
+    "Advanced security",
+    "Data privacy"
+  ],
+  "primary_users": [
+    "Business Leaders",
+    "HR Leaders",
+    "Hiring Managers"
+  ],
+  "deployment_options": [],
+  "compliance_features": [],
+  "scalability_features": [],
+  "security_features": [
+    "Advanced Security",
+    "Privacy controls"
+  ],
+  "_weight": 1
+}

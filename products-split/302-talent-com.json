@@ -1,0 +1,108 @@
+{
+  "id": 302,
+  "name": "Talent com",
+  "description": "Talent.com's mission is to centralize all jobs available on the web, whether they come from companies'",
+  "features": [
+    "Customized Career Advice",
+    "Career Advancement",
+    "Help in Job Hunting"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Onboarding software",
+    "Job boards"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Recruiting efficiency",
+    "Talent sourcing"
+  ],
+  "headquarter": "Montreal, Quebec",
+  "launch_date": "2020",
+  "order": 20264,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Your job search starts here",
+  "ProductId": null,
+  "ShortDescription": "With over 30 million jobs available in over 75 countries, Talent.com has established itself as one of the largest sources of employment worldwide.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:53.441Z",
+  "enhanced_description": "Talent.com is a global job search platform and aggregator that centralizes over 30 million job listings from various companies across more than 75 countries, aiming to be one of the largest sources of employment worldwide. It supports job seekers with features like customized career advice, career advancement resources, and general job hunting assistance. For employers, Talent.com helps in recruiting top talent faster and more efficiently, focusing on improving hiring speed and overall recruiting efficiency through talent sourcing.",
+  "key_use_cases": [
+    "Global job search and aggregation for job seekers",
+    "Providing customized career advice and advancement resources to job seekers",
+    "Assisting job seekers in the job hunting process",
+    "Talent sourcing for employers",
+    "Improving hiring speed and efficiency for employers"
+  ],
+  "competitive_advantages": [
+    "Extensive global job database with over 30 million jobs",
+    "Presence in over 75 countries, establishing it as a large global source of employment",
+    "Centralizes job listings from various companies across the web, offering comprehensiveness",
+    "Offers value-added services for job seekers, including career advice and advancement support"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Sourcing"
+  ],
+  "roi_benefits": [
+    "Faster talent acquisition",
+    "Increased recruiting efficiency"
+  ],
+  "searchable_keywords": [
+    "job board",
+    "job search",
+    "recruiting",
+    "talent sourcing",
+    "hiring",
+    "career advice",
+    "career advancement",
+    "job hunting",
+    "recruiting efficiency",
+    "hiring speed",
+    "global jobs",
+    "employment",
+    "talent acquisition",
+    "job aggregator",
+    "online jobs",
+    "jobs worldwide"
+  ],
+  "primary_users": [
+    "Job seekers",
+    "Employers"
+  ],
+  "scalability_features": [
+    "Extensive global presence (over 75 countries)",
+    "Large-scale job aggregation (over 30 million jobs)"
+  ],
+  "_weight": 1
+}

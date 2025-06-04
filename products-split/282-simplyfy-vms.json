@@ -1,0 +1,159 @@
+{
+  "id": 282,
+  "name": "Simplyfy VMS",
+  "description": "Simplify Workforce, a SaaS provider, revolutionizes contingent workforce management with tailored solutions, streamlining processes and optimizing talent acquisition strategies for business growth and success. At Simplify, our vision is to become the premier customer-centric technology solutions provider, delivering unparalleled customization and exceptional value. We endeavor to comprehend our clients\u2019 distinct challenges and requirements, crafting innovative, tailor-made solutions that surpass their expectations.",
+  "features": [
+    "Contingent workforce optimization",
+    "Satisfying worker experience",
+    "Diversity, equity and inclusion"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "Talent Management",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Talent management software",
+    "Artificial intelligence",
+    "Internet of things"
+  ],
+  "tags": [
+    "Talent acquisition"
+  ],
+  "headquarter": "Jersey City, NJ",
+  "launch_date": "2016",
+  "order": 20247,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Technology To Build Your Flexible Workforce Ecosystem",
+  "ProductId": null,
+  "ShortDescription": "Simplyfy provide flexible technology solutions to build and manage a workforce ecosystem that can adapt to changing needs and demands.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Next-gen VMS unencumbered by process rigidity and limited integrations",
+      "sequence": 0,
+      "description": "All the features of a VMS, but with the ease-of-use, flexibility and connectivity you expect"
+    },
+    {
+      "name": "Data and AI-driven insights and actions that drive speed and efficiency",
+      "sequence": 1,
+      "description": "Information and intelligence are woven into and across solutions"
+    },
+    {
+      "name": "Multi-channel sourcing that expands your options to get work done",
+      "sequence": 2,
+      "description": "Direct sourcing and statement of work solutions take you beyond traditional staffing"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:34.215Z",
+  "enhanced_description": "Simplyfy VMS is a customer-centric SaaS provider that revolutionizes contingent workforce management. It offers tailored, flexible technology solutions to streamline processes and optimize talent acquisition strategies, helping businesses build and manage a workforce ecosystem that can adapt to changing needs and demands. As a next-gen VMS, it distinguishes itself with ease-of-use, flexibility, and extensive connectivity, unencumbered by process rigidity. The platform leverages data and AI-driven insights to enhance speed and efficiency, and supports multi-channel sourcing, including direct sourcing and statement of work solutions, going beyond traditional staffing to accelerate business growth and success.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Contingent workforce management",
+    "Optimizing talent acquisition strategies",
+    "Streamlining workforce processes",
+    "Filling open positions quickly",
+    "Building and managing flexible workforce ecosystems",
+    "Enabling multi-channel sourcing (e.g., direct sourcing, statement of work solutions)",
+    "Driving speed and efficiency in workforce management"
+  ],
+  "competitive_advantages": [
+    "Unparalleled customization and tailor-made solutions",
+    "Customer-centric approach",
+    "Next-gen VMS design with ease-of-use and flexibility",
+    "Extensive connectivity and integrations (unencumbered by limited integrations)",
+    "Data and AI-driven insights for actions and efficiency",
+    "Multi-channel sourcing capabilities beyond traditional staffing (direct sourcing, SOW)"
+  ],
+  "hr_functions_supported": [
+    "Contingent Workforce Management",
+    "Talent Acquisition",
+    "Workforce Optimization",
+    "Diversity, Equity, and Inclusion (DEI)"
+  ],
+  "technology_stack": [
+    "SaaS",
+    "Artificial Intelligence (AI)",
+    "Internet of Things (IoT)"
+  ],
+  "integration_capabilities": [
+    "Flexible and extensive integration capabilities"
+  ],
+  "roi_benefits": [
+    "Streamlined processes leading to efficiency",
+    "Optimized talent acquisition for better outcomes",
+    "Accelerated filling of open positions",
+    "Enhanced business growth and success",
+    "Increased speed and efficiency through data and AI-driven insights",
+    "Expanded options for getting work done (multi-channel sourcing)"
+  ],
+  "searchable_keywords": [
+    "Simplyfy VMS",
+    "Simplyfy Workforce",
+    "VMS",
+    "Vendor Management System",
+    "Contingent Workforce Management",
+    "Flexible Workforce",
+    "Workforce Ecosystem",
+    "Talent Acquisition",
+    "Workforce Optimization",
+    "Direct Sourcing",
+    "Statement of Work",
+    "SOW",
+    "DEI",
+    "Diversity Equity Inclusion",
+    "AI",
+    "Artificial Intelligence",
+    "IoT",
+    "Internet of Things",
+    "SaaS",
+    "Cloud",
+    "Talent Management Software",
+    "Staffing Solutions",
+    "Contractor Management",
+    "Gig Economy",
+    "Temporary Staffing"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Talent Acquisition Teams",
+    "Workforce Management Teams"
+  ],
+  "deployment_options": [
+    "Cloud (SaaS)"
+  ],
+  "scalability_features": [
+    "Designed to adapt to changing needs and demands of a flexible workforce ecosystem",
+    "Tailored solutions cater to varying organizational sizes and complexities"
+  ],
+  "_weight": 1
+}

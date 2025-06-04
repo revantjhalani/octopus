@@ -1,0 +1,158 @@
+{
+  "id": 703,
+  "name": "IIHT",
+  "description": "IIHT is an Indian training institute that offers courses in hardware and software technologies. The institute has multiple branches across India and provides undergraduate, diploma, and postgraduate diploma programs.",
+  "features": [
+    "Better ROI",
+    "Robust and Scalable",
+    "Mentor on-demand"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Diversity and inclusion",
+    "Learning analytics"
+  ],
+  "headquarter": "Bengaluru ",
+  "launch_date": "2009",
+  "order": 20657,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "OUR PLATFORM. YOUR ARSENAL.",
+  "ProductId": null,
+  "ShortDescription": "Our deep expertise and 25+ years of experience in corporate training enable us to create training programs that deliver highly engaging, immersive learning experiences that ensure learning agility.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Customizable Learning Ecosystems",
+      "sequence": 0,
+      "description": "IIHT offers customizable learning ecosystems that connect workforce learning data and training programs.This means that IIHT can create a learning experience that is tailored to the specific needs of each organization."
+    },
+    {
+      "name": "Variety of Training Delivery Models",
+      "sequence": 1,
+      "description": "IIHT offers a variety of training delivery models, including instructor-led training, online learning, and blended learning . This means that IIHT can provide a training solution that meets the needs of any learner."
+    },
+    {
+      "name": "Hands-on Learning Experiences",
+      "sequence": 2,
+      "description": "IIHT provides hands-on learning experiences that help learners apply their knowledge and skills to real-world situations . This can help learners to retain information and develop the skills they need to be successful in their careers."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:50.847Z",
+  "enhanced_description": "IIHT is an Indian training institute with over 25 years of experience in corporate training, specializing in hardware and software technologies. It offers undergraduate, diploma, and postgraduate diploma programs, and operates through multiple branches across India. IIHT provides highly engaging, immersive learning experiences designed to ensure learning agility, utilizing customizable learning ecosystems that connect workforce learning data and training programs. The institute offers a variety of training delivery models, including instructor-led, online, and blended learning, with a strong emphasis on hands-on learning experiences to help learners apply knowledge to real-world situations.",
+  "target_industries": [],
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Delivering corporate training programs in hardware and software technologies",
+    "Building a more diverse and inclusive workforce through specialized training",
+    "Implementing customizable learning ecosystems tailored to organizational needs",
+    "Providing hands-on skill development for real-world application",
+    "Fostering learning agility within an organization"
+  ],
+  "competitive_advantages": [
+    "Over 25 years of deep expertise in corporate training",
+    "Ability to deliver better ROI on training investments",
+    "Robust and scalable learning solutions",
+    "Availability of mentor on-demand",
+    "Customizable learning ecosystems that connect workforce learning data and training programs",
+    "Variety of training delivery models, including instructor-led, online, and blended learning",
+    "Emphasis on hands-on, immersive learning experiences"
+  ],
+  "implementation_scenarios": [
+    "Deployment of tailored corporate training programs",
+    "Integration of learning content and data within a customizable learning ecosystem",
+    "Implementation of online, instructor-led, or blended learning models for workforce development"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development (L&D)",
+    "Training Management",
+    "Diversity, Equity, and Inclusion (DEI)",
+    "Learning Analytics"
+  ],
+  "integration_capabilities": [
+    "Connects workforce learning data and training programs"
+  ],
+  "roi_benefits": [
+    "Delivers better ROI for training investments",
+    "Ensures learning agility within the workforce",
+    "Helps learners retain information and develop practical skills for career success"
+  ],
+  "searchable_keywords": [
+    "IIHT",
+    "training institute",
+    "hardware technologies",
+    "software technologies",
+    "corporate training",
+    "learning and development",
+    "L&D",
+    "corporate LMS",
+    "training companies",
+    "diversity and inclusion",
+    "D&I",
+    "learning analytics",
+    "online learning",
+    "instructor-led training",
+    "blended learning",
+    "hands-on learning",
+    "skill development",
+    "learning agility",
+    "customizable learning",
+    "learning ecosystem",
+    "workforce development",
+    "mentor on-demand",
+    "ROI",
+    "scalable"
+  ],
+  "primary_users": [
+    "Learners",
+    "Employees",
+    "HR Professionals",
+    "Learning & Development (L&D) Teams",
+    "Organizational Leaders"
+  ],
+  "deployment_options": [
+    "Online/Cloud-based (for digital learning components)",
+    "On-site/In-person (for instructor-led training)",
+    "Blended (combining online and in-person methods)"
+  ],
+  "scalability_features": [
+    "Robust and Scalable solution",
+    "Supports needs of Small, Large, and Global Enterprises"
+  ],
+  "_weight": 1
+}

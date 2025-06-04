@@ -1,0 +1,201 @@
+{
+  "id": 250,
+  "name": "Repute",
+  "description": "Repute innovates HRMS platforms with a marketplace of diverse partner apps, enhancing HR productivity and employee wellness through seamless integrations. Our gateway product allows businesses to verify employment and income data securely. We aim to build an open network facilitating collaboration among HRMS partners, service providers, and organizations for efficient information sharing and enhanced user experiences.",
+  "features": [
+    "Digital offer management including real time compensation insights",
+    "Fast and accurate talent onboarding and background verification",
+    "Eliminate frauds & asset thefts with instant ID, income and employment verification"
+  ],
+  "founders": [
+    "Deepak D",
+    "Sandesh Chidanand"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting",
+    "Total Rewards",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Employee engagement software",
+    "Talent management software",
+    "Background check software",
+    "Compensation management software",
+    "Blockchain"
+  ],
+  "tags": [
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "Hiring efficiency",
+    "Data-driven hiring"
+  ],
+  "headquarter": "Bengaluru, Karnataka",
+  "launch_date": "2020",
+  "order": 20215,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Fostering trustfree collaborations",
+  "ProductId": null,
+  "ShortDescription": "Repute is a blockchain solution for secure identity and reputation management",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Digital Trust at Scale",
+      "sequence": 0,
+      "description": "Decentralized data sharing prevents data monopoly and gives you complete ownership of your data and its usage."
+    },
+    {
+      "name": "Decentralized data exchange",
+      "sequence": 1,
+      "description": "Embrace the principles of Web 3.0. Share data and insights with your peers on the network, using blockchain technology."
+    },
+    {
+      "name": "Data Security powered by blockchain",
+      "sequence": 2,
+      "description": "Repute is compliant with all data protection regulations and enables secure data sharing across all channels."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:06.132Z",
+  "enhanced_description": "Repute innovates HRMS platforms by providing a marketplace of diverse partner applications and serving as a gateway product for secure employment and income data verification. It is a blockchain solution designed for secure identity and reputation management, fostering digital trust at scale. Leveraging Web 3.0 principles, Repute enables decentralized data sharing and exchange, giving businesses complete ownership of their data. The platform supports seamless integrations to enhance HR productivity, employee wellness, and collaboration across an open network of HRMS partners, service providers, and organizations. Key functionalities include digital offer management with real-time compensation insights, fast and accurate talent onboarding, background verification, and fraud prevention through instant ID, income, and employment verification. Repute is compliant with all data protection regulations, ensuring secure data sharing across all channels.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Secure employment and income data verification",
+    "Digital offer management",
+    "Real-time compensation insights",
+    "Talent onboarding",
+    "Background verification",
+    "ID verification for fraud prevention",
+    "Asset theft prevention through verification",
+    "Secure identity management",
+    "Reputation management",
+    "Decentralized data sharing and exchange among HR partners"
+  ],
+  "competitive_advantages": [
+    "Blockchain-powered secure identity and reputation management",
+    "Decentralized data sharing preventing data monopoly",
+    "Complete data ownership for businesses",
+    "Open network facilitating collaboration among HRMS partners and service providers",
+    "Compliance with all data protection regulations",
+    "Web 3.0 principles for data exchange",
+    "Seamless integrations with HRMS platforms"
+  ],
+  "implementation_scenarios": [
+    "Integrated within existing HRMS platforms via a partner app marketplace",
+    "As a gateway product for secure employment and income verification",
+    "Participation in a decentralized open network for HR information sharing"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Recruiting",
+    "Total Rewards",
+    "Employee Engagement",
+    "Background Checks",
+    "Compensation Management",
+    "HR Data Management",
+    "Fraud Prevention"
+  ],
+  "technology_stack": [
+    "Blockchain",
+    "Web 3.0"
+  ],
+  "integration_capabilities": [
+    "Seamless integrations with HRMS platforms",
+    "Integration with diverse partner apps via a marketplace",
+    "Collaboration across an open network with HRMS partners and service providers"
+  ],
+  "roi_benefits": [
+    "Enhanced HR productivity",
+    "Improved employee wellness",
+    "Faster and more accurate talent onboarding",
+    "Elimination of frauds and asset thefts",
+    "Boosted Hiring Manager Confidence and Productivity",
+    "Efficient and secure information sharing",
+    "Enhanced user experiences",
+    "Complete ownership and control of data"
+  ],
+  "searchable_keywords": [
+    "Repute",
+    "HRMS",
+    "HR Tech",
+    "HR technology",
+    "Talent Management",
+    "Recruiting",
+    "Total Rewards",
+    "Employee engagement software",
+    "Talent management software",
+    "Background check software",
+    "Compensation management software",
+    "Blockchain",
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "Hiring efficiency",
+    "Data-driven hiring",
+    "Digital offer management",
+    "Real time compensation insights",
+    "Talent onboarding",
+    "Background verification",
+    "Fraud prevention",
+    "ID verification",
+    "Income verification",
+    "Employment verification",
+    "Asset theft prevention",
+    "Secure identity",
+    "Reputation management",
+    "Digital Trust",
+    "Decentralized data sharing",
+    "Data ownership",
+    "Web 3.0",
+    "Data security",
+    "Data protection regulations",
+    "Trustfree collaborations",
+    "HR productivity solutions"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Professionals",
+    "Recruiters",
+    "HR Leaders",
+    "Businesses"
+  ],
+  "compliance_features": [
+    "Compliant with all data protection regulations"
+  ],
+  "security_features": [
+    "Secure employment and income data verification",
+    "Eliminate frauds & asset thefts",
+    "Blockchain-powered data security",
+    "Secure identity and reputation management",
+    "Secure data sharing across all channels",
+    "Decentralized data sharing"
+  ],
+  "_weight": 1
+}

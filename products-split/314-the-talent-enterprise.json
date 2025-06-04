@@ -1,0 +1,155 @@
+{
+  "id": 314,
+  "name": "The Talent Enterprise",
+  "description": "Simply stated, The Talent Enterprise\u2019s proprietary approach towards the science of Behaviourmetry\u00ae is characterised by the measurement of behaviour using a variety of proprietary \u2018behavioural markers\u2019 developed by our team of organisational psychologists, data scientists and technology experts. Together, these measures are known as Behaviourmetrics\u00ae and include aspects such as contemporary psychometrics, gamified assessments, multi-rater surveys, expert ratings as well as artificial intelligence derived indicators, together, providing one of the most in-depth, comprehensive and holistic analysis of an individual\u2019s behaviour.",
+  "features": [
+    "Powers all your talent assessment needs on a unified platform",
+    "Provides a seamless and immersive end user experience to your candidates, employees and leaders",
+    "Allows easy implementation with minimal setup requirements, as it's cloud-based"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration software"
+  ],
+  "tags": [
+    "Employee happiness",
+    "Employee satisfaction",
+    "Employee well being"
+  ],
+  "headquarter": "Dubai, Dubai",
+  "launch_date": "2012",
+  "order": 20276,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The Science of\n Behaviourmetry",
+  "ProductId": null,
+  "ShortDescription": "The Talent Enterprise helps leading organisations make critical people decisions through the science of behaviourmetrics\u00ae, blending contemporary psychometric tools and assessment solutions with the latest advances in artificial intelligence and data science.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Career Guidance",
+      "sequence": 0,
+      "description": "The Career Thriving Index\u00ae identifies an individual\u2019s innate strengths and recommends careers where they can thrive. Based on a \u2018world of employment\u2019 map comprising of over +1000 Roles across 24 Career Clusters and 95 Career Sub-Tracks, It provides feedback on critical strengths that are required to thrive in their top 5 sectors, providing a clear roadmap for career planning and future development."
+    },
+    {
+      "name": "Talent Acquisition",
+      "sequence": 1,
+      "description": " Assess all levels and roles from graduate to C-suite recruitment, focussing on candidate experience and your talent brand."
+    },
+    {
+      "name": "High Potential",
+      "sequence": 2,
+      "description": " Identify your future leaders through our proprietary assessment methodology evaluating future leadership potential and your overall talent bench-strength.  LEARN MORE Succession Planning Manage talent risks and prepare your organization for the future by evaluating the readiness of your managers and leaders to be part of your leadership pipeline."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:04.530Z",
+  "enhanced_description": "The Talent Enterprise specializes in Behaviourmetry\u00ae, a proprietary scientific approach to measure human behavior. It leverages a variety of proprietary 'behavioural markers' developed by organizational psychologists, data scientists, and technology experts. These measures, known as Behaviourmetrics\u00ae, encompass contemporary psychometrics, gamified assessments, multi-rater surveys, expert ratings, and artificial intelligence-derived indicators. This provides an in-depth, comprehensive, and holistic analysis of an individual's behavior, helping leading organizations make critical people decisions. The platform is cloud-based and designed to power all talent assessment needs on a unified platform, offering a seamless and immersive experience for candidates, employees, and leaders.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Comprehensive behavioral analysis for individuals",
+    "Identifying innate strengths and recommending career paths through the Career Thriving Index\u00ae",
+    "Assessing candidates for recruitment across all levels, from graduate to C-suite",
+    "Identifying and developing high-potential employees for future leadership roles",
+    "Strategic succession planning and talent risk management",
+    "Informing critical people decisions within organizations",
+    "Improving employee happiness and engagement"
+  ],
+  "competitive_advantages": [
+    "Proprietary 'Behaviourmetry\u00ae' and 'Behaviourmetrics\u00ae' scientific approach",
+    "Holistic behavioral analysis combining psychometrics, gamified assessments, multi-rater surveys, expert ratings, and AI",
+    "Unified platform for all talent assessment needs",
+    "Seamless and immersive end-user experience for candidates, employees, and leaders",
+    "Cloud-based with minimal setup requirements for easy implementation"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based deployment"
+  ],
+  "hr_functions_supported": [
+    "Talent Assessment",
+    "Talent Acquisition",
+    "Leadership Development",
+    "Career Development",
+    "Succession Planning",
+    "Employee Engagement",
+    "Psychometric Testing"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence",
+    "Data Science",
+    "Cloud Technology"
+  ],
+  "roi_benefits": [
+    "Improved decision-making for people-related strategies",
+    "Enhanced identification of future leaders and overall talent bench-strength",
+    "Reduced talent risks through proactive succession planning",
+    "Clear roadmap for individual career planning and future development",
+    "Improved candidate experience and strengthened talent brand",
+    "Enhanced employee happiness and engagement"
+  ],
+  "searchable_keywords": [
+    "The Talent Enterprise",
+    "Behaviourmetry",
+    "Behaviourmetrics",
+    "talent assessment",
+    "psychometrics",
+    "gamified assessments",
+    "multi-rater surveys",
+    "expert ratings",
+    "artificial intelligence",
+    "AI",
+    "data science",
+    "talent acquisition",
+    "career guidance",
+    "high potential",
+    "succession planning",
+    "leadership development",
+    "employee happiness",
+    "employee satisfaction",
+    "employee well-being",
+    "unified platform",
+    "cloud-based",
+    "behavioural markers",
+    "people decisions",
+    "talent brand"
+  ],
+  "primary_users": [
+    "Candidates",
+    "Employees",
+    "Leaders",
+    "HR Professionals"
+  ],
+  "deployment_options": [
+    "Cloud"
+  ],
+  "_weight": 1
+}

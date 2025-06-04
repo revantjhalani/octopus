@@ -1,0 +1,166 @@
+{
+  "id": 348,
+  "name": "Workmate",
+  "description": "Workmate is here to rebuild business confidence in their frontline workforce by connecting them to a qualified temporary workforce. Through our data-driven tools and automation, Workmate make staffing and workforce management easier for businesses to engage and depend on their shift-based workforce. As Workmate transform the way businesses work with their shift-based workforce, Workmate also help workers gain fairer access to jobs, job satisfaction, and financial opportunities to increase their quality of life.",
+  "features": [
+    "End-to-End Operational Expertise",
+    "On-Site Management and Oversight",
+    "Optimizing Your Standard Operating Procedures"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Staffing services providers"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs"
+  ],
+  "headquarter": "Downtown Core, Central Singapore",
+  "launch_date": "2015",
+  "order": 20310,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Transforming the future of frontline staffing",
+  "ProductId": null,
+  "ShortDescription": "Workmate is Southeast Asia's first \"Workforce-as-a-service\" for the Frontline Workforce .",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Outsourced Staffing for Long-Term Support",
+      "sequence": 0,
+      "description": "Workmate is more than a service; we're your staffing ally. We step in as the legal employer, handling all the formalities and paperwork. This means we take care of employment contracts, responsibilities, and payroll, all while ensuring everything is up to code with government standards. You can then focus on what you do best\u2014running your business."
+    },
+    {
+      "name": "Temporary Staffing for Short-Term Jobs",
+      "sequence": 1,
+      "description": "Workmate's Casual Staffing connects you with a network of workers ready for short-term or seasonal work. Our platform makes it a breeze to fill positions fast, scale up for busy seasons, or manage one-off projects. It's staffing made simple, flexible, and tailored to your immediate needs."
+    },
+    {
+      "name": "Effortless Management, Insightful Outcomes",
+      "sequence": 2,
+      "description": "Our user-friendly dashboard gives you a clear view of your staffing situation in a snap. Track job fulfillment, manage schedules, and get insights\u2014all with fewer clicks and less paperwork."
+    },
+    {
+      "name": "Smart Staffing Within Your Budget",
+      "sequence": 3,
+      "description": "Your finances matter. Our tech-driven approach cuts out unnecessary admin, saving you time and money. With Workmate, expect up to 30% savings compared to traditional staffing\u2014without compromising on quality."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:51.946Z",
+  "enhanced_description": "Workmate is a 'Workforce-as-a-service' platform, specifically designed for the frontline and shift-based workforce, primarily serving Southeast Asia. It aims to rebuild business confidence by connecting businesses with a qualified temporary workforce through data-driven tools and automation. Workmate simplifies staffing and workforce management by acting as a staffing ally, handling long-term outsourced staffing as the legal employer (including employment contracts, payroll, and government compliance), and providing temporary staffing for short-term or seasonal needs. The platform offers a user-friendly dashboard for effortless management, allowing businesses to track job fulfillment and manage schedules while aiming to optimize standard operating procedures and provide on-site management and oversight. Workmate differentiates itself by claiming to offer up to 30% savings compared to traditional staffing methods.",
+  "key_use_cases": [
+    "Connecting businesses to a qualified temporary workforce",
+    "Making staffing and workforce management easier for shift-based workforces",
+    "Engaging and managing shift-based workers",
+    "Outsourced staffing for long-term support (Workmate acting as legal employer)",
+    "Temporary staffing for short-term jobs, seasonal work, or one-off projects",
+    "Filling positions quickly",
+    "Scaling workforce for busy periods",
+    "Tracking job fulfillment",
+    "Managing work schedules",
+    "Optimizing Standard Operating Procedures (SOPs) for workforce management",
+    "Providing on-site management and oversight for staff"
+  ],
+  "competitive_advantages": [
+    "Southeast Asia's first 'Workforce-as-a-service' platform for frontline workforce",
+    "Data-driven tools and automation for staffing and workforce management",
+    "Offers outsourced staffing where Workmate acts as the legal employer, handling contracts, payroll, and compliance",
+    "Provides temporary staffing solutions for fast fulfillment and scaling",
+    "User-friendly dashboard for simplified management and insights",
+    "Claimed cost savings of up to 30% compared to traditional staffing methods due to tech-driven approach",
+    "Offers end-to-end operational expertise",
+    "Includes on-site management and oversight"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Staffing",
+    "Workforce Management",
+    "Payroll Management (for outsourced staff)",
+    "Scheduling",
+    "Compliance Management"
+  ],
+  "roi_benefits": [
+    "Boost hiring manager confidence and productivity",
+    "Hire top talent faster and more efficiently",
+    "Reduce the cost of hiring qualified employees",
+    "Up to 30% savings compared to traditional staffing",
+    "Cuts out unnecessary administrative tasks, saving time and money",
+    "Simplifies staffing and workforce management",
+    "Enables faster position fulfillment and scaling for busy seasons"
+  ],
+  "searchable_keywords": [
+    "Workmate",
+    "Workforce-as-a-service",
+    "Frontline workforce",
+    "Shift-based workforce",
+    "Temporary workforce",
+    "Staffing software",
+    "Workforce management",
+    "Recruiting software",
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Staffing services",
+    "Outsourced staffing",
+    "Temporary staffing",
+    "Casual staffing",
+    "Payroll management",
+    "Employment contracts",
+    "Job fulfillment tracking",
+    "Schedule management",
+    "Operational expertise",
+    "On-site management",
+    "SOP optimization",
+    "HR technology",
+    "HR software",
+    "Southeast Asia staffing",
+    "Singapore staffing"
+  ],
+  "primary_users": [
+    "Businesses needing temporary or outsourced frontline staff",
+    "Hiring Managers",
+    "Operations Managers",
+    "HR personnel responsible for staffing and workforce management"
+  ],
+  "compliance_features": [
+    "Ensures compliance with government standards (for employment contracts, responsibilities, and payroll)"
+  ],
+  "scalability_features": [
+    "Ability to scale up for busy seasons or specific projects",
+    "Flexible staffing solutions"
+  ],
+  "_weight": 1
+}

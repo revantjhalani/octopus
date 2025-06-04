@@ -1,0 +1,116 @@
+{
+  "id": 1255,
+  "name": "EarlySalary",
+  "description": "Building our mobile first platform, smart risk scoring system and soon will introduce a fast & easy way to get a loan or buy products and pay-later. We are currently building a smart and young team who together will build this start-up into a buzziest FinTech brand.",
+  "features": [
+    "We aim to evolve with the evolving financial needs of our customers over time",
+    "To help our customers upgrade their lifestyle, we have launched a host of financial products: short-term Instant cash loans, long-term personal loans and buy now pay later plans across health, edtech, and consumer tech"
+  ],
+  "founders": [
+    "Ashish Goyal"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [],
+  "sub_categories": [
+    "Internet of things"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee happiness",
+    "Employee satisfaction",
+    "Employee development"
+  ],
+  "headquarter": "Pune, Maharashtra",
+  "launch_date": "2015",
+  "order": 21083,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Building our mobile first platform, smart risk scoring system and soon will introduce a fast & easy way to get a loan or buy products and pay-late",
+  "ProductId": null,
+  "ShortDescription": "India's largest lending platform. One solution for all life's big and small upgrades.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:13:20.448Z",
+  "enhanced_description": "EarlySalary is India's largest mobile-first lending platform, established in 2015 and headquartered in Pune, Maharashtra. It leverages a smart risk scoring system to provide fast and easy access to a host of financial products. These include short-term instant cash loans, long-term personal loans, and buy now pay later (BNPL) plans across various sectors such as health, edtech, and consumer technology. The platform aims to evolve with the financial needs of its customers, enabling them to upgrade their lifestyle. While primarily a FinTech brand, EarlySalary is positioned as a solution to improve employee happiness and engagement within organizations.",
+  "target_industries": [
+    "Health",
+    "EdTech",
+    "Consumer Tech"
+  ],
+  "key_use_cases": [
+    "Providing short-term instant cash loans to individuals",
+    "Offering long-term personal loans to individuals",
+    "Facilitating buy now pay later (BNPL) options for products/services in health, edtech, and consumer tech sectors",
+    "Serving as an employee financial well-being benefit to improve employee happiness and engagement"
+  ],
+  "competitive_advantages": [
+    "Mobile-first platform for accessibility and convenience",
+    "Utilizes a smart risk scoring system for efficient loan processing",
+    "Offers a fast and easy loan application process",
+    "Positioned as India's largest lending platform"
+  ],
+  "hr_functions_supported": [
+    "Employee Happiness",
+    "Employee Engagement",
+    "Employee Satisfaction"
+  ],
+  "technology_stack": [
+    "Mobile-first platform",
+    "Smart risk scoring system"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness",
+    "Enhanced employee engagement",
+    "Increased employee satisfaction"
+  ],
+  "searchable_keywords": [
+    "EarlySalary",
+    "lending platform",
+    "FinTech",
+    "mobile first",
+    "smart risk scoring",
+    "loan",
+    "instant cash loan",
+    "personal loan",
+    "buy now pay later",
+    "BNPL",
+    "employee happiness",
+    "employee engagement",
+    "employee satisfaction",
+    "financial products",
+    "health finance",
+    "edtech finance",
+    "consumer tech finance"
+  ],
+  "primary_users": [
+    "Employees (as beneficiaries of financial support)",
+    "Individuals seeking loans or BNPL services"
+  ],
+  "deployment_options": [
+    "Mobile-based"
+  ],
+  "_weight": 1
+}

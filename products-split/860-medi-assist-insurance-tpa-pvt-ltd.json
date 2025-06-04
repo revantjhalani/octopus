@@ -1,0 +1,147 @@
+{
+  "id": 860,
+  "name": "Medi Assist insurance tpa pvt ltd",
+  "description": "\nWe are India\u2019s leading HealthTech and InsurTech company focused on administering health benefits across employers, retail members, and public health schemes. We consistently strive to drive innovation and participate in such initiatives, to lower health care costs. Our Health Benefits Administration model is designed to deliver the tools necessary for a health plan to succeed, whether it\u2019s our modular claims management system, our technology that unveils data to make important decisions, or our service solutions built around the voice of the customer. In short, our goal is to link our success to that of our members. Our claims analysis blends talent and technology to help our members defy national claim cost trends",
+  "features": [
+    "Benefits Management",
+    "Annual Health Checks",
+    "Occupational Health Checks"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Benefits administration software"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee satisfaction"
+  ],
+  "headquarter": "Bengaluru, Karnataka",
+  "launch_date": "2002",
+  "order": 20813,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Delivering informed healthcare decisions to millions of lives connected by our technology, partnerships and human touch.",
+  "ProductId": null,
+  "ShortDescription": "We are India\u2019s leading HealthTech and InsurTech company focused on administering health benefits across employers, retail members, and public health schemes. We consistently strive to drive innovation and participate in such initiatives, to lower health care costs.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Plan Hospitalization",
+      "sequence": 0,
+      "description": "If you\u2019re planning a hospitalization, you can preauthorize your hospitalization process 48 hours before your hospitalization."
+    },
+    {
+      "name": "Submit Reimbursement Claim",
+      "sequence": 1,
+      "description": "Raise and track your reimbursement claim online and in real-time, and also reduce wait time for claim settlement."
+    },
+    {
+      "name": "Find Nearby Hospitals",
+      "sequence": 2,
+      "description": "You can access the list of network hospitals near you in case you are planning for a hospitalization process."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:51.443Z",
+  "enhanced_description": "Medi Assist is India's leading HealthTech and InsurTech company, specializing in the administration of health benefits for employers, retail members, and public health schemes. Their health benefits administration model includes a modular claims management system, technology for data-driven decisions, and customer-centric service solutions, all aimed at lowering healthcare costs and improving employee happiness and engagement. Key features include Benefits Management, Annual Health Checks, and Occupational Health Checks. The platform provides tools for members to plan hospitalization with pre-authorization (48 hours prior), submit and track reimbursement claims online in real-time to reduce settlement wait times, and find nearby network hospitals. Their approach blends talent and technology for claims analysis to help members defy national claim cost trends and make informed healthcare decisions.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Health benefits administration for employees",
+    "Managing annual health check programs",
+    "Administering occupational health checks",
+    "Pre-authorization for planned hospitalizations",
+    "Online submission and real-time tracking of reimbursement claims",
+    "Locating network hospitals for planned hospitalizations",
+    "Cost reduction in healthcare expenditures for organizations and members",
+    "Enhancing employee well-being and satisfaction"
+  ],
+  "competitive_advantages": [
+    "Market leadership in India's HealthTech and InsurTech sectors",
+    "Comprehensive health benefits administration across employers, retail members, and public health schemes",
+    "Focus on innovation and initiatives to lower healthcare costs",
+    "Modular claims management system",
+    "Technology enabling data-driven decision making for health plans",
+    "Customer-centric service solutions",
+    "Proprietary claims analysis blending talent and technology to manage claim cost trends",
+    "Online pre-authorization for planned hospitalizations",
+    "Real-time online reimbursement claim submission and tracking",
+    "Access to a network of hospitals"
+  ],
+  "hr_functions_supported": [
+    "Benefits Administration",
+    "Employee Wellness",
+    "Occupational Health",
+    "Total Rewards Management"
+  ],
+  "roi_benefits": [
+    "Lowering healthcare costs for organizations and members",
+    "Improving employee happiness and engagement",
+    "Reduced wait times for claim settlement",
+    "Data-driven insights for improved health plan management",
+    "Ability to defy national claim cost trends through expert analysis"
+  ],
+  "searchable_keywords": [
+    "Medi Assist",
+    "HealthTech",
+    "InsurTech",
+    "health benefits administration",
+    "employee benefits",
+    "benefits management",
+    "corporate wellness software",
+    "benefits administration software",
+    "claims management system",
+    "healthcare costs reduction",
+    "employee happiness",
+    "employee engagement",
+    "annual health checks",
+    "occupational health checks",
+    "hospitalization pre-authorization",
+    "reimbursement claims",
+    "network hospitals",
+    "employee well-being",
+    "employee satisfaction",
+    "India health benefits",
+    "TPA",
+    "Third-Party Administrator",
+    "health insurance TPA",
+    "employee healthcare"
+  ],
+  "primary_users": [
+    "HR Administrators",
+    "Benefits Managers",
+    "Employees",
+    "Individual Members (retail)",
+    "Public Health Scheme Administrators"
+  ],
+  "_weight": 1
+}

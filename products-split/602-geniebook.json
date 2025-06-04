@@ -1,0 +1,115 @@
+{
+  "id": 602,
+  "name": "GENIEBOOK",
+  "description": "Geniebook was founded in 2017 by experienced educators, tech wizards, and designers who have spent over 10 years teaching and pioneering programs to help students improve. We firmly believe that education is personal, and that students should have access to a personalised world-class education that brings together the best of technology and learning pedagogies, to help them grow into confident learners and contributors to society.",
+  "features": [
+    "Personalized coaching",
+    "AI-powered coaching",
+    "Find strengths and weaknesses of students with the help of AI"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Training & development companies",
+    "Course authoring"
+  ],
+  "tags": [
+    "Skill development",
+    "Skill acquisition",
+    "Learning efficiency"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2017",
+  "order": 20560,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Geniebook is a suite of online learning tools powered by AI to help students learn smarter and do better.",
+  "ProductId": null,
+  "ShortDescription": "Geniebook is a powerful suite of online learning products including AI-personalised worksheets (GenieSmart), live online classes (GenieClass), and real-time teacher chats (GenieAsk) to help primary and secondary school students learn smarter and do better.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:30:51.107Z",
+  "enhanced_description": "Geniebook, founded in 2017 by experienced educators, tech experts, and designers, offers a powerful suite of AI-powered online learning tools and products. It is specifically designed to help primary and secondary school students learn smarter and improve, aiming to accelerate skill development and learning efficiency. The platform provides personalized coaching, including AI-personalised worksheets (GenieSmart), live online classes (GenieClass), and real-time teacher chats (GenieAsk). Geniebook utilizes AI to find and address students' strengths and weaknesses, delivering a personalized, world-class education that blends technology with effective learning pedagogies to foster confident learners and contributors to society.",
+  "key_use_cases": [
+    "Personalized student coaching and learning",
+    "AI-powered identification of student strengths and weaknesses",
+    "Delivery of AI-personalised worksheets for targeted practice",
+    "Facilitation of live online classes for structured learning",
+    "Provision of real-time teacher support through chat",
+    "Accelerating skill development and learning efficiency for students"
+  ],
+  "competitive_advantages": [
+    "Integrated suite of AI-powered learning tools (worksheets, classes, chats)",
+    "Personalized learning experience driven by AI",
+    "Combination of technology with proven learning pedagogies",
+    "Real-time teacher support"
+  ],
+  "roi_benefits": [
+    "Improved student learning outcomes",
+    "Accelerated skill development",
+    "Increased learning efficiency",
+    "Development of confident learners"
+  ],
+  "searchable_keywords": [
+    "GENIEBOOK",
+    "online learning tools",
+    "AI-powered coaching",
+    "personalized coaching",
+    "AI-personalised worksheets",
+    "GenieSmart",
+    "live online classes",
+    "GenieClass",
+    "real-time teacher chats",
+    "GenieAsk",
+    "skill development",
+    "skill acquisition",
+    "learning efficiency",
+    "student improvement",
+    "primary school education",
+    "secondary school education",
+    "EdTech",
+    "eLearning software",
+    "AI in education",
+    "learning platform",
+    "online education"
+  ],
+  "primary_users": [
+    "Primary school students",
+    "Secondary school students"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "SaaS"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)"
+  ],
+  "_weight": 1
+}

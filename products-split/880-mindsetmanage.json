@@ -1,0 +1,155 @@
+{
+  "id": 880,
+  "name": "Mindsetmanage",
+  "description": "Mindset was born out of frustration with the inability of existing employee engagement solutions to deliver anything more than top-level feedback to executives, and with the frequent failed initiatives intended to change leadership behavior that instead collected dust on a shelf. This frustration lead to Johan Poolman teaming up with Dr Dieter Veldsman to develop the Flow@Work employee engagement model, which ultimately morphed into a team of HR tech and startup veterans, industrial psychologists, software engineers, and data scientists who share the common belief that organizations can truly drive sustainable employee engagement - provided they are given the right data, tools, and know-how. With this as our focus, Mindset is now an international team with big plans, and our vision has not changed: we still believe that driving sustainable engagement requires the right information, in the right hands, at the right time. Follow our story as we continue to grow, driving innovation and helping to build workplaces that we as employees - and as people - would be proud to be a part of.",
+  "features": [
+    " Online employee & customer surveys  ",
+    "Employee engagement surveys",
+    "Organizational Development"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Employee well being"
+  ],
+  "headquarter": "Albany, NY",
+  "launch_date": "2005",
+  "order": 20833,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Engage EX - empowering you with the data, tools, and know-how to drive sustainable engagement and inclusion",
+  "ProductId": null,
+  "ShortDescription": "Empowering organizations with the developmental and real-time feedback tools to transform & optimize the employee experience at all touchpoints of the employee lifecycle.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Listen to your employees, inspire your leaders to drive results",
+      "sequence": 0,
+      "description": "Run engagement, diversity & inclusion - or custom - surveys and lifecycle pulses, with real-time analytics and data-driven insights at organization, team and employee level"
+    },
+    {
+      "name": "Embed engagement holistically throughout your organization",
+      "sequence": 1,
+      "description": "Decentralize and embed engagement holistically as a sustainable way-of-life at your organization \u2013 from leaders at all levels down to individual employees"
+    },
+    {
+      "name": "Develop your talent with tailored 360-developmental programs",
+      "sequence": 2,
+      "description": "Build effective leaders with leadership and developmental 360-degree assessments, with automated, rule-based feedback reports for individuals and cohorts"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:36:15.265Z",
+  "enhanced_description": "Mindsetmanage, operating under its Engage EX brand, offers a comprehensive Employee Experience (EX) solution designed to address the limitations of traditional engagement tools. It provides organizations with the essential data, tools, and know-how to drive sustainable employee engagement and inclusion. Developed from the Flow@Work employee engagement model by a multidisciplinary team including HR tech veterans, industrial psychologists, software engineers, and data scientists, Mindsetmanage empowers organizations with developmental and real-time feedback capabilities. Its core vision is to optimize the employee experience across all touchpoints of the employee lifecycle by delivering the right information into the right hands at the right time, fostering workplaces where employees are proud to contribute.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee engagement measurement and improvement",
+    "Diversity & Inclusion (D&I) surveying",
+    "Custom survey creation and deployment",
+    "Employee lifecycle pulse surveys",
+    "Organizational development initiatives",
+    "Leadership development programs",
+    "360-degree feedback assessments",
+    "Talent development through tailored programs",
+    "Real-time employee feedback collection and analysis",
+    "Employee experience optimization at all touchpoints"
+  ],
+  "competitive_advantages": [
+    "Provides real-time analytics and data-driven insights at organization, team, and individual employee levels, beyond top-level feedback",
+    "Designed to drive sustainable employee engagement and inclusion rather than isolated, failed initiatives",
+    "Enables holistic and decentralized embedding of engagement throughout the organization",
+    "Offers automated, rule-based feedback reports for individuals and cohorts from 360-degree assessments",
+    "Focuses on empowering leaders with actionable data to drive results"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Diversity & Inclusion",
+    "Organizational Development",
+    "Talent Management",
+    "Leadership Development",
+    "Employee Well-being",
+    "HR Analytics & Reporting",
+    "Survey Management"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement levels",
+    "Optimized overall employee experience",
+    "Enhanced leadership effectiveness through targeted development",
+    "Data-driven decision making for HR and leadership",
+    "Sustainable organizational change and cultural improvement"
+  ],
+  "searchable_keywords": [
+    "Mindsetmanage",
+    "Mindset",
+    "Employee Engagement",
+    "Employee Experience",
+    "EX",
+    "HR Tech",
+    "Organizational Development",
+    "OD",
+    "Surveys",
+    "Employee Surveys",
+    "Engagement Surveys",
+    "Diversity and Inclusion",
+    "D&I",
+    "Lifecycle Pulses",
+    "Real-time Analytics",
+    "Data-driven Insights",
+    "360-degree Assessments",
+    "Leadership Development",
+    "Talent Development",
+    "Employee Well-being",
+    "Corporate Wellness Software",
+    "Employee Benefits",
+    "Employee Happiness",
+    "Feedback Tools",
+    "HR Analytics"
+  ],
+  "primary_users": [
+    "HR Executives",
+    "HR Managers",
+    "Organizational Development Professionals",
+    "Team Leaders",
+    "Individual Employees",
+    "Executives"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "_weight": 1
+}

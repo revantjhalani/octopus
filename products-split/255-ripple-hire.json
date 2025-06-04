@@ -1,0 +1,154 @@
+{
+  "id": 255,
+  "name": "Ripple Hire",
+  "description": " Since 2012, we have served over 1 Mn+ users across 50+ countries with our talent acquisition cloud (TA Cloud) platform. Our intelligent end-to-end ATS helps you to efficiently hire the right talent, enabling you to deliver best in class experience to both - recruiters as well as candidates. It is deep in thought, simple to use and powerful to govern. Our customers build a powerful hiring engine on our enterprise platform. An engine that helps you deliver top line growth. We have helped our customers achieve 4.7/5 candidate experience and a 4.5/5 recruiter experience. ",
+  "features": [
+    "As the go-to platform in over 45+ countries, RippleHire is a proven game-changer in talent acquisition.",
+    "Award-winning TA technology has garnered 11 Brandon Hall awards in the last 4 years",
+    "Innovation and effectiveness in the talent acquisition space."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Job boards",
+    "Onboarding software"
+  ],
+  "tags": [
+    "Talent sourcing",
+    "Hiring speed"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2012",
+  "order": 20220,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We exist to make recruiting effortless, human and delightful.",
+  "ProductId": null,
+  "ShortDescription": "RippleHire Referrals is a market leader in referral technology",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Improve Retention",
+      "sequence": 0,
+      "description": "Impact top line by retaining people. Reduces hiring efforts improving the function."
+    },
+    {
+      "name": "Remote location Sourcing",
+      "sequence": 1,
+      "description": " Engage and source talent across locations in all parts of the world."
+    },
+    {
+      "name": "Hire quality talent",
+      "sequence": 2,
+      "description": "Leverage top performers to hire top performers."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:10.289Z",
+  "enhanced_description": "Ripple Hire, launched in 2012, is an award-winning (11 Brandon Hall awards in 4 years) talent acquisition cloud (TA Cloud) platform designed to make recruiting effortless, human, and delightful. It has served over 1 million users across 50+ countries and is a proven go-to platform in over 45+ countries. The intelligent end-to-end ATS (Applicant Tracking System) supports efficient hiring and delivers best-in-class experiences for both recruiters (4.5/5 satisfaction) and candidates (4.7/5 satisfaction). Ripple Hire is recognized for its innovation and effectiveness in the talent acquisition space, notably as a market leader in referral technology. Its enterprise platform helps customers build a powerful hiring engine that contributes to top-line growth by improving retention, enabling remote talent sourcing, and facilitating the hiring of quality talent. It is designed to be simple to use and powerful to govern, catering to small, large, and global enterprise companies, also supporting job boards and onboarding processes.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "End-to-end talent acquisition",
+    "Applicant Tracking System (ATS) management",
+    "Candidate experience management",
+    "Recruiter experience management",
+    "Accelerating time-to-hire",
+    "Talent sourcing",
+    "Remote talent sourcing",
+    "Employee referral program management",
+    "Improving employee retention through quality hiring",
+    "Onboarding new hires",
+    "Job posting management"
+  ],
+  "competitive_advantages": [
+    "Award-winning TA technology (11 Brandon Hall awards)",
+    "Proven global presence and adoption (1M+ users, 50+ countries, go-to platform in 45+ countries)",
+    "High candidate satisfaction (4.7/5)",
+    "High recruiter satisfaction (4.5/5)",
+    "Market leadership in referral technology",
+    "Designed for simplicity, thought-depth, and powerful governance",
+    "Focus on delivering top-line growth",
+    "Supports hiring quality talent"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Talent Sourcing",
+    "Onboarding"
+  ],
+  "roi_benefits": [
+    "Faster filling of open positions",
+    "Improved employee retention",
+    "Contribution to top-line growth",
+    "Increased hiring efficiency",
+    "Enhanced candidate experience leading to better talent attraction",
+    "Enhanced recruiter experience leading to higher productivity",
+    "Access to quality talent",
+    "Reduced hiring efforts"
+  ],
+  "searchable_keywords": [
+    "Ripple Hire",
+    "Talent Acquisition",
+    "TA Cloud",
+    "ATS",
+    "Applicant Tracking System",
+    "Recruiting software",
+    "Hiring software",
+    "Recruitment platform",
+    "Recruiter experience",
+    "Candidate experience",
+    "Referral technology",
+    "Employee referrals",
+    "Talent sourcing",
+    "Remote sourcing",
+    "Hiring speed",
+    "Onboarding software",
+    "Job boards",
+    "Talent retention",
+    "Enterprise recruiting",
+    "Global recruiting"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Candidates"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "scalability_features": [
+    "Supports over 1 Million users",
+    "Operates across 50+ countries",
+    "Caters to Global Enterprise companies"
+  ],
+  "_weight": 1
+}

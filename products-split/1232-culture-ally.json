@@ -1,0 +1,148 @@
+{
+  "id": 1232,
+  "name": "Culture Ally",
+  "description": "Culture Ally empowers organizations on their Diversity, Equity, and Inclusion (DEI) journey through engaging training, expert consulting, and interactive e-learning solutions.",
+  "features": [
+    "Training features engaging DEI topics, interactive exercises, and ongoing cultural recognition. ",
+    "Consulting offers expert guidance, DEI audits, and targeted support. ",
+    "E-Learning provides interactive modules and a growing library for continuous team engagement."
+  ],
+  "founders": [
+    "Ashley K."
+  ],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training & development companies",
+    "Training management system",
+    "Training eLearning software"
+  ],
+  "tags": [
+    "Diversity and inclusion",
+    "Workforce diversity",
+    "Workplace diversity",
+    "Employee diversity",
+    "Diversity hiring",
+    "Diversity initiatives",
+    "Diversity metrics",
+    "Diversity goals"
+  ],
+  "headquarter": "Toronto, Ontario",
+  "launch_date": "2020",
+  "order": 21063,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Culture Ally: Your Partner in Building an Inclusive Workplace",
+  "ProductId": null,
+  "ShortDescription": "Your diversity, equity & inclusion solutions all in one place. Your partner in creating a more inclusive workplace",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Training",
+      "sequence": 0,
+      "description": "Culture Ally provides relevant and engaging training on DEI topics. You'll find current and relatable content delivered through interactive exercises and featuring diverse voices. Additionally, they commemorate cultural events throughout the year, keeping your team informed and engaged."
+    },
+    {
+      "name": "Consulting",
+      "sequence": 1,
+      "description": "Their expert consultants can guide you at every stage of your DEI journey. They offer professional DEI audits and assessments to identify areas for improvement, and provide targeted assistance where your organization needs it most."
+    },
+    {
+      "name": "E-Learning",
+      "sequence": 2,
+      "description": "Culture Ally keeps your team continually engaged with their interactive e-learning software and modules. You'll have access to a growing library of informative content, ensuring your team has ongoing learning opportunities."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:12:41.110Z",
+  "enhanced_description": "Culture Ally empowers organizations on their Diversity, Equity, and Inclusion (DEI) journey by offering a comprehensive suite of solutions. This includes engaging training on relevant DEI topics delivered through interactive exercises and featuring diverse voices, alongside ongoing cultural recognition to keep teams informed and engaged. Their expert consulting services provide professional DEI audits and assessments to identify areas for improvement, offering targeted guidance and support. Additionally, Culture Ally provides interactive e-learning software with a growing library of informative modules, ensuring continuous team engagement and ongoing learning opportunities in DEI.",
+  "ideal_company_sizes": [
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Implementing and managing Diversity, Equity, and Inclusion (DEI) initiatives",
+    "Conducting DEI training and education for employees",
+    "Performing organizational DEI audits and assessments",
+    "Providing continuous DEI learning and development opportunities",
+    "Fostering cultural recognition and awareness within the workplace"
+  ],
+  "competitive_advantages": [
+    "Comprehensive DEI approach combining training, consulting, and e-learning solutions",
+    "Engaging and current DEI training content featuring interactive exercises and diverse voices",
+    "Commitment to ongoing cultural recognition throughout the year",
+    "Expert-led DEI audits and assessments for targeted support",
+    "Interactive e-learning platform with a continually growing content library"
+  ],
+  "hr_functions_supported": [
+    "Diversity, Equity, and Inclusion (DEI) Management",
+    "Learning and Development",
+    "Employee Engagement",
+    "Workforce Planning (related to diversity goals and metrics)"
+  ],
+  "roi_benefits": [
+    "Achieving diversity, equity, and inclusion objectives",
+    "Fostering a more inclusive workplace culture",
+    "Enhancing employee awareness and understanding of DEI topics",
+    "Improving employee engagement through continuous learning and cultural recognition",
+    "Identifying and addressing organizational DEI gaps through professional audits"
+  ],
+  "searchable_keywords": [
+    "Culture Ally",
+    "DEI",
+    "Diversity",
+    "Equity",
+    "Inclusion",
+    "Training",
+    "Consulting",
+    "E-Learning",
+    "Workforce Diversity",
+    "Workplace Diversity",
+    "Employee Diversity",
+    "Diversity Hiring",
+    "Diversity Initiatives",
+    "Diversity Metrics",
+    "Diversity Goals",
+    "Learning and Development",
+    "Training & development companies",
+    "Training management system",
+    "Training eLearning software",
+    "Inclusive Workplace",
+    "Cultural Recognition",
+    "DEI Audits",
+    "Interactive Modules"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "DEI Practitioners",
+    "Learning & Development Managers",
+    "Employees (participating in training and e-learning)"
+  ],
+  "scalability_features": [
+    "Supports global enterprise needs"
+  ],
+  "_weight": 1
+}

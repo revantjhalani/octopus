@@ -1,0 +1,136 @@
+{
+  "id": 976,
+  "name": "Peak Performer",
+  "description": "Peak Performer is building the world\u2019s most innovative coaching platform to create Peakperformers at work. We enable people managers to sharpen their behaviors, habits, and mindset, and help them transform into inspiring leaders. Start building a high-performing team, that grows as you do. Leadership coaching that transforms employees into global leaders in an effective, scalable and measurable way.",
+  "features": [
+    "Our data-driven algorithm analyzes factors such as professional experience, competencies mapping, functional expertise, and coaching outcomes to match the coach with the learner.           ",
+    "Get access to the anonymised objective individual and team progress analytics to measure the ROI of coaching.",
+    "We ensure transparency and accountability in the learning process through scheduling tools, accountability partners and continuous feedback."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Course authoring",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Skill acquisition",
+    "Continuous learning",
+    "Learning optimisation",
+    "Employee empowerment"
+  ],
+  "headquarter": "Bangalore, India - 560016",
+  "launch_date": "2020",
+  "order": 20923,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Leadership coaching that transforms employees into global leaders in an effective, scalable and measurable way.",
+  "ProductId": null,
+  "ShortDescription": "Peak Performer is building the world\u2019s most innovative coaching platform to create Peakperformers at work.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:38:04.146Z",
+  "enhanced_description": "Peak Performer is an innovative, data-driven coaching platform designed to cultivate high-performing individuals and teams. It specifically targets people managers, empowering them to develop inspiring leadership behaviors, habits, and mindsets. The platform utilizes a sophisticated algorithm to match coaches with learners based on professional experience, competencies, functional expertise, and desired coaching outcomes. It offers robust tools for measuring the ROI of coaching through anonymized individual and team progress analytics. Furthermore, Peak Performer ensures transparency and accountability in the learning journey via scheduling tools, accountability partners, and continuous feedback mechanisms, ultimately transforming employees into global leaders in an effective, scalable, and measurable way. Its core objectives include accelerating skill development, improving learning efficiency, and boosting employee happiness and engagement through continuous learning and skill acquisition.",
+  "key_use_cases": [
+    "Leadership development for people managers",
+    "Skill development and acquisition for employees",
+    "Building high-performing teams",
+    "Measuring ROI of coaching programs",
+    "Improving employee engagement and happiness",
+    "Facilitating continuous learning and skill optimization",
+    "Transforming employees into global leaders"
+  ],
+  "competitive_advantages": [
+    "Data-driven algorithm for precise coach-learner matching based on experience, competencies, and expertise",
+    "Ability to measure ROI of coaching through anonymized objective individual and team progress analytics",
+    "Ensures transparency and accountability in the learning process via scheduling tools, accountability partners, and continuous feedback",
+    "Scalable and measurable leadership coaching methodology"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Employee Engagement",
+    "Talent Management (Leadership Development)"
+  ],
+  "roi_benefits": [
+    "Measurable ROI on coaching investments",
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Increased employee happiness and engagement",
+    "Transformation of employees into inspiring and global leaders",
+    "Development of high-performing teams"
+  ],
+  "searchable_keywords": [
+    "Peak Performer",
+    "Coaching platform",
+    "Leadership coaching",
+    "People managers",
+    "High-performing team",
+    "Global leaders",
+    "Scalable coaching",
+    "Measurable coaching",
+    "Data-driven algorithm",
+    "Coach matching",
+    "Professional experience matching",
+    "Competencies mapping",
+    "Functional expertise matching",
+    "Coaching outcomes",
+    "Progress analytics",
+    "ROI measurement",
+    "Scheduling tools",
+    "Accountability partners",
+    "Continuous feedback",
+    "Skill development",
+    "Skill acquisition",
+    "Continuous learning",
+    "Learning optimisation",
+    "Employee empowerment",
+    "Learning and Development",
+    "Training eLearning software",
+    "Course authoring",
+    "Training & development companies",
+    "Employee happiness",
+    "Employee engagement"
+  ],
+  "primary_users": [
+    "People managers (as learners)",
+    "Employees (as learners being transformed)",
+    "Leaders (as targets of transformation)",
+    "Coaches (on the platform)",
+    "HR/L&D professionals (for analytics and program oversight)"
+  ],
+  "scalability_features": [
+    "Platform designed for scalable leadership coaching",
+    "Enables transformation of employees into global leaders, implying broad applicability",
+    "Data-driven approach supports scaling coaching programs across an organization"
+  ],
+  "_weight": 1
+}

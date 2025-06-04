@@ -1,0 +1,206 @@
+{
+  "id": 1347,
+  "name": "Hero Vired",
+  "description": "Hero Vired, the latest edtech venture from Hero Group, targets post-schooling students. Its learning platform offers interactive support, peer communication, and engaging online classes. Partnered with MIT, Cambridge, and Codecademy, Hero Vired provides programs for professionals and higher education aspirants, tailored to industry demands. Collaborating with global universities and organizations, it cultivates innovators and changemakers for tomorrow's world.",
+  "features": [
+    "CV and LinkedIn profile building",
+    "Interview preparation",
+    "1-1 Career coaching sessions"
+  ],
+  "founders": [],
+  "price": [
+    {
+      "name": "",
+      "type": "",
+      "price": "",
+      "description": ""
+    }
+  ],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Corporate LMS",
+    "Learning Experience Systems (LXPs)",
+    "Training management system",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised learning",
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning"
+  ],
+  "headquarter": "New Delhi",
+  "launch_date": "2021",
+  "order": 999,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Live Learning. Real Progress. Powerful Transformation. ",
+  "ProductId": null,
+  "ShortDescription": "Learning Revolutionized: Your personal roadmap to excellence",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": [
+      {
+        "times": [
+          {
+            "description": ""
+          }
+        ],
+        "header": "",
+        "sequence": 0,
+        "videourl": "",
+        "description": ""
+      }
+    ]
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Actionable Learning",
+      "sequence": 0,
+      "description": "Combine industry projects and masterclasses with experts to gain practical skills and insights needed for real-world career advancement."
+    },
+    {
+      "name": "Personalized Support",
+      "sequence": 1,
+      "description": "enefit from dedicated 1-1 consulting sessions with mentors who offer individualized career guidance and address your specific needs. "
+    },
+    {
+      "name": "Enhanced Engagement & Community",
+      "sequence": 2,
+      "description": "80% Live Classes promote active learning, while forums provide a platform to connect with peers and share insights."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": true,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-11T18:47:04.145Z",
+  "enhanced_description": "Hero Vired, an edtech venture by Hero Group, offers a comprehensive learning platform designed for post-schooling students, professionals, and higher education aspirants. The platform emphasizes interactive support, peer communication, and engaging online classes, with 80% live sessions promoting active learning and community building through forums. Programs are specifically tailored to meet industry demands and are developed in collaboration with global universities and organizations, including notable partnerships with MIT, Cambridge, and Codecademy. The curriculum incorporates actionable learning through industry projects and masterclasses with experts, focusing on practical skill development and real-world career advancement. Learners receive personalized support via dedicated 1-on-1 consulting sessions with mentors, offering individualized career guidance and addressing specific needs. Key features also include support for CV and LinkedIn profile building, and interview preparation, all aimed at accelerating skill development and learning efficiency to cultivate innovators and changemakers.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Upskilling and reskilling professionals",
+    "Career advancement and transition support",
+    "Corporate training and employee development programs",
+    "Higher education preparation and skill acquisition",
+    "Developing industry-relevant practical skills",
+    "Enhancing learner engagement and community interaction",
+    "Personalized career guidance and mentorship"
+  ],
+  "competitive_advantages": [
+    "Strategic partnerships with reputable institutions (MIT, Cambridge, Codecademy)",
+    "High percentage of live classes (80%) for enhanced engagement",
+    "Dedicated 1-on-1 career coaching and mentoring sessions for personalized support",
+    "Actionable learning combining industry projects and expert masterclasses",
+    "Programs tailored to industry demands, ensuring relevance and practical skill development"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Talent Development",
+    "Career Development",
+    "Employee Training",
+    "Skill Management"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development and learning efficiency",
+    "Improved employability and career readiness through career coaching and profile building",
+    "Enhanced learning outcomes and practical skill acquisition for real-world application",
+    "Increased employee engagement and retention through interactive and personalized learning experiences",
+    "Development of industry-relevant competencies"
+  ],
+  "searchable_keywords": [
+    "Hero Vired",
+    "edtech",
+    "learning platform",
+    "interactive support",
+    "peer communication",
+    "online classes",
+    "post-schooling students",
+    "professionals",
+    "higher education aspirants",
+    "industry demands",
+    "MIT",
+    "Cambridge",
+    "Codecademy",
+    "skill development",
+    "learning efficiency",
+    "CV building",
+    "LinkedIn profile building",
+    "interview preparation",
+    "career coaching",
+    "1-1 career coaching",
+    "learning and development",
+    "training eLearning software",
+    "corporate LMS",
+    "learning experience systems",
+    "LXPs",
+    "training management system",
+    "training & development companies",
+    "training effectiveness",
+    "skill acquisition",
+    "learning speed",
+    "learning optimisation",
+    "training methodologies",
+    "adaptive learning",
+    "personalised learning",
+    "learning analytics",
+    "learning retention",
+    "continuous learning",
+    "live learning",
+    "real progress",
+    "powerful transformation",
+    "actionable learning",
+    "industry projects",
+    "masterclasses",
+    "expert insights",
+    "practical skills",
+    "career advancement",
+    "personalized support",
+    "1-1 consulting",
+    "mentors",
+    "individualized career guidance",
+    "enhanced engagement",
+    "community learning",
+    "active learning",
+    "forums",
+    "peer connection"
+  ],
+  "primary_users": [
+    "Post-schooling students",
+    "Professionals seeking upskilling or reskilling",
+    "Higher education aspirants",
+    "Employees (for corporate training initiatives)",
+    "Learners"
+  ],
+  "_weight": 1
+}

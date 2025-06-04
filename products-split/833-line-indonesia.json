@@ -1,0 +1,135 @@
+{
+  "id": 833,
+  "name": "LINE Indonesia",
+  "description": "LINE Indonesia, as part of Global LINE Corporation, was established in 2013. Rather than settle for globally standardized services based on a generic approach, we believe that it is essential to respect the culture and norm of each individual country in order to engage users on a very deep level and evolve in each region. We call it culturalization and it\u2019s at the heart of everything we do. In the world we strive to create, users will have seamless online and offline access to all the people, information and services they need in their daily lives \u2013 LINE is the gateway. Come and join us to spread happiness and innovation to more than 90M users in Indonesia! \"One step closer for a better future\"",
+  "features": [
+    "Business Strategy, Information & Technology",
+    "Custom Talent Acquisitions",
+    "Talent Branding, and Career Management"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Recruiting",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Recruiting automation software",
+    "Video interviewing software",
+    "Job boards",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Interview scheduling",
+    "Interviewing costs"
+  ],
+  "headquarter": "Jakarta Selatan, DKI Jakarta",
+  "launch_date": "2013",
+  "order": 20786,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "One Step Closer to a Better Future!",
+  "ProductId": null,
+  "ShortDescription": "LINE Indonesia, as part of Global LINE Corporation, was established in 2013. Rather than settle for globally standardized services based on a generic approach, we believe that it is essential to respect the culture and norm of each individual country in order to engage users on a very deep level and evolve in each region.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Free Communication App",
+      "sequence": 0,
+      "description": " LINE is a free communication app that allows users to chat with friends and family. This makes it a convenient and affordable way to stay connected with loved ones."
+    },
+    {
+      "name": "More Than Just Chatting",
+      "sequence": 1,
+      "description": "LINE offers a variety of features beyond just chatting, including stickers, games, and a digital wallet. This makes it a versatile app that can be used for communication, entertainment, and even financial transactions."
+    },
+    {
+      "name": "Wide Device Compatibility",
+      "sequence": 2,
+      "description": "LINE can be downloaded on a variety of devices, including smartphones, tablets, and computers. This makes it accessible to a wide range of users."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:22.145Z",
+  "enhanced_description": "LINE Indonesia, established in 2013 as part of Global LINE Corporation, differentiates its offerings through a 'culturalization' approach, deeply respecting local Indonesian culture and norms to engage users. This philosophy extends to its HR technology solutions, which include custom talent acquisition services, talent branding, and career management. Leveraging LINE's extensive presence with over 90 million users in Indonesia, the platform aims to provide seamless online and offline access to people, information, and services, ultimately helping businesses reduce the cost of hiring qualified employees. Beyond HR, LINE also functions as a free communication app with features like stickers, games, and a digital wallet, accessible across various devices.",
+  "ideal_company_sizes": [
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Talent acquisition",
+    "Recruitment automation",
+    "Candidate sourcing through job boards",
+    "Video interviewing",
+    "Interview scheduling",
+    "Talent branding",
+    "Career management",
+    "Training and development"
+  ],
+  "competitive_advantages": [
+    "Culturalization and deep respect for Indonesian culture and norms for tailored services",
+    "Extensive user reach within Indonesia (over 90 million users), potentially leveraging this for recruiting and branding"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Talent Branding",
+    "Career Management",
+    "Learning and Development"
+  ],
+  "roi_benefits": [
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "searchable_keywords": [
+    "LINE Indonesia",
+    "HR Tech",
+    "Recruiting",
+    "Talent Acquisition",
+    "Talent Branding",
+    "Career Management",
+    "Learning & Development",
+    "Training & Development Companies",
+    "Recruiting Software",
+    "Recruiting Automation Software",
+    "Video Interviewing Software",
+    "Job Boards",
+    "Hiring",
+    "Interview Scheduling",
+    "Interviewing Costs",
+    "HR Solutions Indonesia",
+    "Indonesian HR",
+    "Reduce Hiring Costs"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Recruiters",
+    "Hiring Managers",
+    "Learning and Development Professionals"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,145 @@
+{
+  "id": 872,
+  "name": "MHC Asia Group",
+  "description": "MHC Asia Group is Singapore\u2019s leading Medical Benefits Administrator and Clinic Network Provider since 1994. We deliver high-quality, cost-effective and transparent corporate healthcare solutions for large corporations, major insurers and even small business enterprises. With over 1,500 clinics in Singapore, employees can have easy access to cashless island-wide medical care. We want to simplify healthcare and connect the stakeholders in the healthcare delivery chain with effective use of information technology and big data analytics \u2014 increasing efficiency, ensuring transparency, lowering costs and boosting productivity",
+  "features": [
+    "Provision of Panel Network Services ",
+    "Health Screenings (Onsite, Pre-employment and Executives)",
+    "Data Visualization"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Employee well being"
+  ],
+  "headquarter": "MHC Asia Group",
+  "launch_date": "1994",
+  "order": 20825,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Making Health Connect",
+  "ProductId": null,
+  "ShortDescription": "MHC - A BetterHealth Company is a corporate managed healthcare provider with more than 1,500 clinical care touch points in Singapore. A member of HMI Group, MHC\u2019s mission in creating Better Health for our 1 Million corporate employees in Singapore is now being fast tracked.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Improve Organisational Health",
+      "sequence": 0,
+      "description": "Receive monthly reports and diagnostic charts on your organisation\u2019s health profile, giving you valuable insights to improve the company\u2019s overall health."
+    },
+    {
+      "name": "Contain Healthcare Costs",
+      "sequence": 1,
+      "description": "With our program, your organisational health expenses can be systematically monitored, empowering you with insights towards effective cost-containment strategies."
+    },
+    {
+      "name": "Improve Productivity ",
+      "sequence": 2,
+      "description": "With administrative hassle out of the way, you can focus on what you do best - increasing your productivity and giving you more time for your employees."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:36:05.318Z",
+  "enhanced_description": "MHC Asia Group, a member of HMI Group, is Singapore\u2019s leading Medical Benefits Administrator and Clinic Network Provider since 1994. Dedicated to creating 'Better Health' for its 1 Million corporate employees in Singapore, the company delivers high-quality, cost-effective, and transparent corporate healthcare solutions for large corporations and major insurers. With an extensive network of over 1,500 clinics island-wide, MHC enables easy access to cashless medical care for employees. The platform leverages information technology and big data analytics, including data visualization capabilities, to simplify healthcare delivery, connect stakeholders, and provide valuable insights. This approach aims to increase efficiency, ensure transparency, lower healthcare costs, boost productivity by reducing administrative burdens, and ultimately improve overall organizational health and employee happiness and engagement through systematic monitoring and diagnostic reporting.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Providing cashless medical care access for employees through an extensive clinic network",
+    "Administering corporate medical benefits for large corporations and insurers",
+    "Conducting various health screenings (onsite, pre-employment, executive)",
+    "Monitoring and improving organizational health through monthly reports and diagnostic charts",
+    "Implementing strategies for healthcare cost containment based on expense monitoring and insights",
+    "Improving employee productivity by streamlining healthcare administration",
+    "Enhancing employee happiness and engagement through comprehensive health benefits",
+    "Utilizing big data analytics and data visualization for healthcare insights and transparency"
+  ],
+  "competitive_advantages": [
+    "Leading Medical Benefits Administrator and Clinic Network Provider in Singapore since 1994",
+    "Extensive network of over 1,500 clinics in Singapore for island-wide cashless access",
+    "Strong focus on technology, information technology, and big data analytics for efficiency and transparency",
+    "Proven ability to deliver high-quality, cost-effective, and transparent healthcare solutions",
+    "Provides unique insights into organizational health through diagnostic charts and reports",
+    "Directly supports cost containment strategies for corporate healthcare expenses",
+    "Reduces administrative hassle for clients, leading to improved productivity"
+  ],
+  "hr_functions_supported": [
+    "Employee Benefits Administration",
+    "Employee Well-being",
+    "Corporate Wellness",
+    "Health & Safety",
+    "Pre-employment Screening",
+    "HR Analytics & Reporting"
+  ],
+  "technology_stack": [
+    "Information Technology",
+    "Big Data Analytics",
+    "Data Visualization"
+  ],
+  "roi_benefits": [
+    "Increased efficiency in healthcare administration",
+    "Enhanced transparency in healthcare delivery and costs",
+    "Lowered corporate healthcare costs through systematic monitoring and insights",
+    "Boosted employee productivity by reducing administrative burdens",
+    "Improved employee happiness and engagement",
+    "Better organizational health insights and management"
+  ],
+  "searchable_keywords": [
+    "MHC Asia Group",
+    "MHC",
+    "Medical Benefits Administrator",
+    "Clinic Network Provider",
+    "Corporate Healthcare Solutions",
+    "Employee Benefits",
+    "Employee Well-being",
+    "Health Screenings",
+    "Panel Network Services",
+    "Data Visualization",
+    "Big Data Analytics",
+    "Organisational Health",
+    "Healthcare Cost Containment",
+    "Productivity Improvement",
+    "Cashless Medical Care",
+    "Singapore Healthcare",
+    "Corporate Wellness Software",
+    "Health & Safety Providers",
+    "Managed Healthcare"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Corporate Management",
+    "Employees (end-users of medical care)"
+  ],
+  "_weight": 1
+}

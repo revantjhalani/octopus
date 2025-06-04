@@ -1,0 +1,177 @@
+{
+  "id": 1306,
+  "name": "Servicenow",
+  "description": "ServiceNow is a cloud-based platform and solutions help digitize and unify organizations so that they can find smarter, faster, better ways to make work flow. So employees and customers can be more connected, more innovative, and more agile. And we can all create the future we imagine. The world works with ServiceNow. ",
+  "features": [
+    "Work smarter and faster",
+    "Connect your enterprise",
+    "Drive workforce productivity"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "HR analytics software",
+    "HR management suites"
+  ],
+  "tags": [
+    "Employee development",
+    "Employee empowerment",
+    "Employee Engagement strategies"
+  ],
+  "headquarter": "Santa Clara, CA",
+  "launch_date": "2003",
+  "order": 21129,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "ServiceNow offers various ways to learn, get certified, and advance your career with its products and solutions. ",
+  "ProductId": null,
+  "ShortDescription": "Optimise productivity, reduce cost, and increase resilience with a Single IT Platform..",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Reinvent the employee experience for moments big and small",
+      "sequence": 0,
+      "description": "Supercharge employee productivity and satisfaction with AI-driven self-service across any journey. Foster career growth and smarter talent decisions to spur growth. "
+    },
+    {
+      "name": "Remove friction, reinvent service, and transform experiences",
+      "sequence": 1,
+      "description": "Exceed expectations for speed and convenience with AI-driven self-service and agent productivity tools. Automate processes across departments and reduce the cost to serve. "
+    },
+    {
+      "name": "Create smarter apps faster with low code and intelligent automation",
+      "sequence": 2,
+      "description": "Empower anyone to build new workflows. Multiply your developer force with AI, using natural language prompts to build apps."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:34.075Z",
+  "enhanced_description": "ServiceNow is a cloud-based platform designed to digitize and unify organizations, enabling smarter, faster, and more agile workflows. It aims to optimize productivity, reduce costs, and increase resilience by providing a single IT platform. The platform emphasizes reinventing both employee and customer experiences through AI-driven self-service and intelligent automation, and also empowers users to build new workflows and applications with low-code capabilities and AI-powered natural language prompts.",
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Enterprise digitization and unification",
+    "Workforce productivity optimization",
+    "Employee experience transformation (AI-driven self-service)",
+    "Customer service enhancement (AI-driven self-service, agent productivity tools)",
+    "Process automation across departments",
+    "Low-code application development for custom workflows",
+    "HR management and analytics",
+    "Talent development and career growth support",
+    "Cost reduction through process optimization"
+  ],
+  "competitive_advantages": [
+    "Unified 'Single IT Platform' approach for enterprise services",
+    "Extensive AI-driven self-service capabilities for employees and customers",
+    "Empowering low-code and intelligent automation for rapid app and workflow creation",
+    "Support for natural language prompts in application building",
+    "Focus on enterprise-wide connectivity and digitization",
+    "Demonstrated ability to reduce operational costs and increase organizational resilience"
+  ],
+  "implementation_scenarios": [
+    "Enterprise-wide digital workflow transformation",
+    "Modernization of HR services and talent management",
+    "Enhancement of customer service operations",
+    "Development of custom business applications and automated workflows",
+    "Consolidation of IT and business services onto a single platform"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "HR Analytics",
+    "Employee Engagement",
+    "Employee Experience Management",
+    "Employee Development",
+    "Career Growth",
+    "HR Management Suites"
+  ],
+  "technology_stack": [
+    "Cloud-based architecture",
+    "Artificial Intelligence (AI)",
+    "Low-code development",
+    "Intelligent Automation",
+    "Natural Language Processing (NLP)"
+  ],
+  "integration_capabilities": [
+    "Enterprise-wide system integration (within the ServiceNow platform)",
+    "Cross-departmental process automation and data flow"
+  ],
+  "roi_benefits": [
+    "Increased workforce productivity",
+    "Reduced operational costs",
+    "Improved organizational resilience",
+    "Enhanced employee happiness and engagement",
+    "Greater employee and customer satisfaction",
+    "Faster service delivery and convenience",
+    "Accelerated application and workflow development"
+  ],
+  "searchable_keywords": [
+    "ServiceNow",
+    "Cloud platform",
+    "Digital transformation",
+    "Enterprise workflow automation",
+    "Workforce productivity",
+    "Employee experience management",
+    "HR management suite",
+    "Talent management",
+    "HR analytics",
+    "Artificial Intelligence (AI)",
+    "AI-driven self-service",
+    "Low-code development",
+    "Intelligent automation",
+    "Process automation",
+    "Customer service automation",
+    "Employee engagement",
+    "Employee happiness",
+    "Cost reduction",
+    "Organizational resilience",
+    "Career growth",
+    "Talent decisions",
+    "Single IT platform",
+    "Workflow automation",
+    "App building",
+    "Natural language prompts",
+    "Enterprise connectivity",
+    "HR technology"
+  ],
+  "primary_users": [
+    "Employees",
+    "Customers",
+    "Service Agents",
+    "Developers",
+    "HR Professionals",
+    "IT Professionals",
+    "Business Stakeholders"
+  ],
+  "deployment_options": [
+    "Cloud (SaaS)"
+  ],
+  "_weight": 1
+}

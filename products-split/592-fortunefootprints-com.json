@@ -1,0 +1,134 @@
+{
+  "id": 592,
+  "name": "Fortunefootprints.com",
+  "description": "Fortunefootprints.com is a Recruiting Company which focuses on driving talent towards opportunity. It aims to help organization\u2019s Hiring Function with innovative solution along with Leadership Hiring along with other HR Solutions. Fortune Footprints has an inbuilt hiring platform which helps recruiters to hire top talent effortlessly. For Candidates they keep getting irrelevant job alerts which involve filling long forms and get spammed by unwanted calls. Based on candidates professional background, career interests and skill competencies our portal helps bring a fine balance between the needs of recruiters and candidates. For Clients the first key to effective recruitment is being active online and establishing themselves as the authority in the respective field. 92 percent of recruiters use social media to find the best candidates for each position. Choosing the right social networks, Using Multiple Techniques to Keep Potential Candidates Engaged, is a cost-efficient and hardly targeted option for reaching the right audience. Our platform provides a Social Talent Community helps active and passive job seekers with companies looking to hire elite talent. Our in-built technology helps to integrate a diverse range of content into our Social Wall & maximize on audience engagement.",
+  "features": [
+    "HR Transformation Projects",
+    "Compensation and Benefits Designing",
+    "Training and Development"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Talent Management",
+    "Other / technology",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Employee scheduling software",
+    "Machine learning HR",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Recruiting efficiency",
+    "Talent acquisition"
+  ],
+  "headquarter": "Bangalore, Karnataka",
+  "launch_date": "2015",
+  "order": 20550,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Fortune Favours The Prepared Mind",
+  "ProductId": null,
+  "ShortDescription": "Our platform delivers data-driven hiring experience based on trusted science and proven technology.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:30:38.567Z",
+  "enhanced_description": "Fortunefootprints.com is a recruiting company offering an in-built, data-driven hiring platform based on trusted science and proven technology. It focuses on connecting top talent with opportunities by balancing the needs of recruiters and candidates, leveraging professional background, career interests, and skill competencies. The platform helps organizations' hiring functions with innovative solutions, including leadership hiring. It utilizes an in-built social talent community and technology, potentially incorporating machine learning, to engage active and passive job seekers through a social wall designed to integrate diverse content and maximize audience engagement. Beyond recruitment, Fortunefootprints.com also provides broader HR solutions such as HR Transformation Projects, Compensation and Benefits Designing, and Training and Development.",
+  "key_use_cases": [
+    "Efficient talent acquisition and hiring",
+    "Leadership hiring",
+    "Candidate matching and engagement",
+    "Social talent community building for active and passive job seekers",
+    "HR transformation projects",
+    "Compensation and benefits design",
+    "Training and development initiatives",
+    "Improving hiring manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "In-built, data-driven hiring platform for effortless talent acquisition",
+    "Balances recruiter and candidate needs through skill and interest matching",
+    "Offers a social talent community for active and passive job seekers",
+    "Maximizes audience engagement via an integrated Social Wall",
+    "Provides a comprehensive suite of HR solutions beyond recruitment (HR Transformation, Compensation & Benefits, Training & Development)"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Leadership Hiring",
+    "HR Transformation",
+    "Compensation and Benefits",
+    "Training and Development",
+    "Talent Management",
+    "Learning and Development",
+    "Employee Scheduling"
+  ],
+  "technology_stack": [
+    "Machine Learning"
+  ],
+  "roi_benefits": [
+    "Faster and more efficient talent acquisition",
+    "Improved quality of hires (top talent)",
+    "Enhanced candidate experience",
+    "Increased recruiter and hiring manager productivity",
+    "Cost-efficient recruitment strategies",
+    "Better alignment of talent with opportunities"
+  ],
+  "searchable_keywords": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Hiring Platform",
+    "HR Solutions",
+    "Leadership Hiring",
+    "HR Transformation",
+    "Compensation Benefits",
+    "Training Development",
+    "Talent Management",
+    "Learning Development",
+    "Social Talent Community",
+    "Job Matching",
+    "Candidate Engagement",
+    "Machine Learning HR",
+    "Recruitment Efficiency",
+    "Data-Driven Hiring",
+    "Social Wall",
+    "Employee Scheduling"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Hiring Managers",
+    "Candidates",
+    "Job Seekers (active and passive)"
+  ],
+  "deployment_options": [
+    "SaaS",
+    "Cloud-based"
+  ],
+  "_weight": 1
+}

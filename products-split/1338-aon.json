@@ -1,0 +1,194 @@
+{
+  "id": 1338,
+  "name": "Aon",
+  "description": "Aon plc is a British-American professional services and management consulting firm that offers a range of risk-mitigation products and data and analytics services. Aon provides their clients in over 120 countries and sovereignties with advice and solutions that give them the clarity and confidence to make better decisions to protect and grow their business.    ",
+  "features": [
+    "Risk Capital",
+    "Human Capital",
+    "Building a Resilient Workforce"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Talent Management",
+    "Total Rewards",
+    "Recruiting",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Capital Management",
+    "HR management suites",
+    "Career management software",
+    "Employee engagement software",
+    "Experience Software",
+    "Talent management software",
+    "Workforce management",
+    "Benefits administration software",
+    "Compensation management software",
+    "Employee recognition software",
+    "Performance management solutions",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Hiring",
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "Hiring efficiency",
+    "Quality of hire",
+    "Hiring process optimization"
+  ],
+  "headquarter": "London",
+  "launch_date": "1982",
+  "order": 11,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "We exist to shape decisions for the better",
+  "ProductId": null,
+  "ShortDescription": "Aon is in the business of better decisions",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Reinsurance",
+      "sequence": 0,
+      "description": "Delivering value for insurance industry clients with more relevant and impactful insight and solutions to meet their strategic goals."
+    },
+    {
+      "name": "Risk Analytics",
+      "sequence": 1,
+      "description": "Unlock the full potential of your risk data and Aon's broader insights to make better decisions to protect and grow your organization."
+    },
+    {
+      "name": "Health & Benefits",
+      "sequence": 2,
+      "description": "The healthcare and benefits you provide are vital tools to support a healthy, productive workforce and to attract and retain talent."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-11T10:48:20.321Z",
+  "enhanced_description": "Aon plc is a British-American professional services and management consulting firm globally present in over 120 countries, specializing in risk-mitigation products and data and analytics services. The firm provides expert advice and solutions to empower clients to make better decisions, protect assets, and foster business growth. Aon's HR technology offerings, specifically under its Human Capital solutions, encompass comprehensive HR management suites, talent management, total rewards, and recruiting. These solutions are designed to build a resilient workforce, boost hiring manager confidence and productivity, support a healthy and productive workforce, and aid in attracting and retaining talent, complementing their core services like risk analytics and health & benefits.",
+  "target_industries": [
+    "Insurance"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Boosting hiring manager confidence and productivity",
+    "Building a resilient workforce",
+    "Optimizing hiring processes and improving quality of hire",
+    "Managing human capital (HRMS/HCM)",
+    "Administering employee benefits and compensation",
+    "Improving employee engagement and recognition",
+    "Implementing performance management solutions",
+    "Workforce planning and management",
+    "Career management and development",
+    "Mitigating business risks through data and analytics",
+    "Supporting strategic goals for insurance industry clients",
+    "Attracting and retaining talent"
+  ],
+  "competitive_advantages": [
+    "Global reach, serving clients in over 120 countries",
+    "Integrated offering of professional services, management consulting, and technology solutions",
+    "Expertise across risk mitigation, data & analytics, and human capital",
+    "Focus on empowering better decision-making for business protection and growth",
+    "Specialized advisory role as an HR consulting provider"
+  ],
+  "hr_functions_supported": [
+    "HRMS / HCM",
+    "Talent Management",
+    "Total Rewards",
+    "Recruiting",
+    "Human Capital Management",
+    "HR management suites",
+    "Career management",
+    "Employee engagement",
+    "Experience Management",
+    "Workforce management",
+    "Benefits administration",
+    "Compensation management",
+    "Employee recognition",
+    "Performance management",
+    "HR consulting"
+  ],
+  "roi_benefits": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Protect and grow business",
+    "Make better decisions",
+    "Support a healthy, productive workforce",
+    "Attract and retain talent",
+    "Improve hiring efficiency",
+    "Enhance quality of hire",
+    "Optimize hiring processes"
+  ],
+  "searchable_keywords": [
+    "Aon",
+    "professional services",
+    "management consulting",
+    "risk mitigation",
+    "data analytics",
+    "risk capital",
+    "human capital",
+    "resilient workforce",
+    "HRMS",
+    "HCM",
+    "talent management",
+    "total rewards",
+    "recruiting",
+    "human capital management",
+    "HR management suites",
+    "career management",
+    "employee engagement",
+    "experience software",
+    "workforce management",
+    "benefits administration",
+    "compensation management",
+    "employee recognition",
+    "performance management",
+    "HR consulting",
+    "hiring",
+    "hiring manager",
+    "hiring manager confidence",
+    "hiring manager productivity",
+    "hiring efficiency",
+    "quality of hire",
+    "hiring process optimization",
+    "reinsurance",
+    "risk analytics",
+    "health benefits",
+    "better decisions",
+    "protect business",
+    "grow business"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Professionals",
+    "Business Leaders",
+    "Executives",
+    "Employees"
+  ],
+  "_weight": 1
+}

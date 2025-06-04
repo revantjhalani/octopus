@@ -1,0 +1,169 @@
+{
+  "id": 825,
+  "name": "Learning Linkups Private Limited",
+  "description": "With a rich pool of SMEs, we have developed some unique offerings for our customers. Our solutions include Customized Learning Solutions, Video Learning Solutions, OD Consulting Services, Tech Solutions for Mobile learning, Assessment tools and Training evaluation tools.",
+  "features": [
+    "Provide LMS website",
+    "Diagnostic & Development Consulting",
+    "Video learning solution"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Course authoring"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning optimisation",
+    "Skill acquisition",
+    "Employee engagement"
+  ],
+  "headquarter": "Mumbai",
+  "launch_date": "2014",
+  "order": 20778,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Unlock value of your Human Equity",
+  "ProductId": null,
+  "ShortDescription": "We strive to drive productivity in enterprises through our comprehensive suite of product & services .",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Corporate Learning Solutions",
+      "sequence": 0,
+      "description": "Employee & workplace productivity is akin breathing. It\u2019s vital in keeping your company alive and thriving. In good times, we don\u2019t think too much about it, but when things get labored, or there\u2019s a major blockage, operations quickly grind to a halt. Thus, on the job, training for employees, becomes crucial part of ensuring productivity."
+    },
+    {
+      "name": "NextOrbit Learning App",
+      "sequence": 1,
+      "description": "Digital wave will take you to new shores, surf the waves of digital disruption to success. We are bringing to you cloud based Learning Management System, tailored to your business. Let's onboard and unlock the \u201cBlue Ocean\u201d of Possibilities. Learning Linkups have always pioneered in creating unique solutions for your business needs. We bring to you a technology platform that will help you to quickly launch your own LMS website and app with all the features you need."
+    },
+    {
+      "name": "Diagnostic & Development Consulting",
+      "sequence": 2,
+      "description": "We offer a complete suite of consulting services . With the talent landscape available onboard we offer consulting services for Assessment & Development Centers, Competency Framework-Design, Alignment, Audit, Diagnostic Studies and Change Management "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:11.951Z",
+  "enhanced_description": "Learning Linkups Private Limited offers a comprehensive suite of products and services focused on driving enterprise productivity through learning and development. With a rich pool of subject matter experts (SMEs), they provide unique offerings including customized learning solutions, video learning solutions, and organizational development (OD) consulting services. Their technology solutions support mobile learning and include a cloud-based Learning Management System (LMS) called 'NextOrbit Learning App', which allows businesses to quickly launch their own LMS website and app. They also offer assessment tools and training evaluation tools. Additionally, Learning Linkups provides a complete suite of Diagnostic & Development Consulting services, encompassing Assessment & Development Centers, Competency Framework design, alignment, audit, diagnostic studies, and change management. Their solutions aim to unlock the value of human equity and optimize learning within organizations.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Customized learning program development",
+    "Video-based learning delivery",
+    "Organizational development consulting",
+    "Mobile learning deployment",
+    "LMS website and app implementation",
+    "Employee assessment and development",
+    "Training evaluation",
+    "Competency framework design and management",
+    "Change management initiatives",
+    "On-the-job training",
+    "Course authoring"
+  ],
+  "competitive_advantages": [
+    "Rich pool of SMEs",
+    "Unique offerings and solutions",
+    "Comprehensive suite of products and services",
+    "Integrated technology and consulting services (OD consulting with tech solutions)",
+    "Cloud-based LMS with dedicated app (NextOrbit Learning App) for rapid deployment",
+    "Focus on driving enterprise productivity and human equity"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based LMS deployment",
+    "Rapid launch of LMS website and mobile app"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Organizational Development (OD)",
+    "Talent Assessment",
+    "Competency Management",
+    "Training Management",
+    "Employee Engagement"
+  ],
+  "technology_stack": [
+    "Cloud-based platform",
+    "Mobile technology (for app)",
+    "Web-based technology"
+  ],
+  "roi_benefits": [
+    "Drives productivity in enterprises",
+    "Unlocks value of human equity",
+    "Ensures workplace and employee productivity",
+    "Facilitates digital transformation and success (surfing waves of digital disruption)",
+    "Unlocks new possibilities ('Blue Ocean' of Possibilities)"
+  ],
+  "searchable_keywords": [
+    "Learning Linkups",
+    "Learning and Development",
+    "L&D",
+    "Corporate LMS",
+    "LMS",
+    "Learning Management System",
+    "Course authoring",
+    "Skill development",
+    "Learning optimisation",
+    "Skill acquisition",
+    "Employee engagement",
+    "Customized Learning Solutions",
+    "Video Learning Solutions",
+    "OD Consulting Services",
+    "Organizational Development",
+    "Mobile learning",
+    "Assessment tools",
+    "Training evaluation tools",
+    "Diagnostic Consulting",
+    "Development Consulting",
+    "NextOrbit Learning App",
+    "Employee productivity",
+    "Workplace productivity",
+    "Competency Framework",
+    "Change Management",
+    "Human Equity",
+    "On-the-job training"
+  ],
+  "primary_users": [
+    "HR professionals (L&D, OD, Training managers)",
+    "Employees (as learners)",
+    "Corporate leaders and managers",
+    "Subject Matter Experts (SMEs)"
+  ],
+  "deployment_options": [
+    "Cloud",
+    "Web-based",
+    "Mobile Application"
+  ],
+  "scalability_features": [
+    "Supports organizations of all sizes including small, large, and global enterprises",
+    "Utilizes a cloud-based architecture"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,185 @@
+{
+  "id": 1032,
+  "name": "PT. Galiba Dayamitra Utama",
+  "description": "PT. GALIBA DAYAMITRA UTAMA, VALIDATED AND ESTABLISHED ON 2ND DECEMBER, 2002 THROUGH MINISTERIAL DECREE. THE MANAGEMENT PERFORMANCE WAS CREATED SO IN ORDER TO MEET THE CLIENT REQUIREMENTS CONSTITUTING:",
+  "features": [
+    "Offer different field services at one place",
+    "Work with Big Data and Machine Learning",
+    "Provide sales distribution"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Recruiting automation software",
+    "Talent management software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Talent sourcing",
+    "Candidate screening",
+    "Job boards"
+  ],
+  "headquarter": "Jakarta",
+  "launch_date": "2002",
+  "order": 20975,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Engineering & Business Outsourcing",
+  "ProductId": null,
+  "ShortDescription": "GAliba is HR management and business consulting company",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Human Resources",
+      "sequence": 0,
+      "description": "Galiright\u00ae\u2019s help achieve a strategic position to manage talent acquisition, leadership development, workforce planning."
+    },
+    {
+      "name": "Finance & Tax",
+      "sequence": 1,
+      "description": "Galibright\u00ae is able to provide a wide range accounting, financial reporting, auditor liaison and tax compliance services."
+    },
+    {
+      "name": "Business",
+      "sequence": 2,
+      "description": "Galibright\u00ae bring a strong mix of industry, strategy, operations and financial experience."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:39:12.275Z",
+  "enhanced_description": "PT. Galiba Dayamitra Utama, established on 2nd December, 2002 through ministerial decree, is an HR management and business consulting company specializing in engineering and business outsourcing. The company focuses on meeting client requirements by offering diverse field services, sales distribution support, and leveraging Big Data and Machine Learning capabilities. Their core offerings include comprehensive human resources services (talent acquisition, leadership development, workforce planning), finance and tax services (accounting, financial reporting, auditor liaison, and tax compliance), and business consulting that integrates industry, strategy, operations, and financial expertise. Galiba aims to help clients fill open positions more quickly and achieve a strategic position in managing talent.",
+  "target_industries": [
+    "Engineering",
+    "General Business Services",
+    "Field Services"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerated Recruitment",
+    "Talent Acquisition",
+    "Leadership Development",
+    "Workforce Planning",
+    "Accounting Services",
+    "Financial Reporting",
+    "Tax Compliance",
+    "Audit Liaison",
+    "Business Strategy Consulting",
+    "Operations Consulting",
+    "Financial Consulting",
+    "Field Service Management",
+    "Sales Distribution Management",
+    "Staffing Solutions",
+    "HR Outsourcing"
+  ],
+  "competitive_advantages": [
+    "Established presence since 2002 (over two decades of experience)",
+    "Leverages Big Data and Machine Learning for service delivery",
+    "Offers a comprehensive suite of services (one-stop shop for HR, Finance, and Business functions)",
+    "Specialization in Engineering & Business Outsourcing",
+    "Strategic approach to HR management (talent acquisition, leadership development, workforce planning)",
+    "Ability to serve large and global enterprises"
+  ],
+  "implementation_scenarios": [
+    "Outsourced Services"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Management",
+    "Staffing",
+    "Talent Acquisition",
+    "Leadership Development",
+    "Workforce Planning",
+    "Candidate Sourcing",
+    "Candidate Screening"
+  ],
+  "technology_stack": [
+    "Big Data",
+    "Machine Learning"
+  ],
+  "roi_benefits": [
+    "Faster time to fill open positions",
+    "Improved strategic talent management",
+    "Enhanced compliance through tax and financial reporting services",
+    "Optimized business strategy and operations",
+    "Potential cost efficiencies through outsourcing core functions"
+  ],
+  "searchable_keywords": [
+    "HR management",
+    "business consulting",
+    "engineering outsourcing",
+    "business outsourcing",
+    "field services",
+    "sales distribution",
+    "recruiting",
+    "talent management",
+    "staffing",
+    "recruiting automation",
+    "hiring speed",
+    "talent sourcing",
+    "candidate screening",
+    "job boards",
+    "human resources",
+    "talent acquisition",
+    "leadership development",
+    "workforce planning",
+    "finance outsourcing",
+    "tax compliance",
+    "accounting services",
+    "financial reporting",
+    "audit liaison",
+    "business strategy",
+    "operations consulting",
+    "Jakarta",
+    "outsourcing services",
+    "staffing solutions"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "Recruitment Teams",
+    "Talent Acquisition Teams",
+    "Finance Leaders",
+    "Accounting Teams",
+    "Business Leaders",
+    "Operations Managers",
+    "Hiring Managers"
+  ],
+  "compliance_features": [
+    "Tax compliance services"
+  ],
+  "scalability_features": [
+    "Supports Large Enterprises",
+    "Supports Global Enterprises"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,158 @@
+{
+  "id": 1297,
+  "name": "BarRaiser",
+  "description": "BarRaiser is an Intelligent Interview Platform leading the charge in revolutionizing the interviewing process. As a B2B SaaS provider, our vision is to create a seamless and future-ready interviewing experience for Hiring Managers, HR Leaders, Recruiters and Chief Talent Officers.\n \n Our innovative suite of products - the Interview Co-pilot Tool, Structured Interview Planning Tool, Interview Intelligence, and Video Interview Platform - is designed to enhance every facet of the recruiting journey. With cutting-edge technologies like AI-driven interview structuring, real-time feedback, and AI interview highlights, we are transcending traditional boundaries in interviewing.",
+  "features": [
+    "Recruitment",
+    "AI for recruitment",
+    "Interviewing process"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Software and Services Related to HR Software",
+    "Recruiting software",
+    "Artificial intelligence",
+    "Video interviewing software"
+  ],
+  "tags": [
+    "Interview scheduling",
+    "Interviewing costs",
+    "Hiring",
+    "Hiring best practices"
+  ],
+  "headquarter": "Menlo Park, California",
+  "launch_date": "2020",
+  "order": 21121,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Redefine Excellence",
+  "ProductId": null,
+  "ShortDescription": "BarRaiser is an Intelligent Interview Platform leading the charge in revolutionizing the interviewing process. ",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Structured Interviews",
+      "sequence": 0,
+      "description": "Enhance hiring efficiency with the help of BarRaiser\u2019s structured interviewing tool that reduces bias in interviewing"
+    },
+    {
+      "name": "Interview Co-Pilot",
+      "sequence": 1,
+      "description": "Transforming hiring by guiding interviewers to identify and select top-tier talent effectively"
+    },
+    {
+      "name": "Real-time Feedback",
+      "sequence": 2,
+      "description": "Use BarRaiser's Interview assistant to allow your Interviewers fill feedback during the interview"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:18.815Z",
+  "enhanced_description": "BarRaiser is an Intelligent Interview Platform and B2B SaaS provider that revolutionizes the interviewing process by offering a seamless, future-ready experience. It serves Hiring Managers, HR Leaders, Recruiters, and Chief Talent Officers across small, large, and global enterprises. The platform's innovative suite of products, including the Interview Co-pilot Tool, Structured Interview Planning Tool, Interview Intelligence, and Video Interview Platform, is designed to enhance every facet of the recruiting journey. Utilizing cutting-edge AI-driven technologies, BarRaiser facilitates structured interviews to reduce bias, provides real-time feedback to interviewers, and generates AI interview highlights to guide the selection of top-tier talent. This comprehensive solution aids in efficient hiring, improved interviewing processes, and cost reduction.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Revolutionizing the interviewing process",
+    "Enhancing the recruiting journey",
+    "AI-driven interview structuring",
+    "Providing real-time feedback during interviews",
+    "Generating AI interview highlights",
+    "Guiding interviewers to identify top talent (Interview Co-pilot)",
+    "Reducing bias in interviewing through structured tools",
+    "Identifying and selecting top-tier talent effectively",
+    "Interview scheduling",
+    "Reducing interviewing costs",
+    "Implementing hiring best practices",
+    "Conducting video interviews"
+  ],
+  "competitive_advantages": [
+    "Intelligent Interview Platform leading the charge in revolutionizing interviewing",
+    "AI-driven interview structuring",
+    "Real-time feedback capability during interviews",
+    "AI interview highlights for intelligence",
+    "Structured Interview Planning Tool for bias reduction",
+    "Interview Co-pilot Tool for guiding interviewers to select top talent",
+    "Seamless and future-ready interviewing experience"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based (SaaS)"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "HR Analytics"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence",
+    "Video Conferencing/Streaming"
+  ],
+  "roi_benefits": [
+    "Enhance hiring efficiency",
+    "Reduces bias in interviewing",
+    "Identify and select top-tier talent effectively",
+    "Reduce interviewing costs",
+    "Improved interviewer feedback process"
+  ],
+  "searchable_keywords": [
+    "BarRaiser",
+    "Intelligent Interview Platform",
+    "B2B SaaS",
+    "interviewing process",
+    "hiring",
+    "recruitment",
+    "HR software",
+    "recruiting software",
+    "AI for recruitment",
+    "Artificial intelligence",
+    "Video interviewing software",
+    "Interview scheduling",
+    "Interviewing costs",
+    "Hiring best practices",
+    "Structured Interviews",
+    "bias reduction",
+    "Interview Co-Pilot",
+    "real-time feedback",
+    "Interview assistant",
+    "AI interview highlights",
+    "talent acquisition",
+    "HR analytics"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Leaders",
+    "Recruiters",
+    "Chief Talent Officers",
+    "Interviewers"
+  ],
+  "deployment_options": [
+    "Cloud (SaaS)"
+  ],
+  "_weight": 1
+}

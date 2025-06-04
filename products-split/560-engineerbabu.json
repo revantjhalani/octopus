@@ -1,0 +1,147 @@
+{
+  "id": 560,
+  "name": "EngineerBabu",
+  "description": "EngineerBabu is an IT services company, with a committed team. Armed with 250+ Geeks, in three cities in India, Melbourne, Australia. We are specialized in building MVP (minimum viable product) for startups. With our extremely innovative, dedicated & experienced team, we have developed robust & scalable solutions that helped our clients to overcome their hurdles. We have Worked with (350+ Clients ) including reputative Brands like Samsung, YourStory, Frankgreen, IBM. Honeywell, HSBC bank.",
+  "features": [
+    "Working remotely improves the quality of work done by eliminating common office distractions...",
+    "The freedom to be productive and have a life outside the office...",
+    "Test the waters and take it slow to see whether remote work really works for your company."
+  ],
+  "founders": [
+    "Mayank Pratap"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Employee engagement software",
+    "Talent acquisition suites",
+    "Recruiting software",
+    "Staffing services providers",
+    "HR consulting providers",
+    "Workforce management",
+    "HR management suites"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "Indore, Madhya Pradesh",
+  "launch_date": "2014",
+  "order": 20520,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Engineers that perform, remotely.",
+  "ProductId": null,
+  "ShortDescription": "EngineerBabu helps in Building and managing a tech team.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:29:59.800Z",
+  "enhanced_description": "EngineerBabu is an IT services company specializing in building and managing remote tech teams, with a particular focus on developing Minimum Viable Products (MVPs) for startups. Leveraging a global pool of over 250 'Geeks' across three cities in India and Melbourne, Australia, they deliver robust and scalable solutions. Their services directly support clients' HR objectives by enabling faster and more efficient talent acquisition, boosting hiring manager confidence and productivity, and reducing the overall cost of hiring qualified employees. EngineerBabu has a proven track record, having worked with over 350 clients, including reputable brands such as Samsung, IBM, Honeywell, and HSBC Bank.",
+  "ideal_company_sizes": [
+    "Startups",
+    "Small & Medium Business (SMB)",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Building Minimum Viable Products (MVPs)",
+    "Building and managing remote tech teams",
+    "Talent acquisition for tech roles",
+    "Hiring process optimization",
+    "Reducing the cost of hiring qualified employees"
+  ],
+  "competitive_advantages": [
+    "Specialization in building MVPs for startups",
+    "Access to a global talent pool of 250+ 'Geeks' across India and Australia",
+    "Proven track record with over 350 clients, including large reputable brands",
+    "Expertise in developing robust and scalable solutions",
+    "Focus on remote team performance and productivity"
+  ],
+  "implementation_scenarios": [
+    "Staff augmentation for tech teams",
+    "Project-based outsourcing for software development (MVP)"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Staffing",
+    "Workforce Management",
+    "HR Consulting",
+    "Talent Management",
+    "Hiring Process Optimization"
+  ],
+  "roi_benefits": [
+    "Faster and more efficient talent acquisition",
+    "Increased hiring manager confidence and productivity",
+    "Reduced cost of hiring qualified employees",
+    "Improved quality of work through remote team setups",
+    "Development of robust and scalable tech solutions"
+  ],
+  "searchable_keywords": [
+    "EngineerBabu",
+    "IT services",
+    "MVP",
+    "minimum viable product",
+    "startups",
+    "tech team",
+    "remote engineers",
+    "remote work",
+    "robust solutions",
+    "scalable solutions",
+    "talent acquisition",
+    "recruiting",
+    "staffing services",
+    "HR consulting",
+    "workforce management",
+    "talent management",
+    "hiring optimization",
+    "hiring best practices",
+    "hiring automation",
+    "data-driven hiring",
+    "remote team management"
+  ],
+  "primary_users": [
+    "Startup Founders",
+    "HR Leaders",
+    "Hiring Managers (for tech roles)",
+    "IT Directors",
+    "Heads of Engineering"
+  ],
+  "scalability_features": [
+    "Ability to provide scalable tech solutions",
+    "Leverages a large talent pool (250+ Geeks)",
+    "Global operational presence (India, Australia) to scale talent delivery"
+  ],
+  "_weight": 1
+}

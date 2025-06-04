@@ -1,0 +1,164 @@
+{
+  "id": 1252,
+  "name": "Door Training",
+  "description": "Door Training and Consulting  provide smart training and consulting solutions in the areas of leadership, sales and sales management, customer service and soft skills training such as communication and negotiation and beyond. DTCI facilitates corporate training solutions that have a direct impact on business performance",
+  "features": [
+    "CHANGE MANAGEMENT INITIATIVES | BUILDING A COACHING CULTURE | SALES CAPABILITY BUILDING | ASSESSMENT CENTRE | LEADERSHIP DEVELOPMENT JOURNEYS",
+    "LOOP - SUSTAINABLE SKILLING AND RE-SKILLING SYSTEM"
+  ],
+  "founders": [
+    "SANDEEP BUDHIRAJA"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training management system"
+  ],
+  "tags": [
+    "Skill acquisition",
+    "Learning efficiency"
+  ],
+  "headquarter": "New Delhi",
+  "launch_date": "1998",
+  "order": 21080,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "As a group, we\u2019ve been helping organizations in defining strategies that convert their visions into reality at individual, team and organizational level",
+  "ProductId": null,
+  "ShortDescription": "Door Training & Consulting India Pvt Ltd (DTCI) is a renowned L&D consulting organization. We offer an unparalleled expertise in L & D domain.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [
+    "Persona Global",
+    "Business Today",
+    "TALENTSMART"
+  ],
+  "Highlights": [
+    {
+      "name": "Leadership development",
+      "sequence": 0,
+      "description": "Our leadership development programs can equip individuals with the skills and qualities required to succeed in leadership roles."
+    },
+    {
+      "name": "Sales Capability Building",
+      "sequence": 1,
+      "description": "The sales development programs of DTCI are designed to elevate sales teams to new heights of performance and success."
+    },
+    {
+      "name": "Individual development",
+      "sequence": 2,
+      "description": "DTCI believes that investing in individual development leads to overall organizational success."
+    },
+    {
+      "name": "Culture Management",
+      "sequence": 3,
+      "description": "Our culture management programs are designed to help organizations build and sustain a positive and inclusive work culture."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": true,
+  "PublishedAt": "2024-03-05T11:13:16.319Z",
+  "enhanced_description": "Door Training & Consulting India Pvt Ltd (DTCI) is an established L&D consulting organization, founded in 1998. They provide smart training and consulting solutions aimed at directly impacting business performance by helping organizations convert their visions into reality at individual, team, and organizational levels. Their core offerings include leadership development, sales and sales management, customer service, and various soft skills such as communication and negotiation. DTCI specializes in strategic initiatives like change management, building a coaching culture, sales capability building, and implementing assessment centers and comprehensive leadership development journeys. They also utilize a proprietary 'LOOP' system for sustainable skilling and re-skilling, demonstrating unparalleled expertise in the L&D domain.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Developing leadership skills and capabilities",
+    "Enhancing sales team performance and sales management effectiveness",
+    "Improving customer service skills",
+    "Building critical soft skills like communication and negotiation",
+    "Driving organizational change management initiatives",
+    "Establishing and nurturing a coaching culture within organizations",
+    "Conducting assessment centers for talent evaluation",
+    "Designing and facilitating comprehensive leadership development journeys",
+    "Implementing sustainable skilling and re-skilling programs",
+    "Fostering individual employee development for overall organizational success",
+    "Building and sustaining a positive and inclusive organizational culture"
+  ],
+  "competitive_advantages": [
+    "Extensive experience in the Learning & Development domain since 1998",
+    "Focus on delivering corporate training solutions with a direct impact on business performance",
+    "Proprietary 'LOOP' system for sustainable skilling and re-skilling",
+    "Ability to help organizations define strategies and convert visions into reality at all organizational levels",
+    "Claimed 'unparalleled expertise' in the L&D domain"
+  ],
+  "implementation_scenarios": [
+    "Tailored corporate training engagements",
+    "Customized consulting solutions"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Talent Management (Leadership Development, Individual Development, Assessment)",
+    "Organizational Development (Change Management, Culture Management)"
+  ],
+  "integration_capabilities": [
+    "Persona Global",
+    "Business Today",
+    "TALENTSMART"
+  ],
+  "roi_benefits": [
+    "Improved business performance",
+    "Accelerated skill development",
+    "Enhanced learning efficiency",
+    "Elevated sales team performance and success",
+    "Improved leadership capabilities for individuals",
+    "Overall organizational success through individual development",
+    "Development and sustenance of a positive and inclusive work culture"
+  ],
+  "searchable_keywords": [
+    "Door Training",
+    "consulting",
+    "leadership",
+    "sales",
+    "sales management",
+    "customer service",
+    "soft skills",
+    "communication",
+    "negotiation",
+    "corporate training",
+    "business performance",
+    "change management",
+    "coaching culture",
+    "sales capability",
+    "assessment center",
+    "leadership development",
+    "skilling",
+    "re-skilling",
+    "Learning and Development",
+    "training management system",
+    "skill acquisition",
+    "learning efficiency",
+    "individual development",
+    "culture management"
+  ],
+  "primary_users": [
+    "HR professionals (L&D Managers, HR Business Partners)",
+    "Business leaders",
+    "Employees",
+    "Sales teams",
+    "Customer service teams"
+  ],
+  "_weight": 1
+}

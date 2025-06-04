@@ -1,0 +1,153 @@
+{
+  "id": 1013,
+  "name": "Prime Meridian Consulting",
+  "description": "Prime Meridian Consulting India Private Limited is an end-to-end leadership development and human transformation consulting services company providing coaching, training and consulting services to corporate bodies and academic institutions.",
+  "features": [
+    "Best in Class Content and International\nPartnerships",
+    "Customized for Your Needs and\nCompetencies",
+    "Flexible Delivery. In-Person, Online,\nSelf-Paced"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Course authoring",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Skill acquisition",
+    "Continuous learning",
+    "Learning optimisation",
+    "Employee empowerment"
+  ],
+  "headquarter": "Gurgaon",
+  "launch_date": "2012",
+  "order": 20956,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "building leaders everywhere",
+  "ProductId": null,
+  "ShortDescription": "The company delivers training and consultancy to help people perform at world-class levels at every level of organisation",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Focus on Accounting, Auditing, and Taxation Services:",
+      "sequence": 0,
+      "description": "The website emphasizes its expertise in accounting, auditing, and taxation services. Phrases like \"accounting and bookkeeping,\" \"superior taxation and tax agency services,\" and \"consultancy\" suggest they offer a comprehensive package for businesses managing their finances."
+    },
+    {
+      "name": "Compliance and Regulatory Support",
+      "sequence": 1,
+      "description": "The website highlights their ability to handle regulatory and compliance needs. This could include assistance with filing taxes, adhering to financial regulations, and ensuring a company operates within legal boundaries."
+    },
+    {
+      "name": "Value-Added Services:",
+      "sequence": 2,
+      "description": "The website mentions \"valued added services\" without explicitly detailing them. This could suggest additional services beyond core accounting and tax functions, potentially including financial consulting, business advisory, or other services tailored to client needs."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:38:47.974Z",
+  "enhanced_description": "Prime Meridian Consulting India Private Limited is an end-to-end leadership development and human transformation consulting services company. It provides coaching, training, and consulting services to corporate bodies and academic institutions, focusing on accelerating skill development, improving learning efficiency, and enhancing employee happiness and engagement. The services are delivered with best-in-class content, leveraging international partnerships, and are highly customized for specific client needs and competencies. Delivery is flexible, available in-person, online, and self-paced, aiming to help individuals perform at world-class levels across all organizational tiers.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Leadership Development Programs",
+    "Human Transformation Initiatives",
+    "Employee Coaching Services",
+    "Corporate Training Delivery",
+    "Skill Development and Acquisition Programs",
+    "Learning Efficiency Improvement",
+    "Employee Engagement Enhancement",
+    "Continuous Learning Implementation",
+    "Customized Content Creation for Training"
+  ],
+  "competitive_advantages": [
+    "Best in Class Content and International Partnerships",
+    "Customized for Specific Needs and Competencies",
+    "Flexible Delivery Options (In-Person, Online, Self-Paced)",
+    "End-to-End Leadership Development and Human Transformation Focus",
+    "Directly addresses Skill Development and Learning Efficiency",
+    "Aims to Improve Employee Happiness and Engagement"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Talent Management (Leadership Development)",
+    "Employee Engagement"
+  ],
+  "roi_benefits": [
+    "Accelerated Skill Development",
+    "Improved Learning Efficiency",
+    "Enhanced Employee Happiness",
+    "Increased Employee Engagement",
+    "Improved Employee Performance (to world-class levels)"
+  ],
+  "searchable_keywords": [
+    "Prime Meridian Consulting",
+    "leadership development",
+    "human transformation",
+    "consulting services",
+    "coaching",
+    "training",
+    "skill development",
+    "skill acquisition",
+    "continuous learning",
+    "learning optimisation",
+    "employee empowerment",
+    "learning and development",
+    "training eLearning software",
+    "course authoring",
+    "training & development companies",
+    "employee happiness",
+    "employee engagement",
+    "flexible delivery",
+    "in-person training",
+    "online training",
+    "self-paced learning",
+    "customized training",
+    "international partnerships",
+    "building leaders",
+    "world-class performance"
+  ],
+  "primary_users": [
+    "Employees",
+    "Leaders",
+    "Academic Institutions (as clients)",
+    "Corporate Bodies (as clients)"
+  ],
+  "deployment_options": [
+    "In-Person",
+    "Online",
+    "Self-Paced"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,165 @@
+{
+  "id": 1357,
+  "name": "Pride Circle",
+  "description": "We partner with 350 companies across India to provide Executive Leadership Development, comprehensive Diversity & Inclusion Training, Sensitization, Consultation, Industry Roundtables, Research & Publications, Job Placements and professional networking opportunities that build safe, inclusive, and welcoming work environments.",
+  "features": [
+    "Work for LGBTQ community",
+    "Arrange Job fair",
+    "D&I training and consultation"
+  ],
+  "founders": [
+    "Srini Ramaswamy"
+  ],
+  "price": [
+    {
+      "name": "",
+      "type": "",
+      "price": "",
+      "description": ""
+    }
+  ],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing services providers",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs"
+  ],
+  "headquarter": "India",
+  "launch_date": "2018",
+  "order": 999,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Let's make this season bright",
+  "ProductId": null,
+  "ShortDescription": "India's Premier Diversity & Inclusion Advisory Consultancy with a mission of Social Equity by affirmative action for LGBT+ community in India",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": [
+      {
+        "times": [
+          {
+            "description": ""
+          }
+        ],
+        "header": "",
+        "sequence": 0,
+        "videourl": "",
+        "description": ""
+      }
+    ]
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Social Equity Through Affirmative Action:",
+      "sequence": 0,
+      "description": "The Pride Circle positions itself as a champion of social equity for the LGBTQ+ community in India. They likely advocate for policies and practices that create a more inclusive and fair environment."
+    },
+    {
+      "name": "Range of Services",
+      "sequence": 1,
+      "description": "The Pride Circle offers a variety of services, including leadership development, training programs, sensitization workshops, consultations, and industry roundtables. This comprehensive approach caters to different needs within organizations aiming to foster LGBTQ+ inclusion."
+    },
+    {
+      "name": "Building Safe and Welcoming Workplaces",
+      "sequence": 2,
+      "description": "Their services are geared towards creating safe and welcoming work environments for LGBTQ+ employees, potentially leading to increased engagement and productivity."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": true,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-12T07:27:11.973Z",
+  "enhanced_description": "Pride Circle is India's premier Diversity & Inclusion (D&I) Advisory Consultancy, dedicated to achieving social equity through affirmative action for the LGBTQ+ community in India. They partner with over 350 companies across the country, offering a comprehensive suite of services including Executive Leadership Development, D&I Training, Sensitization workshops, Consultation, Industry Roundtables, Research & Publications, Job Placements, and professional networking opportunities. Their mission is to build safe, inclusive, and welcoming work environments that foster LGBTQ+ inclusion, ultimately leading to increased employee engagement and productivity.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Developing and implementing Diversity & Inclusion strategies and policies, particularly for LGBTQ+ inclusion",
+    "Providing D&I training and sensitization for employees and leadership teams",
+    "Executive leadership development focused on inclusive leadership",
+    "Recruiting and placing diverse talent from the LGBTQ+ community through job fairs and placements",
+    "Consultation on building inclusive work environments and social equity initiatives",
+    "Facilitating professional networking opportunities for the LGBTQ+ community",
+    "Conducting research and publishing insights on D&I and LGBTQ+ workplace inclusion",
+    "Boosting hiring manager confidence and productivity in D&I hiring processes"
+  ],
+  "competitive_advantages": [
+    "Specialized focus and mission for social equity and affirmative action for the LGBTQ+ community in India",
+    "Positioned as India's Premier Diversity & Inclusion Advisory Consultancy",
+    "Extensive network of 350 partner companies across India, indicating established market presence",
+    "Comprehensive range of D&I services from training and consultation to job placements and research",
+    "Direct impact on creating safe, inclusive, and welcoming work environments"
+  ],
+  "hr_functions_supported": [
+    "Diversity, Equity, and Inclusion (DEI)",
+    "Talent Acquisition",
+    "Recruiting",
+    "Learning & Development",
+    "Leadership Development",
+    "HR Consulting",
+    "Employee Relations"
+  ],
+  "roi_benefits": [
+    "Improved Diversity & Inclusion outcomes, specifically for the LGBTQ+ community",
+    "Faster and more efficient hiring of diverse talent",
+    "Increased hiring manager confidence and productivity related to D&I initiatives",
+    "Creation of safe, inclusive, and welcoming work environments",
+    "Potential for increased employee engagement and productivity through inclusive practices"
+  ],
+  "searchable_keywords": [
+    "Pride Circle",
+    "Diversity & Inclusion",
+    "D&I",
+    "LGBTQ",
+    "LGBT+",
+    "Social Equity",
+    "Affirmative Action",
+    "India HR",
+    "HR Consulting",
+    "Recruiting",
+    "Hiring",
+    "Talent Sourcing",
+    "Job Placements",
+    "Job Fair",
+    "Sensitization Training",
+    "Inclusive Workplace",
+    "Executive Leadership Development",
+    "Talent Acquisition",
+    "HR Advisory",
+    "Workplace Inclusion",
+    "Professional Networking"
+  ],
+  "primary_users": [
+    "HR Professionals (especially D&I, Talent Acquisition, L&D roles)",
+    "Hiring Managers",
+    "Executive Leadership and Management",
+    "LGBTQ+ Community members (as beneficiaries of job placement and networking services)"
+  ],
+  "_weight": 1
+}

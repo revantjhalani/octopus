@@ -1,0 +1,146 @@
+{
+  "id": 843,
+  "name": "Loominate.app",
+  "description": "Loominate is where employees trade battle stories, share passions, vote on initiatives and join bounties to drive positive culture and change in their organisations. Set up a completely anonymous online profile to chat freely and safely with your coworkers in the same company. A great work culture is a human right, and should not be left to chance.",
+  "features": [
+    "Culture Building",
+    "Employee Engagement",
+    "Decentralizing Corporate Culture Commitments"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Career management software",
+    "Employee recognition software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee satisfaction"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2022",
+  "order": 20796,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The Good Culture App for Corporate Employees",
+  "ProductId": null,
+  "ShortDescription": "Loominate is where employees trade battle stories, share passions, vote on initiatives and join bounties to drive positive culture and change in their organisations.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Safe Space for Anonymous Discussions",
+      "sequence": 0,
+      "description": "Loominate provides a platform where employees can discuss work issues anonymously. This protects their identities and allows for open and honest conversations."
+    },
+    {
+      "name": "Cross-Company Collaboration",
+      "sequence": 1,
+      "description": "Loominate allows employees to connect with colleagues across different companies. This can be helpful for getting different perspectives on work challenges or simply networking with others in the field."
+    },
+    {
+      "name": "Free, Ad-Free, and Independent",
+      "sequence": 2,
+      "description": "The platform is free to use, ad-free, and independent from company interference. This ensures that employees can have candid conversations without fear of reprisal."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:32.325Z",
+  "enhanced_description": "Loominate is an independent, free, and ad-free platform designed to foster positive work culture and facilitate organizational change by providing a safe, anonymous space for employees. It enables coworkers within the same company to connect, share experiences, discuss work issues, vote on initiatives, and join bounties. The platform also uniquely allows for cross-company collaboration, enabling employees to network and gain diverse perspectives.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Fostering positive company culture",
+    "Facilitating anonymous employee feedback and discussions",
+    "Driving organizational change initiatives",
+    "Enhancing employee engagement and happiness",
+    "Promoting cross-company networking and knowledge sharing",
+    "Decentralizing culture-building efforts"
+  ],
+  "competitive_advantages": [
+    "Anonymous communication platform",
+    "Independence from company interference (fosters trust and candidness)",
+    "Cross-company networking and collaboration capabilities",
+    "Free and ad-free usage",
+    "Focus on employee-driven culture initiatives (decentralization)"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Culture Management",
+    "Employee Communication",
+    "Employee Feedback",
+    "Employee Recognition",
+    "Career Management"
+  ],
+  "roi_benefits": [
+    "Improved employee engagement",
+    "Enhanced company culture",
+    "Increased employee happiness",
+    "Facilitated organizational change",
+    "Safer environment for employee feedback"
+  ],
+  "searchable_keywords": [
+    "Loominate",
+    "employee engagement",
+    "company culture",
+    "anonymous feedback",
+    "employee communication",
+    "culture building",
+    "HR tech",
+    "talent management",
+    "employee recognition",
+    "career management",
+    "workplace culture",
+    "employee satisfaction",
+    "corporate culture",
+    "change management",
+    "employee happiness",
+    "internal communications",
+    "peer networking",
+    "cross-company collaboration",
+    "safe space",
+    "Good Culture App",
+    "corporate employees"
+  ],
+  "primary_users": [
+    "Employees",
+    "Coworkers"
+  ],
+  "deployment_options": [
+    "Cloud/SaaS"
+  ],
+  "security_features": [
+    "Anonymous user profiles",
+    "Identity protection for discussions",
+    "Safe communication environment"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,185 @@
+{
+  "id": 25,
+  "name": "Harrison Assessment",
+  "description": "Since 1990, Harrison Assessments has been dedicated to optimizing human capital through advanced HR and psychological insights. Our trusted employee assessment tools empower managers across the HR spectrum, enhancing productivity and efficiency for companies worldwide. With a focus on accuracy and reliability, we facilitate smarter HR decisions, driving increased profitability and organizational success.",
+  "features": [
+    "Focus on Behavioral Traits",
+    "Job-Specific Customization",
+    "Predictive Analytics"
+  ],
+  "founders": [],
+  "price": [
+    {}
+  ],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Pre-employment screening software",
+    "Pre-employment testing software",
+    "Onboarding software",
+    "Employee engagement software"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "Hiring efficiency",
+    "Quality of hire",
+    "Hiring process optimization",
+    "Hiring automation",
+    "Hiring automationHiring analytics",
+    "Data-driven hiring",
+    "Hiring best practices",
+    "Talent acquisition"
+  ],
+  "headquarter": "Redmond, Washington, United States",
+  "launch_date": "1990",
+  "order": 20008,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Transform Your Recruitment with Proven Success",
+  "ProductId": null,
+  "ShortDescription": "Predictive Analytics to Acquire, Develop, Lead & Engage Talent",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Hire Smarter",
+      "sequence": 0,
+      "description": "Streamline your selection process with data-driven insights and interview guides to find the perfect fit."
+    },
+    {
+      "name": " Develop for Success",
+      "sequence": 1,
+      "description": "Identify key factors impacting engagement & retention. Create personalized development plans for individuals, teams, and your entire culture."
+    },
+    {
+      "name": "Empower Your Leaders",
+      "sequence": 2,
+      "description": "Equip your leadership team with the skills to execute your vision and unlock peak performance from your people."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": null,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-09T10:44:29.421Z",
+  "enhanced_description": "Harrison Assessment, established in 1990, is a comprehensive HR technology solution dedicated to optimizing human capital. Utilizing advanced HR and psychological insights, the platform offers trusted employee assessment tools focused on behavioral traits, job-specific customization, and predictive analytics. It empowers managers across the HR spectrum to make smarter, data-driven HR decisions. Harrison Assessment supports the entire talent lifecycle, from acquiring and developing talent to empowering leaders and boosting employee engagement, ultimately enhancing productivity, efficiency, profitability, and organizational success. It streamlines recruitment processes, provides interview guides, identifies factors impacting engagement and retention, and facilitates personalized development plans to unlock peak performance.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Pre-employment screening and testing",
+    "Data-driven candidate selection and fit assessment",
+    "Development of personalized employee growth plans",
+    "Enhancement of employee engagement and retention strategies",
+    "Empowerment and development of organizational leaders",
+    "Optimization of talent acquisition processes",
+    "Improving hiring manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "Over 30 years of experience in HR and psychological insights (since 1990)",
+    "Utilizes advanced predictive analytics for talent management",
+    "Offers job-specific customization for assessment tools",
+    "Focuses on behavioral traits for comprehensive insights",
+    "Emphasizes accuracy and reliability in its assessment methodology",
+    "Proven ability to support global enterprises, large enterprises, and small enterprises"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Talent Management",
+    "Pre-employment Screening",
+    "Pre-employment Testing",
+    "Onboarding",
+    "Employee Engagement",
+    "Employee Development",
+    "Leadership Development"
+  ],
+  "roi_benefits": [
+    "Increased hiring manager confidence and productivity",
+    "Enhanced organizational productivity and efficiency",
+    "Improved quality of hire",
+    "Streamlined and optimized hiring processes",
+    "Facilitation of smarter, data-driven HR decisions",
+    "Boosted employee engagement and retention",
+    "Development of high-performing leaders",
+    "Increased organizational profitability and success",
+    "Unlocks peak performance from employees"
+  ],
+  "searchable_keywords": [
+    "Harrison Assessment",
+    "HR technology",
+    "employee assessment",
+    "psychological insights",
+    "human capital optimization",
+    "productivity",
+    "efficiency",
+    "HR decisions",
+    "profitability",
+    "organizational success",
+    "behavioral traits",
+    "job-specific customization",
+    "predictive analytics",
+    "hiring",
+    "recruiting",
+    "talent management",
+    "pre-employment screening",
+    "pre-employment testing",
+    "onboarding",
+    "employee engagement",
+    "hiring manager confidence",
+    "hiring manager productivity",
+    "hiring efficiency",
+    "quality of hire",
+    "hiring process optimization",
+    "hiring automation",
+    "hiring analytics",
+    "data-driven hiring",
+    "talent acquisition",
+    "acquire talent",
+    "develop talent",
+    "lead talent",
+    "engage talent",
+    "hire smarter",
+    "selection process",
+    "interview guides",
+    "perfect fit",
+    "development plans",
+    "retention",
+    "leadership development",
+    "leader empowerment",
+    "peak performance",
+    "recruitment"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Hiring Managers",
+    "Managers",
+    "Leadership Teams"
+  ],
+  "_weight": 1
+}

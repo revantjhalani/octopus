@@ -1,0 +1,164 @@
+{
+  "id": 319,
+  "name": "TMF",
+  "description": "TMF provide employee, financial and legal administration so that firms can invest and operate safely around the world. TMF Group is a single global team with over 10,000 colleagues in 125 offices across 86 jurisdictions, covering 92% of world GDP and 95% of FDI inflow. TMF bring common culture and ways of working, investing heavily in our people and platform to provide a high level of quality and security to our clients. We exist to give clients a global solution to what otherwise requires many local providers, each with their individual operational complexity and risk. TMF clients include the majority of the Fortune Global 500, FTSE 100 and top 300 private equity firms. We see ourselves as a partner to them, keeping them on top of complex rules and regulations in the countries where they are active.",
+  "features": [
+    "Delivering long-lasting and meaningful benefits to local organisations",
+    "Developing our own abilities by looking at the world in different ways, through the eyes of a social entrepreneur. ",
+    "Supporting entrepreneurs with personalised mentorship and a sense of belonging to a community of like-minded people "
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Payroll services providers",
+    "Benefits administration software",
+    "Compensation management software",
+    "Benefits administration services"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Employee satisfaction",
+    "Retention strategies"
+  ],
+  "headquarter": "Amsterdam , North Holland",
+  "launch_date": "1988",
+  "order": 20281,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We make a complex world simple",
+  "ProductId": null,
+  "ShortDescription": "We provide employee, financial and legal administration so that firms can invest and operate safely around the world.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Capital markets",
+      "sequence": 0,
+      "description": "TMF Group provides services to support companies with their capital markets activities, such as IPOs, secondary offerings, and debt issuance."
+    },
+    {
+      "name": "Global entity management",
+      "sequence": 1,
+      "description": "TMF Group helps businesses with the incorporation and management of their subsidiaries around the world."
+    },
+    {
+      "name": "Accounting and tax",
+      "sequence": 2,
+      "description": "TMF Group helps businesses with a variety of accounting and tax services, including bookkeeping, financial reporting, tax compliance, and tax advisory."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:09.868Z",
+  "enhanced_description": "TMF Group offers comprehensive global administration services, encompassing employee, financial, and legal aspects. This includes specialized support in payroll processing, benefits administration (both software and services), and compensation management. Beyond HR, TMF Group provides critical financial and legal support such as capital markets activities (e.g., IPOs, secondary offerings, debt issuance), global entity management (incorporation and subsidiary management), and a full suite of accounting and tax services (including bookkeeping, financial reporting, tax compliance, and advisory). With a vast global footprint of over 10,000 colleagues in 125 offices across 86 jurisdictions, TMF Group helps multinational firms streamline complex global operations, ensuring compliance with local rules and regulations and mitigating operational complexity and risk. Their client base includes a significant portion of the Fortune Global 500, FTSE 100, and top private equity firms, positioning TMF as a strategic partner for global expansion and ongoing compliance.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Managing global payroll across multiple international jurisdictions",
+    "Administering employee benefits programs globally",
+    "Ensuring consistent and compliant compensation management worldwide",
+    "Streamlining international financial reporting and tax compliance",
+    "Establishing and managing international legal entities and subsidiaries",
+    "Supporting global capital market activities such as IPOs and debt issuance",
+    "Consolidating administration services to reduce operational complexity and risk for multinational firms",
+    "Navigating and staying compliant with complex international rules and regulations"
+  ],
+  "competitive_advantages": [
+    "Extensive global reach with 125 offices across 86 jurisdictions",
+    "Ability to provide a single global solution, replacing multiple local providers",
+    "High level of quality and security across global operations",
+    "Expertise in global regulatory and compliance matters",
+    "Trusted by leading global companies, including Fortune Global 500 and FTSE 100 firms",
+    "Simplified global operations by addressing complex international requirements"
+  ],
+  "implementation_scenarios": [
+    "Consolidation of disparate local administration providers into a single global solution",
+    "Global service rollout for multinational enterprises seeking standardized operations"
+  ],
+  "hr_functions_supported": [
+    "Payroll",
+    "Benefits Administration",
+    "Compensation Management"
+  ],
+  "roi_benefits": [
+    "Reduced operational complexity and risk for global operations",
+    "Enhanced compliance with international and local regulations",
+    "Streamlined global administration processes (employee, financial, legal)",
+    "Potential for improved employee satisfaction and retention through effective total rewards management",
+    "Cost and time efficiencies from consolidating service providers"
+  ],
+  "searchable_keywords": [
+    "TMF Group",
+    "global administration",
+    "employee administration",
+    "financial administration",
+    "legal administration",
+    "payroll services",
+    "benefits administration",
+    "compensation management",
+    "international compliance",
+    "global payroll",
+    "global benefits",
+    "global compensation",
+    "multinational operations",
+    "corporate services",
+    "global entity management",
+    "accounting services",
+    "tax compliance",
+    "capital markets support",
+    "regulatory compliance",
+    "Fortune 500",
+    "FTSE 100",
+    "private equity services",
+    "total rewards",
+    "employee benefits",
+    "retention strategies",
+    "operational simplification",
+    "global solution"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Finance Professionals",
+    "Legal Counsel",
+    "Global Operations Teams"
+  ],
+  "compliance_features": [
+    "Multi-jurisdictional regulatory compliance",
+    "Global tax compliance",
+    "Local labor law compliance"
+  ],
+  "scalability_features": [
+    "Global infrastructure supporting operations in 86 jurisdictions",
+    "Designed for large and global enterprises",
+    "Ability to manage multiple subsidiaries and complex international structures"
+  ],
+  "security_features": [
+    "High level of security"
+  ],
+  "_weight": 1
+}

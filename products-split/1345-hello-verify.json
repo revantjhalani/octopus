@@ -1,0 +1,208 @@
+{
+  "id": 1345,
+  "name": "Hello Verify",
+  "description": "Helloverify is India\u2019s leading background screening company, offering compliant and robust processes for enterprises, startups, and individuals. Utilizing cutting-edge AI-ML technology, we authenticate identities, verify court cases, education, credit scores, and employment history to prevent fraud and enable trustworthy transactions. Our affordable rates and quick turnaround time make us the go-to choice for businesses and individuals alike. Sign up today!",
+  "features": [
+    "Individual Background Checks",
+    "Enterprise Services",
+    "Versatile Coverage"
+  ],
+  "founders": [],
+  "price": [
+    {
+      "name": "",
+      "type": "",
+      "price": "",
+      "description": ""
+    }
+  ],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Background check software",
+    "Onboarding software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Hiring manager confidence",
+    "Hiring efficiency",
+    "Quality of hire",
+    "Hiring tools",
+    "Hiring process optimization"
+  ],
+  "headquarter": "Noida, Uttar Pradesh",
+  "launch_date": "2012",
+  "order": 999,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "India's Leading Background Verification: AI-powered Authentication for Unmatched Accuracy.",
+  "ProductId": null,
+  "ShortDescription": "The New Standard of Background Checks",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": [
+      {
+        "times": [
+          {
+            "description": ""
+          }
+        ],
+        "header": "",
+        "sequence": 0,
+        "videourl": "",
+        "description": ""
+      }
+    ]
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Virtual Onboarding",
+      "sequence": 0,
+      "description": " Streamlined web portal for remote application completion. Automated reminders ensure a smooth process."
+    },
+    {
+      "name": "Advanced Technology",
+      "sequence": 1,
+      "description": "Extract insights from data, automate tasks, handle high applicant volumes."
+    },
+    {
+      "name": "Compliant & Secure",
+      "sequence": 2,
+      "description": "Data encryption and industry-leading compliance standards protect applicant information."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": true,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-11T13:57:50.188Z",
+  "enhanced_description": "Hello Verify, established in 2012, is India\u2019s leading background screening company, providing compliant and robust processes for enterprises, startups, and individuals. The platform leverages cutting-edge AI-ML technology to authenticate identities, verify court cases, education, credit scores, and employment history, effectively preventing fraud and enabling trustworthy transactions. Known for its affordable rates and quick turnaround time, Hello Verify offers a streamlined web portal for virtual onboarding, facilitating remote application completion with automated reminders. Its advanced technology allows for data insights, task automation, and efficient handling of high applicant volumes, ultimately boosting hiring manager confidence and productivity. The service ensures data security through encryption and adheres to industry-leading compliance standards to protect applicant information.",
+  "ideal_company_sizes": [
+    "Startups",
+    "Small enterprises",
+    "Mid-sized enterprises"
+  ],
+  "key_use_cases": [
+    "Background screening for hiring",
+    "Identity authentication",
+    "Verification of court cases",
+    "Education verification",
+    "Credit score verification",
+    "Employment history verification",
+    "Fraud prevention",
+    "Enabling trustworthy transactions",
+    "Virtual onboarding for job applicants",
+    "Automating background check processes",
+    "Managing high volumes of background checks"
+  ],
+  "competitive_advantages": [
+    "Leading background screening company in India",
+    "Utilizes cutting-edge AI-ML technology",
+    "Compliant and robust processes",
+    "Affordable rates",
+    "Quick turnaround time",
+    "Unmatched accuracy through AI-powered authentication",
+    "Streamlined web portal for remote application completion",
+    "Automated reminders for onboarding",
+    "Ability to extract insights from data",
+    "Task automation capabilities",
+    "Capacity to handle high applicant volumes",
+    "Data encryption for security",
+    "Adherence to industry-leading compliance standards"
+  ],
+  "implementation_scenarios": [
+    "Web-based portal for remote application completion",
+    "Integration into existing HR/recruiting workflows"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Background Verification",
+    "Onboarding"
+  ],
+  "technology_stack": [
+    "AI-ML technology"
+  ],
+  "roi_benefits": [
+    "Prevention of fraud",
+    "Enablement of trustworthy transactions",
+    "Cost savings due to affordable rates",
+    "Increased efficiency through quick turnaround time",
+    "Faster hiring processes",
+    "Boosted hiring manager confidence",
+    "Improved hiring manager productivity",
+    "Increased hiring efficiency",
+    "Improved quality of hire",
+    "Optimization of the hiring process"
+  ],
+  "searchable_keywords": [
+    "Hello Verify",
+    "background screening",
+    "background check",
+    "India",
+    "AI-ML",
+    "identity verification",
+    "court case verification",
+    "education verification",
+    "credit score verification",
+    "employment history verification",
+    "fraud prevention",
+    "trustworthy transactions",
+    "affordable",
+    "quick turnaround",
+    "individual background checks",
+    "enterprise services",
+    "versatile coverage",
+    "recruiting software",
+    "onboarding software",
+    "hiring manager confidence",
+    "hiring efficiency",
+    "quality of hire",
+    "hiring tools",
+    "hiring process optimization",
+    "virtual onboarding",
+    "advanced technology",
+    "compliant",
+    "secure",
+    "AI-powered",
+    "Noida"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Teams",
+    "Recruiters",
+    "Job Applicants",
+    "Individuals (seeking background checks)"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "Web portal"
+  ],
+  "compliance_features": [
+    "Industry-leading compliance standards"
+  ],
+  "scalability_features": [
+    "Handles high applicant volumes"
+  ],
+  "security_features": [
+    "Data encryption",
+    "Protection of applicant information"
+  ],
+  "_weight": 1
+}

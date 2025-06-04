@@ -1,0 +1,148 @@
+{
+  "id": 165,
+  "name": "Naukri",
+  "description": "Naukri.com is a recruitment platform that provides hiring-related services to corporates/recruiters, placement agencies and to job seekers in India and overseas. It offers multiple products like Resume Database Access, listings and Response Management Tools. With more than 4, 75,000 jobs live at any point and over 60 million CVs, Naukri.com serviced over 76,000 corporate clients in 2017-2018. The company operates 56 offices in 42 cities in India and overseas offices in Dubai, Riyadh, Abu Dhabi and Bahrain.",
+  "features": [
+    "Naukri.com serviced over 76,000 corporate clients in 2017-2018",
+    "Since its inception in 1997, Naukri.com has seen continuous growth while outperforming its competitors in every sphere.",
+    "Naukri.com, India\u2019s No. 1 job site and the flagship brand of Info Edge introduced the concept of e-recruitment in India."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Recruiting software",
+    "Pre-employment screening software",
+    "Recruiting automation software",
+    "Talent acquisition suites",
+    "Applicant tracking system (ATS)",
+    "Onboarding software",
+    "Recruitment marketing platforms",
+    "Staffing services providers",
+    "Job boards",
+    "Recruitment agencies"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Talent acquisition",
+    "Talent sourcing",
+    "Candidate screening",
+    "Interview scheduling",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Hiring best practices",
+    "Talent pipeline",
+    "Employee referral program"
+  ],
+  "headquarter": "Noida, India",
+  "launch_date": "1996",
+  "order": 20132,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Find your dream job now",
+  "ProductId": null,
+  "ShortDescription": "Naukri.com, India\u2019s No. 1 job site and the flagship brand of Info Edge introduced the concept of e-recruitment in India.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:46.298Z",
+  "enhanced_description": "Naukri.com, the flagship brand of Info Edge and India\u2019s No. 1 job site, introduced the concept of e-recruitment in India in 1997. As a comprehensive recruitment platform, it provides a wide range of hiring-related services to corporates/recruiters, placement agencies, and job seekers. The platform facilitates talent acquisition both within India and internationally, with a strong presence in regions like Dubai, Riyadh, Abu Dhabi, and Bahrain. Its core offerings include Resume Database Access for candidate sourcing, job listings for vacancies, and Response Management Tools for efficient application handling. As of 2017-2018, Naukri.com demonstrated significant market leadership, servicing over 76,000 corporate clients, hosting more than 475,000 live jobs, and managing over 60 million CVs, reflecting continuous growth and outperformance in the market.",
+  "key_use_cases": [
+    "Candidate Sourcing via Resume Database Access",
+    "Job Posting and Listing",
+    "Application and Response Management",
+    "Candidate Screening",
+    "Talent Acquisition",
+    "Interview Scheduling",
+    "Building Talent Pipelines",
+    "Recruiting Automation"
+  ],
+  "competitive_advantages": [
+    "Market Leadership (India's No. 1 job site)",
+    "Pioneer of e-recruitment in India",
+    "Extensive Resume Database (over 60 million CVs)",
+    "Large Volume of Live Job Listings (over 475,000)",
+    "Significant Corporate Client Base (over 76,000 clients in 2017-2018)",
+    "Strong Brand Recognition (Flagship brand of Info Edge)",
+    "Demonstrated Continuous Growth and Market Outperformance"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Candidate Sourcing",
+    "Applicant Tracking (ATS)",
+    "Pre-employment Screening",
+    "Recruitment Marketing"
+  ],
+  "roi_benefits": [
+    "Faster Talent Acquisition",
+    "Increased Hiring Efficiency",
+    "Access to Top Talent"
+  ],
+  "searchable_keywords": [
+    "Naukri",
+    "job site",
+    "e-recruitment",
+    "recruitment platform",
+    "hiring",
+    "talent acquisition",
+    "recruiting software",
+    "job board",
+    "resume database",
+    "candidate sourcing",
+    "applicant tracking system",
+    "ATS",
+    "pre-employment screening",
+    "recruitment marketing",
+    "staffing",
+    "talent pipeline",
+    "interview scheduling",
+    "hiring automation",
+    "HR tech",
+    "India jobs",
+    "recruitment agency software",
+    "response management"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Hiring Managers",
+    "HR Professionals",
+    "Placement Agencies",
+    "Job Seekers"
+  ],
+  "deployment_options": [
+    "Cloud/SaaS"
+  ],
+  "scalability_features": [
+    "Demonstrated large-scale operation supporting over 475,000 live jobs, 60 million CVs, and 76,000 corporate clients.",
+    "Proven continuous growth since inception in 1997."
+  ],
+  "_weight": 1
+}

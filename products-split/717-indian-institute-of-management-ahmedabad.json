@@ -1,0 +1,146 @@
+{
+  "id": 717,
+  "name": "Indian Institute of Management Ahmedabad",
+  "description": "Founded on December 11, 1961, IIMA quickly assumed leadership in management education in India and has maintained it ever since. It has grown into India's favorite management school. The benchmark in management education in the country, it attracts the best of students and faculty. Recruiters ranging from global investment banks to NGOs working with the poor harvest its graduates. Delighted, they keep coming back for more. It is not surprising that one-third of the CEOs in India had their introduction to professional management at IIMA.",
+  "features": [
+    "Health & Wellness",
+    "Hospitality & Utilities",
+    "Accessibility for the Differently Abled"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Training & development companies",
+    "Machine learning HR"
+  ],
+  "tags": [
+    "Diversity and inclusion",
+    "Learning analytics"
+  ],
+  "headquarter": "Ahmedabad, Gujarat",
+  "launch_date": "1961",
+  "order": 20671,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "IIM Ahmedabad is globally recognized for its excellence in management education.",
+  "ProductId": null,
+  "ShortDescription": "IIMA is leading insitute in management education in India.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Research Focus on Real-World Issues",
+      "sequence": 0,
+      "description": "IIMA conducts research that impacts practice, policy, and academia [1]. Some of the recent research areas include liability of foreignness in crowdsourcing creative work, infrastructure and finance in India, and the long-hour culture in finance [1]. This focus on real-world issues ensures that IIMA's research is relevant and impactful."
+    },
+    {
+      "name": "Thriving Residential Campus Community",
+      "sequence": 1,
+      "description": "IIMA has a thriving residential campus community with students, faculty, and staff from all over the world [1]. The campus is like a mini-city with its own sports facilities, library, and sustainable initiatives [1]. This creates a rich and vibrant learning environment for students."
+    },
+    {
+      "name": "Top Ranked Business School in India",
+      "sequence": 2,
+      "description": "The Indian Institute of Management Ahmedabad (IIMA) is a leading global management institution [1]. It is ranked 1st among Business Schools in India by the NIRF (Management Category) since 2020 [1]. IIMA offers a variety of academic programs including Ph.D., MBA, Executive Education, and more [1]."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:05.566Z",
+  "enhanced_description": "Founded on December 11, 1961, the Indian Institute of Management Ahmedabad (IIMA) rapidly established itself as a leader and benchmark in management education within India, maintaining its top position ever since. It is globally recognized for its excellence and is ranked 1st among Business Schools in India by the NIRF (Management Category) since 2020. IIMA attracts top students and faculty, and its graduates are highly sought after by recruiters ranging from global investment banks to NGOs, with one-third of India's CEOs having started their professional management journey at IIMA. The institute offers a variety of academic programs, including Ph.D., MBA, and Executive Education, and is committed to building a more diverse and inclusive workforce. IIMA features a thriving residential campus community with comprehensive facilities for health & wellness, hospitality & utilities, and accessibility for the differently abled. Its research initiatives focus on real-world issues, impacting practice, policy, and academia.",
+  "target_industries": [
+    "Financial Services",
+    "Non-profit Organizations"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Management education and training for aspiring professionals",
+    "Executive education for experienced professionals and leaders",
+    "Talent acquisition for management and leadership roles",
+    "Developing a diverse and inclusive workforce through talent pipeline",
+    "Research collaboration on real-world business and policy issues"
+  ],
+  "competitive_advantages": [
+    "Long-standing leadership and benchmark status in Indian management education since 1961",
+    "Consistently ranked 1st among Business Schools in India by NIRF (Management Category) since 2020",
+    "Globally recognized for excellence in management education",
+    "Proven track record of producing top leadership (one-third of Indian CEOs are IIMA alumni)",
+    "Strong appeal to top students and faculty",
+    "High recruiter satisfaction and repeat engagement from diverse industries",
+    "Focus on research that impacts real-world practice, policy, and academia",
+    "Thriving residential campus community fostering a rich and vibrant learning environment"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Talent Acquisition",
+    "Diversity & Inclusion",
+    "Training & Development"
+  ],
+  "technology_stack": [
+    "Machine Learning"
+  ],
+  "roi_benefits": [
+    "Access to a pipeline of high-quality management and leadership talent",
+    "Development of executive and leadership capabilities within the existing workforce",
+    "Contribution to building a more diverse and inclusive organizational talent pool",
+    "Leveraging cutting-edge research insights for business and policy improvement"
+  ],
+  "searchable_keywords": [
+    "Indian Institute of Management Ahmedabad",
+    "IIM Ahmedabad",
+    "IIMA",
+    "Management Education",
+    "Business School",
+    "Executive Education",
+    "MBA",
+    "Ph.D.",
+    "Learning and Development",
+    "Training & Development",
+    "Diversity and Inclusion",
+    "Learning Analytics",
+    "Corporate Training",
+    "Leadership Development",
+    "Talent Acquisition",
+    "Research",
+    "Machine Learning HR",
+    "Accessibility",
+    "Health & Wellness",
+    "Hospitality & Utilities"
+  ],
+  "primary_users": [
+    "Students seeking management education",
+    "Working professionals enrolling in executive education programs",
+    "Recruiters seeking management talent",
+    "Organizations looking for leadership development solutions"
+  ],
+  "_weight": 1
+}

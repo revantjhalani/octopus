@@ -1,0 +1,172 @@
+{
+  "id": 1044,
+  "name": "Q3Tech",
+  "description": "Q3 Technologies is a global Managed IT Services provider offering end-to-end custom technology solutions, including software, mobile applications, data and BI, AI led digital transformation, cloud, ERP and CRM, cyber security, and UI/UX services. Our approach to solving our clients\u2019 complex IT problems leverages the most effective and appropriate technology platforms suited for the job, and is driven by a vendor neutral philosophy allowing us to engineer highly innovative, optimized and cost effective solutions for your business. That is why we are trusted by hundreds of clients across the globe with customers like Samsung, Michelin, Panasonic, FirstGroup, Adani, Vedanta, Aditya Birla Group, Compass, and several more that have tasked us to build and deliver unique technology solutions which are tailored to specific needs and business objectives.",
+  "features": [
+    "Enterprise Applications",
+    "Product Development",
+    "Digital Transformation"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Other / technology",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Internet of things",
+    "Machine learning HR",
+    "Artificial intelligence",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Skill acquisition",
+    "Learning optimisation"
+  ],
+  "headquarter": "Boston, MA",
+  "launch_date": "1996",
+  "order": 20987,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Enabling Digital Business",
+  "ProductId": null,
+  "ShortDescription": "Q3 Technologies is a global Managed IT Services provider offering end-to-end custom technology solutions, including software, mobile applications, data and BI, AI led digital transformation, cloud, ERP and CRM, cyber security, and UI/UX services.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:39:27.968Z",
+  "enhanced_description": "Q3 Technologies is a global Managed IT Services provider specializing in end-to-end custom technology solutions. Their offerings span software and mobile application development, data and business intelligence, AI-led digital transformation, cloud services, ERP and CRM implementation, cyber security, and UI/UX design. With a vendor-neutral philosophy, Q3 Technologies engineers highly innovative, optimized, and cost-effective solutions tailored to specific business needs and objectives. They are trusted by hundreds of clients worldwide, including major global enterprises like Samsung, Michelin, Panasonic, and Adani, and are specifically focused on accelerating skill development and learning efficiency through advanced technologies like AI and Machine Learning.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Developing custom software applications",
+    "Developing custom mobile applications",
+    "Implementing and managing data and Business Intelligence solutions",
+    "Driving AI-led digital transformation initiatives",
+    "Implementing and managing cloud infrastructure",
+    "Implementing and managing ERP systems",
+    "Implementing and managing CRM systems",
+    "Providing cybersecurity services",
+    "Designing and optimizing UI/UX for digital products",
+    "Developing and managing enterprise applications",
+    "Supporting product development efforts",
+    "Facilitating skill development and learning optimization within organizations"
+  ],
+  "competitive_advantages": [
+    "Global Managed IT Services provider",
+    "Offers end-to-end custom technology solutions",
+    "Vendor-neutral approach for optimized and cost-effective solutions",
+    "Proven track record with major global enterprises",
+    "Ability to engineer highly innovative and tailored solutions",
+    "Focus on accelerating skill development and learning efficiency"
+  ],
+  "implementation_scenarios": [
+    "Custom software development projects",
+    "Managed IT services for infrastructure and applications",
+    "Digital transformation consulting and implementation",
+    "ERP and CRM system integration and customization"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Skill Management",
+    "Training"
+  ],
+  "technology_stack": [
+    "Software development",
+    "Mobile applications",
+    "Data and Business Intelligence (BI)",
+    "Artificial Intelligence (AI)",
+    "Cloud computing",
+    "Enterprise Resource Planning (ERP)",
+    "Customer Relationship Management (CRM)",
+    "Cyber security",
+    "UI/UX technologies",
+    "Internet of Things (IoT)",
+    "Machine Learning (ML)"
+  ],
+  "integration_capabilities": [
+    "Integration with existing enterprise systems (e.g., ERP, CRM)",
+    "Integration with data platforms for BI solutions"
+  ],
+  "roi_benefits": [
+    "Cost-effective technology solutions",
+    "Optimized business processes and IT infrastructure",
+    "Accelerated skill development and learning efficiency",
+    "Enhanced digital transformation outcomes",
+    "Improved decision-making through data and BI",
+    "Reduced IT risks through cybersecurity services",
+    "Innovative custom solutions tailored to business objectives"
+  ],
+  "searchable_keywords": [
+    "Q3Tech",
+    "Q3 Technologies",
+    "Managed IT Services",
+    "Custom technology solutions",
+    "Software development",
+    "Mobile applications",
+    "Data analytics",
+    "Business Intelligence",
+    "AI",
+    "Artificial Intelligence",
+    "Digital transformation",
+    "Cloud services",
+    "ERP",
+    "CRM",
+    "Cybersecurity",
+    "UI/UX",
+    "Enterprise Applications",
+    "Product Development",
+    "Technology solutions",
+    "Learning and Development",
+    "Internet of things",
+    "IoT",
+    "Machine learning HR",
+    "ML HR",
+    "Training & development companies",
+    "Skill development",
+    "Skill acquisition",
+    "Learning optimisation",
+    "Digital Business"
+  ],
+  "primary_users": [
+    "IT Leaders (CIOs, IT Managers)",
+    "Business Leaders",
+    "HR Professionals (for L&D and skill management)"
+  ],
+  "deployment_options": [
+    "Cloud-based (as a technology they leverage)"
+  ],
+  "scalability_features": [
+    "Supports hundreds of global clients, including large enterprises",
+    "Leverages cloud technologies in its solutions"
+  ],
+  "security_features": [
+    "Offers cybersecurity services"
+  ],
+  "_weight": 1
+}

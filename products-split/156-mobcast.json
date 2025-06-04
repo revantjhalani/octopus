@@ -1,0 +1,188 @@
+{
+  "id": 156,
+  "name": "Mobcast",
+  "description": "MobCast is the world's most effective platform for group communication on mobile. It's an enterprise mobile app for Employee Engagement, Corporate Communication, Training & Development, Sales Performance, and the likes. It's a web platform that allows any entity/enterprise to broadcast rich content on mobile devices. It enables delivery of content on smart phones, web-enabled phones and feature phones. We serve companies with large, geographically spread, fast growing workforce leveraging the 'MobCast' platform. ",
+  "features": [
+    "Tested, validated & loved by all (companies & employees)",
+    "Enterprise-grade security",
+    "Flexible pricing options"
+  ],
+  "founders": [
+    "Anup Burade"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Training & development companies",
+    "Onboarding software",
+    "Employee engagement software"
+  ],
+  "tags": [
+    "Hiring",
+    "Talent acquisition",
+    "Learning efficiency"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2013",
+  "order": 20123,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Create a winning organisation by enabling talent & workplace transformation",
+  "ProductId": null,
+  "ShortDescription": "Mobcast is a Learning, HR & Employee Engagement mobile app solution.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Easy integration",
+      "sequence": 0,
+      "description": "Our platform is integration friendly and can very easily connect to your current HRMS, Active Directory or any other systems."
+    },
+    {
+      "name": "Insights & Reports that matter",
+      "sequence": 1,
+      "description": "The MobCast platform gives 26 types of simple yet detailed reports."
+    },
+    {
+      "name": "Customer service",
+      "sequence": 2,
+      "description": "Our team of Special Account Managers work closely with customers right from the training, launch period to delivery and beyond. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:34.334Z",
+  "enhanced_description": "Mobcast is a comprehensive enterprise mobile app and web platform designed for HR, Learning & Employee Engagement. It aims to enable talent and workplace transformation by providing an effective platform for group communication and content broadcasting on mobile devices. The solution supports various HR functions including Employee Engagement, Corporate Communication, Training & Development, Sales Performance, Onboarding, Recruiting, and Talent Management. It is built to serve companies with large, geographically spread, and fast-growing workforces, delivering content across smartphones, web-enabled, and feature phones. Key benefits include boosting hiring manager confidence and productivity, accelerating skill development and learning efficiency. The platform offers easy integration with existing HRMS and Active Directory systems, provides 26 types of detailed reports, and is backed by dedicated customer service from Special Account Managers, all while ensuring enterprise-grade security.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Group Communication on Mobile",
+    "Employee Engagement",
+    "Corporate Communication",
+    "Training & Development",
+    "Sales Performance Management",
+    "Onboarding",
+    "Skill Development",
+    "Learning Efficiency Acceleration",
+    "Hiring Manager Productivity Boost"
+  ],
+  "competitive_advantages": [
+    "Broad device compatibility (smartphones, web-enabled phones, feature phones)",
+    "Enterprise-grade security",
+    "Flexible pricing options",
+    "Easy integration with HRMS and Active Directory",
+    "Comprehensive reporting (26 types of reports)",
+    "Dedicated customer service with Special Account Managers",
+    "Validated and loved by companies and employees"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Corporate Communication",
+    "Training & Development",
+    "Sales Performance",
+    "Learning and Development",
+    "Recruiting",
+    "Talent Management",
+    "Onboarding",
+    "Talent Acquisition",
+    "Hiring"
+  ],
+  "integration_capabilities": [
+    "HRMS integration",
+    "Active Directory integration",
+    "Integration with other existing systems"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Enhanced learning efficiency",
+    "Boosted hiring manager confidence",
+    "Increased hiring manager productivity",
+    "Improved employee engagement",
+    "Effective group communication on mobile",
+    "Data-driven insights for decision making"
+  ],
+  "searchable_keywords": [
+    "Mobcast",
+    "group communication",
+    "mobile app",
+    "enterprise mobile app",
+    "Employee Engagement",
+    "Corporate Communication",
+    "Training & Development",
+    "Sales Performance",
+    "web platform",
+    "broadcast content",
+    "smartphones",
+    "web-enabled phones",
+    "feature phones",
+    "large workforce",
+    "geographically spread",
+    "Hiring Manager Confidence",
+    "Productivity",
+    "Skill Development",
+    "Learning Efficiency",
+    "Learning and Development",
+    "Recruiting",
+    "Talent Management",
+    "Training & development companies",
+    "Onboarding software",
+    "Employee engagement software",
+    "Hiring",
+    "Talent acquisition",
+    "Learning efficiency",
+    "talent transformation",
+    "workplace transformation",
+    "HR mobile app",
+    "HRMS integration",
+    "Active Directory integration",
+    "Reports",
+    "Customer service",
+    "SaaS"
+  ],
+  "primary_users": [
+    "Employees",
+    "Hiring Managers",
+    "HR professionals",
+    "Learning & Development teams",
+    "Corporate Communication teams"
+  ],
+  "deployment_options": [
+    "Cloud/SaaS (Web platform & Mobile app)"
+  ],
+  "scalability_features": [
+    "Designed to serve large, geographically spread, fast growing workforces",
+    "Supports global, large, and small enterprises"
+  ],
+  "security_features": [
+    "Enterprise-grade security"
+  ],
+  "_weight": 1
+}

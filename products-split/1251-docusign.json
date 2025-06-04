@@ -1,0 +1,193 @@
+{
+  "id": 1251,
+  "name": "Docusign",
+  "description": "DocuSign helps organizations connect and automate how they navigate their systems of agreement. As part of its industry leading product lineup, DocuSign offers eSignature, the world's #1 way to sign electronically on practically any device, from almost anywhere, at any time.",
+  "features": [
+    "DocuSign CLM: Contract Lifecycle Management. Save time and reduce errors by automating the entire contract lifecycle with document generation, collaboration, workflow, and a central agreement repository.",
+    "DocuSign eSignature: Send and sign agreements easily and cost-effectively with the world's #1 electronic signature solution. Agree with confidence, with intuitive signing experiences across virtually any device.",
+    "DocuSign Gen for Salesforce: Automatically generate customized agreements from Salesforce with just a few clicks."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Internet of things"
+  ],
+  "tags": [
+    "Hiring tools",
+    "Hiring process optimization",
+    "Hiring automation"
+  ],
+  "headquarter": "San Francisco, CA",
+  "launch_date": "2003",
+  "order": 21079,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "More than a million customers and a billion users trust DocuSign with their critical and essential agreements.",
+  "ProductId": null,
+  "ShortDescription": "DocuSign eSignature is the #1 way to send and sign documents.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [
+    "Microsoft",
+    "SAP",
+    "Google",
+    "Oracle",
+    "Salesforce"
+  ],
+  "Highlights": [
+    {
+      "name": "IAM Core",
+      "sequence": 0,
+      "description": "Built for organizations and industries of all sizes. Save time and get the most value from every agreement."
+    },
+    {
+      "name": "IAM for Legal",
+      "sequence": 1,
+      "description": "Centralize and simplify agreement processes, freeing resources from the burdens of manual oversight that distract from more strategic, high-impact work."
+    },
+    {
+      "name": "IAM for Human Resources (HR)",
+      "sequence": 2,
+      "description": "Automate manual employee and candidate agreement processes, so your business can focus more on people and less on paperwork."
+    },
+    {
+      "name": "IAM for Procurement",
+      "sequence": 3,
+      "description": "Reduce inefficiencies in cross-departmental collaboration, while surfacing powerful insights to maximize contract value, reduce costs, and minimize risk."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:13:15.464Z",
+  "enhanced_description": "DocuSign is a leading platform that enables organizations to connect and automate their systems of agreement. Its industry-leading product lineup includes DocuSign eSignature, recognized globally as the #1 electronic signature solution, providing intuitive signing experiences on practically any device, from almost anywhere, at any time. Beyond eSignature, DocuSign offers Contract Lifecycle Management (CLM) for automating the entire contract process, including document generation, collaboration, workflow management, and maintaining a central agreement repository. DocuSign also provides DocuSign Gen for Salesforce, allowing users to automatically generate customized agreements directly from Salesforce. The platform is designed for organizations and industries of all sizes, with specialized solutions like IAM for Legal, which centralizes and simplifies agreement processes; IAM for Human Resources, focused on automating manual employee and candidate agreement processes; and IAM for Procurement, aimed at reducing cross-departmental inefficiencies, maximizing contract value, reducing costs, and minimizing risk. Trusted by over a million customers and a billion users for critical and essential agreements, DocuSign streamlines agreement workflows and helps accelerate business processes.",
+  "target_industries": [
+    "Cross-industry"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Electronic signature for agreements",
+    "Automating contract lifecycle management (CLM)",
+    "Document generation for agreements",
+    "Agreement collaboration and workflow management",
+    "Centralized agreement repository management",
+    "Generating customized agreements directly from Salesforce",
+    "Centralizing and simplifying legal agreement processes",
+    "Automating manual employee agreement processes for HR",
+    "Automating candidate agreement processes for HR",
+    "Reducing inefficiencies in procurement collaboration",
+    "Maximizing contract value in procurement",
+    "Reducing procurement costs",
+    "Minimizing procurement risk"
+  ],
+  "competitive_advantages": [
+    "World's #1 electronic signature solution",
+    "Trusted by over a million customers and a billion users",
+    "Intuitive signing experiences across virtually any device",
+    "Ability to automate the entire contract lifecycle",
+    "Reduces errors in agreement processes",
+    "Cost-effective agreement sending and signing",
+    "Frees up resources from manual oversight for strategic work (Legal)",
+    "Enables HR to focus more on people and less on paperwork",
+    "Reduces inefficiencies in cross-departmental collaboration (Procurement)",
+    "Provides insights to maximize contract value and reduce risk (Procurement)"
+  ],
+  "hr_functions_supported": [
+    "Hiring tools",
+    "Hiring process optimization",
+    "Hiring automation",
+    "Employee agreement processes automation",
+    "Candidate agreement processes automation"
+  ],
+  "integration_capabilities": [
+    "Salesforce",
+    "Microsoft",
+    "SAP",
+    "Google",
+    "Oracle"
+  ],
+  "roi_benefits": [
+    "Time savings through automation of agreement processes",
+    "Reduction in errors in document generation and agreement workflows",
+    "Cost-effectiveness in sending and signing agreements",
+    "Improved resource allocation by reducing manual oversight",
+    "Increased focus on strategic initiatives (e.g., HR focusing on people)",
+    "Reduction in operational inefficiencies across departments",
+    "Maximization of contract value",
+    "Reduction in costs related to agreements and procurement",
+    "Minimization of business risk"
+  ],
+  "searchable_keywords": [
+    "Docusign",
+    "eSignature",
+    "electronic signature",
+    "agreement automation",
+    "system of agreement",
+    "Contract Lifecycle Management",
+    "CLM",
+    "document generation",
+    "agreement collaboration",
+    "workflow management",
+    "central agreement repository",
+    "send agreements",
+    "sign agreements",
+    "customized agreements",
+    "Salesforce integration",
+    "Hiring tools",
+    "Hiring process optimization",
+    "Hiring automation",
+    "critical agreements",
+    "essential agreements",
+    "send documents",
+    "sign documents",
+    "IAM Core",
+    "IAM for Legal",
+    "IAM for Human Resources",
+    "IAM for HR",
+    "IAM for Procurement",
+    "agreement processes",
+    "employee agreements",
+    "candidate agreements",
+    "contract value",
+    "risk reduction",
+    "cost reduction"
+  ],
+  "primary_users": [
+    "Organizations",
+    "Legal departments",
+    "Human Resources (HR) departments",
+    "Procurement departments",
+    "Sales professionals (via Salesforce integration)"
+  ],
+  "scalability_features": [
+    "Supports organizations and industries of all sizes",
+    "Supports Global Enterprise deployments",
+    "Proven scalability with over a million customers and a billion users"
+  ],
+  "_weight": 1
+}

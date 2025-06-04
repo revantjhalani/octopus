@@ -1,0 +1,150 @@
+{
+  "id": 181,
+  "name": "Odilo",
+  "description": "We are ODILO, a mission-driven company and here to empower everyone to become the best version of themselves. How? By allowing any organization to provide Unlimited Learning in the most frictionless, efficient, and valuable way. Over 8,500 Unlimited Learning Organizations across the globe in more than 50 countries trust us to personalize their Unlimited Learning Ecosystems and more than 170 million people worldwide are taking their learning to the next level. ",
+  "features": [
+    "Unlimited Learning devoted",
+    "Raising standards",
+    "Fast movers"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Course authoring"
+  ],
+  "tags": [
+    "Learning optimisation",
+    "Continuous learning"
+  ],
+  "headquarter": "Madrid, Comunidad de Madrid",
+  "launch_date": "2011",
+  "order": 20148,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Build your own Unlimited Learning Ecosystem",
+  "ProductId": null,
+  "ShortDescription": "Reinventing the way we learn by building the Unlimited Learning category.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": " Content",
+      "sequence": 0,
+      "description": "Access the World Largest Content Ecosystem or use your own content."
+    },
+    {
+      "name": "Technology",
+      "sequence": 1,
+      "description": "Leverage on ODILO AI to adapt to your user learning habits and centralize all data in your ODILO BI."
+    },
+    {
+      "name": " People",
+      "sequence": 2,
+      "description": "Increase engagement with ODILO's professional and growth services."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:02.533Z",
+  "enhanced_description": "Odilo is a mission-driven company focused on empowering individuals through learning. It enables organizations to provide Unlimited Learning by building personalized learning ecosystems in a frictionless, efficient, and valuable way. Trusted by over 8,500 organizations in more than 50 countries, Odilo helps over 170 million people worldwide accelerate skill development and improve learning efficiency. The platform allows access to a vast content ecosystem or integration of an organization's own content, leverages ODILO AI for adaptive learning based on user habits, and centralizes data in ODILO BI for analytical insights. Odilo also offers professional and growth services to increase user engagement.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Unlimited learning provision",
+    "Personalized learning ecosystem building",
+    "Skill development acceleration",
+    "E-learning training",
+    "Course authoring",
+    "Continuous learning"
+  ],
+  "competitive_advantages": [
+    "AI-driven learning adaptation (ODILO AI)",
+    "Centralized learning data and business intelligence (ODILO BI)",
+    "Access to a vast global content ecosystem",
+    "Ability to integrate custom organizational content",
+    "Personalized Unlimited Learning Ecosystems",
+    "Professional and growth services for increased engagement",
+    "Focus on building the 'Unlimited Learning' category"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Training",
+    "Skill Development",
+    "E-learning",
+    "Course Management"
+  ],
+  "technology_stack": [
+    "ODILO AI",
+    "ODILO BI"
+  ],
+  "integration_capabilities": [
+    "Content import (use your own content)",
+    "Data centralization for BI"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Increased learning efficiency",
+    "Optimized learning experiences",
+    "Higher user engagement",
+    "Data-driven learning insights",
+    "Frictionless and valuable learning experiences"
+  ],
+  "searchable_keywords": [
+    "Odilo",
+    "Unlimited Learning",
+    "Learning and Development",
+    "L&D",
+    "Training",
+    "eLearning software",
+    "Course authoring",
+    "Skill Development",
+    "Learning Efficiency",
+    "Learning Optimization",
+    "Continuous Learning",
+    "AI Learning",
+    "Learning Analytics",
+    "Content Ecosystem",
+    "Personalized Learning",
+    "Learning Ecosystem"
+  ],
+  "primary_users": [
+    "Learners",
+    "HR professionals",
+    "L&D administrators",
+    "Training Managers"
+  ],
+  "scalability_features": [
+    "Supports over 8,500 organizations",
+    "Serves over 170 million people worldwide",
+    "Operates in more than 50 countries",
+    "Supports global enterprises"
+  ],
+  "_weight": 1
+}

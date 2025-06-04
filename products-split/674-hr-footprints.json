@@ -1,0 +1,170 @@
+{
+  "id": 674,
+  "name": "HR Footprints",
+  "description": "HR Footprints is an HR Management Services Company providing services in the area of HR processes outsourcing. Founded in the year 2006, we have successfully completed 600+ assignments and have 25,000+ learners across HR Consulting, Learning and Organisational Development, Leadership Coaching and Talent Sourcing. We at HR Footprints believe in taking the time to work with you and your staff very closely to custom-tailor every component of your program to provide more personal, measurable goals. We work with our clients as their extended arms to provide HR Management services in HR Consulting, Learning and Development, Leadership Coaching and Talent Sourcing.",
+  "features": [
+    "We bring more than 120 years of collective experience and ready access to our knowledge base.",
+    "We understand that our clients require more than mere advice; therefore, we collaborate during the execution of any HR interventions also.",
+    "We know that internal HR teams have a wide array of responsibilities and therefore we act as an extended arm and support."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "HR consulting providers",
+    "Recruitment agencies",
+    "Staffing services providers"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "Hiring tools",
+    "Hiring automation"
+  ],
+  "headquarter": "HYDERABAD, ANDHRA PRADESH",
+  "launch_date": "2006",
+  "order": 20628,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Simplifying Excellence",
+  "ProductId": null,
+  "ShortDescription": "HR Footprints is an HR Management Services Company providing services in the area of HR processes outsourcing. F",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "HR Services",
+      "sequence": 0,
+      "description": "HR Studio, the HR Consulting, Services vertical of HR Footprints, adds value in organizational design, role definitions, performance management, HR policies, & talent management"
+    },
+    {
+      "name": "Recruitment Services",
+      "sequence": 1,
+      "description": "Cherrypikz, the recruitment vertical of HR Footprints provides innovative hiring solutions from mid to senior and CXO levels."
+    },
+    {
+      "name": "Learning Services",
+      "sequence": 2,
+      "description": "LQube, the learning vertical of HR Footprints delivers experiential solutions in the areas of leadership transitions, personal effectiveness, and high-performing teams."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:15.003Z",
+  "enhanced_description": "HR Footprints, founded in 2006, is an HR Management Services Company specializing in HR processes outsourcing. With over 600 assignments completed and 25,000+ learners, they offer custom-tailored programs focusing on measurable goals. Their services are delivered through distinct verticals: HR Studio for HR Consulting and Services (including organizational design, role definitions, performance management, HR policies, and talent management); Cherrypikz for innovative recruitment solutions from mid to senior and CXO levels; and LQube for experiential learning solutions in leadership transitions, personal effectiveness, and high-performing teams. HR Footprints aims to act as an extended arm for internal HR teams, collaborating closely during the execution of HR interventions.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "HR processes outsourcing",
+    "HR Consulting",
+    "Learning and Organisational Development",
+    "Leadership Coaching",
+    "Talent Sourcing",
+    "Organizational design",
+    "Role definitions",
+    "Performance management",
+    "HR policy development and implementation",
+    "Talent management strategies",
+    "Hiring solutions for mid to senior and CXO levels",
+    "Leadership transitions training",
+    "Personal effectiveness training",
+    "Building high-performing teams",
+    "Boosting hiring manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "Over 120 years of collective experience and access to a comprehensive knowledge base",
+    "Collaborative approach, providing execution support beyond mere advice for HR interventions",
+    "Functions as an extended arm to support internal HR teams with their responsibilities",
+    "Custom-tailored programs designed for personal and measurable goals"
+  ],
+  "implementation_scenarios": [
+    "Outsourced HR process management",
+    "Extended HR team support",
+    "Consultative project execution for HR interventions"
+  ],
+  "hr_functions_supported": [
+    "HR Consulting",
+    "Learning & Development",
+    "Organizational Development",
+    "Leadership Coaching",
+    "Talent Sourcing",
+    "Recruitment",
+    "Organizational Design",
+    "Performance Management",
+    "HR Policy Management",
+    "Talent Management"
+  ],
+  "roi_benefits": [
+    "Boosted hiring manager confidence",
+    "Increased hiring manager productivity",
+    "Custom-tailored programs for more personal, measurable goals",
+    "Enhanced support for internal HR teams to manage diverse responsibilities"
+  ],
+  "searchable_keywords": [
+    "HR Footprints",
+    "HR Management Services",
+    "HR processes outsourcing",
+    "HR Consulting",
+    "Learning and Organisational Development",
+    "Leadership Coaching",
+    "Talent Sourcing",
+    "Recruiting",
+    "Hiring",
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "HR consulting providers",
+    "Recruitment agencies",
+    "Staffing services providers",
+    "HR Studio",
+    "Cherrypikz",
+    "LQube",
+    "Organizational design",
+    "Role definitions",
+    "Performance management",
+    "HR policies",
+    "Talent management",
+    "Experiential solutions",
+    "Leadership transitions",
+    "Personal effectiveness",
+    "High-performing teams",
+    "HR interventions"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "Internal HR Teams/Professionals",
+    "Organizational Leaders",
+    "Employees (as learners)",
+    "Client Organizations"
+  ],
+  "scalability_features": [
+    "Proven capacity to handle over 600 assignments and 25,000+ learners",
+    "Service offerings designed to cater to large and global enterprises"
+  ],
+  "_weight": 1
+}

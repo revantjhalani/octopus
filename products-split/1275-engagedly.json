@@ -1,0 +1,160 @@
+{
+  "id": 1275,
+  "name": "Engagedly",
+  "description": "Engagedly empowers employees with human-centered leadership, partnering with HR teams worldwide to create exceptional workplaces. Our all-in-one talent management suite boosts employee performance, learning, and engagement, loved by HR and employees alike. With over 5000 global HR professionals trusting Engagedly, experience streamlined processes, boosted productivity, and increased engagement. It's time for your organization to change, grow, and excel with Engagedly.",
+  "features": [
+    "Performance Management Time Saved",
+    "Impact on Employee Development",
+    "Improved Employee Retention"
+  ],
+  "founders": [
+    "Jayashankar Balaraman",
+    "Srikant Chellappa",
+    "Pankaj Singh"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Talent Management",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Employee engagement software",
+    "Employee grievance",
+    "HR management suites",
+    "Internet of things"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee development",
+    "Talent acquisition",
+    "Talent sourcing"
+  ],
+  "headquarter": "Maplewood, Missouri",
+  "launch_date": "2015",
+  "order": 21103,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Develop a High-Performance Culture",
+  "ProductId": null,
+  "ShortDescription": "Real-time performance management. Refreshingly simple and engaging.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Elevate Performance",
+      "sequence": 0,
+      "description": "Raise the level of your employee performance by aligning goals to strategic execution."
+    },
+    {
+      "name": "Enable Development",
+      "sequence": 1,
+      "description": "Foster a Culture of Growth and Development that Unleashes Your Team\u2019s Hidden Potential."
+    },
+    {
+      "name": "Engage People",
+      "sequence": 2,
+      "description": "In-office, hybrid, or remote: Keep your team engaged and motivated for maximum performance."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:13:47.936Z",
+  "enhanced_description": "Engagedly is an all-in-one human-centered talent management suite designed to empower HR teams and employees worldwide. It focuses on developing a high-performance culture by boosting employee performance, learning, and engagement through real-time management. The platform helps elevate performance by aligning individual goals to strategic execution, enable development by fostering a culture of continuous growth, and engage people effectively across in-office, hybrid, or remote work environments for maximum performance. Trusted by over 5000 global HR professionals, Engagedly streamlines processes, boosts productivity, and increases engagement, leading to measurable benefits such as saved time in performance management, improved employee development, and enhanced retention.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Real-time Performance Management",
+    "Employee Goal Alignment and Strategic Execution",
+    "Fostering a Culture of Employee Growth and Development",
+    "Enhancing Employee Engagement across various work models (in-office, hybrid, remote)",
+    "Accelerating Skill Development and Learning Efficiency",
+    "Improving Employee Retention",
+    "Streamlining HR Processes",
+    "Boosting Organizational Productivity"
+  ],
+  "competitive_advantages": [
+    "All-in-one talent management suite",
+    "Human-centered leadership approach",
+    "Real-time performance management capabilities",
+    "Designed to be simple and engaging for both HR and employees",
+    "Trusted by a large global customer base (over 5000 HR professionals)",
+    "Supports diverse work environments (in-office, hybrid, remote)",
+    "Focus on quantifiable benefits (e.g., performance management time saved, improved retention)"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Performance Management",
+    "Employee Development",
+    "Employee Engagement",
+    "Learning & Development",
+    "Employee Retention",
+    "HR Management (as part of a suite)",
+    "Employee Grievance"
+  ],
+  "technology_stack": [
+    "Internet of Things (IoT)"
+  ],
+  "roi_benefits": [
+    "Performance Management Time Saved",
+    "Improved Employee Development",
+    "Improved Employee Retention",
+    "Streamlined Processes",
+    "Boosted Productivity",
+    "Increased Employee Engagement",
+    "Accelerated Skill Development",
+    "Improved Learning Efficiency"
+  ],
+  "searchable_keywords": [
+    "Engagedly",
+    "Talent Management",
+    "Performance Management",
+    "Employee Engagement",
+    "Employee Development",
+    "Learning & Development",
+    "HR Management Suite",
+    "Real-time Performance",
+    "Goal Alignment",
+    "Strategic Execution",
+    "Employee Retention",
+    "High-Performance Culture",
+    "HR Technology",
+    "Hybrid Work",
+    "Remote Work",
+    "In-office Work",
+    "Skill Development",
+    "Productivity",
+    "Streamlined Processes",
+    "Employee Grievance",
+    "Internet of Things",
+    "Human-centered Leadership"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Employees",
+    "Leaders"
+  ],
+  "_weight": 1
+}

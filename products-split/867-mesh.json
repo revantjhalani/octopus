@@ -1,0 +1,166 @@
+{
+  "id": 867,
+  "name": "Mesh",
+  "description": "At Mesh, we\u2019ve reimagined boring old corporate software for managing goals/OKRs, feedback & performance reviews into a simple social network. Employees love the visibility & personalized growth nudges, while leaders appreciate the predictive insights about their company.",
+  "features": [
+    "Demand for hot talent is far greater than supply, leading to an increase in talent cost",
+    "Tenures are getting shorter as hot talent seeks newer opportunities faster",
+    "Newer generations are demanding purpose, personalization, and flexibility"
+  ],
+  "founders": [
+    "Saurabh Nangia "
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Compensation management software",
+    "Benefits administration services",
+    "Performance management solutions",
+    "Internet of things",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee development",
+    "Company culture"
+  ],
+  "headquarter": "San Jose, California",
+  "launch_date": "2020",
+  "order": 20820,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Mesh helps organizations 4x their chances of hitting business goals by increasing their high performer density!",
+  "ProductId": null,
+  "ShortDescription": "At Mesh, we\u2019ve reimagined boring old corporate software for managing goals/OKRs, feedback & performance reviews into a simple social network.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Next-Best Action Driven User Experience ",
+      "sequence": 0,
+      "description": "Move away from expecting managers and talent to be quasi-HR experts. Mesh\u2019s relatable social user interface and machine learning-driven next-best action philosophy help you drive continuous check-ins, real-time feedback, and coaching conversations."
+    },
+    {
+      "name": "Habit Formation via AI Nudges",
+      "sequence": 1,
+      "description": "Don\u2019t let the need for a vast process or guidelines get in your way of improving performance. Mesh delivers contextual nudges to individual contributors and managers leveraging GenAI. This helps build the habit of timely peer, manager, and team check-ins."
+    },
+    {
+      "name": "Real-Time Insights That Enable Managers",
+      "sequence": 2,
+      "description": "Stop leaving managers in a dark hole of performance and development data for their teams. Mesh combines disjointed data across disparate processes and conversations to deliver insights into managers\u2019 flow of work. This enables them to foresee risks, visualize trends, and recommend development actions with our AI-based insights."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:58.809Z",
+  "enhanced_description": "Mesh is an HR technology solution that transforms traditional corporate software for managing goals/OKRs, feedback, and performance reviews into an engaging social network. It provides employees with visibility and personalized growth nudges, while offering leaders predictive insights to improve business outcomes and increase high performer density. Leveraging machine learning and Generative AI, Mesh drives continuous check-ins, real-time feedback, and coaching conversations through a 'next-best action' driven social user experience. It delivers contextual nudges to foster habits of timely peer, manager, and team check-ins. Managers gain real-time, AI-based insights by combining disparate performance and development data, enabling them to foresee risks, visualize trends, and recommend development actions, ultimately helping organizations 4x their chances of hitting business goals.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Goal Management (OKRs)",
+    "Performance Review Management",
+    "Continuous Feedback",
+    "Real-time Feedback",
+    "Employee Coaching",
+    "Employee Engagement Improvement",
+    "Employee Development",
+    "Talent Performance Optimization",
+    "Predictive Workforce Analytics"
+  ],
+  "competitive_advantages": [
+    "Social Network User Interface",
+    "AI-Powered Nudges for Habit Formation",
+    "Machine Learning-Driven Next-Best Actions",
+    "Predictive Insights for Leaders",
+    "Real-Time Performance & Development Insights",
+    "Personalized Growth Nudges for Employees",
+    "Enhanced Manager Enablement",
+    "Focus on High Performer Density",
+    "Simplified Performance Improvement Processes"
+  ],
+  "hr_functions_supported": [
+    "Performance Management",
+    "Goal Management",
+    "Feedback Management",
+    "Employee Development",
+    "Employee Engagement"
+  ],
+  "technology_stack": [
+    "Machine Learning",
+    "Artificial Intelligence (AI)",
+    "Generative AI (GenAI)"
+  ],
+  "roi_benefits": [
+    "Increased Likelihood of Hitting Business Goals",
+    "Improved High Performer Density",
+    "Enhanced Employee Happiness",
+    "Higher Employee Engagement",
+    "Reduced Managerial Burden (on HR expertise)",
+    "Streamlined Performance Improvement Processes",
+    "Proactive Risk Identification (talent)",
+    "Data-Driven Development Recommendations",
+    "Improved Talent Retention"
+  ],
+  "searchable_keywords": [
+    "Mesh",
+    "Performance management",
+    "Goal setting",
+    "OKR management",
+    "Employee feedback",
+    "Performance reviews",
+    "Continuous feedback",
+    "Real-time feedback",
+    "Employee engagement software",
+    "Employee development",
+    "AI HR",
+    "Machine learning HR",
+    "Generative AI HR",
+    "Talent management",
+    "HR analytics",
+    "Predictive HR",
+    "Workforce insights",
+    "Employee coaching",
+    "Social HR platform",
+    "Growth nudges",
+    "Check-ins",
+    "Talent retention",
+    "Company culture",
+    "High performer density"
+  ],
+  "primary_users": [
+    "Employees",
+    "Managers",
+    "Leaders",
+    "Individual Contributors"
+  ],
+  "_weight": 1
+}

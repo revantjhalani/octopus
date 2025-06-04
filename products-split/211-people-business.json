@@ -1,0 +1,154 @@
+{
+  "id": 211,
+  "name": "People Business",
+  "description": "Established in 2003, People Business began with 3 consultants focusing on talent management. Now a global HR consulting firm with 50 experts across sectors, we optimize client performance through tailored Performance and Talent Management solutions. Emphasizing efficiency and implementation, we enhance business results with strategic HR consulting services. Our growth underscores a commitment to improving organizational capabilities worldwide, shaping us into a leading force in global human resources consulting since our inception.",
+  "features": [
+    "Strong Execution Focus",
+    "Level of Customization ",
+    "Strategic Talent Management"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Fill Open Positions More Quickly",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software",
+    "Human Resource Information Systems (HRIS)"
+  ],
+  "tags": [
+    "Talent sourcing",
+    "Talent acquisition",
+    "Employee engagement"
+  ],
+  "headquarter": "Bangalore, Karnataka",
+  "launch_date": "2002",
+  "order": 20178,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Transforming  Organizations, Impacting Individuals.",
+  "ProductId": null,
+  "ShortDescription": "A global human resource management consulting firm",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Flexibility and Customization",
+      "sequence": 0,
+      "description": "Our approach includes flexibility and customization of tools based on your current and future business challenges. "
+    },
+    {
+      "name": "Smart People, Smarter Solutions",
+      "sequence": 1,
+      "description": "PB has built a strong niche in the area of strategic Talent Management, Development Centers & Leadership Assessment."
+    },
+    {
+      "name": "Global Network",
+      "sequence": 2,
+      "description": "Our global reach, through our partners, helps us to deliver on global assignments. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:32.512Z",
+  "enhanced_description": "People Business, established in 2003, is a global human resource management consulting firm comprising 50 experts across various sectors. The firm specializes in optimizing client performance through tailored Performance and Talent Management solutions, strategic HR consulting services, and enhancing organizational capabilities worldwide. Their approach emphasizes efficiency, strong execution focus, and a high level of customization of tools to address current and future business challenges. People Business has built a strong niche in strategic Talent Management, Development Centers, and Leadership Assessment, leveraging a global network through partners to deliver on global assignments. They aim to transform organizations and impact individuals by improving business results and organizational capabilities.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global"
+  ],
+  "key_use_cases": [
+    "Optimizing client performance",
+    "Enhancing business results",
+    "Improving organizational capabilities",
+    "Implementing tailored Performance Management solutions",
+    "Implementing tailored Talent Management solutions",
+    "Providing strategic HR consulting services",
+    "Developing strategic Talent Management initiatives",
+    "Establishing Development Centers",
+    "Conducting Leadership Assessment",
+    "Filling open positions more quickly",
+    "Improving employee happiness and engagement"
+  ],
+  "competitive_advantages": [
+    "Strong Execution Focus",
+    "High Level of Customization of solutions and tools",
+    "Expertise in Strategic Talent Management",
+    "Specialized niche in Development Centers and Leadership Assessment",
+    "Global Network for delivering assignments",
+    "Team of 50 experts across sectors"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Performance Management",
+    "Strategic HR Consulting",
+    "Talent Sourcing",
+    "Talent Acquisition",
+    "Employee Engagement",
+    "Leadership Assessment",
+    "Development Centers"
+  ],
+  "roi_benefits": [
+    "Optimized client performance",
+    "Enhanced business results",
+    "Improved organizational capabilities",
+    "Faster filling of open positions",
+    "Improved employee happiness and engagement"
+  ],
+  "searchable_keywords": [
+    "People Business",
+    "HR consulting firm",
+    "Global HR consulting",
+    "Human Resource Management",
+    "Talent Management",
+    "Performance Management",
+    "Strategic HR",
+    "Talent Sourcing",
+    "Talent Acquisition",
+    "Employee Engagement",
+    "Leadership Assessment",
+    "Development Centers",
+    "HR strategy",
+    "Organizational capabilities",
+    "HR optimization",
+    "Custom HR solutions",
+    "HRMS",
+    "HCM",
+    "Core HR Software",
+    "HRIS"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "Business Leaders",
+    "Executives",
+    "Organizations (Clients)"
+  ],
+  "scalability_features": [
+    "Ability to deliver on global assignments through a network of partners"
+  ],
+  "_weight": 1
+}

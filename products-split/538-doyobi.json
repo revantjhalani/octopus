@@ -1,0 +1,128 @@
+{
+  "id": 538,
+  "name": "DOYOBI",
+  "description": "Doyobi offers live, facilitated online classes for kids ages 8-14. The curriculum is designed to cultivate the 6C skills: Critical Thinking, Collaboration, Communication, Creativity, Citizenship, and Confidence. Through immersive story adventures in our metaverse, students engage with a curriculum co-designed with Dr. Ken Mizusawa, an accomplished author and playwright who currently researches English language learning at Singapore's National Institute of Education. Our approach focuses on nurturing life skills and real-world literacy that are essential for success in a rapidly changing world. Doyobi is a winner of the MIT Solve Octava Challenge, a prestigious international award that recognizes edtech solutions that utilize evidence-based educational content informed by the science of learning.",
+  "features": [
+    "Elevate English language education by empowering students to use language meaningfully and extend their language skills to give their thoughts & ideas full expression.",
+    "Real-life use is key to language mastery: ESL learners discuss, debate & problem-solve together in English in order to complete each quest.",
+    "Students probe complex human problems, hone decision making skills, explore themes of identity and relationships, and develop social emotional competencies."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Course authoring"
+  ],
+  "tags": [
+    "Skill development"
+  ],
+  "headquarter": "Singapore, Singapore",
+  "launch_date": "2020",
+  "order": 20498,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Adventure Awaits In Every Classroom",
+  "ProductId": null,
+  "ShortDescription": "Become Effective Communicators and Critical Thinkers. Live Classes in the Metaverse. For Kids Ages 8-12.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:29:29.777Z",
+  "enhanced_description": "DOYOBI provides live, facilitated online classes delivered through immersive story adventures in a metaverse environment, targeting kids aged 8-14 (also noted for ages 8-12). The curriculum, co-designed with Dr. Ken Mizusawa, is specifically engineered to elevate English language education and mastery, particularly for ESL learners. It empowers students through real-life language application, encouraging discussion, debate, and problem-solving in English to complete each quest. The program focuses on cultivating essential 21st-century '6C skills' (Critical Thinking, Collaboration, Communication, Creativity, Citizenship, and Confidence), alongside fostering decision-making abilities and social-emotional competencies. Recognized as a winner of the MIT Solve Octava Challenge, DOYOBI's edtech solution is built on evidence-based educational content informed by the science of learning, aiming to nurture vital life skills and real-world literacy essential for success in a rapidly changing world.",
+  "key_use_cases": [
+    "Cultivating 6C skills (Critical Thinking, Collaboration, Communication, Creativity, Citizenship, Confidence)",
+    "English language education and mastery, particularly for ESL learners",
+    "Developing decision-making skills",
+    "Nurturing social-emotional competencies",
+    "Fostering real-world literacy and life skills",
+    "Engaging students in problem-solving and debate in English"
+  ],
+  "competitive_advantages": [
+    "Curriculum co-designed with Dr. Ken Mizusawa, an accomplished author and playwright researching English language learning at Singapore's National Institute of Education",
+    "Winner of the MIT Solve Octava Challenge, recognizing evidence-based edtech solutions",
+    "Utilizes evidence-based educational content informed by the science of learning",
+    "Offers immersive story adventures within a metaverse environment",
+    "Focus on real-life language use and application for mastery",
+    "Emphasis on nurturing life skills and real-world literacy"
+  ],
+  "implementation_scenarios": [
+    "Live, facilitated online classes"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Skill Development"
+  ],
+  "technology_stack": [
+    "Metaverse",
+    "Online platform (implied for live classes)"
+  ],
+  "roi_benefits": [
+    "Accelerate Skill Development",
+    "Improve Learning Efficiency",
+    "Enhance English language mastery",
+    "Develop critical 21st-century skills (6C skills)",
+    "Foster improved decision-making skills",
+    "Nurture social-emotional competencies",
+    "Cultivate essential life skills and real-world literacy"
+  ],
+  "searchable_keywords": [
+    "DOYOBI",
+    "live online classes",
+    "facilitated classes",
+    "kids learning",
+    "English language education",
+    "ESL learning",
+    "Critical Thinking",
+    "Collaboration",
+    "Communication",
+    "Creativity",
+    "Citizenship",
+    "Confidence",
+    "6C skills",
+    "metaverse learning",
+    "skill development",
+    "eLearning",
+    "training software",
+    "life skills",
+    "real-world literacy",
+    "social emotional competencies",
+    "decision making skills",
+    "EdTech",
+    "Singapore"
+  ],
+  "primary_users": [
+    "Kids (ages 8-14)",
+    "Kids (ages 8-12)",
+    "ESL learners"
+  ],
+  "deployment_options": [
+    "Online",
+    "Cloud-based"
+  ],
+  "_weight": 1
+}

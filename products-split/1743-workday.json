@@ -1,0 +1,169 @@
+{
+  "id": 1743,
+  "name": "Workday",
+  "description": "Workday is a leading provider of enterprise cloud applications for finance and human resources, helping customers adapt and thrive in a changing world. Workday applications for financial management, human resources, planning, spend management, and analytics are built with artificial intelligence and machine learning at the core to help organizations around the world embrace the future of work. Workday is used by more than 10,000 organizations around the world and across industries \u2013 from medium-sized businesses to more than 50% of the Fortune 500.",
+  "features": [
+    "Best-in-class applications for finance, HR, and more",
+    "Move forward faster with collaborative, continuous planning",
+    "Embedded AI for maximum performance"
+  ],
+  "founders": [
+    "Aneel Bhusri",
+    "Dave Duffield"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Employee development"
+  ],
+  "headquarter": "Pleasanton, California",
+  "launch_date": "2005",
+  "order": 21343,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Inspiring a brighter work day for all",
+  "ProductId": null,
+  "ShortDescription": "Only Workday unites finance and HR on one platform where AI and continuous innovation are built into the core.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Become a rock star of finance",
+      "sequence": 0,
+      "description": "Make confident decisions faster than ever, identify opportunities, and mitigate risk with data-driven insights."
+    },
+    {
+      "name": "Become a rock star of HR",
+      "sequence": 1,
+      "description": "Deliver the greatest possible impact with a workforce that\u2019s empowered, engaged, and primed to perform."
+    },
+    {
+      "name": "Become a rock star of IT",
+      "sequence": 2,
+      "description": "Adapt processes with ease, ensure compliance, and connect all aspects of your organization."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-07-10T05:49:06.643Z",
+  "enhanced_description": "Workday is a leading provider of enterprise cloud applications designed for finance and human resources. It uniquely unites financial management, human resources, planning, spend management, and analytics on a single platform. At its core, Workday applications leverage artificial intelligence and machine learning to help organizations globally adapt and thrive. Serving a diverse customer base from medium-sized businesses to over 50% of the Fortune 500, Workday aims to accelerate skill development, enhance data-driven decision making, mitigate risk, and empower a highly engaged and performing workforce. The platform also enables IT to easily adapt processes, ensure compliance, and connect all aspects of the organization.",
+  "ideal_company_sizes": [
+    "Medium-sized businesses",
+    "Large enterprises",
+    "Global enterprises"
+  ],
+  "key_use_cases": [
+    "Financial management",
+    "Human resources management",
+    "Business planning",
+    "Spend management",
+    "Data analytics",
+    "Skill development",
+    "Learning efficiency",
+    "Workforce engagement",
+    "Workforce performance management",
+    "Process adaptation",
+    "Risk mitigation",
+    "Opportunity identification"
+  ],
+  "competitive_advantages": [
+    "Unified finance and HR platform",
+    "Embedded AI and machine learning at the core",
+    "Continuous innovation built-in",
+    "Best-in-class applications for finance and HR"
+  ],
+  "hr_functions_supported": [
+    "Core HR",
+    "Talent management",
+    "Performance management",
+    "Employee engagement",
+    "Skill development",
+    "Learning management"
+  ],
+  "technology_stack": [
+    "Cloud computing",
+    "Artificial intelligence (AI)",
+    "Machine learning (ML)"
+  ],
+  "roi_benefits": [
+    "Improved decision-making speed",
+    "Enhanced data-driven insights",
+    "Risk mitigation",
+    "Opportunity identification",
+    "Increased workforce engagement",
+    "Improved workforce performance",
+    "Streamlined process adaptation",
+    "Enhanced organizational connectivity",
+    "Accelerated skill development"
+  ],
+  "searchable_keywords": [
+    "Workday",
+    "Enterprise cloud applications",
+    "Finance software",
+    "Human resources software",
+    "HR management",
+    "Financial management",
+    "Business planning",
+    "Spend management",
+    "Analytics software",
+    "Artificial intelligence",
+    "Machine learning",
+    "AI",
+    "ML",
+    "Employee development",
+    "Continuous planning",
+    "Unified platform",
+    "Workforce engagement",
+    "Workforce performance",
+    "Data-driven insights",
+    "Risk mitigation",
+    "Process adaptation",
+    "Compliance management",
+    "Cloud HR",
+    "Cloud Finance"
+  ],
+  "primary_users": [
+    "Finance professionals",
+    "HR professionals",
+    "IT professionals",
+    "Business leaders",
+    "Employees"
+  ],
+  "deployment_options": [
+    "Cloud"
+  ],
+  "compliance_features": [
+    "Compliance management"
+  ],
+  "scalability_features": [
+    "Supports global enterprises",
+    "Accommodates large user bases",
+    "Scales from medium to Fortune 500 organizations"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,143 @@
+{
+  "id": 626,
+  "name": "Greytrix",
+  "description": "Greytrix, with a robust global presence spanning over 50+ countries and serving 1500+ clients, has honed its technical prowess in providing cutting-edge Business Management Solutions. Our expertise spans a wide spectrum of products & services, from consultation and development to integration and migration, serving clients across different software solutions",
+  "features": [
+    "All Round consulting",
+    "Redefining SaaS industry",
+    "Offer sales commission app"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Other / technology",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Internet of things",
+    "Training eLearning software"
+  ],
+  "tags": [
+    "Skill development",
+    "Training methodologies",
+    "Personalised learning"
+  ],
+  "headquarter": "Navi Mumbai",
+  "launch_date": "1997",
+  "order": 20583,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Think outside the box",
+  "ProductId": null,
+  "ShortDescription": "We are a leading provider of comprehensive business management solutions using cutting-edge technologies, including ERP and CRM systems.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:31:23.321Z",
+  "enhanced_description": "Greytrix is a leading provider of comprehensive business management solutions with a robust global presence, serving over 1500 clients across 50+ countries. Their expertise spans consultation, development, integration, and migration for various software solutions, including cutting-edge ERP and CRM systems. Greytrix also offers a sales commission application and focuses on accelerating skill development and learning efficiency through training and eLearning software, leveraging technologies such as Artificial Intelligence (AI) and Internet of Things (IoT) for personalized learning experiences.",
+  "key_use_cases": [
+    "Business management solutions implementation",
+    "Software consultation and advisory",
+    "Custom software development",
+    "System integration",
+    "Data migration services",
+    "Sales commission management",
+    "Skill development programs",
+    "Employee training and eLearning",
+    "Personalized learning experiences",
+    "ERP system implementation and management",
+    "CRM system implementation and management"
+  ],
+  "competitive_advantages": [
+    "Robust global presence across 50+ countries",
+    "Extensive client base of 1500+",
+    "Honed technical prowess in cutting-edge business management solutions",
+    "Comprehensive service spectrum from consultation to integration and migration",
+    "Expertise in ERP and CRM systems",
+    "Focus on redefining the SaaS industry"
+  ],
+  "implementation_scenarios": [
+    "System consultation",
+    "Software development",
+    "System integration projects",
+    "Data migration services"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Skill Development",
+    "Training Management"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Internet of Things (IoT)",
+    "ERP systems",
+    "CRM systems"
+  ],
+  "integration_capabilities": [
+    "Integration with various software solutions",
+    "ERP system integration",
+    "CRM system integration"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Increased learning efficiency"
+  ],
+  "searchable_keywords": [
+    "Greytrix",
+    "business management solutions",
+    "ERP",
+    "CRM",
+    "software consulting",
+    "software development",
+    "system integration",
+    "data migration",
+    "sales commission app",
+    "skill development",
+    "learning and development",
+    "training",
+    "eLearning",
+    "personalized learning",
+    "AI",
+    "artificial intelligence",
+    "IoT",
+    "Internet of Things",
+    "SaaS"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "Learning and Development professionals",
+    "Employees (for training)",
+    "Sales teams",
+    "Sales managers",
+    "Business leaders",
+    "IT professionals"
+  ],
+  "deployment_options": [
+    "SaaS",
+    "Cloud"
+  ],
+  "_weight": 1
+}

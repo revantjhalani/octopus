@@ -1,0 +1,137 @@
+{
+  "id": 1343,
+  "name": "EasyUni",
+  "description": "Launched in 2012, EasyUni is the first company in Southeast Asia and Middle East to bring over 3,000 universities and colleges from over 20 countries in one website, helping students and parents search, compare and connect with university counselors. We have offices in 3 countries, 30 employees, and serve thousands of students and parents every month.",
+  "features": [
+    "A website with information about universities and colleges ",
+    "Counseling services for students and parents",
+    "Digital marketing services"
+  ],
+  "founders": [],
+  "price": [
+    {
+      "name": "",
+      "type": "",
+      "price": "",
+      "description": ""
+    }
+  ],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Course authoring",
+    "Corporate LMS"
+  ],
+  "tags": [
+    "Continous learning",
+    "Learning optimisation"
+  ],
+  "headquarter": "Mutiara Damansara, Selangor",
+  "launch_date": "2012",
+  "order": 999,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Best IDEA is boss",
+  "ProductId": null,
+  "ShortDescription": "EasyUni help students find the right university in Malaysia and abroad.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": [
+      {
+        "times": [
+          {
+            "time": "",
+            "minute": "",
+            "second": "",
+            "description": ""
+          }
+        ],
+        "header": "",
+        "sequence": 0,
+        "videourl": "",
+        "description": ""
+      }
+    ]
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "",
+      "sequence": 0,
+      "description": ""
+    }
+  ],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": true,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-11T13:45:17.901Z",
+  "enhanced_description": "EasyUni, launched in 2012, operates as a comprehensive online platform connecting students and parents with higher education opportunities across over 3,000 universities and colleges from more than 20 countries. Primarily serving Southeast Asia and the Middle East, the platform facilitates the search, comparison, and direct connection with university counselors. In addition to its student-facing portal, EasyUni also provides digital marketing services, likely for educational institutions seeking to attract prospective students.",
+  "target_industries": [
+    "Education"
+  ],
+  "key_use_cases": [
+    "University search and comparison for prospective students",
+    "Higher education counseling for students and parents",
+    "Student recruitment and lead generation for educational institutions via digital marketing"
+  ],
+  "competitive_advantages": [
+    "Extensive network of over 3,000 universities and colleges across 20+ countries",
+    "Regional specialization and first-mover presence in Southeast Asia and the Middle East",
+    "Integrated platform for university information, comparison, and direct counseling connection"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based platform access for users",
+    "Service-based engagement for digital marketing services"
+  ],
+  "roi_benefits": [
+    "Streamlined and efficient university search and selection process for students and parents",
+    "Enhanced global reach and student acquisition for educational institutions"
+  ],
+  "searchable_keywords": [
+    "EasyUni",
+    "universities",
+    "colleges",
+    "students",
+    "parents",
+    "counselors",
+    "Southeast Asia",
+    "Middle East",
+    "higher education",
+    "university search",
+    "education abroad",
+    "counseling services",
+    "digital marketing",
+    "Malaysia",
+    "Learning and Development",
+    "Continuous learning",
+    "Learning optimization"
+  ],
+  "primary_users": [
+    "Prospective students",
+    "Parents",
+    "University counselors",
+    "Educational institutions (for marketing services)"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "SaaS"
+  ],
+  "_weight": 1
+}

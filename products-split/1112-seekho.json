@@ -1,0 +1,145 @@
+{
+  "id": 1112,
+  "name": "Seekho",
+  "description": "Seekho is an AI-driven, upskilling platform that takes you from dreaming about a job, to your dream job. We believe that formal education doesn't always prepare students for the real world, and we're here to help you get ahead. Seekho bridges the gap between your resume and your job description.We help you maximize your career growth. Get coaching from the industry best through extensive yet simplified learning courses and enjoy lucrative job offers based on your new growth. In addition, Seekho also goes the extra mile by connecting you to job opportunities, internships, and corporate projects. We have tie-ups with the best corporates in the industry, giving you access to a wide range of opportunities to jumpstart your career. Seekho believes that every person has the potential to be a future-maker. We are committed to equipping the country\u2019s future-makers with the right tools to help them own their tomorrow and maximize their earning potential.",
+  "features": [
+    "Comprehensive health insurance for you and your family since health comes first.",
+    "From select memberships to books and conferences, we promise to help you become better everyday.",
+    "Get attractive equity options at one of the world\u2019s hottest Surge start-ups."
+  ],
+  "founders": [
+    "Arihant Jain  ",
+    "Ajeet Kushwaha"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Training management system"
+  ],
+  "tags": [
+    "Skill developmen",
+    "Learning optimisation",
+    "Employee satisfaction",
+    "Employee empowerment"
+  ],
+  "headquarter": "Gurgaon, IN",
+  "launch_date": "2021",
+  "order": 21055,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "AI-driven, upskilling platform that takes you from dreaming about a job to your dream job.",
+  "ProductId": null,
+  "ShortDescription": "Seekho is an AI-driven, upskilling platform that takes you from dreaming about a job, to your dream job. We believe that formal education doesn't always prepare students for the real world, and we're here to help you get ahead. Seekho bridges the gap between your resume and your job description.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Learn from the Best Industry Mentors",
+      "sequence": 0,
+      "description": "Level up your skills and knowledge with industry mentors. Gain insights, ask questions, and embark on a transformative learning journey. Don't miss this chance to excel in your field"
+    },
+    {
+      "name": "Be Job Ready, With our AI driven products",
+      "sequence": 1,
+      "description": "Check out our range of AI Tools, which can help you no matter which part of the job hunt journey you are on!"
+    },
+    {
+      "name": " Access India\u2019s largest learning community",
+      "sequence": 2,
+      "description": "Join a supportive tribe of learners who celebrate each other's achievements and offer encouragement every step of the way."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:40:48.340Z",
+  "enhanced_description": "Seekho is an AI-driven upskilling platform designed to bridge the gap between an individual's resume and job description, guiding them from aspiring to achieving their dream job. It focuses on maximizing career growth by providing extensive, simplified learning courses and coaching from industry experts. The platform also proactively connects users to lucrative job offers, internships, and corporate projects through strategic tie-ups with leading corporates. Seekho aims to equip individuals, referred to as 'future-makers,' with the necessary tools for career advancement and increased earning potential, fostering a supportive learning environment through access to India's largest learning community and AI-powered tools to aid the job hunt.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Upskilling and reskilling for career advancement",
+    "Preparation for job readiness using AI-driven tools",
+    "Bridging the skills gap between resume and job requirements",
+    "Connecting individuals with job opportunities, internships, and corporate projects",
+    "Learning from industry mentors and experts",
+    "Fostering community-based learning and support"
+  ],
+  "competitive_advantages": [
+    "AI-driven platform for personalized upskilling and job readiness",
+    "Direct connection to job opportunities, internships, and corporate projects through corporate tie-ups",
+    "Access to coaching and mentorship from industry best",
+    "Access to India's largest learning community",
+    "Focus on bridging the resume-to-job description skill gap",
+    "Offers attractive equity options as a benefit for employees (if applied internally)"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Employee Engagement",
+    "Talent Management (specifically career growth and placement)"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Machine Learning (ML)"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development and learning efficiency for users",
+    "Improved employee happiness and engagement (for organizations leveraging the platform)",
+    "Maximized career growth for individuals",
+    "Increased earning potential for users",
+    "Access to lucrative job offers for users"
+  ],
+  "searchable_keywords": [
+    "Seekho",
+    "AI-driven",
+    "upskilling",
+    "platform",
+    "job readiness",
+    "career growth",
+    "learning",
+    "training",
+    "e-learning",
+    "skill development",
+    "learning optimization",
+    "employee satisfaction",
+    "employee empowerment",
+    "industry mentors",
+    "AI tools",
+    "job hunt",
+    "learning community",
+    "training management",
+    "professional development"
+  ],
+  "primary_users": [
+    "Individuals seeking career advancement",
+    "Students looking to bridge academic learning with real-world job skills",
+    "Job seekers utilizing AI tools for job hunt preparation",
+    "Learners seeking mentorship and community support"
+  ],
+  "_weight": 1
+}

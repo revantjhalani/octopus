@@ -1,0 +1,171 @@
+{
+  "id": 1308,
+  "name": "Knolskape",
+  "description": "At KNOLSKAPE, we enable organizations to develop a future-ready workforce through experiential learning. Through our large portfolio of Simulation Courses and Experiential Journeys, we help CXOs, Manager of Managers, Managers of Teams and Future Managers/Individual Contributors keep up with the pace of innovation so that they\u2019re better equipped to handle change. ",
+  "features": [
+    "Learning and Development",
+    "Experiential Learning",
+    "Business Simulations",
+    "Virtual Assessment Center",
+    "Gamification",
+    "Mobile Enabled Learning"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [],
+  "sub_categories": [
+    "Learning Experience Systems (LXPs)",
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised learning",
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning"
+  ],
+  "headquarter": "Bengaluru, India",
+  "launch_date": "2008",
+  "order": 21131,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Helping Organistaions & leaders become Future ready through experential  learning",
+  "ProductId": null,
+  "ShortDescription": "Developing a Future-Ready Workforce through Experiential Learning",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Experiential Learning",
+      "sequence": 0,
+      "description": "Experiental learning approach infuses active interaction, engagement, and participation through hands-on experience."
+    },
+    {
+      "name": "Virtual Learning",
+      "sequence": 1,
+      "description": "Virtual Learning is a learning environment that allows learners and instructors to collaborate from anywhere in the world"
+    },
+    {
+      "name": "Instructor-led Training",
+      "sequence": 2,
+      "description": "ILT, Instructor-led training takes place either in a classroom or virtual setting where instructors impart knowledge to a group of learners."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:37.536Z",
+  "enhanced_description": "Knolskape specializes in enabling organizations to develop a future-ready workforce through experiential learning. The platform offers a comprehensive portfolio of Simulation Courses and Experiential Journeys, leveraging advanced features such as Business Simulations, Virtual Assessment Centers, Gamification, and Mobile Enabled Learning. Knolskape's approach emphasizes active interaction, engagement, and hands-on experience, supporting both virtual learning environments and traditional or virtual instructor-led training. The primary objective is to accelerate skill development and enhance learning efficiency, addressing the needs of CXOs, Manager of Managers, Managers of Teams, and Future Managers/Individual Contributors. By focusing on skill acquisition, training effectiveness, learning retention, and continuous personalized learning, Knolskape helps organizations and leaders adapt to the rapid pace of innovation and manage change effectively.",
+  "ideal_company_sizes": [
+    "Small Enterprise"
+  ],
+  "key_use_cases": [
+    "Developing a future-ready workforce",
+    "Accelerating skill development",
+    "Improving learning efficiency and effectiveness",
+    "Conducting business simulations for practical experience",
+    "Facilitating virtual skill assessment",
+    "Enhancing learner engagement through gamification",
+    "Enabling mobile learning delivery",
+    "Delivering virtual and instructor-led training",
+    "Building adaptability to innovation and change"
+  ],
+  "competitive_advantages": [
+    "Experiential learning approach with active interaction and hands-on experience",
+    "Large portfolio of Simulation Courses and Experiential Journeys",
+    "Specialization in developing a future-ready workforce for innovation and change",
+    "Integration of virtual assessment centers and gamification for comprehensive learning"
+  ],
+  "implementation_scenarios": [
+    "Virtual learning environments accessible globally",
+    "Instructor-led training in classroom settings",
+    "Instructor-led training in virtual settings"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Training Management",
+    "Skill Management"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Enhanced training effectiveness",
+    "Increased learning retention",
+    "Improved workforce readiness for innovation and change"
+  ],
+  "searchable_keywords": [
+    "Knolskape",
+    "Learning and Development",
+    "Experiential Learning",
+    "Business Simulations",
+    "Virtual Assessment Center",
+    "Gamification",
+    "Mobile Enabled Learning",
+    "Learning Experience Systems",
+    "LXP",
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Training & development companies",
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised learning",
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning",
+    "Future-ready workforce",
+    "Experiential Journeys",
+    "Simulation Courses",
+    "CXOs",
+    "Manager of Managers",
+    "Managers of Teams",
+    "Individual Contributors",
+    "Innovation readiness",
+    "Change management training",
+    "Leadership development",
+    "Workforce development"
+  ],
+  "primary_users": [
+    "CXOs",
+    "Manager of Managers",
+    "Managers of Teams",
+    "Individual Contributors",
+    "L&D Professionals"
+  ],
+  "_weight": 1
+}

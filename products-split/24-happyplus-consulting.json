@@ -1,0 +1,163 @@
+{
+  "id": 24,
+  "name": "HappyPlus Consulting",
+  "description": "Happy+ is founded by positive psychologists, happiness experts, and researchers dedicated to boosting global happiness. Through positive interventions, Happy+ enhances productivity, efficiency, and overall well-being, helping individuals lead thriving, fulfilling lives. Our mission is to elevate happiness for everyone.",
+  "features": [
+    "Employee Lifecycle Engagement",
+    "Data-Driven Insights",
+    "Science-Backed Happiness Programs"
+  ],
+  "founders": [
+    "Basant Kumar"
+  ],
+  "price": [
+    {}
+  ],
+  "business_objectives": [
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Employee engagement software",
+    "Experience Software",
+    "Talent management software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee hapiness",
+    "Employee well being",
+    "Employee satisfaction",
+    "Employee benefits",
+    "Employee development",
+    "Employee empowerment",
+    "Employee happiness metrics"
+  ],
+  "headquarter": "Mumbai",
+  "launch_date": "2020",
+  "order": 20007,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Elevate Workplace Happiness To New Heights With Our Solutions!",
+  "ProductId": null,
+  "ShortDescription": "We Exist To Increase Happiness At Workplace.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Unite Leaders and Employees",
+      "sequence": 0,
+      "description": " Its intelligent listening platform facilitates two-way communication, ensuring employee voices are heard and acted upon."
+    },
+    {
+      "name": "Your Companion in the Happiness Journey",
+      "sequence": 1,
+      "description": "The platform provides ongoing support through its Happiness App and Happbit app, guiding individuals on their path to greater well-being."
+    },
+    {
+      "name": "Re-Discover Yourself Through Strengths",
+      "sequence": 2,
+      "description": "Discover your top 5 strengths, explore all 21 strengths, and leverage this knowledge for personal and professional development."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": null,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-09T10:44:25.092Z",
+  "enhanced_description": "HappyPlus Consulting, founded by positive psychologists, happiness experts, and researchers, is dedicated to boosting global happiness through science-backed programs and positive interventions. The solution aims to enhance employee productivity, efficiency, and overall well-being, helping individuals lead thriving, fulfilling lives. It features an intelligent listening platform to facilitate two-way communication between leaders and employees, ensuring voices are heard and acted upon. HappyPlus also provides ongoing support through its Happiness App and Happbit app, guiding individuals on their path to greater well-being, and offers programs for strengths-based personal and professional development.",
+  "target_industries": [],
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Improving employee engagement and satisfaction",
+    "Enhancing employee well-being and happiness",
+    "Facilitating two-way communication between employees and leaders",
+    "Providing data-driven insights for HR and leadership",
+    "Supporting individual employee growth through strengths development",
+    "Boosting workplace productivity and efficiency"
+  ],
+  "competitive_advantages": [
+    "Founded by positive psychologists, happiness experts, and researchers, ensuring a science-backed approach",
+    "Offers dedicated mobile applications (Happiness App and Happbit app) for ongoing support",
+    "Features an intelligent listening platform for effective two-way communication",
+    "Provides specific programs for strengths-based personal and professional development"
+  ],
+  "implementation_scenarios": [],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Employee Engagement",
+    "Employee Experience",
+    "Employee Well-being",
+    "Employee Development",
+    "Workplace Communication",
+    "HR Analytics"
+  ],
+  "technology_stack": [],
+  "integration_capabilities": [],
+  "roi_benefits": [
+    "Enhanced employee productivity",
+    "Increased organizational efficiency",
+    "Improved overall employee well-being",
+    "Reduced cost of hiring qualified employees (due to potentially lower turnover)",
+    "Higher employee satisfaction and happiness"
+  ],
+  "searchable_keywords": [
+    "HappyPlus Consulting",
+    "Happy+",
+    "employee engagement",
+    "employee happiness",
+    "employee well-being",
+    "employee satisfaction",
+    "talent management",
+    "employee experience",
+    "HR software",
+    "HR tech",
+    "positive psychology",
+    "science-backed programs",
+    "data-driven insights",
+    "employee feedback",
+    "listening platform",
+    "workplace communication",
+    "employee development",
+    "strengths development",
+    "employee productivity",
+    "employee efficiency",
+    "HR analytics",
+    "employee retention",
+    "employee empowerment"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Leaders",
+    "Employees"
+  ],
+  "deployment_options": [
+    "Cloud/SaaS",
+    "Mobile Application"
+  ],
+  "compliance_features": [],
+  "scalability_features": [],
+  "security_features": [],
+  "_weight": 1
+}

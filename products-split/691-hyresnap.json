@@ -1,0 +1,158 @@
+{
+  "id": 691,
+  "name": "HyreSnap",
+  "description": "HyreSnap was an idea that came to life when two friends, Archit and Rajesh saw the need for a platform that helped job seekers as well as recruiters find each other. Archit Bindal had already conducted more than 500 interviews in 4 years and he had seen first hand all the pain points in the interviewing process. Rajesh is a leadership coach and the biggest pain point of a company was growth. Hiring C-level candidates the company could not think of A-Level growth. Also fixing their wrong hiring was a challenge.",
+  "features": [
+    "Soft-skills Training",
+    "Employability Skills Training",
+    "Future of Tech Interviews"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Employee engagement software",
+    "Talent acquisition suites"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    "Employee well being",
+    "Employee development"
+  ],
+  "headquarter": "Delhi, Delhi",
+  "launch_date": "2020",
+  "order": 20645,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Interview-as-a-Service | Future of Tech Interviews | Hire Right, Hire Fast",
+  "ProductId": null,
+  "ShortDescription": "Hyresnap is a one-stop solution for all your interviewing needs for tech-related roles.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Streamlined Hiring for Employers",
+      "sequence": 0,
+      "description": "HyreSnap offers services to employers that can help them streamline the hiring process [1]. One way they do this is by outsourcing interviews [1]. This can save employers time and money, and it can also help them to find the best possible candidates for the job."
+    },
+    {
+      "name": "Tech Talent Acquisition Made Easy",
+      "sequence": 1,
+      "description": "In addition to outsourcing interviews, HyreSnap can also help employers find tech talent [1]. This can be a challenge for businesses of all sizes, but HyreSnap has the expertise and resources to help businesses find the qualified employees they need."
+    },
+    {
+      "name": "Quick and Easy Resume Building",
+      "sequence": 2,
+      "description": "HyreSnap offers a service that allows job seekers to build a resume in less than 10 minutes [1]. This can be a great time-saver for job seekers who are looking to update their resume or create a new one from scratch."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:37.786Z",
+  "enhanced_description": "HyreSnap is an 'Interview-as-a-Service' platform specifically designed to address the comprehensive interviewing needs for tech-related and C-level roles. Founded by Archit Bindal (experienced interviewer) and Rajesh (leadership coach), it aims to bridge the gap between job seekers and recruiters by streamlining the hiring process for employers through outsourced interviews and efficient tech talent acquisition. For job seekers, HyreSnap provides services such as quick resume building, soft-skills training, and employability skills training. The platform's core objective is to boost hiring manager confidence and productivity by enabling companies to 'Hire Right, Hire Fast' and overcome the challenges of wrong hiring, ultimately supporting A-Level growth.",
+  "target_industries": [
+    "Technology"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Streamlining the hiring process for employers",
+    "Outsourcing interviews for tech and C-level roles",
+    "Acquiring specialized tech talent",
+    "Building resumes for job seekers",
+    "Providing soft-skills and employability skills training for job seekers",
+    "Improving hiring accuracy and efficiency for critical roles",
+    "Boosting hiring manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "Interview-as-a-Service model",
+    "Specialization in 'Future of Tech Interviews' and tech-related roles",
+    "Expertise in addressing pain points in the interviewing process, including C-level hiring challenges",
+    "Ability to help companies 'Hire Right, Hire Fast'",
+    "Supports both job seekers (training, resume building) and recruiters (outsourcing, talent acquisition)",
+    "Focus on improving hiring manager confidence and productivity"
+  ],
+  "implementation_scenarios": [
+    "Service integration into existing hiring workflows (Interview-as-a-Service model)"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Talent Sourcing",
+    "Employee Development",
+    "Interview Management"
+  ],
+  "roi_benefits": [
+    "Time savings for employers in the hiring process",
+    "Cost savings for employers in the hiring process",
+    "Improved quality of hires ('find the best possible candidates')",
+    "Increased efficiency in finding qualified tech talent",
+    "Time-saving for job seekers in resume building",
+    "Enhanced hiring manager confidence and productivity",
+    "Reduction in challenges associated with 'wrong hiring'"
+  ],
+  "searchable_keywords": [
+    "HyreSnap",
+    "Interview-as-a-Service",
+    "Future of Tech Interviews",
+    "Hire Right",
+    "Hire Fast",
+    "Recruiting",
+    "Hiring",
+    "Talent Sourcing",
+    "Recruiting Costs",
+    "Employee Well Being",
+    "Employee Development",
+    "Soft-skills Training",
+    "Employability Skills Training",
+    "Tech Roles",
+    "C-level Candidates",
+    "Outsourcing Interviews",
+    "Resume Building",
+    "Job Seekers",
+    "Recruiters",
+    "Hiring Manager Confidence",
+    "Talent Management",
+    "Talent Acquisition Suites",
+    "Streamlined Hiring"
+  ],
+  "primary_users": [
+    "Job Seekers",
+    "Recruiters",
+    "Hiring Managers",
+    "Employers/Companies"
+  ],
+  "deployment_options": [
+    "Cloud-based service"
+  ],
+  "_weight": 1
+}

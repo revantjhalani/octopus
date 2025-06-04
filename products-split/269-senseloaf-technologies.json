@@ -1,0 +1,149 @@
+{
+  "id": 269,
+  "name": "Senseloaf Technologies",
+  "description": "Senseloaf mission is to leverage the power of AI to revolutionize document and data processing across multiple industries. We are dedicated to providing innovative solutions that solve real-world problems and improve the end-to-end experience for our clients. Through our cutting-edge platforms and technologies, Senseloaf are committed to making sense of big data and empowering organizations to make informed decisions that drive success.",
+  "features": [
+    "API First Approach",
+    "One Stop DocAI platform",
+    "Easy to Setup"
+  ],
+  "founders": [
+    "Gautam Khurana",
+    "Prakhar Agrawal"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Internet of things",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Skill development",
+    "Training effectiveness",
+    "Personalised learning"
+  ],
+  "headquarter": "Austin, Texas",
+  "launch_date": "2018",
+  "order": 20234,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Revolutionizing Recruiting & Ed Tech products:\n AI Unleashed with NLP, Vision, and Gen AI",
+  "ProductId": null,
+  "ShortDescription": "SenseLoaf are a game-changing company that is transforming the way businesses handle document and text analysis, classification, and automation.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:23.380Z",
+  "enhanced_description": "Senseloaf Technologies leverages cutting-edge Artificial Intelligence, including Natural Language Processing (NLP), Computer Vision, and Generative AI, to revolutionize document and data processing. The company offers a 'One Stop DocAI platform' designed to transform how businesses handle document and text analysis, classification, and automation. With an 'API First Approach', Senseloaf's solutions are easy to set up and integrate, aiming to make sense of big data, empower organizations to make informed decisions, and accelerate skill development and learning efficiency, particularly within the Recruiting and Ed Tech industries.",
+  "target_industries": [
+    "Recruiting",
+    "Ed Tech"
+  ],
+  "key_use_cases": [
+    "Document processing automation",
+    "Text analysis",
+    "Data classification",
+    "Data automation",
+    "Big data insights",
+    "Informed decision-making",
+    "Skill development acceleration",
+    "Learning efficiency improvement",
+    "Personalized learning",
+    "Recruiting process enhancement"
+  ],
+  "competitive_advantages": [
+    "API-first approach",
+    "One-stop DocAI platform",
+    "Easy to set up",
+    "Advanced AI capabilities (NLP, Computer Vision, Generative AI)"
+  ],
+  "implementation_scenarios": [
+    "Integration into existing systems via API",
+    "Straightforward setup"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Learning & Development"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence",
+    "Natural Language Processing (NLP)",
+    "Computer Vision",
+    "Generative AI"
+  ],
+  "integration_capabilities": [
+    "API integration"
+  ],
+  "roi_benefits": [
+    "Increased operational efficiency",
+    "Improved data accuracy",
+    "Faster skill acquisition",
+    "Enhanced learning effectiveness",
+    "Better decision-making",
+    "Reduced manual effort"
+  ],
+  "searchable_keywords": [
+    "Senseloaf Technologies",
+    "AI",
+    "Artificial Intelligence",
+    "Document processing",
+    "Data processing",
+    "Text analysis",
+    "Classification",
+    "Automation",
+    "Big data",
+    "NLP",
+    "Natural Language Processing",
+    "Vision",
+    "Computer Vision",
+    "Generative AI",
+    "Gen AI",
+    "API",
+    "DocAI",
+    "Recruiting",
+    "Ed Tech",
+    "Skill development",
+    "Training effectiveness",
+    "Personalized learning",
+    "Learning efficiency",
+    "Technology",
+    "Internet of Things"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "Recruiters",
+    "Learning & Development professionals",
+    "Data Analysts",
+    "Business Leaders",
+    "Employees",
+    "Learners"
+  ],
+  "deployment_options": [
+    "Cloud"
+  ],
+  "_weight": 1
+}

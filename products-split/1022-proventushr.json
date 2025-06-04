@@ -1,0 +1,149 @@
+{
+  "id": 1022,
+  "name": "ProventusHR",
+  "description": "ProventusHR our prime role is to partner the client in their growth journey. At every stage of the organisation maturity, we help to identify needs, develop an action plan and facilitate change to enhance the success of your organization.",
+  "features": [
+    "DIVERSITY\nEQUITY\nINCLUSION",
+    "human-centred thinking",
+    "curating powerful, purposeful, engaging"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency",
+    "Improve Employee Happiness and Engagement",
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Recruiting",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Learning speed",
+    "Workforce diversity"
+  ],
+  "headquarter": "Mumbai",
+  "launch_date": "2020",
+  "order": 20965,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "BE EMPOWERED",
+  "ProductId": null,
+  "ShortDescription": "ProventusHR provides organisations with complete talent solutions that result in measurably improved employee and organizational performance while minimizing employment practice risk.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Tailored Approach",
+      "sequence": 0,
+      "description": " ProventusHR emphasizes \"bespoke\" solutions, indicating they customize their services to meet the specific needs of each client organization. This suggests they don't offer a one-size-fits-all approac"
+    },
+    {
+      "name": "Addressing Client Challenges",
+      "sequence": 1,
+      "description": "Their services aim to address various client challenges related to talent management, including improving employee performance and minimizing employment risks."
+    },
+    {
+      "name": "Leadership Development:",
+      "sequence": 2,
+      "description": "ProventusHR offers solutions specifically for leadership capability development. This highlights their focus on helping organizations cultivate strong leaders within their teams."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:39:00.213Z",
+  "enhanced_description": "ProventusHR partners with organizations to facilitate change and growth at every stage of their maturity, providing complete, human-centered talent solutions. They specialize in bespoke advisory and development services, including leadership capability development and Diversity, Equity, and Inclusion (DEI) initiatives. ProventusHR aims to accelerate skill development, improve employee happiness and engagement, and build a more diverse and inclusive workforce, ultimately leading to measurably improved organizational performance and minimized employment practice risks.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Developing leadership capabilities",
+    "Enhancing workforce diversity, equity, and inclusion (DEI)",
+    "Accelerating skill development and learning efficiency",
+    "Improving employee engagement and happiness",
+    "Optimizing talent management strategies",
+    "Minimizing employment practice risks",
+    "Improving overall employee and organizational performance"
+  ],
+  "competitive_advantages": [
+    "Tailored and bespoke HR solutions",
+    "Human-centered approach to talent management",
+    "Focus on measurable improvements in performance and risk mitigation"
+  ],
+  "implementation_scenarios": [
+    "Strategic HR advisory partnerships",
+    "Organizational change management initiatives",
+    "Specific program development and delivery (e.g., leadership training, DEI programs)"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Learning & Development",
+    "Recruiting",
+    "Diversity, Equity, and Inclusion (DEI)",
+    "Organizational Development / Change Management",
+    "Performance Management",
+    "HR Risk Management / Compliance"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Improved learning efficiency and training effectiveness",
+    "Increased employee happiness and engagement",
+    "Enhanced workforce diversity and inclusion",
+    "Improved organizational performance",
+    "Reduced employment practice risks"
+  ],
+  "searchable_keywords": [
+    "HR consulting",
+    "Talent management",
+    "Leadership development",
+    "Diversity Equity Inclusion (DEI)",
+    "Organizational development",
+    "HR advisory",
+    "Employee engagement",
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Workforce diversity",
+    "Recruiting solutions",
+    "Employment risk management",
+    "Performance improvement",
+    "Customized HR solutions",
+    "Human-centered HR"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "Organizational Development Teams",
+    "Learning & Development Teams",
+    "Business Leaders",
+    "Employees"
+  ],
+  "compliance_features": [
+    "Advisory on employment practice compliance"
+  ],
+  "_weight": 1
+}

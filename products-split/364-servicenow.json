@@ -1,0 +1,174 @@
+{
+  "id": 364,
+  "name": " ServiceNow",
+  "description": "ServiceNow (NYSE: NOW) makes the world work better for everyone. Our\u202fcloud-based\u202fplatform and solutions help digitize and unify organizations so that they can find smarter, faster, better ways to make work flow. So employees and customers can be more connected, more innovative, and more agile. And we can all create the future we imagine. The world works with ServiceNow. ",
+  "features": [
+    "One platform\n",
+    "One architecture",
+    "One data model"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Recruiting",
+    "Other / technology",
+    "Learning and Development",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Video interviewing software",
+    "Recruitment agencies",
+    "Recruiting software",
+    "Performance Review software",
+    "Artificial intelligence",
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "Santa Clara, CA",
+  "launch_date": "2017",
+  "order": 20326,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "When innovation works, the world works",
+  "ProductId": null,
+  "ShortDescription": "We help organizations of every size, in every industry, put AI to work for people",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "When digital experiences work",
+      "sequence": 0,
+      "description": "Our AI platform offers apps that can predict issues, automate processes, and create time for innovation."
+    },
+    {
+      "name": "Explore the ServiceNow AI Platform",
+      "sequence": 1,
+      "description": "Discover how the Now Platform brings intelligence to every corner of your business to connect and automate the work that moves your business forward."
+    },
+    {
+      "name": "Say hello to Now Assist",
+      "sequence": 2,
+      "description": "See how generative AI works on the Now Platform\u00ae for customers, employees, agents, developers\u2014basically anyone who wants to work smarter."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:25:19.314Z",
+  "enhanced_description": "ServiceNow is a cloud-based AI platform designed to digitize and unify organizations of every size, across all industries. It operates on a single platform, architecture, and data model to enable smarter, faster, and more efficient work flows. The platform leverages artificial intelligence, including generative AI capabilities, to predict issues, automate processes, and facilitate innovation. Its solutions connect and enhance experiences for employees, customers, agents, and developers, driving greater connectivity, innovation, and agility across the business.",
+  "target_industries": [
+    "All industries"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Talent acquisition",
+    "Recruitment process optimization",
+    "Video interviewing",
+    "Performance reviews",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Predictive insights for business operations",
+    "Process automation"
+  ],
+  "competitive_advantages": [
+    "Unified cloud-based platform (single architecture and data model)",
+    "Advanced AI capabilities, including generative AI",
+    "Comprehensive process automation and digitization",
+    "Predictive insights for operational efficiency",
+    "Enhanced employee and customer experiences",
+    "Fosters organizational innovation and agility"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Video Interviewing",
+    "Recruitment Software",
+    "Performance Management",
+    "Learning and Development",
+    "Total Rewards"
+  ],
+  "technology_stack": [
+    "Cloud-based Platform",
+    "AI Platform",
+    "Generative AI",
+    "Now Platform (Proprietary)"
+  ],
+  "integration_capabilities": [
+    "HR Software Integration"
+  ],
+  "roi_benefits": [
+    "Faster and more efficient talent acquisition",
+    "Reduced cost of hiring qualified employees",
+    "Increased hiring manager confidence and productivity",
+    "Improved workflow efficiency",
+    "Enhanced employee and customer connectivity",
+    "Increased organizational innovation and agility",
+    "Automated business processes",
+    "Time savings"
+  ],
+  "searchable_keywords": [
+    "ServiceNow",
+    "HR Tech",
+    "Cloud Platform",
+    "AI",
+    "Artificial Intelligence",
+    "Generative AI",
+    "Recruiting",
+    "Talent Acquisition",
+    "Learning and Development",
+    "Total Rewards",
+    "Video Interviewing",
+    "Recruitment Software",
+    "Performance Review",
+    "Hiring Automation",
+    "Hiring Process Optimization",
+    "Data-driven Hiring",
+    "Digital Transformation",
+    "Workflow Automation"
+  ],
+  "primary_users": [
+    "Employees",
+    "Customers",
+    "Hiring Managers",
+    "Agents",
+    "Developers"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "SaaS"
+  ],
+  "_weight": 1
+}

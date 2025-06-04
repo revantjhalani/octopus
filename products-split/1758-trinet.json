@@ -1,0 +1,183 @@
+{
+  "id": 1758,
+  "name": "TriNet",
+  "description": "TriNet (NYSE: TNET) provides small and medium-size businesses (SMBs) with full-service HR solutions tailored by industry. To free SMBs from HR complexities, TriNet offers access to human capital expertise, benefits, risk mitigation and compliance, payroll and real-time technology. From Main Street to Wall Street, TriNet empowers SMBs to focus on what matters most\u2014growing their business. ",
+  "features": [
+    "Grow and adapt with confidence",
+    "Trade complexity for certainty",
+    "Variable costs as you scale"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards",
+    "HRMS / HCM",
+    "Talent Management",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Employee engagement software",
+    "Core HR Software"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Company culture",
+    "Hiring automation"
+  ],
+  "headquarter": "Dublin , CA",
+  "launch_date": "1988",
+  "order": 21338,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Trade HR complexity for certainty",
+  "ProductId": null,
+  "ShortDescription": " From Main Street to Wall Street, TriNet empowers SMBs to focus on what matters most",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "HR Consulting Expertise",
+      "sequence": 0,
+      "description": "Receive guidance on intricate HR challenges so you can maintain best practices."
+    },
+    {
+      "name": "Access to Big-Company Benefits",
+      "sequence": 1,
+      "description": "Seamlessly manage\u2014and give employees access to\u2014comprehensive benefits packages."
+    },
+    {
+      "name": "Contractor and Global Workforce Support",
+      "sequence": 2,
+      "description": "Pay independent contractors and integrate with partners for your international personnel."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-07-11T09:10:18.670Z",
+  "enhanced_description": "TriNet (NYSE: TNET) offers comprehensive, full-service HR solutions specifically tailored for small and medium-size businesses (SMBs). The platform aims to alleviate HR complexities by providing access to human capital expertise, robust benefits administration, risk mitigation and compliance guidance, payroll processing, and real-time technology. TriNet's offerings include expert HR consulting for intricate challenges and best practices, access to comprehensive 'big-company' benefits packages for employees, and support for managing and paying independent contractors, as well as integration with partners for international personnel. This allows SMBs, from Main Street to Wall Street, to confidently grow and adapt by focusing on core business objectives, ensuring certainty in HR operations while scaling with variable costs.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "SMBs"
+  ],
+  "key_use_cases": [
+    "Managing HR complexities",
+    "Accessing human capital expertise",
+    "Administering comprehensive employee benefits",
+    "Ensuring HR risk mitigation and compliance",
+    "Processing payroll efficiently",
+    "Supporting business growth and adaptation",
+    "Managing variable HR costs during scaling",
+    "Providing guidance on HR best practices",
+    "Managing and paying independent contractors",
+    "Supporting international personnel and global workforce needs"
+  ],
+  "competitive_advantages": [
+    "Full-service HR solutions tailored by industry",
+    "Access to human capital expertise and consulting",
+    "Comprehensive benefits management (access to 'big-company' benefits)",
+    "Strong focus on risk mitigation and compliance",
+    "Integrated payroll processing",
+    "Support for contractor and global workforce management",
+    "Ability to trade HR complexity for certainty",
+    "Flexible, variable cost model that scales with business growth"
+  ],
+  "hr_functions_supported": [
+    "HR Consulting",
+    "Benefits Administration",
+    "Risk Mitigation",
+    "Compliance Management",
+    "Payroll Processing",
+    "Human Capital Management (HCM)",
+    "Core HR",
+    "Talent Management",
+    "Total Rewards",
+    "Corporate Wellness",
+    "Employee Engagement",
+    "Company Culture",
+    "Hiring Automation",
+    "Contractor Management",
+    "Global Workforce Support"
+  ],
+  "integration_capabilities": [
+    "Integration with partners for international personnel"
+  ],
+  "roi_benefits": [
+    "Reduced HR complexities and administrative burden",
+    "Increased ability for SMBs to focus on core business growth",
+    "Enhanced confidence in business adaptation and growth",
+    "Improved certainty and predictability in HR operations",
+    "Cost optimization through variable HR expenses that scale with business needs",
+    "Improved employee satisfaction and retention through comprehensive benefits access",
+    "Reduced legal and operational risks through expert compliance guidance"
+  ],
+  "searchable_keywords": [
+    "TriNet",
+    "HR solutions",
+    "SMBs",
+    "Small business HR",
+    "Medium business HR",
+    "Human capital expertise",
+    "Employee benefits",
+    "Benefits administration",
+    "Risk mitigation",
+    "Compliance",
+    "Payroll",
+    "Real-time technology",
+    "HR complexity",
+    "Growth",
+    "Scaling",
+    "Variable costs",
+    "HR Consulting",
+    "Corporate wellness",
+    "Employee engagement",
+    "Core HR",
+    "HRMS",
+    "HCM",
+    "Talent Management",
+    "Total Rewards",
+    "Company culture",
+    "Hiring automation",
+    "Contractor management",
+    "Global workforce support",
+    "International personnel"
+  ],
+  "primary_users": [
+    "Small and Medium-size Business (SMB) Owners/Leaders",
+    "HR Professionals within SMBs",
+    "Employees (for benefits access and related self-service)"
+  ],
+  "compliance_features": [
+    "Risk mitigation and compliance support",
+    "Guidance on HR best practices"
+  ],
+  "scalability_features": [
+    "Support for business growth and adaptation",
+    "Variable cost model that scales with the business",
+    "Capability to manage benefits for a growing workforce",
+    "Support for independent contractors and international personnel"
+  ],
+  "_weight": 1
+}

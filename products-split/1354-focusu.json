@@ -1,0 +1,167 @@
+{
+  "id": 1354,
+  "name": "FocusU",
+  "description": "A typical FocusU learning journey explores various facets before creating a customized development program that helps achieve learning outcomes aligned to the organization\u2019s business goals.",
+  "features": [
+    "Features like the Pomodoro Technique timer, time blocking functionalities, and schedule management.",
+    "It offer personalized learning recommendations or adaptive learning paths based on user  progress.",
+    "The philosophy that drives our\nlearning design."
+  ],
+  "founders": [],
+  "price": [
+    {
+      "name": "",
+      "type": "",
+      "price": "",
+      "description": ""
+    }
+  ],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Talent Management",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Talent management software",
+    "Performance management system"
+  ],
+  "tags": [
+    "Continuous learning"
+  ],
+  "headquarter": "India (Gurgaon)",
+  "launch_date": "2010",
+  "order": 999,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Facilitating learning that delivers impact",
+  "ProductId": null,
+  "ShortDescription": "Helping deliver better results at the workplace through experiential learning",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": [
+      {
+        "times": [
+          {
+            "description": ""
+          }
+        ],
+        "header": "",
+        "sequence": 0,
+        "videourl": "",
+        "description": ""
+      }
+    ]
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "How does the growth of FocusU create a positive impact on our society?",
+      "sequence": 0,
+      "description": "One of the things that makes us happiest as founders is when people who have left us, call us back to tell us that the values that they learnt here of CHOPS (Care, Humility, Ownership, Passion, Safety) has become a way of life for them. Even if there is a bit of truth in that, we think we have inspired them to be better human beings."
+    },
+    {
+      "name": "The philosophy that drives our learning design",
+      "sequence": 1,
+      "description": "Our approach to learning design is inspired by the work of Roy V. H. Pollock, Andrew McK. Jefferson & Calhoun W. Wick and their \u201c6 Disciplines of Breakthrough Learning.\u201d"
+    },
+    {
+      "name": "The FocusU learning design process.",
+      "sequence": 2,
+      "description": "A typical FocusU learning journey explores various facets before creating a customized development program that helps achieve learning outcomes aligned to the organization\u2019s business goals."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": true,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-12T07:07:47.859Z",
+  "enhanced_description": "FocusU is an HR technology solution designed to facilitate learning that delivers impact and helps organizations achieve better workplace results through experiential learning. It offers a customized development program based on a typical learning journey, exploring various facets to align learning outcomes with the organization\u2019s business goals. Key features include productivity tools like the Pomodoro Technique timer, time blocking functionalities, and schedule management, alongside personalized learning recommendations and adaptive learning paths based on user progress. The learning design philosophy is inspired by the '6 Disciplines of Breakthrough Learning'.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global"
+  ],
+  "key_use_cases": [
+    "Accelerating skill development",
+    "Improving learning efficiency",
+    "Creating customized employee development programs",
+    "Providing personalized and adaptive learning paths",
+    "Enhancing employee productivity through time management tools",
+    "Aligning learning outcomes with business goals"
+  ],
+  "competitive_advantages": [
+    "Customized learning programs aligned with organizational business goals",
+    "Personalized and adaptive learning paths based on user progress",
+    "Experiential learning methodology",
+    "Learning design based on the '6 Disciplines of Breakthrough Learning' framework",
+    "Integration of productivity features like Pomodoro Technique, time blocking, and schedule management for improved learning efficiency"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Talent Management",
+    "Skill Management",
+    "Performance Management"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Increased learning efficiency",
+    "Improved alignment of learning outcomes with organizational business goals",
+    "Enhanced workplace performance and results",
+    "Potentially increased employee productivity through integrated time management tools"
+  ],
+  "searchable_keywords": [
+    "FocusU",
+    "learning journey",
+    "customized development program",
+    "learning outcomes",
+    "business goals",
+    "Pomodoro Technique timer",
+    "time blocking",
+    "schedule management",
+    "personalized learning",
+    "adaptive learning paths",
+    "user progress",
+    "learning recommendations",
+    "Talent Management",
+    "Total Rewards",
+    "Talent management software",
+    "Performance management system",
+    "Continuous learning",
+    "experiential learning",
+    "skill development",
+    "learning efficiency",
+    "workplace results",
+    "employee development",
+    "productivity tools",
+    "corporate training",
+    "organizational learning",
+    "learning design",
+    "6 Disciplines of Breakthrough Learning",
+    "India",
+    "Gurgaon"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Professionals",
+    "L&D Professionals",
+    "Managers"
+  ],
+  "scalability_features": [
+    "Supports global enterprise use, implying scalability for large user bases and complex organizational structures"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,147 @@
+{
+  "id": 1273,
+  "name": "Enboarder",
+  "description": "Enboarder goes beyond onboarding. It's your Human Connection Platform, fostering belonging throughout the employee journey. From day one to career growth, we cut through the noise and connect people with the tools and support they need to thrive. Build a culture of connection and inclusion \u2013 boost retention, engagement, and success at every stage.",
+  "features": [
+    "Designed for Humans",
+    "Measurable ROI for Growth",
+    "Proven Industry Track Record"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Workforce management",
+    "HR management suites",
+    "Employee grievance",
+    "HR consulting providers",
+    "Job boards",
+    "Staffing services providers"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Hiring",
+    "Recruiting",
+    "Recruiting efficiency",
+    "Hiring best practices"
+  ],
+  "headquarter": "Austin, Texas",
+  "launch_date": "2015",
+  "order": 21101,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Creating better human connections",
+  "ProductId": null,
+  "ShortDescription": "Make onboarding more than a process - connect new hires to colleagues, information, and programs that fuel their success from day one.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Launchpad to Success",
+      "sequence": 0,
+      "description": "Craft onboarding experiences that make new hires feel seen, supported, and excited to contribute."
+    },
+    {
+      "name": "Seamless Transitions",
+      "sequence": 1,
+      "description": " Facilitate successful internal moves and reorient returning employees with clear guidance and connections."
+    },
+    {
+      "name": "Boost Engagement",
+      "sequence": 2,
+      "description": "Empower individuals with personalized development journeys and timely nudges to stay motivated and fulfilled. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:13:45.074Z",
+  "enhanced_description": "Enboarder is positioned as a Human Connection Platform that extends beyond traditional onboarding to foster a sense of belonging throughout the entire employee journey. It aims to cut through noise and connect individuals with the essential tools and support needed for their success, from their very first day to their ongoing career growth. The platform helps organizations cultivate a culture of connection and inclusion by crafting engaging onboarding experiences that make new hires feel seen, supported, and excited to contribute. Additionally, it facilitates seamless internal transitions and reorients returning employees with clear guidance and connections. Enboarder also empowers individuals with personalized development journeys and timely nudges, ultimately boosting retention, engagement, and overall employee success.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee Onboarding (new hires)",
+    "Employee Internal Mobility (transitions)",
+    "Re-onboarding (returning employees)",
+    "Employee Development (personalized journeys)",
+    "Fostering Employee Connection and Belonging",
+    "Boosting Employee Engagement",
+    "Building a Culture of Connection and Inclusion"
+  ],
+  "competitive_advantages": [
+    "Measurable ROI for Growth",
+    "Proven Industry Track Record",
+    "Goes beyond traditional onboarding, focusing on the entire employee journey as a Human Connection Platform",
+    "Designed for Humans (user-centric experience)"
+  ],
+  "hr_functions_supported": [
+    "Onboarding",
+    "Employee Engagement",
+    "Talent Management",
+    "Recruiting",
+    "Internal Mobility"
+  ],
+  "roi_benefits": [
+    "Boost retention",
+    "Boost engagement",
+    "Boost overall employee success",
+    "Measurable ROI for growth",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "searchable_keywords": [
+    "Enboarder",
+    "Human Connection Platform",
+    "employee experience",
+    "onboarding",
+    "employee journey",
+    "talent management",
+    "recruiting",
+    "employee engagement",
+    "retention",
+    "workforce management",
+    "HR management suites",
+    "hiring manager productivity",
+    "internal mobility",
+    "employee development",
+    "belonging",
+    "inclusion",
+    "hiring",
+    "recruiting efficiency",
+    "hiring best practices",
+    "culture building",
+    "HR tech",
+    "HR platform"
+  ],
+  "primary_users": [
+    "New Hires",
+    "Returning Employees",
+    "Employees (for development journeys)",
+    "Hiring Managers",
+    "HR Teams"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,176 @@
+{
+  "id": 188,
+  "name": "Onloop",
+  "description": "OnLoop is a habit-forming, genAI-powered goals and feedback platform for high-performing teams. Utilizing the proprietary Collaborative Team Development (CTD) framework, it enhances well-being, clarity, feedback, and growth. OnLoop offers a fun, easy-to-use app proven effective for tech start-ups and agencies in the US and APAC, especially in hybrid setups. Users report improved feedback sharing, proactive improvement, and easier progress tracking for managers.",
+  "features": [
+    "Prioritize team wellness",
+    "Goals aligned with business priorities",
+    "Uncover your blind spots"
+  ],
+  "founders": [
+    "Anne Lewallen"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "HR management suites",
+    "Employee engagement software",
+    "Talent acquisition suites"
+  ],
+  "tags": [
+    "Hiring manager confidence",
+    "Hiring efficiency",
+    "Hiring process optimization"
+  ],
+  "headquarter": "New York, US",
+  "launch_date": "2020",
+  "order": 20155,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Leveraging AI to convert every manager into a good manager",
+  "ProductId": null,
+  "ShortDescription": "AI-powered team development platform that simplifies performance reviews and encourages day-to-day reflection.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "1 on 1 executive coaching",
+      "sequence": 0,
+      "description": "We offer a limited number of executive coaching slots to help CEOs navigate through uncertainty and thrive, using the tenets of CTD."
+    },
+    {
+      "name": "Manager Training Program",
+      "sequence": 1,
+      "description": "We will provide guidance through practical workshops and continuous feedback to ensure long-lasting success for each team member."
+    },
+    {
+      "name": "Leadership offsites ",
+      "sequence": 2,
+      "description": "Facilitation of workshop for organization leaders, including review of status quo, guided discussion on vision and goals, agreement on next steps."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:10.125Z",
+  "enhanced_description": "OnLoop is a generative AI-powered platform for goals and feedback, designed to foster habit formation within high-performing teams. Utilizing its proprietary Collaborative Team Development (CTD) framework, it focuses on enhancing well-being, clarity, feedback, and growth. The platform simplifies performance reviews and encourages day-to-day reflection, aiming to leverage AI to convert every manager into an effective leader. It has proven effective for tech start-ups and agencies, particularly in hybrid setups across the US and APAC. Users have reported improved feedback sharing, proactive improvement, and easier progress tracking for managers, while also boosting hiring manager confidence and productivity. OnLoop also offers supplementary services like 1-on-1 executive coaching for CEOs, manager training programs, and leadership offsite facilitation, including workshops for organization leaders focusing on vision and goals.",
+  "target_industries": [
+    "Tech Start-ups",
+    "Agencies"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Goals management",
+    "Feedback management",
+    "Performance tracking",
+    "Employee well-being enhancement",
+    "Manager development",
+    "Team development",
+    "Day-to-day reflection",
+    "Performance review simplification",
+    "Boosting hiring manager confidence",
+    "Boosting hiring manager productivity",
+    "Hiring process optimization",
+    "Executive coaching",
+    "Leadership offsite facilitation",
+    "Strategic planning facilitation"
+  ],
+  "competitive_advantages": [
+    "GenAI-powered platform",
+    "Proprietary Collaborative Team Development (CTD) framework",
+    "Habit-forming approach to goals and feedback",
+    "Proven effectiveness in tech start-ups and agencies, especially in hybrid setups",
+    "Leverages AI to enhance manager capabilities"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Recruiting",
+    "HR Management",
+    "Employee Engagement",
+    "Talent Acquisition",
+    "Employee Well-being",
+    "Goal Setting and Alignment",
+    "Performance Management",
+    "Manager Training and Development",
+    "Executive Coaching",
+    "Leadership Development"
+  ],
+  "technology_stack": [
+    "Generative AI (GenAI)"
+  ],
+  "roi_benefits": [
+    "Improved feedback sharing",
+    "Proactive improvement",
+    "Easier progress tracking for managers",
+    "Enhanced employee well-being",
+    "Improved clarity for teams",
+    "Accelerated employee growth",
+    "Boosted hiring manager confidence",
+    "Increased hiring manager productivity"
+  ],
+  "searchable_keywords": [
+    "Onloop",
+    "genAI",
+    "AI",
+    "goals",
+    "feedback",
+    "performance management",
+    "team development",
+    "well-being",
+    "clarity",
+    "growth",
+    "CTD framework",
+    "Collaborative Team Development",
+    "performance reviews",
+    "day-to-day reflection",
+    "tech start-ups",
+    "agencies",
+    "hybrid teams",
+    "manager confidence",
+    "hiring efficiency",
+    "hiring process optimization",
+    "talent management",
+    "recruiting",
+    "employee engagement",
+    "executive coaching",
+    "manager training",
+    "leadership offsites",
+    "HR management suites",
+    "Talent acquisition suites"
+  ],
+  "primary_users": [
+    "High-performing teams",
+    "Managers",
+    "Team members",
+    "CEOs",
+    "Organization leaders",
+    "Hiring managers"
+  ],
+  "_weight": 1
+}

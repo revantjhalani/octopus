@@ -1,0 +1,139 @@
+{
+  "id": 1035,
+  "name": "PulseHRM",
+  "description": "PulseHRM enables organizations to manage all HR data from one place. With a modular structure and customization option, PulseHRM allows you to build an HR ecosystem that suits your organizations unique workflow.",
+  "features": [
+    "Offer Mobile app",
+    "Project Management",
+    "Performance tuning"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [],
+  "tags": [
+    "Hiring Speed",
+    "Hiring efficiency",
+    "Recruiting efficiency"
+  ],
+  "headquarter": "Hyderabad, Telangana",
+  "launch_date": "2015",
+  "order": 20978,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Your Pulse. Your Employee",
+  "ProductId": null,
+  "ShortDescription": "Designed to be comprehensive without being overly complex",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Focus on Efficiency and Accessibility:",
+      "sequence": 0,
+      "description": "PulseHRM emphasizes its cloud-based nature. This allows businesses of all sizes to access and manage HR functions remotely, improving accessibility and potentially reducing IT infrastructure costs."
+    },
+    {
+      "name": "Streamlined HR Processes",
+      "sequence": 1,
+      "description": "Cloud-based HRMS solutions can automate and streamline various HR processes, such as payroll, leave management, and attendance tracking. This can save time and resources for HR teams."
+    },
+    {
+      "name": "Customization and Growth:",
+      "sequence": 2,
+      "description": "The website mentions PulseHRM's modular design. This suggests that businesses can choose the specific HR modules they need, allowing for customization based on company size and requirements."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:39:15.014Z",
+  "enhanced_description": "PulseHRM is a comprehensive, cloud-based HRMS/HCM solution designed to centralize HR data management for organizations. It emphasizes efficiency and accessibility, allowing remote management of HR functions and potentially reducing IT infrastructure costs. Its modular structure and customization options enable large and global organizations to build an HR ecosystem that suits their unique workflow and specific requirements. The platform supports streamlined HR processes such as payroll, leave management, and attendance tracking, and offers a mobile app for enhanced accessibility. PulseHRM specifically aims to help organizations hire top talent faster and more efficiently, with features including project management capabilities.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Centralized HR data management",
+    "Talent acquisition optimization",
+    "Improving hiring speed and efficiency",
+    "Automating and streamlining HR operations (e.g., payroll, leave management, attendance tracking)",
+    "HR process customization and workflow adaptation",
+    "Project management within HR context"
+  ],
+  "competitive_advantages": [
+    "Cloud-based nature offering remote access and improved accessibility",
+    "Potential reduction in IT infrastructure costs due to cloud deployment",
+    "Modular structure allowing for customization and adaptability to unique workflows",
+    "Ability to streamline and automate various HR processes (payroll, leave, attendance)",
+    "Focus on comprehensive functionality without excessive complexity",
+    "Emphasis on improving hiring speed and efficiency"
+  ],
+  "hr_functions_supported": [
+    "Core HR Data Management",
+    "Payroll",
+    "Leave Management",
+    "Attendance Tracking",
+    "Recruitment / Talent Acquisition",
+    "Project Management"
+  ],
+  "roi_benefits": [
+    "Reduced IT infrastructure costs",
+    "Time and resource savings for HR teams through automation",
+    "Faster and more efficient hiring of top talent"
+  ],
+  "searchable_keywords": [
+    "PulseHRM",
+    "HRMS",
+    "HCM",
+    "HR data management",
+    "Cloud-based HR",
+    "Modular HR software",
+    "Customizable HR",
+    "Mobile HR app",
+    "Project Management HR",
+    "Hiring Speed",
+    "Hiring Efficiency",
+    "Recruiting Efficiency",
+    "Payroll management",
+    "Leave management",
+    "Attendance tracking",
+    "HR automation",
+    "Remote HR access",
+    "Enterprise HR",
+    "Global HR"
+  ],
+  "primary_users": [
+    "HR Teams",
+    "Employees"
+  ],
+  "deployment_options": [
+    "Cloud"
+  ],
+  "scalability_features": [
+    "Modular design allows for customization based on company size and requirements"
+  ],
+  "_weight": 1
+}

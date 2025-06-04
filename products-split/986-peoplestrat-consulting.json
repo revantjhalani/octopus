@@ -1,0 +1,145 @@
+{
+  "id": 986,
+  "name": "PeopleStrat Consulting",
+  "description": "Peoplestrat consulting helps you Plan, Design and Execute People Strategy for your biggest Human Capital challenges.We are a high impact HR Consulting and Solutions provider to help you with all your talent related requirements, to enhance your organizational growth.",
+  "features": [
+    "Provide service from startup to unicorn",
+    "Work in various fields ",
+    "Solution oriented mindset "
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Talent Management",
+    "Recruiting",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software",
+    "Talent management software",
+    "Recruiting software",
+    "Staffing & management software",
+    "Onboarding software"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Talent sourcing",
+    "Candidate screening",
+    "Quick Hiring"
+  ],
+  "headquarter": "Jakarta",
+  "launch_date": "2023",
+  "order": 20932,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Your HR partner for sucess",
+  "ProductId": null,
+  "ShortDescription": "We are one of Indonesia\u2019s leading workforce solutions providers",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:38:18.326Z",
+  "enhanced_description": "PeopleStrat Consulting is an HR consulting and solutions provider based in Jakarta, Indonesia. They specialize in helping organizations plan, design, and execute effective people strategies to address human capital challenges and meet talent-related requirements, ultimately enhancing organizational growth. Their services are designed to support a wide spectrum of companies, from startups to large enterprises (unicorns), by applying a solution-oriented mindset. A core focus is on improving talent acquisition outcomes, including boosting hiring manager confidence and productivity, accelerating the hiring of top talent, and efficiently filling open positions.",
+  "ideal_company_sizes": [
+    "Startup",
+    "Small Business",
+    "Mid-Market",
+    "Enterprise"
+  ],
+  "key_use_cases": [
+    "Planning people strategy",
+    "Designing people strategy",
+    "Executing people strategy",
+    "Addressing human capital challenges",
+    "Fulfilling talent-related requirements",
+    "Boosting hiring manager confidence",
+    "Increasing hiring manager productivity",
+    "Hiring top talent faster",
+    "Hiring top talent more efficiently",
+    "Filling open positions quickly"
+  ],
+  "competitive_advantages": [
+    "Provides service from startup to unicorn organizations",
+    "Solution-oriented mindset"
+  ],
+  "implementation_scenarios": [
+    "Strategic HR planning and execution",
+    "Talent acquisition strategy development",
+    "Organizational growth initiatives"
+  ],
+  "hr_functions_supported": [
+    "HR Strategy",
+    "Talent Management",
+    "Recruiting",
+    "Core HR",
+    "Onboarding",
+    "Staffing & Management"
+  ],
+  "roi_benefits": [
+    "Enhanced organizational growth",
+    "Boosted hiring manager confidence",
+    "Increased hiring manager productivity",
+    "Faster top talent acquisition",
+    "More efficient top talent acquisition",
+    "Quicker filling of open positions"
+  ],
+  "searchable_keywords": [
+    "HR consulting",
+    "people strategy",
+    "human capital",
+    "HR solutions",
+    "talent management",
+    "recruiting",
+    "hiring",
+    "talent acquisition",
+    "workforce solutions",
+    "organizational growth",
+    "HR partner",
+    "startup HR",
+    "unicorn HR",
+    "hiring manager productivity",
+    "top talent",
+    "candidate screening",
+    "talent sourcing",
+    "quick hiring",
+    "Jakarta",
+    "Indonesia"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "HR Teams",
+    "Talent Acquisition Teams",
+    "Hiring Managers"
+  ],
+  "scalability_features": [
+    "Ability to serve diverse company sizes from startups to large enterprises (unicorns)"
+  ],
+  "_weight": 1
+}

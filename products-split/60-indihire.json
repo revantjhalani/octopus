@@ -1,0 +1,162 @@
+{
+  "id": 60,
+  "name": "IndiHire",
+  "description": "Welcome to IndiHire, where quality and trust define our vision. For over a decade, we've been a reliable, ethical partner in IT and digital talent recruitment, placing over 5,000 professionals. With dedicated units\u2014Scaler Consulting for executive search, TechWise Digital for specialized IT staffing, and IndiHire Consultants for full-time IT roles\u2014we strive to enhance every client and candidate interaction.",
+  "features": [
+    " Experienced team of search consultants",
+    "Deep domain knowledge of IT and digital world",
+    "Decades of experience in consulting and talent acquisition",
+    " Agile and innovative mindset"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing services providers",
+    "Recruitment agencies",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Quick Hiring",
+    "Recruiting efficiency",
+    "Talent acquisition",
+    "Candidate screening",
+    "Interview scheduling",
+    "Hiring automation",
+    "Talent pipeline"
+  ],
+  "headquarter": "New Delhi",
+  "launch_date": "2011",
+  "order": 20037,
+  "weightage": false,
+  "HCM": null,
+  "Headline": " Enabling the digital world with right talent",
+  "ProductId": null,
+  "ShortDescription": "Rapid Tech Hiring",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Enterprise products and SaaS",
+      "sequence": 0,
+      "description": "At IndiHire, we eliminate your most pressing problem: finding a software engineer with the right skills to build your dream product. "
+    },
+    {
+      "name": "Digital transformation",
+      "sequence": 1,
+      "description": "We help you accelerate your digital transformation process by providing the right talent necessary to achieve your vision."
+    },
+    {
+      "name": "Global offshore centers",
+      "sequence": 2,
+      "description": "With tailored tech recruitments and strategic insights, we facilitate the MNCs to locate and transform their GICs in India into centers of excellence."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-16T14:10:13.208Z",
+  "enhanced_description": "IndiHire is an established IT and digital talent recruitment firm, launched in 2011, with over a decade of experience and a track record of placing over 5,000 professionals. Headquartered in New Delhi, the company offers specialized services through dedicated units: Scaler Consulting for executive search, TechWise Digital for specialized IT staffing, and IndiHire Consultants for full-time IT roles. Their core focus is on enabling rapid tech hiring and supporting clients in finding software engineers for enterprise products and SaaS, accelerating digital transformation initiatives, and facilitating the establishment and enhancement of Global In-house Centers (GICs) in India for multinational corporations.",
+  "target_industries": [
+    "Information Technology (IT)",
+    "Digital",
+    "Software Development (specifically for enterprise products and SaaS)",
+    "Companies undergoing digital transformation"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprises"
+  ],
+  "key_use_cases": [
+    "Filling open IT and digital talent positions quickly",
+    "Executive search for IT and digital roles",
+    "Specialized IT staffing solutions",
+    "Recruitment for full-time IT roles",
+    "Sourcing skilled software engineers for product development (enterprise and SaaS)",
+    "Acquiring talent to accelerate digital transformation processes",
+    "Supporting multinational corporations in establishing and transforming Global In-house Centers (GICs) in India"
+  ],
+  "competitive_advantages": [
+    "Over a decade of experience in IT and digital talent recruitment since 2011",
+    "Proven track record with over 5,000 professionals placed",
+    "Experienced team of search consultants",
+    "Deep domain knowledge of IT and digital industries",
+    "Agile and innovative mindset in talent acquisition",
+    "Specialized units for executive search, specialized IT staffing, and full-time IT roles",
+    "Expertise in rapid tech hiring for specific needs like enterprise products, SaaS, digital transformation, and GICs"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Staffing",
+    "Executive Search",
+    "Talent Acquisition",
+    "Candidate Screening",
+    "Interview Scheduling",
+    "Talent Pipeline Management"
+  ],
+  "roi_benefits": [
+    "Faster fill times for open positions",
+    "Improved recruiting efficiency",
+    "Elimination of challenges in finding skilled software engineers",
+    "Accelerated digital transformation processes",
+    "Transformation of Global In-house Centers (GICs) into centers of excellence"
+  ],
+  "searchable_keywords": [
+    "IndiHire",
+    "IT recruitment",
+    "digital talent",
+    "staffing services",
+    "recruitment agencies",
+    "HR consulting",
+    "executive search",
+    "IT staffing",
+    "full-time IT roles",
+    "quick hiring",
+    "recruiting efficiency",
+    "talent acquisition",
+    "candidate screening",
+    "interview scheduling",
+    "hiring automation",
+    "talent pipeline",
+    "software engineer",
+    "enterprise products",
+    "SaaS",
+    "digital transformation",
+    "global offshore centers",
+    "GIC",
+    "India recruitment",
+    "tech hiring",
+    "talent"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Departments",
+    "Talent Acquisition Teams",
+    "Business Leaders",
+    "Multinational Corporations (MNCs)"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,178 @@
+{
+  "id": 1350,
+  "name": "BTS",
+  "description": "BTS is a consultancy specializing in the people side of strategy. For over three decades we\u2019ve been designing powerful experiences that have a profound and lasting impact on businesses and their people. We help the world\u2019s leading companies turn strategy into results.",
+  "features": [
+    "Business and people centric",
+    "Unrivaled simulations",
+    "Turning strategy into action",
+    "Client obsessed"
+  ],
+  "founders": [],
+  "price": [
+    {
+      "name": "",
+      "type": "",
+      "price": "",
+      "description": ""
+    }
+  ],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "Hiring efficiency",
+    "Quality of hire",
+    "Hiring process optimization"
+  ],
+  "headquarter": "Stockholm",
+  "launch_date": "2010",
+  "order": 999,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Inspiring and equipping people and organizations to do the best work of their lives.",
+  "ProductId": null,
+  "ShortDescription": "BTS is a consultancy specializing in the people side of Strategy",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": [
+      {
+        "times": [
+          {
+            "description": ""
+          }
+        ],
+        "header": "",
+        "sequence": 0,
+        "videourl": "",
+        "description": ""
+      }
+    ]
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Strategy execution & business transformation",
+      "sequence": 0,
+      "description": "A great strategy is worthless if it isn\u2019t well executed. BTS equips and enables your leaders to drive the transformational change needed to bring your strategy to life and deliver incredible results at scale."
+    },
+    {
+      "name": "Leader readiness & development",
+      "sequence": 1,
+      "description": "Today\u2019s leaders must be transformational. BTS has the innovative tools and frameworks needed to help leaders practice and understand how to embrace change, take smart risks, meet employees where they are, and unlock the full potential of their teams."
+    },
+    {
+      "name": "Go to market",
+      "sequence": 2,
+      "description": "Your sales, marketing, product, and service teams face multiple challenges and fragmented markets. BTS can help you connect and engage with your customers, accelerate customer decision-making and drive better business results."
+    },
+    {
+      "name": "Talent acquisition & succession",
+      "sequence": 3,
+      "description": "Real-world experiences drive real-world results.  We believe context matters. Our assessments are about leading your business, not any business, and mirror the dynamics of your business and culture."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": true,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-12T06:17:10.684Z",
+  "enhanced_description": "BTS is a consultancy specializing in the people side of strategy, with over three decades of experience designing powerful experiences that have a profound and lasting impact on businesses and their people. They help the world's leading companies turn strategy into results by focusing on key areas such as strategy execution and business transformation, leader readiness and development, go-to-market strategies, and talent acquisition and succession planning. Their approach is centered around business and people, utilizing unrivaled simulations to inspire and equip organizations to achieve their best work.",
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Turning strategy into results",
+    "Boosting Hiring Manager Confidence and Productivity",
+    "Driving strategy execution and business transformation",
+    "Developing leader readiness and capabilities",
+    "Optimizing go-to-market strategies for sales, marketing, product, and service teams",
+    "Enhancing talent acquisition and succession planning through real-world experiences and contextualized assessments"
+  ],
+  "competitive_advantages": [
+    "Over three decades of experience in designing impactful experiences",
+    "Unrivaled simulations for powerful learning and application",
+    "Business and people-centric approach",
+    "Client-obsessed service model",
+    "Innovative tools and frameworks for leadership development",
+    "Contextualized assessments that mirror specific business dynamics and culture"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Succession Planning",
+    "Leadership Development",
+    "Learning & Development",
+    "HR Consulting"
+  ],
+  "roi_benefits": [
+    "Improved strategy execution and business transformation",
+    "Increased hiring manager confidence and productivity",
+    "Profound and lasting impact on businesses and their people",
+    "Ability to turn strategy into action",
+    "Enhanced leader capabilities to drive transformational change",
+    "Unlocking the full potential of teams",
+    "Accelerated customer decision-making and improved business results"
+  ],
+  "searchable_keywords": [
+    "BTS",
+    "Consultancy",
+    "HR Consulting",
+    "Strategy",
+    "People strategy",
+    "Business transformation",
+    "Leadership development",
+    "Leader readiness",
+    "Talent acquisition",
+    "Succession planning",
+    "Go to market",
+    "Recruiting",
+    "Hiring",
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "Hiring efficiency",
+    "Quality of hire",
+    "Hiring process optimization",
+    "Simulations",
+    "Strategy execution",
+    "Organizational development",
+    "Performance improvement",
+    "Business results"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "Business Leaders",
+    "HR Leaders",
+    "Sales Teams",
+    "Marketing Teams",
+    "Product Teams",
+    "Service Teams"
+  ],
+  "scalability_features": [
+    "Equips and enables leaders to drive transformational change at scale",
+    "Designed to deliver incredible results across an organization"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,167 @@
+{
+  "id": 413,
+  "name": "AntWalk Capability Academies",
+  "description": "AntWalk empowers professionals and organizations to continuously transform, tackle tomorrow's challenges and unlock their full potential through efficient enterprise learning. Our tailored learning solutions are designed to foster a culture of continuous development aligned with specific business objectives, and driven by insights from global industry experts. With our expertise and resources, we enable employees to acquire new skills and knowledge, stay ahead of the competition, and drive growth and innovation within their organizations.",
+  "features": [
+    "Scientifically validated and industry-specific competencies for accurate and relevant measurement",
+    "Leverage 3000+ specific competencies tailored to 350+ roles for all levels",
+    "Leverage 3000+ specific competencies tailored to 350+ roles that are ready to deploy"
+  ],
+  "founders": [
+    "Joy Ganguly",
+    "Sriramkumar S"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Software and Services Related to HR Software",
+    "Machine learning HR"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Hiring analytics"
+  ],
+  "headquarter": "Bangalore, Karnataka",
+  "launch_date": "2019",
+  "order": 21155,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Precise Capabilities to deliver Business Outcomes",
+  "ProductId": null,
+  "ShortDescription": "Making Human Capabilties your competitive advantage in the age of AI",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Rich Experience\u200b",
+      "sequence": 0,
+      "description": "To design and deliver competencies today,  helping you succeed tomorrow.\u200b\u200b"
+    },
+    {
+      "name": "Powerful Platform\u200b",
+      "sequence": 1,
+      "description": "A robust and scalable capability platform backed by science that generates the desired business impact.\u200b"
+    },
+    {
+      "name": "Customer Service\u200b",
+      "sequence": 2,
+      "description": "Advisory services to tailor according to your business needs.\u200b"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:26:37.481Z",
+  "enhanced_description": "AntWalk Capability Academies provide tailored enterprise learning solutions and a robust, AI/ML-backed platform designed to foster continuous development and drive business outcomes. By leveraging over 3000 scientifically validated, industry-specific competencies tailored to more than 350 roles, organizations can empower professionals and employees to acquire new skills and knowledge. This capability platform not only supports continuous upskilling and development aligned with specific business objectives, but also optimizes talent acquisition by enabling faster, more efficient hiring, boosting hiring manager confidence, and reducing the cost of acquiring qualified employees. The solutions are backed by insights from global industry experts and come with advisory services for custom tailoring.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Continuous employee development and upskilling",
+    "Skill and knowledge acquisition for professionals and employees",
+    "Fostering a culture of continuous development",
+    "Optimizing talent acquisition and hiring processes",
+    "Measuring and validating industry-specific competencies",
+    "Developing human capabilities to achieve business outcomes"
+  ],
+  "competitive_advantages": [
+    "Scientifically validated and industry-specific competencies",
+    "Extensive library of 3000+ competencies tailored to 350+ roles",
+    "Tailored learning solutions and advisory services",
+    "Insights driven by global industry experts",
+    "Robust and scalable capability platform backed by science",
+    "AI and Machine Learning driven capabilities"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Talent Acquisition",
+    "Skills Management",
+    "Competency Management"
+  ],
+  "technology_stack": [
+    "Artificial intelligence",
+    "Machine learning"
+  ],
+  "roi_benefits": [
+    "Unlock full potential for professionals and organizations",
+    "Enable employees to acquire new skills and knowledge",
+    "Help organizations stay ahead of the competition",
+    "Drive growth and innovation within organizations",
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Reduce the Cost of Hiring Qualified Employees",
+    "Generate desired business impact"
+  ],
+  "searchable_keywords": [
+    "AntWalk Capability Academies",
+    "enterprise learning",
+    "tailored learning solutions",
+    "continuous development",
+    "skill acquisition",
+    "knowledge acquisition",
+    "scientifically validated competencies",
+    "industry-specific competencies",
+    "competency measurement",
+    "3000+ competencies",
+    "350+ roles",
+    "ready to deploy competencies",
+    "precise capabilities",
+    "human capabilities",
+    "AI",
+    "talent acquisition",
+    "hiring best practices",
+    "hiring process optimization",
+    "talent acquisition costs",
+    "hiring automation",
+    "data-driven hiring",
+    "hiring analytics",
+    "Artificial intelligence",
+    "Machine learning HR",
+    "capability platform",
+    "upskilling",
+    "reskilling",
+    "employee potential"
+  ],
+  "primary_users": [
+    "Professionals",
+    "Organizations",
+    "Employees",
+    "Hiring Managers",
+    "HR Professionals"
+  ],
+  "scalability_features": [
+    "Scalable platform"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,190 @@
+{
+  "id": 1260,
+  "name": "Edubridge",
+  "description": "EduBridge is India's leading Workforce Development Platform that forges fruitful collaborations with corporates and leading organizations serving as enablers to build high performing teams by providing bespoke training and recruitment solutions to create a talent pool that can bridge the gap between the workforce and skilled professionals.",
+  "features": [
+    "programs provide training and create a unique space to make skill development aspirational for youth from underserved pockets of the nation. We foster a culture of innovation, exploration and learning for youth and help corporates contribute to the skilling ecosystem, eventually linking them to employment or entrepreneurial careers.",
+    "Hire-Train-Deploy (HTD) is a strategic approach to placing deserving candidates tailored in skills specific to specific job profiles. HTD is the process of sourcing the right fit with accuracy to improve hiring efficiency; training them with pay incentives for competency in the company and deploying them where their skills will be best applied and appreciated.",
+    "EduBridge can help with such requirement by managing scaling up and down of the business smoothly, focusing on Core business and can take up outsourced HR functions on EduBridge payroll. We have developed a strong, value-added, third-party payroll based, Staffing model that is focused on effective sourcing, training, deployment, payroll management and performance management and this workforce would be on EduBridge\u2019s payroll."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Total Rewards",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Course authoring",
+    "Training management system",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning efficiency",
+    "Personalised learning"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2009",
+  "order": 21088,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "EduBridge is India's leading Workforce Development Platform that helps learners in building careers with leading corporates through training & other career-building services.",
+  "ProductId": null,
+  "ShortDescription": "EduBridge is India's leading Workforce Development Platform that helps learners in building careers with top corporates.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [
+    "SAP",
+    "Godrej",
+    "Capgemini",
+    "Induslnd Bank",
+    "J.P. Morgan",
+    "L&T financial Services",
+    "ONGC",
+    "Tech Mahindra Foundation"
+  ],
+  "Highlights": [
+    {
+      "name": "Building Careers Of Tomorrow",
+      "sequence": 0,
+      "description": "Get Expert Career Guidance "
+    },
+    {
+      "name": "Building Tomorrow's Workforce",
+      "sequence": 1,
+      "description": "EduBridge is India's leading Workforce Development Platform that helps learners in building careers with leading corporates through training & other career building services"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": true,
+  "PublishedAt": "2024-03-05T11:13:27.073Z",
+  "enhanced_description": "EduBridge is India's leading Workforce Development Platform that partners with corporates and leading organizations to build high-performing teams. It provides bespoke training and recruitment solutions, including a strategic Hire-Train-Deploy (HTD) model, to create a talent pool of skilled professionals. EduBridge also offers comprehensive third-party payroll based staffing services, managing outsourced HR functions such as effective sourcing, training, deployment, payroll management, and performance management for the workforce placed on EduBridge's payroll. This service enables businesses to manage scaling up and down smoothly, allowing them to focus on their core operations. The platform aims to accelerate skill development and learning efficiency, making skill development aspirational for youth from underserved pockets of the nation and fostering a culture of innovation and learning, ultimately linking them to employment or entrepreneurial careers.",
+  "target_industries": [
+    "Financial Services",
+    "IT Services",
+    "Manufacturing",
+    "Energy/Oil & Gas",
+    "General Corporate/Enterprise sectors"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Workforce development",
+    "Bespoke training solution delivery",
+    "Recruitment solutions",
+    "Skill development for youth (including from underserved communities)",
+    "Linking trained talent to employment or entrepreneurial careers",
+    "Strategic Hire-Train-Deploy (HTD) programs",
+    "Outsourced HR functions (e.g., staffing, payroll management)",
+    "Third-party payroll based staffing",
+    "Managing business workforce scalability (scaling up and down)",
+    "Career building services for learners"
+  ],
+  "competitive_advantages": [
+    "India's leading Workforce Development Platform",
+    "Offers bespoke training and recruitment solutions",
+    "Employs a strategic Hire-Train-Deploy (HTD) approach for tailored placements",
+    "Provides a strong, value-added, third-party payroll based Staffing model",
+    "Enables smooth management of business scaling (up and down)",
+    "Helps corporates focus on core business by outsourcing HR functions",
+    "Focuses on making skill development aspirational for youth from underserved communities"
+  ],
+  "implementation_scenarios": [
+    "Service-based model for outsourced HR functions and staffing where EduBridge manages the workforce on its payroll."
+  ],
+  "hr_functions_supported": [
+    "Workforce Development",
+    "Learning and Development",
+    "Training Management",
+    "Recruitment (Sourcing, Hiring Efficiency)",
+    "Staffing",
+    "Payroll Management",
+    "Performance Management (as part of staffing model)",
+    "Total Rewards"
+  ],
+  "technology_stack": [
+    "Corporate LMS capabilities",
+    "Course authoring tools",
+    "Training management system features"
+  ],
+  "integration_capabilities": [
+    "Integration with various corporate/HCM systems as evidenced by partnerships with SAP, Godrej, Capgemini, Induslnd Bank, J.P. Morgan, L&T financial Services, ONGC, and Tech Mahindra Foundation."
+  ],
+  "roi_benefits": [
+    "Build high-performing teams",
+    "Bridge the gap between the workforce and skilled professionals",
+    "Improve hiring efficiency through tailored programs",
+    "Smoothly manage business scaling (up and down)",
+    "Enable clients to focus on their core business by taking up outsourced HR functions",
+    "Accelerate skill development",
+    "Increase learning efficiency",
+    "Enhance training effectiveness"
+  ],
+  "searchable_keywords": [
+    "Edubridge",
+    "Workforce Development Platform",
+    "training solutions",
+    "recruitment solutions",
+    "skill development",
+    "talent pool",
+    "skilled professionals",
+    "employment services",
+    "entrepreneurial careers",
+    "Hire-Train-Deploy",
+    "HTD",
+    "sourcing",
+    "hiring efficiency",
+    "outsourced HR",
+    "third-party payroll",
+    "staffing model",
+    "payroll management",
+    "performance management",
+    "corporate LMS",
+    "course authoring",
+    "training management system",
+    "training & development companies",
+    "skill acquisition",
+    "learning efficiency",
+    "personalised learning",
+    "career guidance",
+    "career building services",
+    "workforce scaling"
+  ],
+  "primary_users": [
+    "Corporates",
+    "Leading organizations",
+    "Youth (from underserved pockets)",
+    "Learners",
+    "Candidates (for employment/training)"
+  ],
+  "scalability_features": [
+    "Ability to manage scaling up and down of the business smoothly"
+  ],
+  "_weight": 1
+}

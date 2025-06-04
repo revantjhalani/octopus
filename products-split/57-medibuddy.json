@@ -1,0 +1,138 @@
+{
+  "id": 57,
+  "name": "MediBuddy",
+  "description": "Get access to all your Health insurance services - View Policy, Initiate and Track Claims, Go Cashless with network hospitals and intimate Hospitalization\r",
+  "features": [
+    "Unlimited Free Consultations",
+    "Free For Full Family",
+    "Free For All Health Problems"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration services",
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Employee hapiness",
+    "Employee well being",
+    "Employee happiness metrics"
+  ],
+  "headquarter": "Bangalore, Karnataka",
+  "launch_date": "2013",
+  "order": 20034,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Unlimited Consultations with top Doctors for 6 family members in 18+ specialities\r",
+  "ProductId": null,
+  "ShortDescription": "We are MediBuddy. An end-to-end Digital Healthcare Platform.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Customer Obsession",
+      "sequence": 0,
+      "description": "We work tirelessly to earn and keep customer trust. We work backwards from customer needs and go above & beyond to enable great experience. "
+    },
+    {
+      "name": "End to End Ownership",
+      "sequence": 1,
+      "description": "We think like owners and act on behalf of the entire company, beyond just our own team. We don't give excuses or say \u201cthat\u2019s not my job.\u201c"
+    },
+    {
+      "name": "Hire and Develop the Best",
+      "sequence": 2,
+      "description": "We raise the bar with every hire, performance assessment and promotion to build high performing teams. We invest in coaching & building our talent"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-16T14:10:07.140Z",
+  "enhanced_description": "MediBuddy is an end-to-end digital healthcare platform designed to provide comprehensive health insurance services and medical consultations. Users can easily view their health insurance policies, initiate and track claims, and utilize cashless services at network hospitals, including intimating hospitalizations. The platform notably offers unlimited free consultations with top doctors across 18+ specialties, extended to up to 6 family members, covering all health problems.",
+  "target_industries": [],
+  "ideal_company_sizes": [
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Health insurance policy viewing",
+    "Health insurance claims initiation and tracking",
+    "Cashless hospitalization at network hospitals",
+    "Intimation of hospitalization",
+    "Unlimited online medical consultations for employees and their families",
+    "Corporate benefits administration",
+    "Employee wellness programs",
+    "Employee health and safety management"
+  ],
+  "competitive_advantages": [
+    "Unlimited free consultations for employees and their families (up to 6 members)",
+    "Consultations cover all health problems across 18+ specialties",
+    "End-to-end digital healthcare platform offering comprehensive services"
+  ],
+  "implementation_scenarios": [],
+  "hr_functions_supported": [
+    "Total Rewards",
+    "Benefits Administration",
+    "Corporate Wellness",
+    "Health & Safety",
+    "Employee Engagement",
+    "Employee Well-being"
+  ],
+  "technology_stack": [],
+  "integration_capabilities": [],
+  "roi_benefits": [
+    "Improved Employee Happiness and Engagement",
+    "Enhanced Employee Well-being"
+  ],
+  "searchable_keywords": [
+    "MediBuddy",
+    "Health insurance services",
+    "Employee benefits",
+    "Corporate wellness",
+    "Digital healthcare platform",
+    "Online consultations",
+    "Doctor consultations",
+    "Family healthcare",
+    "Health & safety providers",
+    "Benefits administration services",
+    "Claims management",
+    "Cashless hospitals",
+    "Hospitalization intimation",
+    "Employee happiness",
+    "Employee well being"
+  ],
+  "primary_users": [
+    "Employees",
+    "Employee family members",
+    "HR Professionals"
+  ],
+  "deployment_options": [],
+  "compliance_features": [],
+  "scalability_features": [],
+  "security_features": [],
+  "_weight": 1
+}

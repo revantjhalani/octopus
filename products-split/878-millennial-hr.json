@@ -1,0 +1,179 @@
+{
+  "id": 878,
+  "name": "Millennial HR",
+  "description": "Millennial HR is a consultancy service that is structured to offer Human Resources (HR) and Organisational Development (OD) solutions to diverse clients. We assist organisations to design and employ HR strategies that appeal to different generations at the workplace to motivate high-performing teams. Working closely with our clients, we seek to create solutions that are not only affordable to employers but are meaningful to employees and ultimately create an enabling work environment for employees to do their best work. We take pride in creating gigs, linking employers with high-calibre candidates, and supporting diverse employees with skills and competencies necessary to maximise their potential. Our ultimate goal is to empower employees to take charge of their careers and grow, succeed and thrive.",
+  "features": [
+    "Performance & Productivity",
+    "Human Resource Consultancy",
+    "Leadership Development"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Workforce management",
+    "HR management suites",
+    "Recruitment agencies",
+    "HR consulting providers",
+    "Recruiting automation software",
+    "Software and Services Related to HR Software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "Nairobi, Kenya",
+  "launch_date": "2018",
+  "order": 20831,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Partnering with progressive employers to improve the employee work experience.",
+  "ProductId": null,
+  "ShortDescription": "Millennial HR is a consultancy service that is structured to offer Human Resources (HR) and Organisational Development (OD) solutions to diverse clients.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Services Offered",
+      "sequence": 0,
+      "description": "The firm offers services to help improve the employee work experience. They focus on leadership development, performance and productivity, and human resource consulting."
+    },
+    {
+      "name": "Human Resource Consulting",
+      "sequence": 1,
+      "description": "Partnering with progressive employers to improve the employee work experience."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:36:13.133Z",
+  "enhanced_description": "Millennial HR is a dedicated Human Resources (HR) and Organisational Development (OD) consultancy service, partnering with progressive employers to enhance the employee work experience. The firm specializes in designing and implementing HR strategies tailored to appeal to diverse generations within the workplace, fostering high-performing teams. Millennial HR focuses on creating affordable solutions for employers that are simultaneously meaningful for employees, aiming to cultivate an enabling work environment. Key services include creating gig opportunities, linking employers with high-calibre candidates, supporting diverse employees with essential skills and competencies, and empowering employees to drive their career growth and success.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "HR strategy development and implementation",
+    "Organisational Development (OD) initiatives",
+    "Talent acquisition and recruitment support (including gig creation and candidate linkage)",
+    "Leadership development programs",
+    "Performance and productivity improvement",
+    "Workforce planning and management",
+    "Enhancing employee experience and engagement",
+    "Optimizing hiring processes and reducing recruitment costs",
+    "Supporting diverse employee skill and competency development"
+  ],
+  "competitive_advantages": [
+    "Expertise in multi-generational HR strategy design",
+    "Balanced focus on employer affordability and employee meaningfulness",
+    "Commitment to creating an enabling work environment",
+    "Specialization in linking employers with high-calibre candidates and gig creation",
+    "Focus on empowering employee career growth and skill development",
+    "Comprehensive HR and OD solution offering",
+    "Partnering with progressive employers for improved employee work experience"
+  ],
+  "hr_functions_supported": [
+    "Human Resources (HR) Consulting",
+    "Organisational Development (OD)",
+    "Performance Management",
+    "Productivity Management",
+    "Leadership Development",
+    "Talent Management",
+    "Recruiting",
+    "Workforce Management",
+    "Employee Experience",
+    "Employee Development"
+  ],
+  "roi_benefits": [
+    "Boosted Hiring Manager Confidence and Productivity",
+    "Faster and More Efficient Hiring of Top Talent",
+    "Reduced Cost of Hiring Qualified Employees",
+    "Motivation of High-Performing Teams",
+    "Creation of Affordable Solutions for Employers",
+    "Development of Meaningful Solutions for Employees",
+    "Establishment of an Enabling Work Environment",
+    "Employee Empowerment for Career Growth, Success, and Thriving",
+    "Improved Overall Employee Work Experience"
+  ],
+  "searchable_keywords": [
+    "Millennial HR",
+    "HR consulting",
+    "Organisational Development",
+    "OD solutions",
+    "HR strategies",
+    "generational HR",
+    "high-performing teams",
+    "employee motivation",
+    "affordable HR solutions",
+    "employee meaningfulness",
+    "enabling work environment",
+    "gigs",
+    "high-calibre candidates",
+    "diverse employees",
+    "skills development",
+    "competencies",
+    "career growth",
+    "employee empowerment",
+    "talent management",
+    "recruiting",
+    "performance management",
+    "productivity",
+    "leadership development",
+    "workforce management",
+    "HR management suites",
+    "recruitment agencies",
+    "HR consulting providers",
+    "recruiting automation",
+    "HR software services",
+    "talent acquisition",
+    "hiring best practices",
+    "hiring process optimization",
+    "talent acquisition costs",
+    "hiring automation",
+    "data-driven hiring",
+    "employee work experience",
+    "HR solutions",
+    "OD solutions"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "HR Managers",
+    "Business Leaders",
+    "Hiring Managers",
+    "Organisational Development (OD) Professionals"
+  ],
+  "_weight": 1
+}

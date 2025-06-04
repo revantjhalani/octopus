@@ -1,0 +1,140 @@
+{
+  "id": 220,
+  "name": "Plum Health Insurance",
+  "description": "Plum helps companies care better for their employees by offering insurance and health benefits that are simple, inclusive, and accessible. We eliminate the complexities associated with insurance and make it easy for employees to understand their policies, use their insurance & benefits, and initiate claims. Plum is backed by Tiger Global & Peak XV Partners (formerly Sequoia Capital).",
+  "features": [
+    "Policies from top insurers",
+    "A fully-digital platform",
+    "API-first benefits stack"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software"
+  ],
+  "tags": [
+    "Employee well being"
+  ],
+  "headquarter": "Bengaluru , Headquarters",
+  "launch_date": "2019",
+  "order": 20186,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Insurance and health benefits for companies that care",
+  "ProductId": null,
+  "ShortDescription": "Comprehensive suite of health benefits and insurance products to protect your team and your business",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Accessible benefits",
+      "sequence": 0,
+      "description": "Use one app for everything from insurance to telehealth and wellness benefits."
+    },
+    {
+      "name": "Effortless claims process",
+      "sequence": 1,
+      "description": "Get a truly digital experience \u2013 from Health IDs to claim initiation and processing."
+    },
+    {
+      "name": "Uninterrupted support",
+      "sequence": 2,
+      "description": "Access in-app and multilingual experts for emergency and informative care."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:40.081Z",
+  "enhanced_description": "Plum Health Insurance offers a comprehensive suite of health benefits and insurance products designed to help companies care better for their employees by providing simple, inclusive, and accessible solutions. The platform eliminates complexities, making it easy for employees to understand policies, utilize benefits, and initiate claims. It features a fully-digital platform providing accessible benefits through a single app for insurance, telehealth, and wellness. The service also ensures an effortless claims process with a digital experience from Health IDs to claim initiation and processing, complemented by uninterrupted support from in-app and multilingual experts. Plum is backed by Tiger Global & Peak XV Partners (formerly Sequoia Capital).",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Providing group health insurance and health benefits to employees",
+    "Simplifying employee understanding and utilization of health policies and benefits",
+    "Facilitating digital initiation and processing of health insurance claims",
+    "Offering access to telehealth services",
+    "Providing corporate wellness programs and benefits",
+    "Delivering in-app and multilingual support for insurance and health-related inquiries"
+  ],
+  "competitive_advantages": [
+    "Simple, inclusive, and accessible health insurance and benefits",
+    "Eliminates complexities associated with traditional insurance",
+    "Easy for employees to understand policies, use benefits, and initiate claims",
+    "Fully-digital platform for comprehensive benefits management",
+    "API-first benefits stack for flexible integration",
+    "Access to policies from top insurers",
+    "Consolidated access to insurance, telehealth, and wellness benefits via one app",
+    "Effortless digital claims process, including Health IDs",
+    "Uninterrupted in-app and multilingual expert support",
+    "Backed by prominent investors (Tiger Global & Peak XV Partners)"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards",
+    "Employee Benefits Administration",
+    "Employee Wellness",
+    "Employee Engagement",
+    "Claims Management"
+  ],
+  "integration_capabilities": [
+    "API integration (API-first benefits stack)"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness and Engagement",
+    "Simplified administration of health benefits",
+    "Increased employee utilization and understanding of health policies",
+    "Streamlined and faster claims processing",
+    "Enhanced accessibility of health and wellness benefits"
+  ],
+  "searchable_keywords": [
+    "Plum",
+    "Health Insurance",
+    "Corporate Wellness",
+    "Employee Benefits",
+    "Employee Wellness",
+    "Total Rewards",
+    "HR Tech",
+    "Digital Platform",
+    "API-first",
+    "Claims Management",
+    "Telehealth",
+    "Employee Engagement",
+    "Group Health Insurance",
+    "Benefits Administration",
+    "Employee Well being"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Employees",
+    "Companies"
+  ],
+  "deployment_options": [
+    "Cloud-based/SaaS",
+    "Mobile Application"
+  ],
+  "_weight": 1
+}

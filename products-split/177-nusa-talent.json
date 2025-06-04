@@ -1,0 +1,151 @@
+{
+  "id": 177,
+  "name": "Nusa Talent",
+  "description": "Nusa Talent With experienced teachers and commitment to excellence, Nusa has become the first choice in providing a variety of development events professional. Starting from in-depth seminars, interactive workshops, to training, we dedicated to providing quality experiences to enrich knowledge and skills You.",
+  "features": [
+    "1,100,000+ TALENTS IN 34 PROVINCES",
+    "200+ UNIVERSITY PARTNERS",
+    "1,000+ CLIENTS"
+  ],
+  "founders": [
+    "Steven Gouw",
+    "Billy Bachtiar G"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Recruiting software",
+    "Core HR Software"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring process optimization",
+    "Talent acquisition"
+  ],
+  "headquarter": "Jakarta, DKI Jakarta",
+  "launch_date": "2018",
+  "order": 20144,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Career. Candidate. Connected.",
+  "ProductId": null,
+  "ShortDescription": "Nusa Talent provides end-to-end staffing and crowd talent services to help clients recruit.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Find your strengths and interests",
+      "sequence": 0,
+      "description": "Take NusaTalent Aptitude Test to find a careers that suits your strengths and interests."
+    },
+    {
+      "name": "Upgrade your skill and knowledge",
+      "sequence": 1,
+      "description": "Join NusaTalks on topics that match your interests. It is useful to upgrade your skills as a preparation for your career."
+    },
+    {
+      "name": "Find your dream job and start your career!",
+      "sequence": 2,
+      "description": "Download NusaTalent on Google Play Store or App Store and immediately send an application with one click!"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:58.789Z",
+  "enhanced_description": "Nusa Talent provides end-to-end staffing and crowd talent services to help clients recruit, leveraging a vast network of over 1.1 million talents across 34 provinces and partnerships with 200+ universities. Beyond traditional recruitment, it offers talent development resources, including aptitude tests to identify strengths and interests, and interactive workshops (NusaTalks) to upgrade skills for career preparation. The platform aims to connect talent with dream job opportunities and optimize the hiring process to boost hiring manager confidence and productivity.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "End-to-end staffing services",
+    "Crowd talent services",
+    "Talent acquisition",
+    "Hiring process optimization",
+    "Candidate assessment and aptitude testing",
+    "Skill development and career preparation through workshops (NusaTalks)",
+    "Job application and placement for candidates",
+    "Boosting hiring manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "Extensive talent pool with over 1,100,000+ talents in 34 provinces",
+    "Strong academic network with 200+ university partners",
+    "Large client base with over 1,000+ clients",
+    "Provides integrated talent assessment (Aptitude Test) and skill development (NusaTalks) for candidates",
+    "Offers end-to-end staffing and crowd talent services"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Staffing",
+    "Talent Acquisition",
+    "Talent Assessment",
+    "Learning & Development"
+  ],
+  "roi_benefits": [
+    "Boosts Hiring Manager Confidence and Productivity",
+    "Optimizes the hiring process",
+    "Provides access to a large, diverse talent pool",
+    "Enhances candidate quality through skill development and assessment"
+  ],
+  "searchable_keywords": [
+    "Nusa Talent",
+    "Recruiting",
+    "HRMS",
+    "HCM",
+    "Staffing",
+    "Management software",
+    "Recruiting software",
+    "Core HR Software",
+    "Hiring process optimization",
+    "Talent acquisition",
+    "Career",
+    "Candidate",
+    "Talent",
+    "Crowd talent services",
+    "Aptitude Test",
+    "Skill upgrade",
+    "NusaTalks",
+    "Job search",
+    "Talent development"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "Recruiters",
+    "Employers",
+    "Clients",
+    "Candidates",
+    "Talent"
+  ],
+  "scalability_features": [
+    "Supports over 1,100,000+ talents, indicating a large capacity for talent management",
+    "Designed to serve Small, Large, and Global Enterprises"
+  ],
+  "_weight": 1
+}

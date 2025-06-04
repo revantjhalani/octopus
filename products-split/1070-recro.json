@@ -1,0 +1,132 @@
+{
+  "id": 1070,
+  "name": "Recro",
+  "description": "Recro is a developer-focused platform that was founded with the aim of seamlessly matching individual expertise with the right opportunities. Empowering people to realise their true potential. The work culture is evolving, but we still spend a good amount of time with our jobs. The question really is that if you are in the right place that helps you grow as a professional. We exist to empower people to realise their true potential and find the right opportunity and team that will inspire you.",
+  "features": [
+    " Keep Challenging Yourself  ",
+    " Work With the Best",
+    "Employee Wellbeing Comes First"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Talent acquisition"
+  ],
+  "headquarter": "Bangalore, Karnataka",
+  "launch_date": "2014",
+  "order": 21013,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Powering tech teams to Build from Bharat's exceptional tech talent",
+  "ProductId": null,
+  "ShortDescription": "Recro is a developer-focused platform that was founded with the aim of seamlessly matching individual expertise with the right opportunities.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Connecting Engineers with High-Growth Startups",
+      "sequence": 0,
+      "description": "Recro helps engineers find job opportunities with high-growth startups. This can be appealing to engineers who are interested in working in a fast-paced environment and being part of a company with significant growth potential."
+    },
+    {
+      "name": "Stability and Job Security",
+      "sequence": 1,
+      "description": "Despite the focus on startups, Recro also highlights stability and job security. This might suggest that they prioritize placing engineers in well-funded startups with strong growth prospects, offering a balance between innovation and stability."
+    },
+    {
+      "name": "Upskilling Opportunities",
+      "sequence": 2,
+      "description": "Recro mentions helping engineers upskill themselves. This could indicate that they provide resources or opportunities for professional development, allowing engineers to stay current with the latest technologies and advance their careers."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:39:59.119Z",
+  "enhanced_description": "Recro is a developer-focused platform and HR consulting provider that specializes in seamlessly matching individual tech expertise with suitable opportunities. Founded in 2014 and headquartered in Bangalore, Karnataka, Recro aims to empower engineers to realize their true potential by connecting them with high-growth startups and inspiring teams. The platform emphasizes professional growth, offering opportunities for upskilling and a focus on stability and job security for candidates. For employers, Recro's primary objective is to boost hiring manager confidence and productivity by providing access to exceptional tech talent, supporting recruitment and talent acquisition efforts for large and global enterprise tech teams.",
+  "target_industries": [
+    "Technology",
+    "Startups"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Recruiting tech talent",
+    "Matching engineers with job opportunities",
+    "Connecting high-growth startups with tech talent",
+    "Candidate career development (upskilling)",
+    "Boosting hiring manager productivity"
+  ],
+  "competitive_advantages": [
+    "Developer-focused specialization",
+    "Emphasis on candidate wellbeing and professional growth (upskilling, stability, job security)",
+    "Specialization in connecting engineers with high-growth startups",
+    "Focus on Indian ('Bharat') tech talent"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Hiring"
+  ],
+  "roi_benefits": [
+    "Improved hiring manager confidence and productivity",
+    "Access to specialized tech talent (engineers)",
+    "Opportunity for engineers to upskill and grow professionally",
+    "Enhanced job security and stability for placed engineers"
+  ],
+  "searchable_keywords": [
+    "Recro",
+    "developer platform",
+    "tech talent",
+    "recruiting",
+    "hiring",
+    "talent acquisition",
+    "engineers",
+    "startups",
+    "job opportunities",
+    "upskilling",
+    "HR consulting",
+    "tech teams",
+    "professional development",
+    "talent matching",
+    "Bharat",
+    "India"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "Developers",
+    "Engineers",
+    "Recruiters"
+  ],
+  "_weight": 1
+}

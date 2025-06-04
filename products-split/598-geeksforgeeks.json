@@ -1,0 +1,108 @@
+{
+  "id": 598,
+  "name": "GeeksforGeeks",
+  "description": "Geeks for geeks exceptional mentors hailing from top colleges & organizations have the ability to guide you on a journey from the humble beginnings of coding to the pinnacle of expertise. Under their guidance watch your skills flourish as we lay the foundation and help you conquer the world of coding.",
+  "features": [
+    "Provide coaching for all aspects of computer science",
+    "Conduct and provide preparation for competitive exams",
+    "Management and finance coaching"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Training & development companies",
+    "Course authoring"
+  ],
+  "tags": [
+    "Skill development",
+    "Skill acquisition",
+    "Learning efficiency"
+  ],
+  "headquarter": "NOIDA, Uttar Pradesh",
+  "launch_date": "2009",
+  "order": 20556,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "I don't give a bug",
+  "ProductId": null,
+  "ShortDescription": "GeeksforGeeks is a leading platform that provides computer science resources and coding challenges for programmers and technology enthusiasts, along with interview and exam preparations for upcoming aspirants.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:30:45.038Z",
+  "enhanced_description": "GeeksforGeeks is a leading learning and development platform that provides comprehensive computer science resources, coding challenges, and coaching. It offers guidance from exceptional mentors to help users develop skills from foundational coding to advanced expertise. The platform provides preparation for competitive exams and interviews, and also extends coaching to management and finance disciplines. Its core objective is to accelerate skill development and learning efficiency for programmers, technology enthusiasts, and upcoming aspirants.",
+  "key_use_cases": [
+    "Skill development and enhancement in computer science, coding, management, and finance.",
+    "Preparation for competitive exams and job interviews.",
+    "Accessing comprehensive learning resources and coding challenges."
+  ],
+  "competitive_advantages": [
+    "Access to experienced mentors from top colleges and organizations.",
+    "Comprehensive coverage from foundational to advanced concepts in computer science.",
+    "Integrated platform for resources, coding challenges, and exam/interview preparation.",
+    "Focus on accelerating skill development and learning efficiency."
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Training",
+    "Skill Management"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Improved learning efficiency"
+  ],
+  "searchable_keywords": [
+    "GeeksforGeeks",
+    "coding",
+    "computer science",
+    "programming",
+    "skill development",
+    "learning",
+    "training",
+    "e-learning",
+    "competitive exams",
+    "interview preparation",
+    "management coaching",
+    "finance coaching",
+    "skill acquisition",
+    "learning efficiency",
+    "online courses",
+    "educational platform",
+    "resources",
+    "challenges",
+    "mentors"
+  ],
+  "primary_users": [
+    "Programmers",
+    "Technology enthusiasts",
+    "Students/Aspirants preparing for competitive exams or interviews",
+    "Individuals seeking skill development in computer science, coding, management, or finance"
+  ],
+  "_weight": 1
+}

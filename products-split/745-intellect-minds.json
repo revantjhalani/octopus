@@ -1,0 +1,154 @@
+{
+  "id": 745,
+  "name": "Intellect Minds",
+  "description": "Intellect Minds is a leading technology consulting and recruitment agency that offers a unique blend of services to meet the diverse needs of businesses in the IT industry. With our dual expertise, we provide comprehensive solutions to help organisations succeed in the ever-evolving world of technology. We are a trusted partner for organizations seeking exceptional talent and individuals pursuing rewarding career opportunities. We specialize in connecting brilliant minds with the best-fit roles across various industries, ensuring mutually beneficial partnerships that drive success. We pride ourselves on our ability to identify and attract top-tier talent, helping organizations thrive in a competitive market. With our comprehensive understanding of diverse industries and dedication to excellence, we consistently deliver exceptional results for our valued clients.",
+  "features": [
+    "Hyper Automation",
+    "Technology Consulting",
+    "Staff Augmentation"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing services providers",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs"
+  ],
+  "headquarter": "Singapore, Singapore ",
+  "launch_date": "2008",
+  "order": 20698,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Technology Consulting. Automation. Professional Services. Technology Recruitment.",
+  "ProductId": null,
+  "ShortDescription": "Intellect Minds is a leading technology consulting and recruitment agency that offers a unique blend of services to meet the diverse needs of businesses in the IT industry.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Leading Technology Service Provider",
+      "sequence": 0,
+      "description": " The article positions Intellect Minds as a leading technology service provider with headquarters in Singapore. This indicates a strong reputation and established presence in the technology services industry."
+    },
+    {
+      "name": "Range of Services Offered",
+      "sequence": 1,
+      "description": "The company offers a variety of services including Cybersecurity, Automation, and Cloud Strategy & Delivery. This comprehensive approach allows them to cater to a wide range of client needs."
+    },
+    {
+      "name": "Global Presence",
+      "sequence": 2,
+      "description": "While headquartered in Singapore, Intellect Minds also has offices in Malaysia and Australia. This demonstrates their global reach and ability to serve clients in multiple locations."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:39.267Z",
+  "enhanced_description": "Intellect Minds, established in 2008 and headquartered in Singapore with a global presence including offices in Malaysia and Australia, is a leading technology consulting and recruitment agency. The company offers a unique blend of services designed to meet the diverse needs of large and global enterprises in the IT industry. Their comprehensive solutions encompass Hyper Automation, Technology Consulting, Staff Augmentation, Cybersecurity, and Cloud Strategy & Delivery. Intellect Minds specializes in connecting top-tier talent with best-fit roles, aiming to boost hiring manager confidence and productivity, while helping organizations hire top talent faster and more efficiently in a competitive market.",
+  "target_industries": [
+    "IT Industry"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Technology strategy and advisory",
+    "IT talent acquisition and placement",
+    "Augmenting IT staff and teams",
+    "Implementing automation solutions",
+    "Developing and deploying cloud solutions",
+    "Enhancing cybersecurity capabilities",
+    "Improving hiring efficiency for IT roles",
+    "Optimizing hiring manager workflow and confidence"
+  ],
+  "competitive_advantages": [
+    "Unique blend of technology consulting and recruitment services",
+    "Dual expertise in IT consulting and talent acquisition",
+    "Proven ability to identify and attract top-tier IT talent",
+    "Comprehensive understanding of diverse industries within IT",
+    "Established global presence with offices in Singapore, Malaysia, and Australia",
+    "Positioned as a leading technology service provider"
+  ],
+  "implementation_scenarios": [
+    "Project-based consulting engagements",
+    "On-demand talent provision"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Staffing",
+    "HR Consulting (IT-focused)"
+  ],
+  "roi_benefits": [
+    "Faster and more efficient hiring of top IT talent",
+    "Increased hiring manager confidence and productivity",
+    "Improved organizational success through strategic technology adoption and talent",
+    "Access to top-tier IT talent",
+    "Enhanced competitive advantage in the IT market"
+  ],
+  "searchable_keywords": [
+    "Intellect Minds",
+    "technology consulting",
+    "recruitment agency",
+    "IT recruitment",
+    "staff augmentation",
+    "hyper automation",
+    "cybersecurity",
+    "cloud strategy",
+    "talent sourcing",
+    "hiring",
+    "HR consulting",
+    "IT staffing",
+    "professional services",
+    "Singapore",
+    "Malaysia",
+    "Australia",
+    "IT talent",
+    "enterprise recruitment",
+    "global recruitment",
+    "automation",
+    "consulting",
+    "talent acquisition"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Professionals (Talent Acquisition, Strategic HR)",
+    "IT Leaders",
+    "Business Leaders/Executives"
+  ],
+  "scalability_features": [
+    "Scalable talent acquisition through staff augmentation services",
+    "Global service delivery capabilities across Singapore, Malaysia, and Australia"
+  ],
+  "_weight": 1
+}

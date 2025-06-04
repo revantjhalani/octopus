@@ -1,0 +1,160 @@
+{
+  "id": 1355,
+  "name": "ACCA",
+  "description": "ACCA (the Association of Chartered Certified Accountants) is the global body for professional accountants with over 200,000 fully-qualified members and 500,000 students worldwide - and they're among the world's best-qualified and most highly sought-after accountants. \n\nOur mission is to be a global leader in the profession by: \n\n- Providing opportunity and open access to people of ability wherever they are in the world\n- Supporting and promoting the highest ethical, governance and professional standards\n- Advancing the public interest\n",
+  "features": [
+    "Financial reporting",
+    "Taxation",
+    "Auditing",
+    "Research Funding"
+  ],
+  "founders": [],
+  "price": [
+    {
+      "name": "",
+      "type": "",
+      "price": "",
+      "description": ""
+    }
+  ],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Continuous learning",
+    "Training methodologies"
+  ],
+  "headquarter": "London, United Kingdom",
+  "launch_date": "1904",
+  "order": 999,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Think Ahead",
+  "ProductId": null,
+  "ShortDescription": "ACCA (the Association of Chartered Certified Accountants) is the global body for professional accountants with over 200,000 fully-qualified members and 500,000 students worldwide.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": [
+      {
+        "times": [
+          {
+            "description": ""
+          }
+        ],
+        "header": "",
+        "sequence": 0,
+        "videourl": "",
+        "description": ""
+      }
+    ]
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Global Body for Professional Accountants",
+      "sequence": 0,
+      "description": "ACCA is a leading international organization that promotes and upholds the highest professional and ethical standards in accounting."
+    },
+    {
+      "name": "Diverse Qualifications and Resources",
+      "sequence": 1,
+      "description": "ACCA offers a comprehensive range of qualifications and resources to support individuals at all stages of their accounting careers."
+    },
+    {
+      "name": "Large Community ",
+      "sequence": 2,
+      "description": "ACCA is marking a significant achievement with a quarter of a million members worldwide."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": true,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-12T07:09:22.410Z",
+  "enhanced_description": "ACCA (the Association of Chartered Certified Accountants) is a global professional body dedicated to developing and supporting professional accountants worldwide. With over 200,000 qualified members and 500,000 students, ACCA provides diverse qualifications and resources in key areas such as financial reporting, taxation, and auditing. Its mission is to advance the public interest by promoting open access to the profession and upholding the highest ethical, governance, and professional standards globally, accelerating skill development and learning efficiency for accounting professionals.",
+  "target_industries": [
+    "Accounting",
+    "Finance",
+    "Professional Services",
+    "Education"
+  ],
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Professional certification for accountants",
+    "Skill development in financial reporting, taxation, and auditing",
+    "Continuous learning for accounting professionals",
+    "Establishing and maintaining high ethical and professional accounting standards",
+    "Career advancement for accounting professionals"
+  ],
+  "competitive_advantages": [
+    "Global recognition as a leading professional accounting body",
+    "Large community of qualified members and students worldwide",
+    "Focus on upholding the highest ethical, governance, and professional standards",
+    "Open access and opportunity for individuals globally",
+    "Development of highly qualified and sought-after accountants"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Talent Management (Skill Development)"
+  ],
+  "roi_benefits": [
+    "Improved employee skill sets in financial reporting, taxation, and auditing",
+    "Enhanced professional credibility and employability of accounting staff",
+    "Contribution to organizational adherence to high ethical and governance standards",
+    "Accelerated skill development and learning efficiency for accounting teams"
+  ],
+  "searchable_keywords": [
+    "ACCA",
+    "Association of Chartered Certified Accountants",
+    "professional accountants",
+    "global body",
+    "financial reporting",
+    "taxation",
+    "auditing",
+    "research funding",
+    "skill development",
+    "continuous learning",
+    "training methodologies",
+    "learning and development",
+    "training",
+    "accounting qualifications",
+    "ethical standards",
+    "professional standards",
+    "accountancy education",
+    "accountant certification",
+    "accounting skills"
+  ],
+  "primary_users": [
+    "Accounting students",
+    "Aspiring accountants",
+    "Professional accountants",
+    "Organizations employing accounting professionals"
+  ],
+  "compliance_features": [
+    "Enables adherence to professional ethical and governance standards in accounting"
+  ],
+  "_weight": 1
+}

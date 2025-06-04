@@ -1,0 +1,190 @@
+{
+  "id": 48,
+  "name": "HR Mantra",
+  "description": "HRMantra streamlines HRMS activities from staffing and induction to payroll and appraisals, eliminating multiple data entries and master creations. This user-friendly, integrated software saves thousands of man-hours, supports quality certifications, and adapts to any industry. As India's first HR software offered as a service, HRMantra ensures efficiency and continuous evolution, replacing multiple applications and simplifying HR management.\n",
+  "features": [
+    "AI driven voicebot",
+    "Millions of configurable policies",
+    "Multi-lingual, multi-currency & multi-timezone"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Employee satisfaction",
+    "Employee benefits",
+    "Employee empowerment"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "1996",
+  "order": 20025,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Empower People. Unleash Possibilities.",
+  "ProductId": null,
+  "ShortDescription": "World's Most Advanced AI driven HR & Payroll Software",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Payroll Software",
+      "sequence": 0,
+      "description": "Manage global payroll and FFS processing with a single web-based application, including loan, income tax, and flexible benefit plan workflows."
+    },
+    {
+      "name": "HRMantra Mobile App",
+      "sequence": 1,
+      "description": "Employees can post and answer questions with the Get Social feature, and management can track field employees in real-time using GPS."
+    },
+    {
+      "name": "Custom Workflows",
+      "sequence": 2,
+      "description": "Create new workflows and forms beyond the 40+ pre-provided ones, ensuring complete customization to meet your business needs."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-15T12:05:35.633Z",
+  "enhanced_description": "HR Mantra is a comprehensive and integrated Human Resources Management System (HRMS) designed to streamline and simplify all HR operations, from staffing and induction to payroll and appraisals. As India's pioneering HR software offered 'as a service' and delivered through a single web-based application, it effectively eliminates redundant data entries, resulting in significant time savings and improved efficiency. The platform is equipped with an AI-driven voicebot and supports millions of configurable policies, alongside multi-lingual, multi-currency, and multi-timezone capabilities, making it a robust solution for global enterprises. Its advanced payroll module manages global payroll and Full & Final Settlement (FFS) processing, encompassing workflows for loans, income tax, and flexible benefit plans. HR Mantra also provides a dedicated mobile application for employees, featuring a 'Get Social' function for communication, and enabling management to track field employees in real-time via GPS. With over 40 pre-provided workflows and the flexibility to create custom workflows and forms, HR Mantra ensures complete customization to meet diverse business needs and industries, while also supporting quality certifications. It is designed to improve employee happiness and engagement and serves businesses of all sizes, from small to large and global enterprises.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "HR operations streamlining",
+    "Global payroll management",
+    "Full & Final Settlement (FFS) processing",
+    "Employee benefits administration",
+    "Income tax and loan workflow management",
+    "Employee communication and engagement",
+    "Field employee tracking and management",
+    "Custom workflow automation",
+    "HR data management and entry reduction",
+    "Performance appraisals",
+    "Staffing and induction"
+  ],
+  "competitive_advantages": [
+    "Pioneering SaaS HR software in India",
+    "AI-driven voicebot for advanced interaction",
+    "Extensive configurability with millions of policies",
+    "Multi-lingual, multi-currency, and multi-timezone support for global operations",
+    "Eliminates multiple data entries for enhanced efficiency",
+    "Saves significant man-hours and reduces operational costs",
+    "User-friendly and integrated software solution",
+    "Adaptability to any industry",
+    "Consolidates and replaces multiple disparate HR applications",
+    "Comprehensive mobile app with social features and real-time GPS tracking",
+    "Highly customizable workflows beyond standard offerings"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based deployment (SaaS)",
+    "Web-based application deployment"
+  ],
+  "hr_functions_supported": [
+    "Staffing",
+    "Onboarding",
+    "Payroll Management",
+    "Performance Management",
+    "Benefits Administration",
+    "Loan Management",
+    "Income Tax Management",
+    "Employee Engagement",
+    "Internal Communications",
+    "Workforce Management (Field Employee Tracking)",
+    "HR Workflow Automation",
+    "HR Data Management"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Voice Recognition Technology",
+    "Web Technologies"
+  ],
+  "roi_benefits": [
+    "Reduced manual data entry and associated errors",
+    "Significant savings in man-hours and operational costs",
+    "Improved HR operational efficiency and productivity",
+    "Cost savings from consolidating disparate HR applications into a single platform",
+    "Enhanced employee happiness and engagement, potentially leading to improved retention and productivity"
+  ],
+  "searchable_keywords": [
+    "HRMantra",
+    "HRMS",
+    "HR software",
+    "Payroll software",
+    "HR and Payroll",
+    "AI HR",
+    "AI payroll",
+    "SaaS HR",
+    "Cloud HR",
+    "Integrated HR",
+    "Employee engagement",
+    "Employee benefits",
+    "Performance appraisal",
+    "Staffing software",
+    "Onboarding software",
+    "Workforce management",
+    "GPS tracking",
+    "Mobile HR app",
+    "Custom workflows",
+    "Multi-lingual HR",
+    "Multi-currency HR",
+    "Multi-timezone HR",
+    "Global payroll",
+    "FFS processing",
+    "Loan management",
+    "Income tax management",
+    "HR automation",
+    "HR India",
+    "Mumbai HR",
+    "HR technology",
+    "HR solution",
+    "Employee satisfaction",
+    "Employee empowerment",
+    "Total Rewards"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "HR Managers",
+    "HR Administrators",
+    "Employees",
+    "Line Managers",
+    "Field Managers"
+  ],
+  "deployment_options": [
+    "SaaS",
+    "Cloud-based",
+    "Web-based"
+  ],
+  "scalability_features": [
+    "Supports small, large, and global enterprises",
+    "Highly configurable with millions of policies",
+    "Designed for continuous evolution and adaptation"
+  ],
+  "_weight": 1
+}

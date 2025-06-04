@@ -1,0 +1,185 @@
+{
+  "id": 1268,
+  "name": "Element Talent Consultancy",
+  "description": "They built the embedded model around our very first partners: Spotify and Atlassian. We knew that the traditional, transactional dynamic served neither party well. So we created something entirely different.",
+  "features": [
+    "Streamlining Communication: Efficiency is key, and tools like Microsoft 365 Copilot and Google Duet have redefined how we summarize email chains and craft impactful messages. Grammarly aids in refining language, while sentiment analysis ensures our communication resonates positively.",
+    "AI-Powered Reachout & Personalization: AI-driven solutions have revolutionized outreach. From drafting messages to analyzing sentiment and personalization, they enhance our approach to connecting with potential candidates on platforms like LinkedIn and Celential.ai",
+    "Candidate Sourcing & Matching: Tools like SeekOut and hireEZ revolutionize candidate sourcing, matching, and ranking. They enable us to not only locate passive candidates but also assess their compatibility with job descriptions swiftly and accurately."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruitment marketing platforms",
+    "Artificial intelligence",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring efficiency",
+    "Hiring best practices",
+    "Hiring automation"
+  ],
+  "headquarter": "London, England",
+  "launch_date": "2009",
+  "order": 21096,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Embedded is the future, let us solve your hiring pain points",
+  "ProductId": null,
+  "ShortDescription": "Elements are the pioneers of Embedded Talent Consultancy.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "People",
+      "sequence": 0,
+      "description": "Based across the globe and committed to making a real impact, our team of talent acquisition specialists are resilient, adaptable and trained to tackle the most challenging hiring briefs."
+    },
+    {
+      "name": "Partnerships",
+      "sequence": 1,
+      "description": "By embedding ourselves physically within our partners\u2019 teams, we have nurtured fruitful, long-term relationships with clients within the creative and tech industries, working closely with retailers, global brands and corporates to foster growth."
+    },
+    {
+      "name": "Methodology",
+      "sequence": 2,
+      "description": "We work in a way that is personalised to your business, and we\u2019ll take the time to understand your challenges from within, whether that means finding and engaging top talent, or redesigning and streamlining your"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": true,
+  "PublishedAt": "2024-03-05T11:13:36.512Z",
+  "enhanced_description": "Element Talent Consultancy pioneers an embedded talent acquisition model, diverging from traditional, transactional recruitment dynamics. This consultancy physically integrates its global team of talent acquisition specialists within large enterprise client teams, offering a personalized approach to solve complex hiring challenges. Their methodology focuses on finding and engaging top talent, as well as redesigning and streamlining recruitment processes, fostering long-term partnerships with clients, including those in creative, tech, retail, and corporate sectors like Spotify and Atlassian.",
+  "target_industries": [
+    "Creative",
+    "Tech",
+    "Retail",
+    "Global Brands",
+    "Corporates"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Solving complex hiring pain points",
+    "Finding and engaging top talent",
+    "Redesigning and streamlining recruitment processes",
+    "Streamlining recruitment communication",
+    "AI-powered candidate outreach and personalization",
+    "Sourcing and matching passive candidates",
+    "Assessing candidate compatibility with job descriptions",
+    "Boosting hiring manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "Pioneering embedded talent consultancy model",
+    "Non-traditional, non-transactional dynamic",
+    "Physical embedding within partner teams",
+    "Personalized methodology tailored to client businesses",
+    "Global team of resilient and adaptable talent acquisition specialists",
+    "Focus on long-term client partnerships",
+    "Leveraging advanced AI-powered tools for communication, outreach, sourcing, and matching"
+  ],
+  "implementation_scenarios": [
+    "Embedded talent team within client organization"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Recruitment",
+    "Candidate Sourcing",
+    "Candidate Engagement",
+    "Recruitment Process Optimization",
+    "Recruitment Marketing"
+  ],
+  "technology_stack": [
+    "Microsoft 365 Copilot",
+    "Google Duet",
+    "Grammarly",
+    "LinkedIn",
+    "Celential.ai",
+    "SeekOut",
+    "hireEZ",
+    "AI-driven solutions"
+  ],
+  "integration_capabilities": [
+    "Leverages capabilities and data from platforms like LinkedIn for candidate outreach",
+    "Utilizes Celential.ai for AI-powered reachout",
+    "Operates with candidate sourcing and matching platforms such as SeekOut and hireEZ"
+  ],
+  "roi_benefits": [
+    "Increased hiring manager confidence",
+    "Improved hiring manager productivity",
+    "Enhanced hiring efficiency",
+    "Faster and more accurate candidate assessment",
+    "Access to top and passive talent",
+    "Streamlined recruitment processes",
+    "Improved candidate communication and personalization",
+    "Resolution of hiring pain points"
+  ],
+  "searchable_keywords": [
+    "Element Talent Consultancy",
+    "Embedded Talent",
+    "Talent Acquisition",
+    "Recruiting",
+    "Hiring",
+    "AI Recruitment",
+    "Artificial Intelligence",
+    "Recruitment Marketing",
+    "Recruiting Software",
+    "Hiring Efficiency",
+    "Hiring Automation",
+    "Candidate Sourcing",
+    "Candidate Matching",
+    "Recruitment Personalization",
+    "Hiring Pain Points",
+    "Strategic Hiring",
+    "Recruitment Consultancy",
+    "On-site Recruitment",
+    "Global Talent",
+    "Tech Hiring",
+    "Creative Industry Recruitment",
+    "Retail Recruitment",
+    "Corporate Recruitment",
+    "Microsoft 365 Copilot",
+    "Google Duet",
+    "Grammarly",
+    "LinkedIn Recruitment",
+    "Celential.ai",
+    "SeekOut",
+    "hireEZ",
+    "Sentiment Analysis"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "Internal Talent Acquisition Teams",
+    "HR Departments"
+  ],
+  "deployment_options": [
+    "Embedded (physically within client teams)"
+  ],
+  "_weight": 1
+}

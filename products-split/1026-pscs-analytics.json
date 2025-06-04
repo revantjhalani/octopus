@@ -1,0 +1,155 @@
+{
+  "id": 1026,
+  "name": "PSCS Analytics",
+  "description": "At PSCS, we form strategic partnerships with organizations, working hand-in-hand to create and implement tailored solutions aimed at enhancing organizational capabilities. Our mission is to empower businesses to meet and conquer the challenges of today's dynamic landscape through comprehensive Human Capital and Organizational Development interventions.",
+  "features": [
+    "Myers\u2013Briggs Type Indicator",
+    "Industrial Relations (IR) Climate",
+    "Corporate Analytics"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee satisfaction",
+    "Employee benefits"
+  ],
+  "headquarter": "Chennai",
+  "launch_date": "2008",
+  "order": 20969,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Decodind your employee pulse.",
+  "ProductId": null,
+  "ShortDescription": "PSCS, short for People Solutions Consultancy Services, is an esteemed HR consulting firm",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "HR Consulting Services",
+      "sequence": 0,
+      "description": "PSCS offers a variety of HR consulting services, including organizational diagnostics, employee satisfaction surveys, and capability building programs. This indicates they help businesses improve their human capital management practices and overall organizational effectiveness."
+    },
+    {
+      "name": "Focus on Long-Term Change",
+      "sequence": 1,
+      "description": "The website mentions a unique style of process consulting offered for long-term change. This suggests PSCS goes beyond one-time solutions and helps companies develop sustainable improvements."
+    },
+    {
+      "name": "Employee Relations Expertise",
+      "sequence": 2,
+      "description": " PSCS offers services related to industrial relations climate assessment. This suggests they can help businesses manage employee relations effectively and address potential issues."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:39:04.769Z",
+  "enhanced_description": "PSCS Analytics, offered by People Solutions Consultancy Services (PSCS), is an esteemed HR consulting firm that forms strategic partnerships with organizations to deliver tailored Human Capital and Organizational Development interventions. Their comprehensive services aim to enhance organizational capabilities, improve human capital management practices, and foster overall organizational effectiveness. PSCS specializes in organizational diagnostics, employee satisfaction surveys, capability building programs, and industrial relations climate assessment. They employ a unique process consulting style to facilitate long-term, sustainable change, empowering businesses to navigate today's dynamic landscape and decode their employee pulse to improve happiness and engagement.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Enhancing organizational capabilities and effectiveness",
+    "Improving human capital management practices",
+    "Conducting organizational diagnostics and employee satisfaction surveys",
+    "Implementing capability building programs",
+    "Assessing and managing Industrial Relations (IR) climate",
+    "Improving employee happiness and engagement",
+    "Facilitating long-term organizational change",
+    "Utilizing personality assessments for individual and team development (e.g., Myers\u2013Briggs Type Indicator)"
+  ],
+  "competitive_advantages": [
+    "Strategic partnership approach with tailored solutions",
+    "Comprehensive Human Capital and Organizational Development interventions",
+    "Focus on long-term, sustainable change through a unique process consulting style",
+    "Expertise in HR consulting, organizational diagnostics, and employee relations"
+  ],
+  "implementation_scenarios": [
+    "Consultative implementation",
+    "Project-based interventions"
+  ],
+  "hr_functions_supported": [
+    "Organizational Development",
+    "HR Strategy",
+    "Employee Relations",
+    "Employee Engagement",
+    "HR Analytics",
+    "Talent Assessment",
+    "Learning & Development",
+    "Employee Well-being"
+  ],
+  "roi_benefits": [
+    "Enhanced organizational capabilities and effectiveness",
+    "Improved human capital management practices",
+    "Sustainable organizational improvements",
+    "Effective management of employee relations and issue resolution",
+    "Increased employee happiness and engagement",
+    "Better understanding of employee pulse and organizational climate"
+  ],
+  "searchable_keywords": [
+    "PSCS Analytics",
+    "People Solutions Consultancy Services",
+    "HR consulting",
+    "Human Capital",
+    "Organizational Development",
+    "tailored HR solutions",
+    "organizational capabilities",
+    "organizational diagnostics",
+    "employee satisfaction surveys",
+    "capability building programs",
+    "Industrial Relations climate",
+    "IR climate assessment",
+    "employee relations",
+    "long-term change",
+    "process consulting",
+    "employee pulse",
+    "employee happiness",
+    "employee engagement",
+    "Corporate Analytics",
+    "Myers-Briggs Type Indicator",
+    "MBTI",
+    "HR management",
+    "organizational effectiveness",
+    "employee well-being",
+    "employee satisfaction",
+    "employee benefits",
+    "Total Rewards",
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "HR Business Partners",
+    "Organizational Development Specialists",
+    "Senior Management"
+  ],
+  "_weight": 1
+}

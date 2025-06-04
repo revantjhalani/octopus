@@ -1,0 +1,179 @@
+{
+  "id": 56,
+  "name": "Hyreo",
+  "description": "Modernise your recruiting process with candidate engagement, intelligent automation and the power of data without changing the existing recruiting software.",
+  "features": [
+    "300% increase in candidate touch points",
+    "72% of recurring recruiter tasks automated",
+    "45% reduction in candidate pre-screening time",
+    "65% of candidates queries auto-responded"
+  ],
+  "founders": [],
+  "price": [
+    {}
+  ],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Recruiting software",
+    "Pre-employment screening software",
+    "Background check software",
+    "Pre-employment testing software",
+    "Reference check software",
+    "Recruiting automation software",
+    "Talent acquisition suites",
+    "Applicant tracking system (ATS)",
+    "Onboarding software",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "Hiring efficiency",
+    "Quality of hire",
+    "Hiring tools",
+    "Hiring process optimization",
+    "Hiring automation",
+    "Hiring analytics",
+    "Data-driven hiring",
+    "Talent acquisition",
+    "Hiring best practices"
+  ],
+  "headquarter": "Thiruvananthapuram, Kerala",
+  "launch_date": "2016",
+  "order": 20033,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Improve recruiting speed and efficiency with a 'Candidate-first' approach",
+  "ProductId": null,
+  "ShortDescription": "Customer-like' experience for candidates",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-05-15T05:44:45.587Z",
+  "enhanced_description": "Hyreo modernizes the recruiting process by improving speed and efficiency with a 'Candidate-first' approach, offering a 'customer-like' experience for candidates. It achieves this through enhanced candidate engagement, intelligent automation, and data insights, all without requiring changes to existing recruiting software.",
+  "key_use_cases": [
+    "Modernizing recruiting processes",
+    "Enhancing candidate engagement",
+    "Implementing intelligent automation in recruiting",
+    "Driving data-driven recruiting decisions",
+    "Automating recurring recruiter tasks",
+    "Reducing candidate pre-screening time",
+    "Automating candidate query responses",
+    "Improving overall recruiting speed and efficiency",
+    "Optimizing the hiring process",
+    "Boosting hiring manager confidence and productivity",
+    "Streamlining talent acquisition"
+  ],
+  "competitive_advantages": [
+    "Ability to integrate and enhance existing recruiting software without requiring changes",
+    "Significant increase in candidate touch points (300%)",
+    "High automation rate for recurring recruiter tasks (72%)",
+    "Substantial reduction in candidate pre-screening time (45%)",
+    "High percentage of automated candidate query responses (65%)",
+    "Focus on a 'Candidate-first' and 'Customer-like' experience"
+  ],
+  "implementation_scenarios": [
+    "Overlay or enhancement to existing recruiting software (e.g., ATS)"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Staffing & Management",
+    "Pre-employment Screening",
+    "Background Checks",
+    "Pre-employment Testing",
+    "Reference Checks",
+    "Recruiting Automation",
+    "Talent Acquisition",
+    "Onboarding (initial stages via handover/integration)",
+    "Candidate Relationship Management"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)"
+  ],
+  "integration_capabilities": [
+    "Integration with existing recruiting software/Applicant Tracking Systems (ATS)"
+  ],
+  "roi_benefits": [
+    "300% increase in candidate touch points",
+    "72% of recurring recruiter tasks automated",
+    "45% reduction in candidate pre-screening time",
+    "65% of candidates queries auto-responded",
+    "Boost in Hiring Manager Confidence",
+    "Increase in Hiring Manager Productivity",
+    "Improved recruiting speed",
+    "Enhanced recruiting efficiency",
+    "Increased hiring efficiency",
+    "Improved quality of hire",
+    "Facilitates data-driven hiring"
+  ],
+  "searchable_keywords": [
+    "Hyreo",
+    "Hiring",
+    "Recruiting",
+    "Recruiting software",
+    "Hiring tools",
+    "Talent acquisition",
+    "Candidate engagement",
+    "Intelligent automation",
+    "Recruiting automation",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Hiring analytics",
+    "Hiring process optimization",
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "Hiring efficiency",
+    "Quality of hire",
+    "Candidate touch points",
+    "Recruiter tasks automation",
+    "Candidate pre-screening",
+    "Candidate queries automation",
+    "Candidate-first approach",
+    "Customer-like experience",
+    "Staffing management software",
+    "Pre-employment screening software",
+    "Background check software",
+    "Pre-employment testing software",
+    "Reference check software",
+    "Talent acquisition suites",
+    "Applicant tracking system (ATS)",
+    "Onboarding software",
+    "Artificial intelligence",
+    "AI in HR",
+    "HR technology"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Hiring Managers",
+    "Candidates"
+  ],
+  "_weight": 1
+}

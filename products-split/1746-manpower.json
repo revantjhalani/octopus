@@ -1,0 +1,158 @@
+{
+  "id": 1746,
+  "name": "Manpower",
+  "description": "Manpower, a global leader in employment for over 70 years, combines advanced HR tech with a personal touch. Spanning continents, we connect job seekers with employers, ensuring optimal matches. Understanding industries and individual goals, we fill roles, foster growth, and craft success stories. We effectively assess and develop skills, keeping our associates ahead of the curve, so they can get the jobs done each time, every time.",
+  "features": [
+    "75 Years of workforce expertise",
+    "14K Small to mid-sized organizations that we work with annually",
+    "83K Manpower Associates on assignment monthly on average"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management",
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "HR analytics software",
+    "Employee engagement software"
+  ],
+  "tags": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Recruiting efficiency",
+    "Talent acquisition"
+  ],
+  "headquarter": "Milwaukee, WI",
+  "launch_date": "1948",
+  "order": null,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Elevate Careers, Amplify Businesses",
+  "ProductId": null,
+  "ShortDescription": "At Manpower, we're your bridge to growth and opportunity",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Find Work Fast",
+      "sequence": 0,
+      "description": "Manpower receives daily job openings from various sectors like transportation, logistics, engineering, and finance."
+    },
+    {
+      "name": "People First",
+      "sequence": 1,
+      "description": "Advance your career with online training courses, e-learning programs and personalized career guidance."
+    },
+    {
+      "name": "Diversity & Inclusion",
+      "sequence": 2,
+      "description": "We empower underrepresented groups through skill-building programs for sustainable employment."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-07-10T12:06:02.145Z",
+  "enhanced_description": "Manpower, a global leader in employment with over 75 years of expertise, leverages advanced HR technology combined with a personal approach to connect job seekers with employers across continents. They specialize in optimal talent matches, skill assessment and development, offering comprehensive career guidance through online training courses and e-learning programs. Annually, Manpower partners with 14,000 small to mid-sized organizations and places an average of 83,000 associates on assignment monthly. The organization also champions diversity and inclusion by empowering underrepresented groups through dedicated skill-building programs for sustainable employment, serving key industries such as transportation, logistics, engineering, and finance.",
+  "target_industries": [
+    "Transportation",
+    "Logistics",
+    "Engineering",
+    "Finance"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Mid-sized"
+  ],
+  "key_use_cases": [
+    "Hiring top talent faster and more efficiently",
+    "Connecting job seekers with employers for optimal matches",
+    "Skill assessment and development for workforce readiness",
+    "Providing online training and personalized career guidance",
+    "Supporting diversity and inclusion through skill-building programs",
+    "Filling various professional roles"
+  ],
+  "competitive_advantages": [
+    "75 years of workforce expertise and global leadership",
+    "Combines advanced HR technology with a personal touch for tailored solutions",
+    "Extensive global reach, spanning continents",
+    "High volume of talent placements (83,000+ associates monthly)",
+    "Dedicated programs for skill assessment and development",
+    "Strong focus on diversity and inclusion initiatives"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Management",
+    "Workforce Planning",
+    "Diversity & Inclusion"
+  ],
+  "roi_benefits": [
+    "Faster and more efficient talent acquisition",
+    "Improved recruiting efficiency",
+    "Optimal talent matches leading to better productivity",
+    "Fosters career growth for individuals and business growth for organizations"
+  ],
+  "searchable_keywords": [
+    "Manpower",
+    "Employment",
+    "HR Tech",
+    "Job seekers",
+    "Employers",
+    "Talent",
+    "Skills",
+    "Workforce",
+    "Associates",
+    "Career",
+    "Training",
+    "Guidance",
+    "Diversity",
+    "Inclusion",
+    "Recruiting",
+    "Talent Management",
+    "Hire Top Talent",
+    "Recruiting efficiency",
+    "Talent acquisition",
+    "Workforce expertise",
+    "Transportation jobs",
+    "Logistics jobs",
+    "Engineering jobs",
+    "Finance jobs",
+    "Staffing",
+    "Temporary staffing",
+    "Permanent placement"
+  ],
+  "primary_users": [
+    "Employers (small to mid-sized organizations)",
+    "Job seekers",
+    "HR professionals"
+  ],
+  "scalability_features": [
+    "Global operational reach across continents",
+    "High volume talent placement capabilities (83,000+ assignments monthly)",
+    "Ability to serve a large number of organizations (14,000+ annually)"
+  ],
+  "_weight": 1
+}

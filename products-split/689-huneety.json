@@ -1,0 +1,148 @@
+{
+  "id": 689,
+  "name": "Huneety",
+  "description": "Operating since 2021, Huneety is a talent matching platform focusing on fast-developing economies affected by talent shortage. Our technology and skill-first approach help companies to identify and facilitate the sourcing of talented individuals. Our solutions can be used as-a-platform by HR departments, or as-a-service by Directors or Managers looking for an easy and effortless way to get the best candidates fast.",
+  "features": [
+    "Culture fit assessments",
+    "Skills taxonomy, and Skills hiring",
+    "Talent Acquisition"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Staffing services providers",
+    "HR consulting providers",
+    "Human Capital Management"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "Khlong Toei District, Bangkok City",
+  "launch_date": "2022",
+  "order": 20643,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We are Southeast Asia Talent sourcing platform connecting talents to opportunities",
+  "ProductId": null,
+  "ShortDescription": "Huneety is Southeast Asia's Talent matching platform connecting talent to opportunities accross Southeast Asia.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Job Search Platform for Southeast Asia",
+      "sequence": 0,
+      "description": "Huneety is a recruitment platform that helps job seekers find jobs in Southeast Asia [1]. This means that Huneety can be a valuable resource for people who are looking for work in this region."
+    },
+    {
+      "name": "Streamlined Job Application Process",
+      "sequence": 1,
+      "description": "Huneety can streamline the job application process for job seekers by screening job opportunities for them and applying to jobs on their behalf [1]. This can save job seekers time and effort in their job search."
+    },
+    {
+      "name": "Control Over Job Search Privacy",
+      "sequence": 2,
+      "description": "Huneety allows job seekers to control their job search privacy by letting them decide who sees their information [1]. This can be important for job seekers who are concerned about their privacy."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:34.917Z",
+  "enhanced_description": "Huneety, operating since 2021, is a talent matching platform specifically focused on fast-developing economies in Southeast Asia that are affected by talent shortage. It leverages a technology and skill-first approach to help companies identify and facilitate the sourcing of talented individuals. Huneety offers its solutions as-a-platform for HR departments, or as-a-service for Directors and Managers seeking efficient access to top candidates. The platform emphasizes streamlining the job application process for job seekers and ensuring job search privacy within the Southeast Asian market, ultimately aiming to boost hiring manager confidence and productivity.",
+  "key_use_cases": [
+    "Talent sourcing",
+    "Skills-based hiring",
+    "Culture-fit assessment",
+    "Optimizing talent acquisition processes",
+    "Boosting hiring manager productivity and confidence"
+  ],
+  "competitive_advantages": [
+    "Niche focus on fast-developing economies in Southeast Asia",
+    "Skill-first talent matching approach",
+    "Flexible deployment options (as-a-platform or as-a-service)",
+    "Streamlined and efficient candidate sourcing",
+    "Focus on boosting hiring manager confidence and productivity"
+  ],
+  "implementation_scenarios": [
+    "Direct platform usage by internal HR departments",
+    "Managed service or outsourced talent sourcing for Directors and Managers"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Recruiting",
+    "Staffing",
+    "HR Consulting (related to talent sourcing)",
+    "Candidate Assessment (skills and culture fit)"
+  ],
+  "roi_benefits": [
+    "Accelerated talent sourcing",
+    "Increased hiring manager confidence",
+    "Improved hiring manager productivity",
+    "Optimized hiring processes",
+    "Potential reduction in talent acquisition costs"
+  ],
+  "searchable_keywords": [
+    "Huneety",
+    "talent matching",
+    "talent sourcing",
+    "recruiting",
+    "recruitment",
+    "HR tech",
+    "Southeast Asia hiring",
+    "fast-developing economies talent",
+    "skill-first hiring",
+    "culture fit assessment",
+    "skills taxonomy",
+    "talent acquisition",
+    "hiring optimization",
+    "hiring automation",
+    "data-driven hiring",
+    "HRMS",
+    "HCM",
+    "staffing",
+    "HR consulting",
+    "candidate sourcing",
+    "hiring manager productivity",
+    "job application streamlining"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Hiring Managers",
+    "Company Directors"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)",
+    "Managed Service"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,133 @@
+{
+  "id": 1311,
+  "name": "Gallup",
+  "description": "We help our clients in many ways. But it all starts with a single focus: We use our understanding of the human experience to help our clients solve their greatest challenges and seize their greatest opportunities. Combining more than 85 years of experience with its global reach, Gallup knows more about the attitudes and behaviors of employees, customers, students and citizens than any other organization in the world.",
+  "features": [
+    "Strategic Consulting",
+    "Global Attitudes and Behaviors",
+    "Leadership and Development",
+    "Management Consulting"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "HR analytics software",
+    "Workforce management"
+  ],
+  "tags": [
+    "Employee happiness metrics"
+  ],
+  "headquarter": "Washington DC",
+  "launch_date": "1935",
+  "order": 30,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Analytics and advice that help leaders and organizations solve their most pressing problems.",
+  "ProductId": null,
+  "ShortDescription": "The Art and Science of What's Humanly Possible.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "The CliftonStrengths\u00ae Assessment",
+      "sequence": 0,
+      "description": "Find the Report That's Right for You. Whether you're discovering your own CliftonStrengths or empowering others to develop theirs, we can help. Find the perfect CliftonStrengths solution for your situation."
+    },
+    {
+      "name": "Gallup Access",
+      "sequence": 1,
+      "description": "Engage employees, develop managers and build a winning workplace culture with Gallup Access, the only software proven to turn human potential into business performance."
+    },
+    {
+      "name": "Q12\u00ae Survey",
+      "sequence": 2,
+      "description": "For decades, employers have been measuring employee engagement the wrong way - or neglecting to measure it at all. But Gallup has the solution: Time after time, these 12 items have proven to be the most effective survey questions to measure employee engagement."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:41.383Z",
+  "enhanced_description": "Gallup leverages over 85 years of experience and global insights to provide analytics and strategic advice aimed at solving critical organizational challenges and seizing opportunities. Their offerings focus on understanding human attitudes and behaviors to improve employee happiness and engagement, and drive business performance. Key components include the CliftonStrengths\u00ae Assessment for individual and team development, Gallup Access software for employee engagement, manager development, and workplace culture building, and the proprietary Q12\u00ae Survey for effectively measuring employee engagement.",
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Improve employee happiness and engagement",
+    "Measure employee engagement",
+    "Develop leaders and managers",
+    "Build winning workplace culture",
+    "Assess individual and team strengths (CliftonStrengths\u00ae)",
+    "Strategic organizational consulting",
+    "Workforce analytics and management"
+  ],
+  "competitive_advantages": [
+    "Over 85 years of experience and global reach in understanding human attitudes and behaviors",
+    "Proprietary software 'Gallup Access' proven to turn human potential into business performance",
+    "Proprietary 'Q12\u00ae Survey' proven as the most effective questions for measuring employee engagement",
+    "Recognized expertise in employee engagement and strengths-based development"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "HR Analytics",
+    "Workforce Management",
+    "Employee Engagement",
+    "Leadership Development",
+    "Manager Development",
+    "Talent Assessment"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Enhanced business performance through human potential",
+    "Solving pressing organizational problems",
+    "Seizing greatest organizational opportunities"
+  ],
+  "searchable_keywords": [
+    "Gallup",
+    "HR analytics software",
+    "Workforce management",
+    "Talent management",
+    "Employee happiness metrics",
+    "Employee engagement",
+    "Leadership development",
+    "Management consulting",
+    "Strategic consulting",
+    "CliftonStrengths",
+    "Q12 survey",
+    "Gallup Access",
+    "Organizational development",
+    "Human potential",
+    "Business performance",
+    "Attitudes and behaviors"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "Organizational Leaders",
+    "Managers",
+    "Employees",
+    "Individuals"
+  ],
+  "_weight": 1
+}

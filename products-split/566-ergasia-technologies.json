@@ -1,0 +1,131 @@
+{
+  "id": 566,
+  "name": "Ergasia Technologies",
+  "description": "Ergasia Technologies is revolutionizing the recruitment ecosystem intelligently through the infusion of disruptive technologies using artificial intelligence, machine learning, and analytics to address the HR needs of companies by simplifying and dramatically shortening the recruitment process. Our platform enables recruiters to source, match and screen potential candidates faster and more efficiently through our matching and funneling optimization platform to identify the most qualified candidates. Our current brands are Supply Chain Jobs and Edukasi Jobs. We are changing the way we engage, educate, and empower the workforce.",
+  "features": [
+    "B2B Partnership Opportunities",
+    "Automatic Candidate Screening",
+    "Real-Time Application Status Updates"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Talent acquisition suites",
+    "HR management suites",
+    "HR analytics software"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    ""
+  ],
+  "headquarter": "Singapore, SG",
+  "launch_date": "2020",
+  "order": 20525,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Simplifying recruitment through disruptive technologies",
+  "ProductId": null,
+  "ShortDescription": "Ergasia Technologies is the holding company for various industry vertical talent solution platforms.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:30:10.767Z",
+  "enhanced_description": "Ergasia Technologies is a holding company for various industry vertical talent solution platforms, including Supply Chain Jobs and Edukasi Jobs. It revolutionizes the recruitment ecosystem by infusing disruptive technologies like artificial intelligence, machine learning, and analytics. The platform addresses HR needs by simplifying and dramatically shortening the recruitment process, enabling recruiters to source, match, and screen potential candidates faster and more efficiently through its matching and funneling optimization platform to identify the most qualified candidates.",
+  "target_industries": [
+    "Supply Chain",
+    "Education"
+  ],
+  "key_use_cases": [
+    "Candidate sourcing",
+    "Candidate matching",
+    "Candidate screening",
+    "Talent funnel optimization",
+    "Providing real-time application status updates"
+  ],
+  "competitive_advantages": [
+    "Leveraging AI, ML, and analytics for intelligent recruitment",
+    "Significant reduction in recruitment process time",
+    "Faster and more efficient candidate sourcing, matching, and screening",
+    "Optimized talent funneling",
+    "Automated candidate screening"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Talent Management",
+    "HR Analytics"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Machine Learning (ML)",
+    "Analytics"
+  ],
+  "roi_benefits": [
+    "Reduced time-to-hire",
+    "Increased recruiter efficiency and speed",
+    "Improved quality of hire",
+    "Enhanced hiring manager confidence and productivity"
+  ],
+  "searchable_keywords": [
+    "Ergasia Technologies",
+    "Recruitment",
+    "Hiring",
+    "Talent Management",
+    "Talent Acquisition",
+    "Recruiting software",
+    "Talent acquisition suites",
+    "HR management suites",
+    "HR analytics software",
+    "AI",
+    "Artificial Intelligence",
+    "ML",
+    "Machine Learning",
+    "Analytics",
+    "Candidate Sourcing",
+    "Candidate Matching",
+    "Candidate Screening",
+    "Funnel Optimization",
+    "Supply Chain Jobs",
+    "Edukasi Jobs",
+    "Automatic Candidate Screening",
+    "Real-Time Application Status Updates",
+    "Talent sourcing",
+    "Recruiting costs"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Hiring Managers"
+  ],
+  "_weight": 1
+}

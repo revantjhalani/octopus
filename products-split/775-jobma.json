@@ -1,0 +1,172 @@
+{
+  "id": 775,
+  "name": "Jobma",
+  "description": "Jobma innovative use of pre-recorded & live video interviews, audio interviews, and digital assessments give employers the capability to drastically improve their quality of hire while cutting down on costs and hiring time.",
+  "features": [
+    "Digital interviewing system",
+    "Available in 16 languages",
+    "Cuts cost of process"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "Other / technology",
+    "Learning and Development",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Video interviewing software",
+    "Recruitment agencies",
+    "Recruiting software",
+    "Performance Review software",
+    "Artificial intelligence",
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs"
+  ],
+  "headquarter": "Minnesota",
+  "launch_date": "2012",
+  "order": 20728,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Hire better Faster",
+  "ProductId": null,
+  "ShortDescription": "Jobma is a Digital interviewing platform designed to help companies of all sizes across the globe hire",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "One way & live interviews",
+      "sequence": 0,
+      "description": "Design a one way video interview that leads your applicants through a series of video, audio, written & multiple choice questions."
+    },
+    {
+      "name": "Customizable to your brand",
+      "sequence": 1,
+      "description": "Customize the interview process to include your logo, branding and colors. Give candidates a stellar experience."
+    },
+    {
+      "name": "Sharing & collaboration tools",
+      "sequence": 2,
+      "description": "Include stake holders earlier in the recruitment pipeline. Share pre-recorded video interviews, include comments, tags and ratings."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:14.341Z",
+  "enhanced_description": "Jobma is a Digital interviewing platform designed to help companies of all sizes across the globe hire better and faster. It innovatively utilizes pre-recorded and live video interviews, audio interviews, and digital assessments. This system enables employers to drastically improve their quality of hire, cut down on hiring costs, and reduce hiring time. Key features include one-way and live interviews with video, audio, written, and multiple-choice questions, customization for branding, and sharing and collaboration tools for stakeholders, allowing comments, tags, and ratings.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Conducting remote video interviews (one-way and live)",
+    "Conducting remote audio interviews",
+    "Administering digital assessments (video, audio, written, multiple-choice questions)",
+    "Efficiently pre-screening candidates",
+    "Facilitating collaboration among hiring stakeholders (sharing interviews, adding comments, tags, and ratings)",
+    "Streamlining the recruitment pipeline",
+    "Enhancing candidate experience through customizable branded interviews",
+    "Improving hiring manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "Support for pre-recorded and live video, audio, and digital assessments",
+    "Multilingual support (available in 16 languages)",
+    "Reduces hiring costs",
+    "Reduces hiring time",
+    "Improves quality of hire",
+    "Offers extensive branding customization for candidate experience",
+    "Provides robust sharing and collaboration tools for stakeholders"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence"
+  ],
+  "roi_benefits": [
+    "Reduced hiring costs",
+    "Reduced hiring time",
+    "Improved quality of hire",
+    "Increased hiring manager confidence",
+    "Increased hiring manager productivity",
+    "More efficient talent acquisition"
+  ],
+  "searchable_keywords": [
+    "Jobma",
+    "digital interviewing",
+    "video interview",
+    "pre-recorded interview",
+    "live interview",
+    "audio interview",
+    "digital assessments",
+    "recruiting",
+    "hiring",
+    "talent acquisition",
+    "talent sourcing",
+    "HR technology",
+    "HR software",
+    "recruitment software",
+    "video interviewing software",
+    "AI",
+    "artificial intelligence",
+    "candidate screening",
+    "remote interviews",
+    "hiring costs",
+    "hiring time",
+    "quality of hire",
+    "hiring manager productivity",
+    "hiring manager confidence",
+    "collaboration tools",
+    "branding",
+    "customizable interviews",
+    "multilingual",
+    "16 languages",
+    "one-way interviews",
+    "candidate experience",
+    "stakeholder collaboration",
+    "comments",
+    "tags",
+    "ratings"
+  ],
+  "primary_users": [
+    "Employers",
+    "Hiring Managers",
+    "Recruiters",
+    "HR Professionals",
+    "Recruitment Stakeholders"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "_weight": 1
+}

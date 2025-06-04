@@ -1,0 +1,177 @@
+{
+  "id": 669,
+  "name": "HopeQure Wellness Solutions Pvt Ltd",
+  "description": "HopeQure (HIPAA Compliant Platform) provides affordable Online Counselling & Therapy by Best Psychologists of India for Mental Health or Relationship Issues. At HopeQure, Clients can Book Counselling Sessions, Take Time bound Therapy Programs, Get Free Self Assessment for Mental Health or Relationship Issues or read researched blogs about topics of your interest at Knowledge Hub. HopeQure's EAP Program (Employee Assistance Program) is availed by many MNC's and top Corporates of India for unlimited counselling and employee productivity improvement.",
+  "features": [
+    "Online Counselling - Healing Mind and Soul",
+    "Online Therapy - Time-bound Wellness",
+    "Best Psychologists - Look beyond the known"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee well being"
+  ],
+  "headquarter": "New Delhi, New Delhi\n",
+  "launch_date": "2018",
+  "order": 20623,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "India's #1 Employee Assistance Program through Fully Automated HIPAA Certified Platform.",
+  "ProductId": null,
+  "ShortDescription": "HopeQure provides high-quality Online Psychological Counselling through globally qualified and background verified 550+ Psychologists, Psychiatrists and Counselors.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Online Counselling For Dating Couples",
+      "sequence": 0,
+      "description": "Learn to deal with, trust, jealousy, commitment, insecurity, honesty, intimacy, conflicts, social pressure and family issues."
+    },
+    {
+      "name": "Online Counselling For Married Couple",
+      "sequence": 1,
+      "description": "Couple Counselling for intimacy, parenting, in-laws issues, disagreements, trust, work-life balance, compatibility etc."
+    },
+    {
+      "name": "Online Counselling For Students and Teens",
+      "sequence": 2,
+      "description": "Online Counselling for Students, facing stress, anxiety, depression, burnout, procrastination and relationship issues."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:09.788Z",
+  "enhanced_description": "HopeQure offers a HIPAA Compliant and fully automated platform providing affordable online counselling and therapy. Services include online psychological counselling for mental health and relationship issues, delivered by over 550 globally qualified and background-verified psychologists, psychiatrists, and counselors. Clients can book sessions, enroll in time-bound therapy programs, access free self-assessments, and utilize a Knowledge Hub with researched blogs. HopeQure also provides a leading Employee Assistance Program (EAP) to MNCs and top corporates in India for unlimited counselling and employee productivity improvement. Specific counselling options are available for dating couples, married couples, and students/teens, addressing issues like stress, anxiety, depression, trust, intimacy, and family matters.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Online psychological counselling for mental health and relationship issues",
+    "Online therapy programs",
+    "Self-assessment for mental health and relationship issues",
+    "Access to researched blogs via Knowledge Hub",
+    "Employee Assistance Program (EAP) for corporate wellness and productivity improvement",
+    "Counselling for dating couples (trust, jealousy, commitment, insecurity, honesty, intimacy, conflicts, social pressure, family issues)",
+    "Counselling for married couples (intimacy, parenting, in-laws issues, disagreements, trust, work-life balance, compatibility)",
+    "Counselling for students and teens (stress, anxiety, depression, burnout, procrastination, relationship issues)",
+    "Booking and managing counselling sessions"
+  ],
+  "competitive_advantages": [
+    "HIPAA Compliant and Certified Platform",
+    "Fully Automated Platform",
+    "Affordable Online Counselling & Therapy",
+    "Globally qualified and background verified 550+ Psychologists, Psychiatrists, and Counselors",
+    "Recognized as India's #1 Employee Assistance Program (EAP)",
+    "Offers unlimited counselling through EAP programs"
+  ],
+  "implementation_scenarios": [
+    "Integrated EAP solution for corporate clients",
+    "Direct-to-client online counselling and therapy access"
+  ],
+  "hr_functions_supported": [
+    "Employee Assistance Programs (EAP)",
+    "Employee Well-being",
+    "Mental Health Support",
+    "Corporate Wellness",
+    "Employee Engagement"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness and Engagement",
+    "Enhanced Employee Productivity",
+    "Cost-effective access to mental health and relationship support",
+    "Access to unlimited counselling for employees through EAP"
+  ],
+  "searchable_keywords": [
+    "HopeQure",
+    "Wellness Solutions",
+    "Online Counselling",
+    "Online Therapy",
+    "Psychological Counselling",
+    "Mental Health",
+    "Relationship Issues",
+    "EAP Program",
+    "Employee Assistance Program",
+    "HIPAA Compliant",
+    "HIPAA Certified",
+    "Psychologists",
+    "Psychiatrists",
+    "Counselors",
+    "Corporate wellness software",
+    "Health & safety providers",
+    "Employee engagement",
+    "Employee well being",
+    "Total Rewards",
+    "Couple Counselling",
+    "Dating Couples Counselling",
+    "Married Couple Counselling",
+    "Student Counselling",
+    "Teen Counselling",
+    "Stress",
+    "Anxiety",
+    "Depression",
+    "Burnout",
+    "Procrastination",
+    "Self Assessment",
+    "Knowledge Hub",
+    "Automated Platform",
+    "India EAP"
+  ],
+  "primary_users": [
+    "Employees (corporate clients)",
+    "Individuals seeking counselling/therapy (general clients)",
+    "Students",
+    "Dating Couples",
+    "Married Couples",
+    "HR/Corporate decision-makers (for EAP)",
+    "Psychologists",
+    "Psychiatrists",
+    "Counselors (service providers)"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "compliance_features": [
+    "HIPAA Compliant Platform",
+    "HIPAA Certified Platform"
+  ],
+  "scalability_features": [
+    "Supports a large user base through an extensive network of 550+ globally qualified professionals",
+    "Offers unlimited counselling for EAP programs, indicating capacity for high demand",
+    "Targets all enterprise sizes (Small, Large, Global)"
+  ],
+  "security_features": [
+    "HIPAA compliance for protected health information security and privacy"
+  ],
+  "_weight": 1
+}

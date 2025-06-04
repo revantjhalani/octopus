@@ -1,0 +1,140 @@
+{
+  "id": 807,
+  "name": "KrowdHired",
+  "description": "Created by award-winning recruitment consultants, our specialist practice covers, information security, cybersecurity, IT security, technology risk and information risk, for permanent and contract roles across commercial in-house positions, consultancies, as well as cyber & information security vendors. We are People focused organization that values Transparency, Quality, and Collaboration to ensure the best talents have access to the right job.",
+  "features": [
+    "IT Audit, Risk Assurance",
+    "Security Engineering - Infrastructure, Network, Platform",
+    "Cyber Security Project & Programme Managers"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Recruiting automation software",
+    "Recruiting software",
+    "Onboarding software",
+    "Talent management software"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Hiring tools"
+  ],
+  "headquarter": "Petaling Jaya, Selangor",
+  "launch_date": "2018",
+  "order": 20760,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Delivering Cyber & Information Security professionals to meet your business needs",
+  "ProductId": null,
+  "ShortDescription": "We strive to deliver the right Cyber & information Security professionals to meet your business needs.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Cybersecurity Recruitment Specialists",
+      "sequence": 0,
+      "description": "KrowdHired is a company that focuses on Cybersecurity Recruitment. They specialize in finding qualified candidates for information security, cybersecurity, IT security, technology risk and information risk roles."
+    },
+    {
+      "name": "Target Roles and Industries",
+      "sequence": 1,
+      "description": "The company helps businesses fill positions in information security, cybersecurity, IT security, technology risk and information risk. This suggests they cater to companies in the technology sector with a focus on cybersecurity."
+    },
+    {
+      "name": "Contact Information Provided",
+      "sequence": 2,
+      "description": "The article includes KrowdHired's contact information, such as phone number, email address, and location. This allows potential clients and candidates to easily get in touch with the company."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:50.553Z",
+  "enhanced_description": "KrowdHired, established in 2018 by award-winning recruitment consultants, is a specialized recruitment consultancy focused on delivering cyber & information security professionals. Their specialist practice covers permanent and contract roles across information security, cybersecurity, IT security, technology risk, and information risk. This includes specific roles such as IT Audit, Risk Assurance; Security Engineering covering Infrastructure, Network, and Platform; and Cyber Security Project & Programme Managers. KrowdHired serves commercial in-house positions, consultancies, and cyber & information security vendors. They operate as a people-focused organization valuing Transparency, Quality, and Collaboration to ensure top talent gains access to the right opportunities, primarily catering to global and large enterprises.",
+  "target_industries": [
+    "Technology (Cybersecurity Focus)",
+    "Consulting",
+    "Information Security Vendors"
+  ],
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Recruiting permanent information security professionals",
+    "Recruiting contract cybersecurity professionals",
+    "Filling IT security and technology risk roles",
+    "Sourcing IT Audit and Risk Assurance specialists",
+    "Hiring Security Engineering (Infrastructure, Network, Platform) talent",
+    "Placing Cyber Security Project and Programme Managers"
+  ],
+  "competitive_advantages": [
+    "Specialized focus in cybersecurity and information security recruitment",
+    "Founded by award-winning recruitment consultants",
+    "Values-driven approach (Transparency, Quality, Collaboration)",
+    "Expertise across diverse roles within the cybersecurity domain (e.g., IT Audit, Security Engineering, Project Management)"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition"
+  ],
+  "roi_benefits": [
+    "Access to specialized and qualified cybersecurity talent",
+    "Efficient placement of permanent and contract IT security professionals",
+    "Improved talent quality and fit for niche roles",
+    "Meeting critical business needs for cybersecurity expertise"
+  ],
+  "searchable_keywords": [
+    "KrowdHired",
+    "Recruiting",
+    "Hiring",
+    "Talent Acquisition",
+    "Cybersecurity Recruitment",
+    "Information Security Jobs",
+    "IT Security Roles",
+    "Technology Risk",
+    "Information Risk",
+    "Permanent Roles",
+    "Contract Roles",
+    "IT Audit",
+    "Risk Assurance",
+    "Security Engineering",
+    "Infrastructure Security",
+    "Network Security",
+    "Platform Security",
+    "Cyber Security Project Manager",
+    "Cyber Security Programme Manager",
+    "Recruitment Consultants",
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "primary_users": [
+    "Hiring Managers (in Cybersecurity, IT, and Risk)",
+    "HR Departments",
+    "Talent Acquisition Teams",
+    "Candidates seeking cybersecurity roles"
+  ],
+  "_weight": 1
+}

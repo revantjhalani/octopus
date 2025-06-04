@@ -1,0 +1,186 @@
+{
+  "id": 398,
+  "name": "ALG | Specialists in Talent",
+  "description": "Founded in 2004, ALG is an industry leading talent solutions specialist that offers a full range of recruitment and training services. Our recruitment services are tailored for contract, project support, outsourcing and permanent and executive positions covering industries such as aviation, IT, engineering, advanced manufacturing and pharmaceuticals. ALG is a specialist recruitment company focused on providing staffing solutions across technical industries such as aviation, IT, engineering and defence. To help upskill and source the right candidates ALG also offers psychometric testing and training to support your business needs.",
+  "features": [
+    "Fully accredited AS/NZS ISO 9001:2015 Quality Management System",
+    "Recruitment certified consultants, account managers and workforce planners",
+    "Network of over 75,000 highly skilled professionals"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Workforce management",
+    "HR management suites",
+    "Recruitment agencies",
+    "HR consulting providers",
+    "Recruiting automation software",
+    "Software and Services Related to HR Software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "Brisbane Airport, QLD",
+  "launch_date": "2004",
+  "order": 20359,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Bringing top talent to your organisation.",
+  "ProductId": null,
+  "ShortDescription": "ALG is a specialist recruitment company focused on providing staffing solutions across technical industries",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Outsourcing",
+      "sequence": 0,
+      "description": "ALG can provide business process outsourcing and payroll services."
+    },
+    {
+      "name": "Psychometric Testing",
+      "sequence": 1,
+      "description": "ALG can process psychometric testing for all candidates at any level of operation."
+    },
+    {
+      "name": "Training",
+      "sequence": 2,
+      "description": "ALG can ensure your candidates are upskilled for technical roles."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:26:13.059Z",
+  "enhanced_description": "Founded in 2004, ALG is an industry-leading talent solutions specialist providing a full range of recruitment and training services. Their recruitment services encompass contract, project support, outsourcing, and permanent and executive positions, primarily focusing on technical industries such as aviation, IT, engineering, advanced manufacturing, pharmaceuticals, and defence. To further support businesses in sourcing and upskilling candidates, ALG offers psychometric testing and comprehensive training services. Additionally, ALG provides business process outsourcing and payroll services, aiming to bring top talent to organizations.",
+  "target_industries": [
+    "Aviation",
+    "IT",
+    "Engineering",
+    "Advanced Manufacturing",
+    "Pharmaceuticals",
+    "Defence"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global"
+  ],
+  "key_use_cases": [
+    "Recruitment for contract positions",
+    "Recruitment for project support",
+    "Talent outsourcing",
+    "Recruitment for permanent positions",
+    "Recruitment for executive positions",
+    "Providing staffing solutions across technical industries",
+    "Psychometric testing for candidates",
+    "Workforce training and upskilling",
+    "Business process outsourcing",
+    "Payroll services"
+  ],
+  "competitive_advantages": [
+    "Fully accredited AS/NZS ISO 9001:2015 Quality Management System",
+    "Team of recruitment certified consultants, account managers, and workforce planners",
+    "Extensive network of over 75,000 highly skilled professionals",
+    "Specialization in technical industries (aviation, IT, engineering, advanced manufacturing, pharmaceuticals, defence)",
+    "Comprehensive service offering including recruitment, training, psychometric testing, and outsourcing"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Recruiting",
+    "Workforce Management",
+    "HR Consulting",
+    "Training and Development",
+    "Candidate Assessment",
+    "HR Outsourcing",
+    "Payroll"
+  ],
+  "roi_benefits": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Reduce the Cost of Hiring Qualified Employees",
+    "Access to a large network of skilled professionals",
+    "Improved candidate quality through psychometric testing and training"
+  ],
+  "searchable_keywords": [
+    "ALG",
+    "Talent solutions",
+    "Recruitment",
+    "Training services",
+    "Contract recruitment",
+    "Project support staffing",
+    "Outsourcing",
+    "Permanent recruitment",
+    "Executive positions",
+    "Aviation recruitment",
+    "IT recruitment",
+    "Engineering recruitment",
+    "Advanced manufacturing staffing",
+    "Pharmaceuticals recruitment",
+    "Defence staffing",
+    "Staffing solutions",
+    "Psychometric testing",
+    "Upskilling",
+    "Technical roles",
+    "AS/NZS ISO 9001:2015",
+    "Quality Management System",
+    "Certified consultants",
+    "Account managers",
+    "Workforce planners",
+    "Skilled professionals network",
+    "Talent management",
+    "Recruiting automation",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Business process outsourcing",
+    "Payroll services"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Professionals",
+    "Recruitment Managers",
+    "Business Leaders"
+  ],
+  "compliance_features": [
+    "AS/NZS ISO 9001:2015 Quality Management System"
+  ],
+  "scalability_features": [
+    "Supports Small, Large, and Global Enterprises",
+    "Network of over 75,000 highly skilled professionals for broad talent access"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,186 @@
+{
+  "id": 1283,
+  "name": "Ceipal",
+  "description": "Ceipal is a scalable, AI-driven, total talent acquisition platform that provides visibility across all channels and sources while organizing your data into a single talent ecosystem. With the power of advanced automation and artificial intelligence, Ceipal\u2019s industry leading ATS and CRM solutions empower recruiters and staffing professionals to efficiently identify, assess, engage, hire, and onboard the best talent.",
+  "features": [
+    "Staffing Organisations",
+    "Internal and Corporate Recruiting",
+    "Managed Service Providers",
+    "Systems Integrator Organizations"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Pre-employment screening software",
+    "Pre-employment testing software",
+    "Recruiting automation software",
+    "Talent acquisition suites",
+    "Applicant tracking system (ATS)",
+    "Onboarding software",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Quick hiring",
+    "Hiring speed",
+    "Recruiting efficiency",
+    "Talent acquisition",
+    "Talent sourcing",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Hiring best practices"
+  ],
+  "headquarter": "Rochester, New York",
+  "launch_date": "2015",
+  "order": 21109,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Welcome to the new frontier of talent acquisition",
+  "ProductId": null,
+  "ShortDescription": "The Staffing Software People",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Applicant Tracking System",
+      "sequence": 0,
+      "description": "Global ATS with matching, ranking, sourcing and harvesting"
+    },
+    {
+      "name": "Procurewise VMS",
+      "sequence": 1,
+      "description": "VMS to procure & manage contingent staff, direct workers & SOW vendors"
+    },
+    {
+      "name": "Workforce Management",
+      "sequence": 2,
+      "description": "HRMS for customized onboarding & intelligent employee management"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:13:58.437Z",
+  "enhanced_description": "Ceipal is a scalable, AI-driven, total talent acquisition platform designed for staffing organizations, internal and corporate recruiting teams, managed service providers, and systems integrator organizations. It offers end-to-end visibility across all talent channels and sources, consolidating data into a single talent ecosystem. Leveraging advanced automation and artificial intelligence, Ceipal provides industry-leading ATS and CRM solutions that empower recruiters and staffing professionals to efficiently identify, assess, engage, hire, and onboard top talent. Key capabilities include a global Applicant Tracking System with matching, ranking, sourcing, and harvesting features, a Procurewise VMS for procuring and managing contingent staff, direct workers, and SOW vendors, and a Workforce Management module functioning as an HRMS for customized onboarding and intelligent employee management, along with support for pre-employment screening and testing.",
+  "target_industries": [
+    "Staffing Organizations",
+    "Internal and Corporate Recruiting",
+    "Managed Service Providers",
+    "Systems Integrator Organizations"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerating time-to-fill for open positions",
+    "Efficiently identifying and assessing talent",
+    "Engaging and hiring candidates",
+    "Streamlining employee onboarding processes",
+    "Automating recruiting workflows",
+    "Managing contingent workforce, direct workers, and SOW vendors via VMS",
+    "Conducting pre-employment screening and testing",
+    "Managing employee data post-hire (HRMS)"
+  ],
+  "competitive_advantages": [
+    "Scalable platform architecture",
+    "AI-driven capabilities for talent acquisition",
+    "Advanced automation in recruiting workflows",
+    "Comprehensive 'total talent acquisition platform' approach",
+    "Unified data across diverse talent channels and sources",
+    "Combines ATS, CRM, VMS, and HRMS functionalities in one suite",
+    "Global ATS with advanced matching, ranking, sourcing, and harvesting",
+    "Ability to manage both permanent and contingent workforce within the same platform",
+    "Focus on improving hiring speed and recruiting efficiency",
+    "Data-driven hiring insights"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Recruiting",
+    "Applicant Tracking",
+    "Candidate Relationship Management (CRM)",
+    "Onboarding",
+    "Workforce Management",
+    "Pre-employment Screening",
+    "Pre-employment Testing",
+    "Contingent Workforce Management",
+    "Vendor Management (for SOW vendors)"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Automation"
+  ],
+  "roi_benefits": [
+    "Faster time-to-fill for open positions",
+    "Increased recruiting efficiency",
+    "Improved quality of hires",
+    "Enhanced visibility across all talent channels",
+    "Centralized talent data for better decision-making",
+    "Streamlined hiring and onboarding processes",
+    "Optimized management of contingent and direct workers"
+  ],
+  "searchable_keywords": [
+    "Ceipal",
+    "talent acquisition platform",
+    "AI-driven",
+    "ATS",
+    "CRM",
+    "recruiting software",
+    "staffing software",
+    "applicant tracking system",
+    "onboarding software",
+    "recruiting automation",
+    "talent acquisition suites",
+    "pre-employment screening",
+    "pre-employment testing",
+    "artificial intelligence",
+    "quick hiring",
+    "hiring speed",
+    "recruiting efficiency",
+    "talent sourcing",
+    "hiring automation",
+    "data-driven hiring",
+    "workforce management",
+    "HRMS",
+    "VMS",
+    "vendor management system",
+    "contingent workforce",
+    "staffing organisations",
+    "corporate recruiting",
+    "managed service providers",
+    "systems integrator organizations",
+    "HR tech"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Staffing Professionals",
+    "Talent Acquisition Teams",
+    "HR Teams"
+  ],
+  "scalability_features": [
+    "Scalable platform"
+  ],
+  "_weight": 1
+}

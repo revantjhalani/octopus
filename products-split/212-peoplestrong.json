@@ -1,0 +1,217 @@
+{
+  "id": 212,
+  "name": "PeopleStrong",
+  "description": "Our comprehensive HR Tech 4.0 platform encompasses employee lifecycle from hire to exit, including\u202fHuman Capital Management, Payroll, Talent Acquisition & Management, and Collaboration.\u202f Simplifying work life for over 2 Million employees at 500+ large enterprises across AsiaPac.Our technology is a reflection of the growing needs of modern, talent-focused enterprises and their increasingly complex HR use cases; of people and business leaders who want technology to do more. We are on a mission to power the Talent Economy with HR Tech 4.0.",
+  "features": [
+    "Scalable and Agile Architecture",
+    "Enterprise-grade Security",
+    "AI and ML led Innovations"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Talent Management",
+    "Recruiting",
+    "Total Rewards",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software",
+    "Human Resource Information Systems (HRIS)",
+    "Human Capital Management",
+    "Human Resource Management Systems (HRMS)",
+    "HR analytics software",
+    "HR management suites",
+    "Career management software",
+    "Employee engagement software",
+    "Employee grievance",
+    "Experience Software",
+    "Employee scheduling software",
+    "Talent management software",
+    "Time tracking",
+    "Workforce management",
+    "Staffing & management software",
+    "Recruiting software",
+    "Pre-employment screening software",
+    "Background check software",
+    "Pre-employment testing software",
+    "Reference check software",
+    "Recruiting automation software",
+    "Talent acquisition suites",
+    "Applicant tracking system (ATS)",
+    "Onboarding software",
+    "Benefits administration software",
+    "Compensation management software",
+    "Employee recognition software",
+    "Performance management system",
+    "Benefits administration services",
+    "Performance management solutions",
+    "Performance Review software",
+    "Sales compensation software",
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Talent sourcing",
+    "Data-driven hiring",
+    "Hiring speed"
+  ],
+  "headquarter": "Gurgaon, Haryana",
+  "launch_date": "2006",
+  "order": 2,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Customers' Choice for\n Talent-Focused enterprises\n across APAC",
+  "ProductId": null,
+  "ShortDescription": "People strong power the momentum of modern talent-focused enterprises",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Talent Acquisition",
+      "sequence": 0,
+      "description": "AI-powered, intelligent, and scalable recruitment platform that helps you become a talent magnet."
+    },
+    {
+      "name": "Payroll and Workforce Management",
+      "sequence": 1,
+      "description": "Reliable, secure, and transparent payroll and workforce management technology for seamless, hassle-free operations."
+    },
+    {
+      "name": "Human Capital Management",
+      "sequence": 2,
+      "description": "An all-inclusive HR tech suite for leveraging data, processes, and insights to enhance employee experiences seamlessly."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-29T13:23:11.373Z",
+  "enhanced_description": "PeopleStrong offers a comprehensive HR Tech 4.0 platform designed for modern, talent-focused large enterprises across AsiaPac. It covers the entire employee lifecycle from hire to exit, including Human Capital Management, Payroll, Talent Acquisition & Management, and Collaboration. The platform is built on a scalable and agile architecture with enterprise-grade security, featuring AI and ML-led innovations, particularly in its AI-powered talent acquisition module. It aims to simplify work-life for over 2 million employees at 500+ large enterprises by providing an all-inclusive HR tech suite that leverages data, processes, and insights to enhance employee experiences and support complex HR use cases.",
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Managing the entire employee lifecycle from hire to exit",
+    "Streamlining and automating talent acquisition processes",
+    "Processing payroll reliably and transparently",
+    "Managing workforce operations efficiently",
+    "Enhancing overall employee experience through HR technology",
+    "Leveraging data and insights for HR decision-making",
+    "Automating core HR functions",
+    "Improving talent retention and engagement"
+  ],
+  "competitive_advantages": [
+    "Comprehensive HR Tech 4.0 platform covering the entire employee lifecycle",
+    "Scalable and agile architecture for growing enterprise needs",
+    "Enterprise-grade security ensuring data protection",
+    "AI and ML-led innovations, particularly in talent acquisition",
+    "Proven track record with over 2 Million employees and 500+ large enterprises in AsiaPac",
+    "Focus on enhancing employee experiences through data-driven insights",
+    "Reliable and transparent payroll and workforce management capabilities"
+  ],
+  "hr_functions_supported": [
+    "Human Capital Management (HCM)",
+    "Core HR Management (HRMS/HRIS)",
+    "Payroll Management",
+    "Talent Acquisition (Recruiting, ATS, Onboarding)",
+    "Talent Management (Performance, Career, Engagement)",
+    "Workforce Management (Scheduling, Time Tracking)",
+    "Benefits Administration",
+    "Compensation Management",
+    "Employee Recognition",
+    "HR Analytics",
+    "Employee Experience Management",
+    "Collaboration",
+    "Pre-employment Screening & Testing",
+    "Reference Checks",
+    "Employee Grievance Management"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Machine Learning (ML)"
+  ],
+  "roi_benefits": [
+    "Faster and more efficient hiring of top talent",
+    "Simplified work-life for employees and HR",
+    "Improved operational efficiency in HR and payroll",
+    "Enhanced employee experiences and engagement",
+    "Ability to attract and retain talent effectively",
+    "Better data-driven decision making in HR"
+  ],
+  "searchable_keywords": [
+    "HR Tech 4.0",
+    "Human Capital Management",
+    "HCM",
+    "Payroll",
+    "Talent Acquisition",
+    "Talent Management",
+    "Workforce Management",
+    "HRMS",
+    "HRIS",
+    "Core HR",
+    "Recruiting",
+    "ATS",
+    "Onboarding",
+    "Benefits Administration",
+    "Compensation Management",
+    "Performance Management",
+    "Employee Engagement",
+    "HR Analytics",
+    "AI-powered HR",
+    "ML-led HR",
+    "Enterprise HR",
+    "Scalable HR software",
+    "HR Security",
+    "Employee Lifecycle Management",
+    "Time Tracking",
+    "Employee Scheduling",
+    "Total Rewards",
+    "Background Check",
+    "Pre-employment Testing",
+    "Reference Check",
+    "Recruiting Automation",
+    "Talent Sourcing",
+    "Data-driven Hiring",
+    "Hiring Speed",
+    "Employee Experience",
+    "Collaboration",
+    "Large Enterprise HR",
+    "AsiaPac HR"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "Business Leaders",
+    "Employees (end-users)"
+  ],
+  "scalability_features": [
+    "Scalable and Agile Architecture",
+    "Designed to support over 2 million employees at large enterprises"
+  ],
+  "security_features": [
+    "Enterprise-grade Security",
+    "Secure payroll and workforce management technology"
+  ],
+  "_weight": 1
+}

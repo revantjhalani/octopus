@@ -1,0 +1,125 @@
+{
+  "id": 1319,
+  "name": "EPI-USE Labs",
+  "description": "EPI-USE Labs is a global company providing software solutions and managed services. We partner with our clients to optimize the performance, management and security of their SAP\u00ae and SAP SuccessFactors\u00ae systems. With our focus on creating innovative, well-engineered solutions, along with expertise developed over forty years, we help our clients to navigate small and large challenges successfully.",
+  "features": [
+    "MANAGE YOUR SAP ENVIRONMENT",
+    "OPTIMIZE YOUR SAP LANDSCAPE",
+    "MAXIMIZE YOUR SAP HCM SYSTEMS",
+    "SIMPLIFY YOUR SAP SECURITY & COMPLIANCE"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Capital Management"
+  ],
+  "tags": [],
+  "headquarter": "United Kingdom",
+  "launch_date": "1983",
+  "order": 21138,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Value through innovation\n\n",
+  "ProductId": null,
+  "ShortDescription": "We'll transform your SAP landscape and solve your business challenges",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:49.377Z",
+  "enhanced_description": "EPI-USE Labs is a global provider of software solutions and managed services, dedicated to optimizing the performance, management, and security of SAP\u00ae and SAP SuccessFactors\u00ae systems. Leveraging over forty years of expertise since its launch in 1983, the company delivers innovative, well-engineered solutions to transform SAP landscapes and successfully address various business challenges, creating value through innovation.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large"
+  ],
+  "key_use_cases": [
+    "Optimizing performance of SAP and SAP SuccessFactors systems",
+    "Managing SAP environments and landscapes",
+    "Maximizing SAP HCM systems functionality",
+    "Simplifying SAP security and compliance",
+    "Transforming SAP landscapes"
+  ],
+  "competitive_advantages": [
+    "Over 40 years of expertise (since 1983)",
+    "Focus on innovative and well-engineered solutions",
+    "Global company presence",
+    "Combined offering of software solutions and managed services",
+    "Specialization in SAP and SAP SuccessFactors systems"
+  ],
+  "hr_functions_supported": [
+    "Human Capital Management (HCM)"
+  ],
+  "technology_stack": [
+    "SAP",
+    "SAP SuccessFactors"
+  ],
+  "integration_capabilities": [
+    "Deep integration with SAP systems",
+    "Deep integration with SAP SuccessFactors systems"
+  ],
+  "roi_benefits": [
+    "Optimized performance of SAP and SAP SuccessFactors systems",
+    "Improved management of SAP landscapes",
+    "Enhanced security for SAP systems",
+    "Streamlined SAP compliance processes",
+    "Resolution of business challenges",
+    "Overall value creation through innovation"
+  ],
+  "searchable_keywords": [
+    "EPI-USE Labs",
+    "SAP",
+    "SAP SuccessFactors",
+    "Software solutions",
+    "Managed services",
+    "SAP environment management",
+    "SAP landscape optimization",
+    "SAP HCM systems",
+    "SAP security",
+    "SAP compliance",
+    "Human Capital Management",
+    "HRMS",
+    "HCM",
+    "SAP landscape transformation",
+    "Business challenges",
+    "Global company",
+    "HR technology"
+  ],
+  "primary_users": [
+    "IT professionals",
+    "SAP administrators",
+    "HR IT teams",
+    "HR professionals (specifically those using SAP HCM)"
+  ],
+  "compliance_features": [
+    "SAP compliance simplification"
+  ],
+  "security_features": [
+    "SAP security management",
+    "SAP SuccessFactors security"
+  ],
+  "_weight": 1
+}

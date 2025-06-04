@@ -1,0 +1,140 @@
+{
+  "id": 869,
+  "name": "Meta",
+  "description": "Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. We want to give people the power to build community and bring the world closer together. To do that, we ask that you help create a safe and respectful online space.",
+  "features": [
+    "People deserve to be heard and to have a voice \u2014 even when that means defending the right of people we disagree with",
+    "Our services help people connect, and when they\u2019re at their best, they bring people closer together.",
+    "We work to make technology accessible to everyone, and our business model is ads so our services can be free."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Internet of things",
+    "Employee engagement software",
+    "Experience Software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee satisfaction",
+    "Employee development"
+  ],
+  "headquarter": "Menlo Park, CA",
+  "launch_date": "2004",
+  "order": 20822,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Meta builds technologies that help people connect, find communities and grow businesses.",
+  "ProductId": null,
+  "ShortDescription": "Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Build Connection and Community",
+      "sequence": 0,
+      "description": "Our services help people connect, and when they\u2019re at their best, they bring people closer together."
+    },
+    {
+      "name": "Serve Everyone",
+      "sequence": 1,
+      "description": "We work to make technology accessible to everyone, and our business model is ads so our services can be free."
+    },
+    {
+      "name": "Promote Economic Opportunity ",
+      "sequence": 2,
+      "description": "Our tools level the playing field so businesses grow, create jobs and strengthen the economy."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:36:01.414Z",
+  "enhanced_description": "Meta, a global technology company founded in 2004, develops solutions that foster connection and community. As an HR technology provider categorized under Talent Management and Employee Engagement Software, Meta leverages its expertise in technologies such as Artificial Intelligence (AI), Internet of Things (IoT), and immersive experiences like Augmented Reality (AR) and Virtual Reality (VR). Its services are designed to help organizations improve employee happiness and engagement, support employee satisfaction, and facilitate employee development. Meta's technology is accessible to everyone, with a business model based on ads, and is suitable for small, large, and global enterprises.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Improving employee happiness",
+    "Enhancing employee engagement",
+    "Facilitating employee connection and community building",
+    "Supporting employee satisfaction",
+    "Aiding employee development"
+  ],
+  "competitive_advantages": [
+    "Accessibility through a free, ad-supported business model",
+    "Leveraging immersive experiences (AR/VR) for social technology",
+    "Proven expertise in building large-scale platforms for connection and community"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Employee Engagement",
+    "Employee Satisfaction",
+    "Employee Development"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Internet of Things (IoT)",
+    "Augmented Reality (AR)",
+    "Virtual Reality (VR)"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness",
+    "Increased employee engagement",
+    "Enhanced internal connection and community within the workforce"
+  ],
+  "searchable_keywords": [
+    "Meta",
+    "HR technology",
+    "Talent Management",
+    "Employee Engagement",
+    "Employee Happiness",
+    "Employee Satisfaction",
+    "Employee Development",
+    "Employee Connection",
+    "Community Building",
+    "Artificial Intelligence",
+    "AI",
+    "Internet of Things",
+    "IoT",
+    "Augmented Reality",
+    "AR",
+    "Virtual Reality",
+    "VR",
+    "Experience Software",
+    "Social Technology",
+    "Menlo Park",
+    "2004"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Professionals"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,147 @@
+{
+  "id": 1256,
+  "name": "Edapp",
+  "description": "EdApp is a mobile learning management system that lets you create and deliver microlearning courses with AI Create, customize, and brand them.",
+  "features": [
+    "Create content in minutes, not months. Build courses in a click of a button with AI Create. Choose from 80+ templates to enhance your learning with video, quizzes, games, assessments, and more. So you can deliver top-notch training in real-time.",
+    "Meet your ticket to higher completion rates. Deliver highly-targeted microlearning courses to engage your team and help them hit milestones faster. All in a format that works for them \u2013 no matter the device.",
+    "Deliver and optimize content in real-time. Get full control over who can see, edit, and publish content. Enhance it with engagement features and integrations. And watch completion rates soar with analytics. All in one place."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems (LXPs)"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee happiness",
+    "Employee satisfaction",
+    "Employee development"
+  ],
+  "headquarter": "New York",
+  "launch_date": "2015",
+  "order": 21084,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Simpler & smarter learning. EdApp is quickly becoming the worlds most loved mobile training platform. ",
+  "ProductId": null,
+  "ShortDescription": "Edapp On a mission to democratise learning",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:13:21.820Z",
+  "enhanced_description": "EdApp is a mobile-first Learning Management System (LMS) and Learning Experience Platform (LXP) designed for creating and delivering highly engaging microlearning courses. It leverages AI Create for rapid content development, enabling users to build customized and branded training materials using a library of over 80 templates, incorporating diverse multimedia elements such as video, quizzes, games, and assessments. The platform facilitates real-time content delivery and optimization, focusing on improving completion rates through targeted, device-agnostic microlearning. It provides robust content access controls and comprehensive analytics to track learning engagement and effectiveness.",
+  "key_use_cases": [
+    "Rapid microlearning course creation and delivery",
+    "Corporate training and employee development",
+    "Improving employee engagement through learning",
+    "Tracking learning completion and engagement via analytics",
+    "Delivering top-notch training in real-time"
+  ],
+  "competitive_advantages": [
+    "AI-powered content creation for rapid course development (minutes, not months)",
+    "Mobile-first design for higher learning completion rates and device agnosticism",
+    "Focus on microlearning for enhanced engagement and retention",
+    "Extensive library of over 80 templates for diverse content creation",
+    "Real-time content delivery and optimization capabilities",
+    "Comprehensive analytics to monitor and improve training effectiveness"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Employee Training",
+    "Employee Engagement",
+    "Employee Development",
+    "Talent Development"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI Create)"
+  ],
+  "integration_capabilities": [
+    "General integrations to enhance engagement features"
+  ],
+  "roi_benefits": [
+    "Significant time savings in content creation (minutes vs. months)",
+    "Higher learning completion rates leading to improved skill acquisition",
+    "Faster employee skill development and achievement of milestones",
+    "Measurable improvement in training effectiveness through analytics",
+    "Increased employee happiness and engagement"
+  ],
+  "searchable_keywords": [
+    "Edapp",
+    "mobile learning management system",
+    "microlearning",
+    "AI Create",
+    "learning courses",
+    "customize learning",
+    "brand learning",
+    "content creation",
+    "AI",
+    "templates",
+    "video learning",
+    "quizzes",
+    "games",
+    "assessments",
+    "training",
+    "real-time training",
+    "completion rates",
+    "employee engagement",
+    "team training",
+    "milestones",
+    "device agnostic learning",
+    "content optimization",
+    "analytics",
+    "integrations",
+    "Learning and Development",
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems",
+    "LXPs",
+    "Employee happiness",
+    "Employee satisfaction",
+    "Employee development",
+    "mobile training platform",
+    "simpler learning",
+    "smarter learning",
+    "democratise learning"
+  ],
+  "primary_users": [
+    "HR Professionals (specifically L&D teams)",
+    "Trainers",
+    "Content Creators",
+    "Employees (learners)"
+  ],
+  "deployment_options": [
+    "Mobile (via mobile learning management system)",
+    "Web (device-agnostic access)"
+  ],
+  "_weight": 1
+}

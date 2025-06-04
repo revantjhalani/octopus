@@ -1,0 +1,145 @@
+{
+  "id": 1028,
+  "name": "PT Astra International Tbk",
+  "description": "Astra currently engages in seven business lines: Automotive, Financial Services, Heavy Equipment, Mining and Energy, Agribusiness, Infrastructure & Logistics, Information Technology, and Property",
+  "features": [
+    "Offer services in various fields",
+    "270 subsidiaries",
+    "Strategic alliances"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Workforce management",
+    "Time tracking"
+  ],
+  "tags": [],
+  "headquarter": "Jakarta",
+  "launch_date": "1957",
+  "order": 20971,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Automation Machinery Manufacturin",
+  "ProductId": null,
+  "ShortDescription": "Astra was established in 1957 as a trading company.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Leading Market Position",
+      "sequence": 0,
+      "description": "Astra International is positioned as the largest independent automotive group in Southeast Asia, highlighting their significant presence in the Indonesian automotive industry."
+    },
+    {
+      "name": "Broad Range of Business Sectors:",
+      "sequence": 1,
+      "description": "Astra International is not limited to just automotive. They operate in various sectors including agribusiness, information technology, infrastructure, and financial services. This diversification signifies a well-established conglomerate structure."
+    },
+    {
+      "name": "Investment in Future Generations",
+      "sequence": 2,
+      "description": "Astra's initiatives like photo contests and national conferences might indicate a focus on youth development and fostering the next generation of talent."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:39:07.409Z",
+  "enhanced_description": "PT Astra International Tbk, established in 1957 as a trading company, has evolved into a diversified conglomerate. It is positioned as the largest independent automotive group in Southeast Asia, with a significant presence in the Indonesian automotive industry. Astra currently engages in seven primary business lines: Automotive, Financial Services, Heavy Equipment, Mining and Energy, Agribusiness, Infrastructure & Logistics, Information Technology, and Property. The company boasts 270 subsidiaries and actively forms strategic alliances. Through various initiatives, Astra demonstrates an investment in future generations, focusing on youth development and fostering new talent.",
+  "target_industries": [
+    "Automotive",
+    "Financial Services",
+    "Heavy Equipment",
+    "Mining",
+    "Energy",
+    "Agribusiness",
+    "Infrastructure",
+    "Logistics",
+    "Information Technology",
+    "Property"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Improving employee happiness and engagement",
+    "Talent management initiatives",
+    "Workforce planning and optimization",
+    "Employee time tracking",
+    "Youth development and talent fostering"
+  ],
+  "competitive_advantages": [
+    "Leading market position as the largest independent automotive group in Southeast Asia",
+    "Extensive diversification across a broad range of business sectors, signifying a well-established conglomerate structure",
+    "Large organizational scale with 270 subsidiaries",
+    "Ability to leverage strategic alliances for business growth and reach"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Workforce Management",
+    "Time Tracking",
+    "Employee Engagement",
+    "Talent Development"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness and Engagement"
+  ],
+  "searchable_keywords": [
+    "PT Astra International Tbk",
+    "Astra",
+    "Automotive",
+    "Financial Services",
+    "Heavy Equipment",
+    "Mining",
+    "Energy",
+    "Agribusiness",
+    "Infrastructure",
+    "Logistics",
+    "Information Technology",
+    "Property",
+    "Talent Management",
+    "Workforce Management",
+    "Time Tracking",
+    "Employee Engagement",
+    "HR",
+    "Southeast Asia",
+    "Indonesia",
+    "Conglomerate",
+    "Strategic Alliances",
+    "Employee Happiness"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Managers",
+    "Employees"
+  ],
+  "scalability_features": [
+    "Operates as a Global Enterprise",
+    "Functions as a Large Enterprise",
+    "Manages 270 subsidiaries, demonstrating large-scale operational capability"
+  ],
+  "_weight": 1
+}

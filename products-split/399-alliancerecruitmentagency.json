@@ -1,0 +1,168 @@
+{
+  "id": 399,
+  "name": "AllianceRecruitmentAgency",
+  "description": "We operate through a network of our worldwide teams, with specialists in recruitment for different industries. Our recruitment agency is everywhere you need us, with teams in four continents. When you partner with us for your manpower requirements, you benefit from establishing best practices in staffing and managerial recruitment leading to enhanced outcomes such as access to rich talent pools, closure of positions within short time frames, seamless recruitment process management, and optimized recruitment cost savings.",
+  "features": [
+    "Utilize the extensive network of the finest 3.5% talent",
+    "Achieve hiring speeds multiplied by 10 and enjoy cost benefits of up to 40%",
+    "Achieving a remarkable 70% success rate from initial candidate interview to final selection"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Talent Management",
+    "Learning and Development",
+    "Recruiting",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration services",
+    "Employee engagement software",
+    "Onboarding software",
+    "Training eLearning software",
+    "Staffing services providers",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "Ahmedabad, Gujarat",
+  "launch_date": "2010",
+  "order": 20360,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Where Talent Meets Opportunity: Unleashing Potential, Powering Success",
+  "ProductId": null,
+  "ShortDescription": "One of the leading global recruitment, staffing and executive search companies",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Project-Based Hiring",
+      "sequence": 0,
+      "description": "Alliance Recruitment Agency offers specialized Project-Based Hiring services to help you find the right talent for your short-term or long-term projects."
+    },
+    {
+      "name": "RPO Services",
+      "sequence": 1,
+      "description": "Our RPO (Recruitment Process Outsourcing) services are designed to streamline your recruitment process."
+    },
+    {
+      "name": "Executive Search",
+      "sequence": 2,
+      "description": " At Alliance Recruitment Agency, our Executive Search services focus on finding top-tier talent to lead your organization."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:26:15.118Z",
+  "enhanced_description": "AllianceRecruitmentAgency is a leading global recruitment, staffing, and executive search company with worldwide teams operating in four continents. They specialize in providing manpower solutions for various industries, partnering with clients from small to global enterprises. The agency offers comprehensive recruitment services, including Project-Based Hiring for short-term or long-term needs, RPO (Recruitment Process Outsourcing) services designed to streamline recruitment processes, and Executive Search focused on finding top-tier leadership talent. Clients benefit from establishing best practices in staffing and managerial recruitment, leading to enhanced outcomes such as access to rich talent pools, closure of positions within short time frames, seamless recruitment process management, and optimized recruitment cost savings. With a focus on efficiency and quality, AllianceRecruitmentAgency utilizes an extensive network to source the finest 3.5% talent, aiming to achieve hiring speeds multiplied by 10, cost benefits of up to 40%, and a remarkable 70% success rate from initial candidate interview to final selection. Their core objectives are to help organizations hire top talent faster and more efficiently, boost hiring manager confidence and productivity, and reduce the overall cost of hiring qualified employees.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Hiring for short-term projects",
+    "Hiring for long-term projects",
+    "Streamlining recruitment processes through outsourcing (RPO)",
+    "Finding top-tier executive talent",
+    "Accelerating time-to-hire for various positions",
+    "Optimizing recruitment costs",
+    "Accessing specialized talent pools"
+  ],
+  "competitive_advantages": [
+    "Extensive network to access the finest 3.5% talent",
+    "Ability to multiply hiring speeds by 10",
+    "Cost benefits of up to 40%",
+    "Remarkable 70% success rate from initial candidate interview to final selection",
+    "Worldwide teams with specialists in recruitment for different industries",
+    "Presence in four continents",
+    "Expertise in establishing best practices in staffing and managerial recruitment",
+    "Seamless recruitment process management",
+    "Access to rich talent pools",
+    "Optimized recruitment cost savings"
+  ],
+  "implementation_scenarios": [
+    "Recruitment Process Outsourcing (RPO)",
+    "Project-Based Hiring",
+    "Executive Search Engagements"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Staffing",
+    "Talent Management"
+  ],
+  "roi_benefits": [
+    "Access to rich talent pools",
+    "Closure of positions within short time frames",
+    "Seamless recruitment process management",
+    "Optimized recruitment cost savings",
+    "Hiring speeds multiplied by 10",
+    "Cost benefits of up to 40%",
+    "70% success rate from initial candidate interview to final selection",
+    "Faster and more efficient talent acquisition",
+    "Reduced cost of hiring qualified employees",
+    "Boosted hiring manager confidence and productivity"
+  ],
+  "searchable_keywords": [
+    "Recruitment agency",
+    "Staffing services",
+    "Executive search",
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Manpower requirements",
+    "Global recruitment",
+    "Recruitment process management",
+    "Cost savings recruitment",
+    "Project-based hiring",
+    "RPO services",
+    "Talent pools",
+    "Top talent",
+    "Hiring speed",
+    "Candidate selection"
+  ],
+  "primary_users": [
+    "HR Departments",
+    "Talent Acquisition Teams",
+    "Hiring Managers",
+    "Companies seeking staffing solutions"
+  ],
+  "scalability_features": [
+    "Worldwide teams and network",
+    "Presence in four continents",
+    "Ability to serve Global, Large, and Small Enterprises"
+  ],
+  "_weight": 1
+}

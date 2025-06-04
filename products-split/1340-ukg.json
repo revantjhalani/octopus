@@ -1,0 +1,233 @@
+{
+  "id": 1340,
+  "name": "UKG",
+  "description": "UKG is a company that provides HR service delivery software, HCM and workforce management solutions. They help organizations of all sizes to find better solutions that inspire their people and elevate the workplace experience. UKG offers time and attendance solutions, which include time, attendance, and scheduling. They also provide HR service delivery software and HCM solutions that inspire your people and elevate the work experience. ",
+  "features": [
+    "Human Resources",
+    "Talent Management",
+    "Time & Attendance",
+    "Payroll",
+    "HR Service Delivery",
+    "Scheduling",
+    "Reporting and Analytics"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "HR analytics software",
+    "HR management suites",
+    "Career management software",
+    "Employee engagement software",
+    "Employee grievance",
+    "Experience Software",
+    "Employee scheduling software",
+    "Talent management software",
+    "Time tracking",
+    "Workforce management",
+    "Benefits administration software",
+    "Compensation management software",
+    "Employee recognition software",
+    "Performance management system",
+    "Benefits administration services",
+    "Performance management solutions",
+    "Performance Review software",
+    "Sales compensation software",
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee benefits",
+    "Employee recognition",
+    "Employee development",
+    "Employee empowerment",
+    "Employee Engagement strategies"
+  ],
+  "headquarter": "Weston, Florida & Lowell, Massachusetts",
+  "launch_date": "2020",
+  "order": 34,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Your better tomorrow starts today",
+  "ProductId": null,
+  "ShortDescription": "Our purpose is people",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [
+    "Slack",
+    "Google",
+    "Microsoft",
+    "Deel",
+    "15Five",
+    "ZipRecruiter",
+    "Hireology",
+    "PerformYard",
+    "Xoxoday Empuls"
+  ],
+  "Highlights": [
+    {
+      "name": "UKG Pro - Providing a culture-driven HCM solution that inspires your people",
+      "sequence": 0,
+      "description": "UKG Pro\u00ae is a powerful HCM suite for midsized to large organizations with over 500 employees looking to drive people-focused business results."
+    },
+    {
+      "name": "UKG Ready - Purposeful HR that guides and empowers leaner teams",
+      "sequence": 1,
+      "description": "UKG Ready\u00ae is an all-in-one HR and payroll software for small to midsized businesses with less than 500 employees looking to increase efficiency and simplify compliance."
+    },
+    {
+      "name": "UKG Bryte - Make your workplace shine brighter with UKG AI",
+      "sequence": 2,
+      "description": "Building on our history with AI in the workplace, UKG Bryte shines a light on your data to illuminate the best path forward on your journey to creating a great workplace. It\u2019s AI at work \u2014 and in service of all people."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-11T13:11:44.631Z",
+  "enhanced_description": "UKG provides comprehensive HR service delivery, HCM, and workforce management solutions designed to inspire people and elevate the workplace experience for organizations across various sizes. Their offerings include core HR, payroll, time and attendance, scheduling, and talent management capabilities. UKG Pro is a powerful, culture-driven HCM suite specifically tailored for midsized to large organizations with over 500 employees, focusing on driving people-focused business results. UKG Ready is an all-in-one HR and payroll software designed for small to midsized businesses with less than 500 employees, aiming to increase efficiency and simplify compliance. Additionally, UKG leverages artificial intelligence through UKG Bryte to provide data insights and illuminate optimal paths for creating a great workplace.",
+  "ideal_company_sizes": [
+    "Small (less than 500 employees)",
+    "Midsized (less than 500 employees)",
+    "Midsized (over 500 employees)",
+    "Large (over 500 employees)"
+  ],
+  "key_use_cases": [
+    "Streamlining Time & Attendance and Scheduling",
+    "Managing Payroll and Benefits Administration",
+    "Delivering comprehensive Human Capital Management (HCM)",
+    "Supporting Talent Management (e.g., performance, career, recognition)",
+    "Enhancing Employee Engagement and Experience",
+    "Facilitating HR Service Delivery",
+    "Providing HR Reporting and Analytics",
+    "Simplifying HR and Payroll Compliance",
+    "Driving people-focused business results",
+    "Gaining AI-powered insights from HR data"
+  ],
+  "competitive_advantages": [
+    "Offers tailored HCM solutions for diverse company sizes (UKG Pro for large, UKG Ready for small/mid)",
+    "Focus on culture-driven HCM and elevating workplace experience",
+    "Provides an all-in-one HR and payroll software for small to midsized businesses, emphasizing efficiency and compliance",
+    "Utilizes AI (UKG Bryte) for data illumination and strategic guidance",
+    "Strong emphasis on employee inspiration and engagement"
+  ],
+  "hr_functions_supported": [
+    "Human Resources Management",
+    "Talent Management",
+    "Time & Attendance",
+    "Payroll",
+    "HR Service Delivery",
+    "Scheduling",
+    "Reporting and Analytics",
+    "HR Analytics",
+    "Career Management",
+    "Employee Engagement",
+    "Employee Grievance Management",
+    "Employee Experience Management",
+    "Time Tracking",
+    "Workforce Management",
+    "Benefits Administration",
+    "Compensation Management",
+    "Employee Recognition",
+    "Performance Management",
+    "Employee Development"
+  ],
+  "technology_stack": [
+    "AI (Artificial Intelligence)"
+  ],
+  "integration_capabilities": [
+    "Slack",
+    "Google",
+    "Microsoft",
+    "Deel",
+    "15Five",
+    "ZipRecruiter",
+    "Hireology",
+    "PerformYard",
+    "Xoxoday Empuls"
+  ],
+  "roi_benefits": [
+    "Elevated workplace experience",
+    "Improved employee happiness and engagement",
+    "Increased operational efficiency in HR and payroll",
+    "Simplified HR and payroll compliance",
+    "Data-driven insights for strategic HR decisions",
+    "Ability to drive people-focused business results"
+  ],
+  "searchable_keywords": [
+    "UKG",
+    "HR service delivery software",
+    "HCM",
+    "Workforce management",
+    "Time and attendance",
+    "Scheduling",
+    "Human Resources",
+    "Talent Management",
+    "Payroll",
+    "HR Service Delivery",
+    "Reporting and Analytics",
+    "Employee Happiness",
+    "Employee Engagement",
+    "Total Rewards",
+    "HR analytics software",
+    "HR management suites",
+    "Career management software",
+    "Employee grievance",
+    "Experience Software",
+    "Employee scheduling software",
+    "Time tracking",
+    "Benefits administration software",
+    "Compensation management software",
+    "Employee recognition software",
+    "Performance management system",
+    "Payroll services providers",
+    "Employee benefits",
+    "Employee development",
+    "Employee empowerment",
+    "AI in HR",
+    "UKG Pro",
+    "UKG Ready",
+    "UKG Bryte",
+    "Workplace experience",
+    "Culture-driven HCM",
+    "All-in-one HR payroll"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Payroll Administrators",
+    "Timekeepers",
+    "Schedulers",
+    "Managers",
+    "Employees (for self-service and experience)",
+    "Business Leaders",
+    "Executives"
+  ],
+  "compliance_features": [
+    "Simplified HR and payroll compliance"
+  ],
+  "scalability_features": [
+    "Designed to serve organizations from small businesses to large enterprises through distinct product offerings (UKG Ready for small to midsized, UKG Pro for midsized to large)"
+  ],
+  "_weight": 1
+}

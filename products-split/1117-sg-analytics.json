@@ -1,0 +1,145 @@
+{
+  "id": 1117,
+  "name": "SG Analytics",
+  "description": "A Global Insights and Analytics company that focuses on ESG, Data Analytics, and Investment & Market Research services. With a team of over 1200, the company has a presence in New York, London, Zurich, Seattle, Austin, San Francisco, Toronto, and delivery centres in Pune, Bengaluru, and Hyderabad. The data analytics ecosystem at SG Analytics\u2019 is built upon four strong pillars of data and analytics strategy and insights.",
+  "features": [
+    "Strategic consulting",
+    "Robotic process automation",
+    "Execution capabilities"
+  ],
+  "founders": [
+    "Ahmed Hakki"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Internet of things"
+  ],
+  "tags": [
+    "Employee empowerment",
+    "Employee engagement surveys"
+  ],
+  "headquarter": "New York, New York",
+  "launch_date": "2007",
+  "order": 21060,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Harnessing Data with Purpose",
+  "ProductId": null,
+  "ShortDescription": "A Global Insights and Analytics company that focuses on ESG, Data Analytics, and Investment & Market Research services.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [
+    "HCM TEST2",
+    "Test HCM B"
+  ],
+  "Highlights": [
+    {
+      "name": "Collaborate",
+      "sequence": 0,
+      "description": "We're the pioneers in bringing together research, technology & analytics, using our domain expertise to create valuable and reliable insights."
+    },
+    {
+      "name": "Invest In The Future",
+      "sequence": 1,
+      "description": "We use information as an artistic tool to capture trends and insights to find differentiated solutions."
+    },
+    {
+      "name": "We Believe Life's Possible",
+      "sequence": 2,
+      "description": "We believe that the best things in life are achieved easily with ease and grace"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:40:53.237Z",
+  "enhanced_description": "SG Analytics is a global insights and analytics company specializing in ESG, Data Analytics, and Investment & Market Research services. With a team of over 1200 professionals and a global presence including offices in New York, London, Zurich, Seattle, Austin, San Francisco, Toronto, and delivery centers in Pune, Bengaluru, and Hyderabad, the company leverages its expertise in research, technology, and analytics to provide valuable and reliable insights. Their data analytics ecosystem is founded on four pillars of data and analytics strategy and insights, aiming to harness data with purpose and find differentiated solutions. SG Analytics also focuses on improving employee happiness and engagement through its offerings.",
+  "key_use_cases": [
+    "Enhancing employee happiness and engagement",
+    "Conducting employee engagement surveys",
+    "Strategic consulting for data and analytics",
+    "Implementing robotic process automation (RPA) for various business processes",
+    "Providing ESG insights and analytics",
+    "Supporting investment research",
+    "Facilitating market research"
+  ],
+  "competitive_advantages": [
+    "Global reach and extensive team (over 1200 professionals across 10+ locations)",
+    "Pioneering integration of research, technology, and analytics",
+    "Deep domain expertise for valuable and reliable insights",
+    "Focus on delivering differentiated solutions by capturing trends and insights"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Employee Experience",
+    "HR Analytics"
+  ],
+  "technology_stack": [
+    "Robotic Process Automation (RPA)",
+    "Artificial Intelligence (AI)",
+    "Internet of Things (IoT)"
+  ],
+  "integration_capabilities": [
+    "HCM Systems (e.g., HCM TEST2, Test HCM B)"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Enhanced data-driven decision-making",
+    "Increased operational efficiency through automation",
+    "Access to valuable and reliable insights for strategic advantage"
+  ],
+  "searchable_keywords": [
+    "SG Analytics",
+    "Analytics",
+    "Insights",
+    "ESG",
+    "Data Analytics",
+    "Investment Research",
+    "Market Research",
+    "Strategic Consulting",
+    "Robotic Process Automation",
+    "RPA",
+    "Execution Capabilities",
+    "Artificial Intelligence",
+    "AI",
+    "Internet of Things",
+    "IoT",
+    "Employee Empowerment",
+    "Employee Engagement Surveys",
+    "Employee Engagement",
+    "Employee Happiness",
+    "HR Technology",
+    "HR Analytics",
+    "Global Insights"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Business Leaders",
+    "Executives",
+    "Data Analysts",
+    "Researchers"
+  ],
+  "_weight": 1
+}

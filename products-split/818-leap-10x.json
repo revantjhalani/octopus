@@ -1,0 +1,182 @@
+{
+  "id": 818,
+  "name": "Leap 10X",
+  "description": "Leap10X learning experiences that look and feel like the social media apps we use everyday.Learn in the flow-of-work on the channels we use everyday, like SMS, WhatsApp, Email or Teams.",
+  "features": [
+    "POSH training",
+    "Mental Health education",
+    "Fleet safety training"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Training & development companies",
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Training effectiveness",
+    "Learning optimisation",
+    "Employee engagement",
+    "Employee satisfaction"
+  ],
+  "headquarter": "Delhi",
+  "launch_date": "2023",
+  "order": 20771,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Engagement for today's team",
+  "ProductId": null,
+  "ShortDescription": "Leap10x is an AI-enabled Engagement & Learning platform for Today's Team. B2B SaaS platform for enterprises.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Safety and Compliance",
+      "sequence": 0,
+      "description": "Create a safe, compliant workplace with bite-sized safety training that boosts engagement and drives behavior change. \u200d"
+    },
+    {
+      "name": "SOP training",
+      "sequence": 1,
+      "description": "Easily train your team on new Standard Operating Procedures (SOPs) and assess their knowledge with a click of a button."
+    },
+    {
+      "name": "Tool & equipment training",
+      "sequence": 2,
+      "description": "Deliver effective tool training to your employees, ensuring they are proficient with the latest equipment and technology."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:03.879Z",
+  "enhanced_description": "Leap 10X is an AI-enabled B2B SaaS Engagement & Learning platform designed for today's teams, applicable across small, large, and global enterprises. It delivers learning experiences that emulate the familiarity of social media apps, enabling 'in-the-flow-of-work' learning through everyday channels like SMS, WhatsApp, Email, or Teams.",
+  "target_industries": [
+    "Logistics & Transportation",
+    "Manufacturing",
+    "Operations"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerate Skill Development",
+    "Improve Learning Efficiency",
+    "Enhance Employee Happiness",
+    "Boost Employee Engagement",
+    "POSH Training",
+    "Mental Health Education",
+    "Fleet Safety Training",
+    "Workplace Safety and Compliance Training",
+    "Standard Operating Procedure (SOP) Training",
+    "Tool & Equipment Training"
+  ],
+  "competitive_advantages": [
+    "Social media-like learning experience",
+    "In-the-flow-of-work learning delivery",
+    "Multi-channel accessibility (SMS, WhatsApp, Email, Teams)",
+    "AI-enabled platform for engagement and learning",
+    "Bite-sized training for increased engagement and behavior change"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Employee Engagement",
+    "Compliance",
+    "Employee Well-being"
+  ],
+  "technology_stack": [
+    "AI",
+    "SaaS"
+  ],
+  "integration_capabilities": [
+    "SMS",
+    "WhatsApp",
+    "Email",
+    "Microsoft Teams"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Enhanced employee happiness",
+    "Increased employee engagement",
+    "Improved training effectiveness",
+    "Optimized learning processes",
+    "Improved employee satisfaction",
+    "Enhanced compliance posture",
+    "Drives positive behavior change"
+  ],
+  "searchable_keywords": [
+    "Leap 10X",
+    "Leap10x",
+    "learning experiences",
+    "social media apps",
+    "flow-of-work",
+    "SMS",
+    "WhatsApp",
+    "Email",
+    "Teams",
+    "POSH training",
+    "Mental Health education",
+    "Fleet safety training",
+    "Learning and Development",
+    "Total Rewards",
+    "Training & development companies",
+    "Payroll services providers",
+    "Training effectiveness",
+    "Learning optimisation",
+    "Employee engagement",
+    "Employee satisfaction",
+    "Engagement",
+    "AI-enabled",
+    "Learning platform",
+    "B2B SaaS",
+    "enterprises",
+    "Safety and Compliance",
+    "SOP training",
+    "Tool & equipment training",
+    "bite-sized training",
+    "behavior change"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Professionals",
+    "Managers"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "SaaS"
+  ],
+  "compliance_features": [
+    "POSH training",
+    "Workplace Safety and Compliance training",
+    "Fleet safety training"
+  ],
+  "_weight": 1
+}

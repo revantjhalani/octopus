@@ -1,0 +1,142 @@
+{
+  "id": 316,
+  "name": "Thomas Assessments",
+  "description": "Thomas Assessments believe that work should feel meaningful. For that to happen, effective interactions are essential, so we're transforming how people work together by equipping them with greater insights on an intuitive platform that's getting smarter every day. Thomas dedicated to helping everyone become their very best selves at work. Thomas transforms the performance of organisations around the world by equipping individuals with a greater understanding of themselves. Its team interaction optimisation (TIO) platform, powered by proven assessments and data science, improves recruitment and development decisions and optimises everyday interactions. Founded in 1981, Thomas empowers millions of people across 140 countries every year to feel more fulfilled, build stronger connections and prosper in role.",
+  "features": [
+    "Recruitment assessment Tests",
+    "360 Degree Feedback system",
+    "Registered with the British Psychological Society"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Pre-employment screening software",
+    "Pre-employment testing software"
+  ],
+  "tags": [
+    "Data-driven hiring",
+    "Candidate screening"
+  ],
+  "headquarter": "Marlow, Bucks",
+  "launch_date": "1981",
+  "order": 20278,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Recruit. Retain. Relax.",
+  "ProductId": null,
+  "ShortDescription": "The world is changing, and traditional recruitment and development methods are not working. The Thomas platform equips you with the tools you need to recruit the best talent, and by using unique personal insights you\u2019ll develop your people to create high performing teams. It\u2019s time to embrace the future of recruitment and development.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Engage",
+      "sequence": 0,
+      "description": "By leveraging an employee psychometric test, levels of engagement can be established within your organization. Easily identify actions to enhance employee wellbeing, motivation and productivity."
+    },
+    {
+      "name": "360 Degree Feedback",
+      "sequence": 1,
+      "description": "The Thomas 360 quickly and easily enables people to gather performance feedback from their managers, colleagues, team members and customers and then compare this feedback with their own perception of their performance."
+    },
+    {
+      "name": "Workplace Personality",
+      "sequence": 2,
+      "description": "The Behavior assessment (PPA) provides a rapid and deep insights into a person's behavioral preferences and communication style."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:06.394Z",
+  "enhanced_description": "Thomas Assessments provides an intuitive, data science-powered platform designed to transform organizational performance by optimizing team interactions and improving recruitment and development decisions. Founded in 1981, the company empowers millions of people across 140 countries annually to enhance self-understanding, build stronger connections, and achieve professional fulfillment. The platform addresses the evolving landscape of recruitment and development by equipping organizations with tools to recruit top talent and cultivate high-performing teams through unique personal insights. Its core offerings include recruitment assessment tests, a 360-degree feedback system, and psychometric tests that provide deep insights into workplace personality, behavioral preferences, communication styles, and employee engagement levels.",
+  "key_use_cases": [
+    "Recruitment and candidate screening",
+    "Pre-employment testing and assessment",
+    "Talent development and progression",
+    "Optimizing team performance and interactions",
+    "Employee engagement assessment and enhancement",
+    "Multi-source performance feedback (360-degree feedback)",
+    "Understanding individual behavioral preferences and communication styles",
+    "Identifying actions to improve employee wellbeing, motivation, and productivity"
+  ],
+  "competitive_advantages": [
+    "Powered by proven assessments and data science",
+    "Long-standing experience in the market (founded 1981)",
+    "Global reach and adoption (empowers millions across 140 countries)",
+    "Registered with the British Psychological Society, indicating scientific rigor and credibility",
+    "Provides unique personal insights for individuals and teams"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Development",
+    "Performance Management",
+    "Employee Engagement"
+  ],
+  "roi_benefits": [
+    "Hire top talent faster and more efficiently",
+    "Transform organizational performance",
+    "Improve recruitment and development decisions",
+    "Optimize everyday interactions",
+    "Create high-performing teams",
+    "Enhance employee wellbeing, motivation, and productivity",
+    "Enable individuals to feel more fulfilled and build stronger connections in their roles"
+  ],
+  "searchable_keywords": [
+    "Thomas Assessments",
+    "Recruiting",
+    "Pre-employment screening software",
+    "Pre-employment testing software",
+    "Data-driven hiring",
+    "Candidate screening",
+    "Recruitment assessment tests",
+    "360 Degree Feedback system",
+    "British Psychological Society",
+    "Talent development",
+    "Employee engagement",
+    "Psychometric test",
+    "Personality assessment",
+    "Behavioral assessment",
+    "Team optimization",
+    "Performance feedback",
+    "Employee wellbeing",
+    "Motivation",
+    "Productivity",
+    "Hiring",
+    "Development",
+    "HR tech",
+    "HR analytics",
+    "Workforce insights"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "Hiring Managers",
+    "Team Leaders",
+    "Employees (as assessment takers and feedback participants)"
+  ],
+  "compliance_features": [
+    "Registered with the British Psychological Society"
+  ],
+  "_weight": 1
+}

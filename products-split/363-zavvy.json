@@ -1,0 +1,187 @@
+{
+  "id": 363,
+  "name": "Zavvy",
+  "description": "The way Zavvy work is going through the greatest revolution in decades. Remote and hybrid work models are here to stay. Employees are looking for more in an employer than just money. Technologies are drastically shortening the half-life of skills. And organizations have to rethink the way they foster collaboration, growth, and culture. Our goal is to equip innovative companies with all the tools they need to foster their talent to drive engagement and stay competitive. All while deeply integrated the different components and helping People teams save time via automations and AI.",
+  "features": [
+    "onboarding",
+    "performance management",
+    "Training"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Talent Management",
+    "Learning and Development",
+    "Recruiting",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration services",
+    "Employee engagement software",
+    "Onboarding software",
+    "Training eLearning software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Learning speed",
+    "Workforce diversity"
+  ],
+  "headquarter": "null",
+  "launch_date": "2021",
+  "order": 20325,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The People Enablement Platform\n How growing businesses unlock their people potential",
+  "ProductId": null,
+  "ShortDescription": "Zavvy lets people teams run people development, performance, and engagement like innovative tech giants. AI-powered.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Powerful AI",
+      "sequence": 0,
+      "description": "Achieve a greater impact than ever while saving valuable time. Zavvy AI lets you create courses, career frameworks, and more in just a few clicks."
+    },
+    {
+      "name": "Best-in-class consultation",
+      "sequence": 1,
+      "description": "Where other tool providers will leave you alone, we'll not only guide you through our proven process, but proactively share best practices from top companies."
+    },
+    {
+      "name": "One solution that connects the dots",
+      "sequence": 2,
+      "description": "Instead of overwhelming your people with multiple tools and overwhelming yourself by trying to connect them all, Zavvy brings together everything people development, training, performance, analytics, and more in one place."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:25:17.275Z",
+  "enhanced_description": "Zavvy is a People Enablement Platform designed to equip growing and innovative businesses with comprehensive tools to foster talent, drive engagement, and maintain competitiveness in the evolving landscape of remote and hybrid work models, changing employee expectations, and rapidly shortening skill half-lives. The platform deeply integrates various components, including onboarding, performance management, and training, into a single solution that also encompasses people development, analytics, and more. It leverages powerful AI and automations to save People teams valuable time, enabling them to easily create courses, career frameworks, and other resources with just a few clicks. Zavvy aims to help People teams manage people development, performance, and engagement with the efficiency and innovation seen in leading tech companies.",
+  "ideal_company_sizes": [
+    "Growing businesses"
+  ],
+  "key_use_cases": [
+    "Fostering talent development and growth",
+    "Driving employee engagement initiatives",
+    "Enhancing organizational competitiveness through people strategy",
+    "Managing and automating employee onboarding processes",
+    "Implementing and optimizing performance management cycles",
+    "Delivering and tracking training and learning programs",
+    "Creating AI-powered courses and career frameworks",
+    "Streamlining HR operations for People teams through automation and AI",
+    "Accelerating and increasing the efficiency of talent acquisition",
+    "Boosting hiring manager confidence and productivity",
+    "Reducing the cost of hiring qualified employees",
+    "Fostering collaboration and culture within organizations"
+  ],
+  "competitive_advantages": [
+    "Powerful AI capabilities for content creation (e.g., courses, career frameworks) and time-saving automation for People teams.",
+    "A unified, integrated platform that connects people development, training, performance, and analytics in one place, reducing the need for multiple disparate tools.",
+    "Offers 'best-in-class consultation' providing proactive guidance and sharing best practices from top companies, distinguishing itself from tool-only providers.",
+    "Specifically designed to address challenges of modern work models like remote and hybrid setups, and the need for continuous skill development."
+  ],
+  "implementation_scenarios": [
+    "Vendor-guided implementation supported by expert consultation and best practice sharing."
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Learning and Development",
+    "Recruiting",
+    "Total Rewards (Benefits administration services)",
+    "Onboarding",
+    "Performance Management",
+    "Employee Engagement"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Automation technologies"
+  ],
+  "integration_capabilities": [
+    "Internal integration of diverse components including people development, training, performance, and analytics within its single platform."
+  ],
+  "roi_benefits": [
+    "Time savings for People teams through automation and AI",
+    "Faster talent acquisition and hiring processes",
+    "More efficient hiring processes",
+    "Reduced cost of hiring qualified employees",
+    "Increased employee engagement",
+    "Enhanced organizational competitiveness",
+    "Boosted hiring manager confidence and productivity",
+    "Improved learning efficiency",
+    "Greater training effectiveness",
+    "Accelerated learning speed",
+    "Optimized hiring process"
+  ],
+  "searchable_keywords": [
+    "Zavvy",
+    "People Enablement Platform",
+    "HR Tech",
+    "Talent Management",
+    "Learning and Development",
+    "Recruiting",
+    "Total Rewards",
+    "Onboarding Software",
+    "Performance Management Software",
+    "Training Software",
+    "eLearning Software",
+    "Employee Engagement Software",
+    "Benefits Administration Services",
+    "AI HR",
+    "HR Automation",
+    "Skill Development",
+    "Career Frameworks",
+    "Talent Acquisition",
+    "Hiring Best Practices",
+    "Hiring Process Optimization",
+    "Talent Acquisition Costs",
+    "Data-Driven Hiring",
+    "Learning Efficiency",
+    "Training Effectiveness",
+    "Learning Speed",
+    "Workforce Diversity",
+    "Remote Work Solutions",
+    "Hybrid Work Solutions",
+    "People Potential",
+    "People Development",
+    "HR Analytics",
+    "Collaboration Tools",
+    "Culture Building"
+  ],
+  "primary_users": [
+    "People Teams (HR professionals)",
+    "Hiring Managers",
+    "Employees"
+  ],
+  "_weight": 1
+}

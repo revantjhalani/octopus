@@ -1,0 +1,153 @@
+{
+  "id": 263,
+  "name": "Salarybox",
+  "description": "Salarybox offers a range of features, from time and attendance tracking to employee payments, and much more. We help small businesses manage their payroll by eliminating the hassle of manual, paper-based processes With our service, you'll always know what you owe employees when payments are due, and who's been paid. \n With our automated system, you can have your payroll processed in seconds, right from the palm of your hands. Our customers enjoy peace of mind knowing their company is following all regulations",
+  "features": [
+    "Easy to use",
+    "Safe and secured",
+    "100% data backup"
+  ],
+  "founders": [
+    "Nikhil Goel",
+    "Peeyush Goyal"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Talent acquisition suites"
+  ],
+  "tags": [
+    "Hiring",
+    "Hiring efficiency"
+  ],
+  "headquarter": "Gurugram, Delhi",
+  "launch_date": "2020",
+  "order": 20228,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Effortless Employee Management",
+  "ProductId": null,
+  "ShortDescription": "SalaryBox is a solution that simplifies the process of managing employees.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Mobile Attendance",
+      "sequence": 0,
+      "description": " With SalaryBox, gain visibility by getting real-time attendance."
+    },
+    {
+      "name": "Biometric Attendance",
+      "sequence": 1,
+      "description": "Allow simple integration with biometrics to enable seamless attendance management on one platform."
+    },
+    {
+      "name": "Roster Management",
+      "sequence": 2,
+      "description": "Create a complete schedule and instantly notify your employees of the latest version that can be easily customizable."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:17.832Z",
+  "enhanced_description": "Salarybox is an intuitive and secure HR technology solution designed for small businesses to simplify and automate their employee management processes. It provides comprehensive features for time and attendance tracking, including real-time mobile and biometric attendance, and seamless roster management with instant employee notifications. The platform eliminates the complexities of manual, paper-based payroll, enabling businesses to process employee payments swiftly and accurately in seconds, directly from a mobile device. Salarybox ensures users always have clarity on employee dues and payment statuses, while also offering peace of mind through built-in compliance support and robust data security with 100% data backup.",
+  "ideal_company_sizes": [
+    "Small"
+  ],
+  "key_use_cases": [
+    "Payroll processing",
+    "Time and attendance management",
+    "Employee payment tracking",
+    "Roster scheduling"
+  ],
+  "competitive_advantages": [
+    "Automation of payroll",
+    "Real-time payroll visibility",
+    "Compliance adherence",
+    "Ease of use",
+    "Data security",
+    "Data backup",
+    "Mobile attendance tracking",
+    "Biometric attendance integration",
+    "Digital roster management"
+  ],
+  "hr_functions_supported": [
+    "Payroll",
+    "Time & Attendance",
+    "Workforce Scheduling"
+  ],
+  "integration_capabilities": [
+    "Biometric attendance systems"
+  ],
+  "roi_benefits": [
+    "Reduced administrative time/hassle",
+    "Improved payroll accuracy and efficiency",
+    "Enhanced financial visibility for employee payments",
+    "Mitigated compliance risks"
+  ],
+  "searchable_keywords": [
+    "Salarybox",
+    "payroll",
+    "employee payments",
+    "time tracking",
+    "attendance",
+    "time and attendance",
+    "roster management",
+    "employee management",
+    "small business payroll",
+    "automated payroll",
+    "mobile attendance",
+    "biometric attendance",
+    "compliance",
+    "HR software",
+    "HR tech",
+    "workforce management",
+    "employee scheduling",
+    "digital payroll",
+    "easy payroll",
+    "secure payroll",
+    "data backup",
+    "hiring",
+    "recruiting",
+    "talent acquisition",
+    "hiring efficiency"
+  ],
+  "primary_users": [
+    "Small business owners",
+    "HR administrators",
+    "Payroll managers"
+  ],
+  "deployment_options": [
+    "Mobile"
+  ],
+  "compliance_features": [
+    "Regulatory compliance support"
+  ],
+  "security_features": [
+    "Data encryption",
+    "Data backup"
+  ],
+  "_weight": 1
+}

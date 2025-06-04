@@ -1,0 +1,175 @@
+{
+  "id": 1310,
+  "name": "Vani.Coach",
+  "description": "Vani.Coach is the platform of choice for large business organisations to upskill their workforce. We deliver value to businesses by improving their people's ability to communicate with confidence, clarity, and credibility, while also developing enduring relationships.\r\n\r\nVani partners with our expert coaches to offer hyper-personalised communication fitness coaching at massive scales using Digitisation, Gamification and AI. \r\n\r\nThe app, mobile and web, adapts to the needs of every individual learner, right from the shop floor executives, frontline salesforce, mid-level managers... all the way to your leadership pools.\r\n\r\nOur proven way of learning, validated by stakeholders, delivers enhanced levels of communication fitness with a tangible and verifiable impact on job performance and business outcomes.",
+  "features": [
+    "Communication Fitness for Working Professionals",
+    "Personalised Coaching at Scale",
+    "Written and Verbal Communication",
+    "Conveying Thoughts with Clarity"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Other / technology",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Training eLearning software",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Skill development",
+    "Training effectiveness",
+    "Personalised learning",
+    "Continuous Learning",
+    "Learning efficiency",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised Learning",
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning"
+  ],
+  "headquarter": "Pune, Maharashtra",
+  "launch_date": "2018",
+  "order": 27,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Vani:App as a Coach",
+  "ProductId": null,
+  "ShortDescription": "Vani is a coach led hyper-personalised digital platform helping businesses upskill their workforce at scale",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Hyper-Personalized Learning for you",
+      "sequence": 0,
+      "description": "Unlock Your Learning Potential: Personalized Training for Your Job & Skill Level"
+    },
+    {
+      "name": "Practice with AI - Personal Coach",
+      "sequence": 1,
+      "description": "AI-powered Practice & Coaching: Get Instant Feedback & Your Personalized Learning Path"
+    },
+    {
+      "name": "Guidance from Expert Coaches",
+      "sequence": 2,
+      "description": "Build Lasting Habits: Personalized Coaching with Expert Guidance "
+    }
+  ],
+  "Approved": true,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:40.016Z",
+  "enhanced_description": "Vani.Coach is a coach-led, hyper-personalized digital platform designed to help large business organizations upskill their workforce at scale, specifically focusing on communication fitness. It aims to improve individuals' ability to communicate with confidence, clarity, and credibility, fostering enduring relationships and impacting job performance and business outcomes. The platform leverages Digitisation, Gamification, and AI to deliver personalized coaching. It offers AI-powered practice for instant feedback and a personalized learning path, complemented by guidance from expert coaches to build lasting communication habits. Available via mobile and web apps, Vani.Coach adapts to the needs of diverse learners, from shop floor executives and frontline salesforce to mid-level managers and leadership pools.",
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Upskilling workforce in communication fitness",
+    "Improving verbal communication clarity and credibility",
+    "Enhancing written communication skills",
+    "Developing interpersonal communication for relationship building",
+    "Providing personalized communication coaching at scale",
+    "Facilitating AI-powered communication practice and feedback",
+    "Supporting continuous learning and skill acquisition in communication"
+  ],
+  "competitive_advantages": [
+    "Hyper-personalized communication fitness coaching",
+    "Scalable delivery of personalized coaching (at massive scales)",
+    "Integration of Digitisation, Gamification, and AI for learning",
+    "Adaptability to individual learner needs across different job levels",
+    "AI-powered practice with instant feedback and personalized learning paths",
+    "Guidance from expert coaches complementing AI",
+    "Proven learning methodology with verifiable impact on job performance and business outcomes"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Talent Management (Skill Development)"
+  ],
+  "roi_benefits": [
+    "Improved job performance through enhanced communication skills",
+    "Positive impact on business outcomes due to better communication",
+    "Accelerated skill development and learning efficiency",
+    "Enhanced workforce communication confidence, clarity, and credibility",
+    "Development of stronger enduring relationships within the workforce"
+  ],
+  "searchable_keywords": [
+    "Vani.Coach",
+    "communication fitness",
+    "upskilling",
+    "workforce development",
+    "personalized coaching",
+    "expert coaching",
+    "AI coaching",
+    "gamification",
+    "digitization",
+    "learning and development",
+    "corporate LMS",
+    "training software",
+    "eLearning",
+    "artificial intelligence",
+    "skill development",
+    "training effectiveness",
+    "personalized learning",
+    "continuous learning",
+    "learning efficiency",
+    "skill acquisition",
+    "adaptive learning",
+    "learning analytics",
+    "learning retention",
+    "verbal communication",
+    "written communication",
+    "communication clarity",
+    "communication credibility",
+    "job performance improvement",
+    "business outcomes",
+    "mobile learning",
+    "web-based training",
+    "enterprise learning",
+    "executive communication coaching",
+    "sales communication training",
+    "manager communication development",
+    "leadership communication"
+  ],
+  "primary_users": [
+    "Working Professionals (across all levels: shop floor, frontline sales, mid-level managers, leadership)",
+    "Learners within large organizations",
+    "HR/L&D professionals"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)",
+    "Mobile App",
+    "Web Application"
+  ],
+  "scalability_features": [
+    "Designed for massive scale deployment across large organizations",
+    "Ability to deliver hyper-personalized coaching to a vast number of individual learners simultaneously",
+    "Adaptable to the needs of diverse employee levels within a large workforce"
+  ],
+  "_weight": 1
+}

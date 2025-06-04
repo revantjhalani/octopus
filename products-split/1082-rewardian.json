@@ -1,0 +1,140 @@
+{
+  "id": 1082,
+  "name": "Rewardian",
+  "description": "Making recognition easy for employees and managers alike with seamless technology, custom rewards, and a smooth user experience.",
+  "features": [
+    "Seamless Platform Integrations",
+    " Rewards Catalog",
+    "Reporting & Metrics"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Employee recognition software",
+    "Performance management system"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee satisfaction",
+    "Employee happiness programs"
+  ],
+  "headquarter": " Georgia",
+  "launch_date": "2016",
+  "order": 21025,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Motivate employee, celebrate people",
+  "ProductId": null,
+  "ShortDescription": "Employee recognition and rewards platform for businesses of all sizes.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Program Design",
+      "sequence": 0,
+      "description": "We get to know your company\u2013its mission and values, culture, and goals\u2013to design a recognition program built to fit you. From full communication strategies to custom rewards, we provide you with the tools to elevate and engage your workforce."
+    },
+    {
+      "name": "Integrations",
+      "sequence": 1,
+      "description": "Recognize employees where they already work. Eliminate the need to login to another app with single sign-on capabilities, HRIS, and hundreds more seamless app and database integrations. "
+    },
+    {
+      "name": "Custom Platform ",
+      "sequence": 2,
+      "description": "We eliminate the barrier of use by designing a recognition platform just for you. Your company, your values, your brand. One size does not fit all, so we have created a platform that can be shaped to fit your company needs."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:40:11.254Z",
+  "enhanced_description": "Rewardian is an employee recognition and rewards platform designed for businesses of all sizes, with a particular focus on large and global enterprises. It aims to make recognition easy for employees and managers through seamless technology, a smooth user experience, and custom reward options. The platform offers seamless integrations, including single sign-on, HRIS, and hundreds of app and database integrations, allowing recognition to occur where employees already work. A key differentiator is its custom program design, tailored to a company's unique mission, values, culture, and goals, providing full communication strategies and custom rewards. The platform itself is custom-built to fit company-specific needs, values, and brand, moving away from a one-size-fits-all approach.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee Recognition",
+    "Rewards Management",
+    "Performance Motivation",
+    "Employee Engagement Improvement",
+    "Employee Happiness Programs"
+  ],
+  "competitive_advantages": [
+    "Custom program design tailored to company mission, values, culture, and goals",
+    "Full communication strategies for recognition programs",
+    "Custom rewards options",
+    "Extensive seamless platform integrations (single sign-on, HRIS, hundreds of apps/databases)",
+    "Customizable platform design to match company brand and needs",
+    "Smooth user experience for employees and managers"
+  ],
+  "implementation_scenarios": [
+    "Consultative program design based on company mission, values, culture, and goals."
+  ],
+  "hr_functions_supported": [
+    "Employee Recognition",
+    "Rewards Management",
+    "Performance Management"
+  ],
+  "integration_capabilities": [
+    "Single Sign-On (SSO)",
+    "HRIS integrations",
+    "Hundreds of app and database integrations"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness",
+    "Increased Employee Engagement",
+    "Enhanced Employee Motivation",
+    "Celebration of people and performance"
+  ],
+  "searchable_keywords": [
+    "Rewardian",
+    "Employee recognition",
+    "Employee rewards",
+    "Recognition platform",
+    "Rewards platform",
+    "Employee engagement",
+    "Employee satisfaction",
+    "Employee happiness",
+    "Total Rewards",
+    "Performance management system",
+    "Custom recognition programs",
+    "Seamless integrations",
+    "HRIS integration",
+    "Single sign-on",
+    "Custom platform",
+    "Employee motivation",
+    "Workforce engagement"
+  ],
+  "primary_users": [
+    "Employees",
+    "Managers"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "_weight": 1
+}

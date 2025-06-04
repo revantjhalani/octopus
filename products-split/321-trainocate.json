@@ -1,0 +1,168 @@
+{
+  "id": 321,
+  "name": "Trainocate",
+  "description": "Trainocate is a leading learning and development service provider company, delivering training in critical career competencies such as Analytics, Artificial Intelligence, Big Data, Cloud Computing, Data Science, Dev Ops, Machine Learning and more. These Training and Certifications programmes are created and developed by leading technology conglomerates such as Amazon (AWS), Cisco, Google (GCP), IBM, Microsoft, NetApp, Red Hat, Trend Micro and VMware and many others. We at Trainocate are proud to have helped thousands of professionals and companies in building competencies in current and emerging areas. We further solidify them through inhouse assessment tools followed by industry-recognized certifications, thus increasing your company\u2019s credibility and market value of your employees.",
+  "features": [
+    "Assess knowledge before and after training",
+    "Easy question bank management",
+    "Restrict user navigation from window"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Blockchain",
+    "Machine learning HR",
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Hiring automation",
+    "Data-driven hiring",
+    "Hiring best practices"
+  ],
+  "headquarter": "Bangalore, Karnataka",
+  "launch_date": "2008",
+  "order": 20283,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Advocate Educate Innovate",
+  "ProductId": null,
+  "ShortDescription": "Trainocate is India\u2019s largest IT and human capability development training provider. ",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Experiential Learning",
+      "sequence": 0,
+      "description": "Experiential Learning Program offers you an open field for exploration, enabling learners to future-proof their skillsets and avoid becoming outdated"
+    },
+    {
+      "name": "Remote Labs",
+      "sequence": 1,
+      "description": "Remote labs labs can be customized for classroom or an e-Learning environment and is housed in a secure location and available at any time."
+    },
+    {
+      "name": "Testing Center",
+      "sequence": 2,
+      "description": "TRAINOCATE provides you with the convenience of taking your certification exams"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:12.342Z",
+  "enhanced_description": "Trainocate is a leading learning and development service provider based in India, specializing in IT and human capability development. They deliver comprehensive training and industry-recognized certification programs across critical technology competencies such as Analytics, Artificial Intelligence, Big Data, Cloud Computing, Data Science, Dev Ops, and Machine Learning. These programs are developed in partnership with major technology conglomerates including Amazon (AWS), Cisco, Google (GCP), IBM, Microsoft, NetApp, Red Hat, Trend Micro, and VMware. Trainocate helps organizations build and future-proof their workforce's skillsets, utilizing in-house assessment tools to measure knowledge before and after training. A core objective is to reduce the cost of hiring qualified employees by upskilling existing staff, thereby increasing company credibility and employee market value. The platform features an Experiential Learning Program and customizable remote labs accessible anytime in a secure location, supporting both classroom and e-Learning environments. Additionally, Trainocate provides testing centers for certification exams, with features like easy question bank management and restrictions on user navigation during assessments to ensure integrity.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee Skill Development and Upskilling",
+    "Technology Training and Certification",
+    "Workforce Competency Building",
+    "Reducing External Hiring Needs by Developing Internal Talent",
+    "Pre- and Post-Training Knowledge Assessment",
+    "Facilitating Industry-Recognized Certifications"
+  ],
+  "competitive_advantages": [
+    "Partnerships with leading technology conglomerates (e.g., AWS, GCP, Microsoft) for curriculum development and certifications.",
+    "Comprehensive solution offering training, in-house assessments, and facilitation of industry-recognized certifications.",
+    "Focus on future-proofing skillsets through experiential learning.",
+    "Flexible remote labs customizable for various learning environments (classroom/e-learning).",
+    "Features for ensuring assessment integrity (e.g., restricting user navigation).",
+    "Convenience of integrated testing centers for certification exams."
+  ],
+  "implementation_scenarios": [
+    "Remote-supported e-Learning environments",
+    "Classroom-based training with remote lab access"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Talent Management",
+    "Workforce Planning",
+    "Talent Acquisition (indirectly, by enabling internal skill fulfillment)"
+  ],
+  "roi_benefits": [
+    "Reduce the Cost of Hiring Qualified Employees",
+    "Increased company credibility",
+    "Increased market value of employees",
+    "Future-proof skillsets, reducing skill obsolescence"
+  ],
+  "searchable_keywords": [
+    "Trainocate",
+    "learning and development",
+    "L&D",
+    "IT training",
+    "human capability development",
+    "certifications",
+    "technology training",
+    "Analytics training",
+    "Artificial Intelligence training",
+    "AI training",
+    "Big Data training",
+    "Cloud Computing training",
+    "Data Science training",
+    "DevOps training",
+    "Machine Learning training",
+    "AWS certification",
+    "Cisco certification",
+    "Google Cloud Platform certification",
+    "GCP certification",
+    "IBM certification",
+    "Microsoft certification",
+    "NetApp certification",
+    "Red Hat certification",
+    "Trend Micro certification",
+    "VMware certification",
+    "in-house assessment tools",
+    "skill assessment",
+    "knowledge assessment",
+    "question bank management",
+    "experiential learning",
+    "remote labs",
+    "testing center",
+    "upskilling",
+    "reskilling",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Hiring best practices",
+    "Blockchain training",
+    "Machine learning HR",
+    "HR software services"
+  ],
+  "primary_users": [
+    "Learners (Employees)",
+    "L&D Professionals",
+    "HR Teams",
+    "IT Professionals (as the target audience for technical training)"
+  ],
+  "deployment_options": [
+    "Cloud-based (for remote labs and e-learning)"
+  ],
+  "security_features": [
+    "Remote labs housed in a secure location",
+    "Restrict user navigation from window (during assessments)"
+  ],
+  "_weight": 1
+}

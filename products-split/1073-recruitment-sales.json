@@ -1,0 +1,148 @@
+{
+  "id": 1073,
+  "name": "Recruitment Sales",
+  "description": "Our story began in an Estonian garage in 2010. Pipedrive\u2019s co-founders were salespeople who needed more from a CRM tool than the software on the market could offer. So, they built an easy-to-use, visual sales platform to help users streamline their processes and get more done. Since then, we\u2019ve grown into a global unicorn. Our team of 850+ people across eight countries works tirelessly toward one goal: empowering small businesses everywhere to succeed. Backed by global investment firm Vista Equity Partners and with the support of our thriving community, we continuously strive to push the boundaries of what an easy-to-use and effective sales CRM can do to help small businesses win more deals.",
+  "features": [
+    "Email marketing software   ",
+    "Web visitor tracking ",
+    " Marketplace integrations"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Applicant tracking system (ATS)",
+    "Recruiting software",
+    "Staffing & management software"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Data-driven hiring",
+    "Hiring process optimization"
+  ],
+  "headquarter": "New York, New York",
+  "launch_date": "2010",
+  "order": 21016,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The one platform to grow your business.",
+  "ProductId": null,
+  "ShortDescription": "Every company needs the right tools to blossom. To scale your business, you need software that\u2019s accessible, offers the right functionality, is quick to master and highlights key opportunities.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Easy-to-Use Sales CRM:",
+      "sequence": 0,
+      "description": "Pipedrive positions itself as an easy-to-use and effective CRM (Customer Relationship Management) tool, specifically designed to help businesses manage their sales pipeline."
+    },
+    {
+      "name": "Visual Sales Pipeline",
+      "sequence": 1,
+      "description": " Pipedrive emphasizes their visual sales pipeline, which allows users to see all their sales activities and deals at a glance in a kanban-style board. This can help sales teams stay organized, prioritize tasks, and track progress towards closing deals."
+    },
+    {
+      "name": "Affordable and Effective",
+      "sequence": 2,
+      "description": "Pipedrive highlights its affordability and effectiveness, making it a good fit for small and medium-sized businesses."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:40:03.004Z",
+  "key_use_cases": [
+    "Manage sales pipeline",
+    "Streamline business processes",
+    "Track sales activities and deals",
+    "Prioritize tasks",
+    "Track progress towards closing deals",
+    "Boost hiring manager confidence",
+    "Optimize hiring processes"
+  ],
+  "competitive_advantages": [
+    "Easy-to-use sales platform/CRM",
+    "Visual sales pipeline with kanban-style board",
+    "Affordable",
+    "Effective",
+    "Quick to master"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Applicant Tracking",
+    "Staffing Management",
+    "Hiring"
+  ],
+  "integration_capabilities": [
+    "Marketplace integrations"
+  ],
+  "roi_benefits": [
+    "Increased productivity",
+    "Improved process streamlining",
+    "Better deal winning rates",
+    "Enhanced hiring manager confidence",
+    "Support for business growth"
+  ],
+  "searchable_keywords": [
+    "Recruitment Sales",
+    "Recruiting",
+    "Hiring",
+    "ATS",
+    "Applicant tracking system",
+    "Recruiting software",
+    "Staffing software",
+    "Management software",
+    "Data-driven hiring",
+    "Hiring process optimization",
+    "CRM",
+    "Sales platform",
+    "Sales pipeline",
+    "Email marketing",
+    "Web visitor tracking",
+    "Marketplace integrations",
+    "Visual sales",
+    "Easy-to-use",
+    "Effective",
+    "Affordable",
+    "Productivity",
+    "Small business",
+    "Medium business",
+    "Global",
+    "Enterprise",
+    "Sales",
+    "Pipedrive",
+    "Kanban"
+  ],
+  "primary_users": [
+    "Salespeople",
+    "Hiring Managers",
+    "Recruiters"
+  ],
+  "scalability_features": [
+    "Supports global operations",
+    "Designed for business growth and scaling"
+  ],
+  "_weight": 1
+}

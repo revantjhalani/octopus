@@ -1,0 +1,134 @@
+{
+  "id": 859,
+  "name": "MCI Careers",
+  "description": "MCI is the holding company for a diverse lineup of tech-enabled business service operating companies. We foster organic growth and strategically acquire and operate companies that synergistically offer a diverse range of products and services. Our expansive scope includes, but is not limited to, customer contact center management, business process outsourcing, Omnichannel CX deployment, IT services, customer software and app development, customer experience management, customer service and technical support, inside sales, collections/account receivable management, and BPO-as-a-service (BPOaaS).",
+  "features": [
+    "Strategy & Blueprint",
+    "Project Management",
+    "Continuous Improvement"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Staffing & management software",
+    "Onboarding software",
+    "Talent management software",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Talent sourcing",
+    "Hiring",
+    "Recruiting"
+  ],
+  "headquarter": "Iowa City, Iowa",
+  "launch_date": "2002",
+  "order": 20812,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "MCI is a holding company for a diverse lineup of tech-enabled & data-driven business process outsourcing (BPO) companies",
+  "ProductId": null,
+  "ShortDescription": "MCI is the holding company for a diverse lineup of tech-enabled business service operating companies.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Technology",
+      "sequence": 0,
+      "description": "MCI stands out in the call center landscape by offering cutting-edge technology solutions that redefine the role of BPOs. While BPOs are often perceived primarily as technology vendors rather than CX experts, MCI breaks this stereotype by prioritizing both technological innovation and customer experience excellence."
+    },
+    {
+      "name": "Quality",
+      "sequence": 1,
+      "description": "MCI delivers unparalleled quality call center services, recognizing its pivotal role in client satisfaction and success. While quality is often overshadowed by cost considerations in the outsourcing decision-making process, MCI remains committed to exceeding industry standards in agent performance and service quality."
+    },
+    {
+      "name": "Cost Savings",
+      "sequence": 2,
+      "description": "MCI understands the balance between quality service and cost efficiency in the BPO landscape. While concerns persist regarding the quality of service from BPO partners, brands prioritize cost savings. Studies show that 33% of current BPO users and 30% of non-users prioritize cost reduction."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:50.617Z",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Talent acquisition",
+    "Candidate sourcing",
+    "Recruitment process management",
+    "Onboarding management",
+    "Talent management",
+    "Staffing management",
+    "Efficient hiring"
+  ],
+  "competitive_advantages": [
+    "Leveraging cutting-edge technology solutions",
+    "Commitment to high-quality service",
+    "Focus on cost efficiency"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Management",
+    "Staffing",
+    "Onboarding"
+  ],
+  "technology_stack": [
+    "Artificial intelligence"
+  ],
+  "roi_benefits": [
+    "Faster talent acquisition",
+    "More efficient hiring processes",
+    "Potential cost reduction"
+  ],
+  "searchable_keywords": [
+    "MCI Careers",
+    "Recruiting",
+    "Talent Management",
+    "Recruiting software",
+    "Staffing software",
+    "Onboarding software",
+    "Talent management software",
+    "Artificial intelligence",
+    "AI",
+    "Talent sourcing",
+    "Hiring",
+    "HR Tech",
+    "HR Technology",
+    "Tech-enabled hiring",
+    "Data-driven recruiting",
+    "Enterprise recruiting",
+    "Global enterprise talent management",
+    "Strategy & Blueprint",
+    "Project Management",
+    "Continuous Improvement"
+  ],
+  "_weight": 1
+}

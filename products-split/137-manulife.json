@@ -1,0 +1,130 @@
+{
+  "id": 137,
+  "name": "Manulife",
+  "description": "Manulife is a leading international financial services group that helps people make their decisions easier and lives better. With our global headquarters in Toronto, we operate as Manulife across our offices in Canada, Asia, and Europe, and primarily as John Hancock in the United States. We have more than 40,000 employees, over 116,000 agents serving ~34 million customers worldwide, and over $1.3 trillion in assets under management and administration.",
+  "features": [
+    "New business value of $2.3B",
+    "More than 38,000 employees serving",
+    "$5.1 billion in net income attributed"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [],
+  "tags": [
+    "Employee well being",
+    "Employee engagement",
+    "Employee happiness"
+  ],
+  "headquarter": "Toronto, Canada",
+  "launch_date": "1987",
+  "order": 20104,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "A modern financial\n institution",
+  "ProductId": null,
+  "ShortDescription": "Manulife Financial Corporation is a leading international financial services provider",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Portfolio Optimization",
+      "sequence": 0,
+      "description": "We actively manage capital for optimal returns and cash flow, prioritizing risk reduction and volatility management."
+    },
+    {
+      "name": "Accelerated Growth",
+      "sequence": 1,
+      "description": "Focused growth in high-potential sectors such as Asia, Global WAM, global behavioral insurance, and Canadian group benefits."
+    },
+    {
+      "name": "Digital Customer Experience",
+      "sequence": 2,
+      "description": "Enhancing customer interactions through digitization and innovation to exceed expectations and prioritize customer satisfaction."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:06.666Z",
+  "enhanced_description": "Manulife is a leading international financial services group, operating as Manulife in Canada, Asia, and Europe, and primarily as John Hancock in the United States. With global headquarters in Toronto, Manulife serves approximately 34 million customers worldwide, managing over $1.3 trillion in assets. Within the HR technology landscape, Manulife's offerings fall under the 'Total Rewards' category, focusing on financial solutions and services designed to improve employee happiness, engagement, and overall well-being, including specific areas like group benefits. The company emphasizes a strong global presence, significant scale, and a commitment to digital customer experience and strategic growth.",
+  "target_industries": [
+    "Financial Services",
+    "Insurance"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Administering total rewards programs",
+    "Enhancing employee well-being through financial services",
+    "Improving employee engagement through benefits offerings",
+    "Providing comprehensive group benefits solutions"
+  ],
+  "competitive_advantages": [
+    "Global Scale and Reach",
+    "Extensive Customer and Employee Base",
+    "Significant Assets Under Management",
+    "Focus on Digital Customer Experience",
+    "Strategic Growth in High-Potential Sectors (e.g., behavioral insurance, group benefits)"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards Management",
+    "Benefits Administration",
+    "Employee Well-being Programs",
+    "Employee Engagement Initiatives"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness",
+    "Increased employee engagement",
+    "Enhanced employee well-being"
+  ],
+  "searchable_keywords": [
+    "Manulife",
+    "John Hancock",
+    "Financial Services",
+    "Total Rewards",
+    "Employee Benefits",
+    "Group Benefits",
+    "Employee Well-being",
+    "Employee Engagement",
+    "Employee Happiness",
+    "Wealth Management",
+    "Insurance",
+    "Digital Customer Experience"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Benefits Administrators",
+    "Total Rewards Managers"
+  ],
+  "scalability_features": [
+    "Supports global enterprise operations",
+    "Capable of serving large customer bases and employee populations (e.g., ~34 million customers, >40,000 employees)"
+  ],
+  "_weight": 1
+}

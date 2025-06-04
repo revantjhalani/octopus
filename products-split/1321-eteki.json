@@ -1,0 +1,152 @@
+{
+  "id": 1321,
+  "name": "Eteki",
+  "description": "eTeki is where the world goes to qualify talent. Our award winning technical interviews-as-a-service platform enables organizations across the globe hire the best tech talent, fast. eTeki is poised to disrupt the way IT candidates are hired by giving any company the ability to screen large numbers of tech talent quickly.",
+  "features": [
+    "Take 5 minutes to scope the technical skills you need to assess.",
+    "Get your candidate technically validated by a human not a machine.",
+    "Watch your candidate and an IT expert talk in a Virtual Interview Studio.",
+    "The technical interviewer scores the candidate & sends you a report."
+  ],
+  "founders": [
+    "Hans Bukow"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring manager confidence",
+    "Hiring manager productivity"
+  ],
+  "headquarter": "Florida",
+  "launch_date": "2014",
+  "order": 21140,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The Only Global Marketplace for Technical Interviews",
+  "ProductId": null,
+  "ShortDescription": "eTeki is on a mission to supply the world with interviews-as-a-service to scale and optimize technical hiring.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Balancing Your Budget",
+      "sequence": 0,
+      "description": " Your bottom line doesn\u2019t allow for costly hiring mistakes  \u2013 especially in IT. Our cost-effective interviews-as-a-service model can end the heartbreak of last-minute technical disqualification and increase hiring manager satisfaction."
+    },
+    {
+      "name": "Save More Time",
+      "sequence": 1,
+      "description": "Take your time back. We remove the tactical headache of interview scheduling and deliver results that free up your team to focus on other priorities with comprehensive screening completed by people who know the technology."
+    },
+    {
+      "name": "Fast-Track Great Candidates",
+      "sequence": 2,
+      "description": "Technical roles have a less than 1% unemployment rate. You\u2019ll lose the best candidates if you don\u2019t fast-track the assessment process. That\u2019s where our on-demand model comes in."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:50.529Z",
+  "enhanced_description": "eTeki is an award-winning global interviews-as-a-service platform designed to qualify and optimize the hiring of technical talent. It provides human-led technical validations by IT experts within a virtual interview studio, allowing organizations to efficiently screen large numbers of IT candidates. The service streamlines the technical assessment process, freeing up internal teams from interview scheduling and delivering comprehensive reports on candidate performance. eTeki aims to boost hiring manager confidence and productivity by reducing costly hiring mistakes and fast-tracking the assessment of top tech candidates with its on-demand and cost-effective model.",
+  "key_use_cases": [
+    "Technical skill assessment and validation for IT roles",
+    "Streamlining technical candidate screening process",
+    "Providing human-led technical interviews",
+    "Generating technical candidate performance reports",
+    "Reducing time-to-hire for technical positions",
+    "Eliminating last-minute technical disqualifications in hiring",
+    "Improving hiring manager satisfaction and productivity in tech recruitment"
+  ],
+  "competitive_advantages": [
+    "Interviews-as-a-service platform model",
+    "Global marketplace for technical interviews",
+    "Human-led technical validation (not machine-based)",
+    "Utilizes a Virtual Interview Studio for assessments",
+    "Cost-effective hiring solution for IT roles",
+    "On-demand model for rapid candidate assessment",
+    "Ability to screen large numbers of tech talent quickly",
+    "Removes tactical burden of interview scheduling"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Technical Screening",
+    "Candidate Assessment",
+    "Interview Management",
+    "Talent Acquisition"
+  ],
+  "roi_benefits": [
+    "Boosts Hiring Manager Confidence and Productivity",
+    "Ends costly hiring mistakes, especially in IT",
+    "Increases hiring manager satisfaction",
+    "Offers a cost-effective interview model",
+    "Saves time for internal teams by removing interview scheduling overhead",
+    "Fast-tracks assessment process for technical candidates",
+    "Optimizes technical hiring efficiency",
+    "Reduces time-to-hire for critical technical roles"
+  ],
+  "searchable_keywords": [
+    "Eteki",
+    "eTeki",
+    "Recruiting",
+    "Hiring",
+    "Technical interviews",
+    "Interviews-as-a-service",
+    "Tech talent qualification",
+    "IT candidate screening",
+    "Technical assessment",
+    "Virtual interview studio",
+    "Human validation",
+    "IT expert interview",
+    "Candidate scoring",
+    "Technical report",
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "Cost-effective hiring",
+    "On-demand assessment",
+    "Global marketplace for interviews",
+    "Talent acquisition",
+    "Recruiting software"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "Recruiters",
+    "Talent Acquisition Teams",
+    "Organizations hiring IT talent"
+  ],
+  "deployment_options": [
+    "Cloud/SaaS"
+  ],
+  "scalability_features": [
+    "Designed to scale technical hiring operations",
+    "Enables screening of large numbers of tech talent quickly",
+    "On-demand model for fast assessment process"
+  ],
+  "_weight": 1
+}

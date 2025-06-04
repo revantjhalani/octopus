@@ -1,0 +1,123 @@
+{
+  "id": 990,
+  "name": "PHANDO : OTT SaaS/Video Streaming Platform",
+  "description": "India itself keeping India\u2019s media and entertainment market in mind, Phando is very personal to your media while with it\u2019s seamless delivery options it gives easy access to connect with the world.",
+  "features": [
+    "Video work on HTML5 and Flash player",
+    "Video Transcoding",
+    "offer service for OTT Platform"
+  ],
+  "founders": [
+    "Deepak Joshi  "
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Internet of things"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee happiness",
+    "Employee well being",
+    "Employee happiness programs"
+  ],
+  "headquarter": "Noida",
+  "launch_date": "2015",
+  "order": 20936,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Powering any videos experience",
+  "ProductId": null,
+  "ShortDescription": "Phando is the Best OTT platform solutions provider available in the Market",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:38:22.538Z",
+  "enhanced_description": "PHANDO is an OTT SaaS/Video Streaming Platform designed to empower diverse video experiences. While primarily serving the media and entertainment market, it also caters to HR technology needs by facilitating video content for improving employee happiness and engagement. The platform offers seamless delivery options and supports video playback via HTML5 and Flash players, along with video transcoding capabilities.",
+  "target_industries": [
+    "Media and Entertainment"
+  ],
+  "key_use_cases": [
+    "Delivering video content for Over-The-Top (OTT) platforms",
+    "Facilitating video-based employee engagement programs",
+    "Supporting employee happiness and well-being initiatives through video communication"
+  ],
+  "competitive_advantages": [
+    "Seamless video delivery options",
+    "Broad compatibility with HTML5 and Flash video players"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based SaaS deployment"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Employee Well-being",
+    "Internal Communications"
+  ],
+  "technology_stack": [
+    "HTML5",
+    "Flash Player",
+    "Video Transcoding"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement through effective video content delivery",
+    "Enhanced global connectivity for media distribution and communication"
+  ],
+  "searchable_keywords": [
+    "PHANDO",
+    "OTT",
+    "SaaS",
+    "Video Streaming",
+    "Video Platform",
+    "Media and Entertainment",
+    "Employee Engagement",
+    "Employee Happiness",
+    "Employee Well-being",
+    "Employee Happiness Programs",
+    "Video Transcoding",
+    "HTML5 Player",
+    "Flash Player",
+    "Video Delivery",
+    "Streaming Solutions",
+    "Internal Communications",
+    "Artificial intelligence",
+    "Internet of things",
+    "Technology"
+  ],
+  "primary_users": [
+    "Content Creators",
+    "Media Companies",
+    "Broadcasters",
+    "HR Professionals",
+    "Internal Communications Teams"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "_weight": 1
+}

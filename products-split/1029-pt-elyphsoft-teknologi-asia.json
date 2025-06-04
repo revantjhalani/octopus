@@ -1,0 +1,150 @@
+{
+  "id": 1029,
+  "name": "PT Elyphsoft Teknologi Asia",
+  "description": "Professionalism and teamwork in producing quality services Provide the best service to clients Develop cooperation and mutually beneficial business partnership Developing the best and latest technological innovation in every product Increased benefits and added value for clients.",
+  "features": [
+    "Omni Channel",
+    "querying of real-time corporate data",
+    "full team suppport"
+  ],
+  "founders": [
+    " Yan Haryadi "
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Internet of things",
+    "VR and AR Software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee happiness",
+    "Employee well being",
+    "Employee happiness programs"
+  ],
+  "headquarter": "Jakarta",
+  "launch_date": "2014",
+  "order": 20972,
+  "weightage": false,
+  "HCM": null,
+  "Headline": null,
+  "ProductId": null,
+  "ShortDescription": "Elyphsoft stand for customer of our client satisfaction",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Software Development Company:",
+      "sequence": 0,
+      "description": " Elyphsoft is a company specializing in software development. Their website showcases various types of software they develop, including enterprise software, mobile applications, and web applications"
+    },
+    {
+      "name": "Focus on Custom Software Solutions:",
+      "sequence": 1,
+      "description": "They highlight their ability to deliver custom software solutions based on client needs. This suggests they take a client-centric approach and develop software tailored to the specific requirements of each business."
+    },
+    {
+      "name": "Experience in Different Industries",
+      "sequence": 2,
+      "description": "The website mentions experience in various industries, including education, healthcare, and logistics. This demonstrates their versatility and ability to cater to a diverse range of clients across different sectors."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:39:08.571Z",
+  "enhanced_description": "PT Elyphsoft Teknologi Asia, established in 2014 and headquartered in Jakarta, is a software development company specializing in custom enterprise, mobile, and web applications. With a focus on client satisfaction and delivering tailored solutions, they leverage professionalism and teamwork to provide high-quality services. They develop innovative products utilizing advanced technologies like Artificial Intelligence (AI), Internet of Things (IoT), and VR/AR software. A key objective for their solutions in the HR domain is to improve employee happiness and engagement, addressing areas such as employee well-being and engagement programs. Their offerings feature omni-channel capabilities, querying of real-time corporate data, and are backed by full team support. Elyphsoft has experience catering to large and global enterprises across various industries, including education, healthcare, and logistics.",
+  "target_industries": [
+    "Education",
+    "Healthcare",
+    "Logistics"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Developing custom software solutions for employee engagement programs",
+    "Building platforms to enhance employee happiness and well-being",
+    "Creating real-time corporate data dashboards for HR insights",
+    "Implementing omni-channel communication for employees"
+  ],
+  "competitive_advantages": [
+    "Expertise in custom software development",
+    "Ability to deliver tailored solutions based on client needs",
+    "Versatility with experience across diverse industries",
+    "Leveraging advanced technologies like AI, IoT, VR/AR",
+    "Providing omni-channel support",
+    "Offering real-time corporate data querying capabilities",
+    "Commitment to professionalism and client satisfaction",
+    "Full team support for services"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Employee Well-being",
+    "Employee Experience Management"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Internet of Things (IoT)",
+    "Virtual Reality (VR)",
+    "Augmented Reality (AR)"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Enhanced employee well-being",
+    "Increased value for clients through tailored technological solutions"
+  ],
+  "searchable_keywords": [
+    "Elyphsoft",
+    "software development",
+    "custom software",
+    "enterprise software",
+    "mobile applications",
+    "web applications",
+    "AI",
+    "IoT",
+    "VR",
+    "AR",
+    "omni channel",
+    "real-time data",
+    "employee engagement",
+    "employee happiness",
+    "employee well-being",
+    "HR technology",
+    "Jakarta",
+    "technology solutions",
+    "education industry software",
+    "healthcare industry software",
+    "logistics industry software",
+    "employee happiness programs",
+    "client satisfaction"
+  ],
+  "primary_users": [
+    "HR Departments",
+    "Employees"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,178 @@
+{
+  "id": 187,
+  "name": "OnGrid",
+  "description": "OnGrid is a digital trust platform that leverages cutting-edge technologies to make trust establishment and accountability assurance faster, digital, and cost effective. OnGrid platform (web or APIs) can be used for verifying employees,  contractors in order to mitigate risk and ensure compliance, and for other scenarios as well where trust is to be established. These scenarios include verification of users, merchants or customers in use cases covering disbursal of loan, offering an insurance product, giving a house, vehicle or furniture on rent, etc.",
+  "features": [
+    "Identity & Address Verification",
+    "Education & Employment Verification",
+    "Criminal & Credit Check"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Reference check software",
+    "Background check software",
+    "Pre-employment screening software",
+    "Pre-employment testing software"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Talent pipeline",
+    "Hiring efficiency",
+    "Candidate screening",
+    "Data-driven hiring",
+    "Hiring automation"
+  ],
+  "headquarter": "Gurgaon",
+  "launch_date": "2016",
+  "order": 20154,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "OnGrid is India's leading background verification platform",
+  "ProductId": null,
+  "ShortDescription": "Digital Trust Platform",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "eLockr",
+      "sequence": 0,
+      "description": "Issue Digital employment credentials to ex-employees today! Gain invaluable attrition insights & outsource ex-employee verification at the same time."
+    },
+    {
+      "name": "Gridlines",
+      "sequence": 1,
+      "description": "Gridlines APIs are used by early stage startups as well as large enterprises to simplify customer onboarding and automate fraud risk monitoring."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:08.893Z",
+  "enhanced_description": "OnGrid is a comprehensive digital trust platform that leverages cutting-edge technologies to make trust establishment and accountability assurance faster, digital, and cost effective. It serves as India's leading background verification platform, offering services such as identity and address verification, education and employment verification, and criminal and credit checks. The platform, available via web or APIs, is designed for verifying employees and contractors to mitigate risk and ensure compliance in hiring processes. Beyond HR, OnGrid supports broader trust scenarios including verification of users, merchants, or customers for use cases like loan disbursal, offering insurance products, and renting out assets (house, vehicle, furniture). Key highlights include 'eLockr' for issuing digital employment credentials to ex-employees, enabling invaluable attrition insights, and outsourcing ex-employee verification. Its 'Gridlines' APIs are utilized by early-stage startups and large enterprises to simplify customer onboarding and automate fraud risk monitoring.",
+  "target_industries": [
+    "Financial Services",
+    "Insurance",
+    "Rental & Real Estate",
+    "General Business (for hiring/contractor verification)"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Early Stage Startups"
+  ],
+  "key_use_cases": [
+    "Employee background verification",
+    "Contractor verification",
+    "Identity and address verification",
+    "Education and employment verification",
+    "Criminal and credit checks",
+    "User, merchant, or customer verification for loan disbursal",
+    "User, merchant, or customer verification for insurance products",
+    "User, merchant, or customer verification for rental agreements (house, vehicle, furniture)",
+    "Issuing digital employment credentials to ex-employees (eLockr)",
+    "Outsourcing ex-employee verification (eLockr)",
+    "Gaining attrition insights (eLockr)",
+    "Customer onboarding (Gridlines APIs)",
+    "Automating fraud risk monitoring (Gridlines APIs)"
+  ],
+  "competitive_advantages": [
+    "Faster, digital, and cost-effective trust establishment and accountability assurance",
+    "Mitigates risk and ensures compliance",
+    "Positions itself as India's leading background verification platform",
+    "Provides digital employment credentials for ex-employees and attrition insights",
+    "Offers advanced API capabilities for customer onboarding and fraud risk monitoring"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Reference Checks",
+    "Background Checks",
+    "Pre-employment Screening",
+    "Employee Data Management (digital credentials)",
+    "Offboarding (ex-employee verification)",
+    "HR Analytics (attrition insights)",
+    "Risk Management (employee/contractor verification)",
+    "Compliance Management (employee/contractor verification)"
+  ],
+  "integration_capabilities": [
+    "API Integration"
+  ],
+  "roi_benefits": [
+    "Faster hiring speed",
+    "Improved hiring efficiency",
+    "Risk mitigation",
+    "Ensured compliance",
+    "Cost-effective trust establishment and accountability assurance",
+    "Outsourced ex-employee verification",
+    "Invaluable attrition insights",
+    "Simplified customer onboarding",
+    "Automated fraud risk monitoring"
+  ],
+  "searchable_keywords": [
+    "OnGrid",
+    "Digital Trust Platform",
+    "Identity Verification",
+    "Address Verification",
+    "Education Verification",
+    "Employment Verification",
+    "Criminal Check",
+    "Credit Check",
+    "Recruiting",
+    "Reference Check Software",
+    "Background Check Software",
+    "Pre-employment Screening Software",
+    "Hiring Speed",
+    "Talent Pipeline",
+    "Hiring Efficiency",
+    "Candidate Screening",
+    "Data-driven Hiring",
+    "Hiring Automation",
+    "eLockr",
+    "Gridlines",
+    "Employee Verification",
+    "Contractor Verification",
+    "Fraud Risk Monitoring",
+    "Customer Onboarding",
+    "Attrition Insights",
+    "Digital Credentials",
+    "Compliance",
+    "Risk Mitigation",
+    "Digital Verification"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Recruiting Managers",
+    "Compliance Officers",
+    "Risk Management Teams",
+    "Business Owners",
+    "Financial Institutions (loan providers, insurance providers)",
+    "Rental Companies (house, vehicle, furniture)",
+    "Startups (for customer onboarding/fraud monitoring)"
+  ],
+  "deployment_options": [
+    "Cloud-based (Web Platform)",
+    "API-based"
+  ],
+  "_weight": 1
+}

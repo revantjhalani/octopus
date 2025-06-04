@@ -1,0 +1,168 @@
+{
+  "id": 1113,
+  "name": "Sensys Technologies",
+  "description": "Sensys Technologies is the Developer and Supplier of advance range of Taxation & HR related Software Products & Services. We have Software Solutions available on TDS, XBRL, Payroll, Web based Payroll, Payroll Software as a Service, Fixed Asset, Service Tax, Income Tax, Digital Signature, PDF Signer, Databackup & Attendance Machine. Today, we have mustered a huge clientele due to our streamlined business operations and effective and feasible solutions. We aim to achieve complete client satisfaction & are building this company for the long term - a profitable company that is highly relevant to its clients, supportive of its people, and respected in the marketplace.",
+  "features": [
+    "Tax Solutions, Accounting, Inventory Systems",
+    "Human Resource Management System",
+    "Content Management and Information Portal Solutions"
+  ],
+  "founders": [
+    "Safique Idrisi  "
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Payroll services providers",
+    "Compensation management software"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Employee happiness"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2004",
+  "order": 21056,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Sensys Technologies is the established Developer and Supplier of advance range of Taxation & HR-related software product",
+  "ProductId": null,
+  "ShortDescription": "Sensys Technologies is the Developer and Supplier of advance range of Taxation & HR related Software Products & Services.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": " Cloud Payroll & HR Software",
+      "sequence": 0,
+      "description": "HRMThread is very easy, flexible, and user-friendly Cloud Payroll Management software that takes care of all your requirements relating to accounting and the management of employee Payroll. This versatile, user-friendly package offers user-defined earnings, deductions, loan heads, calculation formulas, and tables."
+    },
+    {
+      "name": "EasyTDS - Make Tedious Job Easy",
+      "sequence": 1,
+      "description": "EasyTDS Enterprise is a complete & user friendly TDS software for Calculation,Certificates, challan Quarterly eTDS Returns (Electronic & Paper format)."
+    },
+    {
+      "name": "Effective Asset Management System",
+      "sequence": 2,
+      "description": "AssetThread is a Fixed Asset Management Software designed to Track & Manage Fixed Assets. This software will help you in eliminate drudgery and cost of maintaining Fixed Assets. It will help you in ensuring that all assets are properly insured, are under AMC. It will help you in calculating correct asset valuations and accurate depreciation deductions."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:40:49.145Z",
+  "enhanced_description": "Sensys Technologies, established in 2004, is a developer and supplier of advanced software products and services primarily focused on Taxation and HR. Their comprehensive suite includes solutions for TDS (Tax Deducted at Source), XBRL (eXtensible Business Reporting Language), Payroll (including web-based and Software as a Service options), Fixed Asset management, Service Tax, Income Tax, Digital Signature, PDF Signer, Databackup, and Attendance Machine integration. Key offerings include HRMThread, a user-friendly and flexible cloud-based payroll management software that supports accounting, employee payroll, and user-defined earnings, deductions, and loan heads. EasyTDS Enterprise provides complete and user-friendly TDS software for calculation, certificates, challan, and quarterly eTDS returns in both electronic and paper formats. AssetThread is a Fixed Asset Management Software designed to track and manage fixed assets, aiding in insurance, AMC management, accurate asset valuations, and depreciation deductions. Sensys Technologies also provides general Human Resource Management Systems and Content Management/Information Portal Solutions. The company aims for long-term client satisfaction and market relevance through its effective and feasible solutions.",
+  "key_use_cases": [
+    "Payroll processing and management, including cloud-based payroll, accounting, and employee payroll management.",
+    "Taxation compliance and filing, specifically for TDS, Service Tax, and Income Tax.",
+    "Electronic tax return generation and submission (e.g., eTDS returns).",
+    "Fixed asset tracking, management, valuation, and depreciation calculation.",
+    "Digital signature and PDF document signing.",
+    "Data backup and recovery.",
+    "Integration with attendance machines for employee time tracking.",
+    "General human resource management.",
+    "Content management and information portal creation."
+  ],
+  "competitive_advantages": [
+    "User-friendly and flexible cloud-based payroll management (HRMThread).",
+    "Comprehensive and user-friendly TDS software for calculations and e-filing (EasyTDS Enterprise).",
+    "Automated fixed asset management to reduce manual effort and costs (AssetThread).",
+    "Solutions designed to achieve high client satisfaction and relevance.",
+    "Streamlined business operations and effective solutions."
+  ],
+  "implementation_scenarios": [
+    "Cloud-based deployment (for HRMThread and Web based Payroll)",
+    "Software as a Service (SaaS) model"
+  ],
+  "hr_functions_supported": [
+    "Payroll management",
+    "Compensation management (earnings, deductions, loans)",
+    "Attendance tracking",
+    "General Human Resource Management"
+  ],
+  "integration_capabilities": [
+    "Attendance machine integration"
+  ],
+  "roi_benefits": [
+    "Elimination of drudgery and cost in maintaining fixed assets.",
+    "Ensuring proper insurance and AMC for assets.",
+    "Accurate asset valuations and depreciation deductions for financial and tax benefits.",
+    "Operational efficiency through streamlined business operations and effective solutions.",
+    "Improved employee happiness through accurate and timely payroll processing."
+  ],
+  "searchable_keywords": [
+    "Sensys Technologies",
+    "Taxation software",
+    "HR software",
+    "TDS",
+    "XBRL",
+    "Payroll",
+    "Web based Payroll",
+    "Payroll Software as a Service",
+    "Fixed Asset",
+    "Service Tax",
+    "Income Tax",
+    "Digital Signature",
+    "PDF Signer",
+    "Databackup",
+    "Attendance Machine",
+    "Payroll management",
+    "Cloud payroll",
+    "HR management",
+    "Asset management",
+    "Tax compliance",
+    "Compensation management software",
+    "Employee benefits",
+    "Employee happiness",
+    "HRMThread",
+    "EasyTDS",
+    "AssetThread",
+    "eTDS Returns",
+    "Accounting software",
+    "Inventory Systems",
+    "Content Management",
+    "Information Portal Solutions",
+    "Mumbai",
+    "Maharashtra"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "Accounting professionals",
+    "Finance professionals",
+    "Business owners/managers"
+  ],
+  "deployment_options": [
+    "Cloud",
+    "SaaS (Software as a Service)"
+  ],
+  "compliance_features": [
+    "TDS (Tax Deducted at Source) compliance",
+    "XBRL (eXtensible Business Reporting Language) reporting",
+    "Service Tax compliance",
+    "Income Tax compliance",
+    "Quarterly eTDS Returns (Electronic & Paper format) generation",
+    "Support for accurate asset valuations and depreciation deductions for accounting and tax purposes"
+  ],
+  "_weight": 1
+}

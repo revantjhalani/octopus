@@ -1,0 +1,152 @@
+{
+  "id": 1304,
+  "name": "Blonk",
+  "description": "Blonk Group is a talent acquisition firm with a unique approach to helping companies attract, select and retain the right people. We are international, based in Paris, Singapore and Silicon Valley. Our talent acquisition solutions are powered by an AI-based recruitment platform designed to address hurdles in recruiting. Created by recruitment experts for HR & Hiring Managers, our innovative digital search solutions help companies create a competitive edge through Talent Acquisition. ABOUT BLONK APP Created in Silicon Valley at the end of 2014, Blonk app is a mobile recruitment and networking platform inspired by love matching principles. Using AI and video, Blonk helps the right talents and hiring leaders find each other across geographies in a few swipes. Talents get a chance to express their unique style and potential through video. Hiring leaders can also record their profile to attract the best people.",
+  "features": [
+    "Mobile job matching",
+    "Executive search",
+    "Networking",
+    "Recruitment Software",
+    "Talent Acquisition"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Talent acquisition suites",
+    "Staffing services providers"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring Efficiency",
+    "Quality of Hire",
+    "Hiring speed"
+  ],
+  "headquarter": "Paris, France",
+  "launch_date": "2014",
+  "order": 21128,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Search solutions powered by Mind+Machine",
+  "ProductId": null,
+  "ShortDescription": "Blonk Group is a talent acquisition firm with a unique approach to helping companies attract, select and retain the right people.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Bringing your brand to life",
+      "sequence": 0,
+      "description": "Our senior team helps you design and convey a genuine and attractive story to Top Executives through the latest digital channels."
+    },
+    {
+      "name": "We select with you and \"You get a and Match!\"",
+      "sequence": 1,
+      "description": "We bring to you pre-selected and motivated Executives only. You get a Match on the go using our AI based mobile matching application in a \"Tinder-like way\"."
+    },
+    {
+      "name": "We track and retain ",
+      "sequence": 2,
+      "description": "Manage your Executive Talent pool with SOblonk, our intuitive Engagement & Tracking System (ETS)"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:32.083Z",
+  "enhanced_description": "Blonk Group is an international talent acquisition firm with offices in Paris, Singapore, and Silicon Valley. They offer a unique approach to helping companies attract, select, and retain talent, with a particular focus on Top Executives. Their talent acquisition solutions are powered by an AI-based recruitment platform, known as the Blonk app. Launched in 2014, the Blonk app functions as a mobile recruitment and networking platform, inspired by 'love matching principles,' using AI and video to connect talents and hiring leaders across geographies through a 'Tinder-like' swiping experience. Talents can express their unique style and potential through video, while hiring leaders can also record their profiles to attract the best candidates. Beyond the app, Blonk also provides an intuitive Engagement & Tracking System (ETS) called SOblonk to manage executive talent pools, aiming to improve hiring efficiency, quality of hire, and hiring speed.",
+  "key_use_cases": [
+    "Attracting, selecting, and retaining talent",
+    "Mobile job matching",
+    "Executive search",
+    "Recruitment networking",
+    "Digital search for talent",
+    "Pre-selection of executives",
+    "Management of executive talent pools",
+    "Talent engagement and tracking"
+  ],
+  "competitive_advantages": [
+    "Unique approach to talent acquisition",
+    "AI-based recruitment platform (Blonk app)",
+    "Mobile recruitment and networking platform inspired by 'love matching principles'",
+    "Uses AI and video for talent-leader matching",
+    "Allows talents to express unique style and potential through video",
+    "Enables hiring leaders to record video profiles",
+    "Offers a 'Tinder-like' mobile matching experience",
+    "Provides pre-selected and motivated Executives",
+    "Includes an intuitive Engagement & Tracking System (SOblonk ETS) for executive talent pool management",
+    "Expertise in designing and conveying genuine brand stories to Top Executives through digital channels"
+  ],
+  "implementation_scenarios": [
+    "As a staffing services provider",
+    "As a recruitment software platform"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Recruiting",
+    "Executive Search",
+    "Talent Pool Management",
+    "Talent Engagement",
+    "Talent Tracking"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Video technology",
+    "Mobile platform",
+    "Engagement & Tracking System (ETS)"
+  ],
+  "roi_benefits": [
+    "Improved Hiring Efficiency",
+    "Enhanced Quality of Hire",
+    "Increased Hiring Speed",
+    "Creation of a competitive edge through Talent Acquisition"
+  ],
+  "searchable_keywords": [
+    "Blonk",
+    "Talent acquisition",
+    "Recruitment",
+    "AI recruitment",
+    "Mobile recruitment",
+    "Executive search",
+    "Networking",
+    "Recruitment software",
+    "Talent acquisition suites",
+    "Staffing services",
+    "Hiring efficiency",
+    "Quality of hire",
+    "Hiring speed",
+    "Talent pool management",
+    "Video recruitment",
+    "Digital search solutions",
+    "ETS"
+  ],
+  "primary_users": [
+    "HR Managers",
+    "Hiring Managers",
+    "Hiring Leaders",
+    "Talents (Job Seekers)"
+  ],
+  "deployment_options": [
+    "Mobile Application"
+  ],
+  "_weight": 1
+}

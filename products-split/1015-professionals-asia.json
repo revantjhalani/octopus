@@ -1,0 +1,141 @@
+{
+  "id": 1015,
+  "name": "Professionals Asia",
+  "description": "Starting off in Malaysia, our aim is to list Professional & Executive Programs with an Expert Profile attached to them, and offer an efficient platform linking Corporate HR and Learning & Development (L&D) Specialists with Subject Matter Experts and Executive Education Providers.",
+  "features": [
+    "Wellness in House program",
+    "Localized search tools",
+    "Automated-Customization"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement",
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Course authoring",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Skill acquisition",
+    "Continuous learning",
+    "Learning optimisation",
+    "Employee empowerment"
+  ],
+  "headquarter": "Selangor",
+  "launch_date": "2021",
+  "order": 20958,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Connecting Experts",
+  "ProductId": null,
+  "ShortDescription": "Professionals Asia is Malaysia\u2019s online \u2018Continuing Education & Training\u2019 marketplace.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Executive Education Programs:",
+      "sequence": 0,
+      "description": "Professionals Asia focuses on providing executive education programs.  This suggests they offer courses and training designed for professionals looking to develop their leadership and management skills."
+    },
+    {
+      "name": "Short and Focused Training",
+      "sequence": 1,
+      "description": "he website emphasizes \"Short Training Programs.\" This indicates that Professionals Asia offers concise and focused training programs, catering to busy professionals who may not have time for extensive coursework."
+    },
+    {
+      "name": "Malaysia-Based:",
+      "sequence": 2,
+      "description": "he website is in English but with a Malaysian domain name (.my) suggesting their primary location is Malaysia. This could indicate a focus on serving professionals in the Malaysian region or businesses operating there."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:38:50.930Z",
+  "enhanced_description": "Professionals Asia is an online 'Continuing Education & Training' marketplace based in Malaysia, launched in 2021. It aims to connect Corporate HR and Learning & Development (L&D) Specialists with Subject Matter Experts and Executive Education Providers by listing Professional & Executive Programs that include an Expert Profile. The platform focuses on offering short and focused training programs, including wellness in-house programs, utilizing localized search tools and automated customization capabilities to accelerate skill development, improve learning efficiency, and boost employee happiness and engagement.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Connecting Corporate HR/L&D with Subject Matter Experts for training",
+    "Connecting Corporate HR/L&D with Executive Education Providers for training",
+    "Discovering and enrolling in Professional & Executive Programs",
+    "Facilitating continuing education and training for employees",
+    "Implementing in-house wellness programs",
+    "Utilizing localized search for training programs",
+    "Automating customization of training solutions",
+    "Accelerating skill development and learning efficiency",
+    "Improving employee happiness and engagement through learning opportunities"
+  ],
+  "competitive_advantages": [
+    "Efficient platform linking corporate HR/L&D with experts and education providers",
+    "Malaysia-specific online marketplace for continuing education and training",
+    "Programs listed with attached Expert Profiles",
+    "Focus on short and focused training programs",
+    "Includes specific 'Wellness in House program' offering",
+    "Provides localized search tools",
+    "Offers automated customization for programs"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development (L&D)"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness and Engagement",
+    "Accelerated Skill Development and Learning Efficiency"
+  ],
+  "searchable_keywords": [
+    "Professionals Asia",
+    "Malaysia",
+    "Professional Programs",
+    "Executive Programs",
+    "Expert Profile",
+    "Corporate HR",
+    "Learning & Development",
+    "L&D Specialists",
+    "Subject Matter Experts",
+    "Executive Education Providers",
+    "Wellness in House program",
+    "Localized search tools",
+    "Automated-Customization",
+    "Continuing Education",
+    "Training marketplace",
+    "Skill development",
+    "Skill acquisition",
+    "Continuous learning",
+    "Learning optimisation",
+    "Employee empowerment",
+    "Short training programs",
+    "Focused training"
+  ],
+  "primary_users": [
+    "Corporate HR personnel",
+    "Learning & Development (L&D) Specialists",
+    "Subject Matter Experts (as providers)",
+    "Executive Education Providers (as providers)"
+  ],
+  "_weight": 1
+}

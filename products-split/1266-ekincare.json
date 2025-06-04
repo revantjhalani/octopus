@@ -1,0 +1,167 @@
+{
+  "id": 1266,
+  "name": "Ekincare",
+  "description": "Ekincare includes annual health checkups (AHC), telemedicine (online doctor consultations), e-pharmacy (order medicines online), vaccinations, mental health and well-being services, access to fitness centers and more.",
+  "features": [
+    "Prime Cover: Service surety for higher employee engagement and holistic health benefits",
+    "Flexi Cover: More savings with higher employee engagement and limitless options"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Benefits administration software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee happiness programs",
+    "Employee satisfaction",
+    "Employee well being",
+    "Employee hapiness",
+    "Employee benefits",
+    "Company culture",
+    "Employee happiness metrics"
+  ],
+  "headquarter": "Hyderabad, Telangana",
+  "launch_date": "2015",
+  "order": 21094,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "A full stack health benefits platform that is predictive, preventive and personalized",
+  "ProductId": null,
+  "ShortDescription": "New age health benefits for the new normal",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "OPD benefits",
+      "sequence": 0,
+      "description": "Provide health checks, telemedicine, pharmacy delivery, fitness sessions, dental/vision services on a single platform"
+    },
+    {
+      "name": "Medical Rooms",
+      "sequence": 1,
+      "description": "Focus on your core business while ekincare manages the day-to-day processes of your Occupational Health Centers (OHCs)"
+    },
+    {
+      "name": "Healthcare financing",
+      "sequence": 2,
+      "description": "Provide cashless and easy zero-interest EMIs to employees on big-ticket healthcare procedures"
+    },
+    {
+      "name": "Mental health",
+      "sequence": 3,
+      "description": "Ensure your employees are happy and productive with employee assistance programs and counsellor support"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:13:33.380Z",
+  "enhanced_description": "Ekincare, launched in 2015 and headquartered in Hyderabad, Telangana, is described as a full-stack health benefits platform that is predictive, preventive, and personalized. It aims to provide new-age health benefits for the new normal, encompassing a wide range of services. These include annual health checkups (AHC), telemedicine for online doctor consultations, an e-pharmacy for ordering medicines, vaccinations, mental health and well-being services, and access to fitness centers. The platform consolidates OPD benefits like health checks, pharmacy delivery, fitness sessions, and dental/vision services onto a single platform. Ekincare also offers management for Occupational Health Centers (OHCs) through its Medical Rooms service and provides healthcare financing options, such as cashless and zero-interest EMIs for employees on significant healthcare procedures. Additionally, it supports employee mental well-being through employee assistance programs and counsellor support.",
+  "key_use_cases": [
+    "Administering comprehensive employee health and well-being benefits",
+    "Improving employee happiness and engagement through health initiatives",
+    "Managing corporate wellness programs",
+    "Providing remote and in-person healthcare access for employees (telemedicine, health checks, OHCs)",
+    "Facilitating access to e-pharmacy and vaccination services",
+    "Supporting employee mental health through assistance programs and counselling",
+    "Offering flexible healthcare financing options to employees",
+    "Streamlining and consolidating diverse health services on a single platform"
+  ],
+  "competitive_advantages": [
+    "Positioned as a full-stack, predictive, preventive, and personalized health benefits platform",
+    "Offers a comprehensive suite of health services on a single platform (e.g., health checks, telemedicine, pharmacy, fitness, dental/vision)",
+    "Provides a unique service for managing Occupational Health Centers (OHCs) for businesses",
+    "Includes innovative healthcare financing options like cashless and zero-interest EMIs for employees",
+    "Features 'Prime Cover' for service surety and holistic health benefits, enhancing employee engagement",
+    "Offers 'Flexi Cover' promising more savings and limitless options for higher employee engagement"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Potential for higher employee productivity through enhanced well-being",
+    "Opportunity for cost savings in benefits administration and utilization (via 'Flexi Cover')",
+    "Reduced administrative burden for managing diverse health benefits by centralizing services",
+    "Alleviated financial stress for employees regarding high-cost healthcare procedures through financing options",
+    "Optimized management of Occupational Health Centers, allowing businesses to focus on core operations"
+  ],
+  "searchable_keywords": [
+    "Ekincare",
+    "health benefits platform",
+    "corporate wellness software",
+    "benefits administration software",
+    "health & safety providers",
+    "employee engagement",
+    "employee happiness programs",
+    "employee satisfaction",
+    "employee well-being",
+    "employee benefits",
+    "company culture",
+    "employee happiness metrics",
+    "annual health checkups",
+    "AHC",
+    "telemedicine",
+    "online doctor consultations",
+    "e-pharmacy",
+    "order medicines online",
+    "vaccinations",
+    "mental health services",
+    "fitness centers",
+    "Prime Cover",
+    "Flexi Cover",
+    "holistic health benefits",
+    "predictive health",
+    "preventive health",
+    "personalized health",
+    "OPD benefits",
+    "health checks",
+    "pharmacy delivery",
+    "dental services",
+    "vision services",
+    "Medical Rooms",
+    "Occupational Health Centers",
+    "OHCs",
+    "Healthcare financing",
+    "cashless EMIs",
+    "zero-interest EMIs",
+    "employee assistance programs",
+    "counsellor support"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards",
+    "Benefits Administration",
+    "Corporate Wellness",
+    "Employee Health & Safety",
+    "Employee Engagement",
+    "Employee Well-being"
+  ],
+  "primary_users": [
+    "HR professionals (for managing benefits and wellness programs)",
+    "Employees (for accessing health services and benefits)",
+    "Occupational Health Center (OHC) staff/management (if utilizing Ekincare's OHC management services)"
+  ],
+  "_weight": 1
+}

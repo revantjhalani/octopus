@@ -1,0 +1,145 @@
+{
+  "id": 1098,
+  "name": "Sarvika Technologies Private Limited",
+  "description": "Founded in 2013, Sarvika Technologies Pvt. Ltd. is a one-stop solution provider that offers vast array of services for your business. E commerce Solutions, Database Administration, Quality Assurance Engineering, Application Development, Off-Shore Consulting, Website Art and a lot more related fields are our forte. Sarvika Technologies is a software solutions company helping clients at all levels of growth with its technical expertise. The company came into existence in 2013 with a vision to help businesses replace traditional processes with digitized solutions. From helping start-ups design IT processes to modernizing and building custom solutions for enterprises, the company has covered a long distance in positioning itself as the leading IT partner. Sarvika Technologies has a global clientele maintaining presence primarily in North America, and has a unit of 100+ techies armed with a massive tech stack including Java, Golang,",
+  "features": [
+    "Initial Interaction     ",
+    "Technical Interview",
+    "Real-time Assignment"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "HR management suites",
+    "Talent management software",
+    "Onboarding software",
+    "Video interviewing software"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring efficiency"
+  ],
+  "headquarter": "Jaipur, Rajasthan",
+  "launch_date": "2013",
+  "order": 21041,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "We mean universal, without flags, borders and limits",
+  "ProductId": null,
+  "ShortDescription": "Founded in 2013, Sarvika Technologies Pvt. Ltd. is a one-stop solution provider that offers vast array of services for your business. E commerce Solutions, Database Administration, Quality Assurance Engineering, Application Development, Off-Shore Consulting, Website Art and a lot more related fields are our forte.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:40:31.087Z",
+  "enhanced_description": "Sarvika Technologies Private Limited, founded in 2013, is a comprehensive software solutions provider focused on helping businesses digitize traditional processes. While offering a broad range of IT services including E-commerce solutions, Database Administration, Quality Assurance Engineering, Application Development, Off-Shore Consulting, and Website Art, Sarvika Technologies also specializes in HR technology solutions. Their HR forte encompasses Talent Management and Recruiting categories, specifically delivering HR management suites, Talent management software, Onboarding software, and Video interviewing software. The company builds custom IT solutions for clients at all levels of growth, from assisting startups in designing IT processes to modernizing and developing custom solutions for enterprises. Sarvika Technologies serves a global clientele, with a primary presence in North America, and is backed by a team of over 100 tech professionals utilizing a robust tech stack, including Java and Golang.",
+  "ideal_company_sizes": [
+    "Startups",
+    "Small & Medium Businesses (SMBs)",
+    "Enterprises"
+  ],
+  "key_use_cases": [
+    "Recruitment process management (Initial Interaction, Technical Interview, Real-time Assignment)",
+    "Candidate assessment and interviewing (Video Interviewing Software)",
+    "Employee onboarding",
+    "Talent management",
+    "Digitizing traditional business processes"
+  ],
+  "competitive_advantages": [
+    "One-stop solution provider for broad IT and HR tech needs",
+    "Ability to build custom solutions for enterprises",
+    "Global clientele and North America presence",
+    "Extensive technical expertise with a diverse tech stack (Java, Golang)",
+    "Team of 100+ tech professionals"
+  ],
+  "implementation_scenarios": [
+    "Custom IT solutions implementation",
+    "Digitization of business processes"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Management",
+    "Onboarding",
+    "Interviewing"
+  ],
+  "technology_stack": [
+    "Java",
+    "Golang"
+  ],
+  "roi_benefits": [
+    "Boost Hiring Manager Confidence",
+    "Improve Hiring Manager Productivity",
+    "Improve Employee Happiness",
+    "Improve Employee Engagement",
+    "Increase Hiring efficiency"
+  ],
+  "searchable_keywords": [
+    "Sarvika Technologies",
+    "software solutions",
+    "IT services",
+    "E-commerce",
+    "Database Administration",
+    "Quality Assurance",
+    "Application Development",
+    "Off-Shore Consulting",
+    "Website Art",
+    "digitized solutions",
+    "custom solutions",
+    "HR tech",
+    "Talent Management",
+    "Recruiting",
+    "HR management suites",
+    "Talent management software",
+    "Onboarding software",
+    "Video interviewing software",
+    "Hiring",
+    "Recruitment",
+    "Hiring efficiency",
+    "Initial Interaction",
+    "Technical Interview",
+    "Real-time Assignment",
+    "Hiring Manager Confidence",
+    "Employee Happiness",
+    "Employee Engagement",
+    "Java",
+    "Golang",
+    "Jaipur"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Recruiters",
+    "Hiring Managers",
+    "Candidates (for interview/assignment features)"
+  ],
+  "scalability_features": [
+    "Designed to support businesses across all growth stages, from startups to large enterprises, indicating their solutions are built with scalability in mind to accommodate varying organizational sizes and demands."
+  ],
+  "_weight": 1
+}

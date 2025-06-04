@@ -1,0 +1,155 @@
+{
+  "id": 334,
+  "name": "Urbanhire",
+  "description": "Urbanhire As an IT Consulting expert, provides strategic guidance to businesses seeking to harness technology for growth and innovation.",
+  "features": [
+    "SaaS based Company solution",
+    "Technology based HR Solution",
+    "Aplicants Tracking System"
+  ],
+  "founders": [
+    "Jepri Torang Sinaga"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing services providers",
+    "Recruiting software",
+    "Staffing & management software",
+    "HR management suites",
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs"
+  ],
+  "headquarter": "Jakarta Selatan, DKI Jakarta",
+  "launch_date": "2016",
+  "order": 20296,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Your hiring journey simplified",
+  "ProductId": null,
+  "ShortDescription": "Urbanhire innovates recruitment process to yield best results to the businesses. ",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "CONSULTING SERVICES",
+      "sequence": 0,
+      "description": "Urban Hire offers recruiting, prospecting, IT solutions from small, medium & large firms serving many of the world\u2019s leading companies. Discover advanced, innovative Recruitment strategies and processes which allows them to remain focused on their core business."
+    },
+    {
+      "name": "STAFFING SOLUTIONS",
+      "sequence": 1,
+      "description": "We help companies cater their requirements towards present trending technologies, UI and UX resolutions for their website and would help them add a pinch of essence with new Unique Innovative solution which adds value to them in the current market."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:31.246Z",
+  "enhanced_description": "Urbanhire provides a SaaS-based HR technology solution, primarily featuring an Applicant Tracking System (ATS) to innovate and simplify the recruitment process. Aimed at boosting hiring manager confidence and productivity, the platform helps businesses hire top talent faster and more efficiently, while reducing the cost of hiring qualified employees. Beyond its software offering, Urbanhire also functions as an IT Consulting expert, delivering strategic guidance, advanced recruitment strategies, prospecting services, and staffing solutions to small, medium, large, and global enterprise firms seeking to leverage technology for growth and efficient talent acquisition.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Applicant tracking",
+    "Talent acquisition",
+    "Optimizing the hiring process",
+    "Streamlining recruitment",
+    "Reducing time-to-hire",
+    "Reducing recruitment costs",
+    "Strategic recruitment planning",
+    "Hiring process simplification"
+  ],
+  "competitive_advantages": [
+    "Combines proprietary HR technology (Applicant Tracking System) with professional consulting services, including IT solutions, strategic recruitment guidance, and staffing services, offering a holistic approach to talent acquisition and business growth."
+  ],
+  "implementation_scenarios": [
+    "SaaS/Cloud-based deployment"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Management",
+    "Applicant Tracking",
+    "Staffing (as a service)"
+  ],
+  "roi_benefits": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Reduce the Cost of Hiring Qualified Employees",
+    "Yield best recruitment results for businesses",
+    "Simplified hiring journey"
+  ],
+  "searchable_keywords": [
+    "Urbanhire",
+    "Talent management",
+    "Recruiting",
+    "Staffing services providers",
+    "Recruiting software",
+    "Staffing & management software",
+    "HR management suites",
+    "Software and Services Related to HR Software",
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "SaaS",
+    "HR Solution",
+    "Applicant Tracking System",
+    "ATS",
+    "IT Consulting",
+    "Strategic guidance",
+    "Recruitment process",
+    "Hiring journey",
+    "Hiring managers",
+    "Top talent",
+    "Efficient hiring",
+    "Cost reduction",
+    "Consulting services",
+    "Staffing solutions",
+    "IT solutions",
+    "Recruitment strategies",
+    "Prospecting"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Hiring Managers",
+    "HR Professionals",
+    "HR Leadership"
+  ],
+  "deployment_options": [
+    "SaaS"
+  ],
+  "_weight": 1
+}

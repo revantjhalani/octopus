@@ -1,0 +1,151 @@
+{
+  "id": 749,
+  "name": "Interview Air",
+  "description": "Interview Air is a bunch of young entrepreneurs from IIT and IIM who have come up with an innovative web based technology called \u201cVideo Profiling\u201d, a new ecosystem for \u201cTraining and Hiring\u201d Our remarkable journey started in September 2015 with the motive to bridge the gap between candidates and corporates. Breaking the shackles of the traditional campus training services, Interview Air is proud to deliver a completely unique and different approach. We take pride in calling ourselves as the friend, philosopher and guide to the millions of college goers aspiring for a bright future. Our team of experts are here with a unique personality development tool to make you future ready.",
+  "features": [
+    "Excellent Team",
+    "Continuous learning",
+    "Sustainable Development"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Video interviewing software",
+    "Onboarding software"
+  ],
+  "tags": [
+    "Interviewing costs",
+    "Hiring automation"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2014",
+  "order": 20702,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Jobs and Interviews Simplified",
+  "ProductId": null,
+  "ShortDescription": "To provide a video based recruitment and skill development platform connecting Candidates, Colleges, Companies, Consultants, Trainers & Institutes with an aim to reduce costs, time and travel and improve the turnaround time.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Save Time, Cost & Efforts",
+      "sequence": 0,
+      "description": "Increase selection efficiency with almost negligible efforts, by selecting the candidates on the basis of interviews, not resumes. Since 1st/2nd & 3rd round of interviews can be conducted on the platform, Time and Cost for inviting the candidates again and again is saved."
+    },
+    {
+      "name": "Hire Talent \u201cOn The Go\u201d",
+      "sequence": 1,
+      "description": "Using highly intuitive \u201cInterviewair App\u201d candidates can be shortlisted on the go, making it independent of physical invitation for multiple rounds of HR Interviews . Talent can be hired better and quicker from any geographical location, completely time independent."
+    },
+    {
+      "name": "Multiple Interview Rounds",
+      "sequence": 2,
+      "description": "Interviewair provides a platform which helps Companies HR and Recruitment Agencies conduct multiple rounds of interviews, both technical and non-technical, using video technology. The process is completely asynchronous where both the interviewer and interviewee can access the system at their own convenience."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:42.779Z",
+  "enhanced_description": "Interview Air provides an innovative web-based 'Video Profiling' technology, serving as a comprehensive ecosystem for 'Training and Hiring'. It's a video-based recruitment and skill development platform designed to bridge the gap between candidates and corporates. The platform connects various stakeholders including Candidates, Colleges, Companies, Consultants, Trainers, and Institutes, aiming to significantly reduce recruitment costs, time, and travel, while improving turnaround time. Key features include the ability to conduct multiple interview rounds (1st, 2nd, 3rd, technical, and non-technical) using asynchronous video technology, allowing both interviewers and interviewees to access the system at their convenience. Additionally, its intuitive 'Interviewair App' enables 'on-the-go' candidate shortlisting and hiring, independent of physical location or time, enhancing selection efficiency by focusing on video interviews rather than solely resumes, ultimately saving time, cost, and effort.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Video profiling of candidates",
+    "Conducting multiple rounds of interviews (1st, 2nd, 3rd, technical, non-technical)",
+    "Asynchronous video interviewing",
+    "On-the-go candidate shortlisting and hiring via mobile app",
+    "Reducing recruitment time, cost, and travel",
+    "Improving hiring turnaround time",
+    "Skill development and personality development for candidates",
+    "Campus training services integration"
+  ],
+  "competitive_advantages": [
+    "Innovative web-based 'Video Profiling' technology",
+    "Asynchronous video interview capability for convenience",
+    "Mobile application ('Interviewair App') for 'on-the-go' hiring",
+    "Ability to conduct multiple interview rounds (technical/non-technical) on a single platform",
+    "Comprehensive ecosystem connecting Candidates, Colleges, Companies, Consultants, Trainers, and Institutes",
+    "Focus on reducing costs, time, and travel in hiring"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Video Interviewing",
+    "Onboarding",
+    "Candidate Assessment",
+    "Skill Development"
+  ],
+  "technology_stack": [
+    "Web-based platform",
+    "Mobile application"
+  ],
+  "roi_benefits": [
+    "Reduce the Cost of Hiring Qualified Employees",
+    "Reduce recruitment costs, time, and travel",
+    "Improve turnaround time for hiring",
+    "Increase selection efficiency",
+    "Save Time, Cost & Efforts in the hiring process",
+    "Enable quicker and better talent acquisition"
+  ],
+  "searchable_keywords": [
+    "Interview Air",
+    "Interviewair",
+    "Video Profiling",
+    "Video interviewing software",
+    "Onboarding software",
+    "Recruiting",
+    "Recruitment",
+    "Hiring",
+    "Talent acquisition",
+    "Interviewing costs",
+    "Hiring automation",
+    "Skill development",
+    "Personality development",
+    "Asynchronous video interview",
+    "Mobile recruitment app",
+    "Online interviews",
+    "Remote hiring",
+    "Campus recruitment",
+    "College placements"
+  ],
+  "primary_users": [
+    "Candidates",
+    "Companies (HR and Recruitment Agencies)",
+    "Colleges",
+    "Consultants",
+    "Trainers",
+    "Institutes",
+    "Interviewers",
+    "Interviewees"
+  ],
+  "deployment_options": [
+    "Web-based (SaaS)",
+    "Mobile application"
+  ],
+  "_weight": 1
+}

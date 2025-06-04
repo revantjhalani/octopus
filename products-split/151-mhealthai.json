@@ -1,0 +1,157 @@
+{
+  "id": 151,
+  "name": "mHealthAI",
+  "description": "We help corporate personalize their wellness calendar, create focused groups, engage employees through stepathon challenges, teleconsultation, diet & nutrition consultation, mindfulness sessions, and other wellness programs. Our performance dashboards help HR Leaders improve the efficacy and engagement in the program. Our open architecture approach helps us seamlessly integrate with partner networks and provide a B2B Wellness marketplace to customers.",
+  "features": [
+    "Stepathon Challenge",
+    "Health Wellness",
+    "Tele-Consultation"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Benefits administration software"
+  ],
+  "tags": [
+    "Employee happiness",
+    "Employee well being"
+  ],
+  "headquarter": "Gurugram ",
+  "launch_date": "2021",
+  "order": 20118,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "AI-powered community-based wellness platform for corporates",
+  "ProductId": null,
+  "ShortDescription": "mHealthAI helps corporate to personalize their employee wellness and engagement.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Analytics & Dashboard",
+      "sequence": 0,
+      "description": "Discover the power of mHealth and revolutionize the way your employees access healthcare services!"
+    },
+    {
+      "name": "Corporate Microsite",
+      "sequence": 1,
+      "description": "A corporate microsite offers a personalized and visually compelling experience for your target audience, ideal for events, launches, and campaigns. "
+    },
+    {
+      "name": "Customized Programs",
+      "sequence": 2,
+      "description": "mHealth offers convenient and cost-effective solutions that can improve your workforce's health and well-being."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:27.798Z",
+  "enhanced_description": "mHealthAI is an AI-powered community-based wellness platform designed for corporates. It helps organizations personalize their employee wellness and engagement by offering a range of programs including stepathon challenges, teleconsultation, diet & nutrition consultation, and mindfulness sessions. The platform allows for the creation of focused employee groups and provides customized wellness programs. HR Leaders benefit from performance dashboards and analytics to improve program efficacy and engagement. mHealthAI also features a corporate microsite for a personalized and visually compelling experience and an open architecture approach for seamless integration with partner networks, enabling a B2B Wellness marketplace.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Personalizing employee wellness calendars",
+    "Creating focused employee wellness groups",
+    "Engaging employees through stepathon challenges",
+    "Providing teleconsultation services for employees",
+    "Offering diet & nutrition consultations",
+    "Conducting mindfulness sessions",
+    "Improving wellness program efficacy and engagement for HR leaders",
+    "Facilitating access to a B2B Wellness marketplace",
+    "Providing customized wellness programs",
+    "Enabling corporate microsites for personalized user experiences"
+  ],
+  "competitive_advantages": [
+    "AI-powered platform",
+    "Community-based wellness approach",
+    "Open architecture for seamless partner integration",
+    "B2B Wellness marketplace functionality",
+    "Comprehensive performance dashboards and analytics for HR leaders",
+    "Personalized wellness calendar and programs",
+    "Ability to create focused employee groups",
+    "Breadth of wellness program offerings (teleconsultation, diet & nutrition, mindfulness, stepathons)",
+    "Dedicated corporate microsite for a personalized user experience",
+    "Convenient and cost-effective solutions for workforce well-being"
+  ],
+  "implementation_scenarios": [
+    "Integration with partner networks",
+    "Deployment of a dedicated corporate microsite"
+  ],
+  "hr_functions_supported": [
+    "Employee Wellness",
+    "Employee Engagement",
+    "Benefits Administration",
+    "HR Analytics"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)"
+  ],
+  "integration_capabilities": [
+    "Integration with partner networks"
+  ],
+  "roi_benefits": [
+    "Improved employee engagement",
+    "Increased efficacy of wellness programs",
+    "Improved workforce health and well-being",
+    "Cost-effectiveness for employee wellness solutions"
+  ],
+  "searchable_keywords": [
+    "mHealthAI",
+    "corporate wellness",
+    "employee wellness",
+    "employee engagement",
+    "AI-powered wellness",
+    "community-based wellness platform",
+    "wellness calendar",
+    "stepathon challenge",
+    "teleconsultation",
+    "diet consultation",
+    "nutrition consultation",
+    "mindfulness sessions",
+    "wellness programs",
+    "performance dashboards",
+    "HR analytics",
+    "HR leaders",
+    "B2B wellness marketplace",
+    "total rewards",
+    "benefits administration software",
+    "employee happiness",
+    "employee well-being",
+    "health wellness",
+    "customized wellness programs",
+    "corporate microsite",
+    "healthcare services"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Leaders"
+  ],
+  "_weight": 1
+}

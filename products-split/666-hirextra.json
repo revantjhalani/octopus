@@ -1,0 +1,156 @@
+{
+  "id": 666,
+  "name": "HireXtra",
+  "description": "HireXtra is AI based Global Staffing Aggregator, which provides you with a cutting edge market place between vendors and employers to achieve a higher efficiency in fulfilling every hiring demand at a faster rate. HireXtra HQ is in the UK. HireXtra is a HRTech Recruitment Marketplace. A multitude of Recruitment Agencies work with HireXtra in tandem to provide first matching profiles for any requirement in short span of time. HireXtra is committed to provide bespoke services and work ethically with deep understanding of its clients needs. HireXtra aims to focus on building everlasting relationships with its clients by offering them top notch solutions. HireXtra is powered by superlative AI Recruiting tools like Job Match-O-Meter, Candidate Compass, Employee Spectrum, Talent Mining, Skill Extractor, Predictive Algorithm that increases the efficiency of hiring new talent.",
+  "features": [
+    "Upscaled and Modernize",
+    "Online market place for Recruitment",
+    "Collaboration with small and medium agencies"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "HR consulting providers",
+    "Recruitment agencies",
+    "Staffing services providers",
+    "Recruitment marketing platforms"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Talent sourcing",
+    "Data-driven hiring"
+  ],
+  "headquarter": "London",
+  "launch_date": "2017",
+  "order": 20620,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Find 10x more qualified candidates for jobs in just 1 day!",
+  "ProductId": null,
+  "ShortDescription": "HireXtra is a Futuristic Staffing Aggregator Providing you with a cutting edge market place between Agency Recruiters and Employers to achieve a Higher Efficiency in fulfilling every Hiring Demand at a Faster Pace.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Market Place",
+      "sequence": 0,
+      "description": "Upscale and Modernize your recruitment process with HireXtra. Recruit Top Quality Talents in record time with minimum human efforts. Using HireXtra\u2019s AI-based Staffing Platform, Employers can find the perfect Profile/Candidate to fulfill the job Orders without any extra effort and cost."
+    },
+    {
+      "name": "Employer Direct",
+      "sequence": 1,
+      "description": "Employer Direct is an Online Marketplace for employers to post their job requirements, and a Dedicated Account Manager will be assigned from HireXtra platform."
+    },
+    {
+      "name": "Recruiter Direct",
+      "sequence": 2,
+      "description": "Recruiter Direct is an Online Marketplace where small to medium recruitment agencies and consultancies can tie up with HireXtra on mutually aggregable terms beneficial to both."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:07.172Z",
+  "enhanced_description": "HireXtra is an AI-powered global staffing aggregator and HRTech Recruitment Marketplace based in the UK. It offers a cutting-edge online platform connecting employers with a multitude of recruitment agencies and consultancies, aiming to significantly increase the efficiency and speed of fulfilling diverse hiring demands. The platform leverages advanced AI recruiting tools, including Job Match-O-Meter, Candidate Compass, Employee Spectrum, Talent Mining, Skill Extractor, and Predictive Algorithm, to deliver precise candidate matching and sourcing. HireXtra facilitates a streamlined recruitment process for employers through its 'Employer Direct' service, where job requirements can be posted and a dedicated account manager is assigned. Concurrently, its 'Recruiter Direct' marketplace enables small to medium recruitment agencies to collaborate and provide talent. HireXtra is committed to offering bespoke, ethical services focused on building long-term client relationships and delivering top-notch solutions, with a stated goal of helping employers find 10x more qualified candidates in just one day.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerating talent acquisition and hiring speed",
+    "Improving efficiency in fulfilling diverse hiring demands",
+    "Accessing a wide pool of qualified candidates from various recruitment agencies",
+    "Streamlining the job posting and candidate sourcing process for employers",
+    "Facilitating collaboration between employers and recruitment agencies/consultancies",
+    "Reducing manual effort in recruitment processes"
+  ],
+  "competitive_advantages": [
+    "AI-driven candidate matching and sourcing (Job Match-O-Meter, Candidate Compass, Employee Spectrum, Talent Mining, Skill Extractor, Predictive Algorithm)",
+    "Global staffing aggregator model, connecting employers with a multitude of agencies",
+    "Significant reduction in hiring time (e.g., finding qualified candidates in 1 day)",
+    "Increased hiring efficiency and reduced human effort",
+    "Dedicated account management for employers",
+    "Online marketplace for both employers and recruitment agencies",
+    "Bespoke and ethically-driven service approach",
+    "Potential for cost efficiency (implied by 'without any extra effort and cost')"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Talent Sourcing",
+    "Recruitment Marketing"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)"
+  ],
+  "roi_benefits": [
+    "Higher efficiency in fulfilling hiring demands",
+    "Faster hiring rate",
+    "Access to a larger pool of qualified candidates",
+    "Reduced human effort in the recruitment process",
+    "Potential cost savings in hiring"
+  ],
+  "searchable_keywords": [
+    "HireXtra",
+    "AI recruitment",
+    "Global Staffing Aggregator",
+    "HRTech Recruitment Marketplace",
+    "Recruitment Agencies",
+    "Staffing services",
+    "Online marketplace",
+    "Hiring efficiency",
+    "Hiring speed",
+    "Talent sourcing",
+    "Data-driven hiring",
+    "Job Match-O-Meter",
+    "Candidate Compass",
+    "Employee Spectrum",
+    "Talent Mining",
+    "Skill Extractor",
+    "Predictive Algorithm",
+    "Employer Direct",
+    "Recruiter Direct",
+    "Qualified candidates",
+    "Recruiting platform",
+    "HR consulting providers",
+    "Recruitment marketing platforms",
+    "Candidate matching",
+    "Talent acquisition"
+  ],
+  "primary_users": [
+    "Employers",
+    "Recruitment Agencies",
+    "Recruitment Consultancies",
+    "Agency Recruiters"
+  ],
+  "deployment_options": [
+    "Cloud-based / SaaS"
+  ],
+  "_weight": 1
+}

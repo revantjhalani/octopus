@@ -1,0 +1,146 @@
+{
+  "id": 837,
+  "name": "Litmus World",
+  "description": "LitmusWorld is an enterprise SaaS platform that delivers dramatic improvements in business processes by enabling customer interactions. We bring businesses closer to their customers to better understand their expectations and gather actionable insights. At LitmusWorld, we understand that customers build great products and employees build great companies. We help you bring the two stakeholders together and create a great brand. The platform delivers actionable insights across touchpoints to Measure, Act and Improve on the overall experience, creating loyal and delighted customers. With just over 7 years of driving digital transformation across 165+ brands, we\u2019ve built an environment of trust, reliability and deliverance. Our aim is to enable our clients in becoming more agile and profitable- 1 touchpoint, 1 conversation, 1 stakeholder, at a time.",
+  "features": [
+    "Customer Experience Management",
+    "Structured conversations",
+    "Employee engagement"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Employee engagement software",
+    "Experience Software",
+    "HR analytics software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee development",
+    "Employee empowerment"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2015",
+  "order": 20790,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Customer Experience | Employee Experience | Quizzes and People Pulse Surveys",
+  "ProductId": null,
+  "ShortDescription": "LitmusWorld is an enterprise SaaS platform that delivers dramatic improvements in business processes by enabling customer interactions. We bring businesses closer to their customers to better understand their expectations and gather actionable insights.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Measure customer experience",
+      "sequence": 0,
+      "description": "LitmusWorld helps businesses measure customer satisfaction using a Net Promoter Score (NPS). This metric helps businesses understand how likely their customers are to recommend their products or services to others."
+    },
+    {
+      "name": "Collect feedback",
+      "sequence": 1,
+      "description": "LitmusWorld provides businesses with tools to collect feedback from both customers and employees. This feedback can be used to identify areas for improvement and track progress over time."
+    },
+    {
+      "name": "Additional CX solutions",
+      "sequence": 2,
+      "description": "In addition to NPS, LitmusWorld offers other CX solutions, including real-time feedback and customer journey mapping. These solutions can help businesses gain a deeper understanding of their customers' experiences."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:26.626Z",
+  "enhanced_description": "LitmusWorld is an enterprise SaaS platform specializing in experience management, seamlessly integrating Customer Experience (CX) and Employee Experience (EX) initiatives. It enables businesses to gather actionable insights by facilitating structured conversations, quizzes, and people pulse surveys with both customers and employees. The platform supports measuring customer satisfaction using metrics like Net Promoter Score (NPS) and offers additional CX solutions such as real-time feedback and customer journey mapping. By delivering insights across various touchpoints, LitmusWorld empowers organizations to Measure, Act, and Improve, ultimately fostering customer loyalty, enhancing employee happiness and engagement, and driving business agility and profitability. With over 7 years of experience serving more than 165 brands, LitmusWorld is designed to support small, large, and global enterprises.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Customer Experience Management",
+    "Employee Engagement Measurement and Improvement",
+    "Collecting Customer Feedback",
+    "Collecting Employee Feedback",
+    "Measuring Customer Satisfaction (NPS)",
+    "Customer Journey Mapping",
+    "Real-time Feedback Collection",
+    "Conducting Employee Pulse Surveys",
+    "Analyzing HR Data for Insights"
+  ],
+  "competitive_advantages": [
+    "Integrated Customer and Employee Experience Management",
+    "Actionable Insights Framework (Measure, Act, Improve)",
+    "Diverse Feedback Collection Methods (structured conversations, quizzes, pulse surveys)",
+    "Advanced Customer Experience Capabilities (real-time feedback, customer journey mapping)",
+    "Proven Track Record (over 7 years and 165+ brands)",
+    "Focus on Business Agility and Profitability"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "HR Analytics",
+    "Employee Development",
+    "Employee Empowerment"
+  ],
+  "roi_benefits": [
+    "Dramatic improvements in business processes",
+    "Better understanding of customer and employee expectations",
+    "Creation of loyal and delighted customers",
+    "Improved employee happiness and engagement",
+    "Increased organizational agility and profitability",
+    "Ability to identify and track areas for improvement"
+  ],
+  "searchable_keywords": [
+    "Litmus World",
+    "Customer Experience Management",
+    "Employee Engagement",
+    "Structured Conversations",
+    "Talent Management",
+    "Employee Engagement Software",
+    "Experience Software",
+    "HR Analytics Software",
+    "Employee Happiness",
+    "Employee Development",
+    "Employee Empowerment",
+    "Customer Experience",
+    "Employee Experience",
+    "Quizzes",
+    "People Pulse Surveys",
+    "Net Promoter Score",
+    "NPS",
+    "Feedback Collection",
+    "Real-time Feedback",
+    "Customer Journey Mapping"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Customer Experience Teams",
+    "Customer Success Teams",
+    "Business Leadership"
+  ],
+  "deployment_options": [
+    "SaaS"
+  ],
+  "_weight": 1
+}

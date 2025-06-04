@@ -1,0 +1,178 @@
+{
+  "id": 1348,
+  "name": "Hogan Assessments",
+  "description": "Hogan Assessments, the global authority in personality insights, offers valid, reliable assessments based on the world\u2019s largest database of personality research and decades of psychometric expertise. Trusted by over 75% of the Fortune 500, Hogan's solutions aid talent acquisition and development, promoting unbiased hiring, enhancing productivity, fostering diversity and inclusion, identifying high-potential talent, developing leaders, and inspiring peak performance.",
+  "features": [
+    "Go Beyond R\u00e9sum\u00e9s",
+    "More Data, Less Turnover",
+    "Simply Hire the Best"
+  ],
+  "founders": [],
+  "price": [
+    {
+      "name": "",
+      "type": "",
+      "price": "",
+      "description": ""
+    }
+  ],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Pre-employment screening software",
+    "Pre-employment testing software"
+  ],
+  "tags": [
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Talent acquisition",
+    "Talent sourcing",
+    "Candidate screening",
+    "Hiring best practices"
+  ],
+  "headquarter": "Tulsa, OK",
+  "launch_date": "1987",
+  "order": 999,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We Predict Workplace Performance",
+  "ProductId": null,
+  "ShortDescription": "Get data-based personality insights to maximize organizational success.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": [
+      {
+        "times": [
+          {
+            "description": ""
+          }
+        ],
+        "header": "",
+        "sequence": 0,
+        "videourl": "",
+        "description": ""
+      }
+    ]
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Real-World Results",
+      "sequence": 0,
+      "description": "Our assessments predict career success by focusing on job-relevant personality traits."
+    },
+    {
+      "name": "Science-Backed Insights",
+      "sequence": 1,
+      "description": "Developed as an independent organization, Hogan delivers assessments with strong evidence of predicting outcomes."
+    },
+    {
+      "name": "Unmatched Expertise",
+      "sequence": 2,
+      "description": "Millions assessed, vast research archive, and ongoing ROI studies showcase Hogan's industry leadership."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": true,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-12T06:00:25.547Z",
+  "enhanced_description": "Hogan Assessments, the global authority in personality insights, provides data-based, valid, and reliable assessments to maximize organizational success by predicting workplace performance. Backed by the world\u2019s largest database of personality research, decades of psychometric expertise, and strong scientific evidence, Hogan's solutions are trusted by over 75% of the Fortune 500. They aid talent acquisition and development by focusing on job-relevant personality traits to promote unbiased hiring, enhance productivity, foster diversity and inclusion, identify high-potential talent, develop leaders, and inspire peak performance. With millions assessed, Hogan demonstrates unmatched expertise and industry leadership through a vast research archive and ongoing ROI studies, predicting career success and delivering real-world results.",
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Talent acquisition",
+    "Talent development",
+    "Unbiased hiring",
+    "Productivity enhancement",
+    "Fostering diversity and inclusion",
+    "Identifying high-potential talent",
+    "Leadership development",
+    "Pre-employment screening",
+    "Pre-employment testing",
+    "Predicting workplace performance",
+    "Reducing turnover"
+  ],
+  "competitive_advantages": [
+    "Global authority in personality insights",
+    "Valid and reliable assessments",
+    "Based on the world\u2019s largest database of personality research and decades of psychometric expertise",
+    "Trusted by over 75% of the Fortune 500",
+    "Science-backed insights with strong evidence of predicting outcomes",
+    "Unmatched expertise with millions assessed and vast research archive",
+    "Ongoing ROI studies",
+    "Focus on job-relevant personality traits",
+    "Predicts career and workplace success"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Pre-employment Screening",
+    "Pre-employment Testing",
+    "Talent Development",
+    "Leadership Development",
+    "High-Potential Identification"
+  ],
+  "roi_benefits": [
+    "Unbiased hiring outcomes",
+    "Enhanced productivity",
+    "Fostered diversity and inclusion",
+    "Identification of high-potential talent",
+    "Development of leaders",
+    "Inspired peak performance",
+    "Reduced turnover",
+    "Improved hiring quality",
+    "More efficient hiring"
+  ],
+  "searchable_keywords": [
+    "Hogan Assessments",
+    "Personality insights",
+    "Personality assessments",
+    "Workplace performance prediction",
+    "Talent acquisition",
+    "Talent development",
+    "Unbiased hiring",
+    "Productivity",
+    "Diversity and inclusion",
+    "High-potential talent",
+    "Leadership development",
+    "Peak performance",
+    "Pre-employment screening",
+    "Pre-employment testing",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Talent sourcing",
+    "Candidate screening",
+    "Hiring best practices",
+    "Job-relevant personality traits",
+    "Psychometric expertise",
+    "Data-based personality insights",
+    "Organizational success",
+    "Career success prediction",
+    "Science-backed assessments"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Recruiters",
+    "Hiring Managers",
+    "Talent Development Teams"
+  ],
+  "_weight": 1
+}

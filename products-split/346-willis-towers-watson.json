@@ -1,0 +1,155 @@
+{
+  "id": 346,
+  "name": "Willis Towers Watson",
+  "description": "At WTW , we provide data-driven, insight-led solutions in the areas of people, risk and capital. Leveraging the global view and local expertise of our colleagues serving 140 countries and markets, we help you sharpen your strategy, enhance organizational resilience, motivate your workforce and maximize performance. We work shoulder to shoulder with you, bringing diverse points of view and a deep commitment to your success.",
+  "features": [
+    "Client focus",
+    "Integrity",
+    "Excellence"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration services"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee happiness",
+    "Employee well being",
+    "Employee happiness programs"
+  ],
+  "headquarter": "null",
+  "launch_date": "2016",
+  "order": 20308,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We transform tomorrows",
+  "ProductId": null,
+  "ShortDescription": "At WTW , we provide data-driven, insight-led solutions in the areas of people, risk and capital.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Pay Equity and Pay Transparency",
+      "sequence": 0,
+      "description": "At WTW we have a global community of pay equity and transparency colleagues to help you become more confident on pay equity and transparency. "
+    },
+    {
+      "name": "Cyber Risk Management",
+      "sequence": 1,
+      "description": "WTW takes an integrated, comprehensive approach to cyber risk management to help you manage people, capital and technology risks across your enterprise. "
+    },
+    {
+      "name": "Health and Benefits",
+      "sequence": 2,
+      "description": "We partner with you to build an effective employee benefits program that sustains a healthy, high-performing workforce."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:48.945Z",
+  "enhanced_description": "Willis Towers Watson (WTW) is a global advisory and solutions firm established in 2016, specializing in data-driven, insight-led solutions across people, risk, and capital. Leveraging a global view and local expertise across 140 countries and markets, WTW helps organizations sharpen strategy, enhance organizational resilience, motivate their workforce, and maximize performance. Key areas of focus include designing effective employee benefits programs, providing expertise in pay equity and transparency, and implementing comprehensive cyber risk management strategies to mitigate people, capital, and technology risks.",
+  "key_use_cases": [
+    "Sharpening organizational strategy",
+    "Enhancing organizational resilience",
+    "Motivating workforce",
+    "Maximizing performance",
+    "Navigating pay equity and pay transparency regulations",
+    "Managing cyber risk across the enterprise",
+    "Building effective employee benefits programs",
+    "Improving employee happiness and engagement"
+  ],
+  "competitive_advantages": [
+    "Data-driven and insight-led solutions",
+    "Global view and local expertise across 140 countries and markets",
+    "Integrated and comprehensive approach to cyber risk management",
+    "Global community of pay equity and transparency colleagues",
+    "Partnership model with deep commitment to client success"
+  ],
+  "implementation_scenarios": [
+    "Consulting-led engagement",
+    "Service-led partnership model"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards",
+    "Benefits Administration",
+    "Compensation (specifically Pay Equity and Transparency)",
+    "Employee Engagement",
+    "Employee Well-being",
+    "HR Strategy",
+    "Workforce Performance Management"
+  ],
+  "roi_benefits": [
+    "Sharpened organizational strategy",
+    "Enhanced organizational resilience",
+    "Motivated workforce",
+    "Maximized performance",
+    "Increased confidence in pay equity and transparency compliance",
+    "More effective employee benefits programs",
+    "Sustained healthy and high-performing workforce",
+    "Improved employee happiness and engagement"
+  ],
+  "searchable_keywords": [
+    "Willis Towers Watson",
+    "WTW",
+    "HR consulting",
+    "HR advisory",
+    "People solutions",
+    "Risk management",
+    "Capital solutions",
+    "Total Rewards",
+    "Benefits administration services",
+    "Employee engagement",
+    "Employee happiness",
+    "Employee well-being",
+    "Employee happiness programs",
+    "Pay Equity",
+    "Pay Transparency",
+    "Cyber Risk Management",
+    "Health and Benefits",
+    "Organizational strategy",
+    "Workforce performance"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "Business Executives",
+    "Benefits Managers",
+    "Risk Management Professionals"
+  ],
+  "compliance_features": [
+    "Guidance and solutions for Pay Equity compliance",
+    "Guidance and solutions for Pay Transparency regulations",
+    "Cyber risk management to address data security and regulatory compliance"
+  ],
+  "scalability_features": [
+    "Global service delivery model across 140 countries and markets",
+    "Global community of colleagues to support large-scale initiatives"
+  ],
+  "security_features": [
+    "Comprehensive cyber risk management services"
+  ],
+  "_weight": 1
+}

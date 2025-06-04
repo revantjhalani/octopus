@@ -1,0 +1,198 @@
+{
+  "id": 1299,
+  "name": "Betterplace",
+  "description": "BetterPlace is Asia\u2019s largest human capital SaaS solution that enables enterprises to manage the entire lifecycle of their frontline workers. goBetter, an all-inclusive full-suite HRMS platform by BetterPlace, caters to the entire value chain of frontline workforce management from discovery, hiring, onboarding, background verification, attendance and payroll to upskilling and vendor management. Our robust platform has been the unstoppable driving force behind the transformation of over 30 million lives, redefining the future of workforce management with unwavering impact. This unified tech platform has influenced over 1,500 businesses, serving 500 locations across the APAC and GCC regions.",
+  "features": [
+    "Background Verification",
+    "Health Benefits",
+    "Insurance",
+    "Workforce Management"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software",
+    "Human Resource Information Systems (HRIS)",
+    "Human Capital Management",
+    "Human Resource Management Systems (HRMS)"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee happiness",
+    "Employee satisfaction",
+    "Employee well being",
+    "Company culture",
+    "Employee benefits",
+    "Employee development",
+    "Employee empowerment",
+    "Employee Engagement strategies"
+  ],
+  "headquarter": "Bengaluru, India",
+  "launch_date": "2015",
+  "order": 21123,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Empowering People,\nEnabling Growth",
+  "ProductId": null,
+  "ShortDescription": "BetterPlace is Asia\u2019s largest human capital SaaS solution that enables enterprises to manage the entire lifecycle of their frontline workers.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Upskilling",
+      "sequence": 0,
+      "description": "Mobile-first gamified microlearning platform to ensure continuous employee engagement"
+    },
+    {
+      "name": "Onboard",
+      "sequence": 1,
+      "description": "Bulk/ API and individual onboarding with simple registration processes and intuitive workflows"
+    },
+    {
+      "name": "Payroll & Compliance",
+      "sequence": 2,
+      "description": " Maximize payroll efficiency with payroll transparency, security, automation, and efficiency with customized solution"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:21.760Z",
+  "enhanced_description": "BetterPlace is Asia\u2019s largest human capital SaaS solution, offering an all-inclusive full-suite HRMS platform (goBetter) designed to manage the entire lifecycle of frontline workers. This unified tech platform covers critical HR functions including discovery, hiring, onboarding (with bulk, API, and individual options), background verification, attendance, payroll, upskilling through a mobile-first gamified microlearning platform, and vendor management. It also supports health benefits and insurance. BetterPlace has transformed over 30 million lives and influenced over 1,500 businesses across 500 locations in the APAC and GCC regions since its launch in 2015.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Managing the complete lifecycle of frontline workers",
+    "Streamlining discovery and hiring processes",
+    "Automating and simplifying onboarding (bulk, API, individual)",
+    "Conducting background verification",
+    "Managing attendance",
+    "Processing payroll efficiently and compliantly",
+    "Providing health benefits and insurance administration",
+    "Upskilling and continuous learning for employees via gamified microlearning",
+    "Workforce management",
+    "Vendor management"
+  ],
+  "competitive_advantages": [
+    "Market leadership position as 'Asia\u2019s largest human capital SaaS solution'",
+    "Specialized focus on the 'entire lifecycle of frontline workers'",
+    "Offers an 'all-inclusive full-suite HRMS platform' (goBetter)",
+    "Proven impact and scale, having transformed over 30 million lives and influenced over 1,500 businesses across APAC and GCC regions",
+    "Specific innovative features like a 'mobile-first gamified microlearning platform' for upskilling",
+    "Flexible onboarding options, including 'Bulk/ API and individual onboarding'",
+    "Emphasis on payroll efficiency, transparency, security, automation, and customization"
+  ],
+  "hr_functions_supported": [
+    "Human Capital Management (HCM)",
+    "Human Resource Management Systems (HRMS)",
+    "Core HR",
+    "Human Resource Information Systems (HRIS)",
+    "Discovery",
+    "Hiring",
+    "Onboarding",
+    "Background Verification",
+    "Attendance Management",
+    "Payroll Management",
+    "Compliance Management",
+    "Upskilling / Employee Development",
+    "Workforce Management",
+    "Vendor Management",
+    "Health Benefits Administration",
+    "Insurance Administration"
+  ],
+  "integration_capabilities": [
+    "API for onboarding"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness and Engagement",
+    "Enhanced Employee Satisfaction and Well-being",
+    "Increased Employee Development and Empowerment",
+    "Maximized payroll efficiency, transparency, and automation",
+    "Streamlined workforce management"
+  ],
+  "searchable_keywords": [
+    "Betterplace",
+    "HRMS",
+    "HCM",
+    "Human Capital Management",
+    "Human Resource Management System",
+    "Core HR Software",
+    "HRIS",
+    "Human Resource Information System",
+    "SaaS HR",
+    "Frontline Workforce Management",
+    "Employee Lifecycle Management",
+    "Discovery",
+    "Hiring",
+    "Onboarding Software",
+    "Background Verification",
+    "Attendance Management",
+    "Payroll Software",
+    "Upskilling Platform",
+    "Employee Learning",
+    "Gamified Microlearning",
+    "Mobile-first HR",
+    "Vendor Management",
+    "Workforce Management Software",
+    "Health Benefits",
+    "Employee Insurance",
+    "Employee Engagement",
+    "Employee Happiness",
+    "Employee Well-being",
+    "Company Culture",
+    "Employee Benefits",
+    "Employee Development",
+    "Employee Empowerment",
+    "HR Automation",
+    "Payroll Automation",
+    "HR Compliance",
+    "APAC HR",
+    "GCC HR"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Managers",
+    "Frontline Workers",
+    "Enterprise Leadership"
+  ],
+  "deployment_options": [
+    "Cloud (SaaS)"
+  ],
+  "compliance_features": [
+    "Payroll Compliance"
+  ],
+  "scalability_features": [
+    "Proven scalability supporting over 30 million lives and 1,500 businesses across 500 locations in APAC and GCC regions"
+  ],
+  "security_features": [
+    "Payroll security"
+  ],
+  "_weight": 1
+}

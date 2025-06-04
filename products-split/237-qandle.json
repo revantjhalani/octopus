@@ -1,0 +1,173 @@
+{
+  "id": 237,
+  "name": "Qandle",
+  "description": "Qandle provides an intuitive, user-friendly platform with mobile apps and chatbots for seamless access. Designed modularly and highly flexible, it enhances HR capabilities for next-generation workforce management. Qandle ensures swift implementation and offers add-ons like Shift Planning, Timesheets, Field Force Tracking, and HR Advisory. Pricing is based on a classic SaaS model, billed per employee per month according to subscribed modules.",
+  "features": [
+    "Full-Service Payroll & Compliance",
+    "Complete Expense Management",
+    "Transparent And Affordable Pricing"
+  ],
+  "founders": [
+    "Chayan Mukhopadhyay",
+    "Himanshu Aggarwal"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Talent sourcing",
+    "Candidate screening"
+  ],
+  "headquarter": "Gurgaon, Haryana",
+  "launch_date": "2016",
+  "order": 20203,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Smart HR for the Modern Workplace",
+  "ProductId": null,
+  "ShortDescription": "Qandle is a smart, cloud-based HR Solution for forward-looking organizations",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Hire & Onboard",
+      "sequence": 0,
+      "description": "Powerful Recruitment and On-boarding solution."
+    },
+    {
+      "name": "Internal Social Media Platform",
+      "sequence": 1,
+      "description": "Engaged and connected teams built with collaboration at core."
+    },
+    {
+      "name": "Digital Records Management System",
+      "sequence": 2,
+      "description": "Centralized secure database of employee profiles, assets and related records."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:53.944Z",
+  "enhanced_description": "Qandle is a smart, cloud-based HR Solution for forward-looking organizations, providing an intuitive, user-friendly platform with mobile apps and chatbots for seamless access. Designed modularly and highly flexible, it enhances HR capabilities for next-generation workforce management. The platform includes full-service payroll and compliance, complete expense management, and a powerful recruitment and onboarding solution. It also features an internal social media platform for engaged and connected teams, and a digital records management system for centralized, secure employee profiles and asset data. Qandle ensures swift implementation and offers add-ons like Shift Planning, Timesheets, Field Force Tracking, and HR Advisory. Pricing is based on a classic SaaS model, billed per employee per month according to subscribed modules.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Payroll Management",
+    "Compliance Management",
+    "Expense Management",
+    "Talent Acquisition",
+    "Employee Onboarding",
+    "Workforce Management",
+    "Shift Planning",
+    "Time Tracking",
+    "Field Force Monitoring",
+    "Employee Engagement",
+    "Internal Communication",
+    "Employee Data Management",
+    "HR Advisory Services",
+    "Digital Records Management"
+  ],
+  "competitive_advantages": [
+    "Intuitive and user-friendly platform",
+    "Mobile app and chatbot access",
+    "Modular and highly flexible design",
+    "Swift implementation",
+    "Transparent and affordable pricing (SaaS model)",
+    "Cloud-based solution"
+  ],
+  "hr_functions_supported": [
+    "Payroll",
+    "Compliance",
+    "Expense Management",
+    "Recruitment",
+    "Onboarding",
+    "Workforce Management",
+    "Employee Engagement",
+    "Core HR",
+    "HR Advisory"
+  ],
+  "roi_benefits": [
+    "Enhanced HR capabilities for next-generation workforce management",
+    "Faster and more efficient talent acquisition",
+    "Improved employee engagement and collaboration",
+    "Centralized and secure employee data management",
+    "Cost efficiency through transparent and affordable pricing"
+  ],
+  "searchable_keywords": [
+    "Qandle",
+    "HRMS",
+    "HCM",
+    "Core HR Software",
+    "Payroll",
+    "Compliance",
+    "Expense Management",
+    "Recruitment",
+    "Onboarding",
+    "Shift Planning",
+    "Timesheets",
+    "Field Force Tracking",
+    "HR Advisory",
+    "Workforce Management",
+    "Employee Engagement",
+    "Employee Records",
+    "Mobile HR",
+    "Chatbot HR",
+    "SaaS HR",
+    "Cloud HR",
+    "Hiring speed",
+    "Talent sourcing",
+    "Candidate screening",
+    "Digital HR",
+    "Modern HR"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Employees",
+    "Managers"
+  ],
+  "deployment_options": [
+    "Cloud (SaaS)"
+  ],
+  "compliance_features": [
+    "Payroll compliance"
+  ],
+  "scalability_features": [
+    "Modular design",
+    "Highly flexible architecture",
+    "Supports small, large, and global enterprises"
+  ],
+  "security_features": [
+    "Centralized secure database for employee records"
+  ],
+  "_weight": 1
+}

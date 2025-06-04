@@ -1,0 +1,151 @@
+{
+  "id": 66,
+  "name": "Intercell",
+  "description": "Intercell provides a unique opportunity to receive personalized training and guidance from renowned mentors and professionals around the globe. Our expert mentorship programs cater to both students and professionals, ensuring a personalized and impactful learning experience. With our virtual setup, you can access professional mentorship from anywhere in the world, making it convenient and accessible for everyone.",
+  "features": [
+    "Live 1-1 mentoring programs",
+    "Global access of mentors",
+    "Enhance your skills"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Adaptive learning",
+    "Personalised learning"
+  ],
+  "headquarter": "Gurgaon, Haryana",
+  "launch_date": "2017",
+  "order": 20042,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Get Exclusive Career Mentorship through World's best Mentors",
+  "ProductId": null,
+  "ShortDescription": "Where Mentees meet Mentors",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Tailored Guidance for Your Goals",
+      "sequence": 0,
+      "description": "Whether you're a student, graduate, or experienced professional, Intercell matches you with a mentor who aligns with your career aspirations."
+    },
+    {
+      "name": "Convenient Online Platform",
+      "sequence": 1,
+      "description": "Schedule and participate in mentoring sessions virtually, offering flexibility and accessibility for busy schedules."
+    },
+    {
+      "name": "Build Your Network and Increase Visibility",
+      "sequence": 2,
+      "description": "Connect with established professionals who can provide career recommendations and open doors to new opportunities."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-16T14:26:49.995Z",
+  "enhanced_description": "Intercell offers expert mentorship programs providing personalized, live 1-1 training and guidance from renowned global mentors and professionals. Designed for both students and professionals, its convenient online platform ensures accessible and impactful learning from anywhere. The platform focuses on accelerating skill development, enhancing learning efficiency, and enabling users to build professional networks and increase career visibility through tailored career mentorship.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Personalized skill development and enhancement",
+    "Career guidance and mentorship",
+    "Professional networking and visibility",
+    "Accelerating learning efficiency",
+    "Improving training effectiveness for individuals"
+  ],
+  "competitive_advantages": [
+    "Access to renowned global mentors and professionals",
+    "Personalized, live 1-1 mentoring programs",
+    "Convenient and flexible online platform for global access",
+    "Tailored guidance aligned with individual career aspirations",
+    "Opportunity to build professional networks and increase career visibility"
+  ],
+  "implementation_scenarios": [
+    "Virtual/Online access",
+    "Cloud-based delivery"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Talent Development",
+    "Career Development",
+    "Employee Training",
+    "Mentorship Programs"
+  ],
+  "roi_benefits": [
+    "Accelerated skill acquisition",
+    "Improved learning efficiency",
+    "Enhanced career progression and opportunities",
+    "Global accessibility and flexibility (reducing logistical barriers)",
+    "Personalized learning paths leading to specific goals"
+  ],
+  "searchable_keywords": [
+    "Intercell",
+    "mentorship",
+    "mentoring",
+    "professional development",
+    "career guidance",
+    "skill development",
+    "learning and development",
+    "L&D",
+    "training",
+    "personalized learning",
+    "1-1 mentoring",
+    "virtual mentorship",
+    "online learning",
+    "skill enhancement",
+    "talent development",
+    "employee training",
+    "career acceleration",
+    "networking",
+    "global mentors",
+    "training effectiveness",
+    "skill acquisition",
+    "adaptive learning"
+  ],
+  "primary_users": [
+    "Students",
+    "Professionals",
+    "Graduates",
+    "Experienced Professionals",
+    "Mentees"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "Online platform"
+  ],
+  "_weight": 1
+}

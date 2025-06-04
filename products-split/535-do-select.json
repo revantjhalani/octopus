@@ -1,0 +1,144 @@
+{
+  "id": 535,
+  "name": "Do Select",
+  "description": "We are market leaders in the skill assessment space, and our goal is to match every individual to a relevant opportunity, all using DoSelect skill data. DoSelect was founded in 2015 with the goal of providing decision makers with skill intelligence to help them make data-driven decisions throughout the employment lifecycle. With our solutions, we now assist over 4000 organizations in overcoming their most complex human capital challenges.",
+  "features": [
+    "Full stack and project-based evaluations with dedicated IDE.",
+    "insight-rich reports with code quality scores, deep code analysis, and performance insights.",
+    "Assess test takers in an AI enabled proctored environment."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Talent acquisition suites",
+    "HR management suites",
+    "HR analytics software"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    ""
+  ],
+  "headquarter": "Bengaluru South, Karnataka",
+  "launch_date": "2015",
+  "order": 20495,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Make smarter people decisions using skill data",
+  "ProductId": null,
+  "ShortDescription": "Skill assessments and Hackathons. Now deployed by the likes of Capgemini, Razorpay, Postman, Sapient, Edgeverve, Fractal Analytics and PhonePe etc.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:29:27.414Z",
+  "enhanced_description": "DoSelect is a market leader in the skill assessment space, founded in 2015, with the core mission to match individuals to relevant opportunities using comprehensive skill data. The platform provides decision-makers with skill intelligence to enable data-driven decisions throughout the entire employment lifecycle. DoSelect offers a robust solution for technical evaluations, including full-stack and project-based assessments, featuring a dedicated Integrated Development Environment (IDE). It delivers insight-rich reports that include detailed code quality scores, deep code analysis, and performance insights. Furthermore, the platform ensures assessment integrity by utilizing an AI-enabled proctored environment. DoSelect currently assists over 4000 organizations in overcoming complex human capital challenges and is trusted by prominent companies such as Capgemini, Razorpay, Postman, Sapient, Edgeverve, Fractal Analytics, and PhonePe.",
+  "target_industries": [
+    "Information Technology",
+    "Software Development",
+    "Financial Technology (FinTech)",
+    "Consulting",
+    "Data & Analytics"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Skill assessments",
+    "Technical evaluations (full-stack, project-based)",
+    "Code quality analysis",
+    "Performance insights for candidates",
+    "AI-proctored testing",
+    "Data-driven hiring decisions",
+    "Talent matching",
+    "Hackathon management",
+    "Overcoming human capital challenges"
+  ],
+  "competitive_advantages": [
+    "Market leadership in skill assessment",
+    "Dedicated IDE for technical evaluations",
+    "AI-enabled proctoring for assessments",
+    "Comprehensive insight-rich reports including code quality and deep analysis"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Skill Assessment",
+    "HR Analytics",
+    "Talent Management"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Integrated Development Environment (IDE) technology"
+  ],
+  "roi_benefits": [
+    "Increased hiring manager confidence",
+    "Improved hiring manager productivity",
+    "Faster talent acquisition",
+    "More efficient hiring processes",
+    "Ability to hire top talent",
+    "Smarter people decisions based on skill data",
+    "Resolution of human capital challenges"
+  ],
+  "searchable_keywords": [
+    "Do Select",
+    "Skill assessment software",
+    "Technical assessment platform",
+    "Coding tests",
+    "Online proctoring",
+    "AI proctoring",
+    "Developer assessment",
+    "Full stack assessment",
+    "Project-based assessment",
+    "Code quality analysis",
+    "Hiring platform",
+    "Talent acquisition software",
+    "Recruiting analytics",
+    "HR analytics",
+    "Talent management software",
+    "Hackathon platform",
+    "Skill intelligence",
+    "Data-driven hiring",
+    "HR tech",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    "Employment lifecycle"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "Recruiters",
+    "HR Professionals",
+    "Decision Makers (involved in hiring/talent)"
+  ],
+  "_weight": 1
+}

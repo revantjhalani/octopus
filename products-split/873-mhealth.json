@@ -1,0 +1,145 @@
+{
+  "id": 873,
+  "name": "mHealth",
+  "description": "mHealth help corporate personalize their wellness calendar, create focused groups, engage employees through stepathon challenges, teleconsultation, diet & nutrition consultation, mindfulness sessions, and other wellness programs. Our performance dashboards help HR Leaders improve the efficacy and engagement in the program. Our open architecture approach helps us seamlessly integrate with partner networks and provide a B2B Wellness marketplace to customers.",
+  "features": [
+    "Analytics & Dashboard ",
+    "Corprate Microsite",
+    "Customized Programs"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Employee well being"
+  ],
+  "headquarter": "New Delhi, Delhi",
+  "launch_date": "2020",
+  "order": 20826,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We help build healthy habit using power of community & rewards",
+  "ProductId": null,
+  "ShortDescription": "mHealth help corporate personalize their wellness calendar, create focused groups, engage employees through stepathon challenges, teleconsultation, diet & nutrition consultation, mindfulness sessions, and other wellness programs.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Journal Focus",
+      "sequence": 0,
+      "description": "mHealth is a medical journal that publishes articles on mobile health interventions for chronic diseases."
+    },
+    {
+      "name": "Journal Achievements",
+      "sequence": 1,
+      "description": "In 2023, the journal received a CiteScore of 5.4. It is also a member of the Committee on Publication Ethics (COPE)."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:36:06.450Z",
+  "enhanced_description": "mHealth is a corporate wellness platform designed to personalize wellness initiatives, foster community, and improve employee engagement across all company sizes, from small to global enterprises. It enables organizations to create customized wellness calendars, form focused groups, and engage employees through diverse programs such as stepathon challenges, teleconsultation, diet & nutrition consultation, and mindfulness sessions. The platform provides performance dashboards and analytics, empowering HR leaders to monitor and enhance the efficacy and engagement of wellness programs. With an open architecture, mHealth seamlessly integrates with partner networks, offering a comprehensive B2B Wellness marketplace to customers. The solution aims to build healthy habits through community and rewards, directly contributing to improved employee happiness and overall well-being.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Personalizing corporate wellness calendars",
+    "Creating and managing focused employee wellness groups",
+    "Engaging employees through stepathon challenges and other wellness activities",
+    "Providing teleconsultation services for employees",
+    "Offering diet and nutrition consultation",
+    "Facilitating mindfulness sessions for employees",
+    "Implementing diverse wellness programs",
+    "Monitoring and improving program efficacy and employee engagement for HR Leaders",
+    "Accessing a B2B Wellness marketplace through integrated partner networks"
+  ],
+  "competitive_advantages": [
+    "Open architecture approach for seamless integration with partner networks",
+    "Proprietary B2B Wellness marketplace for customers",
+    "Performance dashboards specifically designed for HR Leaders to track efficacy and engagement",
+    "Customized program creation and corporate microsite for tailored wellness experiences"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards (specifically employee benefits and wellness programs)",
+    "Learning and Development (through consultations and mindfulness sessions)",
+    "HR Analytics (performance dashboards for program efficacy and engagement)",
+    "Employee Engagement"
+  ],
+  "integration_capabilities": [
+    "Seamless integration with partner networks",
+    "Open architecture approach supporting integrations",
+    "Provides access to a B2B Wellness marketplace"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness",
+    "Enhanced Employee Engagement",
+    "Increased efficacy of wellness programs",
+    "Building healthy habits among employees"
+  ],
+  "searchable_keywords": [
+    "mHealth",
+    "corporate wellness",
+    "wellness calendar",
+    "focused groups",
+    "steapathon challenges",
+    "teleconsultation",
+    "diet & nutrition consultation",
+    "mindfulness sessions",
+    "wellness programs",
+    "performance dashboards",
+    "HR Leaders",
+    "efficacy",
+    "engagement",
+    "open architecture",
+    "partner networks",
+    "B2B Wellness marketplace",
+    "Analytics",
+    "Dashboard",
+    "Corporate Microsite",
+    "Customized Programs",
+    "Employee Happiness",
+    "Total Rewards",
+    "Learning and Development",
+    "Health & safety providers",
+    "Employee benefits",
+    "Employee well-being",
+    "healthy habit",
+    "community",
+    "rewards"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "Employees"
+  ],
+  "_weight": 1
+}

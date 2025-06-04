@@ -1,0 +1,216 @@
+{
+  "id": 265,
+  "name": "SAP",
+  "description": "Adopt a cloud ERP with speed, predictability, and continuous innovation. This comprehensive offering of cloud solutions, adoption services, and learning helps meet your business needs along every stage of growth.",
+  "features": [
+    "Business agility",
+    "Supply chain resilience",
+    "Sustainability outcomes"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Talent Management",
+    "Total Rewards",
+    "Recruiting",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software",
+    "Human Resource Information Systems (HRIS)",
+    "Human Capital Management",
+    "Human Resource Management Systems (HRMS)",
+    "HR analytics software",
+    "HR management suites",
+    "Career management software",
+    "Employee engagement software",
+    "Experience Software",
+    "Employee scheduling software",
+    "Talent management software",
+    "Workforce management",
+    "Payroll services providers",
+    "Talent acquisition suites",
+    "Compensation management software",
+    "Sales compensation software"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Talent sourcing",
+    "Data-driven hiring",
+    "Hiring speed"
+  ],
+  "headquarter": "Walldorf, BW",
+  "launch_date": "1972",
+  "order": 20230,
+  "weightage": true,
+  "HCM": null,
+  "Headline": " SAP is committed to helping every customer become a best-run business.",
+  "ProductId": null,
+  "ShortDescription": "SAP is committed to helping every customer become a best-run business. ",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Enterprise Resource Planning ",
+      "sequence": 0,
+      "description": "Migrating from an existing one to the cloud, you can gain a complete, modular solution with the AI and analytics capabilities to move your business forward."
+    },
+    {
+      "name": "SAP Supply Chain Management (SAP SCM) software",
+      "sequence": 1,
+      "description": "A risk-resilient and sustainable supply chain is one that is connected, contextualised, and collaborative."
+    },
+    {
+      "name": " Financial management software",
+      "sequence": 2,
+      "description": "The path toward revenue growth, cost control, minimised risk, and sustainability begins with financial management software you can trust."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:19.780Z",
+  "enhanced_description": "SAP offers a comprehensive suite of cloud solutions, including Enterprise Resource Planning (ERP), HRMS/HCM, Talent Management, and Supply Chain Management (SCM), designed to help businesses become 'best-run'. This cloud ERP platform provides speed, predictability, and continuous innovation, supporting business needs across all stages of growth. Key features include fostering business agility, building supply chain resilience, and achieving sustainability outcomes. The platform integrates AI and analytics capabilities for advanced insights, offering functionalities across core HR, talent acquisition, total rewards, workforce management, and also includes robust financial management software.",
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Adopting cloud ERP solutions for business operations",
+    "Migrating existing ERP systems to the cloud",
+    "Leveraging AI and analytics for business insights",
+    "Building risk-resilient and sustainable supply chains",
+    "Achieving revenue growth and cost control through financial management",
+    "Minimizing financial risk and improving sustainability outcomes",
+    "Hiring top talent faster and more efficiently",
+    "Managing core HR functions and workforce operations",
+    "Implementing comprehensive talent management strategies"
+  ],
+  "competitive_advantages": [
+    "Comprehensive offering of cloud solutions across ERP, HR, and SCM",
+    "Designed for speed, predictability, and continuous innovation",
+    "Supports businesses at every stage of growth",
+    "Includes AI and analytics capabilities for advanced insights",
+    "Offers a complete, modular solution"
+  ],
+  "implementation_scenarios": [
+    "Cloud migration for existing ERP systems",
+    "New cloud ERP adoption",
+    "Cloud solution implementation with adoption services"
+  ],
+  "hr_functions_supported": [
+    "Core HR",
+    "Human Resource Information Systems (HRIS)",
+    "Human Capital Management (HCM)",
+    "Human Resource Management Systems (HRMS)",
+    "HR analytics",
+    "HR management suites",
+    "Career management",
+    "Employee engagement",
+    "Employee experience",
+    "Employee scheduling",
+    "Talent management",
+    "Workforce management",
+    "Payroll services",
+    "Talent acquisition",
+    "Compensation management",
+    "Sales compensation"
+  ],
+  "technology_stack": [
+    "Cloud-based architecture",
+    "Artificial Intelligence (AI)",
+    "Analytics"
+  ],
+  "roi_benefits": [
+    "Increased business agility",
+    "Enhanced supply chain resilience",
+    "Improved sustainability outcomes",
+    "Faster and more efficient talent acquisition leading to better hiring",
+    "Potential for revenue growth through effective financial management",
+    "Improved cost control and minimized risk",
+    "Predictability in business operations"
+  ],
+  "searchable_keywords": [
+    "SAP",
+    "cloud ERP",
+    "cloud solutions",
+    "ERP",
+    "HRMS",
+    "HCM",
+    "Talent Management",
+    "Total Rewards",
+    "Recruiting",
+    "Core HR",
+    "HRIS",
+    "Human Capital Management",
+    "Human Resource Management Systems",
+    "HR analytics software",
+    "HR management suites",
+    "Career management software",
+    "Employee engagement software",
+    "Experience Software",
+    "Employee scheduling software",
+    "Talent management software",
+    "Workforce management",
+    "Payroll services",
+    "Talent acquisition suites",
+    "Compensation management software",
+    "Sales compensation software",
+    "Talent acquisition",
+    "Talent sourcing",
+    "Data-driven hiring",
+    "Hiring speed",
+    "best-run business",
+    "Enterprise Resource Planning",
+    "AI",
+    "Analytics",
+    "SAP Supply Chain Management",
+    "SCM",
+    "Financial management software",
+    "Financial management",
+    "Business agility",
+    "Supply chain resilience",
+    "Sustainability outcomes",
+    "cloud adoption",
+    "modular solution"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Recruiters",
+    "Payroll Specialists",
+    "Compensation Managers",
+    "Talent Managers",
+    "Business Leaders",
+    "Employees (for self-service, engagement)",
+    "Finance Professionals",
+    "Supply Chain Professionals"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "scalability_features": [
+    "Designed to support businesses at every stage of growth",
+    "Suited for large enterprises"
+  ],
+  "_weight": 1
+}

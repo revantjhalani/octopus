@@ -1,0 +1,154 @@
+{
+  "id": 67,
+  "name": "Internshala",
+  "description": "Internshala is India\u2019s leading job search and online training platform, with over 21 million candidates and 300K registered companies. With over 10K job openings, Internshala is a one-stop solution for individuals looking for internships and job opportunities. The platform offers a comprehensive database of internships and training programs, with a user-friendly interface to facilitate individuals in finding opportunities that match their interests and skills.",
+  "features": [
+    "Internships for Diverse Fields",
+    "Community Building and Networking",
+    "Scholarship and Financial Aid Option"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Training & development companies",
+    "Job boards"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised learning"
+  ],
+  "headquarter": "Gurugram, Haryana",
+  "launch_date": "2010",
+  "order": 20043,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Empower your career with Internshala today",
+  "ProductId": null,
+  "ShortDescription": "Make your dream career a reality",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Master In-Demand Skills",
+      "sequence": 0,
+      "description": "Learn new-age skills on the go with short-term online courses."
+    },
+    {
+      "name": "Find Your Perfect Job Match",
+      "sequence": 1,
+      "description": "Get access to premium fresher jobs with a minimum CTC of 2 LPA."
+    },
+    {
+      "name": "Kickstart Your Career with Internships",
+      "sequence": 2,
+      "description": "Find 10,000+ internships from top companies to launch your professional journey."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-16T14:26:51.748Z",
+  "enhanced_description": "Internshala is India's premier platform for both online training and job search, connecting over 21 million candidates with 300K registered companies. It serves as a comprehensive hub offering more than 10,000 internships and various job opportunities, including premium fresher jobs with a minimum CTC of 2 LPA. The platform features a user-friendly interface facilitating individuals in discovering opportunities aligning with their interests and skills, alongside providing short-term online courses for mastering in-demand, new-age skills.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Internship Search and Application (for individuals)",
+    "Fresher Job Search and Application (for individuals)",
+    "Online Skill Development and Training (for individuals)",
+    "Career Networking and Community Building (for individuals)",
+    "Scholarship and Financial Aid Discovery (for individuals)",
+    "Talent Sourcing for Companies (Interns and Fresher Roles)"
+  ],
+  "competitive_advantages": [
+    "Extensive Candidate Pool (over 21 million)",
+    "Large Network of Registered Companies (over 300K)",
+    "Comprehensive Database of Internships and Job Openings (over 10K)",
+    "Dual Offering: Job Search & Online Training",
+    "Access to Premium Fresher Jobs (min. CTC 2 LPA)",
+    "User-Friendly Interface",
+    "Scholarship and Financial Aid Options",
+    "Community Building and Networking Capabilities",
+    "Focus on 'New-Age' and In-Demand Skill Training"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Learning & Development",
+    "Employer Branding"
+  ],
+  "roi_benefits": [
+    "Accelerated Skill Development for individuals",
+    "Improved Learning Efficiency for individuals",
+    "Enhanced Career Prospects for individuals (via internships and jobs)",
+    "Access to a Large Pool of Entry-Level Talent for companies",
+    "Efficient Sourcing for Internships and Fresher Roles for companies"
+  ],
+  "searchable_keywords": [
+    "internship",
+    "job search",
+    "online training",
+    "skill development",
+    "career development",
+    "fresher jobs",
+    "entry-level jobs",
+    "recruitment",
+    "talent acquisition",
+    "learning and development",
+    "job board",
+    "training programs",
+    "networking",
+    "scholarships",
+    "adaptive learning",
+    "personalized learning",
+    "India jobs",
+    "new-age skills",
+    "online courses",
+    "training effectiveness",
+    "skill acquisition",
+    "learning optimisation"
+  ],
+  "primary_users": [
+    "Students/Recent Graduates",
+    "Job Seekers (entry-level/freshers)",
+    "Individuals seeking Skill Development",
+    "Companies/Employers",
+    "HR Professionals"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "SaaS (Software-as-a-Service)"
+  ],
+  "_weight": 1
+}

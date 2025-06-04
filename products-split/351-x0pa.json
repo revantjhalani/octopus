@@ -1,0 +1,167 @@
+{
+  "id": 351,
+  "name": "X0pa",
+  "description": "X0PA AI was founded in 2017 by Nina Alag Suri and Co-Founder Dr Jussi Keppo. Previously, Nina was the Founder and CEO of a global executive search firm, Nastrac Group and it was through this venture that she realized the inefficiencies and subjectivity of traditional hiring processes and thus decided to disrupt her own business and pivot to an AI and ML SaaS-based platform with X0PA AI. X0PA is headquartered in Singapore and has offices across APAC, India, UK, UAE and partners across the globe. X0PA has a sophisticated ATS ( applicant tracking system) powered by Artificial intelligence, regenerative AI and cognitive intelligence all backed by data to help make hiring effective and automated.",
+  "features": [
+    "Automated Interview Scheduling",
+    "Automated Emails",
+    "Automated References and Offers"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Talent Management",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Employee scheduling software",
+    "Time tracking",
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2017",
+  "order": 20313,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We have turned the art of hiring into a science",
+  "ProductId": null,
+  "ShortDescription": "Our end-to-end solution ensures bias-free recruitment. X0PA\u2019s patented AI algorithms save you time and money.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Automated Interview Scheduling",
+      "sequence": 0,
+      "description": "Coordinate interviews hassle-free with our automatic scheduler. No more back-and-forth emails or missed phone calls. "
+    },
+    {
+      "name": "Automated Emails",
+      "sequence": 1,
+      "description": "Keep candidates informed and engaged with automatic email updates. From application receipt confirmation to interview invites, our system ensures your candidates are always in the loop."
+    },
+    {
+      "name": "Automated References and Offers",
+      "sequence": 2,
+      "description": "Our system automates the process of reaching out to referees, collecting feedback, and organizing it in an easily accessible format."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:56.337Z",
+  "enhanced_description": "X0PA AI, founded in 2017, is an AI and ML SaaS-based platform headquartered in Singapore with offices across APAC, India, UK, UAE, and global partners. It offers a sophisticated Applicant Tracking System (ATS) powered by Artificial Intelligence, generative AI, and cognitive intelligence, all backed by data. This end-to-end solution, utilizing patented AI algorithms, aims to transform the art of hiring into a science by ensuring bias-free recruitment, automating the hiring process, and improving effectiveness and efficiency.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Automating end-to-end recruitment processes",
+    "Streamlining interview scheduling and coordination",
+    "Automating candidate communication through email updates",
+    "Efficiently managing reference checks and offer distribution",
+    "Ensuring bias-free recruitment",
+    "Optimizing hiring processes for speed and efficiency",
+    "Making data-driven hiring decisions"
+  ],
+  "competitive_advantages": [
+    "Powered by Artificial Intelligence (AI), Machine Learning (ML), regenerative AI, and cognitive intelligence",
+    "Utilizes patented AI algorithms",
+    "Ensures bias-free recruitment",
+    "Offers an end-to-end automated hiring solution",
+    "Data-driven approach to hiring"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Recruitment",
+    "Talent Management"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Machine Learning (ML)",
+    "Generative AI",
+    "Cognitive Intelligence",
+    "SaaS (Software as a Service)"
+  ],
+  "roi_benefits": [
+    "Boosts Hiring Manager Confidence",
+    "Increases Hiring Manager Productivity",
+    "Achieves Faster Hiring Cycles",
+    "Improves Hiring Efficiency",
+    "Reduces the Cost of Hiring Qualified Employees",
+    "Saves Time",
+    "Saves Money"
+  ],
+  "searchable_keywords": [
+    "X0pa",
+    "AI",
+    "Machine Learning",
+    "ML",
+    "SaaS",
+    "ATS",
+    "Applicant Tracking System",
+    "Artificial Intelligence",
+    "Generative AI",
+    "Cognitive Intelligence",
+    "Hiring",
+    "Automated Hiring",
+    "Recruitment",
+    "Talent Acquisition",
+    "Talent Management",
+    "Interview Scheduling Automation",
+    "Automated Emails",
+    "Reference Checks Automation",
+    "Offer Management Automation",
+    "Hiring Automation",
+    "Bias-Free Recruitment",
+    "Patented AI Algorithms",
+    "Data-Driven Hiring",
+    "HR Software",
+    "Global Enterprise HR",
+    "Large Enterprise HR",
+    "Hiring Process Optimization",
+    "Talent Acquisition Costs",
+    "HR Tech"
+  ],
+  "primary_users": [
+    "Recruitment Teams",
+    "HR Professionals",
+    "Hiring Managers"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "SaaS"
+  ],
+  "compliance_features": [
+    "Bias-free recruitment"
+  ],
+  "_weight": 1
+}

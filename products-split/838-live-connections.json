@@ -1,0 +1,146 @@
+{
+  "id": 838,
+  "name": "Live Connections",
+  "description": "LIVE CONNECTIONS is a Search & Recruitment Organization that specializes in finding and placing professionals across all sectors. We bring to the table cumulative recruitment experience built over 25+ years. We understand the Biz life cycles in recruitment, and have placed over 20,000 people across 350+ clients in multiple sectors and functions.",
+  "features": [
+    "Understanding clearly the client mandate.",
+    "Intelligent Research to map target companies.",
+    "Meet and understand their needs, preferences, and aspirations."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "Learning and Development",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Job boards",
+    "Staffing & management software",
+    "Training eLearning software",
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Interview scheduling",
+    "Interviewing costs"
+  ],
+  "headquarter": "Chennai, TN",
+  "launch_date": "1996",
+  "order": 20791,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We Place People First",
+  "ProductId": null,
+  "ShortDescription": "We\u2019re always happy to talk with anyone interested in availing our services and leveraging our depth of experience in creating value.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Search Capabilities",
+      "sequence": 0,
+      "description": "Our bespoke approach to search lays emphasis on understanding the needs of clients and candidates that would help them bring and build mutual value."
+    },
+    {
+      "name": "Interview Service",
+      "sequence": 1,
+      "description": "We provide you with contract interviewers and specialists with technical capabilities and expertise in the latest hiring technologies to help overcome roadblocks. What you get in the process is a streamlined and efficient HR department with time enough to attend to more pressing deliverables."
+    },
+    {
+      "name": "Contingency Recruitment",
+      "sequence": 2,
+      "description": "Our specialty is our capability to work across sectors to manage need-based recruitment. Our work spanning varied industries has helped us build versatility in our system and the required depth to hire for varying degrees of complexity. It has also helped us align or service levels based on urgency, without compromises."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:27.933Z",
+  "enhanced_description": "Live Connections is a well-established Search & Recruitment Organization with over 25 years of cumulative experience, specializing in finding and placing professionals across all sectors. With a proven track record of over 20,000 placements for 350+ clients globally and within large enterprises, the company is committed to 'Placing People First'. Their bespoke approach to recruitment emphasizes intelligent research, understanding client mandates, and aligning with candidate needs and aspirations to foster mutual value. Live Connections offers specialized services including the provision of contract interviewers and technical specialists, leveraging expertise in the latest hiring technologies to streamline and enhance the efficiency of client HR departments, allowing them to focus on more pressing deliverables. They are adept at handling contingency recruitment across diverse industries, managing varying complexities and urgency levels without compromise.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Recruitment process outsourcing (RPO)",
+    "Contingent workforce staffing",
+    "Specialized interviewing support (Interviewer-as-a-Service)",
+    "Strategic talent sourcing and mapping",
+    "Permanent staffing solutions"
+  ],
+  "competitive_advantages": [
+    "Over 25 years of cumulative recruitment experience",
+    "Proven track record with 20,000+ placements across 350+ clients",
+    "Bespoke and client/candidate-centric search methodology",
+    "Access to specialized contract interviewers and technical experts",
+    "Ability to streamline and optimize HR hiring processes",
+    "Versatility and responsiveness in contingency recruitment across diverse sectors and complexities",
+    "Focus on large and global enterprise clients"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Staffing",
+    "Talent Acquisition",
+    "Interviewing"
+  ],
+  "roi_benefits": [
+    "Boosted hiring manager confidence",
+    "Improved hiring manager productivity",
+    "Streamlined and efficient HR department operations",
+    "Reduced internal HR time spent on recruitment and interviewing",
+    "Creation of mutual value in talent acquisition"
+  ],
+  "searchable_keywords": [
+    "recruitment",
+    "staffing",
+    "hiring",
+    "talent acquisition",
+    "search",
+    "placement",
+    "professionals",
+    "executive search",
+    "contingency recruitment",
+    "interview service",
+    "contract interviewers",
+    "technical interviewers",
+    "HR efficiency",
+    "talent mapping",
+    "HR solutions",
+    "recruitment organization",
+    "talent solutions",
+    "recruitment services",
+    "staffing services",
+    "HR consulting",
+    "job placement"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Professionals",
+    "Talent Acquisition Teams"
+  ],
+  "scalability_features": [
+    "Designed to serve large and global enterprises",
+    "Capability to handle varying degrees of complexity and urgency in recruitment needs across diverse sectors"
+  ],
+  "_weight": 1
+}

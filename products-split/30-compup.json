@@ -1,0 +1,164 @@
+{
+  "id": 30,
+  "name": "compup",
+  "description": "CompUp empowers total rewards teams to close the pay gap and build a fair compensation structure. Create & share secure compensation bands, run budget simulations, manage employee increments, auto-generate rewards, and offer a holistic total rewards package - all in one place.",
+  "features": [
+    "Secure Compensation Band Management",
+    "Streamlined Budget & Increment Management",
+    "Holistic Total Rewards Communication"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration software",
+    "Compensation management software",
+    "Benefits administration services",
+    "Performance management solutions",
+    "Performance Review software",
+    "Sales compensation software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee happiness",
+    "Employee satisfaction",
+    "Employee well being",
+    "Employee benefits",
+    "Employee empowerment"
+  ],
+  "headquarter": "Bengaluru, Karnataka",
+  "launch_date": "2020",
+  "order": 20014,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Helping companies to make fair pay a reality",
+  "ProductId": null,
+  "ShortDescription": "Make Compensation Decisions Scientific, Seamless and Equitable",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Compensation Management",
+      "sequence": 0,
+      "description": "Master over 50% of your organizational costs with data-driven compensation strategies."
+    },
+    {
+      "name": "HireSure.ai",
+      "sequence": 1,
+      "description": "Craft irresistible offers and build engaging workflows that candidates love."
+    },
+    {
+      "name": "People Analytics",
+      "sequence": 2,
+      "description": "Unlock workforce insights and make data-supported choices for optimal performance."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": null,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-01-10T07:19:33.782Z",
+  "enhanced_description": "CompUp is an HR technology solution designed to empower total rewards teams by providing a comprehensive platform for fair and equitable compensation management. It enables organizations to effectively close the pay gap and establish a robust compensation structure. The platform offers capabilities to create and share secure compensation bands, conduct budget simulations, manage employee increments, and auto-generate rewards, streamlining the entire total rewards package communication process into a single, unified system. With a focus on making compensation decisions scientific, seamless, and equitable, CompUp helps master organizational costs through data-driven compensation strategies. It also integrates functionalities for crafting compelling job offers and engaging candidate workflows (via HireSure.ai) and provides people analytics to unlock workforce insights for data-supported strategic HR decisions.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Closing the pay gap",
+    "Building a fair compensation structure",
+    "Creating and sharing secure compensation bands",
+    "Running budget simulations for compensation",
+    "Managing employee increments",
+    "Auto-generating rewards",
+    "Communicating holistic total rewards packages",
+    "Data-driven compensation strategy and cost management",
+    "Crafting irresistible job offers and managing candidate workflows",
+    "Unlocking workforce insights for optimal performance decisions"
+  ],
+  "competitive_advantages": [
+    "Focus on closing the pay gap and building fair compensation",
+    "Holistic total rewards management 'all in one place'",
+    "Secure Compensation Band Management",
+    "Data-driven approach to compensation decisions ('Scientific')",
+    "Ability to master organizational compensation costs strategically",
+    "Integration of offer management/candidate workflow capabilities (HireSure.ai)",
+    "Built-in People Analytics for workforce insights"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards Management",
+    "Compensation Management",
+    "Benefits Administration",
+    "Performance Management",
+    "Performance Review",
+    "Sales Compensation Management",
+    "Recruitment/Offer Management",
+    "HR Analytics/People Analytics"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Closing pay gaps for greater equity and compliance",
+    "Optimization and strategic management of compensation costs",
+    "Enhanced decision-making through workforce insights and data analytics",
+    "More effective and appealing job offer processes"
+  ],
+  "searchable_keywords": [
+    "compup",
+    "compensation",
+    "pay gap",
+    "fair pay",
+    "total rewards",
+    "compensation bands",
+    "budget simulations",
+    "employee increments",
+    "rewards management",
+    "benefits administration",
+    "compensation management software",
+    "performance management",
+    "performance review",
+    "sales compensation",
+    "employee engagement",
+    "employee happiness",
+    "employee satisfaction",
+    "employee well being",
+    "employee benefits",
+    "employee empowerment",
+    "scientific compensation",
+    "equitable pay",
+    "data-driven HR",
+    "workforce insights",
+    "people analytics",
+    "offer management",
+    "recruitment workflows"
+  ],
+  "primary_users": [
+    "Total Rewards Teams",
+    "HR Professionals",
+    "Compensation Analysts",
+    "HR Managers"
+  ],
+  "security_features": [
+    "Secure Compensation Band Management"
+  ],
+  "_weight": 1
+}

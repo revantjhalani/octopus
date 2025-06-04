@@ -1,0 +1,160 @@
+{
+  "id": 1305,
+  "name": "Coursera",
+  "description": "Coursera was launched in 2012 by two Stanford Computer Science professors, Andrew Ng and Daphne Koller, with a mission to provide universal access to world-class learning. It is now one of the largest online learning platforms in the world, with 124 million registered learners as of March 31, 2023. Coursera partners with over 300 leading university and industry partners to offer a broad catalog of content and credentials, including courses, Specializations, Professional Certificates, Guided Projects, and bachelor\u2019s and master\u2019s degrees. Institutions around the world use Coursera to upskill and reskill their employees, citizens, and students in fields such as data science, technology, and business. Coursera became a Delaware public benefit corporation and a B Corp in February 2021.",
+  "features": [
+    "Quickly learn job skills and industry tools",
+    "Gain new knowledge",
+    "Master a specific skill"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Continuous Learning",
+    "Personalised learning",
+    "Skill acquistion",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised Learning",
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning"
+  ],
+  "headquarter": "Mountain View, CA",
+  "launch_date": "2012",
+  "order": 4,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Learn without limits",
+  "ProductId": null,
+  "ShortDescription": "Coursera is one of the largest online learning platforms in the world, with 124 million registered learners as of March 31, 2023.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Wide Range of Courses",
+      "sequence": 0,
+      "description": "Coursera offers a vast selection of courses in various subjects, including Data Science, Business, Computer Science, and more"
+    },
+    {
+      "name": "Renowned Partners",
+      "sequence": 1,
+      "description": " They collaborate with prestigious universities and organizations like Stanford and IBM to deliver high-quality educational content"
+    },
+    {
+      "name": "Flexible Learning Options",
+      "sequence": 2,
+      "description": "Coursera provides different learning formats, including free courses, paid specializations, and even full degrees, allowing you to choose what suits your needs"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:33.008Z",
+  "enhanced_description": "Coursera, launched in 2012 by Stanford Computer Science professors Andrew Ng and Daphne Koller, is one of the world's largest online learning platforms, boasting 124 million registered learners as of March 31, 2023. Dedicated to providing universal access to world-class learning, Coursera partners with over 300 leading university and industry partners to offer a broad catalog of content and credentials. This includes a wide range of courses, Specializations, Professional Certificates, Guided Projects, and even bachelor\u2019s and master\u2019s degrees in subjects like Data Science, Business, and Computer Science. It supports organizations globally in their mission to upskill and reskill employees, citizens, and students, with a core business objective to accelerate skill development and learning efficiency. Coursera enables learners to quickly acquire job skills and industry tools, gain new knowledge, and master specific skills through flexible learning options, including free courses, paid specializations, and full degrees. Coursera became a Delaware public benefit corporation and a B Corp in February 2021, emphasizing its commitment to social impact.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Upskilling employees",
+    "Reskilling employees",
+    "Accelerating skill development",
+    "Learning new job skills and industry tools",
+    "Gaining new knowledge",
+    "Mastering specific skills"
+  ],
+  "competitive_advantages": [
+    "Extensive learner base (124M+ registered learners)",
+    "Partnerships with over 300 leading university and industry organizations",
+    "Broad catalog of content and credentials (courses, Specializations, Professional Certificates, Guided Projects, bachelor\u2019s and master\u2019s degrees)",
+    "High-quality educational content from renowned partners (e.g., Stanford, IBM)",
+    "Flexible learning options (free courses, paid programs, full degrees)",
+    "Global reach"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Employee Training",
+    "Skill Management"
+  ],
+  "roi_benefits": [
+    "Improved employee skills (upskilling/reskilling)",
+    "Faster skill development",
+    "Increased learning efficiency"
+  ],
+  "searchable_keywords": [
+    "Coursera",
+    "online learning platform",
+    "skill development",
+    "continuous learning",
+    "personalized learning",
+    "skill acquisition",
+    "learning efficiency",
+    "training effectiveness",
+    "corporate learning",
+    "e-learning",
+    "LMS",
+    "LXP",
+    "training management",
+    "upskilling",
+    "reskilling",
+    "professional development",
+    "online courses",
+    "Specializations",
+    "Professional Certificates",
+    "degrees",
+    "Data Science learning",
+    "Business learning",
+    "Computer Science learning",
+    "corporate training",
+    "employee training"
+  ],
+  "primary_users": [
+    "Individual Learners",
+    "Employees",
+    "HR Professionals",
+    "Training Managers",
+    "Educational Institutions"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)",
+    "Online Platform"
+  ],
+  "_weight": 1
+}

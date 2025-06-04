@@ -1,0 +1,167 @@
+{
+  "id": 169,
+  "name": "Neufast Pte. Ltd.",
+  "description": "Neufast Enterprise SaaS offers patented debiased AI for video interview and pre-employment talent assessment that is addressing the need of discovering competencies, skills and knowledge, faster and fairer in 13 Asian and European languages. We empower our client with significant cost savings in talent screening while meeting ESG targets for Diversity and Inclusion with Neufast's multi-lingual, AI-powered, gender-neutral talent assessment cloud solution.",
+  "features": [
+    "Faster Hire",
+    "Better Job-Fit",
+    "Engaging Experience"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Recruiting",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Quick Hiring",
+    "Hiring speed",
+    "Talent sourcing"
+  ],
+  "headquarter": "Singapore, Singapore",
+  "launch_date": "2018",
+  "order": 20136,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Hire Faster & Fairer. Make accurate decisions.",
+  "ProductId": null,
+  "ShortDescription": "Neufast is an award-winning HR Tech company.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": " AI bot",
+      "sequence": 0,
+      "description": "Interview bot conducts structured behavioral interviews in English, Mandarin, Cantonese & Thai languages."
+    },
+    {
+      "name": "Algorithm analysis",
+      "sequence": 1,
+      "description": "Algorithm analyzes interview performance with 83% accuracy and NDCG of 0.95 for matching client's candidate ranking."
+    },
+    {
+      "name": "customize",
+      "sequence": 2,
+      "description": "Recruiters customize competency model with specific weightings for behavioural competencies."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:50.677Z",
+  "enhanced_description": "Neufast Enterprise SaaS provides a patented, debiased AI-powered cloud solution for video interviews and pre-employment talent assessment. It is designed to rapidly and fairly discover candidate competencies, skills, and knowledge, supporting talent screening in 13 Asian and European languages. The platform utilizes an AI bot for structured behavioral interviews, currently supporting English, Mandarin, Cantonese, and Thai. Its algorithm analyzes interview performance with 83% accuracy and a high NDCG of 0.95 for matching client's candidate rankings, leading to better job-fit. Neufast empowers clients to achieve significant cost savings in talent screening while helping meet ESG targets for Diversity and Inclusion through its multi-lingual, gender-neutral talent assessment capabilities. Recruiters can customize competency models with specific weightings for behavioral competencies to ensure a tailored assessment approach.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Video Interviewing",
+    "Pre-employment Talent Assessment",
+    "Talent Screening",
+    "Competency and Skills Discovery",
+    "Improving Candidate Job-Fit",
+    "Achieving Diversity and Inclusion Targets",
+    "Faster Hiring for Open Positions"
+  ],
+  "competitive_advantages": [
+    "Patented Debiased AI for fair assessment",
+    "Multi-lingual support across 13 Asian and European languages",
+    "AI bot conducts structured behavioral interviews in specific languages (English, Mandarin, Cantonese, Thai)",
+    "Gender-neutral talent assessment",
+    "Significant cost savings in talent screening",
+    "High accuracy in interview performance analysis (83% accuracy, NDCG 0.95)",
+    "Customizable competency models with specific weightings for behavioral competencies",
+    "Supports meeting ESG targets for Diversity and Inclusion"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Assessment",
+    "Talent Screening"
+  ],
+  "technology_stack": [
+    "AI",
+    "SaaS",
+    "Cloud"
+  ],
+  "roi_benefits": [
+    "Significant cost savings in talent screening",
+    "Faster time-to-hire",
+    "Improved candidate job-fit",
+    "Achievement of ESG targets for Diversity and Inclusion"
+  ],
+  "searchable_keywords": [
+    "Neufast",
+    "AI",
+    "video interview",
+    "pre-employment assessment",
+    "talent assessment",
+    "debiased AI",
+    "gender-neutral",
+    "multi-lingual",
+    "recruiting software",
+    "talent screening",
+    "competency assessment",
+    "skills assessment",
+    "knowledge assessment",
+    "faster hiring",
+    "better job-fit",
+    "engaging experience",
+    "HR tech",
+    "ESG",
+    "Diversity and Inclusion",
+    "hiring speed",
+    "talent sourcing",
+    "interview bot",
+    "structured interviews",
+    "behavioral interviews",
+    "algorithm analysis",
+    "customizable competency model",
+    "cloud solution",
+    "SaaS",
+    "HRMS",
+    "HCM"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Hiring Managers"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "SaaS"
+  ],
+  "compliance_features": [
+    "Debiased AI for fairness and non-discrimination",
+    "Gender-neutral talent assessment",
+    "Supports Diversity and Inclusion initiatives (ESG targets)"
+  ],
+  "scalability_features": [
+    "Designed for Large Enterprise operations",
+    "Supports Global Enterprise deployments"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,155 @@
+{
+  "id": 362,
+  "name": "Zappyhire",
+  "description": "Zappyhire are innovators, strategists, designers and developers . But first and foremost Zappyhire are Talent Acquisition Experts and we understand your struggle.  Simply put, we strive to make a difference in the hiring process, innovate and simplify tasks for all users of Zappyhire. We partner with our clients to help them reach their recruitment goals in the smartest possible ways. We love working with innovative minds that are looking to transform their workforce acquisition process with the latest technology.",
+  "features": [
+    "Applicant Tracking System",
+    "Robotic Video Interview",
+    "Talent Acquisition Software"
+  ],
+  "founders": [
+    "Deepu Xavier",
+    "Jyothis K S"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Recruiting",
+    "Other / technology",
+    "Learning and Development",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Video interviewing software",
+    "Recruitment agencies",
+    "Recruiting software",
+    "Performance Review software",
+    "Artificial intelligence",
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "null",
+  "launch_date": "2018",
+  "order": 20324,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Intelligent Hiring Automated\n The Ultimate All-in-One\n Recruitment Platform",
+  "ProductId": null,
+  "ShortDescription": "Zappyhire is an AI-powered Recruitment Platform that helps companies screen, engage, and hire the right talent faster.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Collaborate and Hire with Your Team",
+      "sequence": 0,
+      "description": "Elevate your recruitment game with seamless team collaboration. With diverse perspectives and fresh insights, start making smarter hiring decisions and watch your hiring results soar!"
+    },
+    {
+      "name": "Quick Assessments",
+      "sequence": 1,
+      "description": "Make your hiring decisions confidently and efficiently with Zappyhire's AI-powered quick assessments that give you the insights you need in no time."
+    },
+    {
+      "name": "Unbiased Evaluations",
+      "sequence": 2,
+      "description": "Eliminate bias and promote diversity in your hiring process with fair evaluations powered by AI and machine learning. Hire the right talent, fairly."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:25:14.744Z",
+  "enhanced_description": "Zappyhire is an AI-powered, all-in-one recruitment platform designed by Talent Acquisition Experts to streamline and automate the hiring process. It features an Applicant Tracking System, Robotic Video Interviewing, and AI/ML-powered quick assessments for intelligent, unbiased candidate evaluation. The platform emphasizes seamless team collaboration to help organizations screen, engage, and hire top talent faster and more efficiently, while reducing costs and boosting hiring manager productivity.",
+  "key_use_cases": [
+    "Automating recruitment workflows",
+    "Conducting robotic video interviews for candidates",
+    "Performing AI-powered candidate screening and quick assessments",
+    "Ensuring unbiased evaluations and promoting diversity in hiring",
+    "Facilitating collaborative hiring among recruitment and hiring teams",
+    "Optimizing time-to-hire for qualified employees",
+    "Improving the quality and confidence of hiring decisions"
+  ],
+  "competitive_advantages": [
+    "AI-powered and machine learning capabilities for assessments and unbiased evaluations",
+    "Offers an all-in-one recruitment platform solution",
+    "Includes Robotic Video Interviewing functionality",
+    "Focus on eliminating bias and promoting diversity through technology",
+    "Emphasizes seamless team collaboration in the hiring process",
+    "Developed by 'Talent Acquisition Experts', suggesting deep domain knowledge"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Machine Learning (ML)"
+  ],
+  "roi_benefits": [
+    "Hire top talent faster and more efficiently",
+    "Boost hiring manager confidence and productivity",
+    "Reduce the cost of hiring qualified employees",
+    "Eliminate bias and promote diversity in the hiring process",
+    "Enable smarter and more confident hiring decisions"
+  ],
+  "searchable_keywords": [
+    "Zappyhire",
+    "Talent Acquisition",
+    "Hiring",
+    "Recruitment",
+    "Applicant Tracking System",
+    "ATS",
+    "Video Interview",
+    "Robotic Video Interview",
+    "AI",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Recruitment Platform",
+    "Recruiting Software",
+    "Hiring Automation",
+    "Hiring Process Optimization",
+    "Unbiased Hiring",
+    "Diversity Hiring",
+    "Talent Screening",
+    "Candidate Engagement",
+    "HR Tech",
+    "HR Software",
+    "Data-driven Hiring",
+    "Collaborative Hiring",
+    "Quick Assessments"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Hiring Managers",
+    "Recruitment Teams",
+    "Candidates"
+  ],
+  "_weight": 1
+}

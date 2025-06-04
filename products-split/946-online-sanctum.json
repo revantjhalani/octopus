@@ -1,0 +1,101 @@
+{
+  "id": 946,
+  "name": "Online Sanctum",
+  "description": "Sanctum Technologies, a renowned and prominent IT products & hardware provider, is headquartered in Bengaluru and operates across India. Since its establishment in 1996, we have been offering a wide range of services including sales and rentals of peripherals, networking components, servers, switches, routers, printers, and managed print services. Our expertise lies in providing top-notch laptop and computer rental services in Bengaluru and various other cities throughout India.",
+  "features": [
+    "Extensive Product Range",
+    "Nationwide Operational Presence",
+    "Specialization in Rentals"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration services",
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Employee empowerment",
+    "Employee happiness metrics"
+  ],
+  "headquarter": "",
+  "launch_date": "1996",
+  "order": 20893,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Transforming Possibilities",
+  "ProductId": null,
+  "ShortDescription": "We offer Rental/ Hiring of Laptops, Desktops, Servers & Scanners in Pan India.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": [],
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": false,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:37:26.615Z",
+  "enhanced_description": "Sanctum Technologies, established in 1996 and headquartered in Bengaluru, is a prominent IT products and hardware provider operating across India. They offer a wide range of services including sales and rentals of IT peripherals, networking components, servers, switches, routers, printers, laptops, desktops, and scanners, in addition to managed print services. Their specialization lies in providing top-notch laptop and computer rental services throughout Bengaluru and various other cities nationwide.",
+  "key_use_cases": [
+    "Provision of IT infrastructure for businesses",
+    "Temporary IT equipment needs for projects or events",
+    "Hiring of laptops, desktops, servers, and scanners",
+    "Managed print services for organizations",
+    "Scaling IT equipment up or down based on business requirements"
+  ],
+  "competitive_advantages": [
+    "Extensive Product Range of IT hardware and peripherals",
+    "Nationwide Operational Presence across India",
+    "Specialization in IT equipment rentals",
+    "Long-standing market presence since 1996"
+  ],
+  "roi_benefits": [],
+  "searchable_keywords": [
+    "IT products",
+    "hardware provider",
+    "IT hardware sales",
+    "IT hardware rentals",
+    "peripherals",
+    "networking components",
+    "servers",
+    "switches",
+    "routers",
+    "printers",
+    "managed print services",
+    "laptop rental",
+    "computer rental",
+    "desktop rental",
+    "scanner rental",
+    "IT equipment hiring",
+    "Pan India",
+    "Bengaluru",
+    "IT infrastructure"
+  ],
+  "primary_users": [
+    "Businesses requiring IT hardware",
+    "Organizations needing temporary IT equipment",
+    "IT departments",
+    "Procurement teams"
+  ],
+  "scalability_features": [
+    "Ability to provide extensive product range across India, supporting varying demand",
+    "Specialization in rentals allows for flexible scaling of IT equipment for businesses"
+  ],
+  "_weight": 1
+}

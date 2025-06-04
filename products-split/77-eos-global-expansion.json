@@ -1,0 +1,146 @@
+{
+  "id": 77,
+  "name": "EOS Global Expansion",
+  "description": "Eos is Asia\u2019s leading provider of outsourced employment solutions. Under a model known as PEO ( Professional Employer Organization ), or GEO ( Global Employer Organization ), we hire your staff as employees into our own local company in your target country, so you don\u2019t need to register your own subsidiary. We manage all of the payroll, tax, and HR functions that require expert local knowledge. Your team then oversee the employees day to day activities as usual \u2013 You can focus on your business objectives and leave the rest to us.",
+  "features": [
+    "Everyday alignment of organizational, team and individual goals",
+    "Personalized insights and nudges to drive power performance behaviors",
+    "Recruitment & Talent Acquisition",
+    "Visa & Immigration Services",
+    "Multi-Country Payroll & Accounting",
+    "Ad Hoc Consulting"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "HR consulting providers",
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Hiring",
+    "Hiring efficiency"
+  ],
+  "headquarter": "India",
+  "launch_date": "2010",
+  "order": 20053,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Navigating the complexities of global expansion is our expertise.",
+  "ProductId": null,
+  "ShortDescription": "Hire staff quickly & compliantly, without the cost, delays, or resource drain of setting up a foreign subsidiary",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-20T07:03:40.077Z",
+  "enhanced_description": "EOS Global Expansion offers outsourced employment solutions under a PEO (Professional Employer Organization) or GEO (Global Employer Organization) model, primarily serving Asia. The service enables companies to expand globally by hiring staff directly into EOS's local entities in target countries, eliminating the need for clients to establish their own foreign subsidiaries. EOS manages all critical payroll, tax, and HR functions that require expert local knowledge, allowing client teams to focus on day-to-day employee oversight and core business objectives. This approach facilitates rapid and compliant international hiring, significantly reducing the costs, delays, and resource drain typically associated with setting up foreign operations.",
+  "key_use_cases": [
+    "Expanding operations into new international markets without establishing local subsidiaries",
+    "Hiring international staff quickly and compliantly",
+    "Outsourcing multi-country payroll, tax, and HR administration",
+    "Managing global recruitment and talent acquisition processes",
+    "Ensuring compliance with local employment laws and regulations in target countries",
+    "Streamlining visa and immigration processes for global hires",
+    "Aligning organizational, team, and individual goals across international teams",
+    "Driving performance behaviors through personalized insights for global employees"
+  ],
+  "competitive_advantages": [
+    "Eliminates the need for clients to register their own foreign subsidiaries",
+    "Manages all complex payroll, tax, and HR functions requiring local expertise",
+    "Allows clients to focus on core business objectives by offloading administrative burden",
+    "Facilitates faster and more efficient global talent acquisition",
+    "Helps avoid the significant costs, delays, and resource drain associated with setting up foreign entities",
+    "Positioned as Asia's leading provider of outsourced employment solutions"
+  ],
+  "implementation_scenarios": [
+    "Utilizing a PEO (Professional Employer Organization) model for global employment",
+    "Employing a GEO (Global Employer Organization) model for international expansion",
+    "Engaging outsourced employment solutions for compliant global hiring"
+  ],
+  "hr_functions_supported": [
+    "Recruitment & Talent Acquisition",
+    "Visa & Immigration Services",
+    "Multi-Country Payroll & Accounting",
+    "Tax Management",
+    "General HR Functions (local compliance)",
+    "Organizational Goal Alignment",
+    "Performance Management (insights and nudges)",
+    "Ad Hoc HR Consulting"
+  ],
+  "roi_benefits": [
+    "Faster and more efficient hiring of top international talent",
+    "Avoidance of costs associated with setting up foreign subsidiaries",
+    "Elimination of delays in global expansion due to subsidiary setup",
+    "Reduction of resource drain on internal teams for international compliance and administration",
+    "Enables businesses to maintain focus on core objectives"
+  ],
+  "searchable_keywords": [
+    "EOS Global Expansion",
+    "PEO",
+    "GEO",
+    "Professional Employer Organization",
+    "Global Employer Organization",
+    "Outsourced Employment Solutions",
+    "Global Expansion",
+    "International Hiring",
+    "Cross-border Employment",
+    "Multi-Country Payroll",
+    "Global Payroll",
+    "International Payroll",
+    "Payroll Services",
+    "HR Outsourcing",
+    "Global HR",
+    "Recruitment",
+    "Talent Acquisition",
+    "Visa Services",
+    "Immigration Services",
+    "Tax Management",
+    "Accounting Services",
+    "HR Consulting",
+    "Goal Alignment",
+    "Performance Management",
+    "Hiring Efficiency",
+    "International Compliance",
+    "Foreign Subsidiary Avoidance"
+  ],
+  "primary_users": [
+    "Companies seeking to expand globally",
+    "Businesses looking to hire employees in new international markets",
+    "HR leaders managing international talent acquisition and compliance",
+    "Finance teams overseeing multi-country payroll and tax operations"
+  ],
+  "deployment_options": [
+    "Outsourced service model (PEO/GEO)"
+  ],
+  "compliance_features": [
+    "Manages payroll, tax, and HR functions requiring expert local knowledge",
+    "Ensures compliant hiring in target countries"
+  ],
+  "_weight": 1
+}

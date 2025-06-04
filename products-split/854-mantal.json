@@ -1,0 +1,171 @@
+{
+  "id": 854,
+  "name": "Mantal",
+  "description": "Manatal is the next generation of recruitment software. Easy to implement and built with the latest technologies, the platform was designed to streamline and simplify recruitment processes from sourcing to onboarding and beyond. Hire better and faster by funneling your recruitment channels into one intuitive platform. Leverage AI tools and social media enrichment features, manage your team remotely, and improve collaboration, take advantage of a full reporting suite, and much more. Transform the way you recruit with the ultimate cloud-based hiring tool and drive your recruitment metrics to new highs!",
+  "features": [
+    "Candidate Sourcing",
+    "Applicant Tracking System",
+    "AI Recommendations"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Staffing & management software",
+    "Onboarding software",
+    "Talent management software",
+    "Artificial intelligence",
+    "Staffing services providers",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Hiring costs",
+    "Recruiting costs",
+    "Screening costs"
+  ],
+  "headquarter": "Lumphini, Bangkok City",
+  "launch_date": "2018",
+  "order": 20807,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The next generation of AI-powered recruitment software.",
+  "ProductId": null,
+  "ShortDescription": "Manatal is an AI Recruitment Software enabling human resources departments and recruitment agencies to source and hire in the most effective way.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Easy-to-use Recruitment Software",
+      "sequence": 0,
+      "description": "No steep learning curves or bloated interfaces. Manatal platform is simple yet powerful; accessible and relevant to all recruiters."
+    },
+    {
+      "name": "Post your jobs on 2,500+ Free & Premium Channels",
+      "sequence": 1,
+      "description": "Share your job openings on 2,500+ free and premium channels, including local, global, and specialized job platforms such as Indeed, LinkedIn, Monster, CareerJet, JobStreet, and many more."
+    },
+    {
+      "name": "AI-Powered Recommendations",
+      "sequence": 2,
+      "description": "Manatal AI Engine simplifies the whole hiring process by suggesting the best candidates for a given job while automating redundant tasks."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:44.506Z",
+  "enhanced_description": "Manatal is an AI-powered, cloud-based recruitment software designed to streamline and simplify the entire hiring process, from candidate sourcing to onboarding and beyond. Built with ease of implementation and use in mind, it provides a centralized platform for managing recruitment channels, leveraging advanced AI tools for candidate recommendations and task automation, and facilitating remote team collaboration. The platform supports extensive job posting capabilities across over 2,500 free and premium channels, including major platforms like Indeed, LinkedIn, Monster, CareerJet, and JobStreet. It also offers a comprehensive reporting suite to help organizations drive recruitment metrics and hire better and faster. Manatal serves both internal human resources departments and recruitment agencies, aiming to reduce the cost of hiring qualified employees.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Candidate Sourcing and Discovery",
+    "Applicant Tracking and Management",
+    "AI-powered Candidate Matching and Recommendations",
+    "Automating Repetitive Recruitment Tasks",
+    "Job Posting and Distribution across multiple channels",
+    "Remote Recruitment Team Collaboration",
+    "Recruitment Analytics and Reporting",
+    "Onboarding Process Management",
+    "Streamlining Hiring Workflows"
+  ],
+  "competitive_advantages": [
+    "Extensive Job Board Integration (2,500+ channels including Indeed, LinkedIn, Monster)",
+    "Advanced AI-Powered Candidate Recommendations and Automation",
+    "Ease of Use and Implementation (simple, powerful, accessible)",
+    "Cloud-based Accessibility",
+    "Comprehensive Reporting Suite",
+    "Centralized Recruitment Channel Management"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based SaaS Deployment"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Onboarding",
+    "Talent Acquisition"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Cloud Computing"
+  ],
+  "integration_capabilities": [
+    "2,500+ Free & Premium Job Channels (e.g., Indeed, LinkedIn, Monster, CareerJet, JobStreet)"
+  ],
+  "roi_benefits": [
+    "Reduced Cost of Hiring Qualified Employees",
+    "Faster Hiring Cycles",
+    "Improved Quality of Hires",
+    "Increased Efficiency through Automation",
+    "Enhanced Recruitment Metrics",
+    "Simplified Hiring Process"
+  ],
+  "searchable_keywords": [
+    "Mantal",
+    "Manatal",
+    "recruitment software",
+    "AI recruitment",
+    "hiring tool",
+    "HR tech",
+    "human resources",
+    "recruitment agencies",
+    "candidate sourcing",
+    "applicant tracking system",
+    "ATS",
+    "AI recommendations",
+    "onboarding software",
+    "talent management",
+    "staffing software",
+    "job posting",
+    "Indeed integration",
+    "LinkedIn integration",
+    "Monster integration",
+    "CareerJet",
+    "JobStreet",
+    "cloud-based recruitment",
+    "remote team collaboration",
+    "recruitment reporting",
+    "hiring costs",
+    "recruiting costs",
+    "screening costs",
+    "AI engine",
+    "candidate matching",
+    "recruitment automation",
+    "easy-to-use recruitment",
+    "global enterprise recruitment",
+    "large enterprise recruitment"
+  ],
+  "primary_users": [
+    "HR Departments",
+    "Recruitment Agencies",
+    "Recruiters"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "_weight": 1
+}

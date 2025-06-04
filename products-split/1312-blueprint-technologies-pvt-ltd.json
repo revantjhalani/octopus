@@ -1,0 +1,151 @@
+{
+  "id": 1312,
+  "name": "Blueprint Technologies Pvt Ltd",
+  "description": "Blueprint Technologies Pvt Ltd is a niche SAP solutions company driving global digital transformations. Specializing in SAP offerings, we've served 110+ customers worldwide. Our B-H.I.V.E innovation hub pioneers solutions like BLU-Bot and B-ACE, utilizing advanced technologies like AI and RPA for rapid deployment. With SAP Recognized Expertise Certificates, we ensure agile project delivery and innovative business solutions across diverse industries in India, UAE, Saudi Arabia, USA, and Canada.",
+  "features": [
+    "Customer Focus",
+    "Proven Track Record",
+    "Agile Delivery"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [],
+  "sub_categories": [],
+  "tags": [
+    "Employee development",
+    "Employee enagement strategies",
+    "candidate engagement"
+  ],
+  "headquarter": "Bengaluru, Karnataka",
+  "launch_date": "2010",
+  "order": 21133,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Our Capabilities, Our People",
+  "ProductId": null,
+  "ShortDescription": "Blueprint Technologies is a niche, boutique SAP solutions company helping global customers in their digital transformation journeys.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Award-Winning Service & HCM Solutions",
+      "sequence": 0,
+      "description": "Their HCM suite tackles everything from talent management to core HR, even integrating biometrics. "
+    },
+    {
+      "name": "Cost-Effective & Globally Trusted",
+      "sequence": 1,
+      "description": "Blueprint optimizes project costs through efficient delivery models, rapid deployment, and industry expertise."
+    },
+    {
+      "name": "Knowledge-Driven Approach ",
+      "sequence": 2,
+      "description": "Their team combines deep knowledge of business processes and SAP solutions for precise project execution."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:42.570Z",
+  "enhanced_description": "Blueprint Technologies Pvt Ltd is a niche, boutique SAP solutions company specializing in SAP offerings to drive global digital transformations for over 110 customers worldwide. Their B-H.I.V.E innovation hub pioneers solutions like BLU-Bot and B-ACE, leveraging advanced technologies such as Artificial Intelligence (AI) and Robotic Process Automation (RPA) for rapid deployment. With SAP Recognized Expertise Certificates, they ensure agile project delivery and innovative business solutions across diverse industries. Their HCM suite tackles everything from talent management and core HR to integrating biometrics. Blueprint Technologies is known for optimizing project costs through efficient delivery models, rapid deployment, and a knowledge-driven approach, serving customers in India, UAE, Saudi Arabia, USA, and Canada.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Digital Transformation",
+    "SAP Solutions Implementation",
+    "Talent Management",
+    "Core HR Management",
+    "Biometric Integration for HR",
+    "Employee Development",
+    "Employee Engagement Strategies",
+    "Candidate Engagement",
+    "Project Cost Optimization"
+  ],
+  "competitive_advantages": [
+    "Niche SAP Specialization",
+    "Global Digital Transformation Expertise",
+    "Proprietary Innovation Hub (B-H.I.V.E)",
+    "AI and RPA Integration for Rapid Deployment",
+    "SAP Recognized Expertise Certificates",
+    "Agile Project Delivery",
+    "Customer Focus",
+    "Proven Track Record (110+ global customers)",
+    "Cost-Effective Solutions (via efficient delivery, rapid deployment)",
+    "Globally Trusted",
+    "Knowledge-Driven Approach",
+    "Deep Business Process and SAP Solution Knowledge"
+  ],
+  "implementation_scenarios": [
+    "Agile Project Delivery",
+    "Rapid Deployment Models",
+    "Efficient Delivery Models"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Core HR",
+    "Biometric Integration",
+    "Employee Development",
+    "Employee Engagement",
+    "Candidate Engagement"
+  ],
+  "technology_stack": [
+    "SAP",
+    "Artificial Intelligence (AI)",
+    "Robotic Process Automation (RPA)"
+  ],
+  "integration_capabilities": [
+    "Biometric Integration"
+  ],
+  "roi_benefits": [
+    "Optimized Project Costs",
+    "Faster Digital Transformation",
+    "Innovative Business Solutions",
+    "Enhanced Efficiency"
+  ],
+  "searchable_keywords": [
+    "Blueprint Technologies",
+    "SAP solutions",
+    "digital transformation",
+    "AI",
+    "RPA",
+    "HCM suite",
+    "talent management",
+    "core HR",
+    "biometrics",
+    "employee development",
+    "employee engagement strategies",
+    "candidate engagement",
+    "agile project delivery",
+    "cost optimization",
+    "global enterprise solutions",
+    "B-H.I.V.E",
+    "BLU-Bot",
+    "B-ACE",
+    "SAP Recognized Expertise Certificates"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Talent Acquisition Teams"
+  ],
+  "_weight": 1
+}

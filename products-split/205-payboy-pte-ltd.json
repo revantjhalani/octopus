@@ -1,0 +1,129 @@
+{
+  "id": 205,
+  "name": "Payboy Pte Ltd",
+  "description": "Payboy is a cloud-based payroll and HR management software that streamlines and automates essential HR processes through a unified ecosystem. As business owners ourselves, we understand the daily intricacies and problems fellow SMEs face. Therefore, we create a simple, reliable, and effective platform so that businesses can focus on bringing out the best in their people.",
+  "features": [
+    "Payboy is driven by the HR issues businesses face, the feedback on our solutions, and a future where businesses can focus solely on bringing out the best in their people.",
+    "Payboy's intuitive platform is built for employees and employers to be used for digital submission of claims, a quick check of payslip on the go, or intensive planning work at the desk.",
+    "Scheduling software"
+  ],
+  "founders": [
+    "Nigel Lim"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software",
+    "Human Resource Management Systems (HRMS)"
+  ],
+  "tags": [
+    "Hiring process optimization",
+    "Talent acquisition"
+  ],
+  "headquarter": "Singapore, Singapore",
+  "launch_date": "2016",
+  "order": 20172,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "FOCUS ON\n YOUR PEOPLE.\n LEAVE THE\n REST TO US.",
+  "ProductId": null,
+  "ShortDescription": "Payboy's Software helps you to take care of your essential HR processes, so that you can focus on the work which truly matters\u2014bringing out the best in your people.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:27.175Z",
+  "enhanced_description": "Payboy is a cloud-based payroll and HR management software designed to streamline and automate essential HR processes through a unified ecosystem. Built by business owners for Small to Medium-sized Enterprises (SMEs), it focuses on providing a simple, reliable, and effective platform that enables businesses to concentrate on fostering the best in their people. The intuitive platform serves both employees and employers, facilitating tasks like digital submission of claims, quick payslip checks on the go, and intensive planning work at the desk, including workforce scheduling.",
+  "ideal_company_sizes": [
+    "Small to Medium-sized Enterprises (SMEs)"
+  ],
+  "key_use_cases": [
+    "Core HR process automation",
+    "Payroll management",
+    "Employee claims submission",
+    "Payslip access and distribution",
+    "Workforce scheduling",
+    "Hiring process optimization",
+    "Talent acquisition"
+  ],
+  "competitive_advantages": [
+    "Cloud-based platform",
+    "Streamlined and automated HR processes",
+    "Unified HR ecosystem",
+    "Simple, reliable, and effective platform design",
+    "Intuitive user experience for both employees and employers",
+    "Designed specifically for SME challenges",
+    "Focus on enabling businesses to prioritize people development"
+  ],
+  "hr_functions_supported": [
+    "Payroll",
+    "Core HR",
+    "Human Resource Management Systems (HRMS)",
+    "Expense Management (Claims)",
+    "Workforce Scheduling",
+    "Talent Acquisition",
+    "Recruitment (Hiring Process Optimization)"
+  ],
+  "roi_benefits": [
+    "Increased efficiency through automation of HR processes",
+    "Time savings for HR staff and business owners",
+    "Improved focus on strategic business objectives by offloading HR administration",
+    "Enhanced employee experience through self-service options (claims, payslips)",
+    "Boosted hiring manager confidence and productivity"
+  ],
+  "searchable_keywords": [
+    "Payboy",
+    "HRMS",
+    "HCM",
+    "Cloud HR software",
+    "Payroll software",
+    "HR management software",
+    "SME HR",
+    "Core HR software",
+    "Human Resource Management Systems",
+    "HR automation",
+    "Employee claims",
+    "Payslip management",
+    "Workforce scheduling",
+    "Hiring process optimization",
+    "Talent acquisition",
+    "HR platform",
+    "HR system"
+  ],
+  "primary_users": [
+    "Business owners",
+    "Employers",
+    "Employees",
+    "HR managers",
+    "Hiring managers"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "_weight": 1
+}

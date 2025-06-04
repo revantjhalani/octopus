@@ -1,0 +1,144 @@
+{
+  "id": 234,
+  "name": "Pulsifi",
+  "description": "Pulsifi goes beyond understanding individuals to analyzing their optimal work environments. Through AI and data science, our platform profiles candidates based on soft traits and hard skills, predicting their fit for specific roles. We pioneer an SaaS AI platform that comprehensively analyzes human behavior, ensuring alignment in mission, interests, and abilities for enhanced success and motivation in roles within your organization.",
+  "features": [
+    "Hiring Automation",
+    "Psychometric Assessments",
+    "Lateral Hiring"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Capital Management"
+  ],
+  "tags": [
+    "Hiring",
+    "Hiring manager confidence"
+  ],
+  "headquarter": "Singapore, Singapore",
+  "launch_date": "2016",
+  "order": 20200,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We discover potential in talent and organizations",
+  "ProductId": null,
+  "ShortDescription": "Pulsifi\u2019s People Data Platform provides real-time, accurate candidate assessments for confident people decisions",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Accurate Decision Making",
+      "sequence": 0,
+      "description": "Every decision you make will be a confident one."
+    },
+    {
+      "name": "True Insights In Real Time",
+      "sequence": 1,
+      "description": "Really know each and every talent."
+    },
+    {
+      "name": "Tailored Solutions For Each Role",
+      "sequence": 2,
+      "description": "Customized solutions without the costly process."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:51.355Z",
+  "enhanced_description": "Pulsifi is an AI and data science-driven SaaS platform that serves as a People Data Platform. It goes beyond individual understanding to analyze optimal work environments, profiling candidates based on both soft traits and hard skills. The platform accurately predicts candidate fit for specific roles by comprehensively analyzing human behavior, ensuring alignment in mission, interests, and abilities. This leads to enhanced success and motivation within roles, enabling real-time, accurate candidate assessments for confident people decisions and boosting hiring manager confidence and productivity.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Candidate profiling based on soft traits and hard skills",
+    "Predicting candidate fit for specific roles",
+    "Automating hiring processes",
+    "Conducting psychometric assessments for candidates",
+    "Facilitating lateral hiring within an organization",
+    "Analyzing human behavior for optimal role alignment",
+    "Making confident people decisions in real-time"
+  ],
+  "competitive_advantages": [
+    "Pioneering SaaS AI platform for comprehensive human behavior analysis",
+    "Leverages AI and data science for predictive insights",
+    "Provides real-time, accurate candidate assessments",
+    "Offers tailored solutions for specific roles",
+    "Ensures alignment in mission, interests, and abilities for enhanced success and motivation"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Talent Management",
+    "Human Capital Management"
+  ],
+  "roi_benefits": [
+    "Boosts hiring manager confidence",
+    "Increases hiring manager productivity",
+    "Enables accurate decision making in people management",
+    "Provides true insights in real-time about talent",
+    "Offers customized solutions without costly processes",
+    "Ensures alignment in mission, interests, and abilities for enhanced success and motivation"
+  ],
+  "searchable_keywords": [
+    "Pulsifi",
+    "Hiring Automation",
+    "Psychometric Assessments",
+    "Lateral Hiring",
+    "HRMS",
+    "HCM",
+    "Human Capital Management",
+    "Hiring",
+    "Hiring manager confidence",
+    "AI",
+    "Data science",
+    "Candidate profiling",
+    "Soft traits",
+    "Hard skills",
+    "Predictive analytics",
+    "SaaS AI platform",
+    "Human behavior analysis",
+    "Talent alignment",
+    "People Data Platform",
+    "Real-time assessments",
+    "Talent potential",
+    "Organizational potential",
+    "People decisions"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Professionals",
+    "Recruiters"
+  ],
+  "deployment_options": [
+    "SaaS",
+    "Cloud"
+  ],
+  "_weight": 1
+}

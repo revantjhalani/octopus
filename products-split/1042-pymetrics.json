@@ -1,0 +1,168 @@
+{
+  "id": 1042,
+  "name": "Pymetrics",
+  "description": "pymetrics is a soft skills platform redefining hiring and talent management \u2013 using data-driven behavioral insights and audited AI to create a more efficient, effective, and fair hiring process across the talent lifecycle. We leverage audited AI behavioral soft skill assessments to help enterprise companies build diverse teams of top performers. By mitigating inherent human biases through our audited AI platform, we can help your team to identify quality candidates, hire equitably, reduce turnover rate, and enhance overall talent performance. We\u2019re driven by possibility, not precedent.",
+  "features": [
+    "We believe in optimizing the talent lifecycle",
+    "We know there's strength in diversity",
+    "We want to help future proof your workforce"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Video interviewing software",
+    "Onboarding software",
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs"
+  ],
+  "headquarter": "New York, NY",
+  "launch_date": "2011",
+  "order": 20985,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Soft skills platform",
+  "ProductId": null,
+  "ShortDescription": "pymetrics is a soft skills platform redefining hiring and talent management \u2013 using data-driven behavioral insights and audited AI to create a more efficient, effective, and fair hiring process across the talent lifecycle.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Focus on Soft Skills:",
+      "sequence": 0,
+      "description": " Pymetrics uses AI-driven games and algorithms to assess soft skills like communication, problem-solving, and teamwork. This goes beyond traditional resumes and interviews, aiming to provide a more holistic view of a candidate's potential."
+    },
+    {
+      "name": "Data-driven Approach",
+      "sequence": 1,
+      "description": "Their AI algorithms analyze behavioral data collected through games to identify successful employees and match candidates with similar traits."
+    },
+    {
+      "name": "Better Candidate Fit",
+      "sequence": 2,
+      "description": "Pymetrics claims to help companies find candidates who are a better fit for the role and company culture. This can lead to increased employee retention and satisfaction."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:39:25.886Z",
+  "enhanced_description": "Pymetrics is a soft skills platform that redefines hiring and talent management by leveraging data-driven behavioral insights and audited AI. It utilizes AI-driven games and algorithms to assess crucial soft skills such as communication, problem-solving, and teamwork, offering a more holistic view of a candidate's potential beyond traditional resumes and interviews. This approach helps enterprise companies build diverse teams of top performers, mitigates inherent human biases, and creates a more efficient, effective, and fair hiring process across the entire talent lifecycle. The platform's AI algorithms analyze behavioral data collected through games to identify characteristics of successful employees and match candidates with similar traits, ultimately aiming to improve candidate fit, reduce turnover, and enhance overall talent performance.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Hiring process optimization",
+    "Talent acquisition and sourcing",
+    "Candidate assessment (soft skills and behavioral insights)",
+    "Building diverse teams",
+    "Bias mitigation in hiring",
+    "Talent lifecycle management",
+    "Reducing employee turnover",
+    "Enhancing overall talent performance",
+    "Workforce future-proofing",
+    "Boosting hiring manager confidence and productivity",
+    "Reducing hiring costs"
+  ],
+  "competitive_advantages": [
+    "Uses audited AI to ensure fairness and mitigate human biases",
+    "Leverages data-driven behavioral insights and AI-driven games for assessment",
+    "Focuses on soft skills assessment beyond traditional resumes and interviews",
+    "Aims to create a more efficient, effective, and fair hiring process",
+    "Helps identify candidates with better fit for roles and company culture"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Management",
+    "Candidate Assessment",
+    "Diversity & Inclusion",
+    "Workforce Planning"
+  ],
+  "technology_stack": [
+    "AI",
+    "Algorithms",
+    "Behavioral Data Analytics"
+  ],
+  "roi_benefits": [
+    "More efficient, effective, and fair hiring process",
+    "Increased ability to identify quality candidates",
+    "Equitable hiring outcomes",
+    "Reduced employee turnover rate",
+    "Enhanced overall talent performance",
+    "Boosted Hiring Manager Confidence and Productivity",
+    "Faster and more efficient hiring of top talent",
+    "Reduced cost of hiring qualified employees",
+    "Increased employee retention and satisfaction",
+    "Improved candidate fit for roles and company culture"
+  ],
+  "searchable_keywords": [
+    "Pymetrics",
+    "Soft skills platform",
+    "Hiring",
+    "Talent management",
+    "Data-driven",
+    "Behavioral insights",
+    "Audited AI",
+    "Talent lifecycle",
+    "Recruiting software",
+    "Candidate assessment",
+    "AI-driven games",
+    "Algorithms",
+    "Communication skills",
+    "Problem-solving skills",
+    "Teamwork skills",
+    "Candidate fit",
+    "Company culture",
+    "Employee retention",
+    "Diversity",
+    "Bias mitigation",
+    "Workforce planning",
+    "HR technology",
+    "Talent sourcing",
+    "Recruiting costs"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Talent Acquisition Teams",
+    "Hiring Managers",
+    "Job Candidates"
+  ],
+  "compliance_features": [
+    "Fair hiring practices (via audited AI and bias mitigation)",
+    "Bias mitigation"
+  ],
+  "scalability_features": [
+    "Supports large enterprise and global enterprise deployments"
+  ],
+  "_weight": 1
+}

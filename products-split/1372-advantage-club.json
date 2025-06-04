@@ -1,0 +1,172 @@
+{
+  "id": 1372,
+  "name": "Advantage Club",
+  "description": "Advantage Club takes pride in providing a scalable, customisable, cost-effective program to take employee engagement to the next level. Our unified platform brings a wide variety of recognition programs, including milestone/anniversary/years-of-service awards, real-time spot bonuses, automated incentives, peer-to-peer appreciation, onboarding programs, wellness programs, quarterly & annual performance awards, gift card programs, exclusive offers across 10,000+ global brands, etc.",
+  "features": [
+    "Employee Benefit Management",
+    "Corporate Benefits",
+    "Employee Engagement"
+  ],
+  "founders": [
+    "Saurabh Deora"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration services",
+    "Corporate wellness software",
+    "Employee recognition software",
+    "Sales compensation software"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Employee well being",
+    "Employee happiness programs",
+    "Employee satisfaction",
+    "Company culture",
+    "Employee recognition",
+    "Employee happiness metrics",
+    "Employee enagement strategies"
+  ],
+  "headquarter": "San Francisco, California",
+  "launch_date": "2016",
+  "order": 35,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Global Employee Engagement Platform",
+  "ProductId": null,
+  "ShortDescription": "Advantage Club is a global employee engagement platform with features like rewards, recognition, community building, and FlexBen on a unified platform. We aim to provide end-to-end solutions to facilitate employee engagement through exclusive privileges and rewards by our 10,000+ brand partners.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Every effort calls for a reward!",
+      "sequence": 0,
+      "description": "Revolutionizing Rewards & Recognition Programs To Appreciate Employees For A Job Well Done!"
+    },
+    {
+      "name": "Sales Contests & Automated Incentives",
+      "sequence": 1,
+      "description": "Automate Incentives & Recognition For Your Sales Teams, Agents, Distributors And Channel Partners."
+    },
+    {
+      "name": "SALARY - JUST A CLICK AWAY",
+      "sequence": 2,
+      "description": "Drive Financial Wellbeing & Give Employees An Option To Access Their Salary At Any Time With Zero Interest Rates."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-12T10:33:21.820Z",
+  "enhanced_description": "Advantage Club is a global employee engagement platform designed to elevate employee happiness and engagement through a scalable, customizable, and cost-effective unified solution. The platform integrates a wide array of recognition programs, including milestone/anniversary awards, real-time spot bonuses, automated incentives, and peer-to-peer appreciation. It also supports onboarding programs, comprehensive wellness initiatives, and quarterly & annual performance awards. A key feature is access to exclusive offers across 10,000+ global brands, and a distinct financial wellness component that allows employees to access their earned salary with zero interest. The platform specifically caters to the needs of sales teams, agents, distributors, and channel partners for automated incentives and recognition programs.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee Recognition and Rewards",
+    "Employee Appreciation",
+    "Sales Incentive Management",
+    "Channel Partner Recognition",
+    "Employee Onboarding Support",
+    "Corporate Wellness Initiatives",
+    "Performance-Based Awards",
+    "Employee Benefits and Discounts",
+    "Financial Wellness (Earned Wage Access)"
+  ],
+  "competitive_advantages": [
+    "Unified employee engagement platform",
+    "Extensive global brand partnerships (10,000+)",
+    "Scalable and customizable program",
+    "Cost-effective solutions",
+    "Financial wellness feature with earned wage access at zero interest"
+  ],
+  "hr_functions_supported": [
+    "Employee Recognition",
+    "Rewards Management",
+    "Benefits Administration",
+    "Corporate Wellness",
+    "Sales Compensation",
+    "Performance Management",
+    "Employee Onboarding",
+    "Financial Wellness"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness",
+    "Increased employee engagement",
+    "Enhanced employee appreciation",
+    "Cost-effective employee programs"
+  ],
+  "searchable_keywords": [
+    "Advantage Club",
+    "Employee engagement",
+    "Employee recognition",
+    "Employee rewards",
+    "Corporate benefits",
+    "Employee benefits",
+    "Wellness programs",
+    "Financial wellness",
+    "Earned wage access",
+    "Spot bonuses",
+    "Performance awards",
+    "Milestone awards",
+    "Anniversary awards",
+    "Peer-to-peer recognition",
+    "Sales incentives",
+    "Sales compensation",
+    "Gift cards",
+    "Employee discounts",
+    "Exclusive offers",
+    "Total rewards",
+    "Benefits administration services",
+    "Employee happiness",
+    "Employee satisfaction",
+    "Company culture",
+    "Global employee engagement",
+    "FlexBen",
+    "Channel partner incentives",
+    "Distributor incentives",
+    "Onboarding programs",
+    "Customizable rewards",
+    "Scalable engagement",
+    "Real-time recognition"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Administrators",
+    "Managers",
+    "Sales Teams",
+    "Channel Partners",
+    "Distributors"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "scalability_features": [
+    "Designed for scalability to support various company sizes from small to global enterprise."
+  ],
+  "_weight": 1
+}

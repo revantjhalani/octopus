@@ -1,0 +1,140 @@
+{
+  "id": 136,
+  "name": "Mancer",
+  "description": "MANCER Consulting Services is a leading provider of Talent Acquisition Solutions with service offerings that include Executive Search, Contingent Search, Equiv (Diversity & Inclusion), Talent Insights and RPO (Resource Process Outsourcing).",
+  "features": [
+    "Right Fit Methodology"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "HR consulting providers",
+    "Recruitment agencies"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Talent acquisition",
+    "Talent sourcing",
+    "Candidate screening",
+    "Interview scheduling",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Hiring best practices",
+    "Talent pipeline",
+    "Employee referral program"
+  ],
+  "headquarter": "Delhi",
+  "launch_date": "1998",
+  "order": 20103,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The Mindware Specialists",
+  "ProductId": null,
+  "ShortDescription": "Mancer is leading Search and Selection firm.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:05.499Z",
+  "enhanced_description": "Mancer, also known as 'The Mindware Specialists', is a leading Search and Selection firm established in 1998, specializing in comprehensive Talent Acquisition Solutions. As an HR consulting provider and recruitment agency, Mancer offers a range of services including Executive Search, Contingent Search, Equiv (Diversity & Inclusion), Talent Insights, and RPO (Resource Process Outsourcing). Their core methodology, the 'Right Fit Methodology', aims to help organizations achieve their business objective of hiring top talent faster and more efficiently.",
+  "key_use_cases": [
+    "Executive Search for senior-level and specialized placements",
+    "Contingent Search for ongoing hiring needs",
+    "Developing and implementing Diversity & Inclusion (D&I) hiring strategies through their Equiv service",
+    "Generating talent market insights to inform hiring decisions",
+    "Outsourcing recruitment processes entirely or partially (RPO)",
+    "Improving overall hiring speed and efficiency",
+    "Strategic talent sourcing and candidate screening",
+    "Building and managing talent pipelines"
+  ],
+  "competitive_advantages": [
+    "Proprietary 'Right Fit Methodology' for talent acquisition",
+    "Extensive experience in the industry, established in 1998",
+    "Comprehensive suite of talent acquisition services including niche areas like Diversity & Inclusion (Equiv) and Talent Insights",
+    "Focus on delivering speed and efficiency in talent acquisition outcomes"
+  ],
+  "implementation_scenarios": [
+    "Project-based engagements for Executive Search or Contingent Search",
+    "Long-term partnerships for full or partial Recruitment Process Outsourcing (RPO)",
+    "Consulting assignments for talent insights or Diversity & Inclusion strategy development"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Recruiting",
+    "Diversity & Inclusion (D&I)",
+    "Talent Sourcing",
+    "Candidate Screening",
+    "Interview Management (scheduling facilitation)",
+    "Talent Pipeline Management",
+    "Hiring Best Practices Advisory"
+  ],
+  "roi_benefits": [
+    "Improved hiring speed",
+    "Increased hiring efficiency",
+    "Access to top talent",
+    "Enhanced diversity and inclusion within the workforce",
+    "Potential reduction in internal recruitment workload through RPO"
+  ],
+  "searchable_keywords": [
+    "Mancer",
+    "Talent Acquisition Solutions",
+    "Executive Search",
+    "Contingent Search",
+    "Equiv",
+    "Diversity & Inclusion",
+    "Talent Insights",
+    "RPO",
+    "Resource Process Outsourcing",
+    "Recruiting",
+    "HR consulting providers",
+    "Recruitment agencies",
+    "Search and Selection firm",
+    "Hiring speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Talent sourcing",
+    "Candidate screening",
+    "Interview scheduling",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Hiring best practices",
+    "Talent pipeline",
+    "Employee referral program",
+    "Right Fit Methodology",
+    "Mindware Specialists"
+  ],
+  "primary_users": [
+    "Organizations seeking talent acquisition services",
+    "HR Departments",
+    "Talent Acquisition teams",
+    "Hiring Managers",
+    "Executives responsible for strategic hiring"
+  ],
+  "_weight": 1
+}

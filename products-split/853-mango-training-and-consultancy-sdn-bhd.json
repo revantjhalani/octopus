@@ -1,0 +1,150 @@
+{
+  "id": 853,
+  "name": "Mango Training and Consultancy Sdn Bhd",
+  "description": "Mango Training & Consultancy was formed in 2011 to provide genuine needs based language and soft skills training in Malaysia and South East Asia. Trainers at Mango are not simply experienced trainers- but trainers with experience of working in the Malaysian context. Our key concept is \u2013 \u2018Making training fruitful\u2019: training that delivers real results. We believe in working closely with our clients to ensure that our training matches their expectations as closely as possible.",
+  "features": [
+    "Soft Skills Training",
+    "Hotels and Hospitality",
+    "Business Communication"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Course authoring",
+    "Training management system"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning optimisation",
+    "Skill acquisition"
+  ],
+  "headquarter": "Kuala Lumpur, Kuala Lumpur",
+  "launch_date": "2011",
+  "order": 20806,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Making Training Fruitful",
+  "ProductId": null,
+  "ShortDescription": "Mango Training & Consultancy was formed in 2011 to provide genuine needs based language and soft skills training in Malaysia and South East Asia.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Customized Training",
+      "sequence": 0,
+      "description": " Mango Training doesn't offer a one-size-fits-all approach. They begin by conducting a needs analysis to identify the specific skill gaps within your team or organization "
+    },
+    {
+      "name": "Diverse Business Skills",
+      "sequence": 1,
+      "description": "They offer a wide range of training programs covering essential business skills like communication, leadership, presentations, customer service, and more"
+    },
+    {
+      "name": "Focus on Results:",
+      "sequence": 2,
+      "description": "By providing live learner metrics, detailed reports, and a focus on ROI, Mango Training demonstrates the impact of their training on your team's performance and helps ensure a return on your investment."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:43.122Z",
+  "enhanced_description": "Mango Training & Consultancy, established in 2011, specializes in providing genuine needs-based language and soft skills training across Malaysia and South East Asia. Their core concept, 'Making training fruitful,' emphasizes delivering real results by closely collaborating with clients to ensure training aligns with expectations. They offer customized training programs, starting with a needs analysis to identify specific skill gaps within teams or organizations. Their offerings cover diverse business skills including communication, leadership, presentations, and customer service. Mango Training focuses on demonstrating the impact of their programs through live learner metrics, detailed reports, and ROI insights, supporting skill development and learning efficiency primarily for large and global enterprises.",
+  "target_industries": [
+    "Hotels and Hospitality"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Addressing specific soft skill and language gaps within teams or organizations",
+    "Improving business communication skills",
+    "Developing leadership capabilities",
+    "Enhancing presentation skills",
+    "Boosting customer service effectiveness",
+    "Accelerating overall skill development and learning efficiency",
+    "Providing customized training solutions based on organizational needs"
+  ],
+  "competitive_advantages": [
+    "Genuine needs-based training approach",
+    "Trainers with experience in the Malaysian context",
+    "Focus on delivering real, fruitful results",
+    "Close collaboration with clients for tailored training",
+    "Customized training programs based on thorough needs analysis",
+    "Wide range of diverse business skills covered",
+    "Results-focused approach with live learner metrics, detailed reports, and ROI demonstration"
+  ],
+  "implementation_scenarios": [
+    "Targeted team training programs",
+    "Department-specific skill development initiatives",
+    "Enterprise-wide soft skill enhancement programs"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development"
+  ],
+  "roi_benefits": [
+    "Demonstrates measurable impact on team performance",
+    "Helps ensure a return on investment (ROI) for training expenditures",
+    "Delivers real results for skill improvement and organizational effectiveness"
+  ],
+  "searchable_keywords": [
+    "Mango Training",
+    "Consultancy",
+    "Malaysia training",
+    "South East Asia training",
+    "Language training",
+    "Soft skills training",
+    "Needs-based training",
+    "Skill development",
+    "Learning optimisation",
+    "Skill acquisition",
+    "Business communication training",
+    "Leadership training",
+    "Presentation skills training",
+    "Customer service training",
+    "Corporate training",
+    "Customized training",
+    "Learner metrics",
+    "Training ROI",
+    "Hotels training",
+    "Hospitality training",
+    "Corporate LMS",
+    "Course authoring",
+    "Training management system"
+  ],
+  "primary_users": [
+    "Employees",
+    "Managers",
+    "HR professionals",
+    "Learning & Development professionals",
+    "Organizational leaders"
+  ],
+  "scalability_features": [
+    "Capable of serving large and global enterprises, implying the ability to scale training programs across various teams or international locations"
+  ],
+  "_weight": 1
+}

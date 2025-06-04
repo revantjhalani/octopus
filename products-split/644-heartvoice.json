@@ -1,0 +1,148 @@
+{
+  "id": 644,
+  "name": "HeartVoice",
+  "description": "As a Joint Venture between OMRON Healthcare and iAPPS Pte Ltd., HeartVoice offers a full suite of medtech solutions for healthcare providers, patients and corporates. Joining OMRON Healthcare on a mission towards ZERO cardiac events, HeartVoice helps people achieve better health outcomes through preventive healthcare services. We offer corporate wellness solutions for business to business services. Our health services such as Kiosk and mobile app, allow your company employees to reduce health risks by monitoring their health stats such as Blood Pressure & Body Composition Monitoring that links to Doctor Dashboard for easy access communication and analysis of Health D",
+  "features": [
+    "Earlier Intervention",
+    "Accessible Treatment",
+    "Improved Lifestyle"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee benefits"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2019",
+  "order": 20598,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "A full suite of healthcare technological solutions for healthcare providers",
+  "ProductId": null,
+  "ShortDescription": "HeartVoice is a joint venture company between Omron Healthcare Co., Ltd. (Japan) and iAPPS Pte. Ltd. (Singapore).",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Primary Care",
+      "sequence": 0,
+      "description": "Virtual consultations with our Singapore-registered doctors to keep your health on the right track anytime you need medical advice."
+    },
+    {
+      "name": "Healthier Lifestyle",
+      "sequence": 1,
+      "description": "Improve your diet habits and physical activity, building the right lifestyle to prevent heart attack and stroke risks."
+    },
+    {
+      "name": "Chronic Disease Management",
+      "sequence": 2,
+      "description": "Record your health vitals at home and share your readings with our doctors remotely for continuous monitoring."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:31:42.764Z",
+  "enhanced_description": "HeartVoice, a joint venture between OMRON Healthcare and iAPPS Pte Ltd., delivers a comprehensive suite of medtech solutions aimed at achieving zero cardiac events and improving health outcomes. The platform offers preventive healthcare services tailored for healthcare providers, patients, and corporate clients. For businesses, HeartVoice provides corporate wellness solutions where employees can monitor vital health statistics like blood pressure and body composition via dedicated kiosks and a mobile application. These readings are seamlessly linked to a Doctor Dashboard, facilitating easy communication, analysis, and continuous remote monitoring by medical professionals. Key services include virtual consultations with Singapore-registered doctors for primary care, personalized guidance for developing healthier lifestyle habits to mitigate risks of heart attack and stroke, and robust chronic disease management capabilities.",
+  "target_industries": [
+    "Healthcare"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Corporate wellness programs",
+    "Preventive healthcare for employees",
+    "Remote health monitoring (Blood Pressure, Body Composition)",
+    "Virtual doctor consultations",
+    "Chronic disease management",
+    "Lifestyle improvement for health",
+    "Employee health risk reduction",
+    "Doctor access to employee health data"
+  ],
+  "competitive_advantages": [
+    "Joint venture with OMRON Healthcare and iAPPS Pte Ltd.",
+    "Specialized mission towards zero cardiac events",
+    "Integrated health monitoring via Kiosk and mobile app linked to Doctor Dashboard",
+    "Comprehensive suite of medtech solutions"
+  ],
+  "implementation_scenarios": [
+    "Corporate wellness program deployment (B2B)",
+    "On-site health kiosk deployment",
+    "Employee mobile application adoption"
+  ],
+  "hr_functions_supported": [
+    "Employee Wellness",
+    "Employee Benefits",
+    "Occupational Health & Safety",
+    "Employee Engagement"
+  ],
+  "roi_benefits": [
+    "Improved employee health outcomes",
+    "Reduced employee health risks",
+    "Increased employee happiness and engagement",
+    "Earlier health intervention and treatment"
+  ],
+  "searchable_keywords": [
+    "HeartVoice",
+    "medtech",
+    "healthcare technology",
+    "corporate wellness",
+    "employee wellness",
+    "preventive healthcare",
+    "health monitoring",
+    "blood pressure monitoring",
+    "body composition monitoring",
+    "virtual consultations",
+    "doctor dashboard",
+    "chronic disease management",
+    "employee benefits",
+    "health & safety",
+    "employee well-being",
+    "health kiosk",
+    "mobile health app",
+    "earlier intervention",
+    "accessible treatment",
+    "lifestyle improvement",
+    "remote monitoring",
+    "Total Rewards"
+  ],
+  "primary_users": [
+    "Employees (as end-users of health services)",
+    "Corporate HR/Benefits administrators",
+    "Healthcare providers (Doctors)"
+  ],
+  "deployment_options": [
+    "Kiosk-based (for health monitoring kiosks)",
+    "Mobile application-based"
+  ],
+  "_weight": 1
+}

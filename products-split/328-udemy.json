@@ -1,0 +1,178 @@
+{
+  "id": 328,
+  "name": "Udemy",
+  "description": "Our mission is to transform lives through learning. Through our global marketplace platform, we provide the tools learners, instructors, and enterprises need to achieve their goals and reach their full potential.",
+  "features": [
+    "Learning incentives",
+    "Online Learning",
+    "Corporate Learning",
+    "Professional Development",
+    "Training and Development"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised learning",
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning"
+  ],
+  "headquarter": "San Francisco, CA",
+  "launch_date": "2010",
+  "order": 20290,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Where possibilities begin.",
+  "ProductId": null,
+  "ShortDescription": "Udemy's mission is to improve lives through learning by providing flexible, effective skill development.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Hands-on training",
+      "sequence": 0,
+      "description": "Upskill effectively with AI-powered coding exercises, practice tests, skills assessments, labs, and workspaces."
+    },
+    {
+      "name": "Certification prep",
+      "sequence": 1,
+      "description": "Prep for industry-recognized certifications by solving real-world challenges and earn badges along the way."
+    },
+    {
+      "name": "Accelerate growth \u2014 for you or your organization",
+      "sequence": 2,
+      "description": "Reach goals faster with one of our plans or programs."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:21.498Z",
+  "enhanced_description": "Udemy is a global marketplace platform dedicated to transforming lives through learning by providing tools for learners, instructors, and enterprises to achieve their goals and accelerate skill development and learning efficiency. It offers online, corporate, and professional development learning, including hands-on training with AI-powered coding exercises, practice tests, skills assessments, labs, and workspaces. The platform also supports industry certification preparation through real-world challenges and badge earning, facilitating skill acquisition, learning optimization, and continuous learning initiatives.",
+  "ideal_company_sizes": [
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Corporate skill development",
+    "Professional upskilling",
+    "Employee training and development",
+    "Industry certification preparation",
+    "Learning efficiency improvement",
+    "Accelerating organizational growth",
+    "Continuous learning initiatives"
+  ],
+  "competitive_advantages": [
+    "Global marketplace platform offering diverse content",
+    "AI-powered hands-on training tools (coding exercises, labs, workspaces)",
+    "Focus on industry certification preparation and skill assessments",
+    "Flexible and effective skill development programs"
+  ],
+  "implementation_scenarios": [
+    "Enterprise-wide learning and development programs",
+    "Individual professional development",
+    "Blended learning environments"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Talent Management (specifically skill development and upskilling)"
+  ],
+  "technology_stack": [
+    "AI (for coding exercises, assessments)"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Enhanced training effectiveness",
+    "Faster skill acquisition",
+    "Optimized learning outcomes",
+    "Increased learning retention",
+    "Support for continuous organizational growth"
+  ],
+  "searchable_keywords": [
+    "Udemy",
+    "online learning",
+    "corporate learning",
+    "professional development",
+    "training and development",
+    "learning and development",
+    "eLearning software",
+    "corporate LMS",
+    "training management system",
+    "LXP",
+    "learning experience platform",
+    "skill development",
+    "learning efficiency",
+    "training effectiveness",
+    "skill acquisition",
+    "learning speed",
+    "learning optimization",
+    "training methodologies",
+    "adaptive learning",
+    "personalized learning",
+    "learning analytics",
+    "learning retention",
+    "continuous learning",
+    "hands-on training",
+    "AI-powered training",
+    "coding exercises",
+    "practice tests",
+    "skills assessments",
+    "labs",
+    "workspaces",
+    "certification prep",
+    "employee upskilling",
+    "talent development"
+  ],
+  "primary_users": [
+    "Learners",
+    "Instructors",
+    "Enterprise administrators",
+    "HR managers",
+    "Employees"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "scalability_features": [
+    "Supports global enterprise scale",
+    "Designed for large numbers of learners and content"
+  ],
+  "_weight": 1
+}

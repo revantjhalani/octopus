@@ -1,0 +1,148 @@
+{
+  "id": 225,
+  "name": "Printstop",
+  "description": "At PrintStop, with a 17-year legacy, we\u2019re changing the narrative of workplace experiences at small to medium enterprises by transforming the printing & customised gifting procurement processes. Our centralised, state-of-the-art online platform offers over 500 products with personalisation and customisation options across 100+ categories with a minimum order size of just one. With thousands of happy customers, an average rating of 4.5 reflects our unwavering commitment to quality and service.",
+  "features": [
+    "We have more than 200 print products for your brand. ",
+    "Your own designs will be made available in your account in an editable format. ",
+    "We also have Pehchaan, our in-house design team to help you create stirring designs as per your requirements."
+  ],
+  "founders": [
+    "Siddhi Shah"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Internet of things"
+  ],
+  "tags": [
+    "Learning efficiency",
+    "Adaptive learning"
+  ],
+  "headquarter": "Parel, Maharashtra",
+  "launch_date": "2007",
+  "order": 20191,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Bringing your gifting and customised printing ideas to life!",
+  "ProductId": null,
+  "ShortDescription": "PrintStop simplifies the complex print procurement, making it easy and hassle-free!",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Ready-to-use designs",
+      "sequence": 0,
+      "description": " PrintStop offers 100s of ready-to-use designs which can be easily customised to your needs. "
+    },
+    {
+      "name": "Accessibility",
+      "sequence": 1,
+      "description": "Order from your office desk or your living room anytime and get your products delivered anywhere in India or 50+ countries."
+    },
+    {
+      "name": "Technology",
+      "sequence": 2,
+      "description": "PrintStop tries to leverage technology to make printing easy. We have launched two solutions."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:43.819Z",
+  "enhanced_description": "PrintStop, leveraging a 17-year legacy since its launch in 2007, transforms print and customized gifting procurement processes for small to medium enterprises. Their centralized, state-of-the-art online platform simplifies complex procurement, making it easy and hassle-free. It features over 500 products, including more than 200 print products, across 100+ categories, offering extensive personalization and customisation options with a minimum order size of just one. PrintStop provides access to hundreds of ready-to-use designs and offers an in-house design team, 'Pehchaan', to assist with bespoke design creation. Customers can manage their own designs in an editable format within their account. Accessible from anywhere, products can be delivered across India and to over 50 countries, reflecting PrintStop's commitment to quality and service, evidenced by thousands of happy customers and an average rating of 4.5. The company aims to improve employee happiness and engagement through its offerings.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Streamlining and transforming print procurement processes for businesses",
+    "Procuring customized corporate gifts for employee engagement and other needs",
+    "Creating and managing brand-specific print products and merchandise",
+    "Accessing professional design services for custom print and gift items",
+    "Ordering personalized products with low minimum quantities (down to one item)",
+    "Global procurement and delivery of print and customized gifting products"
+  ],
+  "competitive_advantages": [
+    "17-year legacy and experience in the industry",
+    "Centralized, state-of-the-art online platform for procurement",
+    "Extensive product catalog with over 500 products across 100+ categories",
+    "Flexibility with a minimum order size of just one unit",
+    "In-house design team ('Pehchaan') for custom design support",
+    "Customer's own designs available in editable format within their account",
+    "Global delivery capabilities to India and over 50 countries",
+    "High customer satisfaction reflected by a 4.5 average rating",
+    "Focus on simplifying complex print procurement processes"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based/SaaS direct procurement solution for businesses"
+  ],
+  "hr_functions_supported": [
+    "Employee Experience (through customized gifting for engagement)",
+    "HR Operations (for managing corporate gifting programs)"
+  ],
+  "roi_benefits": [
+    "Increased efficiency in print and gifting procurement processes",
+    "Reduced complexity and hassle in acquiring custom products",
+    "Enhanced employee happiness and engagement through targeted gifting programs",
+    "Cost optimization by allowing small order quantities (minimum of one)",
+    "Convenience and time-saving through an accessible online platform and global delivery"
+  ],
+  "searchable_keywords": [
+    "Printstop",
+    "printing",
+    "custom printing",
+    "customized printing",
+    "corporate gifts",
+    "corporate gifting",
+    "branded merchandise",
+    "brand products",
+    "design services",
+    "online printing",
+    "print procurement",
+    "gift procurement",
+    "employee engagement gifts",
+    "workplace solutions",
+    "personalisation",
+    "customisation",
+    "bulk printing",
+    "small batch printing",
+    "global delivery",
+    "Pehchaan design",
+    "business printing",
+    "office supplies printing"
+  ],
+  "primary_users": [
+    "Procurement Managers",
+    "HR Professionals (for gifting and engagement)",
+    "Marketing Teams (for branded materials)",
+    "Small to Medium Enterprise Business Owners"
+  ],
+  "deployment_options": [
+    "Cloud"
+  ],
+  "_weight": 1
+}

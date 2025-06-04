@@ -1,0 +1,149 @@
+{
+  "id": 203,
+  "name": "Patanjali Wellness",
+  "description": "Patanjali Wellness offers an integrated and comprehensive health package combining Naturopathy (the ancient Indian art of healing), Nature cure (drugless cure), Yoga (mind-body balance), Panchkarma therapies (Body Detox), and various relaxing therapies. These services are administered under the guidance of experienced doctors and therapists in a hygienic, eco-friendly, and luxurious environment.",
+  "features": [
+    "Unique combination of Traditional medical system and modern diagnostics",
+    "Providing physical, mental and spiritual health",
+    "Unique concept of naturopathy, acupressure, and harmless herbs or medicinal plants."
+  ],
+  "founders": [
+    "Swami Ramdev Ji"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee engagement",
+    "Employee happiness"
+  ],
+  "headquarter": "Uttarakhand, india",
+  "launch_date": "2006",
+  "order": 20170,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Patanjali Wellness brings to you an integrated and complete health package",
+  "ProductId": null,
+  "ShortDescription": "Holistic Wellness Through Ayurveda and Nature Powered By Innovation",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Yog Therapy",
+      "sequence": 0,
+      "description": "Led by Yogrishi Swami Ramdev Ji Maharaj, our yoga program includes poses and Pranayama techniques to enhance blood circulation and treat ailments."
+    },
+    {
+      "name": "Naturopathy",
+      "sequence": 1,
+      "description": "Unique therapies like HydroTherapy, Mud Therapy, Sun Therapy, and more promote holistic healing under experienced supervision."
+    },
+    {
+      "name": "Ayurveda",
+      "sequence": 2,
+      "description": "Integrating Nidan parivarjan, Shodhna (Panchakarma), and Samana, our treatments use Ashtavidhha Pariksha for diagnosis and offer comprehensive detoxification and therapeutic benefits."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:25.450Z",
+  "enhanced_description": "Patanjali Wellness provides an integrated and comprehensive corporate wellness solution, aiming to improve employee happiness and engagement. It offers a unique health package combining ancient Indian healing traditions such as Naturopathy (including therapies like HydroTherapy, Mud Therapy, and Sun Therapy), Nature Cure (drugless healing), Yoga (with specific Pranayama techniques to enhance circulation), and Panchkarma therapies for body detoxification. The offering also includes various relaxing therapies. These services, which blend traditional medical systems with modern diagnostics, are administered under the guidance of experienced doctors and therapists in a hygienic, eco-friendly, and luxurious environment, focusing on providing holistic physical, mental, and spiritual health through concepts like acupressure and harmless herbs.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Corporate wellness program implementation",
+    "Employee well-being enhancement",
+    "Employee engagement improvement",
+    "Stress management and relaxation",
+    "Physical, mental, and spiritual health support",
+    "Holistic health promotion"
+  ],
+  "competitive_advantages": [
+    "Unique combination of traditional Indian healing systems (Naturopathy, Yoga, Ayurveda) with modern diagnostics",
+    "Holistic approach to well-being (physical, mental, spiritual health)",
+    "Drugless cure philosophy",
+    "Expert guidance from experienced doctors and therapists",
+    "Luxurious and eco-friendly environment for therapies",
+    "Brand association with Swami Ramdev Ji Maharaj for Yoga therapy"
+  ],
+  "implementation_scenarios": [
+    "As part of corporate employee benefits programs",
+    "Integration into existing total rewards frameworks"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards Management",
+    "Employee Wellness Management",
+    "Employee Engagement Initiatives",
+    "Benefits Administration"
+  ],
+  "roi_benefits": [
+    "Enhanced employee well-being",
+    "Improved employee happiness",
+    "Increased employee engagement"
+  ],
+  "searchable_keywords": [
+    "Patanjali Wellness",
+    "Corporate Wellness",
+    "Employee Well-being",
+    "Employee Engagement",
+    "Employee Happiness",
+    "Total Rewards",
+    "Naturopathy",
+    "Yoga",
+    "Ayurveda",
+    "Panchakarma",
+    "Nature Cure",
+    "Holistic Health",
+    "Mind-Body Balance",
+    "Stress Relief",
+    "Detoxification",
+    "Traditional Indian Medicine",
+    "Drugless Cure",
+    "Physical Health",
+    "Mental Health",
+    "Spiritual Health",
+    "Acupressure",
+    "Herbal Medicine",
+    "Wellness Programs",
+    "Corporate Health",
+    "India Wellness",
+    "Swami Ramdev Ji",
+    "HydroTherapy",
+    "Mud Therapy",
+    "Sun Therapy",
+    "Pranayama"
+  ],
+  "primary_users": [
+    "Employees (as participants)",
+    "HR Professionals (as program administrators)"
+  ],
+  "_weight": 1
+}

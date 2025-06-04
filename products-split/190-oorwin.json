@@ -1,0 +1,150 @@
+{
+  "id": 190,
+  "name": "Oorwin",
+  "description": "Oorwin, built on nearly a decade of research, revolutionizes recruiting, hiring, and customer experience with its user-friendly, technology-driven platform. It enables seamless operation across geographies and remote work landscapes. Serving hundreds of customers in the US, UK, Singapore, and India, our mission is to leverage emerging technologies to enhance productivity, user experience, and business efficiency, ensuring top customer satisfaction.",
+  "features": [
+    "45% Reduction in the cost of hiring",
+    "50% Reduction in time to hire",
+    "3X% More qualified\ncandidates"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Staffing & management software"
+  ],
+  "tags": [
+    "Talent sourcing",
+    "Talent acquisition",
+    "Recruiting efficiency"
+  ],
+  "headquarter": "Southlake, Texas",
+  "launch_date": "2017",
+  "order": 20157,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "AI-Powered Talent Intelligence",
+  "ProductId": null,
+  "ShortDescription": "Oorwin\u2019s platform is used to manage your entire Talent Intelligence lifecycle.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Talent Acquisition",
+      "sequence": 0,
+      "description": "Readily source and screen candidates with the right fit using intelligent candidate matching and ranking."
+    },
+    {
+      "name": "AI-Powered Talent CRM",
+      "sequence": 1,
+      "description": "Enable sales and Recruiting team to build , track and engage pipelines of qualified prospects and candidates."
+    },
+    {
+      "name": "AI Enabled Recruitment",
+      "sequence": 2,
+      "description": "Boost internal or external recruiter productivity and effectiveness, significantly reducing time-to-hire."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:12.043Z",
+  "enhanced_description": "Oorwin is an AI-powered talent intelligence platform designed to manage the entire talent intelligence lifecycle. Built on nearly a decade of research, it revolutionizes recruiting, hiring, and customer experience through its user-friendly, technology-driven platform. Oorwin enables seamless operation across geographies and remote work environments, serving hundreds of customers globally in the US, UK, Singapore, and India. It leverages emerging technologies to enhance productivity, user experience, and business efficiency, focusing on boosting internal and external recruiter productivity, significantly reducing time-to-hire, and sourcing more qualified candidates.",
+  "ideal_company_sizes": [
+    "Small Business",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Recruiting and hiring management",
+    "Talent intelligence lifecycle management",
+    "Sourcing and screening candidates",
+    "Intelligent candidate matching and ranking",
+    "Building, tracking, and engaging pipelines of qualified prospects and candidates",
+    "Boosting recruiter productivity and effectiveness",
+    "Reducing time-to-hire",
+    "Improving customer experience related to recruiting/hiring"
+  ],
+  "competitive_advantages": [
+    "45% Reduction in the cost of hiring",
+    "50% Reduction in time to hire",
+    "3X% More qualified candidates",
+    "AI-Powered Talent Intelligence capabilities",
+    "Seamless operation across geographies and remote work landscapes",
+    "User-friendly, technology-driven platform",
+    "Intelligent candidate matching and ranking",
+    "AI-Powered Talent CRM for pipeline management"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Hiring",
+    "Talent Acquisition",
+    "Talent Sourcing",
+    "Candidate Relationship Management (CRM)",
+    "Staffing Management"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)"
+  ],
+  "roi_benefits": [
+    "45% Reduction in the cost of hiring",
+    "50% Reduction in time to hire",
+    "3X% More qualified candidates",
+    "Enhanced productivity",
+    "Improved user experience",
+    "Increased business efficiency",
+    "Top customer satisfaction"
+  ],
+  "searchable_keywords": [
+    "Oorwin",
+    "Recruiting",
+    "Hiring",
+    "Customer experience",
+    "Talent intelligence",
+    "Talent acquisition",
+    "Recruiting software",
+    "Staffing management software",
+    "Talent sourcing",
+    "Recruiting efficiency",
+    "AI-powered",
+    "Artificial intelligence",
+    "Candidate matching",
+    "Candidate ranking",
+    "Talent CRM",
+    "Recruiter productivity",
+    "Time to hire",
+    "Cost of hiring",
+    "Qualified candidates",
+    "Remote work",
+    "Global operations"
+  ],
+  "primary_users": [
+    "Recruiting teams",
+    "Sales teams",
+    "Internal recruiters",
+    "External recruiters"
+  ],
+  "_weight": 1
+}

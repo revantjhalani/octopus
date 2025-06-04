@@ -1,0 +1,166 @@
+{
+  "id": 1231,
+  "name": "Cult Fit",
+  "description": "At Cult, we make fitness fun and easy. We have best-in-class trainers & offer group workouts ranging from yoga to Boxing. Our workouts can be done both at a cult center and at home with the help of do it yourself (DIY) workout videos. Cult.fit uses the best in technology to give you a world-class experience. You can book classes, follow workout videos - all with the click of a button from the cult.fit app or website.",
+  "features": [
+    "Get coached to lose weight for good",
+    "Making health easy, one day at a time",
+    "Everything you need for your workout",
+    "cult-pass Home"
+  ],
+  "founders": [
+    "Ankit Nagori."
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Health & safety providers",
+    "Benefits administration services"
+  ],
+  "tags": [
+    "Employee happiness programs",
+    "Employee engagement",
+    "Employee satisfaction",
+    "Employee well being",
+    "Employee happiness",
+    "Employee benefits",
+    "Company culture",
+    "Employee happiness metrics"
+  ],
+  "headquarter": "Bangalore, India",
+  "launch_date": "2016",
+  "order": 21062,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Unlimited Fitness Access Across India with cult.fit",
+  "ProductId": null,
+  "ShortDescription": "Cult fit is a training facility focused on machine-free training programs.  ",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Personalized Fitness Programs",
+      "sequence": 0,
+      "description": "Cult Fit offers personalized fitness programs tailored to individual needs and goals. From strength training to yoga, users can access a variety of workout routines designed to optimize results and cater to different fitness levels."
+    },
+    {
+      "name": "Expert-Led Virtual Classes",
+      "sequence": 1,
+      "description": " With expert instructors leading virtual classes, Cult Fit brings the gym experience to the comfort of your home. Users can join live sessions or access on-demand workouts, ensuring flexibility in scheduling and convenience."
+    },
+    {
+      "name": "Community Engagement and Support",
+      "sequence": 2,
+      "description": " Cult Fit fosters a sense of community among its users, providing support, motivation, and accountability. Through interactive features such as challenges, forums, and social connections, members can stay engaged and inspired on their fitness journey."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:12:39.860Z",
+  "enhanced_description": "Cult Fit provides unlimited fitness access across India, offering a comprehensive and engaging platform designed for corporate wellness. It delivers best-in-class group workouts, including yoga and boxing, available both at Cult centers and through convenient at-home DIY workout videos. The platform leverages technology via its app and website, allowing users to easily book classes and access content with the click of a button. Key offerings include personalized fitness programs tailored to individual needs and goals, ranging from strength training to yoga, suitable for various fitness levels. It also features expert-led virtual classes, available as live sessions or on-demand workouts, bringing the gym experience directly to users' homes with flexibility and convenience. Cult Fit fosters a sense of community among its users, providing support, motivation, and accountability through interactive features such as challenges, forums, and social connections. Focusing on machine-free training programs, Cult Fit aims to make fitness fun and easy, thereby supporting employee happiness, engagement, and overall well-being.",
+  "key_use_cases": [
+    "Improving employee happiness and engagement within organizations",
+    "Providing comprehensive corporate wellness programs to employees",
+    "Offering flexible fitness access for employees (in-center and at-home options)",
+    "Delivering personalized fitness coaching and workout routines",
+    "Supporting employee health goals, including weight management",
+    "Promoting overall employee well-being and a healthy company culture",
+    "Fostering community and social connections among employees through shared fitness challenges and forums",
+    "Administering employee benefits related to health and wellness"
+  ],
+  "competitive_advantages": [
+    "Unlimited fitness access across India",
+    "Best-in-class trainers and expert-led virtual classes",
+    "World-class experience through technology (app and website)",
+    "Hybrid workout options (in-center, at-home DIY videos, live virtual, on-demand)",
+    "Personalized fitness programs tailored to individual needs and goals",
+    "Strong emphasis on community engagement, support, and accountability",
+    "Focus on machine-free training programs for broader accessibility",
+    "Flexibility in scheduling with live sessions and on-demand workouts"
+  ],
+  "implementation_scenarios": [
+    "Deployed by companies as a corporate wellness solution",
+    "Integrated into an organization's employee benefits administration services",
+    "Provided as a standalone employee happiness and engagement program"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards",
+    "Corporate Wellness",
+    "Employee Engagement",
+    "Benefits Administration",
+    "Health & Safety"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Enhanced employee satisfaction",
+    "Improved employee well-being",
+    "Support for employee health goals (e.g., weight loss)"
+  ],
+  "searchable_keywords": [
+    "Cult Fit",
+    "Cult.fit",
+    "fitness",
+    "corporate wellness",
+    "employee wellness",
+    "employee benefits",
+    "employee happiness",
+    "employee engagement",
+    "employee well-being",
+    "health programs",
+    "virtual fitness",
+    "online workouts",
+    "group workouts",
+    "yoga",
+    "boxing",
+    "strength training",
+    "DIY workout videos",
+    "personalized fitness",
+    "expert-led classes",
+    "live workouts",
+    "on-demand workouts",
+    "fitness app",
+    "wellness platform",
+    "health and safety providers",
+    "benefits administration software",
+    "company culture",
+    "machine-free training",
+    "fitness access India",
+    "cult-pass Home"
+  ],
+  "primary_users": [
+    "Employees within client organizations",
+    "Individuals seeking fitness and wellness programs"
+  ],
+  "deployment_options": [
+    "Hybrid (physical centers and virtual access)",
+    "Mobile app",
+    "Web-based"
+  ],
+  "scalability_features": [
+    "Ability to deliver content to a large, distributed user base across India (implied by 'Unlimited Fitness Access Across India' and virtual/DIY offerings)"
+  ],
+  "_weight": 1
+}

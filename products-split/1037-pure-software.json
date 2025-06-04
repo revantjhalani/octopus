@@ -1,0 +1,164 @@
+{
+  "id": 1037,
+  "name": "Pure Software",
+  "description": "PureSoftware is a global software products and digital services company that focuses on driving a differentiated customer experience, accelerating cycle time and improving business outcomes through an integration of digital solutions, robotic process automation, artificial intelligence, machine learning and IoT. Our solutions leverage next generation disruptive technologies to deliver competitive advantage to your business. Our flagship product \u2018Arttha\u2019 \u2013 one of the fastest growing financial technology platform \u2013 focuses around Digital Banking, Digital Wallets & Core Banking solutions.",
+  "features": [
+    "offer embedded Software",
+    "Arttha for Banking services",
+    "Offer robotics process autommation"
+  ],
+  "founders": [
+    "Manish Sharma"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Internet of things",
+    "VR and AR Software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee happiness",
+    "Employee well being",
+    "Employee happiness programs"
+  ],
+  "headquarter": "Noida",
+  "launch_date": "2005",
+  "order": 20980,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Powering digital solution of thr future, today",
+  "ProductId": null,
+  "ShortDescription": "Next-gen tech leader powering the world with future-relevant solutions to deliver beyond the customer expectations",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Next-Generation Technology Solutions",
+      "sequence": 0,
+      "description": "PureSoftware offers cutting-edge digital solutions to help businesses transform their operations. This suggests they stay updated on the latest technological advancements and can help companies integrate them into their existing systems."
+    },
+    {
+      "name": "Addressing Complex Business Problems",
+      "sequence": 1,
+      "description": " PureSoftware highlights their ability to solve complex business challenges through digital solutions. This indicates that they go beyond just offering technology but understand how to leverage it to address specific business needs."
+    },
+    {
+      "name": "Serving a Range of Industries",
+      "sequence": 2,
+      "description": " PureSoftware offers its services across various industries like banking, healthcare, retail, and gaming. This suggests a broad range of expertise and the ability to understand the specific needs of each sector."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:39:17.917Z",
+  "enhanced_description": "PureSoftware is a global software products and digital services company that leverages next-generation disruptive technologies, including robotic process automation (RPA), artificial intelligence (AI), machine learning (ML), and IoT, to drive digital transformation. Their focus is on delivering a differentiated customer experience, accelerating cycle times, and improving business outcomes by addressing complex business problems through integrated digital solutions. Their flagship product, 'Arttha', is a rapidly growing financial technology platform specializing in Digital Banking, Digital Wallets, and Core Banking solutions. PureSoftware offers cutting-edge digital solutions that help businesses transform their operations and integrate advanced technologies into existing systems, serving a broad range of industries.",
+  "target_industries": [
+    "Banking",
+    "Healthcare",
+    "Retail",
+    "Gaming",
+    "Financial Services"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Driving differentiated customer experience",
+    "Accelerating business cycle time",
+    "Improving business outcomes through digital solutions",
+    "Implementing robotic process automation (RPA)",
+    "Integrating artificial intelligence (AI) solutions",
+    "Applying machine learning (ML) solutions",
+    "Leveraging IoT for business processes",
+    "Digital Banking solutions",
+    "Digital Wallets development",
+    "Core Banking system implementation",
+    "Digital transformation of business operations",
+    "Solving complex business challenges with technology"
+  ],
+  "competitive_advantages": [
+    "Utilizes next-generation disruptive technologies (AI, ML, IoT, RPA)",
+    "Ability to address complex business problems through digital solutions",
+    "Broad industry expertise across banking, healthcare, retail, and gaming",
+    "Focus on delivering competitive advantage through technology",
+    "Flagship financial technology platform 'Arttha'"
+  ],
+  "roi_benefits": [
+    "Differentiated customer experience",
+    "Accelerated cycle time",
+    "Improved business outcomes",
+    "Competitive advantage"
+  ],
+  "searchable_keywords": [
+    "Pure Software",
+    "digital services",
+    "software products",
+    "digital solutions",
+    "robotic process automation",
+    "RPA",
+    "artificial intelligence",
+    "AI",
+    "machine learning",
+    "ML",
+    "IoT",
+    "Internet of Things",
+    "Arttha",
+    "financial technology",
+    "fintech",
+    "Digital Banking",
+    "Digital Wallets",
+    "Core Banking",
+    "embedded Software",
+    "next-gen tech",
+    "future-relevant solutions",
+    "VR and AR Software",
+    "employee engagement",
+    "employee happiness",
+    "employee well being",
+    "employee happiness programs",
+    "technology transformation",
+    "business transformation"
+  ],
+  "primary_users": [
+    "Organizations undergoing digital transformation",
+    "Financial institutions",
+    "Banking professionals",
+    "IT leaders",
+    "Operations teams"
+  ],
+  "technology_stack": [
+    "Digital Solutions",
+    "Robotic Process Automation (RPA)",
+    "Artificial Intelligence (AI)",
+    "Machine Learning (ML)",
+    "Internet of Things (IoT)",
+    "Embedded Software",
+    "VR and AR Software"
+  ],
+  "_weight": 1
+}

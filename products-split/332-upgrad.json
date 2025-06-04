@@ -1,0 +1,172 @@
+{
+  "id": 332,
+  "name": "upGrad",
+  "description": "Learn on an AI-powered platform with best-in-class content, live sessions & mentoring from leading industry experts to achieve your desired goal.",
+  "features": [
+    "AI Powered learning platform",
+    "Career oriented courses",
+    "Software Development",
+    "Education Technology",
+    " Learning and Development"
+  ],
+  "founders": [
+    "RONNIE SCREWVALA",
+    "Mayank Kumar",
+    "Phalgun Kompalli"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised learning",
+    "Personalised Learning",
+    "Learning retention",
+    "Continuous learning"
+  ],
+  "headquarter": "Mumbai",
+  "launch_date": "2015",
+  "order": 20294,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Building the Careers of Tomorrow",
+  "ProductId": null,
+  "ShortDescription": "With the latest technology, pedagogy, industry partners and world-class faculty, we create immersive online learning experiences.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Learning platform",
+      "sequence": 0,
+      "description": "upGrad believes in imparting knowledge to its learner and making them industry ready. It brings industry-relevant content that helps the learner in upskilling. Thus, helping them to upskill and improve their success rate in advancing their career."
+    },
+    {
+      "name": "Update and upskill unlimited",
+      "sequence": 1,
+      "description": "upGrad believes in bringing the updated and latest information for its learners. The students can access these learning materials at any time according to their comfort."
+    },
+    {
+      "name": "Learning Materials",
+      "sequence": 2,
+      "description": "This platform is available in the field of Data, Technology, and Management and various other relevant domains. These materials are curated to meet the learning requirements of their learners. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:27.959Z",
+  "enhanced_description": "upGrad is an AI-powered online learning platform that specializes in building careers through immersive experiences. It offers career-oriented courses with best-in-class, industry-relevant content, live sessions, and mentoring from leading industry experts and world-class faculty. The platform is designed to accelerate skill development and learning efficiency in domains such as Data, Technology, and Management, enabling learners to upskill, become industry-ready, and advance their careers by providing updated learning materials accessible at any time.",
+  "key_use_cases": [
+    "Individual career advancement and upskilling",
+    "Corporate training and employee skill development",
+    "Acquiring new skills in technology, data, and management domains",
+    "Continuous professional development and learning retention",
+    "Improving learning efficiency and speed for career progression"
+  ],
+  "competitive_advantages": [
+    "AI-powered learning platform for personalized experiences",
+    "Combination of best-in-class content, live sessions, and expert mentoring",
+    "Focus on career-oriented and industry-relevant content",
+    "Leveraging latest technology and pedagogy for immersive online learning",
+    "Access to world-class faculty and industry partners",
+    "Continuous update of learning materials"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based, online learning platform accessible remotely"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Training Management",
+    "Skill Management",
+    "Employee Upskilling/Reskilling"
+  ],
+  "technology_stack": [
+    "AI (Artificial Intelligence)"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Improved learning efficiency and speed",
+    "Enhanced training effectiveness",
+    "Increased success rate in career advancement",
+    "Improved learning retention",
+    "Ensuring learners are 'industry ready'"
+  ],
+  "searchable_keywords": [
+    "upGrad",
+    "AI learning",
+    "AI platform",
+    "career oriented courses",
+    "software development courses",
+    "education technology",
+    "learning and development",
+    "skill development",
+    "learning efficiency",
+    "training effectiveness",
+    "skill acquisition",
+    "learning speed",
+    "learning optimisation",
+    "training methodologies",
+    "adaptive learning",
+    "personalised learning",
+    "learning retention",
+    "continuous learning",
+    "corporate LMS",
+    "training management system",
+    "LXP (Learning Experience Platform)",
+    "eLearning software",
+    "online learning",
+    "industry ready training",
+    "upskilling platform",
+    "career advancement",
+    "data learning",
+    "technology learning",
+    "management learning",
+    "live sessions",
+    "expert mentoring",
+    "industry partners",
+    "world-class faculty"
+  ],
+  "primary_users": [
+    "Individual learners/students seeking career advancement and skill development",
+    "Employees within organizations participating in corporate training",
+    "L&D professionals/HR teams managing training programs"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,123 @@
+{
+  "id": 743,
+  "name": "Integrated Partners Group",
+  "description": "Since 1996, Integrated Partners has been helping financial advisors to achieve their entrepreneurial vision. We offer comprehensive business building services, designed with the truly independent advisor in mind. With one hundred and forty-one advisors, one hundred and twenty-seven CPAs and forty regional offices across the United States, Integrated has built our reputation advisor by advisor, client by client.",
+  "features": [
+    "Retirement Planning",
+    "Investment Management",
+    "Business Planning"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee benefits"
+  ],
+  "headquarter": "Boston, MA",
+  "launch_date": "1996",
+  "order": 20696,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "OUR ADVISORS HAVE A SINGULAR FOCUS: OUR CLIENTS\u2019 FINANCIAL WELL BEING",
+  "ProductId": null,
+  "ShortDescription": "Integrated Partners Group believe in empowering independent advisors to build the businesses they\u2019ve always envisioned, while sharing a common goal \u2013 taking care of our clients.\u201d",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Financial Advisor Support",
+      "sequence": 0,
+      "description": "Integrated Partners offers a program that connects financial advisors with CPAs and attorneys. This suggests that they provide support services to financial advisors, potentially helping them better serve their clients."
+    },
+    {
+      "name": "Empowering Financial Advisors",
+      "sequence": 1,
+      "description": "The article states that Integrated Partners believes in empowering financial advisors to run their own businesses. This indicates that their program may focus on providing financial advisors with the tools and resources they need to be successful."
+    },
+    {
+      "name": "Collaboration with CPAs and Attorneys",
+      "sequence": 2,
+      "description": "A key aspect of Integrated Partners' program is connecting financial advisors with CPAs and attorneys. This collaboration likely allows financial advisors to offer more comprehensive financial services to their clients."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:37.364Z",
+  "enhanced_description": "Integrated Partners Group, established in 1996, empowers independent financial advisors to achieve their entrepreneurial vision by providing comprehensive business-building services. With a large network of 141 advisors, 127 CPAs, and 40 regional offices across the U.S., they facilitate collaboration among financial advisors, CPAs, and attorneys, enabling advisors to offer more comprehensive financial services to their clients. Their offerings include Retirement Planning, Investment Management, and Business Planning. While primarily focused on supporting financial advisors, the services are categorized under 'Total Rewards,' 'Corporate wellness software,' 'Health & safety providers,' 'Employee well-being,' and 'Employee benefits,' indicating that their financial planning expertise can contribute to improving employee happiness and engagement within client organizations.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Supporting independent financial advisors in building and growing their businesses",
+    "Providing comprehensive financial planning services including retirement planning, investment management, and business planning to clients",
+    "Facilitating multidisciplinary collaboration between financial advisors, CPAs, and attorneys",
+    "Enhancing employee financial well-being and engagement as part of a total rewards or corporate wellness program"
+  ],
+  "competitive_advantages": [
+    "Long-standing experience since 1996",
+    "Extensive network of financial advisors, CPAs, and regional offices",
+    "Specialized focus on empowering independent financial advisors",
+    "Unique collaborative model connecting financial advisors with CPAs and attorneys for comprehensive client service"
+  ],
+  "hr_functions_supported": [
+    "Benefits Administration (specifically financial wellness components)",
+    "Employee Wellness (focusing on financial well-being)"
+  ],
+  "roi_benefits": [
+    "Enabling financial advisors to achieve their entrepreneurial vision and build successful businesses",
+    "Helping clients achieve financial well-being through comprehensive financial services",
+    "Improving employee happiness and engagement for client organizations through financial wellness offerings"
+  ],
+  "searchable_keywords": [
+    "Integrated Partners Group",
+    "Financial advisor support",
+    "Independent advisor",
+    "Entrepreneurial vision",
+    "Retirement planning",
+    "Investment management",
+    "Business planning",
+    "CPA collaboration",
+    "Attorney collaboration",
+    "Financial well-being",
+    "Employee well-being",
+    "Employee benefits",
+    "Total Rewards",
+    "Corporate wellness",
+    "Business building services"
+  ],
+  "primary_users": [
+    "Independent financial advisors",
+    "Certified Public Accountants (CPAs)",
+    "Attorneys",
+    "HR professionals (seeking financial wellness benefits for employees)"
+  ],
+  "_weight": 1
+}

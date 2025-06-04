@@ -1,0 +1,171 @@
+{
+  "id": 76,
+  "name": "Ezra Coaching",
+  "description": "With EZRA Measure\u2122, you can track individual and organizational progress in real time.We're a global virtual coaching and learning provider that's revolutionizing the way businesses develop their employees through the power of behavioral science.",
+  "features": [
+    "77% of participants say they feel more loyal to their company",
+    "95% of participants would recommend coaching to a friend or colleague",
+    "14% improvement in employee retention",
+    "95% of participants say their performance is improving"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised learning",
+    "Learning retention",
+    "Continuous learning"
+  ],
+  "headquarter": "England",
+  "launch_date": "2019",
+  "order": 20052,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Unleash the true potential of your people",
+  "ProductId": null,
+  "ShortDescription": "Personalized, measurable, scalable: we\u2019ve redesigned coaching for the digital age.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "The foundation for success",
+      "sequence": 0,
+      "description": "For us, the best leaders have six core skills. We build our leadership programs around these skills, then tailor the plan to your team \u2013 helping them move with confidence through the organization. "
+    },
+    {
+      "name": "Management mastery",
+      "sequence": 1,
+      "description": "No two team leaders are the same. So, while we have six goals we tend to focus on, we can tailor coaching to every manager we meet.  "
+    },
+    {
+      "name": "Providing support for success.",
+      "sequence": 2,
+      "description": "We want to give your employees the skills and support to move through major changes. Coaching focuses on these nine things to ensure positive outcomes."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-20T07:01:02.302Z",
+  "enhanced_description": "Ezra Coaching is a global virtual coaching and learning provider that leverages behavioral science to revolutionize employee development. It offers personalized, measurable, and scalable coaching solutions designed for the digital age. Through its EZRA Measure\u2122 platform, it tracks individual and organizational progress in real time. The platform supports various development needs, including leadership programs focused on six core skills, tailored coaching for managers, and providing support for employees navigating major organizational changes. It aims to accelerate skill development and learning efficiency across organizations.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerate Skill Development",
+    "Improve Learning Efficiency",
+    "Leadership Development",
+    "Management Development",
+    "Employee Skill Acquisition",
+    "Supporting Employees Through Organizational Change"
+  ],
+  "competitive_advantages": [
+    "Leverages behavioral science for employee development",
+    "Personalized coaching approach",
+    "Measurable progress tracking (EZRA Measure\u2122)",
+    "Scalable coaching solutions",
+    "Global virtual delivery"
+  ],
+  "implementation_scenarios": [
+    "Virtual Delivery",
+    "Online Coaching"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Talent Management"
+  ],
+  "roi_benefits": [
+    "Improved employee loyalty",
+    "Improved employee retention",
+    "Improved employee performance",
+    "Measurable individual progress",
+    "Measurable organizational progress"
+  ],
+  "searchable_keywords": [
+    "Ezra Coaching",
+    "virtual coaching",
+    "learning provider",
+    "behavioral science",
+    "employee development",
+    "EZRA Measure",
+    "skill development",
+    "learning efficiency",
+    "training effectiveness",
+    "skill acquisition",
+    "learning speed",
+    "learning optimization",
+    "training methodologies",
+    "adaptive learning",
+    "personalized learning",
+    "learning retention",
+    "continuous learning",
+    "eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems",
+    "LXP",
+    "Training & development companies",
+    "employee loyalty",
+    "employee retention",
+    "employee performance",
+    "leadership programs",
+    "management coaching",
+    "organizational change support",
+    "scalable coaching",
+    "measurable coaching",
+    "personalized coaching"
+  ],
+  "primary_users": [
+    "Employees",
+    "Leaders",
+    "Managers",
+    "HR Professionals",
+    "Learning & Development Professionals"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "scalability_features": [
+    "Scalable coaching solutions",
+    "Global virtual delivery"
+  ],
+  "_weight": 1
+}

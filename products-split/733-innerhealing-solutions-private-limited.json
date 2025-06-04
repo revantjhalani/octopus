@@ -1,0 +1,136 @@
+{
+  "id": 733,
+  "name": "InnerHealing Solutions Private Limited",
+  "description": "Online Video / Audio / Chat Counselling, Therapy & Treatment for various mental health issues from Leading Psychiatrists, Best Online Psychologists Counselling India. India's trusted comprehensive mental health and well-being platform. Our goal is to help you grow from your struggles, heal from your pain, and move forward to where you want to be in your life. Your details are absolutely confidential with us !",
+  "features": [
+    "Relief to mental health issues",
+    "Complete healing procedure",
+    "Anger management"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee well being"
+  ],
+  "headquarter": "Panchkula, HR ",
+  "launch_date": "2020",
+  "order": 20686,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "InnerHealing is a mental health and well-being platform, offering online consultation for mental health related issues",
+  "ProductId": null,
+  "ShortDescription": "InnerHealing is a comprehensive mental health and well-being platform.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "STRESS AT WORK",
+      "sequence": 0,
+      "description": "Employees and managers find it easier to work with each other if they can take and receive feedback constructively."
+    },
+    {
+      "name": "DEPRESSION & ANXIETY",
+      "sequence": 1,
+      "description": "Depression, fear, and anxiety are some of the most common and uncomfortable emotions that we can experience. Through online counselling, therapy and treatment, our specialists  help you recover motivation and perspective."
+    },
+    {
+      "name": "CHILD COUNSELLING",
+      "sequence": 2,
+      "description": "Child counselors are mental health specialists, who offer invaluable insight into your child\u2019s social and emotional development and mental health."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:27.308Z",
+  "enhanced_description": "InnerHealing Solutions Private Limited is India's trusted comprehensive mental health and well-being platform, offering online consultation, therapy, and treatment via video, audio, and chat. The platform connects individuals with leading psychiatrists and online psychologists to address various mental health issues including stress at work, depression, anxiety, and anger management. They also provide specialized child counselling. Their core mission is to help individuals grow from struggles, heal from pain, and move forward in life, with a strong emphasis on absolute confidentiality of user details.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Online counselling for mental health issues",
+    "Therapy and treatment for mental health conditions",
+    "Anger management",
+    "Stress management at work",
+    "Addressing depression and anxiety",
+    "Child counselling"
+  ],
+  "competitive_advantages": [
+    "Comprehensive mental health and well-being platform",
+    "Online accessibility via video, audio, and chat",
+    "Services from leading psychiatrists and best online psychologists in India",
+    "Absolute confidentiality of user details"
+  ],
+  "hr_functions_supported": [
+    "Corporate Wellness",
+    "Employee Well-being",
+    "Employee Engagement",
+    "Health & Safety"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness and Engagement"
+  ],
+  "searchable_keywords": [
+    "InnerHealing Solutions",
+    "mental health",
+    "well-being platform",
+    "online counselling",
+    "online therapy",
+    "online treatment",
+    "psychiatrist",
+    "psychologist",
+    "mental health India",
+    "stress at work",
+    "depression",
+    "anxiety",
+    "anger management",
+    "child counselling",
+    "corporate wellness",
+    "employee well-being",
+    "employee engagement",
+    "health & safety providers",
+    "total rewards",
+    "online consultation"
+  ],
+  "primary_users": [
+    "Employees",
+    "Managers",
+    "Children (as part of employee families/dependents)"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "security_features": [
+    "Confidentiality of user details"
+  ],
+  "_weight": 1
+}

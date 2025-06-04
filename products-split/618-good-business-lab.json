@@ -1,0 +1,122 @@
+{
+  "id": 618,
+  "name": "Good Business Lab",
+  "description": "We work across a worker's employment journey from unlocking female labor to closing the skill gap, improving job quality, and improving health conditions.Businesses, because of their scale, hold immense potential to drive social change, while staying true to their principles.",
+  "features": [
+    "Work through Randomised controll trails",
+    "rigorous research",
+    "investment in worker wellbeing programs as mere philanthropy."
+  ],
+  "founders": [
+    "ACHYUTA ADHVARYU",
+    "ANANT AHUJA"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee development"
+  ],
+  "headquarter": "Bengaluru",
+  "launch_date": "2017",
+  "order": 20575,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "A not for profit, labor innovation lab.",
+  "ProductId": null,
+  "ShortDescription": "Good business lab design, test, and scale programs using rigorous research methods, that align worker wellbeing with business interests.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:31:13.876Z",
+  "enhanced_description": "Good Business Lab is a not-for-profit labor innovation lab established in 2017. Based in Bengaluru, it specializes in designing, testing, and scaling programs that rigorously align worker well-being with core business interests, moving beyond mere philanthropy. Their work spans the entire employee journey, addressing critical areas such as unlocking female labor participation, closing skill gaps, improving overall job quality, and enhancing health conditions for workers. Good Business Lab leverages rigorous research methods, including Randomised Control Trials, to ensure the effectiveness and impact of its interventions, demonstrating businesses' immense potential to drive social change while adhering to their principles.",
+  "key_use_cases": [
+    "Unlocking female labor participation",
+    "Closing skill gaps",
+    "Improving job quality",
+    "Improving health conditions for workers",
+    "Designing and implementing worker wellbeing programs"
+  ],
+  "competitive_advantages": [
+    "Utilizes Randomised Control Trials and rigorous research methods for program design and validation",
+    "Focuses on aligning worker wellbeing with business interests, demonstrating tangible ROI",
+    "Operates as a not-for-profit labor innovation lab, potentially appealing to businesses focused on social impact and ESG initiatives"
+  ],
+  "implementation_scenarios": [
+    "Partnership for program design and implementation related to worker well-being and labor innovation"
+  ],
+  "hr_functions_supported": [
+    "Employee Well-being",
+    "Health & Safety",
+    "Learning & Development",
+    "Workforce Planning",
+    "Diversity & Inclusion",
+    "Employee Engagement",
+    "Total Rewards"
+  ],
+  "roi_benefits": [
+    "Aligns worker wellbeing with business interests for mutual benefit",
+    "Improved employee happiness and engagement",
+    "Enhanced job quality and productivity",
+    "Reduced skill gaps within the workforce",
+    "Improved health conditions for employees, potentially reducing absenteeism and healthcare costs"
+  ],
+  "searchable_keywords": [
+    "Good Business Lab",
+    "labor innovation",
+    "worker wellbeing",
+    "employee well being",
+    "employee development",
+    "social change",
+    "employment journey",
+    "female labor",
+    "skill gap",
+    "job quality",
+    "health conditions",
+    "rigorous research",
+    "Randomised Control Trials",
+    "not for profit",
+    "Total Rewards",
+    "Health & safety providers",
+    "Employee Happiness",
+    "Employee Engagement",
+    "HR programs",
+    "workforce solutions"
+  ],
+  "primary_users": [
+    "Businesses (as clients)",
+    "HR Leaders",
+    "Business Leaders"
+  ],
+  "scalability_features": [
+    "Ability to scale programs beyond the design and testing phases"
+  ],
+  "_weight": 1
+}

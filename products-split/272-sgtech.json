@@ -1,0 +1,152 @@
+{
+  "id": 272,
+  "name": "SGTech",
+  "description": "SGTech is the leading trade association for Singapore's tech industry. Representing over 1,000 member companies ranging from top multinational corporations, large local enterprises, vibrant small and medium-sized enterprises, and innovative startups, it is the largest community in Singapore where companies converge to advocate for change and drive what enables tech innovation and accelerates tech adoption to spur greater sustainability in the sector.  \n  SGTech's mission is to catalyse a thriving ecosystem that powers Singapore as a global tech powerhouse.\n SGTech celebrated its 40th anniversary in 2022",
+  "features": [
+    "Let Your Voice be Heard",
+    "Access Business Opportunities",
+    "Increase Awareness of Your Brand"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Internet of things"
+  ],
+  "tags": [
+    "Skill development",
+    "Training effectiveness",
+    "Personalised learning"
+  ],
+  "headquarter": "Singapore,  Singapore",
+  "launch_date": "1982",
+  "order": 20237,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "WHERE TECH MEETS",
+  "ProductId": null,
+  "ShortDescription": "SGTech bring business leaders and innovators together to drive tech innovation and adoption, powering Singapore into a power global house.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Digi-TAC",
+      "sequence": 0,
+      "description": "The Digitalisation of TACs (DIGI-TAC) Programme is a digitalisation initiative jointly administered by the Singapore Business Federation (SBF) & SGTech and supported by Enterprise Singapore. It aims to provide eligible Trade Association & Chambers (TACs) with easy-to-deploy digital solutions to bridge baseline digital capabilities gaps and equip TAC secretariat staff with foundational digital skills to work efficiently and effectively."
+    },
+    {
+      "name": "Career Conversion Programmes",
+      "sequence": 1,
+      "description": "Career Conversion Programmes (CCPs) help mid-career Professionals, Managers, Executives and Technicians (PMETs) undergo skills conversion and move into new occupations or sectors that have good prospects and opportunities for progression."
+    },
+    {
+      "name": "Tech4Community",
+      "sequence": 2,
+      "description": "Tech4Community is a CSR initiative aimed at bringing technology closer to beneficiaries and show them how technology can impact their lives positively. The initiative is led by SGTech and supported by IMDA."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:26.068Z",
+  "enhanced_description": "SGTech is Singapore's leading and largest trade association for the technology industry, established in 1982. It represents a diverse community of over 1,000 member companies, including top multinational corporations, large local enterprises, vibrant small and medium-sized enterprises, and innovative startups. As 'WHERE TECH MEETS', SGTech brings together business leaders and innovators to advocate for change, drive tech innovation, accelerate tech adoption, and foster greater sustainability within the sector. Its core mission is to catalyse a thriving ecosystem that powers Singapore as a global tech powerhouse.",
+  "target_industries": [
+    "Technology"
+  ],
+  "ideal_company_sizes": [
+    "Start-up",
+    "Small",
+    "Medium",
+    "Large",
+    "Enterprise"
+  ],
+  "key_use_cases": [
+    "Advocating for industry change and policy influence",
+    "Facilitating business networking and opportunities for members",
+    "Enhancing brand awareness and visibility for member companies",
+    "Driving tech innovation and adoption within the industry",
+    "Accelerating skill development and learning efficiency for professionals",
+    "Supporting workforce reskilling and career conversion into tech roles",
+    "Promoting digitalization for trade associations and chambers (TACs)",
+    "Contributing to corporate social responsibility (CSR) through technology initiatives"
+  ],
+  "competitive_advantages": [
+    "Positioned as the leading trade association in Singapore's tech industry",
+    "Largest community for tech companies in Singapore with over 1,000 member companies",
+    "Long-standing history, established in 1982 (40th anniversary in 2022)",
+    "Comprehensive advocacy for change and industry sustainability",
+    "Dedicated programs like Digi-TAC and Career Conversion Programmes addressing specific industry needs",
+    "Strong mission to catalyse Singapore as a global tech powerhouse"
+  ],
+  "hr_functions_supported": [
+    "Skill Development",
+    "Learning & Development",
+    "Training & Development",
+    "Career Mobility",
+    "Workforce Planning (via reskilling)"
+  ],
+  "roi_benefits": [
+    "Increased business opportunities and partnerships for member companies",
+    "Enhanced brand awareness and market presence for members",
+    "Influencing industry policies and regulations",
+    "Improved workforce readiness and reduced skill gaps through accelerated skill development",
+    "Access to a thriving tech ecosystem and community",
+    "Contribution to industry sustainability and growth"
+  ],
+  "searchable_keywords": [
+    "SGTech",
+    "Singapore tech industry",
+    "trade association",
+    "tech innovation",
+    "tech adoption",
+    "sustainability",
+    "global tech powerhouse",
+    "ecosystem",
+    "business opportunities",
+    "brand awareness",
+    "skill development",
+    "learning efficiency",
+    "training effectiveness",
+    "personalised learning",
+    "Internet of Things",
+    "Digi-TAC",
+    "Career Conversion Programmes",
+    "Tech4Community",
+    "digitalisation",
+    "PMETs",
+    "skills conversion",
+    "CSR",
+    "business leaders",
+    "innovators",
+    "Singapore"
+  ],
+  "primary_users": [
+    "Tech company members (MNCs, large local enterprises, SMEs, startups)",
+    "Business leaders and innovators within the tech sector",
+    "Professionals, Managers, Executives and Technicians (PMETs) seeking career conversion",
+    "Trade Associations & Chambers (TACs) secretariat staff",
+    "HR professionals focused on L&D and talent development"
+  ],
+  "_weight": 1
+}

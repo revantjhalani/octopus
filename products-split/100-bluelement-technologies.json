@@ -1,0 +1,149 @@
+{
+  "id": 100,
+  "name": "BluElement Technologies",
+  "description": "BluElement Technologies is an HR Technology solution provider that aims to enable Human Resource teams to efficiently Onboard, Manage, Engage and Boost the growth of employees through new-age solutions and automation. BluElement Technologies addresses the pain points of business leaders and Human Resource teams including lack of engagement, experience, communication and more.",
+  "features": [
+    "Automate HR Tasks",
+    "Boost Employee Engagement",
+    "Reduce Candidate Dropout"
+  ],
+  "founders": [
+    "Vinod P John",
+    "Anurag Kapoor"
+  ],
+  "price": [],
+  "business_objectives": [],
+  "categories": [],
+  "sub_categories": [],
+  "tags": [
+    "Employee development",
+    "Employee enagement strategies",
+    "candidate engagement"
+  ],
+  "headquarter": "Bengaluru, Karnataka",
+  "launch_date": "2018",
+  "order": 20070,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Reduce Dropout Rate & Retain Talent",
+  "ProductId": null,
+  "ShortDescription": "Empowering Enterprises to Attract, Engage, Develop & Retain Talent",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Award-Winning HR Tech Solutions",
+      "sequence": 0,
+      "description": " Recognized by CIO Review India as a '20 Most Promising HR Tech Startups' in 2020."
+    },
+    {
+      "name": "Products for All Your HR Needs",
+      "sequence": 1,
+      "description": "Offers solutions for Employee Onboarding, Management, Engagement & Growth (EngageLoop) and Candidate Experience & Engagement (HireLoop)."
+    },
+    {
+      "name": "Engaged & Motivated Workforce",
+      "sequence": 2,
+      "description": " Drive a positive work culture with peer-to-peer recognition and a comprehensive rewards & recognition platform (EngageLoop)."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-26T12:20:19.651Z",
+  "enhanced_description": "BluElement Technologies is an HR Technology solution provider that leverages new-age solutions and automation to empower Human Resource teams in efficiently Onboarding, Managing, Engaging, and fostering employee growth. Their product suite includes EngageLoop, focused on employee onboarding, management, engagement, and growth through features like peer-to-peer recognition and rewards, and HireLoop, which enhances candidate experience and engagement. The platform specifically addresses pain points such as lack of employee engagement, poor experience, and communication challenges, aiming to reduce candidate dropout rates and boost overall talent retention. BluElement Technologies was recognized by CIO Review India as a '20 Most Promising HR Tech Startups' in 2020.",
+  "ideal_company_sizes": [
+    "Small Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee Onboarding",
+    "Employee Management",
+    "Employee Engagement",
+    "Employee Growth and Development",
+    "Candidate Experience Management",
+    "Candidate Engagement",
+    "HR Task Automation",
+    "Peer-to-peer Recognition",
+    "Rewards & Recognition Programs",
+    "Reducing Candidate Dropout Rates",
+    "Talent Retention",
+    "Attracting Talent"
+  ],
+  "competitive_advantages": [
+    "Award-Winning HR Tech Solutions (Recognized by CIO Review India as a '20 Most Promising HR Tech Startups' in 2020)",
+    "Comprehensive Product Suite for Employee Life Cycle (EngageLoop for Employees, HireLoop for Candidates)"
+  ],
+  "hr_functions_supported": [
+    "Employee Onboarding",
+    "Employee Management",
+    "Employee Engagement",
+    "Employee Development",
+    "Talent Acquisition",
+    "Talent Retention",
+    "Rewards & Recognition",
+    "HR Automation",
+    "Employee Experience",
+    "Internal Communications"
+  ],
+  "roi_benefits": [
+    "Increased HR efficiency through automation",
+    "Boosted employee engagement",
+    "Reduced candidate dropout rates",
+    "Improved talent retention",
+    "Enhanced employee experience",
+    "Improved internal communication",
+    "Positive work culture development"
+  ],
+  "searchable_keywords": [
+    "BluElement Technologies",
+    "HR Tech",
+    "HR Technology",
+    "HR Solution",
+    "Human Resources",
+    "Employee Onboarding",
+    "Employee Management",
+    "Employee Engagement",
+    "Employee Growth",
+    "HR Automation",
+    "New-age HR Solutions",
+    "Candidate Dropout Reduction",
+    "Talent Retention",
+    "Candidate Experience",
+    "EngageLoop",
+    "HireLoop",
+    "Peer-to-peer Recognition",
+    "Rewards & Recognition",
+    "Employee Development",
+    "Employee Engagement Strategies",
+    "Candidate Engagement",
+    "Attract Talent",
+    "Develop Talent",
+    "Retain Talent",
+    "HR Task Automation",
+    "HR Efficiency",
+    "Workforce Engagement",
+    "Positive Work Culture",
+    "HR Pain Points"
+  ],
+  "primary_users": [
+    "Human Resource Teams",
+    "Business Leaders"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,125 @@
+{
+  "id": 964,
+  "name": "Pand.ai",
+  "description": "Our technology, expertise, and hard work got us to where we are today When Pand.ai was first founded, it had two members, and was based in a home office. Today, we have over 15 employees, and have worked with many clients across five different countries. From our first project a month after founding, to our projects now, each achievement has been a testament toward our team's passion, drive, and hard work.",
+  "features": [
+    "Meet with our team to discuss your needs and business objective. Our customer-centric methodology ensures a highly specialized product, made for you.",
+    "Our team researches your industry to find your chatbot's ideal functionality. We analyze industry trends, demographics, and competitors to give you an advantage.",
+    "Our team creates a model of your chatbot, which we then present to you for approval and final adjustments. Once approved, we start creating your chatbot!"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement",
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Internet of things",
+    "Machine learning HR"
+  ],
+  "tags": [
+    "Employee satisfaction",
+    "Employee empowerment",
+    "Skill development",
+    "Skill acquisition"
+  ],
+  "headquarter": "Singapore, Singapore",
+  "launch_date": "2016",
+  "order": 20911,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "We create the best financial chatbots in Asia",
+  "ProductId": null,
+  "ShortDescription": "pand.ai is an artificial intelligence startup that specialises in deep natural language processing. We develop the underlying algorithm that powers \"smart chatbot\"",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:37:48.820Z",
+  "enhanced_description": "Pand.ai is an artificial intelligence startup specializing in deep natural language processing (NLP) to develop underlying algorithms for 'smart chatbots'. With over 15 employees and clients across five countries since its founding in 2016, Pand.ai is recognized for creating leading financial chatbots in Asia. Their customer-centric approach involves a detailed process: initial needs discussion, in-depth industry research to define ideal chatbot functionality, and collaborative model creation with client approval, ensuring a highly specialized product tailored to specific business objectives.",
+  "target_industries": [
+    "Financial Services"
+  ],
+  "key_use_cases": [
+    "Chatbots for Employee Engagement",
+    "Chatbots for Skill Development and Learning",
+    "Smart Chatbots for HR Support"
+  ],
+  "competitive_advantages": [
+    "Deep Natural Language Processing (NLP) Specialization",
+    "Expertise in Financial Chatbot Development",
+    "Customer-centric Methodology for Customized Solutions",
+    "In-depth Industry Research and Analysis for Strategic Advantage",
+    "Asian Market Focus and Experience"
+  ],
+  "implementation_scenarios": [
+    "Custom Chatbot Development and Implementation",
+    "Consultative Deployment Process"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Learning & Development",
+    "Employee Experience"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Machine Learning (ML)",
+    "Natural Language Processing (NLP)"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness",
+    "Enhanced Employee Engagement",
+    "Accelerated Skill Development",
+    "Increased Learning Efficiency",
+    "Competitive Advantage"
+  ],
+  "searchable_keywords": [
+    "Pand.ai",
+    "AI",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "NLP",
+    "Natural Language Processing",
+    "Smart Chatbot",
+    "Chatbot",
+    "HR Tech",
+    "HR",
+    "Employee Satisfaction",
+    "Employee Empowerment",
+    "Skill Development",
+    "Skill Acquisition",
+    "Employee Engagement",
+    "Learning Efficiency",
+    "Financial Chatbots",
+    "Asia",
+    "HR Chatbot"
+  ],
+  "primary_users": [
+    "Employees (as chatbot users)",
+    "HR Leaders",
+    "Learning & Development Professionals"
+  ],
+  "_weight": 1
+}

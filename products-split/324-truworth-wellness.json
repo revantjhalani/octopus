@@ -1,0 +1,157 @@
+{
+  "id": 324,
+  "name": "Truworth Wellness",
+  "description": "Truworth holds an industry experience of over 5 years of implementing successful wellness programs across various top organizations across India. Our mission is to help you gain a competitive edge by promoting a culture of health & wellbeing throughout your organization. Truworth Wellness was founded in 2011 with the core mission of promoting the culture of preventive wellness across various organizations. We started off by providing employee health checkups & biometric screenings and slowly diversified into providing a complete end to end employee health benefits solution.",
+  "features": [
+    "Pharmacy Reimbursements",
+    "Health Checks",
+    "Mental Wellness"
+  ],
+  "founders": [
+    "Rohit Chohan  "
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Benefits administration software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Employee happiness",
+    "Employee well being",
+    "Employee happiness metrics"
+  ],
+  "headquarter": "Bengaluru, Karnataka",
+  "launch_date": "2008",
+  "order": 20286,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "India\u2019s #1 Holistic Corporate Wellness Company",
+  "ProductId": null,
+  "ShortDescription": "Truworth Wellness provides Innovative employee wellness engagement programs & employee assistance programs. ",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Health Risk & Immunity Assessment",
+      "sequence": 0,
+      "description": "Identify the key risk areas to your health & immunity. Take suggested measures to reduce the risks."
+    },
+    {
+      "name": "Wellness Goals",
+      "sequence": 1,
+      "description": "Set your overall wellness goals and the platform will suggest you steps to achieve your goal."
+    },
+    {
+      "name": "Vitals & Wellness Trackers",
+      "sequence": 2,
+      "description": "Whether it is your sleep, steps, mood, sugar, BP, Cholesterol, or Thyroid - the platform has it all to help you track your vitals."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:16.113Z",
+  "enhanced_description": "Truworth Wellness, founded in 2011 and headquartered in Bengaluru, Karnataka, is positioned as India's #1 Holistic Corporate Wellness Company. With over 5 years of industry experience in implementing successful wellness programs across top organizations in India, it specializes in promoting a culture of preventive wellness and health & wellbeing. The platform offers innovative employee wellness engagement programs and employee assistance programs, providing a complete end-to-end employee health benefits solution. Key features include Pharmacy Reimbursements, Health Checks, and Mental Wellness. The platform also offers Health Risk & Immunity Assessments, allows users to set personalized Wellness Goals with suggested steps, and provides comprehensive Vitals & Wellness Trackers for various health metrics such as sleep, steps, mood, blood sugar, BP, Cholesterol, and Thyroid.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Implementing Corporate Wellness Programs",
+    "Managing Employee Health Checkups and Biometric Screenings",
+    "Providing End-to-End Employee Health Benefits Solutions",
+    "Delivering Employee Assistance Programs (EAP)",
+    "Facilitating Employee Mental Wellness Support",
+    "Processing Pharmacy Reimbursements",
+    "Conducting Health Risk & Immunity Assessments",
+    "Enabling Personal Wellness Goal Setting and Tracking",
+    "Monitoring Employee Vitals and Wellness Metrics (e.g., sleep, steps, mood, blood sugar, BP, Cholesterol, Thyroid)"
+  ],
+  "competitive_advantages": [
+    "Claimed position as \"India\u2019s #1 Holistic Corporate Wellness Company\"",
+    "Over 5 years of industry experience in implementing successful wellness programs in India",
+    "Offers a complete end-to-end employee health benefits solution",
+    "Provides innovative employee wellness engagement programs and employee assistance programs",
+    "Comprehensive platform for health risk assessment, wellness goal setting, and tracking of various vitals and wellness metrics"
+  ],
+  "hr_functions_supported": [
+    "Corporate Wellness Management",
+    "Benefits Administration",
+    "Employee Health & Safety",
+    "Employee Engagement",
+    "Employee Support"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness and Engagement",
+    "Enhanced organizational competitive edge through a culture of health and wellbeing",
+    "Potential reduction in employee health risks",
+    "Improved overall employee health outcomes"
+  ],
+  "searchable_keywords": [
+    "Truworth Wellness",
+    "Corporate wellness",
+    "Employee wellness",
+    "Health & wellbeing",
+    "Preventive wellness",
+    "Employee health checkups",
+    "Biometric screenings",
+    "Employee health benefits",
+    "Wellness engagement programs",
+    "Employee assistance programs",
+    "EAP",
+    "Pharmacy reimbursements",
+    "Health checks",
+    "Mental wellness",
+    "Health risk assessment",
+    "Immunity assessment",
+    "Wellness goals",
+    "Vitals tracker",
+    "Sleep tracker",
+    "Steps tracker",
+    "Mood tracker",
+    "Blood sugar tracker",
+    "BP tracker",
+    "Cholesterol tracker",
+    "Thyroid tracker",
+    "Total Rewards",
+    "Benefits administration software",
+    "Health & safety providers",
+    "Employee benefits",
+    "Employee happiness",
+    "Employee well being",
+    "Employee happiness metrics",
+    "Holistic corporate wellness",
+    "India wellness"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Professionals",
+    "Organizational Management"
+  ],
+  "_weight": 1
+}

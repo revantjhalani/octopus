@@ -1,0 +1,161 @@
+{
+  "id": 777,
+  "name": "Jombay",
+  "description": "Jombay build great managers & leaders for this fast changing world! We do this through modern Assessment Centers, 360 Degree Feedbacks & Development Programs. Our consolidated platform combines technology with behavioral science to help organisations relook their hiring, development and succession planning processes while taking them virtual along with enhancing operational efficiency and optimizing costs. Our open programs help individuals build critical capabilities to fast track their careers. We create immersive learning experiences to enable self development. Participants are able to leverage an alumni network of 1200+ leaders and benefit from immense mentoring & networking opportunities.",
+  "features": [
+    "ECHO360 Degree Feedback Solution",
+    "Virtual Instructor Led Trainings",
+    "Future Ready Manager Assessment"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    "Learning efficiency",
+    "Skill acquisition"
+  ],
+  "headquarter": "Pune, Maharashtra",
+  "launch_date": "2010",
+  "order": 20730,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Building Great Managers &\n Leaders For the fast changing world!",
+  "ProductId": null,
+  "ShortDescription": "Jombay build great managers & leaders for this fast changing world! We do this through modern Assessment Centers, 360 Degree Feedbacks & Development Programs.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Scientific Assessments: ",
+      "sequence": 0,
+      "description": "Jombay offers a suite of scientific assessments. This suggests that they use reliable and validated methods to evaluate individuals' skills and potential."
+    },
+    {
+      "name": "Blended Learning Experience:",
+      "sequence": 1,
+      "description": " Jombay provides a modern blended experience for development. This likely combines online learning modules with in-person activities or coaching, offering a flexible and comprehensive approach to development."
+    },
+    {
+      "name": "Customizable Assessment Centers:",
+      "sequence": 2,
+      "description": "Jombay offers customizable assessment centers. This means they can tailor their assessments to meet the specific needs of each client organization."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:16.762Z",
+  "enhanced_description": "Jombay is an HR technology platform focused on building great managers and leaders for the evolving world. It offers a consolidated solution combining technology with behavioral science, featuring modern Assessment Centers, 360-Degree Feedback solutions (like ECHO360), and various Development Programs, including Virtual Instructor-Led Trainings. The platform enables organizations to re-evaluate and enhance their hiring, talent development, and succession planning processes, facilitating a shift to virtual operations while improving efficiency and optimizing costs. Jombay also provides open programs for individuals seeking to build critical capabilities and accelerate their careers through immersive learning experiences, complemented by an alumni network of over 1200 leaders for mentoring and networking opportunities. Key offerings include scientific assessments, a blended learning experience, and customizable assessment centers, all aimed at fostering skill acquisition and leadership growth.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Hiring and Talent Acquisition Enhancement",
+    "Manager and Leadership Development",
+    "Skill Development and Learning Efficiency",
+    "Succession Planning",
+    "360-Degree Performance Feedback",
+    "Employee Assessment and Evaluation",
+    "Virtual Training and Development"
+  ],
+  "competitive_advantages": [
+    "Consolidated platform combining technology with behavioral science",
+    "Ability to virtualize hiring, development, and succession planning processes",
+    "Enhances operational efficiency and optimizes costs",
+    "Offers scientific and reliable assessments",
+    "Provides a modern blended learning experience (online and in-person/coaching elements)",
+    "Customizable assessment centers tailored to client needs",
+    "Access to an alumni network of leaders for mentoring and networking",
+    "Creates immersive learning experiences for self-development"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Learning & Development",
+    "Talent Management",
+    "Performance Management",
+    "Succession Planning"
+  ],
+  "roi_benefits": [
+    "Enhanced operational efficiency",
+    "Optimized costs",
+    "Boosted hiring manager confidence and productivity",
+    "Faster and more efficient hiring of top talent",
+    "Accelerated skill development and learning efficiency"
+  ],
+  "searchable_keywords": [
+    "Jombay",
+    "Managers",
+    "Leaders",
+    "Assessment Centers",
+    "360 Degree Feedbacks",
+    "Development Programs",
+    "Learning and Development",
+    "Training eLearning software",
+    "Training & development companies",
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    "Learning efficiency",
+    "Skill acquisition",
+    "ECHO360",
+    "Virtual Instructor Led Trainings",
+    "Future Ready Manager Assessment",
+    "Behavioral science",
+    "Succession planning",
+    "Operational efficiency",
+    "Cost optimization",
+    "Immersive learning",
+    "Self development",
+    "Alumni network",
+    "Mentoring",
+    "Networking",
+    "Scientific Assessments",
+    "Blended Learning Experience",
+    "Customizable Assessment Centers"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Learning & Development Teams",
+    "Hiring Managers",
+    "Individual Employees / Learners",
+    "Organizational Leaders"
+  ],
+  "deployment_options": [
+    "Cloud/SaaS"
+  ],
+  "_weight": 1
+}

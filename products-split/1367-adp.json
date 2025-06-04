@@ -1,0 +1,198 @@
+{
+  "id": 1367,
+  "name": "ADP",
+  "description": "Designing better ways to work through cutting-edge products, premium services and exceptional experiences that enable people to reach their full potential. HR, Talent, Time Management, Benefits and Payroll. Informed by data and designed for people.",
+  "features": [
+    "Payroll",
+    "Human Resources",
+    "Time and Attendance"
+  ],
+  "founders": [],
+  "price": [
+    {
+      "name": "",
+      "type": "",
+      "price": "",
+      "description": ""
+    }
+  ],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Compensation management software",
+    "Payroll services providers",
+    "Time tracking",
+    "Employee engagement software",
+    "Benefits administration software",
+    "Employee recognition software",
+    "Performance management system",
+    "Benefits administration services",
+    "Performance management solutions",
+    "Performance Review software",
+    "Sales compensation software"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Employee development",
+    "Employee engagement",
+    "Employee recognition"
+  ],
+  "headquarter": "Roseland, New Jersey",
+  "launch_date": "1949",
+  "order": 33,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "ADP provides comprehensive payroll and HR solutions for businesses of all sizes, from small to large. ",
+  "ProductId": null,
+  "ShortDescription": "ADP - providing solutions that simplify work",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": [
+      {
+        "times": [
+          {
+            "description": ""
+          }
+        ],
+        "header": "",
+        "sequence": 0,
+        "videourl": "",
+        "description": ""
+      }
+    ]
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": " Payroll",
+      "sequence": 0,
+      "description": "Fast, easy, accurate payroll and tax, so you can save time and money."
+    },
+    {
+      "name": "Benefits & Insurance",
+      "sequence": 1,
+      "description": "Employee benefits, flexible administration, business insurance, and retirement plans."
+    },
+    {
+      "name": "Integrations",
+      "sequence": 2,
+      "description": "Quickly connect ADP solutions to popular software, ERPs and other HR systems."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": true,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-12T08:21:10.946Z",
+  "enhanced_description": "ADP provides comprehensive solutions for HR, Talent, Time Management, Benefits, and Payroll. Their offerings include cutting-edge products, premium services, and exceptional experiences designed to enable people to reach their full potential. They focus on fast, easy, and accurate payroll and tax services, comprehensive employee benefits and insurance administration, and robust time and attendance tracking. ADP also offers a wide array of talent management capabilities, including compensation management, performance management, employee engagement, and recognition tools. The solutions are informed by data and designed for people, aiming to simplify work and improve employee happiness and engagement.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Payroll processing and tax management",
+    "Time tracking and attendance management",
+    "Employee benefits administration and insurance",
+    "Core HR management",
+    "Talent acquisition and management",
+    "Compensation management",
+    "Performance management and reviews",
+    "Employee engagement and recognition",
+    "Sales compensation planning"
+  ],
+  "competitive_advantages": [
+    "Comprehensive suite of HR, Payroll, Time, Benefits, and Talent solutions",
+    "Fast, easy, and accurate payroll and tax processing",
+    "Flexible administration for employee benefits and retirement plans",
+    "Robust integration capabilities with popular software, ERPs, and other HR systems",
+    "Focus on improving employee happiness and engagement"
+  ],
+  "hr_functions_supported": [
+    "Payroll Management",
+    "Human Resources (Core HR)",
+    "Time and Attendance",
+    "Talent Management",
+    "Benefits Administration",
+    "Compensation Management",
+    "Performance Management",
+    "Employee Engagement",
+    "Employee Recognition",
+    "Employee Development",
+    "Tax Management",
+    "Sales Compensation"
+  ],
+  "integration_capabilities": [
+    "Connects to popular software",
+    "Connects to ERPs",
+    "Connects to other HR systems"
+  ],
+  "roi_benefits": [
+    "Time savings in payroll and HR administration",
+    "Cost savings through efficient payroll and tax management",
+    "Improved accuracy in payroll and tax processes",
+    "Enhanced employee potential and productivity",
+    "Increased employee happiness and engagement",
+    "Simplified work processes"
+  ],
+  "searchable_keywords": [
+    "ADP",
+    "HR",
+    "Human Resources",
+    "Payroll",
+    "Time Management",
+    "Time and Attendance",
+    "Benefits",
+    "Total Rewards",
+    "Talent Management",
+    "Compensation management software",
+    "Payroll services providers",
+    "Time tracking",
+    "Employee engagement software",
+    "Benefits administration software",
+    "Employee recognition software",
+    "Performance management system",
+    "Benefits administration services",
+    "Performance management solutions",
+    "Performance Review software",
+    "Sales compensation software",
+    "Employee benefits",
+    "Employee development",
+    "Employee engagement",
+    "Employee recognition",
+    "HR solutions",
+    "Payroll solutions",
+    "Tax",
+    "Workforce management"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Payroll Administrators",
+    "Managers",
+    "Employees",
+    "Business Owners"
+  ],
+  "compliance_features": [
+    "Tax compliance"
+  ],
+  "scalability_features": [
+    "Designed for large and global enterprises, indicating inherent scalability for varying workforce sizes and geographical requirements"
+  ],
+  "_weight": 1
+}

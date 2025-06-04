@@ -1,0 +1,142 @@
+{
+  "id": 1323,
+  "name": "Evalgator",
+  "description": "Evalgator is an AI-powered platform for candidate assessment and recruitment. Major modules include an applicant tracking system, a comprehensive assessments module, and a collaborative coding interview module. Evalgator leverages AI, automation, and host of other robust features to simplify and speed up the hiring process while ensuring the integrity of assessments and quality of hires. For a platform packed with features, it is very user-friendly and affordably priced. Its versatility makes it an ideal solution for both technical and non-technical hiring as well other assessment needs.",
+  "features": [
+    "Campus recruitment.",
+    "Lateral hiring.",
+    "Employee assessment.",
+    "Pre-hire training.",
+    "Virtual lab."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Pre-employment testing software"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Interview scheduling"
+  ],
+  "headquarter": "India",
+  "launch_date": "2020",
+  "order": 21142,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "All-in-one Talent Assessment Platform",
+  "ProductId": null,
+  "ShortDescription": "Hire the right talent with our digital assessment and evaluation platform.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:51.625Z",
+  "enhanced_description": "Evalgator is an AI-powered, all-in-one talent assessment and recruitment platform designed to simplify and accelerate the hiring process. It integrates core HR tech functionalities including a full applicant tracking system (ATS), a comprehensive assessments module, and a collaborative coding interview module. Leveraging AI and automation, Evalgator ensures the integrity of assessments and helps improve the quality of hires. Its user-friendly interface and affordable pricing, combined with its versatility for both technical and non-technical roles, make it suitable for various assessment needs, including campus recruitment, lateral hiring, employee assessment, and pre-hire training with virtual lab capabilities.",
+  "key_use_cases": [
+    "Candidate assessment for recruitment",
+    "Applicant tracking and management",
+    "Conducting collaborative coding interviews",
+    "Pre-employment testing for technical roles",
+    "Pre-employment testing for non-technical roles",
+    "Campus recruitment initiatives",
+    "Lateral hiring processes",
+    "Existing employee assessment",
+    "Delivering pre-hire training using virtual labs"
+  ],
+  "competitive_advantages": [
+    "AI-powered platform for enhanced capabilities",
+    "Integration of ATS, assessments, and coding interviews in one platform",
+    "Simplifies and speeds up the hiring process",
+    "Ensures integrity of assessments",
+    "Aids in improving the quality of hires",
+    "User-friendly interface",
+    "Affordably priced",
+    "Versatility for both technical and non-technical hiring",
+    "Leverages automation for efficiency"
+  ],
+  "hr_functions_supported": [
+    "Applicant Tracking",
+    "Candidate Assessment",
+    "Recruitment Management",
+    "Pre-employment Testing",
+    "Employee Assessment",
+    "Pre-hire Training",
+    "Interview Scheduling"
+  ],
+  "technology_stack": [
+    "AI",
+    "Automation"
+  ],
+  "roi_benefits": [
+    "Faster hiring process",
+    "Increased hiring efficiency",
+    "Improved recruiting efficiency",
+    "Enhanced quality of hires",
+    "Cost-effectiveness (affordably priced)",
+    "Ensured integrity of assessments"
+  ],
+  "searchable_keywords": [
+    "Evalgator",
+    "AI-powered",
+    "Candidate assessment",
+    "Recruitment platform",
+    "Applicant tracking system",
+    "ATS",
+    "Assessments module",
+    "Collaborative coding interview",
+    "AI",
+    "Automation",
+    "Hiring process",
+    "Assessment integrity",
+    "Quality of hires",
+    "User-friendly",
+    "Affordable",
+    "Technical hiring",
+    "Non-technical hiring",
+    "Campus recruitment",
+    "Lateral hiring",
+    "Employee assessment",
+    "Pre-hire training",
+    "Virtual lab",
+    "Hiring speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Interview scheduling",
+    "Talent assessment platform",
+    "Digital assessment",
+    "Evaluation platform",
+    "Pre-employment testing software"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Recruiters",
+    "Hiring Managers"
+  ],
+  "_weight": 1
+}

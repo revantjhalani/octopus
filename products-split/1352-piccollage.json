@@ -1,0 +1,157 @@
+{
+  "id": 1352,
+  "name": "PicCollage",
+  "description": "It lets you make collages with images, text, stickers, GIFs and videos, and share with friends and followers. We are building a community of millions of people who create, remix and share visual content in fun and novel ways. PicCollage brings photos and people together.",
+  "features": [
+    "Based On Creative ai",
+    "High Rated app",
+    "Artist Support"
+  ],
+  "founders": [
+    "Jaime Cham"
+  ],
+  "price": [
+    {
+      "name": "",
+      "type": "",
+      "price": "",
+      "description": ""
+    }
+  ],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Internet of things"
+  ],
+  "tags": [
+    "Employee satisfaction",
+    "Employee engagement",
+    "Employee happiness programs"
+  ],
+  "headquarter": "Taiwan",
+  "launch_date": "2007",
+  "order": 999,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Fun, Creative and International",
+  "ProductId": null,
+  "ShortDescription": "PicCollage is a top photo app for iOS and Android with over 200 million downloads.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": [
+      {
+        "times": [
+          {
+            "time": "",
+            "minute": "",
+            "second": "",
+            "description": ""
+          }
+        ],
+        "header": "",
+        "sequence": 0,
+        "videourl": "",
+        "description": ""
+      }
+    ]
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "",
+      "sequence": 0,
+      "description": ""
+    }
+  ],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": true,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-12T06:50:32.706Z",
+  "enhanced_description": "PicCollage is a high-rated, mobile-first creative application available on iOS and Android, boasting over 200 million downloads. It leverages Creative AI to enable users to easily create and remix visual content, including collages with images, text, stickers, GIFs, and videos, which can then be shared with friends and followers, fostering a large community. Despite its primary consumer-facing creative functionality, the product is explicitly positioned to serve HR objectives by improving employee happiness and engagement, and supporting employee satisfaction and happiness programs through fun and novel visual content creation and sharing. The platform also offers dedicated artist support, highlighting its commitment to creative expression.",
+  "key_use_cases": [
+    "Creating visual collages with images, text, stickers, GIFs, and videos",
+    "Sharing visual content with friends and followers",
+    "Building and engaging a community around visual content creation",
+    "Improving employee happiness and engagement initiatives",
+    "Supporting employee satisfaction programs",
+    "Facilitating employee happiness programs"
+  ],
+  "competitive_advantages": [
+    "High user satisfaction and popularity with over 200 million downloads",
+    "Market recognition as a top photo app on iOS and Android",
+    "Leverages Creative AI for enhanced content creation",
+    "Provides dedicated support for artists",
+    "Enables fun and novel ways to create and share visual content"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Employee Happiness Programs",
+    "Employee Satisfaction Initiatives"
+  ],
+  "technology_stack": [
+    "Artificial intelligence",
+    "Creative AI",
+    "Internet of Things"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness",
+    "Enhanced employee engagement",
+    "Increased employee satisfaction"
+  ],
+  "searchable_keywords": [
+    "PicCollage",
+    "collages",
+    "images",
+    "text",
+    "stickers",
+    "GIFs",
+    "videos",
+    "visual content",
+    "photos",
+    "photo app",
+    "creative",
+    "AI",
+    "artificial intelligence",
+    "employee engagement",
+    "employee happiness",
+    "employee satisfaction",
+    "employee programs",
+    "mobile app",
+    "iOS",
+    "Android",
+    "community",
+    "artist support",
+    "fun",
+    "international",
+    "technology",
+    "IoT",
+    "internet of things"
+  ],
+  "primary_users": [
+    "Individuals creating visual content",
+    "Artists",
+    "Employees (in the context of HR initiatives)"
+  ],
+  "deployment_options": [
+    "Mobile Application (iOS, Android)"
+  ],
+  "_weight": 1
+}

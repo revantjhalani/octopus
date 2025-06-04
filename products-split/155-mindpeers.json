@@ -1,0 +1,148 @@
+{
+  "id": 155,
+  "name": "Mindpeers",
+  "description": "Mindpeers believe we\u2019re crazy enough to change the world. Mental health was a stigma because we have never understood its science. Psychology, neuroscience, behavioral science - they tell you that all emotions are important, they reveal why we behave the we do. We\u2019re not going to stop until every individual gives their mind the love and care it deserves, for being proud of taking care of their mental health. And if in this process, someone calls you crazy, we say be crazy because the crazy ones change the world",
+  "features": [
+    "MindBoost: Empowering Teams",
+    "WorkZen: Elevating Engagement",
+    "BalanceWorks: Cultivating Resilience"
+  ],
+  "founders": [
+    "Kanika Agarwal",
+    "Sahil Chitkara"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Health & safety providers",
+    "Performance management system"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee development",
+    "Employee happiness metrics"
+  ],
+  "headquarter": "New Delhi, Delhi",
+  "launch_date": "2020",
+  "order": 20122,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "This Is For Curious Minds",
+  "ProductId": null,
+  "ShortDescription": "Therapy and Evidence based Mental Health Platform",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Local Therapists & Coaches",
+      "sequence": 0,
+      "description": "Native professionals from same region as your teams."
+    },
+    {
+      "name": "Mind-Body Insights",
+      "sequence": 1,
+      "description": "Predictive insights on how your body is affecting your mind & vice versa."
+    },
+    {
+      "name": "Engaging Neuroscience Tools",
+      "sequence": 2,
+      "description": "Grow resilient with art tools, games and journals."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:32.899Z",
+  "enhanced_description": "Mindpeers is an evidence-based mental health platform designed to destigmatize mental health and promote individual and team well-being. Leveraging principles from psychology, neuroscience, and behavioral science, it provides therapy and offers tools to empower employees, elevate engagement, and cultivate resilience within organizations. The platform provides localized support with native therapists and coaches, delivers predictive mind-body insights, and offers engaging neuroscience tools like art therapy, games, and journals.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Providing mental health support and therapy to employees",
+    "Improving employee well-being and happiness",
+    "Boosting employee engagement",
+    "Building and cultivating employee resilience",
+    "Facilitating employee development through mental health tools",
+    "Offering localized professional mental health support (therapists and coaches)",
+    "Providing insights into the correlation between employees' mental and physical health",
+    "Engaging employees with neuroscience-backed interactive tools (e.g., art tools, games, journals)"
+  ],
+  "competitive_advantages": [
+    "Access to local therapists and coaches from the same region as the teams",
+    "Provides predictive mind-body insights on the interrelationship between physical and mental states",
+    "Offers engaging neuroscience tools including art tools, games, and journals for resilience building",
+    "Utilizes an evidence-based approach to mental health support"
+  ],
+  "hr_functions_supported": [
+    "Employee Well-being",
+    "Employee Engagement",
+    "Total Rewards (specifically health benefits)",
+    "Health & Safety",
+    "Employee Development",
+    "HR Analytics (for happiness metrics and mind-body insights)"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness",
+    "Increased employee engagement",
+    "Enhanced employee resilience",
+    "Reduced stigma around mental health in the workplace",
+    "Data-driven insights into employee well-being"
+  ],
+  "searchable_keywords": [
+    "Mindpeers",
+    "Mental health platform",
+    "Employee well-being",
+    "Employee happiness",
+    "Employee engagement",
+    "Therapy",
+    "Evidence-based mental health",
+    "Psychology",
+    "Neuroscience",
+    "Behavioral science",
+    "MindBoost",
+    "WorkZen",
+    "BalanceWorks",
+    "Team empowerment",
+    "Workplace resilience",
+    "Health & safety provider",
+    "Total rewards",
+    "Employee development",
+    "Employee happiness metrics",
+    "Local therapists",
+    "Coaches",
+    "Mind-body insights",
+    "Neuroscience tools",
+    "Art tools",
+    "Games",
+    "Journals"
+  ],
+  "primary_users": [
+    "Employees (as recipients of therapy and users of tools)",
+    "HR professionals (for managing well-being and engagement programs)",
+    "Team leaders/Managers (for supporting team mental health and performance)"
+  ],
+  "_weight": 1
+}

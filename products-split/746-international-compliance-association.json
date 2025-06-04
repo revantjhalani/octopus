@@ -1,0 +1,161 @@
+{
+  "id": 746,
+  "name": "International Compliance Association",
+  "description": "The International Compliance Association (ICA) is the leading professional body for the global regulatory and financial crime compliance community. Since 2001, we have enhanced the knowledge, skills and behaviour of over 160,000 professionals all over the world either through our internationally-recognised portfolio of professional qualifications (awarded in association with Alliance Manchester Business School, the University of Manchester) or through accredited in-company training.",
+  "features": [
+    "Professional membership body",
+    "Specialist qualifications in anti-money laundering",
+    "Compliance and financial crime prevention"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Training management system"
+  ],
+  "tags": [
+    "Learning efficiency",
+    "Adaptive learning",
+    "Training effectiveness"
+  ],
+  "headquarter": "Birmingham, West Midlands",
+  "launch_date": "2001",
+  "order": 20699,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Creating compliance leaders.",
+  "ProductId": null,
+  "ShortDescription": "International Compliance Association is the leading professional body for the global regulatory and financial crime compliance community.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Professional Body for Compliance",
+      "sequence": 0,
+      "description": "The document highlights that the International Compliance Association (ICA) is a professional body. They offer qualifications and training in regulatory and financial crime compliance, suggesting they are a reputable source for compliance education."
+    },
+    {
+      "name": "Variety of Compliance Courses",
+      "sequence": 1,
+      "description": "The ICA offers a variety of courses, including those on anti-money laundering, governance, risk and compliance, and financial crime prevention. This comprehensive course catalog allows them to cater to a wide range of compliance needs."
+    },
+    {
+      "name": "Improved Risk Management",
+      "sequence": 2,
+      "description": "The article states that ICA's courses are designed to help organizations improve their risk management approach and competitive advantage. This suggests that ICA's training can benefit businesses by helping them mitigate risks and gain an edge in the market."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:40.218Z",
+  "enhanced_description": "The International Compliance Association (ICA) is the leading professional body established in 2001, dedicated to empowering the global regulatory and financial crime compliance community. ICA offers internationally-recognized professional qualifications, awarded in association with Alliance Manchester Business School, the University of Manchester, and provides accredited in-company training. Its comprehensive offerings in anti-money laundering (AML), financial crime prevention, governance, and risk are designed to enhance the knowledge, skills, and behavior of professionals, with over 160,000 individuals trained worldwide. The ICA's programs aim to accelerate skill development, improve learning efficiency, and enable organizations to strengthen their risk management approaches and gain a competitive advantage.",
+  "target_industries": [
+    "Financial Services",
+    "Regulated Industries"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Attaining professional certifications and qualifications in compliance",
+    "Developing and enhancing employee skills in regulatory and financial crime compliance",
+    "Delivering accredited in-company training for compliance and financial crime prevention",
+    "Improving organizational risk management strategies and practices",
+    "Building a skilled workforce for compliance leadership roles",
+    "Ensuring adherence to industry regulations and financial crime prevention mandates"
+  ],
+  "competitive_advantages": [
+    "Status as the leading professional body for global regulatory and financial crime compliance",
+    "Internationally recognized professional qualifications awarded in association with Alliance Manchester Business School, the University of Manchester",
+    "Extensive global reach and proven track record, having trained over 160,000 professionals worldwide since 2001",
+    "Comprehensive portfolio of specialist qualifications covering anti-money laundering, compliance, financial crime prevention, governance, and risk",
+    "Programs specifically designed to help organizations improve risk management and achieve competitive advantage"
+  ],
+  "implementation_scenarios": [
+    "Accredited in-company training programs (customized for organizations)",
+    "Professional qualification programs for individuals"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Training Management",
+    "Skill Development",
+    "Compliance Training"
+  ],
+  "roi_benefits": [
+    "Enhanced knowledge, skills, and behavior of compliance professionals",
+    "Improved organizational risk management approach",
+    "Increased competitive advantage for businesses",
+    "Accelerated skill development and improved learning efficiency",
+    "Increased training effectiveness"
+  ],
+  "searchable_keywords": [
+    "International Compliance Association",
+    "ICA",
+    "Professional body",
+    "Regulatory compliance",
+    "Financial crime compliance",
+    "Anti-money laundering",
+    "AML",
+    "Compliance training",
+    "Financial crime prevention",
+    "Risk management",
+    "Governance",
+    "Professional qualifications",
+    "Accredited training",
+    "In-company training",
+    "Learning and Development",
+    "eLearning",
+    "Training management system",
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Compliance leaders",
+    "Compliance certification",
+    "Financial crime"
+  ],
+  "primary_users": [
+    "Compliance professionals",
+    "Financial crime prevention specialists",
+    "Regulatory affairs professionals",
+    "Risk managers",
+    "Individuals seeking professional compliance qualifications",
+    "Learning and Development (L&D) managers",
+    "HR professionals responsible for compliance training"
+  ],
+  "deployment_options": [
+    "Online/eLearning",
+    "On-site/In-company"
+  ],
+  "compliance_features": [
+    "Anti-Money Laundering (AML) compliance training",
+    "Financial Crime Prevention compliance training",
+    "Regulatory compliance education",
+    "Governance, Risk, and Compliance (GRC) training"
+  ],
+  "_weight": 1
+}

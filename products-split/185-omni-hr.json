@@ -1,0 +1,173 @@
+{
+  "id": 185,
+  "name": "Omni HR",
+  "description": "Omni is an HR tech company headquartered in Singapore and with a global footprint. We are a team of experienced HR professionals and passionate technologists who are committed to creating the next-generation employee management platform.\n We take pride in our product and the value we create for our customers. We are constantly seeking improvements and aspire to be the HR software partner that grows together with our customers!",
+  "features": [
+    "96% Reduction in admin tasks",
+    "70% Time saved with automation",
+    "6x Faster onboarding"
+  ],
+  "founders": [
+    "Brian Ip",
+    "YC Chan"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Recruiting",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Resource Information Systems (HRIS)",
+    "Job boards",
+    "Onboarding software"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Hiring automation"
+  ],
+  "headquarter": "Singapore, SG",
+  "launch_date": "2021",
+  "order": 20152,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Automate all your HR processes in a single system",
+  "ProductId": null,
+  "ShortDescription": "Omni frees HR teams from administrative tasks by automating the end-to-end employee lifecycle",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Customer support that truly cares",
+      "sequence": 0,
+      "description": "Our team goes the extra mile to get you solutions for whatever you need."
+    },
+    {
+      "name": "Modern, easy to use",
+      "sequence": 1,
+      "description": "Our intuitive and modern interface ensures that your team get used to the platform in no time."
+    },
+    {
+      "name": "Secure",
+      "sequence": 2,
+      "description": "Omni HR, ISO 27001 certified, ensures maximum employee data protection with end-to-end encryption."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:07.005Z",
+  "enhanced_description": "Omni HR is an HR technology platform headquartered in Singapore with a global footprint, committed to creating a next-generation employee management solution. It aims to automate end-to-end HR processes in a single system, freeing HR teams from administrative tasks and boosting hiring manager confidence and productivity. Omni HR achieves significant efficiency gains, including a 96% reduction in admin tasks, 70% time saved with automation, and 6x faster onboarding. The platform supports core HR functions such as HRIS, HCM, HRMS, recruiting, job boards, and onboarding. It features a modern, easy-to-use interface, dedicated customer support, and robust security measures, being ISO 27001 certified with end-to-end encryption for maximum employee data protection.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Automating end-to-end employee lifecycle management",
+    "Reducing HR administrative tasks",
+    "Streamlining and accelerating the onboarding process",
+    "Improving hiring manager productivity and confidence",
+    "Managing core HR data and processes (HRIS/HRMS/HCM)",
+    "Recruitment and job board management"
+  ],
+  "competitive_advantages": [
+    "Comprehensive automation of HR processes in a single system",
+    "Significant reduction in HR administrative tasks (up to 96%)",
+    "Substantial time savings through automation (up to 70%)",
+    "Accelerated onboarding process (6x faster)",
+    "Modern and intuitive user interface",
+    "Dedicated and responsive customer support",
+    "High level of data security (ISO 27001 certified, end-to-end encryption)"
+  ],
+  "hr_functions_supported": [
+    "HRIS (Human Resource Information Systems)",
+    "HCM (Human Capital Management)",
+    "HRMS (Human Resource Management Systems)",
+    "Recruitment",
+    "Onboarding",
+    "Employee Data Management",
+    "Administrative Task Automation"
+  ],
+  "roi_benefits": [
+    "96% reduction in HR administrative tasks",
+    "70% time savings for HR teams through automation",
+    "6x faster employee onboarding",
+    "Increased HR team efficiency and productivity",
+    "Improved hiring manager productivity and confidence",
+    "Cost savings from reduced manual effort"
+  ],
+  "searchable_keywords": [
+    "Omni HR",
+    "Omni",
+    "HR software",
+    "HR tech",
+    "HRMS",
+    "HCM",
+    "HRIS",
+    "Human Resources Information Systems",
+    "Recruiting software",
+    "Hiring software",
+    "Onboarding software",
+    "Employee management",
+    "HR automation",
+    "Administrative tasks",
+    "Employee lifecycle management",
+    "Job boards",
+    "Automate HR",
+    "HR processes",
+    "Digital HR",
+    "HR platform",
+    "Singapore HR tech",
+    "HR productivity",
+    "Hiring manager productivity",
+    "Modern HR",
+    "Easy to use HR",
+    "Secure HR",
+    "ISO 27001",
+    "Data protection",
+    "End-to-end encryption",
+    "HR support"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "HR Managers",
+    "Hiring Managers",
+    "Employees"
+  ],
+  "compliance_features": [
+    "ISO 27001 certification"
+  ],
+  "scalability_features": [
+    "Supports global operations (global footprint)",
+    "Scalable to support various company sizes (Small, Large, Global Enterprise)",
+    "Designed to grow with customer needs"
+  ],
+  "security_features": [
+    "ISO 27001 certified",
+    "Maximum employee data protection",
+    "End-to-end encryption"
+  ],
+  "_weight": 1
+}

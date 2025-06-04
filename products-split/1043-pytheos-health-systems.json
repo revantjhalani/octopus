@@ -1,0 +1,133 @@
+{
+  "id": 1043,
+  "name": "Pytheos Health Systems",
+  "description": "Pytheos is inspired by the possibilities of pushing the boundary of wellness by applying cutting edge science. We aspire to empower our customers with personalised recommendations and coaching on nutrition, exercise and lifestyle to make an everlasting positive change in health, performance and behaviour. The possibilities were fuelled by advanced diagnostics, sensors, data science, digitised protocols, persuasive and mobile technologies to provide you with the most advanced blueprint for your wellness.",
+  "features": [
+    "Integrated Nutrition & Training Programs",
+    "Athlete Performance Platform",
+    "Corporate Wellness & Fitness Centers"
+  ],
+  "founders": [
+    "Muruganandam Narayanaswamy",
+    "Srinivasa Vivek Jothiprakasam"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee benefits"
+  ],
+  "headquarter": "Bangalore ",
+  "launch_date": "2017",
+  "order": 20986,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Pushing the boundary of Wellness",
+  "ProductId": null,
+  "ShortDescription": "Personalized fitness programs based on blood parameters, metabolic indicators, body composition test and best practices in nutrition and exercise science",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:39:26.755Z",
+  "enhanced_description": "Pytheos Health Systems is a wellness platform that applies cutting-edge science to empower customers with personalized recommendations and coaching. It focuses on nutrition, exercise, and lifestyle to drive positive changes in health, performance, and behavior. The platform provides personalized fitness programs based on advanced diagnostics, including blood parameters, metabolic indicators, and body composition tests, combined with best practices in nutrition and exercise science. Its capabilities are fueled by sensors, data science, digitized protocols, and mobile technologies, aiming to deliver an advanced blueprint for wellness.",
+  "key_use_cases": [
+    "Personalized health and fitness coaching for individuals",
+    "Optimization of athlete performance",
+    "Implementation and management of corporate wellness programs",
+    "Improving employee health and well-being",
+    "Enhancing employee engagement through wellness initiatives"
+  ],
+  "competitive_advantages": [
+    "Application of cutting-edge science in wellness programs",
+    "Utilization of advanced diagnostics (blood parameters, metabolic indicators, body composition test)",
+    "Integration of sensors, data science, and digitized protocols",
+    "Personalized recommendations and coaching",
+    "Mobile technology enablement for wellness programs"
+  ],
+  "hr_functions_supported": [
+    "Employee Well-being",
+    "Corporate Wellness",
+    "Health & Safety",
+    "Employee Benefits",
+    "Employee Engagement"
+  ],
+  "technology_stack": [
+    "Advanced Diagnostics",
+    "Sensors",
+    "Data Science",
+    "Digitized Protocols",
+    "Persuasive Technologies",
+    "Mobile Technologies"
+  ],
+  "roi_benefits": [
+    "Positive change in health, performance, and behavior",
+    "Improved employee happiness and engagement"
+  ],
+  "searchable_keywords": [
+    "Pytheos",
+    "Health Systems",
+    "Wellness",
+    "Nutrition",
+    "Exercise",
+    "Lifestyle",
+    "Health",
+    "Performance",
+    "Behavior",
+    "Diagnostics",
+    "Sensors",
+    "Data Science",
+    "Mobile Technologies",
+    "Personalized Fitness",
+    "Integrated Programs",
+    "Training Programs",
+    "Athlete Performance",
+    "Corporate Wellness",
+    "Fitness Centers",
+    "Total Rewards",
+    "Corporate Wellness Software",
+    "Health & Safety Providers",
+    "Employee Well-being",
+    "Employee Benefits",
+    "Blood Parameters",
+    "Metabolic Indicators",
+    "Body Composition Test",
+    "Nutrition Science",
+    "Exercise Science"
+  ],
+  "primary_users": [
+    "Employees (corporate wellness programs)",
+    "Athletes (performance optimization)",
+    "Individuals seeking personalized health and wellness coaching",
+    "HR Professionals (managing corporate wellness initiatives)",
+    "Corporate Leadership (improving employee happiness and engagement)"
+  ],
+  "_weight": 1
+}

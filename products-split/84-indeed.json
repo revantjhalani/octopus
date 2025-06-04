@@ -1,0 +1,190 @@
+{
+  "id": 84,
+  "name": "Indeed",
+  "description": "Indeed, the world\u2019s #1 job site, connects millions of job seekers and employers globally. With over 350 million monthly visitors, it offers job searches, resume posting, and company research in 60+ countries. Powered by AI, Indeed helps over 3 million employers find and hire new talent, making job matching and hiring efficient and effective.",
+  "features": [
+    " 350M+ Unique monthly visitors",
+    "245M Resumes on Indeed",
+    "940M+ Total ratings and reviews"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Recruiting software",
+    "Recruiting automation software",
+    "Talent acquisition suites",
+    "Applicant tracking system (ATS)",
+    "Onboarding software",
+    "Recruitment marketing platforms",
+    "Staffing services providers",
+    "Job boards",
+    "Recruitment agencies",
+    "Pre-employment screening software"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Quality of hire",
+    "Hiring tools",
+    "Hiring analytics",
+    "Data-driven hiring",
+    "Hiring best practices",
+    "Talent acquisition",
+    "Talent sourcing",
+    "Candidate screening",
+    "Hiring automation",
+    "Hiring Best Practices",
+    "Talent pipeline",
+    "Employee referral program"
+  ],
+  "headquarter": "Austin, Texas",
+  "launch_date": "2004",
+  "order": 20059,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Let\u2019s rebuild the world of work, together. You're here to hire. We're here to help.",
+  "ProductId": null,
+  "ShortDescription": "We Help People Get Jobs",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Free Service",
+      "sequence": 0,
+      "description": " Indeed is a free platform which makes it accessible for everyone and removes a financial barrier for job searching and recruitment."
+    },
+    {
+      "name": "Advanced Search",
+      "sequence": 1,
+      "description": "Indeed offers powerful search filters that allow job seekers to refine their search by industry, location, company size, salary range, and even specific skills. "
+    },
+    {
+      "name": "Mobile App",
+      "sequence": 2,
+      "description": "Indeed's mobile app provides a convenient way for job seekers to search for jobs, manage applications, and receive job alerts on the go."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-22T13:53:35.395Z",
+  "enhanced_description": "Indeed, recognized as the world\u2019s #1 job site, serves as a global connector for millions of job seekers and employers across more than 60 countries. Boasting over 350 million unique monthly visitors and a vast database of 245 million resumes, it empowers over 3 million employers to efficiently find and hire new talent. Leveraging advanced AI, Indeed streamlines job matching and hiring processes, complemented by features like over 940 million total ratings and reviews, powerful advanced search filters (by industry, location, company size, salary, skills), a convenient mobile app, and a fundamental free service component designed to facilitate job searching and recruitment.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global"
+  ],
+  "key_use_cases": [
+    "Job posting and advertisement",
+    "Candidate sourcing and discovery",
+    "Applicant tracking and management",
+    "Candidate screening",
+    "Recruitment marketing",
+    "Talent acquisition strategy development",
+    "Company research for job seekers",
+    "Job search for candidates",
+    "Resume management and posting"
+  ],
+  "competitive_advantages": [
+    "Global market leadership and reach (#1 job site in 60+ countries)",
+    "Massive user base (350M+ monthly visitors, 245M resumes)",
+    "Extensive company ratings and reviews (940M+)",
+    "AI-powered job matching and hiring efficiency",
+    "Accessibility with a free service component (for job seekers and basic employer functions)",
+    "Robust advanced search capabilities",
+    "Convenient mobile application for on-the-go access"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Applicant Tracking",
+    "Onboarding",
+    "Recruitment Marketing",
+    "Pre-employment Screening",
+    "Talent Sourcing",
+    "Candidate Screening",
+    "Employee Referral Program Management"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)"
+  ],
+  "roi_benefits": [
+    "Faster talent acquisition",
+    "Increased hiring efficiency",
+    "Improved quality of hire",
+    "Access to a vast and diverse talent pool",
+    "Data-driven hiring decisions",
+    "Reduced recruitment costs (due to free service options and efficiency gains)"
+  ],
+  "searchable_keywords": [
+    "Indeed",
+    "Job site",
+    "Hiring",
+    "Recruiting",
+    "Talent acquisition",
+    "Job search",
+    "Resume posting",
+    "Employer",
+    "Job seeker",
+    "AI",
+    "Job matching",
+    "Recruiting software",
+    "Recruiting automation",
+    "ATS",
+    "Applicant tracking system",
+    "Onboarding software",
+    "Recruitment marketing",
+    "Staffing services",
+    "Job boards",
+    "Pre-employment screening",
+    "Quality of hire",
+    "Hiring tools",
+    "Hiring analytics",
+    "Data-driven hiring",
+    "Hiring best practices",
+    "Talent sourcing",
+    "Candidate screening",
+    "Talent pipeline",
+    "Employee referral program",
+    "Free service",
+    "Advanced search",
+    "Mobile app",
+    "Global hiring"
+  ],
+  "primary_users": [
+    "Job Seekers",
+    "Employers",
+    "Recruiters",
+    "Hiring Managers"
+  ],
+  "scalability_features": [
+    "Global reach and operations across 60+ countries",
+    "Support for 350M+ monthly visitors and 3M+ employers",
+    "Designed to support small, medium, large, and global enterprises"
+  ],
+  "_weight": 1
+}

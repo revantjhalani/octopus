@@ -1,0 +1,155 @@
+{
+  "id": 242,
+  "name": "Radancy",
+  "description": "We are the leading cloud-based talent acquisition software provider intelligently solving the most critical challenges for enterprises globally and delivering cost-efficient outcomes that strengthen their organizations. The Radancy Talent Acquisition Cloud, powered by rich data and deep industry insights, optimizes the entire candidate journey, enabling enterprises to hire the most qualified talent faster, while reducing costs and driving higher ROI, recruiter efficiency and an improved candidate experience.",
+  "features": [
+    "End-to-End Engagement",
+    "Data-Driven Intelligence",
+    "Expertise and Innovation"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Talent acquisition suites"
+  ],
+  "tags": [
+    "Talent acquisition"
+  ],
+  "headquarter": "New York, New York                        ",
+  "launch_date": "2006",
+  "order": 20208,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Optimize your talent acquisition outcomes and improve your ROI ",
+  "ProductId": null,
+  "ShortDescription": "AI-powered platform designed to maximize your ROI",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Attract & Source",
+      "sequence": 0,
+      "description": "Drive job visibility to qualified talent through a multi-faceted, automation-driven approach."
+    },
+    {
+      "name": "Engage & Inform",
+      "sequence": 1,
+      "description": "Educate candidates on open roles and fit with data-driven personalized experiences."
+    },
+    {
+      "name": "Capture & Convert",
+      "sequence": 2,
+      "description": "Build a qualified talent pipeline with data collection across the entire candidate journey."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:58.793Z",
+  "enhanced_description": "Radancy is a leading cloud-based talent acquisition software provider designed for enterprises globally. Its AI-powered platform, fueled by rich data and deep industry insights, optimizes the entire candidate journey. The solution enables organizations to hire qualified talent faster, reduce costs, drive higher ROI, improve recruiter efficiency, and enhance the candidate experience. Key capabilities include end-to-end engagement, data-driven intelligence, and expertise in innovation, specifically focusing on attracting and sourcing talent through automation, engaging and informing candidates with personalized experiences, and capturing and converting them to build qualified talent pipelines. It also supports boosting hiring manager confidence and productivity.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Optimizing the entire candidate journey",
+    "Accelerating qualified talent acquisition",
+    "Improving recruiter efficiency",
+    "Enhancing candidate experience",
+    "Attracting and sourcing talent through automation",
+    "Engaging and informing candidates with personalized experiences",
+    "Building and managing qualified talent pipelines",
+    "Boosting hiring manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "Cloud-based platform",
+    "AI-powered capabilities",
+    "Data-driven insights for optimization",
+    "End-to-end candidate journey optimization",
+    "Focus on ROI and cost reduction",
+    "Enhanced recruiter efficiency",
+    "Improved candidate experience",
+    "Automation-driven talent attraction and sourcing",
+    "Personalized candidate engagement",
+    "Comprehensive talent pipeline building"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Recruiting",
+    "Candidate Sourcing",
+    "Candidate Relationship Management (CRM)",
+    "Recruiter Efficiency Management",
+    "Hiring Manager Enablement"
+  ],
+  "technology_stack": [
+    "Cloud-based",
+    "AI (Artificial Intelligence)"
+  ],
+  "roi_benefits": [
+    "Reduced talent acquisition costs",
+    "Higher Return on Investment (ROI)",
+    "Increased recruiter efficiency",
+    "Improved candidate experience",
+    "Faster hiring of qualified talent",
+    "Strengthened organizational outcomes",
+    "Boosted hiring manager confidence and productivity"
+  ],
+  "searchable_keywords": [
+    "Radancy",
+    "Talent acquisition",
+    "Recruiting software",
+    "Cloud-based HR",
+    "AI in HR",
+    "Candidate journey optimization",
+    "Recruiter efficiency",
+    "Candidate experience",
+    "ROI in HR",
+    "Enterprise recruiting",
+    "Global talent acquisition",
+    "Talent sourcing",
+    "Candidate engagement",
+    "Talent pipeline",
+    "Hiring manager productivity",
+    "Data-driven recruiting",
+    "HR technology",
+    "Automation in recruiting",
+    "Talent acquisition suites"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Hiring Managers",
+    "Talent Acquisition Leaders",
+    "HR Teams"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "scalability_features": [
+    "Designed for global enterprises",
+    "Cloud-based architecture"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,172 @@
+{
+  "id": 1237,
+  "name": "Damco Solutions",
+  "description": "Damco Solutions is the trusted technology partner of businesses worldwide enabling them to leverage IT as a strategic asset. Empowered by technology expertise, immaculate execution capabilities, and unwavering focus on the customer needs; we have been able to nurture success in multiple technologies and verticals.",
+  "features": [
+    "Empowering Insurance Brokers With a Comprehensive Insurance Broker Management System",
+    "Transparent, Risk-Free Life Settlement Solution",
+    "A Unified Insurance Policy & Claims Management Software",
+    "Field Service Management Software for Efficient On-site Service",
+    "Efficiently Manage Multiple Loans & Credit Lines"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Blockchain",
+    "Internet of things",
+    "Software and Services Related to HR Software",
+    "Machine learning HR"
+  ],
+  "tags": [
+    "Employee development"
+  ],
+  "headquarter": "Plainsboro, New Jersey",
+  "launch_date": "1996",
+  "order": 21068,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Damco: Driving Sustainable Growth through Innovative Solutions",
+  "ProductId": null,
+  "ShortDescription": "Damco Solutions is the trusted technology partner of businesses worldwide enabling them to leverage IT as a strategic asset.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Global Logistics Expertise",
+      "sequence": 0,
+      "description": "Damco provides comprehensive solutions for complex supply chains and international trade. They can help large and mid-sized companies navigate the intricacies of global logistics, ensuring efficient and timely product movement."
+    },
+    {
+      "name": "Industry-Specific Solutions",
+      "sequence": 1,
+      "description": "  Damco goes beyond generic logistics. They offer specialized solutions tailored to the unique needs of industries like automotive, life sciences, and retail. This deep industry knowledge ensures your supply chain is optimized for your specific products."
+    },
+    {
+      "name": "End-to-End Supply Chain Management",
+      "sequence": 2,
+      "description": "Damco takes a holistic approach, managing your entire supply chain from origin to destination. This simplifies logistics for you, allowing you to focus on your core business activities."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:12:51.064Z",
+  "enhanced_description": "Damco Solutions is a technology partner for large enterprises worldwide, enabling them to leverage IT as a strategic asset. The company utilizes advanced technologies such as Artificial Intelligence, Blockchain, Internet of Things, and Machine Learning. Damco offers comprehensive industry-specific solutions, including insurance broker management systems, life settlement solutions, unified insurance policy and claims management software, field service management software, and tools for managing loans and credit lines. Additionally, Damco provides global logistics and end-to-end supply chain management expertise, alongside HR-related software and services aimed at improving employee happiness, engagement, and employee development.",
+  "target_industries": [
+    "Insurance",
+    "Finance",
+    "Lending",
+    "Logistics",
+    "Supply Chain",
+    "Field Service",
+    "Automotive",
+    "Life Sciences",
+    "Retail"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Insurance broker management",
+    "Life settlement solutions",
+    "Insurance policy management",
+    "Claims management",
+    "On-site field service management",
+    "Loan and credit line management",
+    "Global logistics management",
+    "End-to-end supply chain management",
+    "Leveraging IT as a strategic asset",
+    "Improving employee happiness and engagement",
+    "Employee development"
+  ],
+  "competitive_advantages": [
+    "Comprehensive technology expertise (AI, Blockchain, IoT, ML)",
+    "Immaculate execution capabilities",
+    "Unwavering focus on customer needs",
+    "Success across multiple technologies and verticals",
+    "Global logistics expertise",
+    "Industry-specific tailored solutions",
+    "End-to-end supply chain management"
+  ],
+  "hr_functions_supported": [
+    "Employee development",
+    "Employee engagement",
+    "HR software and services (AI/ML powered)"
+  ],
+  "technology_stack": [
+    "Artificial intelligence",
+    "Blockchain",
+    "Internet of things",
+    "Machine learning"
+  ],
+  "roi_benefits": [
+    "Leverage IT as a strategic asset",
+    "Efficient and timely product movement",
+    "Optimized supply chain for specific products",
+    "Simplified logistics",
+    "Focus on core business activities",
+    "Improved employee happiness and engagement",
+    "Efficient management of loans and credit lines",
+    "Efficient on-site service",
+    "Transparent and risk-free life settlement solutions"
+  ],
+  "searchable_keywords": [
+    "Damco Solutions",
+    "IT partner",
+    "Technology solutions",
+    "Insurance Broker Management System",
+    "Life Settlement Solution",
+    "Insurance Policy Management",
+    "Claims Management Software",
+    "Field Service Management Software",
+    "Loan Management",
+    "Credit Line Management",
+    "Artificial intelligence",
+    "AI",
+    "Blockchain",
+    "Internet of things",
+    "IoT",
+    "HR Software",
+    "Machine learning HR",
+    "ML HR",
+    "Employee development",
+    "Global Logistics",
+    "Supply Chain Management",
+    "Industry-Specific Solutions",
+    "Innovative Solutions",
+    "Sustainable Growth"
+  ],
+  "primary_users": [
+    "Insurance brokers",
+    "Field service managers",
+    "Financial institutions (lenders)",
+    "Logistics managers",
+    "Supply chain professionals",
+    "HR professionals",
+    "Business leaders seeking IT strategy"
+  ],
+  "_weight": 1
+}

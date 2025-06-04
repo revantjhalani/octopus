@@ -1,0 +1,119 @@
+{
+  "id": 615,
+  "name": "Globelise",
+  "description": "Globalise is India\u2019s first platform for guided global investing. Through Globalise, customers can access international financial markets and get the necessary guidance to make informed decisions to construct a geographically diversified portfolio. The wealth management platform enables direct investment in a choice of ~4,000 international stocks, funds and ADRs. It provides a cloud-based, integrated digital ecosystem for clients to collaborate with their existing advisors and extend their trusted relationships to build international portfolios. Globalise is led by individuals with strong experience in the financial services industry and operates out of New Delhi and New York.",
+  "features": [
+    ""
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Workforce management",
+    "HR management suites",
+    "Recruitment agencies",
+    "HR consulting providers",
+    "Recruiting automation software",
+    "Software and Services Related to HR Software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Workforce diversity",
+    "Employee diversity"
+  ],
+  "headquarter": "New Delhi",
+  "launch_date": "2018",
+  "order": 20572,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Global Wealth. Local Presence.",
+  "ProductId": null,
+  "ShortDescription": "Globalise is India\u2019s first platform for guided global investing. Through Globalise, customers can access international financial markets and get the necessary guidance to make informed decisions to construct a geographically diversified portfolio.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:31:10.799Z",
+  "enhanced_description": "Globelise (also referred to as Globalise in its description) is an India-based wealth management platform launched in 2018, specializing in guided global investing. It provides customers with access to international financial markets to build geographically diversified investment portfolios. The platform facilitates direct investment in a wide selection of approximately 4,000 international stocks, funds, and American Depository Receipts (ADRs). It operates as a cloud-based, integrated digital ecosystem designed to enable clients to collaborate with their existing financial advisors for building their international portfolios. Globelise aims to make global wealth access local, with operations in New Delhi and New York.",
+  "key_use_cases": [
+    "Guided global investing",
+    "Accessing international financial markets",
+    "Constructing geographically diversified investment portfolios",
+    "Direct investment in international stocks, funds, and ADRs",
+    "Collaborating with financial advisors on international portfolios"
+  ],
+  "competitive_advantages": [
+    "India's first platform for guided global investing",
+    "Offers direct investment in ~4,000 international stocks, funds and ADRs",
+    "Cloud-based, integrated digital ecosystem",
+    "Facilitates collaboration with existing advisors"
+  ],
+  "technology_stack": [
+    "Cloud-based"
+  ],
+  "roi_benefits": [
+    "Enables informed decisions for global investing",
+    "Facilitates construction of geographically diversified portfolios",
+    "Provides direct investment access to international markets"
+  ],
+  "searchable_keywords": [
+    "Globelise",
+    "Globalise",
+    "global investing",
+    "international financial markets",
+    "wealth management",
+    "diversified portfolio",
+    "international stocks",
+    "funds",
+    "ADRs",
+    "cloud-based",
+    "digital ecosystem",
+    "financial advisors",
+    "Global Wealth",
+    "Local Presence",
+    "Talent Management",
+    "Recruiting",
+    "Workforce management",
+    "HR management suites",
+    "Recruitment agencies",
+    "HR consulting providers",
+    "Recruiting automation software",
+    "Software and Services Related to HR Software",
+    "Recruiting software",
+    "Workforce diversity",
+    "Employee diversity"
+  ],
+  "primary_users": [
+    "Customers (investors)",
+    "Financial advisors"
+  ],
+  "deployment_options": [
+    "Cloud (SaaS)"
+  ],
+  "_weight": 1
+}

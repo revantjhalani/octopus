@@ -1,0 +1,177 @@
+{
+  "id": 83,
+  "name": "Infopro Learning",
+  "description": "Infopro Learning\u202fis an award-winning workforce transformation consultancy that unlocks the potential of people to power business performance. As a global leader in talent development and managed learning services, Infopro Learning offers solutions that support the entire lifecycle of learning, from strategy to talent sourcing. Our approach is anchored in innovation, agility, and a distinctive performance driven design that provides a clear, measurable roadmap for achieving organizational objectives and delivering quantifiable outcomes.",
+  "features": [
+    " Building Resilient Leaders",
+    "Hitting Sales Targets",
+    "Creating L&D Efficiencies",
+    "Adopting an Agile Culture"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Training management system",
+    "Training & development companies",
+    "Employee engagement software"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation"
+  ],
+  "headquarter": "Plainsboro, NJ",
+  "launch_date": "1994",
+  "order": 20058,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Powering performance and unlocking potential worldwide.",
+  "ProductId": null,
+  "ShortDescription": "Unlock Potential: Transforming L&D Outcomes for Business Success",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Remote First Learning",
+      "sequence": 0,
+      "description": "Adapting to a digital learning ecosystem for over 50% of the workforce planning to stay remote."
+    },
+    {
+      "name": "Leading Remote Teams",
+      "sequence": 1,
+      "description": "New leadership playbooks are essential for managing remote teams effectively, beyond traditional methods."
+    },
+    {
+      "name": "Using Analytics to Improve Engagement",
+      "sequence": 2,
+      "description": "Measuring how people engage with your business is the first step in improving it."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-20T07:16:27.168Z",
+  "enhanced_description": "Infopro Learning is an award-winning global workforce transformation consultancy and a leader in talent development and managed learning services. They provide innovative, agile, and performance-driven solutions designed to support the entire learning lifecycle, from strategy to talent sourcing, with a clear focus on delivering measurable outcomes. Their services help organizations power business performance by unlocking human potential, accelerating skill development, and improving learning efficiency. Key initiatives include building resilient leaders, achieving sales targets, creating L&D efficiencies, and fostering an agile culture. They specifically address modern workforce challenges such as remote-first learning, developing new leadership playbooks for remote teams, and leveraging analytics to improve employee engagement.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Building Resilient Leaders",
+    "Hitting Sales Targets",
+    "Creating L&D Efficiencies",
+    "Adopting an Agile Culture",
+    "Accelerating Skill Development",
+    "Improving Learning Efficiency",
+    "Adapting to Remote-First Learning Environments",
+    "Leading Remote Teams Effectively",
+    "Improving Employee Engagement through Analytics"
+  ],
+  "competitive_advantages": [
+    "Award-winning workforce transformation consultancy",
+    "Global leadership in talent development and managed learning services",
+    "Performance-driven design with measurable roadmaps and quantifiable outcomes",
+    "Supports the entire lifecycle of learning, from strategy to talent sourcing",
+    "Focus on innovation and agility in learning solutions",
+    "Specialized expertise in remote-first learning and leading remote teams",
+    "Emphasis on using analytics to improve engagement"
+  ],
+  "implementation_scenarios": [
+    "Service-led workforce transformation",
+    "Consulting-based learning strategy and development",
+    "Managed learning services engagement"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Talent Management",
+    "Employee Engagement",
+    "Leadership Development",
+    "Skill Development",
+    "Training Management"
+  ],
+  "roi_benefits": [
+    "Unlocks the potential of people to power business performance",
+    "Provides a clear, measurable roadmap for achieving organizational objectives and delivering quantifiable outcomes",
+    "Accelerates skill development",
+    "Increases learning efficiency",
+    "Improves training effectiveness",
+    "Enhances skill acquisition speed",
+    "Boosts sales performance (hitting sales targets)",
+    "Creates L&D operational efficiencies",
+    "Improves employee engagement"
+  ],
+  "searchable_keywords": [
+    "Infopro Learning",
+    "workforce transformation",
+    "talent development",
+    "managed learning services",
+    "learning lifecycle",
+    "performance driven design",
+    "quantifiable outcomes",
+    "Resilient Leaders",
+    "Sales Targets",
+    "L&D Efficiencies",
+    "Agile Culture",
+    "Skill Development",
+    "Learning Efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Learning and Development",
+    "Talent Management",
+    "Training eLearning software",
+    "Training management system",
+    "Training & development companies",
+    "Employee engagement software",
+    "Powering performance",
+    "unlocking potential",
+    "Transforming L&D Outcomes",
+    "Business Success",
+    "Remote First Learning",
+    "Leading Remote Teams",
+    "Analytics",
+    "Improve Engagement"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "L&D Professionals",
+    "Business Leaders",
+    "Managers",
+    "Team Leaders"
+  ],
+  "scalability_features": [
+    "Designed for Global Enterprise deployment",
+    "Supports Large Enterprise requirements",
+    "Capable of supporting the entire lifecycle of learning for diverse organizations"
+  ],
+  "_weight": 1
+}

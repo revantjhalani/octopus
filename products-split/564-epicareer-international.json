@@ -1,0 +1,131 @@
+{
+  "id": 564,
+  "name": "Epicareer International",
+  "description": "Epicareer is a fast-growing start-up company that aims to deliver products that solve job-finding and recruitment problems using Artificial Intelligence (AI) technology. So we can help to make job-finding and recruitment easier for everyone. We are result-oriented and welcome a fail-fast mentality, ever willing to try out fresh ideas. We encourage a spirit of collaboration, celebrate the success of our colleagues, and practice picking each other up when we inevitably fall. Bureaucracy slows down many companies, so here we built one that practices simple, lean, and efficient processes.",
+  "features": [
+    "Graduate Recruitment",
+    "we can help to make job-finding and recruitment easier for everyone.",
+    "We are result-oriented and welcome a fail-fast mentality"
+  ],
+  "founders": [
+    "Rizky Fadillah",
+    "Denny Santoso",
+    "Aditya Pratama"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Employee engagement software",
+    "Talent acquisition suites",
+    "Recruiting software",
+    "Staffing services providers",
+    "HR consulting providers",
+    "Workforce management",
+    "HR management suites"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "Kuala Lumpur, MY",
+  "launch_date": "2022",
+  "order": 20523,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Find jobs that match with your experience and jobs",
+  "ProductId": null,
+  "ShortDescription": "Epicareer is a fast-growing start-up company that aims to deliver products that solve job-finding and recruitment problems using Artificial Intelligence (AI) technology. So we can help to make job-finding and recruitment easier for everyone.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:30:08.190Z",
+  "enhanced_description": "Epicareer International is a fast-growing start-up leveraging Artificial Intelligence (AI) technology to address both job-finding and recruitment challenges. The company aims to simplify and improve the process for all parties involved, offering solutions designed to help individuals find suitable jobs and organizations efficiently acquire top talent.",
+  "key_use_cases": [
+    "AI-powered job matching for candidates and employers",
+    "Streamlining and simplifying recruitment processes",
+    "Optimizing talent acquisition workflows",
+    "Supporting graduate recruitment initiatives",
+    "Improving hiring efficiency and speed",
+    "Reducing the cost associated with hiring qualified employees",
+    "Boosting hiring manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "Utilizes Artificial Intelligence (AI) technology for problem-solving",
+    "Emphasizes simple, lean, and efficient processes in its operations, potentially translating to product design and user experience"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Talent Management",
+    "Hiring Process Optimization",
+    "Hiring Automation"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)"
+  ],
+  "roi_benefits": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Reduce the Cost of Hiring Qualified Employees",
+    "Make job-finding and recruitment easier for everyone"
+  ],
+  "searchable_keywords": [
+    "Epicareer International",
+    "AI recruitment",
+    "Artificial Intelligence hiring",
+    "job finding AI",
+    "recruitment problems",
+    "job search AI",
+    "talent acquisition",
+    "hiring automation",
+    "hiring process optimization",
+    "data-driven hiring",
+    "graduate recruitment",
+    "recruiting software",
+    "talent management",
+    "HR tech",
+    "talent acquisition suites",
+    "workforce management",
+    "HR management suites",
+    "staffing services",
+    "HR consulting"
+  ],
+  "primary_users": [
+    "Job Seekers",
+    "Recruiters",
+    "Hiring Managers",
+    "Talent Acquisition Teams"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Octopus HRMS Assistant</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 50%, #16213e 100%);
+            min-height: 100vh;
+            overflow: hidden;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            max-width: 1200px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        /* Animated background particles */
+        .particles {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        .particle {
+            position: absolute;
+            width: 4px;
+            height: 4px;
+            background: rgba(138, 43, 226, 0.3);
+            border-radius: 50%;
+            animation: float 6s ease-in-out infinite;
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translateY(0px) rotate(0deg); }
+            50% { transform: translateY(-20px) rotate(180deg); }
+        }
+
+        /* Header */
+        .header {
+            background: rgba(26, 26, 46, 0.95);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid rgba(138, 43, 226, 0.2);
+            padding: 20px 30px;
+            z-index: 10;
+            position: relative;
+        }
+
+        .header-content {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .logo {
+            width: 50px;
+            height: 50px;
+            background: linear-gradient(135deg, #8a2be2 0%, #9d50bb 100%);
+            border-radius: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 8px 32px rgba(138, 43, 226, 0.3);
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+        }
+
+        .logo i {
+            color: white;
+            font-size: 24px;
+        }
+
+        .title-section h1 {
+            color: #ffffff;
+            font-size: 28px;
+            font-weight: 700;
+            margin-bottom: 5px;
+        }
+
+        .title-section p {
+            color: #a0a0b8;
+            font-size: 14px;
+            font-weight: 400;
+        }
+
+        .status {
+            margin-left: auto;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            color: #00ff88;
+            font-size: 14px;
+            font-weight: 500;
+        }
+
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            background: #00ff88;
+            border-radius: 50%;
+            animation: blink 1.5s ease-in-out infinite;
+        }
+
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.3; }
+        }
+
+        /* Chat Container */
+        .chat-container {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            background: rgba(15, 15, 35, 0.4);
+            margin: 20px;
+            border-radius: 20px;
+            border: 1px solid rgba(138, 43, 226, 0.1);
+            backdrop-filter: blur(20px);
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+            z-index: 5;
+        }
+
+        .messages {
+            flex: 1;
+            padding: 30px;
+            overflow-y: auto;
+            scroll-behavior: smooth;
+        }
+
+        .messages::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .messages::-webkit-scrollbar-track {
+            background: rgba(138, 43, 226, 0.1);
+            border-radius: 3px;
+        }
+
+        .messages::-webkit-scrollbar-thumb {
+            background: linear-gradient(135deg, #8a2be2, #9d50bb);
+            border-radius: 3px;
+        }
+
+        .message {
+            margin-bottom: 25px;
+            opacity: 0;
+            animation: slideIn 0.5s ease-out forwards;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .message.user {
+            display: flex;
+            justify-content: flex-end;
+        }
+
+        .message.bot {
+            display: flex;
+            justify-content: flex-start;
+            align-items: flex-start;
+            gap: 12px;
+        }
+
+        .bot-avatar {
+            width: 40px;
+            height: 40px;
+            background: linear-gradient(135deg, #8a2be2 0%, #9d50bb 100%);
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            box-shadow: 0 4px 20px rgba(138, 43, 226, 0.3);
+        }
+
+        .bot-avatar i {
+            color: white;
+            font-size: 18px;
+        }
+
+        .message-content {
+            max-width: 70%;
+            padding: 18px 24px;
+            border-radius: 20px;
+            font-size: 15px;
+            line-height: 1.6;
+            position: relative;
+        }
+
+        .message.user .message-content {
+            background: linear-gradient(135deg, #8a2be2 0%, #9d50bb 100%);
+            color: white;
+            box-shadow: 0 8px 32px rgba(138, 43, 226, 0.3);
+        }
+
+        .message.bot .message-content {
+            background: rgba(26, 26, 46, 0.8);
+            color: #e0e0f0;
+            border: 1px solid rgba(138, 43, 226, 0.2);
+            backdrop-filter: blur(10px);
+        }
+
+        .typing-indicator {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 25px;
+            opacity: 0;
+        }
+
+        .typing-indicator.show {
+            animation: slideIn 0.3s ease-out forwards;
+        }
+
+        .typing-dots {
+            display: flex;
+            gap: 4px;
+            padding: 18px 24px;
+            background: rgba(26, 26, 46, 0.8);
+            border-radius: 20px;
+            border: 1px solid rgba(138, 43, 226, 0.2);
+            backdrop-filter: blur(10px);
+        }
+
+        .typing-dot {
+            width: 8px;
+            height: 8px;
+            background: #8a2be2;
+            border-radius: 50%;
+            animation: typing 1.4s ease-in-out infinite;
+        }
+
+        .typing-dot:nth-child(2) { animation-delay: 0.2s; }
+        .typing-dot:nth-child(3) { animation-delay: 0.4s; }
+
+        @keyframes typing {
+            0%, 60%, 100% { transform: translateY(0); }
+            30% { transform: translateY(-10px); }
+        }
+
+        /* Input Area */
+        .input-area {
+            padding: 25px 30px;
+            background: rgba(26, 26, 46, 0.95);
+            border-top: 1px solid rgba(138, 43, 226, 0.2);
+            backdrop-filter: blur(20px);
+        }
+
+        .input-container {
+            display: flex;
+            gap: 15px;
+            align-items: flex-end;
+        }
+
+        .input-wrapper {
+            flex: 1;
+            position: relative;
+        }
+
+        #messageInput {
+            width: 100%;
+            min-height: 50px;
+            max-height: 120px;
+            padding: 15px 20px;
+            background: rgba(15, 15, 35, 0.8);
+            border: 2px solid rgba(138, 43, 226, 0.3);
+            border-radius: 25px;
+            color: #ffffff;
+            font-size: 15px;
+            font-family: 'Inter', sans-serif;
+            resize: none;
+            outline: none;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+        }
+
+        #messageInput:focus {
+            border-color: #8a2be2;
+            box-shadow: 0 0 20px rgba(138, 43, 226, 0.3);
+        }
+
+        #messageInput::placeholder {
+            color: #a0a0b8;
+        }
+
+        .send-button {
+            width: 50px;
+            height: 50px;
+            background: linear-gradient(135deg, #8a2be2 0%, #9d50bb 100%);
+            border: none;
+            border-radius: 25px;
+            color: white;
+            font-size: 18px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 8px 32px rgba(138, 43, 226, 0.3);
+        }
+
+        .send-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 12px 40px rgba(138, 43, 226, 0.4);
+        }
+
+        .send-button:active {
+            transform: translateY(0);
+        }
+
+        .send-button:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        /* Welcome Message */
+        .welcome-message {
+            text-align: center;
+            padding: 60px 40px;
+            color: #a0a0b8;
+        }
+
+        .welcome-message h2 {
+            color: #ffffff;
+            font-size: 32px;
+            font-weight: 700;
+            margin-bottom: 15px;
+            background: linear-gradient(135deg, #8a2be2, #9d50bb);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .welcome-message p {
+            font-size: 18px;
+            line-height: 1.6;
+            margin-bottom: 30px;
+        }
+
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-top: 40px;
+        }
+
+        .feature {
+            background: rgba(26, 26, 46, 0.6);
+            border: 1px solid rgba(138, 43, 226, 0.2);
+            border-radius: 15px;
+            padding: 25px;
+            text-align: left;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+        }
+
+        .feature:hover {
+            transform: translateY(-5px);
+            border-color: #8a2be2;
+            box-shadow: 0 10px 30px rgba(138, 43, 226, 0.2);
+        }
+
+        .feature i {
+            color: #8a2be2;
+            font-size: 24px;
+            margin-bottom: 15px;
+        }
+
+        .feature h3 {
+            color: #ffffff;
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        .feature p {
+            color: #a0a0b8;
+            font-size: 14px;
+            line-height: 1.5;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .container {
+                padding: 0;
+            }
+
+            .header {
+                padding: 15px 20px;
+            }
+
+            .chat-container {
+                margin: 10px;
+                border-radius: 15px;
+            }
+
+            .messages {
+                padding: 20px;
+            }
+
+            .message-content {
+                max-width: 85%;
+                padding: 15px 18px;
+            }
+
+            .input-area {
+                padding: 20px;
+            }
+
+            .welcome-message {
+                padding: 40px 20px;
+            }
+
+            .welcome-message h2 {
+                font-size: 24px;
+            }
+
+            .features {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="particles" id="particles"></div>
+    
+    <div class="container">
+        <header class="header">
+            <div class="header-content">
+                <div class="logo">
+                    <i class="fas fa-robot"></i>
+                </div>
+                <div class="title-section">
+                    <h1>Octopus HRMS Assistant</h1>
+                    <p>Your intelligent HR companion powered by AI</p>
+                </div>
+                <div class="status">
+                    <div class="status-dot"></div>
+                    Online
+                </div>
+            </div>
+        </header>
+
+        <div class="chat-container">
+            <div class="messages" id="messages">
+                <div class="welcome-message" id="welcomeMessage">
+                    <h2>👋 Welcome to Octopus HRMS</h2>
+                    <p>I'm your intelligent HR assistant, ready to help you with all your human resource management needs. Ask me anything about HR products, policies, or best practices!</p>
+                    
+                    <div class="features">
+                        <div class="feature">
+                            <i class="fas fa-search"></i>
+                            <h3>Find HRMS Products</h3>
+                            <p>Get personalized recommendations for HR software solutions</p>
+                        </div>
+                        <div class="feature">
+                            <i class="fas fa-question-circle"></i>
+                            <h3>HR Expertise</h3>
+                            <p>Ask questions about hiring, policies, and talent management</p>
+                        </div>
+                        <div class="feature">
+                            <i class="fas fa-chart-line"></i>
+                            <h3>Analytics & Insights</h3>
+                            <p>Get data-driven insights for your HR strategies</p>
+                        </div>
+                        <div class="feature">
+                            <i class="fas fa-cogs"></i>
+                            <h3>Process Optimization</h3>
+                            <p>Streamline your HR workflows and procedures</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="input-area">
+                <div class="input-container">
+                    <div class="input-wrapper">
+                        <textarea 
+                            id="messageInput" 
+                            placeholder="Ask me anything about HRMS, hiring, or HR best practices..."
+                            rows="1"
+                        ></textarea>
+                    </div>
+                    <button class="send-button" id="sendButton">
+                        <i class="fas fa-paper-plane"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        class OctopusChat {
+            constructor() {
+                this.sessionId = null;
+                this.isLoading = false;
+                this.initializeElements();
+                this.setupEventListeners();
+                this.createParticles();
+                this.autoResize();
+            }
+
+            initializeElements() {
+                this.messagesContainer = document.getElementById('messages');
+                this.messageInput = document.getElementById('messageInput');
+                this.sendButton = document.getElementById('sendButton');
+                this.welcomeMessage = document.getElementById('welcomeMessage');
+            }
+
+            setupEventListeners() {
+                this.sendButton.addEventListener('click', () => this.sendMessage());
+                this.messageInput.addEventListener('keydown', (e) => {
+                    if (e.key === 'Enter' && !e.shiftKey) {
+                        e.preventDefault();
+                        this.sendMessage();
+                    }
+                });
+
+                this.messageInput.addEventListener('input', () => this.autoResize());
+            }
+
+            autoResize() {
+                this.messageInput.style.height = 'auto';
+                this.messageInput.style.height = Math.min(this.messageInput.scrollHeight, 120) + 'px';
+            }
+
+            createParticles() {
+                const particlesContainer = document.getElementById('particles');
+                const particleCount = 20;
+
+                for (let i = 0; i < particleCount; i++) {
+                    const particle = document.createElement('div');
+                    particle.className = 'particle';
+                    particle.style.left = Math.random() * 100 + '%';
+                    particle.style.top = Math.random() * 100 + '%';
+                    particle.style.animationDelay = Math.random() * 6 + 's';
+                    particle.style.animationDuration = (Math.random() * 4 + 4) + 's';
+                    particlesContainer.appendChild(particle);
+                }
+            }
+
+            hideWelcomeMessage() {
+                if (this.welcomeMessage) {
+                    this.welcomeMessage.style.opacity = '0';
+                    this.welcomeMessage.style.transform = 'translateY(-20px)';
+                    setTimeout(() => {
+                        this.welcomeMessage.style.display = 'none';
+                    }, 300);
+                }
+            }
+
+            addMessage(content, isUser = false, isComplete = true) {
+                this.hideWelcomeMessage();
+
+                const messageDiv = document.createElement('div');
+                messageDiv.className = `message ${isUser ? 'user' : 'bot'}`;
+
+                if (isUser) {
+                    messageDiv.innerHTML = `
+                        <div class="message-content">${this.escapeHtml(content)}</div>
+                    `;
+                } else {
+                    messageDiv.innerHTML = `
+                        <div class="bot-avatar">
+                            <i class="fas fa-robot"></i>
+                        </div>
+                        <div class="message-content" id="bot-message-${Date.now()}">${content}</div>
+                    `;
+                }
+
+                this.messagesContainer.appendChild(messageDiv);
+                this.scrollToBottom();
+                return messageDiv;
+            }
+
+            showTypingIndicator() {
+                const typingDiv = document.createElement('div');
+                typingDiv.className = 'typing-indicator';
+                typingDiv.id = 'typing-indicator';
+                typingDiv.innerHTML = `
+                    <div class="bot-avatar">
+                        <i class="fas fa-robot"></i>
+                    </div>
+                    <div class="typing-dots">
+                        <div class="typing-dot"></div>
+                        <div class="typing-dot"></div>
+                        <div class="typing-dot"></div>
+                    </div>
+                `;
+
+                this.messagesContainer.appendChild(typingDiv);
+                setTimeout(() => typingDiv.classList.add('show'), 100);
+                this.scrollToBottom();
+                return typingDiv;
+            }
+
+            hideTypingIndicator() {
+                const typingIndicator = document.getElementById('typing-indicator');
+                if (typingIndicator) {
+                    typingIndicator.remove();
+                }
+            }
+
+            escapeHtml(text) {
+                const div = document.createElement('div');
+                div.textContent = text;
+                return div.innerHTML;
+            }
+
+            formatMessage(text) {
+                // Convert markdown-like formatting
+                text = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+                text = text.replace(/\*(.*?)\*/g, '<em>$1</em>');
+                text = text.replace(/\n/g, '<br>');
+                
+                // Convert bullet points
+                text = text.replace(/^\*\s+(.+)$/gm, '<li>$1</li>');
+                text = text.replace(/(<li>.*<\/li>)/s, '<ul>$1</ul>');
+                
+                return text;
+            }
+
+            scrollToBottom() {
+                this.messagesContainer.scrollTop = this.messagesContainer.scrollHeight;
+            }
+
+            async sendMessage() {
+                const message = this.messageInput.value.trim();
+                if (!message || this.isLoading) return;
+
+                this.isLoading = true;
+                this.sendButton.disabled = true;
+                this.messageInput.disabled = true;
+
+                // Add user message
+                this.addMessage(message, true);
+                this.messageInput.value = '';
+                this.autoResize();
+
+                // Show typing indicator
+                const typingIndicator = this.showTypingIndicator();
+
+                try {
+                    const response = await fetch('/api/chat/stream', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                            'Accept': 'text/event-stream',
+                        },
+                        body: JSON.stringify({
+                            message: message,
+                            session_id: this.sessionId,
+                            user_id: 'web-user'
+                        })
+                    });
+
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+
+                    const reader = response.body.getReader();
+                    const decoder = new TextDecoder();
+                    let botMessage = null;
+                    let fullResponse = '';
+
+                    this.hideTypingIndicator();
+
+                    while (true) {
+                        const { value, done } = await reader.read();
+                        if (done) break;
+
+                        const chunk = decoder.decode(value);
+                        const lines = chunk.split('\n');
+
+                        for (const line of lines) {
+                            if (line.startsWith('data: ')) {
+                                try {
+                                    const data = JSON.parse(line.slice(6));
+                                    
+                                    if (data.type === 'session') {
+                                        this.sessionId = data.session_id;
+                                    } else if (data.type === 'content') {
+                                        if (!botMessage) {
+                                            botMessage = this.addMessage('', false);
+                                        }
+                                        fullResponse += data.content;
+                                        const messageContent = botMessage.querySelector('.message-content');
+                                        messageContent.innerHTML = this.formatMessage(fullResponse);
+                                        this.scrollToBottom();
+                                    } else if (data.type === 'done') {
+                                        break;
+                                    } else if (data.type === 'error') {
+                                        console.error('Stream error:', data.error);
+                                        if (!botMessage) {
+                                            this.addMessage('Sorry, I encountered an error. Please try again.', false);
+                                        }
+                                    }
+                                } catch (e) {
+                                    console.error('Error parsing JSON:', e);
+                                }
+                            }
+                        }
+                    }
+
+                } catch (error) {
+                    console.error('Error:', error);
+                    this.hideTypingIndicator();
+                    this.addMessage('Sorry, I\'m having trouble connecting. Please check your connection and try again.', false);
+                } finally {
+                    this.isLoading = false;
+                    this.sendButton.disabled = false;
+                    this.messageInput.disabled = false;
+                    this.messageInput.focus();
+                }
+            }
+        }
+
+        // Initialize the chat when the page loads
+        document.addEventListener('DOMContentLoaded', () => {
+            new OctopusChat();
+        });
+    </script>
+</body>
+</html>

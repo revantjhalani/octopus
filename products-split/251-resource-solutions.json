@@ -1,0 +1,153 @@
+{
+  "id": 251,
+  "name": "Resource Solutions",
+  "description": "As part of the Robert Walters Group, resource solutions offer a suite of tailored, premium, end-to-end recruitment solutions and a global footprint across 31 countries. We strive to make a positive social impact through solutions that champion untapped and underrepresented talent. As powerful talent partners we put expertise, intelligence and innovation at the forefront to redefine work so everyone has a lifetime of opportunity. Our outsourced permanent and contingent talent solutions are underpinned by 24/5 Global Service and powered by our Centre of Expertise (CoE), enabling our partners to scale and rapidly advance their business agendas. RS Consultancy's award-winning Diverse Hiring Practitioners can help organisations to audit and re-engineer their recruitment processes and content to minimise bias and foster inclusive hiring practices. Our suite of Workforce Consultancy services empowers graduates, job changers and skilled professionals, providing them with accredited training courses to enhance and develop their careers, whilst providing businesses with a responsible and sustainable talent pipeline.",
+  "features": [
+    "supportive and experienced managers",
+    "Our leadership is open and direct",
+    "Smart working and flexible benefits"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Onboarding software"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Talent acquisition"
+  ],
+  "headquarter": "London, UK",
+  "launch_date": "1997",
+  "order": 20216,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "We redefine work so everyone\n has a lifetime of opportunity.",
+  "ProductId": null,
+  "ShortDescription": "A leading global provider of outsourced recruitment and consultancy solutions, Resource Solutions supports organisations to build, connect and optimise their workforce to face the challenges of tomorrow.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:07.012Z",
+  "enhanced_description": "Resource Solutions, a prominent part of the Robert Walters Group, offers a comprehensive suite of tailored, premium, end-to-end talent solutions globally across 31 countries. Their core services encompass outsourced permanent and contingent recruitment, underpinned by 24/5 Global Service and powered by their Centre of Expertise (CoE). They specialize in fostering inclusive hiring through RS Consultancy, which provides award-winning Diverse Hiring Practitioners to audit and re-engineer recruitment processes and content, minimizing bias and championing untapped and underrepresented talent. Additionally, their Workforce Consultancy empowers individuals with accredited training courses to enhance career development, while simultaneously providing businesses with a responsible and sustainable talent pipeline. As indicated by their sub-categories, their offerings also extend to supporting recruiting software and onboarding software functionalities, positioning them as a holistic partner dedicated to redefining work and creating lifetime opportunities while boosting hiring manager confidence and productivity.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Outsourced permanent talent acquisition",
+    "Outsourced contingent talent acquisition",
+    "Auditing and re-engineering recruitment processes for bias minimization",
+    "Fostering inclusive hiring practices",
+    "Developing sustainable talent pipelines for businesses",
+    "Providing accredited career development training for professionals",
+    "Boosting hiring manager confidence",
+    "Improving hiring manager productivity",
+    "Building and optimizing workforce capabilities"
+  ],
+  "competitive_advantages": [
+    "Part of the Robert Walters Group",
+    "Global footprint across 31 countries",
+    "24/5 Global Service",
+    "Powered by Centre of Expertise (CoE)",
+    "Specialization in championing untapped and underrepresented talent",
+    "Award-winning Diverse Hiring Practitioners",
+    "Expertise, intelligence, and innovation at the forefront",
+    "Offers end-to-end recruitment solutions",
+    "Provides accredited training courses"
+  ],
+  "implementation_scenarios": [
+    "Recruitment Process Outsourcing (RPO)",
+    "Consultancy engagement for process optimization",
+    "Managed service for talent acquisition"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Onboarding",
+    "Workforce Planning",
+    "Workforce Development",
+    "Diversity, Equity, and Inclusion (DEI)"
+  ],
+  "roi_benefits": [
+    "Boosts Hiring Manager Confidence",
+    "Increases Hiring Manager Productivity",
+    "Enables businesses to scale operations rapidly",
+    "Accelerates business agenda advancement",
+    "Minimizes bias in recruitment processes",
+    "Fosters inclusive hiring practices",
+    "Ensures a responsible and sustainable talent pipeline"
+  ],
+  "searchable_keywords": [
+    "Resource Solutions",
+    "Robert Walters Group",
+    "Outsourced recruitment",
+    "Recruitment solutions",
+    "Global recruitment",
+    "Talent solutions",
+    "Permanent talent",
+    "Contingent talent",
+    "Centre of Expertise",
+    "CoE",
+    "Diverse hiring",
+    "Inclusive hiring",
+    "Bias minimization",
+    "Workforce consultancy",
+    "Accredited training",
+    "Talent pipeline",
+    "Hiring",
+    "Recruiting",
+    "Talent acquisition",
+    "Recruiting software",
+    "Onboarding software",
+    "Hiring Manager Confidence",
+    "Hiring Manager Productivity",
+    "Workforce optimization",
+    "RPO"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "Organizations/Businesses (Clients)",
+    "HR Leaders",
+    "Talent Acquisition Leaders",
+    "Graduates",
+    "Job Changers",
+    "Skilled Professionals"
+  ],
+  "deployment_options": [
+    "Outsourced Service Model",
+    "Consultancy Service"
+  ],
+  "scalability_features": [
+    "Global service delivery across 31 countries",
+    "24/5 Global Service support",
+    "Designed to enable partners to scale business operations"
+  ],
+  "_weight": 1
+}

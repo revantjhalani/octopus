@@ -1,0 +1,169 @@
+{
+  "id": 1368,
+  "name": "Atlas",
+  "description": "As the largest Direct Employer of Record (EOR), Atlas is an expertise-enabled technology platform that delivers flexibility for companies to expand across borders, onboard talent, manage compliance, and pay their global workforce without the need for a local entity or multiple third-party providers. \n\nWith entities in over 160 countries, Atlas brings localized experience & expertise into an enterprise-grade technology platform that supports thousands of companies and remote teams. ",
+  "features": [
+    "Hire and pay talent without borders.",
+    "Manage the employee lifecycle from onboarding to payroll.",
+    "Cut through the red tape of global compliance."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Payroll services providers",
+    "Workforce management",
+    "Employee engagement software",
+    "Talent management software"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Employee engagement",
+    "Company culture",
+    "Employee Benefits",
+    "Employee development",
+    "Employee empowerment"
+  ],
+  "headquarter": "Chicago, Illinois",
+  "launch_date": "2015",
+  "order": 49,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Guides companies on their  journeys with solutions that enable talent management.",
+  "ProductId": null,
+  "ShortDescription": "Atlas enables innovative companies to compete in a global economy, believing that businesses should employ whomever they want, wherever the talent exists. ",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Global Talent, Simplified",
+      "sequence": 0,
+      "description": "AtlasHXM's platform streamlines hiring and managing staff, allowing businesses to focus on growth without the complexities of international employment regulations."
+    },
+    {
+      "name": "Compliance Confidence",
+      "sequence": 1,
+      "description": "AtlasHXM acts as the Employer of Record (EOR), taking on legal and administrative responsibilities for you. This frees your company from managing payroll, taxes, and other HR burdens in each location."
+    },
+    {
+      "name": "Build Borderless Teams",
+      "sequence": 2,
+      "description": "AtlasHXM provides a user-friendly platform for onboarding, managing, and paying your international talent. This empowers businesses to quickly build and scale remote teams with top performers."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-12T08:23:45.326Z",
+  "enhanced_description": "Atlas is positioned as the largest Direct Employer of Record (EOR), offering an expertise-enabled technology platform designed to provide companies with the flexibility needed for international expansion. It streamlines the process of expanding across borders, onboarding talent, managing compliance, and paying a global workforce, eliminating the need for a local entity or multiple third-party providers. Operating with entities in over 160 countries, Atlas integrates localized experience and expertise into an enterprise-grade technology platform that supports thousands of companies and remote teams. The platform simplifies global talent management, from hiring and onboarding to payroll, by acting as the EOR, thereby taking on legal and administrative responsibilities and freeing companies from managing international employment complexities, taxes, and other HR burdens in various locations. This empowers businesses to efficiently build and scale remote teams with top global performers.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Expanding operations across international borders",
+    "Onboarding global talent without establishing local entities",
+    "Managing international compliance for a global workforce",
+    "Processing payroll for employees in multiple countries",
+    "Hiring talent from anywhere in the world",
+    "Managing the entire employee lifecycle for a global workforce",
+    "Building and scaling remote teams internationally"
+  ],
+  "competitive_advantages": [
+    "Largest Direct Employer of Record (EOR)",
+    "Extensive global reach with entities in over 160 countries",
+    "Expertise-enabled technology platform",
+    "Provides flexibility for cross-border expansion without local entities or multiple third-party providers",
+    "Offers localized experience and expertise",
+    "Takes on legal and administrative responsibilities as EOR",
+    "Frees companies from managing international payroll, taxes, and HR burdens"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Total Rewards",
+    "Payroll services",
+    "Workforce management",
+    "Employee engagement",
+    "Onboarding",
+    "Global HR compliance",
+    "Employee benefits management",
+    "Employee development support",
+    "Employee empowerment initiatives"
+  ],
+  "roi_benefits": [
+    "Improved flexibility for global expansion",
+    "Reduced complexity of international employment regulations",
+    "Freed company resources from managing international payroll, taxes, and HR burdens",
+    "Ability to quickly build and scale remote teams",
+    "Access to top global talent regardless of location"
+  ],
+  "searchable_keywords": [
+    "Atlas",
+    "EOR",
+    "Employer of Record",
+    "Global HR",
+    "International HR",
+    "Global employment",
+    "Cross-border expansion",
+    "Talent management",
+    "Total rewards",
+    "Payroll services",
+    "Workforce management",
+    "Employee engagement",
+    "Compliance",
+    "Global workforce",
+    "Onboarding",
+    "Remote teams",
+    "Global talent",
+    "HR tech",
+    "Borderless teams",
+    "Global economy",
+    "Employee benefits",
+    "Employee development",
+    "Employee empowerment",
+    "Company culture",
+    "Human Resources"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "Businesses expanding globally",
+    "Companies with remote teams",
+    "Businesses seeking global talent"
+  ],
+  "compliance_features": [
+    "Manages global compliance",
+    "Cuts through the red tape of global compliance",
+    "Acts as Employer of Record (EOR) to take on legal and administrative responsibilities",
+    "Frees companies from managing payroll, taxes, and other HR burdens in each location",
+    "Provides localized experience and expertise in over 160 countries"
+  ],
+  "scalability_features": [
+    "Supports thousands of companies and remote teams",
+    "Empowers businesses to quickly build and scale remote teams",
+    "Designed for Small, Large, and Global Enterprises"
+  ],
+  "_weight": 1
+}

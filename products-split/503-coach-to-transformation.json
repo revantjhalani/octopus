@@ -1,0 +1,134 @@
+{
+  "id": 503,
+  "name": "Coach to Transformation",
+  "description": "We are a Global Coaching Company started in India. We serve our clients across the globe today with the help of our presence in 11 countries. We have a highly experienced core team (all credentialed coaches), a powerful network of International Coach Federation (ICF) certified coaches across the globe, and technology solutions to address an organization\u2019s coaching and coach training requirements. We serve large corporate clients and also individuals from all walks of life, from CXO s to first-time managers. We contribute to society by offering pro-Bono coaching to students and the social sector.",
+  "features": [
+    "Highly experienced and certified mentor coaches",
+    " Continuous learning support during and post training",
+    "Global cohorts of CXO, Business, HR and IT leade"
+  ],
+  "founders": [
+    "Rajat Garg"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Learning Experience Systems (LXPs)",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Learning efficiency",
+    "Adaptive learning",
+    "Personalised learning",
+    "Training methodologies"
+  ],
+  "headquarter": "Bengaluru, Karnataka",
+  "launch_date": "2014",
+  "order": 20463,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "A Global Leadership Coaching Company",
+  "ProductId": null,
+  "ShortDescription": "We are a Global Coaching Company started in India. We serve our clients across the globe today with the help of our presence in 11 countries.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:28:50.993Z",
+  "enhanced_description": "Coach to Transformation is a global leadership coaching company, founded in India in 2014, with an operational presence across 11 countries. The company provides comprehensive coaching and coach training solutions leveraging advanced technology, including elements of Training eLearning software, Learning Experience Systems (LXPs), and Artificial Intelligence. Their services are designed to accelerate skill development and enhance learning efficiency for a diverse client base, ranging from large corporate clients, including global cohorts of CXOs, Business, HR, and IT leaders, to first-time managers and individuals across all walks of life. The organization prides itself on a highly experienced core team of credentialed coaches and an extensive global network of International Coach Federation (ICF) certified coaches, offering continuous learning support both during and post-training. Additionally, Coach to Transformation contributes to society through pro-Bono coaching for students and the social sector.",
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Executive Coaching",
+    "Leadership Development",
+    "Skill Development",
+    "Coach Training",
+    "Continuous Learning Support"
+  ],
+  "competitive_advantages": [
+    "Global presence across 11 countries",
+    "Highly experienced and credentialed core coaching team",
+    "Extensive network of ICF certified coaches globally",
+    "Technology-enabled coaching and training solutions",
+    "Continuous learning support post-training"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Talent Development",
+    "Leadership Development"
+  ],
+  "technology_stack": [
+    "Training eLearning software",
+    "Learning Experience Systems (LXPs)",
+    "Artificial intelligence"
+  ],
+  "roi_benefits": [
+    "Accelerated Skill Development",
+    "Improved Learning Efficiency"
+  ],
+  "searchable_keywords": [
+    "Coaching",
+    "Leadership Coaching",
+    "Executive Coaching",
+    "Coach Training",
+    "Skill Development",
+    "Learning & Development",
+    "eLearning",
+    "LXP",
+    "Learning Experience Platform",
+    "Artificial Intelligence",
+    "AI",
+    "Personalised Learning",
+    "Adaptive Learning",
+    "Training Methodologies",
+    "Global Coaching",
+    "ICF certified coaches",
+    "Corporate Coaching",
+    "Enterprise Coaching",
+    "Transformation"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Learning & Development Managers",
+    "Business Leaders",
+    "CXOs",
+    "IT Leaders",
+    "First-time Managers",
+    "Individual Contributors"
+  ],
+  "compliance_features": [
+    "Adherence to International Coach Federation (ICF) standards"
+  ],
+  "scalability_features": [
+    "Global delivery capability",
+    "Capacity to serve large enterprise clients globally",
+    "Extensive global coach network"
+  ],
+  "_weight": 1
+}

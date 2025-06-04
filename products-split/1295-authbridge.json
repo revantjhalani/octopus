@@ -1,0 +1,185 @@
+{
+  "id": 1295,
+  "name": "Authbridge",
+  "description": "Our products are a result of the marriage between compliance and technology. All our products are built on AI-driven technologies like facial recognition, liveness detection, data extraction and optical character recognition to verify national identity documents, educational and professional documents. We are data security compliant and use our proprietary database along with public databases for instant searches and verification. Our identity management and verification products automate mundane compliance and verification processes helping you build a solid workforce and a verified customer base to eliminate risks of fraud, thereby restoring trust.",
+  "features": [
+    "Employee Background Screening",
+    "Know Your Customer (KYC) Screening",
+    "AuthLead - Authenticating the Leaders",
+    "Substance Abuse Testing",
+    "Background Verification"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Pre-employment screening software",
+    "Background check software",
+    "Pre-employment testing software",
+    "Reference check software",
+    "Recruiting automation software",
+    "Applicant tracking system (ATS)"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Talent acquisition",
+    "Candidate screening"
+  ],
+  "headquarter": "Gurugram, Haryana",
+  "launch_date": "2005",
+  "order": 21119,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Building trust through data",
+  "ProductId": null,
+  "ShortDescription": "AuthBridge is India\u2019s largest Authentication company, delivering cutting-edge technology and alternate data analysis for Identity Management, Onboarding & Verification, and Business Intelligence.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Employee Screening",
+      "sequence": 0,
+      "description": "Authentication of workforce to accelerate onboarding and verification."
+    },
+    {
+      "name": " Risk and Compliance",
+      "sequence": 1,
+      "description": "Thorough due diligence and risk mitigation of business partners, and third-parties."
+    },
+    {
+      "name": "Instant API Verification",
+      "sequence": 2,
+      "description": "Advanced technology and comprehensive database for real-time verifications."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:15.690Z",
+  "enhanced_description": "Authbridge is India\u2019s largest authentication company, specializing in identity management, onboarding, and verification. It leverages AI-driven technologies such as facial recognition, liveness detection, data extraction, and optical character recognition (OCR) to verify national identity, educational, and professional documents. The platform automates mundane compliance and verification processes, utilizing a proprietary database alongside public databases for instant searches and real-time API verifications. Authbridge's solutions are designed to build a solid workforce and a verified customer base, eliminate risks of fraud, and conduct thorough due diligence for business partners and third-parties, ensuring data security compliance.",
+  "key_use_cases": [
+    "Employee background screening and verification",
+    "Know Your Customer (KYC) screening",
+    "Substance abuse testing for employees",
+    "Identity management and verification for workforce and customers",
+    "Automating compliance and verification processes",
+    "Fraud prevention and risk mitigation",
+    "Due diligence for business partners and third-parties",
+    "Real-time verifications via API"
+  ],
+  "competitive_advantages": [
+    "Market leadership in India (largest Authentication company)",
+    "Advanced AI-driven technologies (facial recognition, liveness detection, OCR, data extraction)",
+    "Comprehensive data sources (proprietary database combined with public databases)",
+    "Automation of mundane compliance and verification processes for efficiency",
+    "Instant and real-time verification capabilities via API",
+    "Focus on data security compliance",
+    "Utilization of alternate data analysis for business intelligence"
+  ],
+  "implementation_scenarios": [
+    "API-based integration for real-time verification workflows"
+  ],
+  "hr_functions_supported": [
+    "Recruiting (pre-employment screening, background checks, testing, reference checks, automation)",
+    "Onboarding (accelerating workforce authentication and verification)",
+    "HR Compliance",
+    "Talent Acquisition"
+  ],
+  "technology_stack": [
+    "AI-driven technologies",
+    "Facial recognition",
+    "Liveness detection",
+    "Data extraction",
+    "Optical Character Recognition (OCR)",
+    "Proprietary database",
+    "Alternate data analysis"
+  ],
+  "integration_capabilities": [
+    "API integration for instant verification"
+  ],
+  "roi_benefits": [
+    "Eliminate risks of fraud",
+    "Automate mundane compliance and verification processes (implying efficiency and cost savings)",
+    "Accelerate onboarding and verification processes",
+    "Thorough due diligence and risk mitigation",
+    "Hire top talent faster and more efficiently",
+    "Build a solid and verified workforce",
+    "Build a verified customer base"
+  ],
+  "searchable_keywords": [
+    "Authbridge",
+    "Authentication",
+    "Identity Management",
+    "Verification",
+    "Employee Background Screening",
+    "KYC Screening",
+    "Know Your Customer",
+    "Substance Abuse Testing",
+    "Background Verification",
+    "Recruiting",
+    "Pre-employment screening",
+    "Background check software",
+    "Pre-employment testing",
+    "Reference check software",
+    "Recruiting automation",
+    "Applicant tracking system",
+    "ATS",
+    "Hiring speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Talent acquisition",
+    "Candidate screening",
+    "Compliance technology",
+    "AI-driven verification",
+    "Facial recognition",
+    "Liveness detection",
+    "Data extraction",
+    "Optical Character Recognition",
+    "OCR",
+    "Proprietary database",
+    "Instant verification",
+    "Fraud prevention",
+    "Risk mitigation",
+    "Due diligence",
+    "API verification",
+    "Onboarding acceleration",
+    "Alternate data analysis",
+    "Business Intelligence"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "Recruiters",
+    "Hiring Managers",
+    "Compliance teams",
+    "Risk management professionals"
+  ],
+  "compliance_features": [
+    "Data security compliant",
+    "Automation of compliance and verification processes"
+  ],
+  "_weight": 1
+}

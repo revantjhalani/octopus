@@ -1,0 +1,130 @@
+{
+  "id": 268,
+  "name": "Sensehq",
+  "description": "Sensehq, We are a diverse, collaborative team committed to perfecting the way companies engage with talent. We\u2019re creating a better experience for employers, recruiters, and candidates. Each team member has a meaningful opportunity to make a huge impact, and together, our team is evolving an entire industry. Modern enterprise recruiting teams are powered by Sense\u2019s automated communication and talent engagement technology. From 2-way texting for recruiters to NPS; from recruitment marketing to candidate engagement and a recruiting chatbot; Sense is the only all-in-one solution built for enterprise recruiting. Sense turbocharges recruiting, marketing, sales, and talent care teams to dramatically improve the candidate experience and lower talent attrition.",
+  "features": [
+    "Equity for all employees",
+    "Learning and development budget",
+    "Custom workstation"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Talent management software",
+    "Recruiting software",
+    "Onboarding software"
+  ],
+  "tags": [
+    "Hiring automation",
+    "Recruiting efficiency"
+  ],
+  "headquarter": "San Francisco, California",
+  "launch_date": "2016",
+  "order": 20233,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "The Sense Talent Engagement Platform\n Fast,\n personalized\n hiring\u2013at scale",
+  "ProductId": null,
+  "ShortDescription": "Sensehq heps in personalizing and Tailor the hiring for few or large vacancies.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:22.356Z",
+  "enhanced_description": "Sensehq is a talent engagement platform designed for modern enterprise recruiting teams, aiming to perfect how companies engage with talent. It provides an all-in-one solution for automated communication and talent engagement, offering features such as 2-way texting for recruiters, NPS tracking, recruitment marketing, candidate engagement, and a recruiting chatbot. Sense turbocharges recruiting, marketing, sales, and talent care teams to achieve fast, personalized hiring at scale, dramatically improving the candidate experience and lowering talent attrition. It helps personalize and tailor hiring for both small and large vacancy volumes, driving efficiency in the hiring process to help organizations hire top talent faster and more efficiently.",
+  "ideal_company_sizes": [
+    "Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Automated communication for talent engagement",
+    "2-way texting for recruiters",
+    "NPS tracking for candidates",
+    "Recruitment marketing",
+    "Candidate engagement",
+    "Recruiting chatbot functionality",
+    "Fast hiring",
+    "Personalized hiring at scale",
+    "Hiring automation",
+    "Recruiting efficiency"
+  ],
+  "competitive_advantages": [
+    "Only all-in-one solution built for enterprise recruiting"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Recruiting",
+    "Onboarding",
+    "Candidate Experience Management",
+    "Recruitment Marketing"
+  ],
+  "roi_benefits": [
+    "Hire Top Talent Faster",
+    "Hire Top Talent More Efficiently",
+    "Dramatically improve the candidate experience",
+    "Lower talent attrition",
+    "Turbocharges recruiting, marketing, sales, and talent care teams"
+  ],
+  "searchable_keywords": [
+    "Sensehq",
+    "Sense",
+    "Talent engagement platform",
+    "Talent management",
+    "Recruiting",
+    "Recruiting software",
+    "Talent management software",
+    "Onboarding software",
+    "Hiring automation",
+    "Recruiting efficiency",
+    "Automated communication",
+    "2-way texting",
+    "NPS",
+    "Recruitment marketing",
+    "Candidate engagement",
+    "Recruiting chatbot",
+    "Enterprise recruiting",
+    "Candidate experience",
+    "Talent attrition",
+    "Personalized hiring",
+    "Fast hiring"
+  ],
+  "primary_users": [
+    "Employers",
+    "Recruiters",
+    "Candidates",
+    "Recruiting teams",
+    "Marketing teams",
+    "Sales teams",
+    "Talent care teams"
+  ],
+  "scalability_features": [
+    "Supports fast, personalized hiring at scale",
+    "Capable of tailoring hiring for large vacancy volumes"
+  ],
+  "_weight": 1
+}

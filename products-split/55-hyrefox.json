@@ -1,0 +1,172 @@
+{
+  "id": 55,
+  "name": "Hyrefox",
+  "description": "HyreFox is an online marketplace connecting employers with seasoned headhunters across India. It streamlines collaboration via a single web-based application, reducing acquisition costs and increasing revenue for recruiting firms by accessing top-level mandates. HyreFox ensures efficient connections, creating a win-win situation for companies and professional recruiters.",
+  "features": [
+    "On-demand video Interviews",
+    "Video Feedback System for Internal staff",
+    "Huge savings in HR \u2013 both time and money"
+  ],
+  "founders": [
+    "Prateek Jain",
+    "Navaldeep Singh",
+    "Aditya Kedia"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruitment marketing platforms",
+    "Job boards",
+    "Recruitment agencies",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring efficiency",
+    "Hiring tools",
+    "Hiring automationHiring analytics",
+    "Data-driven hiring",
+    "Hiring best practices"
+  ],
+  "headquarter": "Jaipur, rajasthan",
+  "launch_date": "2018",
+  "order": 20032,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Hyrefox connects companies and professional recruiting firms from across India more efficiently.",
+  "ProductId": null,
+  "ShortDescription": "Smart Hiring",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Streamlined Recruiter Management",
+      "sequence": 0,
+      "description": "HyreFox simplifies the recruiter vendor management process for employers, making it easier to connect with and monitor recruiters."
+    },
+    {
+      "name": "Efficient Job Crowdsourcing",
+      "sequence": 1,
+      "description": "HyreFox enables efficient crowdsourcing of job openings to specialized recruiters, improving the chances of finding quality candidates quickly."
+    },
+    {
+      "name": "Cost Control and Tracking",
+      "sequence": 2,
+      "description": "Employers can efficiently control and track costs related to third-party recruiters through HyreFox's user-friendly platform."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-15T12:55:44.458Z",
+  "enhanced_description": "HyreFox is an online marketplace designed to efficiently connect employers with seasoned headhunters across India. It operates as a single web-based application, streamlining the recruiter vendor management process for employers and facilitating efficient crowdsourcing of job openings to specialized recruiters. The platform aims to reduce acquisition costs for companies while increasing revenue for recruiting firms by providing access to top-level mandates. Key features include on-demand video interviews and a video feedback system for internal staff, contributing to significant time and cost savings in HR. HyreFox also offers tools for employers to efficiently control and track costs related to third-party recruiters, ultimately boosting hiring manager confidence and productivity.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Connecting employers with professional headhunters",
+    "Streamlining collaboration between employers and recruiting firms",
+    "Reducing recruitment acquisition costs for companies",
+    "Increasing revenue opportunities for recruiting firms",
+    "Managing third-party recruiter relationships",
+    "Crowdsourcing job openings to specialized recruiters",
+    "Controlling and tracking costs associated with external recruiters",
+    "Conducting on-demand video interviews with candidates",
+    "Providing video feedback for internal staff",
+    "Improving hiring manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "Online marketplace model for headhunter access",
+    "Single web-based application for collaboration",
+    "Reduces employer acquisition costs",
+    "Increases revenue for recruiting firms through mandate access",
+    "Streamlined recruiter vendor management",
+    "Efficient job crowdsourcing capabilities",
+    "Robust cost control and tracking for third-party recruiters",
+    "Includes on-demand video interview feature",
+    "Offers video feedback system for internal staff",
+    "Promises significant HR time and money savings"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Vendor Management (Recruiter)",
+    "Candidate Interviewing",
+    "Internal Collaboration",
+    "HR Cost Management"
+  ],
+  "roi_benefits": [
+    "Huge savings in HR \u2013 both time and money",
+    "Reduction in recruitment acquisition costs for employers",
+    "Increased revenue for recruiting firms",
+    "Boost in Hiring Manager Confidence",
+    "Improved Hiring Manager Productivity",
+    "Faster sourcing of quality candidates"
+  ],
+  "searchable_keywords": [
+    "Hyrefox",
+    "Recruiting",
+    "Hiring",
+    "Headhunters",
+    "Recruitment Marketplace",
+    "India",
+    "Online Recruiting",
+    "Web-based Recruitment",
+    "Recruitment Collaboration",
+    "Recruitment Cost Reduction",
+    "Recruiting Firm Revenue",
+    "Recruiter Management",
+    "Job Crowdsourcing",
+    "Third-party Recruiter Costs",
+    "Video Interviews",
+    "Internal Video Feedback",
+    "HR Savings",
+    "Hiring Efficiency",
+    "Hiring Tools",
+    "Hiring Automation",
+    "Hiring Analytics",
+    "Data-driven Hiring",
+    "Hiring Best Practices",
+    "Hiring Manager Productivity",
+    "Talent Acquisition",
+    "Smart Hiring",
+    "Recruitment Agencies",
+    "Recruitment Marketing",
+    "Job Boards"
+  ],
+  "primary_users": [
+    "Employers (Companies)",
+    "Professional Headhunters",
+    "Recruiting Firms",
+    "Internal HR Staff",
+    "Hiring Managers"
+  ],
+  "deployment_options": [
+    "Web-based (SaaS)"
+  ],
+  "_weight": 1
+}

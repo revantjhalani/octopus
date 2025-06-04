@@ -1,0 +1,123 @@
+{
+  "id": 750,
+  "name": "Interview IO",
+  "description": "First and foremost, if you're trying to get better at technical interviews, the best way to do that is to actually do it. Here, you can get a lens into the kinds of questions you'd encounter at top companies and get comfortable with answering them in a low-pressure, anonymous setting. Beyond that, interviewing here can be a great way to get your foot in the door at top companies. When you do well in practice, you\u2019ll start getting invitations to interview anonymously with great companies right on our platform. If you do well in those interviews, you can unmask, and they count as your technical phone screen. The next step is almost always an onsite. In other words, you can get interviews at top companies without ever touching your resume, applying, haranguing your friends for referrals, or talking to recruiters.",
+  "features": [
+    "We choose candidates based on past performance in rigorous, live technical interviews. It's a much better predictor of ability than a resume.",
+    "Do whatever you'd normally do in your technical phone screen, except do it anonymously to avoid bias.",
+    "Our candidates convert 3X better than other channels, and we save our customers 220 hours per hire. With us, you can go from first conversation to offer in less than a week."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Video interviewing software",
+    "Onboarding software"
+  ],
+  "tags": [
+    "Interviewing costs",
+    "Hiring automation"
+  ],
+  "headquarter": "San Francisco, California",
+  "launch_date": "2015",
+  "order": 20703,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Practice technical interviewing with engineers from top companies",
+  "ProductId": null,
+  "ShortDescription": "interviewing.io lets software engineers practice technical interviewing anonymously and land great jobs in the process. Become awesome at technical interviews, get fast-tracked at amazing companies, and find your next job, all in one place",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:43.731Z",
+  "enhanced_description": "Interview IO offers a unique platform designed for software engineers to practice technical interviews in a low-pressure, anonymous, and live setting. This approach provides a realistic lens into the types of questions encountered at leading companies, allowing candidates to refine their skills and gain confidence. Beyond practice, the platform serves as an accelerated, bias-free pathway for candidates to secure roles at top-tier companies. By focusing on performance in rigorous, live technical interviews rather than resumes, Interview IO identifies high-potential talent. For companies, it acts as a streamlined technical screening channel where successful anonymous interviews can directly serve as the technical phone screen, significantly reducing time-to-offer and improving candidate conversion rates.",
+  "target_industries": [
+    "Technology",
+    "Any industry hiring software engineers"
+  ],
+  "key_use_cases": [
+    "Technical interview practice for candidates",
+    "Anonymous technical skill assessment",
+    "Expedited candidate sourcing and technical screening for companies",
+    "Bias reduction in the initial technical hiring phase",
+    "Direct pathway for software engineers to interview with top companies, bypassing traditional application methods"
+  ],
+  "competitive_advantages": [
+    "Performance-based candidate selection, which is presented as a better predictor of ability than resumes",
+    "Anonymous interviewing to mitigate bias in technical screenings",
+    "Significantly higher candidate conversion rates (3X better than other channels)",
+    "Substantial time savings for hiring organizations (220 hours per hire)",
+    "Faster time-to-offer (less than a week from first conversation)",
+    "Streamlined candidate experience that bypasses traditional application barriers (no resume, no applying, no referrals, no talking to recruiters)"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Interviewing",
+    "Candidate Assessment",
+    "Technical Screening",
+    "Talent Sourcing"
+  ],
+  "roi_benefits": [
+    "Reduced Cost of Hiring Qualified Employees",
+    "3X higher candidate conversion rate",
+    "220 hours saved per hire",
+    "Reduced time-to-offer (less than a week)",
+    "Improved candidate quality/fit"
+  ],
+  "searchable_keywords": [
+    "Interview IO",
+    "interviewing.io",
+    "technical interviews",
+    "software engineers",
+    "interview practice",
+    "anonymous interviewing",
+    "bias reduction",
+    "hiring automation",
+    "recruiting software",
+    "video interviewing",
+    "technical phone screen",
+    "talent acquisition",
+    "candidate assessment",
+    "hiring efficiency",
+    "time-to-hire",
+    "talent sourcing",
+    "skill-based hiring"
+  ],
+  "primary_users": [
+    "Software Engineers (Candidates)",
+    "Hiring Managers (Companies)",
+    "Recruiters (Companies)",
+    "Talent Acquisition Teams (Companies)"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "compliance_features": [
+    "Bias reduction through anonymous interviewing"
+  ],
+  "_weight": 1
+}

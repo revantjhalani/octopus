@@ -1,0 +1,138 @@
+{
+  "id": 542,
+  "name": "EasyLink Services",
+  "description": "EasyLink Services, a wholly owned subsidiary of OpenText, offers a comprehensive portfolio of \u201cany to any\u201d cloud-based messaging and transaction services that can bridge the most challenging technology gaps while creating significant cost efficiencies across an organization. From Desktop Fax and Production Messaging to EDI, Managed File Transfer, Document Capture and Management, and Notifications we help companies drive costs out of their operations. With over two decades of servicing customers around the globe, EasyLink has established a proven track record for providing effective, reliable and secure communications.",
+  "features": [
+    "Increase user and workflow productivity",
+    "Accelerate time to revenue",
+    "Improve customer satisfaction"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement",
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Internet of things"
+  ],
+  "tags": [
+    "Skill development",
+    "Employee satisfaction"
+  ],
+  "headquarter": "Waterloo, ON",
+  "launch_date": "1991",
+  "order": 20502,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Modernize your business electronic fax services to increase productivity and reduce costs",
+  "ProductId": null,
+  "ShortDescription": "EasyLink Services, a wholly owned subsidiary of OpenText, offers a comprehensive portfolio of \u201cany to any\u201d cloud-based messaging and transaction services.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:29:33.921Z",
+  "enhanced_description": "EasyLink Services, a wholly owned subsidiary of OpenText, offers a comprehensive portfolio of cloud-based 'any to any' messaging and transaction services. These services are designed to bridge challenging technology gaps and drive significant cost efficiencies across an organization. EasyLink helps companies modernize their business electronic fax services and provides solutions for Production Messaging, EDI (Electronic Data Interchange), Managed File Transfer, Document Capture and Management, and Notifications. With over two decades of global customer service, EasyLink has a proven track record for delivering effective, reliable, and secure communications that enhance productivity and reduce operational costs.",
+  "key_use_cases": [
+    "Modernizing business electronic fax services",
+    "Implementing 'any to any' cloud-based messaging",
+    "Managing electronic data interchange (EDI)",
+    "Facilitating secure managed file transfer (MFT)",
+    "Streamlining document capture and management processes",
+    "Delivering business notifications",
+    "Bridging diverse technology gaps within an organization",
+    "Driving operational cost efficiencies"
+  ],
+  "competitive_advantages": [
+    "Comprehensive 'any to any' cloud-based messaging and transaction services portfolio",
+    "Ability to bridge challenging technology gaps",
+    "Over two decades of established global customer service experience",
+    "Proven track record for effective, reliable, and secure communications",
+    "Focus on creating significant cost efficiencies",
+    "Backed by OpenText as a wholly owned subsidiary"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based service adoption",
+    "Integration with existing diverse business systems",
+    "Modernization of legacy communication infrastructures"
+  ],
+  "technology_stack": [
+    "Cloud-based infrastructure",
+    "Artificial Intelligence (AI)",
+    "Internet of Things (IoT)"
+  ],
+  "integration_capabilities": [
+    "Any-to-any system connectivity",
+    "EDI (Electronic Data Interchange) integration",
+    "Managed File Transfer (MFT) integration"
+  ],
+  "roi_benefits": [
+    "Significant cost efficiencies",
+    "Reduced operational costs",
+    "Increased user productivity",
+    "Improved workflow productivity",
+    "Accelerated time to revenue",
+    "Improved customer satisfaction"
+  ],
+  "searchable_keywords": [
+    "EasyLink",
+    "OpenText",
+    "Cloud messaging",
+    "Transaction services",
+    "Desktop Fax",
+    "Electronic Fax",
+    "Production Messaging",
+    "EDI",
+    "Managed File Transfer",
+    "Document Capture",
+    "Document Management",
+    "Notifications",
+    "Cost efficiency",
+    "Productivity",
+    "Customer satisfaction",
+    "AI",
+    "IoT",
+    "Business communications",
+    "Secure communications",
+    "Reliable communications",
+    "Workflow automation",
+    "Digital transformation",
+    "Technology gaps"
+  ],
+  "primary_users": [
+    "Business operations teams",
+    "IT departments",
+    "General business users",
+    "Finance teams"
+  ],
+  "deployment_options": [
+    "Cloud"
+  ],
+  "security_features": [
+    "Secure communications"
+  ],
+  "_weight": 1
+}

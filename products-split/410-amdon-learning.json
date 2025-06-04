@@ -1,0 +1,149 @@
+{
+  "id": 410,
+  "name": "Amdon Learning",
+  "description": "The Amdon Group is a global EdTech provider of interactive content in STEM Education. It brings together a unique combination of inquiry-based pedagogy, curriculum design, and expertise in interactive content development to enable its partners to transform their learning vision into reality. Over the years, Amdon has won awards including \u201cBest Educational Software Award\u201d in 2011, and \u201cSingapore Promising Brand Award\u201d in 2012. In 2016, Amdon was listed as one of the \u201c10 Most Promising Education Technology Solution Provider\u201d by APAC CIO Outlook.",
+  "features": [
+    "Online and Offline access to learning with our platform.",
+    "World-class content production in the shortest time",
+    "20 years of experience in cognitive, behavioural and social learning"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training management system",
+    "Learning Experience Systems (LXPs)"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Learning speed"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2001",
+  "order": 20371,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The Amdon Group is a global EdTech provider of interactive content in STEM Education",
+  "ProductId": null,
+  "ShortDescription": "Amdon is at the forefront of STEM education for preschool and elementary school children",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Rapid Production and Development",
+      "sequence": 0,
+      "description": "Our team of more than 80 professionals work round the clock to ensure that content is rapidly produced and designed to meet world class standards."
+    },
+    {
+      "name": "Personalised Learning",
+      "sequence": 1,
+      "description": "Individualised diagnosis and prescription of learning content in a crowded class."
+    },
+    {
+      "name": "Pedagogical Expertise",
+      "sequence": 2,
+      "description": "Effective learning starts with a solid method of instruction."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:26:32.130Z",
+  "enhanced_description": "Amdon Learning, offered by the global EdTech provider Amdon Group, specializes in delivering interactive content for STEM education, primarily targeted at preschool and elementary school children. Leveraging over 20 years of experience in cognitive, behavioral, and social learning, the platform facilitates online and offline access to personalized learning experiences. Amdon's approach combines inquiry-based pedagogy and curriculum design with rapid, world-class content production, aiming to accelerate skill development and learning efficiency.",
+  "target_industries": [
+    "Education"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Delivering interactive STEM education content",
+    "Supporting personalized learning through individualized diagnosis and content prescription",
+    "Accelerating skill development and learning efficiency in STEM",
+    "Rapidly producing and deploying world-class educational content",
+    "Facilitating inquiry-based pedagogy and curriculum design",
+    "Providing online and offline learning access"
+  ],
+  "competitive_advantages": [
+    "Over 20 years of experience in cognitive, behavioral, and social learning",
+    "Ability to produce world-class content rapidly ('in the shortest time')",
+    "Specialization in personalized learning with individualized diagnosis and content prescription",
+    "Strong pedagogical expertise for effective instruction",
+    "Award-winning EdTech provider recognition (e.g., 'Best Educational Software Award', 'Singapore Promising Brand Award', '10 Most Promising Education Technology Solution Provider')",
+    "Global presence as an EdTech provider"
+  ],
+  "implementation_scenarios": [],
+  "hr_functions_supported": [
+    "Learning & Development"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Faster content production and deployment",
+    "Enhanced learning effectiveness",
+    "Increased learning speed"
+  ],
+  "searchable_keywords": [
+    "Amdon Learning",
+    "EdTech",
+    "STEM Education",
+    "interactive content",
+    "learning platform",
+    "online learning",
+    "offline learning",
+    "skill development",
+    "learning efficiency",
+    "training management system",
+    "LXP",
+    "Learning Experience Systems",
+    "personalized learning",
+    "pedagogy",
+    "curriculum design",
+    "content production",
+    "cognitive learning",
+    "behavioral learning",
+    "social learning",
+    "education technology",
+    "preschool",
+    "elementary school",
+    "children's education",
+    "training effectiveness",
+    "learning speed"
+  ],
+  "primary_users": [
+    "Educators",
+    "Teachers",
+    "Curriculum Designers",
+    "Educational Institutions"
+  ],
+  "deployment_options": [
+    "Online (Platform-based)",
+    "Offline (Platform-based)"
+  ],
+  "_weight": 1
+}

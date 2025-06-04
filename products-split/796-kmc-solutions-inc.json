@@ -1,0 +1,158 @@
+{
+  "id": 796,
+  "name": "KMC Solutions, Inc.",
+  "description": "Founded by Gregory Kittelson, Michael McCullough, and Amanda Carpo KMC has a young and talented management team from a range of disciplines and expertise. KMC's leadership team is paving the way for the future of flexible workspace and offshoring in the Philippines. We create experiences and environments that foster connections which results in impactful game-changing opportunities for everyone. We are committed to providing premium office spaces and high-performing offshore teams for both Filipino and Multinational companies. KMC started out with only 2 floors in a single building, now we have the largest collection of proworking spaces in the Philippines with 67 floors across 20+ buildings. We are proud to be trusted by some of the most innovative startups & partners and established global brands when it comes to doing business in the Philippines.",
+  "features": [
+    "Recruitment, selection, and deployment",
+    "Termination and redundancy control",
+    "Government mandated remittances and reports"
+  ],
+  "founders": [
+    "Fiona Kesby"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Recruiting automation software",
+    "Job boards",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Talent sourcing",
+    "Candidate screening",
+    "Job boards"
+  ],
+  "headquarter": "Taguig City, National Capital Region/Metro Manila",
+  "launch_date": "2010",
+  "order": 20749,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The #1 flexible office space and fastest-growing EOR provider in the Philippines #DefyLimits \ud83d\ude80",
+  "ProductId": null,
+  "ShortDescription": "KMC Solutions, Inc. helps in overall business setup process.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Coworking Space Provider in the Philippines",
+      "sequence": 0,
+      "description": "KMC Solutions is a company that provides office spaces in the Philippines. They offer private offices and coworking spaces for rent."
+    },
+    {
+      "name": "Multiple Locations",
+      "sequence": 1,
+      "description": "The company has locations throughout Metro Manila, Cebu and Clark, catering to a wide range of areas. They claim to have the largest collection of coworking spaces in the Philippines."
+    },
+    {
+      "name": "Amenities and Services",
+      "sequence": 2,
+      "description": "In addition to office space, KMC offers access to meeting rooms, pantries, and business development opportunities, aiming to provide a comprehensive solution for businesses."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:37.033Z",
+  "enhanced_description": "KMC Solutions, Inc. is a leading provider of flexible workspace solutions and Employer of Record (EOR) services in the Philippines. Starting from 2 floors in a single building, KMC has grown to offer the largest collection of proworking spaces in the Philippines, spanning 67 floors across more than 20 buildings in key locations like Metro Manila, Cebu, and Clark. Beyond premium private offices and coworking spaces, KMC supports businesses with comprehensive HR and staffing services, including recruitment, selection, and deployment of high-performing offshore teams. Their services also extend to critical HR administration such as termination and redundancy control, and managing government-mandated remittances and reports. This integrated approach aims to facilitate the overall business setup process in the Philippines, enabling both Filipino and Multinational companies to establish operations and fill open positions more quickly.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Establishing new business operations in the Philippines",
+    "Setting up and managing offshore teams in the Philippines",
+    "Outsourcing HR and payroll compliance for Filipino employees or offshore staff",
+    "Renting flexible office spaces including private offices and coworking environments",
+    "Seeking comprehensive talent acquisition and staffing solutions in the Philippines"
+  ],
+  "competitive_advantages": [
+    "Market leader in flexible office space and EOR services in the Philippines",
+    "Largest collection of proworking spaces with extensive physical footprint across 67 floors and 20+ buildings",
+    "Comprehensive suite of services covering office space, staffing, and HR/payroll compliance for offshore operations",
+    "Demonstrated rapid growth as the fastest-growing EOR provider in the Philippines"
+  ],
+  "implementation_scenarios": [
+    "New business setup in the Philippines",
+    "Expansion of existing operations into the Philippines",
+    "Offshoring business functions or teams to the Philippines"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Employee Onboarding",
+    "Offboarding",
+    "HR Compliance",
+    "Payroll Administration",
+    "Benefits Administration"
+  ],
+  "roi_benefits": [
+    "Accelerated time-to-hire for offshore positions",
+    "Simplified business setup and operational expansion in the Philippines",
+    "Ensured compliance with local government regulations and labor laws for offshore teams",
+    "Access to premium flexible office spaces and amenities",
+    "Improved operational efficiency through outsourced HR and administrative tasks"
+  ],
+  "searchable_keywords": [
+    "KMC Solutions",
+    "KMC",
+    "flexible office space",
+    "coworking",
+    "private office",
+    "offshoring Philippines",
+    "EOR provider",
+    "Employer of Record Philippines",
+    "staffing services Philippines",
+    "recruitment Philippines",
+    "talent acquisition Philippines",
+    "HR outsourcing Philippines",
+    "payroll Philippines",
+    "HR compliance Philippines",
+    "business setup Philippines",
+    "offshore teams",
+    "talent sourcing",
+    "candidate screening",
+    "job boards Philippines",
+    "office space rental Philippines",
+    "Metro Manila office space",
+    "Cebu office space",
+    "Clark office space"
+  ],
+  "primary_users": [
+    "HR Departments",
+    "Operations Teams",
+    "Business Leaders",
+    "Company Executives (seeking expansion or offshoring)"
+  ],
+  "compliance_features": [
+    "Management of government mandated remittances and reports",
+    "Compliance with Philippine labor laws and regulations (inherent to EOR service)"
+  ],
+  "scalability_features": [
+    "Ability to support large-scale offshore team setup and expansion",
+    "Extensive and growing network of flexible office spaces to accommodate scaling client needs"
+  ],
+  "_weight": 1
+}

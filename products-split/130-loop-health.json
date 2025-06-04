@@ -1,0 +1,143 @@
+{
+  "id": 130,
+  "name": "Loop Health",
+  "description": "Founded in 2018, Loop Health is India's first Health Assurance company that combines health insurance with preventive healthcare to keep your employees and their families healthy, while providing for them when sick. That means plans and benefits you understand, tools that save you time and money, and excellent doctors who are there to keep your team healthy before they end up in the hospital.",
+  "features": [
+    "500k+ Happy Members",
+    "1000+ Companies",
+    "80k+ Claims Passed\n"
+  ],
+  "founders": [
+    "Mayank Kale"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee happiness"
+  ],
+  "headquarter": "Mumbai",
+  "launch_date": "2018",
+  "order": 20097,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Healthcare & insurance made easy",
+  "ProductId": null,
+  "ShortDescription": "Making healthcare better for everyone",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Unlimited Primary Healthcare",
+      "sequence": 0,
+      "description": "Access 24/7, free virtual consults with Medical Experts."
+    },
+    {
+      "name": "Employee Assistance Program ",
+      "sequence": 1,
+      "description": "Focused chronic care programs for diabetes, hypertension, maternity, elder care, and much more. "
+    },
+    {
+      "name": "Mental Health Counselling",
+      "sequence": 2,
+      "description": "Design policy strategies to empower teams, drive productivity, and boost employee happiness. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:20:59.500Z",
+  "enhanced_description": "Founded in 2018, Loop Health is India's first Health Assurance company that uniquely combines health insurance with comprehensive preventive healthcare services, aiming to keep employees and their families healthy while providing support when sick. The platform is designed to offer clear and understandable plans and benefits, alongside intuitive tools that save time and money. It provides access to excellent doctors focused on proactive health management to prevent hospitalization. Key offerings include unlimited 24/7 virtual primary healthcare consults, an Employee Assistance Program (EAP) with specialized chronic care programs for conditions like diabetes, hypertension, maternity, and elder care, and dedicated mental health counseling. Loop Health also assists companies in designing effective policy strategies to empower teams, boost productivity, and improve overall employee happiness.",
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Providing comprehensive health assurance combining health insurance and preventive healthcare",
+    "Offering 24/7 virtual medical consultations for employees and their families",
+    "Managing chronic health conditions through dedicated programs (e.g., diabetes, hypertension, maternity, elder care)",
+    "Providing mental health counseling and support to employees",
+    "Implementing Employee Assistance Programs (EAP)",
+    "Improving overall employee well-being and engagement within organizations",
+    "Assisting HR in designing and implementing employee health and benefits policies"
+  ],
+  "competitive_advantages": [
+    "India's first Health Assurance company combining health insurance with preventive healthcare",
+    "Focus on proactive healthcare to keep employees healthy before hospitalization",
+    "Provision of unlimited 24/7 virtual primary healthcare consultations",
+    "Integrated Employee Assistance Program with specific chronic care management focus",
+    "Dedicated mental health counseling as part of the offering",
+    "Simplified plans and benefits, designed for ease of understanding and use",
+    "Tools aimed at saving time and money for companies and members"
+  ],
+  "hr_functions_supported": [
+    "Employee Well-being Management",
+    "Benefits Administration (Health Insurance)",
+    "Employee Assistance Programs (EAP)",
+    "Health & Wellness Programs",
+    "Mental Health Support",
+    "HR Policy Design (related to health and well-being)"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness and Engagement",
+    "Enhanced employee productivity",
+    "Potential time and cost savings related to healthcare management",
+    "Proactive health management for employees and their families",
+    "Access to continuous and accessible healthcare support"
+  ],
+  "searchable_keywords": [
+    "Loop Health",
+    "Health Assurance",
+    "health insurance",
+    "preventive healthcare",
+    "employee health",
+    "employee well-being",
+    "employee happiness",
+    "virtual consults",
+    "primary healthcare",
+    "Employee Assistance Program",
+    "EAP",
+    "chronic care management",
+    "diabetes care",
+    "hypertension care",
+    "maternity care",
+    "elder care",
+    "mental health counselling",
+    "HR technology",
+    "employee benefits",
+    "corporate wellness",
+    "healthcare services",
+    "India",
+    "Mumbai"
+  ],
+  "primary_users": [
+    "Employees",
+    "Employee Family Members",
+    "HR Professionals",
+    "Company Management"
+  ],
+  "_weight": 1
+}

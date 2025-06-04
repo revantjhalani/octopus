@@ -1,0 +1,132 @@
+{
+  "id": 1090,
+  "name": "S & I Systems Pte Ltd",
+  "description": "NXGEN is a leading regional integrated infocommunications solutions provider. At NXGEN, we put our customers first and help them navigate their digital transformation with ease. We recognise the importance of connecting people to foster collaboration and build relationships that last, and we empower their business by providing innovative solutions and technical expertise. Our commitment to honouring our word is integral to everything we do. NXGEN is a wholly-owned subsidiary of TeleChoice International Limited, a publicly listed company. TeleChoice is also a portfolio company of ST Telemedia, a strategic investor in communications and media, data centres and infrastructure technology businesses, across Asia, the US and Europe.",
+  "features": [
+    "Robotic Process Automation   ",
+    "Customer Relationship Management",
+    "Hybrid Cloud Computing"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Machine learning HR",
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Company culture",
+    "Employee empowerment"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "1998",
+  "order": 21033,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Connecting People, Empowering Business, Honouring Our Word",
+  "ProductId": null,
+  "ShortDescription": "NXGEN is a leading regional integrated infocommunications solutions provider. At NXGEN, we put our customers first and help them navigate their digital transformation with ease.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:40:20.252Z",
+  "enhanced_description": "NXGEN, a wholly-owned subsidiary of TeleChoice International Limited and a portfolio company of ST Telemedia, is a leading regional integrated infocommunications solutions provider. They specialize in helping organizations navigate their digital transformation by offering innovative solutions and technical expertise. Their core offerings include Robotic Process Automation (RPA), Customer Relationship Management (CRM), and Hybrid Cloud Computing. NXGEN is particularly focused on HR technology, providing solutions related to Machine Learning HR and other HR software and services, with a stated objective to improve employee happiness and engagement, foster company culture, and empower employees.",
+  "key_use_cases": [
+    "Automating repetitive HR processes using Robotic Process Automation (RPA)",
+    "Improving employee happiness and engagement",
+    "Leveraging machine learning for HR operations and insights",
+    "Implementing and managing HR software and services",
+    "Fostering positive company culture initiatives",
+    "Empowering employees through technology solutions"
+  ],
+  "competitive_advantages": [
+    "Regional leadership in integrated infocommunications solutions",
+    "Expertise in digital transformation facilitation",
+    "Customer-centric approach",
+    "Provision of innovative solutions and technical expertise",
+    "Commitment to fostering collaboration and lasting relationships",
+    "Strong corporate backing from TeleChoice International Limited and ST Telemedia"
+  ],
+  "implementation_scenarios": [
+    "Hybrid cloud deployments for IT infrastructure and applications"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "HR Process Automation",
+    "HR Analytics (via Machine Learning HR)",
+    "HR Software Management",
+    "Company Culture Management",
+    "Employee Empowerment"
+  ],
+  "technology_stack": [
+    "Robotic Process Automation (RPA)",
+    "Customer Relationship Management (CRM) platforms",
+    "Hybrid Cloud Computing infrastructure",
+    "Machine Learning"
+  ],
+  "roi_benefits": [
+    "Ease of digital transformation",
+    "Enhanced business efficiency and empowerment",
+    "Improved employee happiness and engagement",
+    "Fostering collaboration and stronger relationships"
+  ],
+  "searchable_keywords": [
+    "S & I Systems",
+    "NXGEN",
+    "infocommunications",
+    "digital transformation",
+    "RPA",
+    "Robotic Process Automation",
+    "CRM",
+    "Customer Relationship Management",
+    "Hybrid Cloud",
+    "Hybrid Cloud Computing",
+    "HR Tech",
+    "HR Technology",
+    "HR Software",
+    "HR Services",
+    "Machine Learning HR",
+    "Employee Engagement",
+    "Employee Happiness",
+    "Company Culture",
+    "Employee Empowerment",
+    "Collaboration",
+    "Business Empowerment",
+    "Singapore HR Tech"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "IT Professionals",
+    "Business Leaders",
+    "Managers",
+    "Employees"
+  ],
+  "deployment_options": [
+    "Hybrid Cloud"
+  ],
+  "_weight": 1
+}

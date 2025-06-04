@@ -1,0 +1,183 @@
+{
+  "id": 731,
+  "name": "inMorphis & ServiceNow",
+  "description": "inMorphis is 'outcome focused'\u200b Global IT advisory and services organization. With aim of 'Enhancing Organizational Value', we partner with customer to make them future ready. We have team of passionate people with solution and analytical mindset which help us to delivery the outcomes. We have helped global 2000 and enterprise customers to build unified user experience layer for anything and everything, to build enterprise grade hardware and software asset management, to reduce incidents MTTR, to Avoid outages, to pro-actively respond to IT security threats, to build governance framework around organizational risks, to build intelligent workflows and applications on fast track mode and to automate IT project management from change management to release management using DevOps.  We majorly cater to USA, South East Asia and India region across Telco, BFSI, IT/ITes, PSU, Pharma, Manufacturing and Automobile Industry.",
+  "features": [
+    "Enterprise Service Management",
+    "Governance, Risk, and Compliance (GRC)",
+    "DevOps and Infra Automation"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Total Rewards",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Employee recognition software",
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Training effectiveness",
+    "Adaptive learning"
+  ],
+  "headquarter": "Sector 132, Uttar Pradesh",
+  "launch_date": "2015",
+  "order": 20684,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Experience Wow!",
+  "ProductId": null,
+  "ShortDescription": "inMorphis is 'outcome focused'",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "We're redefining the world of  Technology Consulting & Services",
+      "sequence": 0,
+      "description": "That \u0301s how our 300+ certified ServiceNow practitioners are empowering technological revolution. We're transforming the technology landscape"
+    },
+    {
+      "name": "We enhance  Business Value",
+      "sequence": 1,
+      "description": "That \u0301s how we have achieved 125+ successful implementations keeping 70+ ServiceNow production environments healthy"
+    },
+    {
+      "name": "We know what \u0301s best is  Innovation",
+      "sequence": 2,
+      "description": "That \u0301 why we love embracing new challenges with 10+ years of proficiency in ServiceNow"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:25.495Z",
+  "enhanced_description": "inMorphis is a global IT advisory and services organization focused on enhancing organizational value and preparing customers for the future. Leveraging deep expertise with ServiceNow, including over 300 certified practitioners and 10 years of proficiency, they provide comprehensive solutions for enterprise service management, governance, risk, and compliance (GRC), and DevOps and infrastructure automation. Their services aim to build unified user experiences, manage IT assets, mitigate risks, and automate IT project management.",
+  "target_industries": [
+    "Telecommunications",
+    "BFSI (Banking, Financial Services, and Insurance)",
+    "IT/ITes (Information Technology / IT-enabled Services)",
+    "PSU (Public Sector Undertakings)",
+    "Pharma (Pharmaceuticals)",
+    "Manufacturing",
+    "Automobile"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Building unified user experience layers",
+    "Building enterprise-grade hardware and software asset management",
+    "Reducing IT incident MTTR (Mean Time To Resolution)",
+    "Avoiding IT outages",
+    "Proactive response to IT security threats",
+    "Building governance frameworks around organizational risks",
+    "Building intelligent workflows and applications",
+    "Automating IT project management (from change management to release management using DevOps)",
+    "Enterprise Service Management",
+    "Governance, Risk, and Compliance (GRC)",
+    "DevOps and Infrastructure Automation"
+  ],
+  "competitive_advantages": [
+    "Outcome-focused approach",
+    "Global IT advisory and services expertise",
+    "Team with solution and analytical mindset",
+    "Extensive ServiceNow proficiency (10+ years)",
+    "Large team of certified ServiceNow practitioners (300+)",
+    "Proven track record with successful ServiceNow implementations (125+)",
+    "Expertise in maintaining healthy ServiceNow production environments (70+)"
+  ],
+  "implementation_scenarios": [
+    "ServiceNow implementations for new deployments",
+    "Management and optimization of existing ServiceNow production environments"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development (e.g., training effectiveness, adaptive learning, skill development)",
+    "Employee Recognition",
+    "HR Technology Consulting and Implementation"
+  ],
+  "technology_stack": [
+    "ServiceNow"
+  ],
+  "roi_benefits": [
+    "Enhancing Organizational Value",
+    "Reducing IT incidents MTTR",
+    "Avoiding IT outages",
+    "Proactive response to IT security threats",
+    "Accelerating Skill Development and Learning Efficiency",
+    "Improved hardware and software asset management efficiency",
+    "Automated IT project management processes"
+  ],
+  "searchable_keywords": [
+    "inMorphis",
+    "ServiceNow",
+    "IT advisory",
+    "IT services",
+    "outcome focused",
+    "organizational value",
+    "enterprise service management",
+    "GRC",
+    "Governance Risk and Compliance",
+    "DevOps",
+    "Infra Automation",
+    "Infrastructure Automation",
+    "unified user experience",
+    "hardware asset management",
+    "software asset management",
+    "MTTR",
+    "IT security",
+    "risk management",
+    "intelligent workflows",
+    "IT project management",
+    "change management",
+    "release management",
+    "technology consulting",
+    "business value",
+    "innovation",
+    "global IT",
+    "training effectiveness",
+    "adaptive learning",
+    "skill development",
+    "employee recognition",
+    "HR software services",
+    "AI",
+    "Artificial intelligence"
+  ],
+  "primary_users": [
+    "IT Teams",
+    "IT Management",
+    "Risk & Compliance Professionals",
+    "Security Teams",
+    "Project Managers",
+    "HR Professionals (specifically L&D and potentially Employee Recognition roles)",
+    "End-users benefiting from unified experience layers"
+  ],
+  "compliance_features": [
+    "Governance, Risk, and Compliance (GRC) framework implementation and support"
+  ],
+  "security_features": [
+    "Proactive response to IT security threats"
+  ],
+  "_weight": 1
+}

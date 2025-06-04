@@ -1,0 +1,145 @@
+{
+  "id": 875,
+  "name": "Microscan Communications",
+  "description": "Microscan Communications serve as a comprehensive managed service provider, offering companies a single point of trust for their cybersecurity, networking, and cloud needs. As a trusted global partner, we offer a seamless experience with a focus on Cloud consulting, Security, and expertly managed networking services. Discover the breadth of our portfolio, covering essential domains such as IT and Networking, Cloud Migration and Management, Data Centers, Cybersecurity, and professional services. Whatever your organizational needs, we stand ready to tailor our solutions to suit your unique requirements. Our Managed Services guarantee 24x7 monitoring and maintenance, providing a robust foundation for your business to thrive securely and within budget.",
+  "features": [
+    "Cloud Cost Optimisation",
+    " Cyber Defese Center",
+    "Network Management"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Course authoring",
+    "Learning Experience Systems (LXPs)"
+  ],
+  "tags": [
+    "Learning efficiency",
+    "Continuous learning",
+    "Adaptive learning",
+    "Employee engagement"
+  ],
+  "headquarter": "Pune, Maharashtra",
+  "launch_date": "2018",
+  "order": 20828,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Leading Managed Service provider to the Enterprise Customer by delivering Best in class Digital Services",
+  "ProductId": null,
+  "ShortDescription": "Microscan Communications is all about giving small and medium-sized businesses access to enterprise-level technology and support, at a fraction of the cost.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Services Offered",
+      "sequence": 0,
+      "description": "The company offers cloud, cybersecurity, and network services. They can help businesses optimize their cloud costs. Microscan Communications offers 24/7 monitoring and maintenance."
+    },
+    {
+      "name": "Company Focus",
+      "sequence": 1,
+      "description": "They are a trusted global partner with a focus on cloud consulting, security, and expertly managed networking services."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:36:08.561Z",
+  "enhanced_description": "Microscan Communications is a comprehensive managed service provider delivering enterprise-level technology and support, specializing in cybersecurity, networking, and cloud services for businesses of all sizes, from small and medium-sized to large and global enterprises. They offer a single point of trust for essential domains such as IT and Networking, Cloud Migration and Management, Data Centers, and Cybersecurity, with a dedicated focus on Cloud consulting, Security, and expertly managed networking services. Key offerings include Cloud Cost Optimisation, Cyber Defense Center, and Network Management. Their Managed Services guarantee 24x7 monitoring and maintenance, providing a robust foundation for businesses to thrive securely and within budget by providing access to advanced technology at a fraction of the cost.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Managed IT and Networking services",
+    "Cloud Migration and Management",
+    "Data Center operations and management",
+    "Comprehensive Cybersecurity defense",
+    "Cloud Cost Optimization",
+    "24x7 IT systems monitoring and maintenance",
+    "Providing enterprise-level technology and support to small and medium-sized businesses"
+  ],
+  "competitive_advantages": [
+    "Single point of trust for cybersecurity, networking, and cloud needs",
+    "Trusted global partner",
+    "Seamless experience across services",
+    "Tailored solutions to suit unique organizational requirements",
+    "Guaranteed 24x7 monitoring and maintenance",
+    "Access to enterprise-level technology and support at a fraction of the cost (for SMBs)",
+    "Focus on Cloud consulting, Security, and expertly managed networking services"
+  ],
+  "roi_benefits": [
+    "Cost optimization and budget control (e.g., Cloud Cost Optimisation)",
+    "Enhanced security posture",
+    "Access to enterprise-level technology at a reduced cost",
+    "Improved operational efficiency and stability through 24x7 monitoring and maintenance"
+  ],
+  "searchable_keywords": [
+    "Microscan Communications",
+    "managed services",
+    "cybersecurity",
+    "networking",
+    "cloud",
+    "IT services",
+    "cloud migration",
+    "data centers",
+    "professional services",
+    "24x7 monitoring",
+    "maintenance",
+    "cloud cost optimization",
+    "cyber defense",
+    "network management",
+    "enterprise technology",
+    "small business IT",
+    "medium business IT",
+    "large enterprise IT",
+    "global enterprise IT",
+    "digital services",
+    "cloud consulting",
+    "security services",
+    "IT support",
+    "managed IT"
+  ],
+  "primary_users": [
+    "Companies seeking outsourced IT, cybersecurity, or cloud management",
+    "Small and medium-sized businesses",
+    "Large enterprises",
+    "Global enterprises"
+  ],
+  "scalability_features": [
+    "Solutions tailored to unique organizational requirements",
+    "Supports businesses from small to global enterprise size"
+  ],
+  "security_features": [
+    "Comprehensive Cybersecurity solutions",
+    "Cyber Defense Center",
+    "Managed Security Services",
+    "24x7 Security Monitoring"
+  ],
+  "_weight": 1
+}

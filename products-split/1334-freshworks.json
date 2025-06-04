@@ -1,0 +1,207 @@
+{
+  "id": 1334,
+  "name": "Freshworks",
+  "description": "Freshworks designs ridiculously easy-to-use software for businesses of all sizes, making it effortless for them to delight their employees and their customers. Affordable, quick to implement and designed for the end user, more than 50,000 companies worldwide use Freshworks software-as-a-service to enable a better customer experience (CX, CRM) and employee experience (ITSM, HRSM).",
+  "features": [
+    "Customer Service Suite",
+    "AI-powered automation",
+    "Omnichannel support",
+    "Reporting and analytics "
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Talent Management",
+    "Recruiting",
+    "Other / technology",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software",
+    "Human Resource Information Systems (HRIS)",
+    "Human Capital Management",
+    "Human Resource Management Systems (HRMS)",
+    "HR analytics software",
+    "HR management suites",
+    "Career management software",
+    "Employee engagement software",
+    "Employee grievance",
+    "Experience Software",
+    "Employee scheduling software",
+    "Talent management software",
+    "Time tracking",
+    "Workforce management",
+    "Applicant tracking system (ATS)",
+    "Onboarding software",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Interview scheduling",
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "San Mateo, California",
+  "launch_date": "2010",
+  "order": 21152,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Freshworks empowers the people who power your business.",
+  "ProductId": null,
+  "ShortDescription": "Customer service, IT, and CRM software that\u2019s powerful yet easy to use. Now supercharged with generative AI.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Improved customer relationships",
+      "sequence": 0,
+      "description": "Freshworks products can help you improve your customer relationships by providing a better customer service experience."
+    },
+    {
+      "name": "AI-powered",
+      "sequence": 1,
+      "description": "Freshworks products leverage artificial intelligence to automate tasks and provide insights, making your customer support and IT service management more efficient."
+    },
+    {
+      "name": "Easy to use:",
+      "sequence": 2,
+      "description": "Freshworks products are designed to be user-friendly, so you don't need to be a tech expert to get started."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:15:01.389Z",
+  "enhanced_description": "Freshworks provides ridiculously easy-to-use, affordable, and quick-to-implement software-as-a-service (SaaS) for businesses of all sizes. It focuses on improving both customer experience (CX, CRM) and employee experience (ITSM, HRSM) by offering a comprehensive suite of customer service, IT, and HR management solutions. The software is designed for the end-user and leverages AI-powered automation, including generative AI, to enhance efficiency, automate tasks, and provide actionable insights.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Enterprise"
+  ],
+  "key_use_cases": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Customer service experience management",
+    "IT service management (ITSM)",
+    "HR service management (HRSM)",
+    "Interview scheduling automation",
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "competitive_advantages": [
+    "Ridiculously easy-to-use software",
+    "Affordable",
+    "Quick to implement",
+    "Designed for the end user",
+    "AI-powered automation",
+    "Omnichannel support",
+    "Leverages generative AI for enhanced capabilities"
+  ],
+  "implementation_scenarios": [
+    "Quick implementation for rapid deployment"
+  ],
+  "hr_functions_supported": [
+    "Core HR Software",
+    "Human Resource Information Systems (HRIS)",
+    "Human Capital Management (HCM)",
+    "Human Resource Management Systems (HRMS)",
+    "HR analytics",
+    "HR management suites",
+    "Talent management",
+    "Recruiting",
+    "Applicant tracking system (ATS)",
+    "Onboarding",
+    "Career management",
+    "Employee engagement",
+    "Employee grievance management",
+    "Employee experience management",
+    "Employee scheduling",
+    "Time tracking",
+    "Workforce management",
+    "Interview scheduling",
+    "Hiring automation"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "AI-powered automation",
+    "Generative AI",
+    "Software-as-a-Service (SaaS)"
+  ],
+  "roi_benefits": [
+    "Effortless employee delight",
+    "Effortless customer delight",
+    "Improved customer experience (CX)",
+    "Enhanced employee experience (ITSM, HRSM)",
+    "Increased efficiency in customer support and IT service management",
+    "Improved customer relationships",
+    "Automation of tasks for efficiency",
+    "Data-driven insights",
+    "Faster talent acquisition",
+    "More efficient talent acquisition"
+  ],
+  "searchable_keywords": [
+    "Freshworks",
+    "HRMS",
+    "HCM",
+    "Talent Management",
+    "Recruiting",
+    "Customer Service",
+    "CRM",
+    "ITSM",
+    "HRSM",
+    "Software as a Service",
+    "AI",
+    "Automation",
+    "Omnichannel support",
+    "Reporting and analytics",
+    "Core HR",
+    "HRIS",
+    "HR analytics",
+    "Employee engagement",
+    "Workforce management",
+    "ATS",
+    "Onboarding",
+    "Interview scheduling",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Generative AI",
+    "Employee experience",
+    "Customer experience",
+    "Easy to use",
+    "Affordable",
+    "Quick implementation"
+  ],
+  "primary_users": [
+    "Employees",
+    "Customers",
+    "IT Support Staff",
+    "HR Professionals",
+    "Hiring Managers",
+    "Recruiters",
+    "End Users"
+  ],
+  "deployment_options": [
+    "Cloud (SaaS)"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,131 @@
+{
+  "id": 275,
+  "name": "Shepell",
+  "description": "Morneau Shepell is one of the world\u2019s largest Employee Assistance Programme (EAP) providers, supporting employees and their families across the globe to resolve work, health, and life challenges. Morneau Shepell serve more than 20,000 global organisations, supporting over 20 million individuals to improve their lives.",
+  "features": [
+    "24/7 assistance available through Phone, web, and mobile app",
+    "Innovative digital support tools for convenience",
+    "Local expert support and consultation, Short-term, solution-focused counselling and consulting services",
+    "Solution-focused counselling and consulting services"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Recruiting",
+    "Total Rewards",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Capital Management",
+    "Staffing & management software",
+    "Corporate wellness software"
+  ],
+  "tags": [
+    "Employee happiness",
+    "Employee well being",
+    "Employee engagement",
+    "Employee engagement surveys"
+  ],
+  "headquarter": "Toronto, Ontario",
+  "launch_date": "1966",
+  "order": 20240,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Helps Starts Here",
+  "ProductId": null,
+  "ShortDescription": "Morneau Shepell is one of the world\u2019s largest Employee Assistance Programme (EAP) providers.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:28.892Z",
+  "enhanced_description": "Morneau Shepell is a global leader in Employee Assistance Programs (EAPs), providing comprehensive support to employees and their families worldwide. With a reach of over 20,000 global organizations and supporting over 20 million individuals, the platform helps resolve work, health, and life challenges. It offers 24/7 assistance through phone, web, and a mobile app, complemented by innovative digital support tools and local expert-led, short-term, solution-focused counseling and consulting services. Its core objective is to improve employee happiness and engagement.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Resolving work challenges for employees",
+    "Resolving health challenges for employees and families",
+    "Resolving life challenges for employees and families",
+    "Providing short-term, solution-focused counseling services",
+    "Offering consulting services for employee well-being",
+    "Supporting employee happiness and engagement"
+  ],
+  "competitive_advantages": [
+    "One of the world's largest EAP providers",
+    "Extensive global reach supporting over 20,000 organizations and 20 million individuals",
+    "24/7 multi-channel assistance (Phone, web, mobile app)",
+    "Innovative digital support tools",
+    "Access to local expert support and consultation",
+    "Specialization in short-term, solution-focused counseling"
+  ],
+  "hr_functions_supported": [
+    "Employee Assistance Programs (EAP)",
+    "Employee Well-being",
+    "Employee Engagement",
+    "Corporate Wellness",
+    "Human Capital Management (HCM) support"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness",
+    "Enhanced Employee Engagement",
+    "Support for employees and families to resolve work, health, and life challenges",
+    "Improved quality of life for individuals"
+  ],
+  "searchable_keywords": [
+    "Shepell",
+    "Morneau Shepell",
+    "Employee Assistance Programme",
+    "EAP",
+    "Employee well-being",
+    "Employee happiness",
+    "Employee engagement",
+    "Corporate wellness",
+    "Work-life balance",
+    "Mental health support",
+    "Counselling services",
+    "Digital support tools",
+    "24/7 assistance",
+    "HRMS",
+    "HCM",
+    "Human Capital Management",
+    "Global EAP provider",
+    "Employee support",
+    "Family support"
+  ],
+  "primary_users": [
+    "Employees",
+    "Employee Families",
+    "HR Professionals"
+  ],
+  "deployment_options": [
+    "Web-based (accessed via web browser)",
+    "Mobile App",
+    "Phone"
+  ],
+  "_weight": 1
+}

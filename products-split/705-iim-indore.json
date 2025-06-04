@@ -1,0 +1,142 @@
+{
+  "id": 705,
+  "name": "IIM Indore",
+  "description": "The essence of management, IIM I believes, lies in managing one's own ambitions and forging ahead consciously. \"A strong theoretical foundation is the basis of good corporate practice\"",
+  "features": [
+    "Customized program",
+    "Long/Short Duration online program",
+    "Foreign Exchange program"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Diversity and inclusion",
+    "Learning analytics"
+  ],
+  "headquarter": "Indore",
+  "launch_date": "1998",
+  "order": 20659,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "IIM Indore seeks to be a contextually-relevant business school with world-class academic standards",
+  "ProductId": null,
+  "ShortDescription": "The Indian Institute of Management Indore is one of the best management institutions in India.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Contextually-Relevant Business School with World-Class Standards",
+      "sequence": 0,
+      "description": "IIM Indore prides itself on being a contextually-relevant business school with world-class academic standards . This means that they offer a curriculum that is relevant to the needs of the Indian business community, while also maintaining high academic standards."
+    },
+    {
+      "name": "Achieved Level 5 in the Positive Impact Rating 2024 by UN PRME",
+      "sequence": 1,
+      "description": "IIM Indore has achieved level 5 in the Positive Impact Rating 2024 by UN PRME . This suggests that IIM Indore is a leader in sustainability and corporate social responsibility."
+    },
+    {
+      "name": "Spectacular Debut in FT Executive Education Rankings 2024",
+      "sequence": 2,
+      "description": "IIM Indore made a spectacular debut in FT Executive Education Rankings 2024 . This suggests that IIM Indore is a top-ranked business school for executive education programs."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:52.588Z",
+  "enhanced_description": "IIM Indore, established in 1998, is a leading management institution in India. It strives to be a contextually-relevant business school with world-class academic standards, emphasizing a strong theoretical foundation for effective corporate practice. The institute offers a range of learning and development programs, including customized programs, long/short duration online programs, and foreign exchange programs. IIM Indore is recognized for its excellence in executive education, marked by a spectacular debut in the FT Executive Education Rankings 2024. Furthermore, it demonstrates a strong commitment to sustainability and corporate social responsibility, having achieved Level 5 in the Positive Impact Rating 2024 by UN PRME. IIM Indore's offerings also support corporate objectives, such as building a more diverse and inclusive workforce.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Corporate Training",
+    "Employee Upskilling and Reskilling",
+    "Executive Education",
+    "Diversity & Inclusion Training",
+    "Leadership Development",
+    "Online Learning"
+  ],
+  "competitive_advantages": [
+    "Reputation as one of the best management institutions in India",
+    "World-class academic standards with contextual relevance to the Indian business community",
+    "Highly-ranked executive education programs (FT Executive Education Rankings 2024)",
+    "Strong commitment to sustainability and corporate social responsibility (UN PRME Level 5)"
+  ],
+  "implementation_scenarios": [
+    "Online learning delivery",
+    "Customized program delivery for corporate clients"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Diversity and Inclusion"
+  ],
+  "roi_benefits": [
+    "Enhanced employee skills and capabilities",
+    "Improved corporate practices and performance",
+    "Support for building a more diverse and inclusive workforce",
+    "Access to world-class executive education"
+  ],
+  "searchable_keywords": [
+    "IIM Indore",
+    "management education",
+    "corporate training",
+    "executive education",
+    "learning and development",
+    "online programs",
+    "customized training",
+    "foreign exchange programs",
+    "diversity and inclusion",
+    "learning analytics",
+    "corporate LMS",
+    "training companies",
+    "business school",
+    "world-class standards",
+    "sustainability training",
+    "CSR training",
+    "UN PRME",
+    "Indian Institute of Management"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Learning & Development Managers",
+    "Corporate Employees",
+    "Business Leaders",
+    "Executives"
+  ],
+  "deployment_options": [
+    "Cloud-based (for online programs)"
+  ],
+  "scalability_features": [
+    "Online program delivery allows for broader reach and accessibility",
+    "Designed to support small, large, and global enterprises"
+  ],
+  "_weight": 1
+}

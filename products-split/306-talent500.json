@@ -1,0 +1,166 @@
+{
+  "id": 306,
+  "name": "Talent500",
+  "description": "Talent500 are democratizing access to opportunities for professionals by empowering them with opportunities with global companies that are leading digital transformation. Talent500 also aim to transform high-impact companies by giving them access to a worldwide community of highly-skilled professionals beyond the limits of geographical boundaries. Talent500 help companies hire, build and manage global teams. Talent500 are trusted by industry leaders across the globe \u2013 from Fortune 500s and larger enterprises, to some of the world\u2019s fastest-growing startups. Talent500 are backed by Accel Partners & ANSR, a global leader and enterprise transformation platform.",
+  "features": [
+    "AI Driven Screening",
+    "Global Talent Onboarding",
+    "End-to-end Recruitment Automation"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Onboarding software",
+    "Machine learning HR"
+  ],
+  "tags": [
+    "Talent sourcing",
+    "Data-driven hiring"
+  ],
+  "headquarter": "Bengaluru, Karnataka",
+  "launch_date": "2019",
+  "order": 20268,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The Operating System For Global Work",
+  "ProductId": null,
+  "ShortDescription": "Talent500 helps the world\u2019s fastest growing businesses build their global workforce.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "AI-driven Intelligence",
+      "sequence": 0,
+      "description": "Hire 60% faster by surfacing best-fit candidates from multiple sources 3x recruiter productivity with 85% precision in candidate-to-role match Cut overall sourcing costs by 45% through early identification of qualified candidates"
+    },
+    {
+      "name": "End-To-End Recruiting Automation",
+      "sequence": 1,
+      "description": "Seamless localization with tailored solutions for sourcing, assessment, hiring, and onboarding for leading talent hubs End-to-end solutions including career sites, recruitment marketing, interview-as-a-service, offer management, on-boarding, and more"
+    },
+    {
+      "name": "Curated Talent Network",
+      "sequence": 2,
+      "description": " Acess a proprietary network of 1.5M+ verified, \u201cglobal ready\u201d professionals One-click advertising across 200+ job boards and talent sources Hire talent across different requirements \u2013 contingent, full-time, pre-screened, freshers, and more"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:57.393Z",
+  "enhanced_description": "Talent500 serves as an operating system for global work, enabling companies, from Fortune 500s and larger enterprises to fast-growing startups, to build and manage their global workforce. The platform democratizes access to opportunities for professionals by connecting them with global companies leading digital transformation. It offers an end-to-end recruitment automation solution encompassing AI-driven screening, global talent onboarding, career site management, recruitment marketing, interview-as-a-service, offer management, and assessment. Talent500 provides access to a proprietary network of over 1.5 million verified and 'global-ready' professionals and supports one-click advertising across 200+ job boards, facilitating the hiring of contingent, full-time, pre-screened, and fresher talent.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Startups / Growth Companies"
+  ],
+  "key_use_cases": [
+    "Building and managing global teams",
+    "Hiring top talent faster and more efficiently",
+    "Sourcing global talent",
+    "Automating end-to-end recruitment processes",
+    "Onboarding international hires",
+    "Conducting AI-driven candidate screening",
+    "Managing recruitment marketing campaigns",
+    "Facilitating interview processes (Interview-as-a-service)",
+    "Streamlining offer management"
+  ],
+  "competitive_advantages": [
+    "AI-driven screening and intelligence (60% faster hiring, 3x recruiter productivity, 85% precision in candidate-to-role match, 45% reduction in sourcing costs)",
+    "Proprietary network of 1.5M+ verified, 'global ready' professionals",
+    "End-to-end recruitment automation capabilities",
+    "Global talent onboarding solutions",
+    "Seamless localization with tailored solutions for leading talent hubs",
+    "One-click advertising across 200+ job boards and talent sources",
+    "Support for various hiring models (contingent, full-time, pre-screened, freshers)",
+    "Interview-as-a-service offering"
+  ],
+  "implementation_scenarios": [
+    "Comprehensive global recruitment platform deployment",
+    "Integration for building and managing international workforces"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Onboarding",
+    "Talent Sourcing"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Machine Learning (ML)"
+  ],
+  "integration_capabilities": [
+    "Integration with 200+ job boards and talent sources for one-click advertising"
+  ],
+  "roi_benefits": [
+    "Hire 60% faster",
+    "3x recruiter productivity",
+    "Achieve 85% precision in candidate-to-role match",
+    "Cut overall sourcing costs by 45%",
+    "Access to a worldwide community of highly-skilled professionals",
+    "Ability to build and manage global teams"
+  ],
+  "searchable_keywords": [
+    "Talent500",
+    "global work",
+    "global workforce",
+    "recruiting",
+    "recruiting software",
+    "talent acquisition",
+    "talent sourcing",
+    "onboarding",
+    "onboarding software",
+    "AI-driven screening",
+    "recruitment automation",
+    "machine learning HR",
+    "data-driven hiring",
+    "international hiring",
+    "remote hiring",
+    "global teams",
+    "AI intelligence",
+    "recruiter productivity",
+    "sourcing costs",
+    "curated talent network",
+    "job boards",
+    "contingent hiring",
+    "full-time hiring",
+    "pre-screened candidates",
+    "freshers hiring",
+    "interview-as-a-service",
+    "career sites",
+    "recruitment marketing",
+    "offer management",
+    "talent assessment",
+    "digital transformation"
+  ],
+  "primary_users": [
+    "Companies",
+    "Professionals",
+    "Recruiters",
+    "Hiring Managers"
+  ],
+  "_weight": 1
+}

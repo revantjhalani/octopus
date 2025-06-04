@@ -1,0 +1,155 @@
+{
+  "id": 310,
+  "name": "Teamlease",
+  "description": "TeamLease\u2019s long term philosophy and goals are best reflected by purpose of \"Putting India To Work\". TeamLease Services is one of India\u2019s leading people supply chain companies offering a range of solutions to 3500+ employers for their hiring, productivity and scale challenges. A Fortune India 500 company listed on the NSE & BSE, TeamLease has hired 20 lakhs+ people over the last 20 years. One of India\u2019s fastest growing employers, TeamLease also operates India\u2019s first NAAC Accredited Skill University and India\u2019s fastest growing PPP Degree Apprenticeship Program. The Company offers solutions to large, medium and small clients across the 3Es of Employment (over 2.9 lakhs associates/trainees), Employability (over 5 lakhs students) and Ease-of-doing Business (over 1000 employers). In FY2015, TeamLease rolled out DA (Degree Apprenticeship) to provide on-the-job training to apprentices.",
+  "features": [
+    "Good Market share",
+    "Knowledge-driven Approach",
+    "Management Friendly"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Recruiting automation software",
+    "Job boards",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Talent sourcing",
+    "Candidate screening"
+  ],
+  "headquarter": "Koramangala, Bengaluru,, Karnataka",
+  "launch_date": "2000",
+  "order": 20272,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Putting india to work",
+  "ProductId": null,
+  "ShortDescription": "Teamlease is India's leading recruitment and online job portal with over 1.6 lakh+ employees.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Nationwide Job Search",
+      "sequence": 0,
+      "description": "Teamlease facilitates job searches across various cities in India, allowing you to find suitable positions in your preferred location."
+    },
+    {
+      "name": "One-Stop Shop for Blue-Collar Jobs",
+      "sequence": 1,
+      "description": "Learn about Teamlease and how they assist individuals in finding blue-collar employment opportunities"
+    },
+    {
+      "name": "Teamlease: Your Gateway to Blue-Collar Careers",
+      "sequence": 2,
+      "description": "This section delves into Teamlease's services and how they connect individuals with blue-collar job opportunities."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:01.197Z",
+  "enhanced_description": "TeamLease Services is a prominent 'people supply chain' company in India, functioning as an online job portal and comprehensive recruitment solution provider. It delivers a range of HR solutions to over 3500 employers, helping them address challenges related to hiring, productivity, and scale. With a history spanning over 20 years and more than 20 lakh people hired, TeamLease facilitates nationwide job searches, with a particular specialization in connecting individuals with blue-collar employment opportunities. Beyond traditional staffing, the company actively contributes to 'Employability' through India's first NAAC Accredited Skill University and a rapidly expanding PPP Degree Apprenticeship Program, which provides essential on-the-job training. TeamLease's services encompass the 3Es: Employment, Employability, and Ease-of-doing Business, catering to a diverse clientele including small, medium, and large organizations, including global enterprises.",
+  "target_industries": [
+    "Sectors employing blue-collar workers"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large"
+  ],
+  "key_use_cases": [
+    "Filling open positions",
+    "Talent sourcing and acquisition",
+    "Candidate screening",
+    "Facilitating nationwide job searches",
+    "Placement for blue-collar jobs",
+    "Staffing and workforce management",
+    "Recruiting automation",
+    "Providing on-the-job training and apprenticeships"
+  ],
+  "competitive_advantages": [
+    "Leading market position in India's people supply chain",
+    "Extensive experience and large talent pool (20 lakhs+ hires over 20 years)",
+    "Unique integration of staffing with skill development through an accredited university and apprenticeship programs",
+    "Ability to serve a wide range of client sizes (small, medium, large, and global enterprises)",
+    "Focus on holistic HR challenges (Employment, Employability, Ease-of-doing Business)",
+    "Specialization in blue-collar talent solutions",
+    "Knowledge-driven approach",
+    "Management friendly"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Staffing",
+    "Talent Acquisition",
+    "Workforce Management",
+    "Talent Development",
+    "Training & Development"
+  ],
+  "roi_benefits": [
+    "Faster time-to-hire",
+    "Improved productivity",
+    "Enhanced organizational scalability",
+    "Increased ease-of-doing business (related to HR/staffing)",
+    "Access to a large and specialized talent pool"
+  ],
+  "searchable_keywords": [
+    "Teamlease",
+    "Recruitment",
+    "Staffing",
+    "Job portal",
+    "Online jobs",
+    "India jobs",
+    "Blue-collar jobs",
+    "Hiring",
+    "Talent sourcing",
+    "Candidate screening",
+    "Workforce management",
+    "Skill development",
+    "Apprenticeships",
+    "Employability",
+    "HR solutions",
+    "People supply chain",
+    "Talent acquisition",
+    "Nationwide jobs",
+    "Temporary staffing",
+    "Contract staffing",
+    "Recruiting automation software",
+    "Job boards"
+  ],
+  "primary_users": [
+    "Employers",
+    "HR Professionals",
+    "Hiring Managers",
+    "Job Seekers (associates/trainees)",
+    "Students"
+  ],
+  "scalability_features": [
+    "Designed to support large user bases and high transaction volumes, evidenced by serving over 3500 employers, managing 2.9 lakhs associates/trainees, 5 lakhs students, and catering to large, medium, and small clients, including global enterprises. The service is explicitly stated to address clients' 'scale challenges'."
+  ],
+  "_weight": 1
+}

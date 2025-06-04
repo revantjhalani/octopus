@@ -1,0 +1,150 @@
+{
+  "id": 710,
+  "name": "Imarticus",
+  "description": "A leading future tech-based professional education brand, dedicated to shaping the workforce of the future through cutting-edge new age programs in Data Science & Analytics, AI, Machine Learning, FinTech, Investment Banking, Finance, Marketing and much more.",
+  "features": [
+    "Interview guaranteed program",
+    "Offer finance and sales course",
+    "Offer analytic solution"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Training & development companies",
+    "Machine learning HR"
+  ],
+  "tags": [
+    "Diversity and inclusion",
+    "Learning analytics"
+  ],
+  "headquarter": "Mumbai",
+  "launch_date": "2012",
+  "order": 20664,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Developing the leaders of tomorrow bt delivering purposeful leading experinces.",
+  "ProductId": null,
+  "ShortDescription": "At Imarticus, we believe that learning is a lifelong process",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Variety of Job-Oriented Courses",
+      "sequence": 0,
+      "description": "Imarticus Learning offers a variety of job-oriented courses that can help you advance your career [1]. The courses are designed for both freshers and executives, so there is something for everyone."
+    },
+    {
+      "name": "Flexible Course Formats",
+      "sequence": 1,
+      "description": "Imarticus Learning offers their courses in a variety of formats, including weekdays, weekends, and live online [1]. This means that you can find a course that fits your schedule and learning style."
+    },
+    {
+      "name": "Highlighted Programs",
+      "sequence": 2,
+      "description": "Imarticus Learning highlights some of their most popular programs on their website, including the Certified Investment Banking Operations Professional, the Postgraduate Program in Data Science and Analytics, and the IIM Lucknow Executive Programme in Sales & Marketing Leadership [1]. These programs can be a good starting point for your search for a course that meets your needs."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:57.484Z",
+  "enhanced_description": "Imarticus is a leading professional education brand focused on future technologies, offering cutting-edge programs in areas such as Data Science & Analytics, AI, Machine Learning, FinTech, Investment Banking, Finance, and Marketing. Dedicated to shaping the workforce of the future, the platform provides job-oriented courses designed for both freshers and executives. Programs are available in flexible formats, including weekdays, weekends, and live online sessions. A notable feature is their 'Interview guaranteed program,' alongside offerings like finance and sales courses, and analytical solutions. Imarticus aims to contribute to building a more diverse and inclusive workforce and supports corporate learning and development initiatives, potentially functioning as a corporate LMS and leveraging learning analytics and machine learning in HR.",
+  "target_industries": [
+    "Financial Services",
+    "Technology"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global"
+  ],
+  "key_use_cases": [
+    "Workforce upskilling and reskilling",
+    "Professional skill enhancement",
+    "Executive education",
+    "Career advancement and job placement support",
+    "Diversity and Inclusion training",
+    "Corporate training delivery",
+    "Learning analytics for program effectiveness"
+  ],
+  "competitive_advantages": [
+    "Interview guaranteed program",
+    "Flexible course formats (weekdays, weekends, live online)",
+    "Specialized in future tech-based programs (e.g., Data Science, AI, ML, FinTech)",
+    "Job-oriented courses for freshers and executives"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Training & Development",
+    "Diversity & Inclusion",
+    "Learning Analytics"
+  ],
+  "roi_benefits": [
+    "Improved workforce skills and capabilities",
+    "Enhanced employee employability and career progression",
+    "Support for building a diverse and inclusive workforce",
+    "Guaranteed interview opportunities for program participants"
+  ],
+  "searchable_keywords": [
+    "Imarticus",
+    "professional education",
+    "future tech",
+    "workforce development",
+    "Data Science",
+    "Analytics",
+    "AI",
+    "Machine Learning",
+    "FinTech",
+    "Investment Banking",
+    "Finance",
+    "Marketing",
+    "job-oriented courses",
+    "interview guaranteed",
+    "online learning",
+    "executive education",
+    "corporate training",
+    "LMS",
+    "learning and development",
+    "training and development",
+    "diversity and inclusion",
+    "learning analytics",
+    "career advancement",
+    "skill enhancement",
+    "upskilling",
+    "reskilling",
+    "leaders of tomorrow",
+    "Certified Investment Banking Operations Professional",
+    "Postgraduate Program in Data Science and Analytics",
+    "IIM Lucknow Executive Programme in Sales & Marketing Leadership"
+  ],
+  "primary_users": [
+    "Individual learners (freshers and executives)",
+    "HR departments",
+    "Learning & Development teams"
+  ],
+  "_weight": 1
+}

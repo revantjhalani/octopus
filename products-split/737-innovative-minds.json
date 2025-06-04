@@ -1,0 +1,149 @@
+{
+  "id": 737,
+  "name": "INNOVATIVE MINDS",
+  "description": "Innovation Minds is actively building the future of Hybrid Work \u2013 AT THE EDGE of your organization. We are a Silicon Valley-based company formed by passionate people to empower organizations to empower their employees to thrive in today\u2019s hybrid work environment. Our extensive experience in technology, engagement and innovation comes together in our EMPLOYEE EXPERIENCE SOLUTION FOR HYBRID WORK\u2122.",
+  "features": [
+    "Value addition and impactful approach",
+    "We take accountability, we get it done, we own mistakes. We\u2019re trustworthy.",
+    "Team of excellent people"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Benefits administration software",
+    "Compensation management software",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee well being",
+    "Employee engagement surveys",
+    "Employee benefits"
+  ],
+  "headquarter": "San Jose, California",
+  "launch_date": "2015",
+  "order": 20690,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Everyone. Everywhere. All the Time. Engagement and Innovation At the Edge.",
+  "ProductId": null,
+  "ShortDescription": "HUMAN CONNECTION IS THE HEART OF TRUE ENGAGEMENT. Helping your Talent communicate and collaborate.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Project Management",
+      "sequence": 0,
+      "description": "Maximize productivity with streamlined work. Centralize processes, tools, and files in one platform. Connect teams, bridge silos, and maintain organizational truth."
+    },
+    {
+      "name": "Innovation Management",
+      "sequence": 1,
+      "description": "Streamline and innovate with our advanced idea management software, enhancing the development, tracking and reporting of top organizational ideas."
+    },
+    {
+      "name": "Employee Engagement",
+      "sequence": 2,
+      "description": "Boost team culture with Innovation Minds! Enhanced satisfaction, united teams, shared appreciation, living company values and a vibrant community spirit."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:31.735Z",
+  "enhanced_description": "INNOVATIVE MINDS, a Silicon Valley-based company, offers an EMPLOYEE EXPERIENCE SOLUTION FOR HYBRID WORK\u2122 designed to empower employees and organizations to thrive in today\u2019s evolving work environment. This solution focuses on human connection to foster true engagement, enabling talent to communicate and collaborate effectively, 'Everyone. Everywhere. All the Time.' It integrates core functionalities such as Project Management for streamlined work and productivity, Innovation Management for developing and tracking organizational ideas, and Employee Engagement to boost team culture, satisfaction, and a vibrant community spirit.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Enhancing employee experience in hybrid work environments",
+    "Improving employee happiness and engagement",
+    "Facilitating communication and collaboration among talent",
+    "Streamlining project management and work processes",
+    "Centralizing tools and files for organizational truth",
+    "Managing and developing organizational ideas and innovation",
+    "Boosting team culture and employee satisfaction"
+  ],
+  "competitive_advantages": [
+    "Extensive experience in technology, employee engagement, and innovation",
+    "Specialized focus on hybrid work environments",
+    "Commitment to accountability and trustworthiness",
+    "Comprehensive employee experience solution covering engagement, innovation, and project management"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Employee Well-being",
+    "Benefits Administration",
+    "Compensation Management",
+    "Employee Communication & Collaboration"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Enhanced employee experience in hybrid work settings",
+    "Maximized productivity through streamlined project management",
+    "Improved organizational efficiency and alignment",
+    "Streamlined innovation processes and idea management",
+    "Boosted team culture and employee satisfaction",
+    "Strengthened human connection and collaboration"
+  ],
+  "searchable_keywords": [
+    "INNOVATIVE MINDS",
+    "Innovation Minds",
+    "Hybrid Work",
+    "Employee Experience",
+    "Employee Engagement",
+    "Employee Well-being",
+    "Employee Benefits",
+    "Benefits Administration Software",
+    "Compensation Management Software",
+    "Artificial Intelligence",
+    "AI",
+    "Project Management",
+    "Innovation Management",
+    "Idea Management",
+    "Human Connection",
+    "Employee Collaboration",
+    "Employee Communication",
+    "Productivity",
+    "Team Culture",
+    "Employee Satisfaction",
+    "Engagement Surveys"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Professionals",
+    "Team Leaders",
+    "Managers"
+  ],
+  "scalability_features": [
+    "Designed to support large and global enterprise scale deployments for broad user bases."
+  ],
+  "_weight": 1
+}

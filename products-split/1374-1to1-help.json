@@ -1,0 +1,178 @@
+{
+  "id": 1374,
+  "name": "1to1 Help",
+  "description": "1to1help.net has devoted itself solely to providing employee and employer well-being through EAP and POSH services.  The company focuses towards the cause of employee emotional and physical wellness; delivering quality and maintaining integrity has been the cornerstone for the organisation. 1to1help.net supports organizations improve employee well-being, through a variety of programmes. They are a global support Partner of 750+ companies covering ~4.5 million people including dependents.",
+  "features": [
+    "Employee Assistance Program (EAP) Services",
+    "Prevention of Sexual Harassment of Women (POSH) Support Services",
+    "Shift Work Lifestyle Management Services",
+    "Healthy Maternity Programs",
+    "Gender Diversity Programs"
+  ],
+  "founders": [],
+  "price": [
+    {
+      "name": "",
+      "type": "",
+      "price": "",
+      "description": ""
+    }
+  ],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Health & safety providers",
+    "Corporate wellness software"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee happiness programs",
+    "Employee hapiness"
+  ],
+  "headquarter": "Bengaluru",
+  "launch_date": "2001",
+  "order": 999,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Making Happy Employees the Norm",
+  "ProductId": null,
+  "ShortDescription": "1to1help is India\u2019s leading Employee Assistance Program (EAP) service provider with a reputation for quality with integrity",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": [
+      {
+        "times": [
+          {
+            "description": ""
+          }
+        ],
+        "header": "",
+        "sequence": 0,
+        "videourl": "",
+        "description": ""
+      }
+    ]
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": " India's Leading Employee Assistance Program",
+      "sequence": 0,
+      "description": "1to1Help is India's leading Employee Assistance Program (EAP).They offer a variety of evidence-based interventions to enhance employee well-being and productivity."
+    },
+    {
+      "name": "Services Offered",
+      "sequence": 1,
+      "description": "1to1Help offers a variety of services to improve employee mental health.These services include Employee Assistance Programs (EAPs), Student Assistance Programs (SAPs), and 1to1Maternity."
+    },
+    {
+      "name": " Success Stories",
+      "sequence": 2,
+      "description": "1to1Help has many success stories from employees who have used their services.Employees have reported that 1to1Help has helped them with stress, sadness, anger, anxiety, and relationship issues.Employees have reported that 1to1Help has helped them with stress, sadness, anger, anxiety, and relationship issues."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": true,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-12T10:49:02.691Z",
+  "enhanced_description": "1to1help.net is a global support partner specializing in employee and employer well-being, with a strong focus on emotional and physical wellness. As India's leading Employee Assistance Program (EAP) provider, they offer a variety of evidence-based interventions, including core EAP services, Prevention of Sexual Harassment (POSH) support, Shift Work Lifestyle Management, Healthy Maternity Programs (including 1to1Maternity), Gender Diversity Programs, and Student Assistance Programs (SAPs). Their comprehensive services aim to improve employee mental health, overall well-being, and productivity, ultimately supporting organizations in improving employee happiness and engagement. They serve as a global support partner for over 750 companies, covering approximately 4.5 million people including dependents, and have been operating since 2001.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Providing confidential support for employee mental and emotional well-being (EAP)",
+    "Addressing and preventing workplace sexual harassment (POSH)",
+    "Supporting employees with lifestyle challenges related to shift work",
+    "Promoting health and well-being during maternity",
+    "Fostering an inclusive workplace through gender diversity initiatives",
+    "Managing employee stress, anxiety, sadness, anger, and relationship issues",
+    "Improving overall employee happiness and engagement"
+  ],
+  "competitive_advantages": [
+    "Leading Employee Assistance Program (EAP) provider in India",
+    "Extensive experience and global reach, supporting 750+ companies and approximately 4.5 million people including dependents",
+    "Long-standing presence in the market (launched in 2001)",
+    "Reputation for quality and integrity",
+    "Offers a diverse range of evidence-based interventions for well-being",
+    "Comprehensive service offering beyond EAP, including POSH, Shift Work, Maternity, Gender Diversity, and Student Assistance Programs"
+  ],
+  "hr_functions_supported": [
+    "Employee Well-being & Wellness",
+    "Diversity, Equity, and Inclusion (DEI)",
+    "Workplace Safety & Compliance",
+    "Employee Relations",
+    "Benefits"
+  ],
+  "roi_benefits": [
+    "Improved employee well-being (emotional and physical)",
+    "Increased employee happiness and engagement",
+    "Enhanced employee productivity",
+    "Reduced employee stress, anxiety, sadness, and anger",
+    "Better management of employee relationship issues",
+    "Support for compliance with workplace harassment regulations (POSH)"
+  ],
+  "searchable_keywords": [
+    "1to1 Help",
+    "1to1help.net",
+    "Employee Assistance Program",
+    "EAP",
+    "Employee well-being",
+    "Employee wellness",
+    "Employer well-being",
+    "Emotional wellness",
+    "Physical wellness",
+    "Prevention of Sexual Harassment of Women",
+    "POSH",
+    "Shift Work Lifestyle Management",
+    "Healthy Maternity Programs",
+    "Gender Diversity Programs",
+    "Employee happiness programs",
+    "Employee engagement",
+    "Health & safety providers",
+    "Corporate wellness software",
+    "India EAP",
+    "Mental health support",
+    "Stress management",
+    "Anxiety support",
+    "Relationship counseling",
+    "Student Assistance Programs",
+    "SAP",
+    "1to1Maternity",
+    "Total Rewards",
+    "HR technology"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Leaders",
+    "Employers",
+    "Dependents of employees",
+    "Students"
+  ],
+  "compliance_features": [
+    "Support for Prevention of Sexual Harassment of Women (POSH) compliance"
+  ],
+  "scalability_features": [
+    "Capable of supporting large and global enterprises",
+    "Supports large employee populations (e.g., 4.5 million people and their dependents)"
+  ],
+  "_weight": 1
+}

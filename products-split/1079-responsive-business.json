@@ -1,0 +1,151 @@
+{
+  "id": 1079,
+  "name": "Responsive Business",
+  "description": "We found that growing their Agile capabilities is the most effective way toward sustainable growth. We assist in building Agile enterprises that are highly receptive to industry changes, adaptive, and innovative. We offer highly interactive, hands-on Coaching models meant for the leadership teams as well as individual performers so they get a grip on the best practices of Business Agility.",
+  "features": [
+    "we excel in inculcating critical thinking",
+    "Offer training for trainers ",
+    "Arrange webinar "
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Adaptive learning"
+  ],
+  "headquarter": "Bengaluru",
+  "launch_date": "2020",
+  "order": 21022,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Building responsive business",
+  "ProductId": null,
+  "ShortDescription": "We help companies work at maximum efficiency with the help of our Agile Coaching Training and Executive Coaching.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Transformation Strategy ",
+      "sequence": 0,
+      "description": " Build a transformational strategy aligned with business goals and objectives for implementing Agile practices across the organization."
+    },
+    {
+      "name": "Scaling Practices",
+      "sequence": 1,
+      "description": "Scale agile practices across teams , departments and locations for consistency standardisation "
+    },
+    {
+      "name": "Hiring Partners",
+      "sequence": 2,
+      "description": "  Hire the right talent for permanent and contractual Agile roles, identifying and recruiting the best candidates for Agile teams."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:40:08.632Z",
+  "enhanced_description": "Responsive Business specializes in building Agile enterprises to foster sustainable growth, adaptability, and innovation. They achieve this through highly interactive, hands-on coaching models, including Agile Coaching Training and Executive Coaching, designed for both leadership teams and individual performers. Their services encompass building a transformational strategy for implementing Agile practices, scaling these practices across teams, departments, and locations for consistency, and supporting the identification and recruitment of talent for permanent and contractual Agile roles.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Implementing Agile practices across an organization",
+    "Scaling Agile methodologies across diverse teams and locations",
+    "Developing business agility through coaching for leadership and individual contributors",
+    "Accelerating skill development and learning efficiency in Agile practices",
+    "Inculcating critical thinking within teams",
+    "Training internal trainers on Agile best practices",
+    "Recruiting talent for permanent and contractual Agile roles"
+  ],
+  "competitive_advantages": [
+    "Offers highly interactive, hands-on coaching models",
+    "Excels in inculcating critical thinking",
+    "Provides 'training for trainers' to enable internal capability building",
+    "Offers a comprehensive suite covering Agile transformation strategy, scaling practices, and talent acquisition"
+  ],
+  "implementation_scenarios": [
+    "Consultancy/Service-based implementation",
+    "Coaching and Training workshops",
+    "Strategic guidance for Agile transformation"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Talent Acquisition",
+    "Training & Development"
+  ],
+  "roi_benefits": [
+    "Sustainable business growth",
+    "Increased receptiveness to industry changes",
+    "Enhanced adaptability and innovation",
+    "Improved organizational efficiency",
+    "Accelerated skill development",
+    "Increased learning efficiency"
+  ],
+  "searchable_keywords": [
+    "Responsive Business",
+    "Agile capabilities",
+    "Business Agility",
+    "Agile enterprise",
+    "Agile coaching",
+    "Executive coaching",
+    "Leadership coaching",
+    "Individual performer coaching",
+    "Hands-on coaching",
+    "Critical thinking",
+    "Training for trainers",
+    "Webinar",
+    "Skill development",
+    "Learning efficiency",
+    "Adaptive learning",
+    "Transformation strategy",
+    "Agile practices",
+    "Scaling Agile",
+    "Talent acquisition",
+    "Agile roles",
+    "Recruitment for Agile",
+    "Training management",
+    "Learning Experience Systems",
+    "L&D",
+    "Organizational efficiency"
+  ],
+  "primary_users": [
+    "Leadership teams",
+    "Individual performers",
+    "Executives",
+    "HR/L&D professionals"
+  ],
+  "scalability_features": [
+    "Supports scaling Agile practices across teams, departments, and locations",
+    "Aims for growing organizational Agile capabilities for sustainable growth"
+  ],
+  "_weight": 1
+}

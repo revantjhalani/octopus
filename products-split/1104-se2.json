@@ -1,0 +1,107 @@
+{
+  "id": 1104,
+  "name": "SE2",
+  "description": "For almost twenty years, Zinnia has brought together insurance experts with entrepreneurs from the fields of technology and data science to deliver new products for the life and annuities industry. We have invested in our technology platforms and capabilities and innovated to deliver full-stack digital services. Zinnia will build on these innovations \u2013 creating brand-new products and value-add data capabilities. We\u2019re focused on transforming the life and annuity industry from end to end so that the experience is exceptional for everyone: consumers, advisors, insurers, and reinsurers.",
+  "features": [
+    "An Emphasis on Wellbeing ",
+    "An Appreciation of Work-Life Harmony",
+    "A Focus on Diversity, Equity, and Inclusion"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Performance management system",
+    "Employee recognition software"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Employee recognition",
+    "Employee happiness programs"
+  ],
+  "headquarter": "Greenwich, CT",
+  "launch_date": "2005",
+  "order": 21047,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Zinnia simplifies buying, selling, and administering insurance.",
+  "ProductId": null,
+  "ShortDescription": "Our technology solutions, marketplace offerings, and TPA services enable end-to-end insurance experiences for consumers, advisors, and insurers.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:40:38.575Z",
+  "enhanced_description": "SE2 is an HR technology solution, part of Zinnia's offerings, designed to enhance employee experiences. It focuses on critical areas such as fostering employee well-being, promoting work-life harmony, and championing diversity, equity, and inclusion. Categorized under Total Rewards, SE2 also provides functionalities typically found in performance management and employee recognition software. Its primary objective is to improve overall employee happiness and engagement through features like employee benefits administration and structured employee recognition programs.",
+  "key_use_cases": [
+    "Improving employee well-being",
+    "Promoting work-life harmony",
+    "Supporting diversity, equity, and inclusion initiatives",
+    "Managing employee performance",
+    "Facilitating employee recognition programs",
+    "Administering employee benefits",
+    "Boosting overall employee happiness and engagement"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards",
+    "Performance Management",
+    "Employee Recognition",
+    "Employee Benefits",
+    "Employee Engagement",
+    "Diversity, Equity, and Inclusion (DEI)",
+    "Well-being Programs",
+    "Work-Life Balance Programs"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness",
+    "Increased employee engagement",
+    "Enhanced employee well-being",
+    "Better work-life harmony outcomes",
+    "Stronger diversity, equity, and inclusion within the workforce"
+  ],
+  "searchable_keywords": [
+    "SE2",
+    "Zinnia",
+    "Total Rewards",
+    "Performance management system",
+    "Employee recognition software",
+    "Employee benefits",
+    "Employee recognition",
+    "Employee happiness programs",
+    "Wellbeing",
+    "Work-Life Harmony",
+    "Diversity Equity Inclusion",
+    "DEI",
+    "Employee happiness",
+    "Employee engagement"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Employees",
+    "Managers"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,185 @@
+{
+  "id": 1243,
+  "name": "Degreed",
+  "description": "Degreed is a technology suite that combines lifelong learning and data-driven development so organizations can accelerate workforce capabilities for greater impact and make skills the heart of all work.\n\nDegreed is the only learning platform that makes it easy for companies to deliver daily learning, deep skill-building, education benefits, real-time insights and expert services, while connecting to a robust network of partners and integrations. ",
+  "features": [
+    "Education",
+    "Credentials",
+    "Social Recruiting",
+    "EdTech",
+    "Education Technology"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Skill acquisition",
+    "Adaptive learning",
+    "Training effectiveness",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Personalised learning",
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning"
+  ],
+  "headquarter": "Pleasanton, California",
+  "launch_date": "2012",
+  "order": 12,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Welcome to the skills-first revolution",
+  "ProductId": null,
+  "ShortDescription": "The Learning and Upskilling Platform",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [
+    "BetterUp",
+    "Circus Street",
+    "Credly",
+    "SAP SuccessFactors"
+  ],
+  "Highlights": [
+    {
+      "name": "Leaning Experience Platform",
+      "sequence": 0,
+      "description": "Unleash the power of skills-based learning"
+    },
+    {
+      "name": "Degreed Academies",
+      "sequence": 1,
+      "description": "Plan and deliver targeted skill development programs"
+    },
+    {
+      "name": "Content Marketplace",
+      "sequence": 2,
+      "description": "Effective, equitable, and flexible skill-building"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:13:02.235Z",
+  "enhanced_description": "Degreed is a comprehensive HR technology suite designed to revolutionize workforce capabilities through a skills-first, data-driven approach. It functions as a leading Learning Experience Platform (LXP) and upskilling platform, enabling organizations to deliver daily learning, foster deep skill-building, manage education benefits, and gain real-time insights into learning progress. The platform supports continuous learning, skill acquisition, and personalized learning pathways, enhancing overall training effectiveness and learning efficiency. Key components include Degreed Academies for planning and delivering targeted skill development programs and a Content Marketplace for effective, equitable, and flexible skill-building, all connected through a robust network of partners and integrations.",
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerating workforce capabilities and impact",
+    "Making skills central to organizational work",
+    "Delivering daily and continuous learning experiences",
+    "Facilitating deep skill-building and acquisition",
+    "Managing education benefits programs",
+    "Providing real-time insights and analytics on learning and skills",
+    "Planning and delivering targeted skill development programs through Degreed Academies",
+    "Enabling personalized learning pathways and experiences",
+    "Optimizing learning efficiency and retention",
+    "Improving overall training effectiveness"
+  ],
+  "competitive_advantages": [
+    "Pioneering a 'skills-first revolution' approach to learning and development",
+    "Combines lifelong learning with data-driven development for accelerated workforce capabilities",
+    "Claimed unique capability to deliver daily learning, deep skill-building, education benefits, real-time insights, and expert services within a single learning platform",
+    "Offers a robust network of partners and integrations",
+    "Provides real-time insights into skill development and learning progress"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development (L&D)",
+    "Corporate Training Management",
+    "Skill Management & Development",
+    "Learning Experience Management",
+    "Learning Analytics",
+    "Education Benefits Administration",
+    "Social Recruiting"
+  ],
+  "integration_capabilities": [
+    "BetterUp",
+    "Circus Street",
+    "Credly",
+    "SAP SuccessFactors",
+    "Robust network of general partners and integrations"
+  ],
+  "roi_benefits": [
+    "Accelerated workforce capabilities and organizational impact",
+    "Enhanced learning efficiency and speed",
+    "Improved skill development and acquisition",
+    "Optimized training effectiveness",
+    "Better learning retention",
+    "Data-driven insights for strategic development"
+  ],
+  "searchable_keywords": [
+    "Degreed",
+    "Learning platform",
+    "Upskilling platform",
+    "Learning and Development",
+    "L&D",
+    "Skills-first",
+    "Skill development",
+    "Skill acquisition",
+    "Lifelong learning",
+    "Data-driven development",
+    "Workforce capabilities",
+    "Daily learning",
+    "Deep skill-building",
+    "Education benefits",
+    "Real-time insights",
+    "Expert services",
+    "Corporate LMS",
+    "Training eLearning software",
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies",
+    "Adaptive learning",
+    "Training effectiveness",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Personalised learning",
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning",
+    "Degreed Academies",
+    "Content Marketplace",
+    "Credentials",
+    "Social Recruiting",
+    "EdTech",
+    "Education Technology"
+  ],
+  "primary_users": [
+    "Employees (for personalized learning and skill acquisition)",
+    "HR Professionals (specifically Learning & Development teams)",
+    "Managers (for overseeing team development and accessing insights)",
+    "Organizational Leaders (for strategic workforce capability acceleration)"
+  ],
+  "_weight": 1
+}

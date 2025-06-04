@@ -1,0 +1,160 @@
+{
+  "id": 680,
+  "name": "HRForcast",
+  "description": "HRForecast is an HR tech company that addresses critical HR questions with robust SaaS people analytics solutions and consulting services.",
+  "features": [
+    "Strategic workforce planning providers",
+    "Learning management systems",
+    "Human capital management platforms"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Machine learning HR",
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Employee benefits",
+    "Employee empowerment"
+  ],
+  "headquarter": "Munich, Bavaria",
+  "launch_date": "2014",
+  "order": 20634,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "AI-enabled HR solutions: People analytics \u00b7 Talent marketplace \u00b7 Strategic workforce planning \u00b7 Market intelligence",
+  "ProductId": null,
+  "ShortDescription": "HRForecast has developed a completely new approach to Human Resources Management. ",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "10+ years of experience",
+      "sequence": 0,
+      "description": "with state-of-the-art technologies like big data and AI to deliver robust and scalable software solutions"
+    },
+    {
+      "name": "Security & scalability",
+      "sequence": 1,
+      "description": "We have individual instances for each client to provide maximum security and protection"
+    },
+    {
+      "name": "Rapid growth",
+      "sequence": 2,
+      "description": "We are stated as one of the fastest growing technology companies in Germany\u200b"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:23.027Z",
+  "enhanced_description": "HRForecast is an HR tech company providing robust SaaS people analytics solutions and consulting services. They offer AI-enabled HR solutions, including people analytics, strategic workforce planning, talent marketplace, and market intelligence, to address critical HR questions. The company has developed a new approach to Human Resources Management, leveraging over 10 years of experience with state-of-the-art technologies like big data and AI.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "People analytics",
+    "Strategic workforce planning",
+    "Talent marketplace management",
+    "HR market intelligence",
+    "Talent acquisition optimization"
+  ],
+  "competitive_advantages": [
+    "Utilizes state-of-the-art technologies including big data and AI",
+    "Provides individual instances for maximum client security and data protection",
+    "Offers robust and scalable software solutions",
+    "A completely new approach to Human Resources Management",
+    "AI-enabled HR solutions"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based SaaS deployment",
+    "Dedicated client instances"
+  ],
+  "hr_functions_supported": [
+    "People analytics",
+    "Strategic workforce planning",
+    "Learning & Development",
+    "Human Capital Management (HCM)",
+    "Talent marketplace",
+    "HR market intelligence",
+    "Talent acquisition",
+    "Employee benefits administration",
+    "Employee empowerment"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Machine Learning (ML)",
+    "Big Data"
+  ],
+  "roi_benefits": [
+    "Improved efficiency in talent acquisition",
+    "Faster talent acquisition",
+    "Enhanced quality of talent hired",
+    "Better decision-making in HR through data-driven insights"
+  ],
+  "searchable_keywords": [
+    "HRForecast",
+    "HR tech",
+    "People analytics",
+    "SaaS",
+    "Consulting services",
+    "Strategic workforce planning",
+    "Learning management systems",
+    "Human capital management",
+    "Machine learning HR",
+    "HR software",
+    "Talent acquisition",
+    "Employee benefits",
+    "Employee empowerment",
+    "AI-enabled HR",
+    "Talent marketplace",
+    "Market intelligence",
+    "Big data",
+    "AI"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "HR leaders",
+    "HR analysts",
+    "Workforce planners",
+    "Talent acquisition teams",
+    "Recruiters"
+  ],
+  "deployment_options": [
+    "Cloud (SaaS)"
+  ],
+  "scalability_features": [
+    "Robust software architecture",
+    "Scalable software solutions"
+  ],
+  "security_features": [
+    "Individual client instances",
+    "Maximum security",
+    "Data protection"
+  ],
+  "_weight": 1
+}

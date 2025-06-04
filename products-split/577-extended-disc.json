@@ -1,0 +1,157 @@
+{
+  "id": 577,
+  "name": "Extended Disc",
+  "description": "Extended DISC\u00ae powered by FinxS is an international assessment company with operations in almost 50 countries and over 250 team members. It offers internationally validated \u2014 and periodically re-validated \u2014 assessments that can be tailored to clients\u2019 unique needs and preferences. We provide the best, internationally validated assessment tools. We provide assessments that can be tailored to our clients\u2019 unique needs. We deliver the most responsive and flexible facilitator support and customer service in the industry. We provide the best support materials. We will never stop developing and improving.",
+  "features": [
+    "Develop employees to become more productive",
+    "Motivate and engage remote employees",
+    "Enhance communication, morale, engagement, and employee satisfaction"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency",
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Training methodologies",
+    "Learning efficiency",
+    "Talent sourcing"
+  ],
+  "headquarter": "Magnolia, TX",
+  "launch_date": "1997",
+  "order": 20535,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Hire the Best - Motivate and Develop Your Employees - Improve Your Teams and Organization.",
+  "ProductId": null,
+  "ShortDescription": "For 30 years, Extended Disc have helped individuals, teams and organizations to become more successful .",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Improve Teams and Organizations",
+      "sequence": 0,
+      "description": "The website sells assessments that help companies improve their teams and organizations."
+    },
+    {
+      "name": "Benefits of Using Extended DISC Assessments",
+      "sequence": 1,
+      "description": "Some of the benefits of using Extended DISC assessments include improving hiring decisions, developing employees, and motivating employees."
+    },
+    {
+      "name": "Unlimited Use Assessment License",
+      "sequence": 2,
+      "description": "For a fixed fee, the Unlimited Use License allows for an unlimited use of assessments. You know exactly how much you will spend and what to budget. You will never have to worry about additional costs."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:30:22.738Z",
+  "enhanced_description": "Extended DISC\u00ae, powered by FinxS, is an international assessment company operating in nearly 50 countries. For over 30 years, it has provided internationally validated and periodically re-validated assessment tools designed to help individuals, teams, and organizations achieve greater success. These assessments can be tailored to clients' specific needs and preferences. The company emphasizes highly responsive and flexible facilitator support and provides comprehensive support materials, continually developing and improving its offerings. Its core mission is to enable organizations to hire top talent, motivate and develop employees, and improve overall team and organizational performance.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee development and productivity enhancement",
+    "Motivation and engagement of remote and in-office employees",
+    "Improvement of internal communication, morale, engagement, and employee satisfaction",
+    "Acceleration of skill development and learning efficiency",
+    "Streamlining and improving the efficiency of talent acquisition and hiring processes",
+    "Improving hiring decisions",
+    "Enhancing overall team and organizational performance"
+  ],
+  "competitive_advantages": [
+    "Internationally validated and periodically re-validated assessment tools",
+    "Assessments are highly customizable to unique client needs and preferences",
+    "Offers highly responsive and flexible facilitator support and customer service",
+    "Provides comprehensive support materials",
+    "Global presence with operations in almost 50 countries",
+    "Long-standing experience in the market (30 years)",
+    "Unlimited Use Assessment License provides cost predictability with a fixed fee, eliminating concerns about additional costs for assessment usage"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Recruiting",
+    "Employee Engagement",
+    "Talent Management"
+  ],
+  "roi_benefits": [
+    "Increased employee productivity",
+    "Improved employee engagement and morale",
+    "Enhanced communication within teams and organizations",
+    "Accelerated skill development and learning",
+    "More efficient and effective talent acquisition",
+    "Better hiring decisions",
+    "Improved team and organizational performance",
+    "Cost predictability and efficiency through unlimited use licensing"
+  ],
+  "searchable_keywords": [
+    "Extended Disc",
+    "FinxS",
+    "assessment company",
+    "internationally validated assessments",
+    "tailored assessments",
+    "employee development",
+    "productivity",
+    "remote employee engagement",
+    "communication",
+    "morale",
+    "employee satisfaction",
+    "skill development",
+    "learning efficiency",
+    "talent acquisition",
+    "hiring",
+    "Learning and Development",
+    "Recruiting",
+    "Training eLearning software",
+    "Recruiting software",
+    "Training methodologies",
+    "Learning efficiency",
+    "Talent sourcing",
+    "team improvement",
+    "organizational improvement",
+    "unlimited use license",
+    "hire top talent",
+    "employee motivation"
+  ],
+  "primary_users": [
+    "HR Professionals (Recruiting Specialists, L&D Specialists)",
+    "Managers",
+    "Team Leaders",
+    "Facilitators",
+    "Individual Employees (for development purposes)"
+  ],
+  "scalability_features": [
+    "Unlimited Use Assessment License caters to high volume assessment usage without additional per-assessment costs",
+    "Supports all company sizes from small to global enterprises"
+  ],
+  "_weight": 1
+}

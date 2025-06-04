@@ -1,0 +1,107 @@
+{
+  "id": 573,
+  "name": "Excelity",
+  "description": "Excelity is a small business and services provider to the federal government providing senior and thought leadership in Agile development. Excelity solves the government\u2019s most systemic challenges by applying rigorous approaches to understanding the customer base in order implement the right IT solutions and advance agency missions.",
+  "features": [
+    "Build Trusted Partnerships",
+    "Enterprise Agility",
+    "Empower Our Teams"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Compensation management software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee benefits",
+    "Employee diversity"
+  ],
+  "headquarter": "Herndon, VA",
+  "launch_date": "1997",
+  "order": 20532,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Innovation Transformed",
+  "ProductId": null,
+  "ShortDescription": "Excelity solves the government\u2019s most systemic challenges by applying rigorous approaches to understanding the customer base in order implement the right IT solutions and advance agency missions.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:30:18.515Z",
+  "target_industries": [
+    "Federal Government"
+  ],
+  "key_use_cases": [
+    "IT solutions for federal government agencies",
+    "Agile development for government projects",
+    "Compensation management for federal employees",
+    "Improving employee engagement within government agencies",
+    "Supporting workforce diversity and inclusion initiatives"
+  ],
+  "competitive_advantages": [
+    "Senior and thought leadership in Agile development",
+    "Rigorous approaches to understanding customer base",
+    "Focus on building trusted partnerships",
+    "Driving enterprise agility for government clients"
+  ],
+  "hr_functions_supported": [
+    "Compensation management",
+    "Employee benefits management",
+    "Employee engagement",
+    "Diversity & Inclusion"
+  ],
+  "roi_benefits": [
+    "Advancing agency missions",
+    "Improved workforce diversity and inclusion",
+    "Enhanced employee happiness and engagement"
+  ],
+  "searchable_keywords": [
+    "Excelity",
+    "federal government",
+    "Agile development",
+    "IT solutions",
+    "systemic challenges",
+    "Total Rewards",
+    "compensation management software",
+    "employee engagement",
+    "employee benefits",
+    "employee diversity",
+    "workforce diversity",
+    "employee happiness",
+    "agency missions",
+    "Herndon VA"
+  ],
+  "primary_users": [
+    "Federal government agencies",
+    "IT leaders within government",
+    "HR professionals within government agencies"
+  ],
+  "_weight": 1
+}

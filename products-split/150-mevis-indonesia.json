@@ -1,0 +1,177 @@
+{
+  "id": 150,
+  "name": "MEVIS Indonesia",
+  "description": "MEVIS is a women-led & tech-powered HR consultancy company specializing in professional recruitment and end-to-end background screening. MEVIS provide customized solutions supported by cutting-edge technology for businesses, especially those seeking to safeguard their hiring process, recruit highly skilled personnel and ensure compliance with relevant regulations . These are critical elements for optimizing your operations.",
+  "features": [
+    "30+ Satisfied Clients",
+    "15+ Industries",
+    "5+ South-East Asia Countries"
+  ],
+  "founders": [
+    "Andi Rahman Hakim"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Background check software",
+    "Recruitment agencies"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Data-driven hiring",
+    "Hiring process optimization"
+  ],
+  "headquarter": "Jakarta Selatan, DKI Jakarta",
+  "launch_date": "2017",
+  "order": 20117,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Social-impact driven HR Recruitment Consultant",
+  "ProductId": null,
+  "ShortDescription": "MEVIS is a women-led & tech-powered HR consultancy company",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "End-to-End Background Screening",
+      "sequence": 0,
+      "description": "Comprehensive background checks ensure thorough candidate verification and enhance job seekers' credibility."
+    },
+    {
+      "name": "Manpower Supply for Staff & Admin",
+      "sequence": 1,
+      "description": "Efficient recruitment for flexible roles, including drivers and admins, with background screening for suitability and professionalism."
+    },
+    {
+      "name": "Corporate Training & Coaching",
+      "sequence": 2,
+      "description": "Personalized training and coaching to drive company growth through new and transformative learning approaches."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:26.893Z",
+  "enhanced_description": "MEVIS is a women-led and tech-powered HR consultancy firm. They specialize in professional recruitment, end-to-end background screening, and manpower supply for staff and administrative roles. Additionally, they offer corporate training and coaching services. MEVIS provides customized, technology-backed solutions designed to help businesses safeguard their hiring process, recruit highly skilled personnel, ensure regulatory compliance, and optimize operations, all while maintaining a social-impact driven approach. They serve a diverse client base across 15+ industries in 5+ South-East Asian countries.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Professional Recruitment",
+    "End-to-End Background Screening",
+    "Manpower Supply for Staff & Admin Roles",
+    "Corporate Training & Coaching",
+    "Hiring Process Safeguarding",
+    "Recruiting Highly Skilled Personnel",
+    "Ensuring Hiring Compliance",
+    "Optimizing HR Operations",
+    "Boosting Hiring Manager Confidence",
+    "Improving Hiring Manager Productivity",
+    "Candidate Verification",
+    "Enhancing Job Seeker Credibility",
+    "Employee Development and Skill Enhancement"
+  ],
+  "competitive_advantages": [
+    "Women-led leadership",
+    "Tech-powered solutions",
+    "Customized HR solutions",
+    "Specialization in professional recruitment and end-to-end background screening",
+    "Utilizes cutting-edge technology",
+    "Social-impact driven approach",
+    "Extensive client base (30+ satisfied clients)",
+    "Broad industry experience (15+ industries served)",
+    "Regional presence in South-East Asia (5+ countries)"
+  ],
+  "implementation_scenarios": [
+    "Service-led Implementation",
+    "Project-based Consultancy"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Background Screening",
+    "Staffing",
+    "Learning & Development",
+    "Compliance"
+  ],
+  "roi_benefits": [
+    "Increased Hiring Manager Confidence",
+    "Improved Hiring Manager Productivity",
+    "Enhanced Hiring Process Safeguarding",
+    "Access to Highly Skilled Personnel",
+    "Improved Regulatory Compliance in Hiring",
+    "Optimized HR Operations",
+    "Thorough Candidate Verification",
+    "Enhanced Job Seeker Credibility",
+    "Efficient Flexible Staffing/Manpower Supply",
+    "Drives Company Growth through Employee Development"
+  ],
+  "searchable_keywords": [
+    "MEVIS Indonesia",
+    "MEVIS",
+    "HR consultancy",
+    "Recruitment",
+    "Professional recruitment",
+    "Background screening",
+    "End-to-end background screening",
+    "Hiring",
+    "Staffing",
+    "Manpower supply",
+    "Corporate training",
+    "Coaching",
+    "HR services",
+    "Recruitment agency",
+    "Background check software",
+    "Staffing & management software",
+    "Data-driven hiring",
+    "Hiring process optimization",
+    "Hiring compliance",
+    "Talent acquisition",
+    "Candidate verification",
+    "Employee development",
+    "Social impact",
+    "Women-led",
+    "Tech-powered",
+    "Customized HR solutions",
+    "Jakarta HR",
+    "Indonesia HR",
+    "Southeast Asia HR"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Departments",
+    "Businesses"
+  ],
+  "deployment_options": [
+    "Service-based"
+  ],
+  "compliance_features": [
+    "Regulatory Compliance Support"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,139 @@
+{
+  "id": 193,
+  "name": "OPRG",
+  "description": "Omnicom PR Group (OPRG) brings together more than 5,000 of the best minds in the communications industry to deliver meaningful, measurable results for clients. From well-known global agencies to highly regarded specialist brands in public affairs, language strategy, global health strategy consulting and change management, OPRG delivers for clients through a relentless focus on talent, continuous pursuit of innovation and a culture steeped in collaboration.",
+  "features": [
+    "Strategic Planning",
+    "Reputation Management",
+    "Crisis Management"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Employee engagement software",
+    "Employee recognition software"
+  ],
+  "tags": [
+    "Employee satisfaction"
+  ],
+  "headquarter": "New York, New York",
+  "launch_date": "2016",
+  "order": 20160,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Offering effective opinion strategy to operate more efficiently",
+  "ProductId": null,
+  "ShortDescription": "The world's top communicators, industry leading expertise, unmatched results",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:14.975Z",
+  "enhanced_description": "Omnicom PR Group (OPRG) unites over 5,000 communications professionals to deliver impactful results for clients globally. Specializing in strategic planning, reputation management, crisis management, public affairs, language strategy, global health strategy consulting, and change management, OPRG focuses on talent, innovation, and collaboration. While primarily a PR/communications entity, its inclusion in 'Talent Management' and 'Total Rewards' categories suggests an internal or consultancy focus on improving employee happiness, engagement, and satisfaction through strategic communication, recognition, and engagement initiatives for organizations.",
+  "target_industries": [
+    "Public Relations",
+    "Communications",
+    "Public Affairs",
+    "Healthcare",
+    "Consulting"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Mid-market",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Strategic Communications Planning",
+    "Reputation Management",
+    "Crisis Communications Management",
+    "Change Management Communications",
+    "Improving Employee Engagement",
+    "Facilitating Employee Recognition",
+    "Talent Management Strategy Consulting",
+    "Total Rewards Strategy Consulting"
+  ],
+  "competitive_advantages": [
+    "Extensive global expertise in communications",
+    "Large pool of specialized talent (5,000+ professionals)",
+    "Focus on delivering measurable results",
+    "Culture of innovation and collaboration",
+    "Ability to manage global enterprise communication needs",
+    "Industry leading expertise"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Employee Recognition",
+    "Talent Management",
+    "Total Rewards"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness",
+    "Increased employee engagement",
+    "Delivery of meaningful and measurable results for clients",
+    "Enhanced operational efficiency through opinion strategy"
+  ],
+  "searchable_keywords": [
+    "OPRG",
+    "Omnicom PR Group",
+    "communications",
+    "public relations",
+    "PR",
+    "public affairs",
+    "language strategy",
+    "global health strategy",
+    "change management",
+    "strategic planning",
+    "reputation management",
+    "crisis management",
+    "employee engagement",
+    "employee recognition",
+    "employee happiness",
+    "employee satisfaction",
+    "talent management",
+    "total rewards",
+    "opinion strategy",
+    "organizational efficiency",
+    "communications consulting",
+    "HR communications"
+  ],
+  "primary_users": [
+    "Corporate Communications Professionals",
+    "Marketing Leaders",
+    "Public Relations Professionals",
+    "HR Leaders",
+    "HR Managers",
+    "Internal Communications Teams"
+  ],
+  "scalability_features": [
+    "Global reach",
+    "Ability to serve large and global enterprises",
+    "Extensive talent pool (5,000+ professionals)"
+  ],
+  "_weight": 1
+}

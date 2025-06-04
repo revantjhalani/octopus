@@ -1,0 +1,141 @@
+{
+  "id": 280,
+  "name": "Simpliance",
+  "description": "Simpliance provides technology-based governance, risk and compliance solutions to organizations varying from large corporates to start-ups. The GRC tools like risk management, regulatory compliance and audit software optimize business performance. Simpliance also hosts India\u2019s largest digital platform for automated Statutory Compliance Management which helps businesses comply with Indian Labour laws. Simpliance, through its compliance automation tool, supports businesses in completing their compliance tasks with informed decision-making on the right platform, loaded with Comprehensive Legal Knowledge for their organizations' Risk and Compliance processes.",
+  "features": [
+    "Belief In People And Teamwork",
+    "Passion For Innovation & Transformation",
+    "Driven To Enable"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Course authoring"
+  ],
+  "tags": [
+    "Skill development",
+    "Adaptive learning"
+  ],
+  "headquarter": "Bengaluru, Karnataka",
+  "launch_date": "2015",
+  "order": 20245,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Automated Audits, Automated Compliance",
+  "ProductId": null,
+  "ShortDescription": "Simpliance provides technology-based governance, risk and compliance solutions to organizations varying from large corporates to start-ups.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Compliance Solutions for Indian Businesses",
+      "sequence": 0,
+      "description": "Simpliance is a company that offers technology solutions to help businesses comply with labor laws in India."
+    },
+    {
+      "name": "Automated Audit Platform and Other Compliance Tools",
+      "sequence": 1,
+      "description": "The company offers a variety of products, including an automated statutory audit platform, a digital compliance monitoring tool, and bespoke audit management."
+    },
+    {
+      "name": "Up-to-Date Data on Labor Laws",
+      "sequence": 2,
+      "description": "Simpliance keeps its data up-to-date with the latest amendments and notifications."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:32.632Z",
+  "enhanced_description": "Simpliance delivers technology-based governance, risk, and compliance (GRC) solutions designed for organizations ranging from large corporations to startups. The platform provides comprehensive GRC tools, including risk management, regulatory compliance, and audit software, all aimed at optimizing business performance. Simpliance notably hosts India's largest digital platform specifically for automated Statutory Compliance Management, assisting businesses in adhering to Indian Labour laws. Its compliance automation capabilities empower businesses to efficiently complete compliance tasks with informed decision-making, leveraging a platform loaded with comprehensive and up-to-date legal knowledge pertinent to organizations' risk and compliance processes. Key offerings include an automated statutory audit platform, a digital compliance monitoring tool, and bespoke audit management services.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Statutory Compliance Management",
+    "Regulatory Compliance",
+    "Risk Management",
+    "Automated Audits",
+    "Digital Compliance Monitoring",
+    "Bespoke Audit Management",
+    "Compliance Task Automation",
+    "Informed Compliance Decision-Making"
+  ],
+  "competitive_advantages": [
+    "India\u2019s largest digital platform for automated Statutory Compliance Management",
+    "Comprehensive Legal Knowledge",
+    "Up-to-Date Data on Labor Laws (specifically Indian Labour laws)",
+    "Automated Compliance and Audits"
+  ],
+  "hr_functions_supported": [
+    "Compliance Management"
+  ],
+  "roi_benefits": [
+    "Optimize business performance",
+    "Ensures compliance with Indian Labour laws",
+    "Facilitates informed decision-making for compliance tasks",
+    "Automates compliance and audit processes for efficiency"
+  ],
+  "searchable_keywords": [
+    "Simpliance",
+    "governance",
+    "risk",
+    "compliance",
+    "GRC",
+    "audit",
+    "regulatory compliance",
+    "India",
+    "Indian Labour laws",
+    "statutory compliance",
+    "compliance management",
+    "automation",
+    "digital platform",
+    "legal knowledge",
+    "Automated Audits",
+    "Automated Compliance",
+    "Labour laws",
+    "digital compliance monitoring",
+    "audit management",
+    "Skill development",
+    "Adaptive learning",
+    "Learning and Development",
+    "Course authoring"
+  ],
+  "primary_users": [
+    "Compliance professionals",
+    "HR professionals (involved in labor law compliance)",
+    "Legal teams",
+    "Risk management teams",
+    "Audit teams"
+  ],
+  "compliance_features": [
+    "Indian Labour laws compliance",
+    "Statutory Compliance Management",
+    "Regulatory Compliance",
+    "Up-to-date legal data and notifications"
+  ],
+  "_weight": 1
+}

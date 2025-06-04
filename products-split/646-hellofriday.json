@@ -1,0 +1,172 @@
+{
+  "id": 646,
+  "name": "hellofriday",
+  "description": "We created the platform for our own internal use. But it was so effective we had to put it out there. During the covid-era, Friday Media Group was struggling with the challenges of the changing work culture; remote employees, hybrid work models and teams scattered all over the world. Even the most modern HR platforms like CharlieHR and Bamboo could not meet our need of building a strong work community, organising internal events, maximum process automation and engaging the new generation of employees.",
+  "features": [
+    "pursue growth and innovation for our platform, customers, and team.",
+    "operate with honesty, integrity, and transparency.",
+    "seek to create balance in life for our employees and customers."
+  ],
+  "founders": [
+    "Hannah Terill"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Total Rewards",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software",
+    "Performance management solutions",
+    "Performance Review software",
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Employee engagement",
+    "Employee development",
+    "Employee empowerment"
+  ],
+  "headquarter": "Brighton, UK",
+  "launch_date": "2022",
+  "order": 20600,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The HR Platform for the Employee, Powered by the Employee.",
+  "ProductId": null,
+  "ShortDescription": "When traditional tools of HR management were challenged in the last few years, helloFriday was created to meet the needs of the changing world of work.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Organisational alignment",
+      "sequence": 0,
+      "description": "Bridge the gap between employees and your business and achieve shared goals"
+    },
+    {
+      "name": "All-in-one HR system",
+      "sequence": 1,
+      "description": " Manage all of your HR processes in a unified platform for a more efficient approach"
+    },
+    {
+      "name": "Easy-to-use platform",
+      "sequence": 2,
+      "description": "User-friendly HR system with an intuitive UX that ensures seamless navigation"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:31:45.274Z",
+  "enhanced_description": "hellofriday is an HR platform designed to address the challenges of modern work culture, including remote and hybrid work models, and globally scattered teams. Initially developed for internal use by Friday Media Group during the COVID-era, it proved highly effective in building strong work communities, organizing internal events, maximizing process automation, and engaging new generations of employees, where traditional HR platforms like CharlieHR and Bamboo fell short. Positioned as 'The HR Platform for the Employee, Powered by the Employee,' it aims to be an all-in-one, easy-to-use system with an intuitive user experience for seamless navigation, ultimately bridging the gap between employees and business goals for organizational alignment.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Building strong work communities",
+    "Organizing internal events",
+    "Automating HR processes",
+    "Engaging new generation employees",
+    "Boosting hiring manager confidence",
+    "Improving hiring manager productivity",
+    "Employee engagement initiatives",
+    "Employee development programs",
+    "Employee empowerment strategies",
+    "Achieving organizational alignment"
+  ],
+  "competitive_advantages": [
+    "Addresses specific gaps in traditional HR platforms for remote/hybrid work challenges",
+    "Employee-centric design ('Powered by the Employee')",
+    "Focus on building strong work community and internal event management",
+    "Emphasis on maximum process automation",
+    "Aids in engaging the new generation of employees",
+    "All-in-one HR system for unified management",
+    "Easy-to-use platform with intuitive user experience"
+  ],
+  "hr_functions_supported": [
+    "Core HR",
+    "Performance Management",
+    "Performance Reviews",
+    "Payroll",
+    "Hiring",
+    "Recruiting",
+    "Employee Engagement",
+    "Employee Development",
+    "Employee Empowerment",
+    "Total Rewards"
+  ],
+  "roi_benefits": [
+    "Improved management of remote and hybrid workforces",
+    "Enhanced employee community and engagement in distributed environments",
+    "Increased efficiency through maximum process automation",
+    "Boosted hiring manager confidence",
+    "Improved hiring manager productivity",
+    "Better organizational alignment by bridging employee-business gaps",
+    "More efficient HR operations via a unified platform"
+  ],
+  "searchable_keywords": [
+    "hellofriday",
+    "HR platform",
+    "HR management",
+    "HRMS",
+    "HCM",
+    "Core HR",
+    "Total Rewards",
+    "Performance management",
+    "Performance review",
+    "Payroll services",
+    "Hiring",
+    "Recruiting",
+    "Employee engagement",
+    "Employee development",
+    "Employee empowerment",
+    "Work community",
+    "Internal events",
+    "Process automation",
+    "Remote work",
+    "Hybrid work",
+    "Distributed teams",
+    "Employee-centric",
+    "User-friendly HR system",
+    "Intuitive UX",
+    "Organizational alignment",
+    "Unified HR system",
+    "All-in-one HR",
+    "Work culture",
+    "Employee software",
+    "HR tech"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Professionals",
+    "Hiring Managers"
+  ],
+  "scalability_features": [
+    "Designed for large enterprise operations",
+    "Supports global enterprise deployments"
+  ],
+  "_weight": 1
+}

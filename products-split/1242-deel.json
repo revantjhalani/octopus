@@ -1,0 +1,218 @@
+{
+  "id": 1242,
+  "name": "Deel",
+  "description": "Deel is built to scale with organizations of all sizes, from small teams to enterprises of thousands. Whether you want to hire worldwide without opening legal entities, streamline HR for your global team, or pay all types of workers anywhere with consolidated payroll Deel does it all with full compliance.",
+  "features": [
+    "500K Workers onboarded globally",
+    "25K Global businesses supported",
+    "$10B Compliantly processed Global Payroll"
+  ],
+  "founders": [
+    "Alex Bouaziz",
+    "Shuo Wang"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Recruiting",
+    "Total Rewards",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software",
+    "Human Resource Information Systems (HRIS)",
+    "Human Capital Management",
+    "Recruiting software",
+    "Pre-employment screening software",
+    "Background check software",
+    "Reference check software",
+    "Recruiting automation software",
+    "Talent acquisition suites",
+    "Onboarding software",
+    "Recruitment marketing platforms",
+    "Benefits administration services",
+    "Payroll services providers",
+    "Sales compensation software",
+    "Compensation management software",
+    "Performance management solutions",
+    "Performance Review software",
+    "Performance management system",
+    "Benefits administration software"
+  ],
+  "tags": [
+    "Hiring efficiency",
+    "Hiring Efficiency",
+    "Recruiting efficiency",
+    "Talent acquisition",
+    "Talent sourcing",
+    "Candidate screening",
+    "Interview scheduling",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Hiring best practices",
+    "Talent pipeline",
+    "Employee referral program"
+  ],
+  "headquarter": "San Francisco, California",
+  "launch_date": "2019",
+  "order": 7,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Deel is the all-in-one HR platform for global teams",
+  "ProductId": null,
+  "ShortDescription": "Deel\u2019s the only HR platform with everything you need, for everyone",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Onboard in seconds",
+      "sequence": 0,
+      "description": " Get your team set up with everything they need, like contracts, equipment, and way more"
+    },
+    {
+      "name": "Pay everyone",
+      "sequence": 1,
+      "description": "Pay your employees and contractors in a few clicks, without unnecessary fees or hassle."
+    },
+    {
+      "name": "Manage HR for anyone",
+      "sequence": 2,
+      "description": "Simplify HR for your whole team with the only global-first HR platform for any worker."
+    }
+  ],
+  "Approved": true,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:13:00.593Z",
+  "enhanced_description": "Deel is an all-in-one HR platform designed to scale with organizations of all sizes, from small teams to large enterprises. It enables global hiring without requiring local legal entities, streamlines HR operations for global teams, and offers consolidated payroll for all worker types worldwide, ensuring full compliance. Key functionalities include rapid onboarding with contract and equipment management, simplified global payroll for employees and contractors in a few clicks without unnecessary fees, and comprehensive HR management for any worker type.",
+  "ideal_company_sizes": [
+    "small",
+    "mid-market",
+    "large enterprise"
+  ],
+  "key_use_cases": [
+    "Global hiring without establishing local legal entities",
+    "Streamlining HR operations for global teams",
+    "Consolidated payroll for all worker types globally (employees and contractors)",
+    "Rapid onboarding processes (including contracts and equipment management)",
+    "Comprehensive HR management for diverse global workforces",
+    "Efficient talent acquisition"
+  ],
+  "competitive_advantages": [
+    "Enables global hiring without the necessity of opening local legal entities",
+    "Provides a consolidated global payroll solution for diverse worker types",
+    "Ensures full compliance across global HR and payroll operations",
+    "Offers a comprehensive, all-in-one HR platform specifically designed for global teams",
+    "Facilitates extremely rapid onboarding (in seconds)",
+    "Simplifies global payments for employees and contractors, reducing fees and hassle",
+    "Built as a global-first HR platform"
+  ],
+  "hr_functions_supported": [
+    "Core HR",
+    "Human Resource Information Systems (HRIS)",
+    "Human Capital Management (HCM)",
+    "Recruiting",
+    "Pre-employment screening",
+    "Background checks",
+    "Reference checks",
+    "Recruiting automation",
+    "Talent acquisition",
+    "Onboarding",
+    "Recruitment marketing",
+    "Benefits administration",
+    "Payroll services",
+    "Sales compensation",
+    "Compensation management",
+    "Performance management",
+    "Performance reviews"
+  ],
+  "roi_benefits": [
+    "Faster and more efficient hiring of top talent",
+    "Streamlined global HR operations",
+    "Reduced administrative burden and operational costs through consolidated global payroll",
+    "Mitigation of compliance risks for international hiring and payroll",
+    "Significant time savings in onboarding processes",
+    "Cost savings and reduced administrative effort related to global payments"
+  ],
+  "searchable_keywords": [
+    "Deel",
+    "HR platform",
+    "global teams",
+    "global hiring",
+    "international hiring",
+    "worldwide hiring",
+    "legal entities",
+    "global HR",
+    "payroll",
+    "consolidated payroll",
+    "compliance",
+    "HRMS",
+    "HCM",
+    "Human Capital Management",
+    "HRIS",
+    "Human Resource Information Systems",
+    "Recruiting software",
+    "Talent acquisition",
+    "Onboarding software",
+    "Core HR",
+    "Total Rewards",
+    "Benefits administration",
+    "Compensation management",
+    "Sales compensation",
+    "Performance management system",
+    "Performance review software",
+    "Pre-employment screening",
+    "Background check",
+    "Reference check",
+    "Recruiting automation",
+    "Talent sourcing",
+    "Candidate screening",
+    "Interview scheduling",
+    "Hiring efficiency",
+    "Talent pipeline",
+    "Employee referral program",
+    "contracts",
+    "equipment",
+    "employees",
+    "contractors",
+    "all-in-one HR"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Recruiters",
+    "Talent Acquisition Teams",
+    "Payroll Managers",
+    "Compensation & Benefits Professionals",
+    "Hiring Managers"
+  ],
+  "compliance_features": [
+    "Ensures full compliance for global hiring, HR operations, and payroll processing"
+  ],
+  "scalability_features": [
+    "Built to scale with organizations of all sizes, from small teams to enterprises of thousands",
+    "Proven capacity to onboard over 500,000 workers globally",
+    "Supports over 25,000 global businesses",
+    "Designed as a global-first HR platform"
+  ],
+  "_weight": 1
+}

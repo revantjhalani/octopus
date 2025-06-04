@@ -1,0 +1,138 @@
+{
+  "id": 206,
+  "name": "Paytm",
+  "description": "My apologies for exceeding the word limit. Here's a revised version within 65 words:\n\n\"Paytm sparked India's Digital Revolution and leads as the nation's premier Payments App. Over 20 million merchants use Paytm to accept digital payments, serving more than 300 million users nationwide. The app also handles bill payments, recharges, money transfers, and ticket bookings. With ongoing innovations in financial services, Paytm aims to integrate 500 million underserved Indians into the mainstream economy.\"",
+  "features": [
+    "Paytm accepts payments digitally",
+    "Paytm App is used to pay bills, do recharges, send money to friends & family, book movies & travel tickets.",
+    "With innovations to financial services & products in the pipeline, this is but one of the milestones achieved towards our mission \u2013 to bring 500 million unserved and underserved Indians to the mainstream economy."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Internet of things"
+  ],
+  "tags": [
+    "Employee empowerment"
+  ],
+  "headquarter": "Noida, Uttar Pradesh",
+  "launch_date": "2009",
+  "order": 20173,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "India's Most-loved Payments App",
+  "ProductId": null,
+  "ShortDescription": "Paytm started the Digital Revolution in India",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Pay anyone directly from your bank account",
+      "sequence": 0,
+      "description": " Make contactless & secure payments in-stores or online using Paytm UPI or Directly from your Bank Account."
+    },
+    {
+      "name": "Insurance made easy",
+      "sequence": 1,
+      "description": "Paytm Insurance removes the worry of getting insured by making it simple, convenient & easy-to-understand."
+    },
+    {
+      "name": "Get a Personal Loan in 2 Minutes",
+      "sequence": 2,
+      "description": "Paytm offers India\u2019s quickest multi-purpose, hassle-free loan. It is 100% digital, transparent and paperless. Learn More."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:28.023Z",
+  "enhanced_description": "Paytm is India's leading payments app, having pioneered the nation's digital revolution. It serves over 20 million merchants for digital payment acceptance and more than 300 million users across India. The app offers comprehensive services including bill payments, mobile recharges, money transfers, and booking of movies and travel tickets. Users can make secure, contactless payments in-stores or online via Paytm UPI or direct bank account. Beyond payments, Paytm provides accessible financial products like simplified insurance and quick, 100% digital personal loans. Its mission is to bring 500 million unserved and underserved Indians into the mainstream economy through continuous financial service innovation.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Digital payment acceptance for businesses",
+    "Consumer bill payments",
+    "Mobile phone recharges",
+    "Peer-to-peer money transfers",
+    "Booking of movies and travel tickets",
+    "Contactless and secure in-store payments",
+    "Online payments via UPI or direct bank account",
+    "Accessing insurance products",
+    "Obtaining personal loans"
+  ],
+  "competitive_advantages": [
+    "Market leadership as India's premier payments app",
+    "Extensive user base (300+ million consumers)",
+    "Wide merchant adoption (20+ million businesses)",
+    "Pioneering role in India's digital revolution",
+    "Comprehensive suite of financial services beyond basic payments",
+    "Ease of access and simplicity for financial products (e.g., insurance, loans)",
+    "Speed and digital efficiency for loan applications (2-minute, 100% digital loans)",
+    "Commitment to financial inclusion for underserved populations",
+    "Secure payment processing"
+  ],
+  "roi_benefits": [
+    "Increased convenience and accessibility for consumers for various financial transactions",
+    "Facilitates digital payment acceptance for merchants, potentially increasing sales and reducing cash handling costs",
+    "Provides quick and hassle-free access to financial services like loans and insurance, saving time for users",
+    "Contributes to financial inclusion by integrating underserved populations into the mainstream economy"
+  ],
+  "searchable_keywords": [
+    "Paytm",
+    "payments",
+    "digital payments",
+    "payment app",
+    "financial services",
+    "bill payments",
+    "recharges",
+    "money transfer",
+    "ticket booking",
+    "UPI",
+    "bank account",
+    "insurance",
+    "personal loan",
+    "mobile payments",
+    "India",
+    "online payments",
+    "in-store payments",
+    "employee empowerment",
+    "consumer finance"
+  ],
+  "primary_users": [
+    "Consumers",
+    "Merchants"
+  ],
+  "deployment_options": [
+    "Mobile Application"
+  ],
+  "security_features": [
+    "Secure payments",
+    "Contactless payments"
+  ],
+  "_weight": 1
+}

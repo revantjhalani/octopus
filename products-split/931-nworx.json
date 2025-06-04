@@ -1,0 +1,124 @@
+{
+  "id": 931,
+  "name": "NWORX",
+  "description": "NWORX is India\u2019s pioneering \u2018Performance Enablement\u2019 platform, catering to a growing global market for \u2018performance-driven business growth.\u2019 Powered by intelligent, next-gen AI technology, the B2B SaaS platform equips organizations to transition from a traditional performance management approach to a goal-driven \u2018performance enablement\u2019 approach resulting in better business outcomes. Launched by Hariraj Vijayakumar and Shwetal Shubhadeep in October 2020, NWORX is unique within the larger HR Tech segment \u2013 it brings together deep expertise in the talent domain and advanced AI technology. NWORX has enormous promise for India (its founding country) - which will have 25% of the global workforce by 2050. It carries a significant promise of a larger impact as it strives to onboard a million professionals across the globe.",
+  "features": [
+    "Inability to adapt and act on the shifting customer mindset.",
+    "The middle management layer is bloated, with no place to go.",
+    "Teams are unable to improve productivity even with improved domain expertise."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Performance management system"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee happiness",
+    "Employee well being",
+    "Employee happiness programs"
+  ],
+  "headquarter": "",
+  "launch_date": "2017",
+  "order": 21157,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "NWORX is a B2B SaaS platform used by enterprises to improve the performance of their leaders and teams.",
+  "ProductId": null,
+  "ShortDescription": "NWORX is India\u2019s pioneering \u2018Performance Enablement\u2019 platform, catering to a growing global market for \u2018performance-driven business growth.\u2019",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": [],
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": false,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:37:09.381Z",
+  "enhanced_description": "NWORX is India\u2019s pioneering \u2018Performance Enablement\u2019 platform, a B2B SaaS solution leveraging intelligent, next-gen AI technology. Launched in October 2020 by Hariraj Vijayakumar and Shwetal Shubhadeep, it uniquely combines deep talent domain expertise with advanced AI. The platform equips organizations to transition from a traditional performance management approach to a goal-driven 'performance enablement' approach, aiming for 'performance-driven business growth' and better business outcomes. NWORX is designed to improve the performance of leaders and teams, contributing to enhanced employee happiness and engagement. It caters to a growing global market, with a significant promise for India's future workforce, striving to onboard a million professionals across the globe.",
+  "ideal_company_sizes": [
+    "Mid-market",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Transitioning from traditional to goal-driven performance enablement",
+    "Improving leader performance",
+    "Improving team performance",
+    "Enhancing organizational adaptability to market changes",
+    "Optimizing middle management effectiveness",
+    "Boosting overall team productivity",
+    "Fostering employee happiness and engagement"
+  ],
+  "competitive_advantages": [
+    "Pioneering 'Performance Enablement' approach (moving beyond traditional performance management)",
+    "Unique integration of deep talent domain expertise with advanced AI technology",
+    "Leverages intelligent, next-gen AI for enhanced capabilities",
+    "Focus on driving 'performance-driven business growth'",
+    "Aims for significant global impact and scalability to onboard a million professionals"
+  ],
+  "hr_functions_supported": [
+    "Performance Management",
+    "Performance Enablement",
+    "Employee Engagement",
+    "Talent Development"
+  ],
+  "roi_benefits": [
+    "Better business outcomes",
+    "Performance-driven business growth",
+    "Improved employee happiness and engagement",
+    "Enhanced performance of leaders and teams",
+    "Increased organizational adaptability to shifting customer mindsets",
+    "Improved effectiveness of middle management",
+    "Higher team productivity"
+  ],
+  "searchable_keywords": [
+    "NWORX",
+    "Performance Enablement",
+    "Performance Management",
+    "AI",
+    "HR Tech",
+    "B2B SaaS",
+    "Goal-driven Performance",
+    "Business Growth",
+    "Business Outcomes",
+    "Employee Engagement",
+    "Employee Happiness",
+    "Employee Well-being",
+    "Productivity",
+    "Leaders",
+    "Teams",
+    "Talent Development",
+    "Organizational Performance",
+    "Workforce Performance",
+    "Digital HR"
+  ],
+  "primary_users": [
+    "Leaders",
+    "Teams",
+    "HR Professionals"
+  ],
+  "deployment_options": [
+    "Cloud-based SaaS"
+  ],
+  "scalability_features": [
+    "Designed to support large-scale professional onboarding (aims to onboard a million professionals globally)"
+  ],
+  "_weight": 1
+}

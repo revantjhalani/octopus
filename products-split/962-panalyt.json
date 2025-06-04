@@ -1,0 +1,141 @@
+{
+  "id": 962,
+  "name": "Panalyt",
+  "description": "Panalyt integrates and analyzes people data scattered across disparate HR, Productivity, Finance and Digital Communications systems, and files, to provide actionable and holistic people insights to the C-suite, HR /HRBPs and Line Managers through our suite of pre-built dashboards covering the end-to-end employee lifecycle. In addition, we also allow PA/ HR BI teams to directly access our integrated people data warehouse to drastically reduce the time and effort required \u201cPanalyt is the only multi-source analytics platform in our study that also offers ONA to analyze digital collaboration and communication based on passive data. The company further integrates sales and business data, allowing line managers to identify and focus on areas critical to them.\u201d - RedThread Research's People Analytics Tech 2020 Report",
+  "features": [
+    "Flexible viewing authority settings",
+    "Customize metrics and dashboards according to your company\u2019s issues",
+    "Continuous support until utilization after introduction"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Compensation management software",
+    "Performance management system"
+  ],
+  "tags": [
+    "Employee engagement surveys",
+    "Employee engagement",
+    "Quality of hire"
+  ],
+  "headquarter": "Singapore, Singapore",
+  "launch_date": "2017",
+  "order": 20909,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "People Analytics That Works!",
+  "ProductId": null,
+  "ShortDescription": "Panalyt integrates and analyzes people data scattered across disparate HR, Productivity, Finance and Digital Communications systems, and files, to provide actionable and holistic people insights to the C-suite, HR /HRBPs and Line Managers through our suite of pre-built dashboards covering the end-to-end employee lifecycle.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:37:46.411Z",
+  "enhanced_description": "Panalyt is a multi-source people analytics platform designed to integrate and analyze human resources (HR), productivity, finance, digital communications, sales, and general business data from disparate systems and files. It provides actionable and holistic people insights to the C-suite, HR, HRBPs, and Line Managers through a suite of pre-built dashboards covering the end-to-end employee lifecycle. The platform uniquely offers Organizational Network Analysis (ONA) to analyze digital collaboration and communication based on passive data. Additionally, it allows People Analytics (PA) and HR Business Intelligence (BI) teams direct access to an integrated people data warehouse, significantly reducing data preparation time and effort. Panalyt supports the customization of metrics and dashboards according to company-specific issues and provides continuous support for utilization after introduction.",
+  "key_use_cases": [
+    "Integrating and analyzing people data from disparate HR, productivity, finance, and digital communication systems and files",
+    "Providing holistic people insights to C-suite, HR/HRBPs, and line managers",
+    "Generating pre-built dashboards for end-to-end employee lifecycle insights",
+    "Enabling direct access to an integrated people data warehouse for PA/HR BI teams",
+    "Analyzing digital collaboration and communication using Organizational Network Analysis (ONA) based on passive data",
+    "Integrating sales and business data to help line managers identify and focus on critical areas",
+    "Improving employee happiness and engagement",
+    "Customizing HR metrics and dashboards",
+    "Compensation management analysis",
+    "Performance management analysis",
+    "Employee engagement survey analysis",
+    "Quality of hire analysis"
+  ],
+  "competitive_advantages": [
+    "The only multi-source analytics platform in its study offering ONA for digital collaboration and communication analysis based on passive data (as per RedThread Research)",
+    "Integrates sales and business data to provide relevant insights for line managers",
+    "Significantly reduces time and effort for PA/HR BI teams by providing direct access to an integrated people data warehouse",
+    "Offers continuous support until utilization after product introduction"
+  ],
+  "hr_functions_supported": [
+    "People Analytics",
+    "HR Business Intelligence (BI)",
+    "Compensation Management",
+    "Performance Management",
+    "Employee Engagement",
+    "Employee Lifecycle Management"
+  ],
+  "integration_capabilities": [
+    "HR systems",
+    "Productivity systems",
+    "Finance systems",
+    "Digital Communications systems",
+    "Files",
+    "Sales data",
+    "Business data"
+  ],
+  "roi_benefits": [
+    "Drastically reduced time and effort for PA/HR BI teams in data access and preparation",
+    "Actionable and holistic people insights for strategic decision-making by C-suite, HR, and line managers",
+    "Improved employee happiness and engagement",
+    "Ability for line managers to identify and focus on business-critical areas through integrated sales and business data"
+  ],
+  "searchable_keywords": [
+    "Panalyt",
+    "People Analytics",
+    "HR Analytics",
+    "Workforce Analytics",
+    "People data",
+    "HR insights",
+    "Employee lifecycle",
+    "Dashboards",
+    "Data warehouse",
+    "Organizational Network Analysis",
+    "ONA",
+    "Digital collaboration analysis",
+    "Communication analysis",
+    "Employee engagement",
+    "Employee happiness",
+    "Compensation management",
+    "Performance management",
+    "Quality of hire",
+    "Multi-source analytics",
+    "HR productivity",
+    "Finance data integration",
+    "Sales data integration",
+    "Business data integration",
+    "HRBP",
+    "HR BI"
+  ],
+  "primary_users": [
+    "C-suite executives",
+    "HR professionals",
+    "HR Business Partners (HRBPs)",
+    "Line Managers",
+    "People Analytics (PA) teams",
+    "HR Business Intelligence (BI) teams"
+  ],
+  "security_features": [
+    "Flexible viewing authority settings"
+  ],
+  "_weight": 1
+}

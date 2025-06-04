@@ -1,0 +1,129 @@
+{
+  "id": 572,
+  "name": "Exalogic Consulting",
+  "description": "Exalogic Consulting, a global leader in technology advisory and digital transformation, champions sustainable business practices. With a steadfast focus on environmental responsibility, we empower organizations to navigate change using our rich technological expertise. Our commitment to sustainability drives us to deliver innovative solutions that not only spur progress but also prioritize ecological preservation. By harnessing technology's full potential, we enable our clients to navigate dynamic tech landscapes swiftly and confidently, fostering a future that's both adaptive and sustainable.",
+  "features": [
+    "Machine Learning & Artificial Intelligence",
+    "Product Engineering for Web & Mobile",
+    "Analytics and Data Visualization"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Internet of things",
+    "Blockchain"
+  ],
+  "tags": [
+    "Diversity and inclusion",
+    "Employee diversity"
+  ],
+  "headquarter": "London, United Kingdom",
+  "launch_date": "1999",
+  "order": 20531,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Helping organizations transform digitally with AI, Cloud, Blockchain and IoT.",
+  "ProductId": null,
+  "ShortDescription": "Exalogic Consulting, a global leader in technology advisory and digital transformation, champions sustainable business practices.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:30:17.511Z",
+  "enhanced_description": "Exalogic Consulting is a global leader in technology advisory and digital transformation, specializing in empowering organizations to navigate complex technological shifts using advanced capabilities in Machine Learning, Artificial Intelligence, Analytics, Cloud, Blockchain, and the Internet of Things (IoT). With a strong commitment to sustainable business practices and environmental responsibility, the firm delivers innovative solutions that drive progress while prioritizing ecological preservation. Furthermore, Exalogic Consulting specifically champions initiatives to build a more diverse and inclusive workforce, leveraging technology to foster employee diversity and achieve critical HR objectives.",
+  "key_use_cases": [
+    "Driving digital transformation initiatives",
+    "Leveraging AI and Machine Learning for business insights",
+    "Developing web and mobile products through product engineering",
+    "Implementing data analytics and visualization for informed decision-making",
+    "Adopting Blockchain technology for enterprise solutions",
+    "Integrating IoT solutions for operational intelligence",
+    "Developing strategies and solutions to build a more diverse and inclusive workforce"
+  ],
+  "competitive_advantages": [
+    "Global leadership in technology advisory and digital transformation",
+    "Strong focus on sustainable business practices and ecological preservation",
+    "Rich technological expertise in advanced areas like AI, ML, Blockchain, IoT, and Cloud",
+    "Ability to enable clients to navigate dynamic tech landscapes swiftly and confidently",
+    "Commitment to fostering diversity and inclusion within organizations"
+  ],
+  "implementation_scenarios": [
+    "Strategic technology advisory engagements",
+    "Custom technology solution development (web, mobile, AI, Blockchain, IoT)",
+    "Consulting for digital transformation roadmaps"
+  ],
+  "hr_functions_supported": [
+    "Diversity and Inclusion (D&I) initiatives",
+    "Employee diversity programs"
+  ],
+  "technology_stack": [
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Analytics",
+    "Cloud",
+    "Blockchain",
+    "Internet of things (IoT)"
+  ],
+  "roi_benefits": [
+    "Accelerated digital transformation and business progress",
+    "Improved agility and confidence in navigating technological changes",
+    "Enhanced data-driven decision making",
+    "Development of innovative web and mobile products",
+    "Achievement of sustainable business practices and ecological preservation goals",
+    "Realization of diversity and inclusion objectives within the workforce"
+  ],
+  "searchable_keywords": [
+    "Exalogic Consulting",
+    "technology advisory",
+    "digital transformation",
+    "sustainable business practices",
+    "environmental responsibility",
+    "Machine Learning",
+    "Artificial Intelligence",
+    "AI",
+    "Product Engineering",
+    "Web Development",
+    "Mobile Development",
+    "Analytics",
+    "Data Visualization",
+    "Internet of things",
+    "IoT",
+    "Blockchain",
+    "Cloud",
+    "Diversity and inclusion",
+    "Employee diversity",
+    "HR technology",
+    "HR consulting"
+  ],
+  "primary_users": [
+    "Business Leaders",
+    "IT Leaders",
+    "HR Leaders",
+    "Innovation Leaders"
+  ],
+  "_weight": 1
+}

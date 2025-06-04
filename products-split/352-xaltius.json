@@ -1,0 +1,184 @@
+{
+  "id": 352,
+  "name": "Xaltius",
+  "description": "Xaltius is a technology and data-driven company with the expertise to provide innovative software solutions and training to customers around the globe. We work to revamp and refine business potential, driving business excellence. As a maturing, tech-based company at heart, we are driven by the ever-changing dynamics of digitalization to provide personalized software solutions elevating business capabilities. Alongside our counterparts, we offer retail and corporate training in the fields of data analytics, data science, big data, and cloud technologies and have been actively doing that in Singapore since inception. We are a diverse and value-driven team of knowledgeable and talented individuals, focusing entirely on achieving outstanding customer satisfaction. Being a young and fast-moving team, open-mindedness and flexibility define us.",
+  "features": [
+    "Remote Working Options",
+    "Work From Home (WFH) Options",
+    "Casual Dress"
+  ],
+  "founders": [
+    "A.M. Aditya",
+    "Desmond Sek"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Reduce the Cost of Hiring Qualified Employees",
+    "Accelerate Skill Development and Learning Efficiency",
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Talent Management",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Employee scheduling software",
+    "Time tracking",
+    "Software and Services Related to HR Software",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Learning speed",
+    "Workforce diversity"
+  ],
+  "headquarter": "null",
+  "launch_date": "2017",
+  "order": 20314,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Enabling Data-Driven Business Transformation",
+  "ProductId": null,
+  "ShortDescription": "Xaltius is a technology and data-driven company that provides innovative software solutions and training worldwide.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "AI Powered Assistance",
+      "sequence": 0,
+      "description": "Our AI-powered Learning Management Solution improves student learning by automatically fetching relevant online content to enhance their knowledge and skills."
+    },
+    {
+      "name": "Computer Vision",
+      "sequence": 1,
+      "description": "Use cutting edge techniques to derive hidden value from images and videos"
+    },
+    {
+      "name": "BI & Analytics",
+      "sequence": 2,
+      "description": "Analyze data and get actionable insights with stunning reports and real time dashboards"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:58.691Z",
+  "enhanced_description": "Xaltius is a technology and data-driven company providing innovative software solutions and training globally. Their product offerings include personalized software solutions for HR functions such as talent management, employee scheduling, and time tracking. Xaltius also specializes in corporate and retail training across cutting-edge fields like data analytics, data science, big data, and cloud technologies. A key software product is their AI-powered Learning Management Solution (LMS), designed to improve student learning and enhance skills by automatically fetching relevant online content. Xaltius further leverages advanced technologies like Computer Vision to derive hidden value from images and videos, and provides robust Business Intelligence (BI) & Analytics capabilities, offering real-time dashboards and reports for actionable insights, ultimately aiming to drive business excellence and digital transformation.",
+  "key_use_cases": [
+    "Accelerating skill development and learning efficiency through an AI-powered LMS",
+    "Optimizing talent acquisition and hiring processes",
+    "Managing employee scheduling",
+    "Tracking employee time",
+    "Analyzing business data to gain actionable insights and create reports",
+    "Deriving hidden value from images and videos using computer vision",
+    "Supporting data-driven business transformation"
+  ],
+  "competitive_advantages": [
+    "Data-driven approach to software solutions and training",
+    "AI-powered Learning Management Solution for enhanced learning",
+    "Expertise in Computer Vision for data extraction from visual media",
+    "Robust BI & Analytics capabilities for actionable insights and real-time dashboards",
+    "Personalized software solutions",
+    "Comprehensive training in data analytics, data science, big data, and cloud technologies"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Talent Acquisition",
+    "Learning & Development",
+    "Employee Scheduling",
+    "Time Tracking",
+    "HR Analytics (via BI & Analytics)"
+  ],
+  "technology_stack": [
+    "Artificial intelligence (AI)",
+    "Computer Vision",
+    "Business Intelligence (BI)",
+    "Data Analytics",
+    "Data Science",
+    "Big Data technologies",
+    "Cloud technologies"
+  ],
+  "roi_benefits": [
+    "Reduce the Cost of Hiring Qualified Employees",
+    "Accelerate Skill Development and Learning Efficiency",
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Improve student learning and enhance knowledge/skills via AI-powered content fetching",
+    "Derive hidden value from images and videos",
+    "Gain actionable insights from data with stunning reports and real-time dashboards",
+    "Revamp and refine business potential, driving business excellence",
+    "Elevate business capabilities"
+  ],
+  "searchable_keywords": [
+    "Xaltius",
+    "Technology solutions",
+    "Data-driven",
+    "Software solutions",
+    "Training",
+    "Data analytics",
+    "Data science",
+    "Big data",
+    "Cloud technologies",
+    "Talent Management",
+    "Employee scheduling software",
+    "Time tracking",
+    "HR software",
+    "Artificial intelligence",
+    "AI",
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Learning speed",
+    "Workforce diversity",
+    "AI Powered Assistance",
+    "Learning Management Solution",
+    "LMS",
+    "Computer Vision",
+    "BI & Analytics",
+    "Business intelligence",
+    "Real-time dashboards",
+    "Reports",
+    "Digital transformation",
+    "Remote working",
+    "Work From Home",
+    "WFH"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Professionals",
+    "Employees",
+    "Students (in training contexts)",
+    "Business Leaders"
+  ],
+  "_weight": 1
+}

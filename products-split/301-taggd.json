@@ -1,0 +1,167 @@
+{
+  "id": 301,
+  "name": "Taggd",
+  "description": "Taggd is a Digital Recruitment Platform that provides Ready-to-Hire talent to India Inc. Combining the power of human knowledge and data, Taggd has successfully fulfilled talent mandates of more than 100+ Clients and ensured hiring managers\u2019 success for half a million jobs from over 14+ sectors. With a vision to fulfil 1 Million Jobs through our talent platform by 2025, we strive to connect people with people, people with companies, and People With Opportunities. Just right. Every time.",
+  "features": [
+    "We Value Your Privacy",
+    "No Hidden Costs",
+    "Exclusive Jobs Opportunities"
+  ],
+  "founders": [
+    "Devashish Sharma"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Recruiting software",
+    "Pre-employment screening software",
+    "Background check software",
+    "Pre-employment testing software",
+    "Reference check software",
+    "Recruiting automation software",
+    "Talent acquisition suites",
+    "Applicant tracking system (ATS)",
+    "Onboarding software"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Recruiting efficiency",
+    "Talent sourcing",
+    "Hiring efficiency",
+    "Talent acquisition",
+    "Candidate screening",
+    "Interview scheduling",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Hiring best practices",
+    "Talent pipeline",
+    "Employee referral program"
+  ],
+  "headquarter": "Gurugram, Haryana",
+  "launch_date": "2019",
+  "order": 20263,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Dream Jobs. Best Talent. Find it all at Taggd.",
+  "ProductId": null,
+  "ShortDescription": "It\u2019s not just a belief. It is our way of working. And we do that by democratizing the art and science of hiring talent.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:52.438Z",
+  "enhanced_description": "Taggd is a Digital Recruitment Platform specializing in providing Ready-to-Hire talent to India Inc. The platform integrates human knowledge with data-driven insights to streamline the hiring process. Taggd has a proven track record, having successfully fulfilled over half a million jobs for more than 100 clients across 14+ sectors. With an ambitious vision to fulfill 1 Million jobs by 2025, Taggd aims to democratize the art and science of talent acquisition, ensuring the right fit by connecting individuals with opportunities and companies with top talent.",
+  "key_use_cases": [
+    "Sourcing and provision of ready-to-hire talent",
+    "Automating recruitment processes and workflows",
+    "Pre-employment candidate screening and assessment",
+    "Conducting background checks and reference checks",
+    "Managing applicant tracking (ATS) for job applications",
+    "Facilitating candidate testing",
+    "Streamlining interview scheduling",
+    "Supporting new hire onboarding processes",
+    "Improving overall hiring speed and efficiency",
+    "Building and managing talent pipelines",
+    "Enabling data-driven hiring decisions"
+  ],
+  "competitive_advantages": [
+    "Combines human knowledge with data for improved talent matching",
+    "Offers 'Ready-to-Hire' talent, implying pre-vetted or highly suitable candidates",
+    "Transparent pricing model with 'No Hidden Costs'",
+    "Provides 'Exclusive Jobs Opportunities' for candidates, indicating a strong employer network",
+    "Emphasizes 'Privacy' for users (candidates and clients)",
+    "Focus on 'democratizing' hiring talent, suggesting accessibility and efficiency improvements for clients"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Staffing & Management",
+    "Pre-employment Screening",
+    "Background Checks",
+    "Pre-employment Testing",
+    "Reference Checks",
+    "Applicant Tracking",
+    "Recruiting Automation",
+    "Onboarding"
+  ],
+  "roi_benefits": [
+    "Faster talent acquisition",
+    "Increased hiring efficiency",
+    "Improved success rate for hiring managers",
+    "Access to top talent",
+    "Enhanced decision-making through data-driven hiring",
+    "Optimized recruiting processes"
+  ],
+  "searchable_keywords": [
+    "Taggd",
+    "Digital Recruitment Platform",
+    "Ready-to-Hire talent",
+    "India Inc",
+    "Recruiting",
+    "Talent Acquisition",
+    "Hiring",
+    "Staffing",
+    "Pre-employment screening",
+    "Background check",
+    "Pre-employment testing",
+    "Reference check",
+    "Recruiting automation",
+    "ATS",
+    "Applicant tracking system",
+    "Onboarding software",
+    "Hiring speed",
+    "Recruiting efficiency",
+    "Talent sourcing",
+    "Candidate screening",
+    "Interview scheduling",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Talent pipeline",
+    "Employee referral program",
+    "Jobs",
+    "Privacy",
+    "No hidden costs",
+    "Exclusive jobs",
+    "Gurugram",
+    "Haryana",
+    "Best Talent",
+    "Democratizing hiring"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "Companies / Clients (Employers)",
+    "Job Seekers / Candidates"
+  ],
+  "compliance_features": [
+    "Data privacy features (e.g., 'We Value Your Privacy')"
+  ],
+  "scalability_features": [
+    "Demonstrated ability to fulfill half a million jobs for 100+ clients",
+    "Strategic vision to fulfill 1 Million jobs by 2025, indicating platform capacity for growth"
+  ],
+  "_weight": 1
+}

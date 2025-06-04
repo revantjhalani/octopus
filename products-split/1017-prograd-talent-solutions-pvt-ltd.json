@@ -1,0 +1,185 @@
+{
+  "id": 1017,
+  "name": "ProGrad Talent Solutions Pvt Ltd",
+  "description": "ProGrad aims to bridge the skill gap in the Indian IT space. We enable tech organisations reach their talent objectives with a range of tailored talent hiring and training solutions. We also help job-seekers and students build industry grade tech skills and launch dream careers",
+  "features": [
+    "Pan India Sourcing",
+    "Diversity Focused!",
+    "Fastest & On-Demand"
+  ],
+  "founders": [
+    "Ram Prakash G"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Recruiting",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Onboarding software",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    "Skill development",
+    "Learning optimisation",
+    "Adaptive learning"
+  ],
+  "headquarter": "Bangalore",
+  "launch_date": "2020",
+  "order": 20960,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Made to order tech order",
+  "ProductId": null,
+  "ShortDescription": "ProGrad enables tech organisations to on-board skilled, ready-to-deploy entry level candidates.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Large Talent Pool",
+      "sequence": 0,
+      "description": "Talent from different backgrounds across all experience levels"
+    },
+    {
+      "name": "Tailored Programs",
+      "sequence": 1,
+      "description": "Talent training to meet unique business needs with work culture in mind"
+    },
+    {
+      "name": "Work Readiness",
+      "sequence": 2,
+      "description": "Explore workplace realities with training led by \u201cDeveloper turned Mentors\u201d"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:38:53.560Z",
+  "enhanced_description": "ProGrad Talent Solutions Pvt Ltd is an HR technology company focused on bridging the skill gap within the Indian IT space. It provides tailored talent hiring and training solutions specifically for tech organizations, helping them achieve their talent objectives and onboard skilled, ready-to-deploy candidates. ProGrad also assists job-seekers and students in building industry-grade tech skills to launch their careers. The company's core services include Pan India sourcing, a strong focus on diversity, and fast, on-demand talent solutions. They boast access to a large talent pool from diverse backgrounds and experience levels, offering tailored training programs designed to meet unique business needs and ensure work readiness, delivered by 'Developer turned Mentors'.",
+  "target_industries": [
+    "Technology",
+    "Information Technology"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Bridging the tech skill gap",
+    "Talent hiring solutions for tech organizations",
+    "Tailored training solutions for tech organizations",
+    "Onboarding skilled and ready-to-deploy entry-level candidates",
+    "Building industry-grade tech skills for job-seekers and students",
+    "Boosting hiring manager confidence and productivity",
+    "Hiring top talent faster and more efficiently",
+    "Accelerating skill development and learning efficiency",
+    "Pan India talent sourcing",
+    "Diversity-focused talent acquisition",
+    "Custom talent program development based on business needs"
+  ],
+  "competitive_advantages": [
+    "Pan India sourcing capabilities",
+    "Diversity-focused talent solutions",
+    "Fast and on-demand service delivery",
+    "Tailored talent hiring and training programs",
+    "Training led by 'Developer turned Mentors' ensuring work readiness",
+    "Access to a large talent pool across experience levels",
+    "Focus on bridging skill gaps in the Indian IT space"
+  ],
+  "implementation_scenarios": [
+    "Custom talent acquisition programs",
+    "Tailored skill development initiatives",
+    "Managed recruitment services",
+    "Direct candidate onboarding support"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Sourcing",
+    "Learning & Development",
+    "Onboarding"
+  ],
+  "roi_benefits": [
+    "Faster hiring cycles",
+    "Increased hiring efficiency",
+    "Improved quality of hired talent",
+    "Accelerated skill development",
+    "Enhanced hiring manager productivity",
+    "Reduced skill gap in the workforce",
+    "Optimized learning outcomes for new hires"
+  ],
+  "searchable_keywords": [
+    "ProGrad",
+    "Talent Solutions",
+    "HR Tech",
+    "Skill Gap",
+    "Indian IT",
+    "Tech Talent",
+    "Hiring Solutions",
+    "Training Solutions",
+    "Job Seekers",
+    "Students",
+    "Tech Skills",
+    "Pan India Sourcing",
+    "Diversity Focused",
+    "On-Demand Hiring",
+    "Recruiting",
+    "Learning and Development",
+    "Recruiting Software",
+    "Onboarding Software",
+    "Training & Development Companies",
+    "Talent Sourcing",
+    "Skill Development",
+    "Learning Optimisation",
+    "Adaptive Learning",
+    "Ready-to-Deploy Candidates",
+    "Entry Level Hiring",
+    "Large Talent Pool",
+    "Tailored Programs",
+    "Work Readiness",
+    "Developer Mentors",
+    "Bangalore"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Teams/Departments (within tech organizations)",
+    "Job Seekers",
+    "Students"
+  ],
+  "deployment_options": [
+    "SaaS (for implied software components like recruiting and onboarding software)",
+    "Service-delivery (for talent acquisition and training programs)"
+  ],
+  "scalability_features": [
+    "Pan India Sourcing capabilities",
+    "Support for Global and Large Enterprises",
+    "On-Demand service model",
+    "Management of a large talent pool"
+  ],
+  "_weight": 1
+}

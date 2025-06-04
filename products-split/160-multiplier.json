@@ -1,0 +1,169 @@
+{
+  "id": 160,
+  "name": "Multiplier",
+  "description": "Multiplier Founded in 2020 by co-founders, Sagar Khatri, Amritpal Singh and Vamsi Krishna, Multiplier has fast become the leading global employment platform that makes it easy for companies to employ teams internationally. Its proprietary technology simplifies the employment process by managing the complexities of local compliance, labour contracts, payroll, benefits and taxes. Multiplier, present in 150 countries, enables clients to access global talent with its EOR technology, allowing them to focus on business growth.",
+  "features": [
+    "Multilingual compliant contracts crafted by legal experts",
+    "Pay your international employees in their local currencies in minutes.",
+    "Manage expenses, leaves and time sheets from a single platform."
+  ],
+  "founders": [
+    "Sagar Khatri",
+    "Amritpal Singh",
+    "Vamsi Krishna"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Total Rewards",
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Talent management software",
+    "Recruiting software",
+    "Onboarding software",
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Hiring",
+    "Recruiting"
+  ],
+  "headquarter": "Sydney, Australia",
+  "launch_date": "2020",
+  "order": 20127,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Thrive in global markets While we handle your global teams",
+  "ProductId": null,
+  "ShortDescription": "Enabling businesses to hire anyone, anywhere in minutes",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Global Benefits",
+      "sequence": 0,
+      "description": "Motivate & retain talent with top-class benefits."
+    },
+    {
+      "name": "ESOP Administration",
+      "sequence": 1,
+      "description": "Issue Employee Stock Ownership Plan to international hires."
+    },
+    {
+      "name": "Global Compliance",
+      "sequence": 2,
+      "description": "Minimize risks that come with global employment."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:40.028Z",
+  "enhanced_description": "Founded in 2020, Multiplier is a leading global employment platform leveraging its proprietary Employer of Record (EOR) technology to simplify international employment for companies across 150 countries. The platform enables businesses to hire anyone, anywhere in minutes, managing complexities such as local compliance, labor contracts, payroll, benefits, and taxes. Multiplier's solution allows companies to focus on business growth while ensuring global teams thrive. Key features include multilingual compliant contracts crafted by legal experts, localized international payroll in minutes, and a unified platform for managing expenses, leaves, and timesheets. It also supports global benefits, ESOP administration, and ensures global compliance, thereby minimizing risks associated with global employment.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "International Hiring and Onboarding",
+    "Global Payroll and Benefits Management",
+    "Ensuring Global Employment Compliance",
+    "Managing International Employee Expenses and Time-off"
+  ],
+  "competitive_advantages": [
+    "Extensive Global Reach (150 countries)",
+    "Proprietary EOR Technology for simplified global employment",
+    "Legal Expertise for Multilingual Compliant Contracts",
+    "Rapid International Payroll Processing (in minutes)",
+    "Unified Platform for HR Operations (expenses, leaves, timesheets)",
+    "Comprehensive Global Compliance Management",
+    "Support for Global Benefits and ESOP Administration"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Onboarding",
+    "Payroll",
+    "Benefits Administration",
+    "Global Compliance",
+    "Employee Expense Management",
+    "Time & Leave Management",
+    "Talent Management"
+  ],
+  "roi_benefits": [
+    "Simplified and efficient international employment processes",
+    "Reduced administrative burden and complexity",
+    "Enables faster global expansion and access to talent",
+    "Mitigation of compliance and legal risks associated with global employment",
+    "Improved employee retention and motivation through competitive benefits",
+    "Increased hiring manager confidence and productivity",
+    "Allows businesses to focus on core growth initiatives"
+  ],
+  "searchable_keywords": [
+    "Global employment platform",
+    "Employer of Record",
+    "EOR",
+    "International hiring",
+    "Global payroll",
+    "International benefits",
+    "Global compliance",
+    "International contracts",
+    "Remote hiring",
+    "Distributed teams",
+    "Cross-border employment",
+    "HR software",
+    "Payroll services",
+    "Employee benefits",
+    "Talent management",
+    "Recruiting software",
+    "Onboarding software",
+    "Global talent",
+    "ESOP administration",
+    "Multilingual contracts",
+    "Time and leave management",
+    "Expense management",
+    "International expansion"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Hiring Managers",
+    "Finance Teams",
+    "International Employees"
+  ],
+  "deployment_options": [
+    "Cloud (SaaS)"
+  ],
+  "compliance_features": [
+    "Local Labor Law Compliance",
+    "Tax Compliance",
+    "Global Employment Regulations",
+    "Legally Compliant Labor Contracts",
+    "Global Benefits Compliance"
+  ],
+  "scalability_features": [
+    "Geographic scalability across 150 countries",
+    "Ability to support rapid expansion of international workforce"
+  ],
+  "_weight": 1
+}

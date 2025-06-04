@@ -1,0 +1,157 @@
+{
+  "id": 239,
+  "name": "Evalgator",
+  "description": "Evalgator is an AI-powered platform for candidate assessment and recruitment, featuring modules for applicant tracking, comprehensive assessments, and collaborative coding interviews. Leveraging AI and automation, Evalgator streamlines hiring processes while maintaining assessment integrity and hire quality. User-friendly and competitively priced, it serves technical and non-technical hiring needs with versatility, making it an ideal solution for various assessment requirements.",
+  "features": [
+    "AI-based grammar check",
+    "Automatic face verification",
+    "ATS integration"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Onboarding software",
+    "Staffing & management software"
+  ],
+  "tags": [
+    "Talent acquisition"
+  ],
+  "headquarter": "Bangalore, Karnataka                    ",
+  "launch_date": "2020",
+  "order": 20205,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "All-in-one Talent Assessment Platform",
+  "ProductId": null,
+  "ShortDescription": "Evalgator is a candidate assessment platform built to make screening efficient and effortless",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Assessments",
+      "sequence": 0,
+      "description": "Our online assessment plans can be tailor-fit to your needs."
+    },
+    {
+      "name": "Interviews",
+      "sequence": 1,
+      "description": "Interview candidates anywhere on the globe keeping your cost to hire low. "
+    },
+    {
+      "name": "Recruit",
+      "sequence": 2,
+      "description": "Reduce your cost to hire with an affordable all-in-one applicant tracking system."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:56.305Z",
+  "enhanced_description": "Evalgator is an AI-powered, all-in-one talent assessment platform designed to streamline candidate screening and recruitment processes. It features modules for comprehensive assessments, collaborative coding interviews, and an affordable applicant tracking system (ATS). Leveraging AI and automation, including AI-based grammar checks and automatic face verification, Evalgator ensures assessment integrity and high hire quality. It is user-friendly, competitively priced, and versatile, serving both technical and non-technical hiring needs for small, large, and global enterprises. The platform aims to help organizations hire top talent faster, more efficiently, and at a reduced cost.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Candidate assessment",
+    "Applicant tracking",
+    "Conducting collaborative coding interviews",
+    "Streamlining hiring processes",
+    "Improving hire quality",
+    "Reducing cost to hire"
+  ],
+  "competitive_advantages": [
+    "AI-powered assessments",
+    "Automation for hiring processes",
+    "Maintaining assessment integrity",
+    "Ensuring high hire quality",
+    "User-friendly interface",
+    "Competitive pricing",
+    "Versatility for technical and non-technical hiring needs",
+    "Reduced cost to hire",
+    "Automatic face verification",
+    "AI-based grammar check"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Assessment",
+    "Applicant Tracking",
+    "Interview Management",
+    "Onboarding",
+    "Staffing & Management",
+    "Talent Acquisition"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Automation"
+  ],
+  "integration_capabilities": [
+    "Applicant Tracking System (ATS) integration"
+  ],
+  "roi_benefits": [
+    "Faster hiring",
+    "More efficient hiring",
+    "Improved hire quality",
+    "Reduced cost to hire",
+    "Streamlined hiring processes"
+  ],
+  "searchable_keywords": [
+    "Evalgator",
+    "AI assessment",
+    "candidate assessment",
+    "recruitment platform",
+    "applicant tracking system",
+    "ATS",
+    "coding interviews",
+    "online interviews",
+    "talent acquisition",
+    "talent management",
+    "pre-employment screening",
+    "skill assessment",
+    "technical hiring",
+    "non-technical hiring",
+    "AI grammar check",
+    "face verification",
+    "hiring automation",
+    "cost to hire",
+    "assessment integrity",
+    "hire quality",
+    "onboarding software",
+    "staffing software",
+    "screening"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Hiring Managers",
+    "Technical Interviewers",
+    "HR Professionals"
+  ],
+  "security_features": [
+    "Automatic face verification"
+  ],
+  "_weight": 1
+}

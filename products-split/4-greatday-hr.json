@@ -1,0 +1,168 @@
+{
+  "id": 4,
+  "name": "GreatDay HR",
+  "description": "Streamline HR & Boost Employee Experience.  GreatDay HR simplifies everything from payroll to attendance with user-friendly tools and expert support. Join 3,000+ Asian companies automating tasks and creating a happier workforce. Invest in GreatDay HR for lasting benefits. ",
+  "features": [
+    "Automated Workflows",
+    "Effortless Recruitment",
+    "Seamless Performance Management"
+  ],
+  "founders": [
+    "Gordon Enns",
+    "Sri Coles"
+  ],
+  "price": [
+    {}
+  ],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Resource Information Systems (HRIS)"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee enagement strategies",
+    "Hiring",
+    "Hiring efficiency",
+    "Hiring automation"
+  ],
+  "headquarter": "Banten, Indonesia",
+  "launch_date": "2018",
+  "order": 20001,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Why settle for less? Better HRIS Experience",
+  "ProductId": "3",
+  "ShortDescription": "GreatDay HR is one stop solution Human Resource Information System.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Cloud-Based System",
+      "sequence": 0,
+      "description": "Enjoy secure and scalable software accessible anytime, anywhere."
+    },
+    {
+      "name": "Faster & Paperless",
+      "sequence": 1,
+      "description": "Faster & Paperless: Streamline processes with digital solutions, reducing paperwork and inefficiencies."
+    },
+    {
+      "name": "Fraud-Free Guarantee",
+      "sequence": 2,
+      "description": "Maintain accurate records with advanced features like face recognition for attendance tracking. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": null,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-12T05:12:10.470Z",
+  "enhanced_description": "GreatDay HR is a comprehensive, one-stop Human Resource Information System (HRIS) designed to streamline HR operations and enhance employee experience. This cloud-based solution simplifies critical HR tasks, from payroll and attendance management to automated workflows, effortless recruitment, and seamless performance management. It empowers companies to automate routine tasks, reduce paperwork, and maintain accurate records, including fraud-free attendance tracking via face recognition technology. Serving over 3,000 Asian companies, GreatDay HR aims to foster a happier and more engaged workforce, offering a user-friendly experience and expert support for lasting organizational benefits.",
+  "ideal_company_sizes": [
+    "Small Enterprise"
+  ],
+  "key_use_cases": [
+    "Streamlining HR operations",
+    "Automating HR tasks and workflows",
+    "Managing payroll",
+    "Tracking attendance (including fraud-free options via face recognition)",
+    "Recruitment and hiring processes",
+    "Performance management",
+    "Reducing paperwork and inefficiencies",
+    "Maintaining accurate employee records"
+  ],
+  "competitive_advantages": [
+    "User-friendly tools and expert support",
+    "One-stop solution for HRIS needs",
+    "Cloud-based system offering secure and scalable access anytime, anywhere",
+    "Faster and paperless HR processes",
+    "Fraud-free guarantee with advanced features like face recognition for attendance tracking",
+    "Focus on improving overall HRIS experience"
+  ],
+  "hr_functions_supported": [
+    "Payroll",
+    "Attendance Management",
+    "Recruitment",
+    "Performance Management",
+    "Automated Workflows",
+    "Human Resource Information Systems (HRIS)"
+  ],
+  "technology_stack": [
+    "Cloud-Based",
+    "Face Recognition Technology"
+  ],
+  "roi_benefits": [
+    "Streamlined HR processes",
+    "Boosted employee experience",
+    "Increased employee happiness and engagement",
+    "Reduced paperwork and inefficiencies",
+    "Faster HR operations",
+    "Improved accuracy in record-keeping",
+    "Lasting organizational benefits"
+  ],
+  "searchable_keywords": [
+    "GreatDay HR",
+    "HR",
+    "HRIS",
+    "HRMS",
+    "HCM",
+    "Human Resource Information Systems",
+    "Employee Experience",
+    "Payroll",
+    "Attendance",
+    "Automating tasks",
+    "Happier workforce",
+    "Automated Workflows",
+    "Recruitment",
+    "Performance Management",
+    "Employee engagement",
+    "Employee engagement strategies",
+    "Hiring",
+    "Hiring efficiency",
+    "Hiring automation",
+    "Cloud-Based HR",
+    "Paperless HR",
+    "Fraud-Free HR",
+    "Face recognition attendance",
+    "HR software",
+    "HR technology"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Employees"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "scalability_features": [
+    "Scalable software"
+  ],
+  "security_features": [
+    "Secure software",
+    "Fraud-Free Guarantee",
+    "Face recognition for attendance tracking"
+  ],
+  "_weight": 1
+}

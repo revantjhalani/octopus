@@ -1,0 +1,129 @@
+{
+  "id": 978,
+  "name": "Pearson Talentlens",
+  "description": "At Pearson, we\u2019re committed to a world that\u2019s always learning and to our talented team who makes it all possible. From turning textbooks into laptop lessons to enabling people to develop throughout their careers, we are always re-examining the way people learn best, whether its children progressing through school or an education community across the globe. We are bold thinkers and standout innovators who motivate each other to explore new frontiers in an environment that supports and inspires us to always be better. By pushing the boundaries of technology \u2014 and each other to surpass these boundaries \u2014 we create seeds of lifelong learning that become the catalyst for the world\u2019s innovations, personal and global, large and small.",
+  "features": [
+    "Predict performance",
+    "Evaluate cretical thinking",
+    "Identify cultural fit"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Pre-employment screening software",
+    "Background check software",
+    "Pre-employment testing software"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "Hiring efficiency",
+    "Quality of hire",
+    "Hiring analytics",
+    "Data-driven hiring",
+    "Hiring best practices"
+  ],
+  "headquarter": "London, England",
+  "launch_date": "1996",
+  "order": 20924,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Talent assessments to help you predict performance and assess the suitability of your candidates",
+  "ProductId": null,
+  "ShortDescription": "TalentLens is part of Pearson plc. We are an international talent assessment business, using psychometrics to help organisations select and develop top performers and high potential.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:38:06.301Z",
+  "enhanced_description": "Pearson Talentlens, an international talent assessment business and part of Pearson plc, specializes in leveraging psychometrics to help organizations select and develop top performers and high potential candidates. This pre-employment testing and screening software is designed to predict candidate performance, evaluate critical thinking skills, and identify cultural fit, ultimately boosting hiring manager confidence and productivity through data-driven hiring decisions.",
+  "key_use_cases": [
+    "Pre-employment assessment and screening",
+    "Candidate suitability evaluation",
+    "Talent selection and acquisition",
+    "Talent development",
+    "Critical thinking assessment",
+    "Cultural fit analysis",
+    "Performance prediction for candidates"
+  ],
+  "competitive_advantages": [
+    "Expertise in psychometric assessment methodologies",
+    "Ability to predict candidate performance and cultural fit",
+    "Backed by Pearson plc's long-standing reputation in learning and assessment",
+    "International business scope"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Talent Management",
+    "Pre-employment Screening",
+    "Candidate Assessment"
+  ],
+  "roi_benefits": [
+    "Improved hiring manager confidence",
+    "Increased hiring manager productivity",
+    "Enhanced hiring efficiency",
+    "Higher quality of hire",
+    "Data-driven hiring decisions",
+    "Reduced risk of poor hires"
+  ],
+  "searchable_keywords": [
+    "Pearson Talentlens",
+    "Talentlens",
+    "Pearson",
+    "talent assessment",
+    "psychometrics",
+    "pre-employment screening",
+    "pre-employment testing",
+    "critical thinking",
+    "cultural fit",
+    "performance prediction",
+    "hiring",
+    "recruiting",
+    "candidate assessment",
+    "talent selection",
+    "talent development",
+    "hiring manager confidence",
+    "hiring manager productivity",
+    "hiring efficiency",
+    "quality of hire",
+    "hiring analytics",
+    "data-driven hiring",
+    "hiring best practices",
+    "suitability assessment"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Professionals",
+    "Recruiters",
+    "Talent Acquisition Specialists",
+    "Learning & Development teams"
+  ],
+  "_weight": 1
+}

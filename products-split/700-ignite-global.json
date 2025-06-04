@@ -1,0 +1,150 @@
+{
+  "id": 700,
+  "name": "Ignite Global",
+  "description": "We work with future-focused organizations to help them develop PRACTICAL leadership skills around 3 things.Hiring the right people the first time and onboarding them effectively - saving you time money and frustration.Having the right conversations to increase employee engagement, performance and productivity -reducing or eliminating the need for crucial conversations.Understanding what the Future of Work means to how they must demonstrate leadership skills.",
+  "features": [
+    "Work in 30+ industries",
+    "Continuous growth",
+    "Practical, simple, research-based solutions for busy managers"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Employee engagement software",
+    "Talent acquisition suites"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    "Employee well being",
+    "Employee development"
+  ],
+  "headquarter": "Mosman",
+  "launch_date": "2009",
+  "order": 20654,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Light Up Your Workforce",
+  "ProductId": null,
+  "ShortDescription": "Leading experts on the Future of Work, PRACTICAL leadership skills, employee engagement, crucial conversations and hiring the right people the first time.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Helps Businesses Improve Employee Engagement",
+      "sequence": 0,
+      "description": "Ignite Global is a consulting firm that helps businesses improve employee engagement.Employee engagement is a measure of how invested and committed employees are to their work. High employee engagement can lead to a number of benefits, such as increased productivity, improved customer satisfaction, and reduced turnover."
+    },
+    {
+      "name": "Offers Workshops and Training Programs",
+      "sequence": 1,
+      "description": "Ignite Global offers a variety of workshops and training programs to help businesses improve their hiring practices and management techniques .These workshops and training programs can help businesses to develop a more engaged workforce."
+    },
+    {
+      "name": "Benefits Include Increased Engagement, Reduced Turnover, and Improved Performance",
+      "sequence": 2,
+      "description": "Ignite Global touts a number of benefits that businesses can experience by working with them, including increased employee engagement, reduced turnover, and improved performance."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:47.986Z",
+  "enhanced_description": "Ignite Global is a consulting firm that partners with future-focused organizations to cultivate practical leadership skills. They specialize in three key areas: optimizing hiring and onboarding processes to save time, money, and reduce frustration; fostering effective communication to enhance employee engagement, performance, and productivity, thereby minimizing the need for crucial conversations; and guiding leaders in understanding and adapting their leadership skills for the Future of Work. As leading experts, Ignite Global offers research-based workshops and training programs designed for busy managers across 30+ industries, aiming to develop more engaged workforces. Their solutions are practical, simple, and aim to deliver benefits such as increased employee engagement, reduced turnover, improved performance, and higher productivity.",
+  "target_industries": [
+    "30+ industries"
+  ],
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Improving hiring practices and effective onboarding",
+    "Increasing employee engagement and productivity through better conversations",
+    "Developing leadership skills aligned with the Future of Work",
+    "Enhancing overall employee performance",
+    "Reducing the need for crucial conversations"
+  ],
+  "competitive_advantages": [
+    "Practical, simple, research-based solutions tailored for busy managers",
+    "Focus on continuous growth",
+    "Expertise in Future of Work leadership skills, employee engagement, and hiring"
+  ],
+  "implementation_scenarios": [
+    "Service-led consulting engagements",
+    "Workshops and training programs"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Onboarding",
+    "Employee Engagement",
+    "Performance Management",
+    "Talent Development",
+    "Talent Acquisition"
+  ],
+  "roi_benefits": [
+    "Saving time and money in hiring",
+    "Reducing frustration in talent acquisition",
+    "Increasing employee engagement",
+    "Improving employee performance and productivity",
+    "Reducing or eliminating the need for crucial conversations",
+    "Reducing employee turnover",
+    "Improving customer satisfaction (indirectly through employee engagement)"
+  ],
+  "searchable_keywords": [
+    "Ignite Global",
+    "leadership skills",
+    "hiring",
+    "onboarding",
+    "employee engagement",
+    "performance management",
+    "productivity",
+    "Future of Work",
+    "crucial conversations",
+    "talent management",
+    "recruiting",
+    "talent acquisition",
+    "training programs",
+    "workshops",
+    "consulting",
+    "employee well-being",
+    "employee development",
+    "talent sourcing",
+    "recruiting costs",
+    "practical solutions",
+    "research-based"
+  ],
+  "primary_users": [
+    "Future-focused organizations",
+    "Busy managers",
+    "Businesses (general)",
+    "HR Leaders",
+    "Talent Leaders"
+  ],
+  "_weight": 1
+}

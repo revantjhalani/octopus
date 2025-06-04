@@ -1,0 +1,165 @@
+{
+  "id": 246,
+  "name": "Razorpay",
+  "description": "Razorpay is India\u2019s first full-stack financial solutions company. We are on a mission to enhance the payment experience of over 300 million end consumers. And in doing so, we aim to enable Indian businesses - big and small - accept payments digitally with minimal effort and maximum ease. \n",
+  "features": [
+    "100% Automated Tax Filing & Payment",
+    "Streamline Enterprise Payroll Processing",
+    "Unified Integrations Platform",
+    "Unlock Strategic Insights with Payroll Analytics",
+    "Unmatched Customer Support",
+    "Customization on Demand"
+  ],
+  "founders": [
+    "Harshil Mathur"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Payroll services providers",
+    "Compensation management software"
+  ],
+  "tags": [
+    "Employee benefits"
+  ],
+  "headquarter": "Bangalore, Karnataka",
+  "launch_date": "2014",
+  "order": 32,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "India\u2019s Only Enterprise Payroll Software with Automated Compliance",
+  "ProductId": null,
+  "ShortDescription": "The all in one finance platform you've been looking for",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [
+    "Andorid SDK"
+  ],
+  "Highlights": [
+    {
+      "name": "Automated Compliance for Complex Needs",
+      "sequence": 0,
+      "description": "File & pay TDS, PF, PT, and ESIC accurately in all 30 states: zero filing errors, zero penalties."
+    },
+    {
+      "name": "Unified and Seamless Integrations",
+      "sequence": 1,
+      "description": "Effortlessly sync data and integrate with 45+ HR platforms, including Darwinbox, Oracle HCM, and more."
+    },
+    {
+      "name": "Enterprise Grade & On-Demand Customisation ",
+      "sequence": 2,
+      "description": "Reliable systems that are customizable to match your unique requirements, from salaries & departments to reports & more."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:02.341Z",
+  "enhanced_description": "Razorpay is India\u2019s first full-stack financial solutions company, distinguished as India\u2019s only enterprise payroll software with automated compliance. It streamlines enterprise payroll processing, offering 100% automated tax filing and payment for complex Indian regulations including TDS, PF, PT, and ESIC across all 30 states, ensuring zero filing errors and penalties. The platform provides strategic payroll analytics and features a unified integrations platform, effortlessly syncing data with over 45 HR platforms like Darwinbox and Oracle HCM. Designed for large enterprises, Razorpay offers enterprise-grade systems with on-demand customization for salaries, departments, and reports, aiming to enhance the payment experience for over 300 million end consumers and improve employee happiness and engagement for Indian businesses.",
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Automated Tax Filing & Payment",
+    "Enterprise Payroll Processing",
+    "Payroll Analytics for Strategic Insights",
+    "Automated Compliance Management for Indian Regulations (TDS, PF, PT, ESIC)",
+    "Data Synchronization with HR Platforms",
+    "Customization of Payroll Processes (Salaries, Departments, Reports)",
+    "Accepting Digital Payments"
+  ],
+  "competitive_advantages": [
+    "India\u2019s only enterprise payroll software with automated compliance",
+    "100% automated tax filing and payment for complex Indian regulations across 30 states, ensuring zero errors and penalties",
+    "Unified and seamless integrations with over 45 HR platforms including Darwinbox and Oracle HCM",
+    "Enterprise-grade reliability with on-demand customization",
+    "Unmatched customer support"
+  ],
+  "hr_functions_supported": [
+    "Payroll",
+    "Compensation Management",
+    "Total Rewards"
+  ],
+  "technology_stack": [
+    "Android SDK"
+  ],
+  "integration_capabilities": [
+    "Integration with over 45 HR platforms (e.g., Darwinbox, Oracle HCM)",
+    "Android SDK for HCM integration"
+  ],
+  "roi_benefits": [
+    "Improve Employee Happiness and Engagement",
+    "Elimination of filing errors and penalties (cost savings, risk reduction)",
+    "Streamlined payroll processing (efficiency gains)",
+    "Unlocking strategic insights from payroll data (better decision making)",
+    "Minimal effort and maximum ease in digital payment acceptance"
+  ],
+  "searchable_keywords": [
+    "Razorpay",
+    "Payroll",
+    "Enterprise Payroll",
+    "Automated Payroll",
+    "Payroll Software",
+    "Tax Filing",
+    "Automated Tax",
+    "Payment",
+    "Digital Payments",
+    "Compliance",
+    "Automated Compliance",
+    "TDS",
+    "PF",
+    "PT",
+    "ESIC",
+    "Compensation Management",
+    "Total Rewards",
+    "Payroll Services",
+    "HR Platforms",
+    "Darwinbox Integration",
+    "Oracle HCM Integration",
+    "HR Integrations",
+    "Payroll Analytics",
+    "Customization",
+    "Customer Support",
+    "Employee Benefits",
+    "Employee Happiness",
+    "Employee Engagement",
+    "Finance Platform",
+    "India",
+    "Indian Businesses",
+    "Bangalore"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Payroll Administrators",
+    "Finance Teams",
+    "HR Leaders"
+  ],
+  "compliance_features": [
+    "Automated Tax Filing & Payment (TDS, PF, PT, ESIC) across 30 states"
+  ],
+  "scalability_features": [
+    "Enterprise Grade Systems"
+  ],
+  "_weight": 1
+}

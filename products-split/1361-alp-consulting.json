@@ -1,0 +1,203 @@
+{
+  "id": 1361,
+  "name": "Alp Consulting",
+  "description": "Alp Consulting, one of the leading recruitment and staffing companies of India, is a ISo 9001:2000 certified company and is a subsidiary of Outsourcing Inc. of Japan, a multi-billion-dollar organisation with presence in 17 countries. We are one of the leading companies in developing and delivering talent solutions that are customised according to the specific human capital requirements of organisations. \n\nFounded in 1996, Alp has worked with more than 400 enterprise clients. We have partnered with more than 20 Fortune 500 companies and most of the leading Indian IT companies. \n\nWith over 500 experienced recruiters, Alp now operates out of eight locations in India and one in Sri Lanka. We service more than 750 client locations in India and via our parent company service more than 21 countries in Aisa, Europe, Americas and Oceania.  \n\nOur services fall under 4 broad categories - Search and Recruitment Solutions, Staffing Solutions, HR Outsourcing and Compliance Solutions and Apprenticeship Management and Training Solutions. We specialize in providing manpower solutions for IT & ITES, Ecommerce and Retail, Pharma & Healthcare, Electronics & Semiconductor, Manufacturing and Energy & Infrastructure sectors.",
+  "features": [
+    "HR Outsourcing",
+    "Contingency Recruitment",
+    "HRMS & Payroll software",
+    "Permanenent Recruitment",
+    "Recruitment Process Outsourcing"
+  ],
+  "founders": [],
+  "price": [
+    {
+      "name": "",
+      "type": "",
+      "price": "",
+      "description": ""
+    }
+  ],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Recruiting",
+    "Total Rewards",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Resource Management Systems (HRMS)",
+    "Staffing & management software",
+    "Payroll services providers",
+    "Staffing services providers"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Quality of Hire",
+    "Talent sourcing",
+    "Hiring best practices"
+  ],
+  "headquarter": "Bengaluru",
+  "launch_date": "1996",
+  "order": 999,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Happy People, Better Productivity.",
+  "ProductId": null,
+  "ShortDescription": "Alp Consulting, one of the leading recruitment and staffing companies of India. We are one of the leading companies in developing and delivering talent solutions that are customised according to the specific human capital requirements of organisations. ",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": [
+      {
+        "times": [
+          {
+            "description": ""
+          }
+        ],
+        "header": "",
+        "sequence": 0,
+        "videourl": "",
+        "description": ""
+      }
+    ]
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Unparalleled Expertise:",
+      "sequence": 0,
+      "description": "s one of the topmost recruitment companies in Noida, we bring a wealth of industry knowledge and insights, enabling us to identify the skills, experience, and cultural fit that your organization requires."
+    },
+    {
+      "name": "Efficiency and Speed:",
+      "sequence": 1,
+      "description": "Time is money. And rightfully so. Especially in today's competitive landscape. As one of the best recruitment firms in Noida, we pride ourselves on our ability to deliver quality candidates promptly, helping you fill key roles faster without compromising on quality."
+    },
+    {
+      "name": "Confidentiality",
+      "sequence": 2,
+      "description": "We understand the importance of discretion, especially when filling sensitive positions. Our recruitment agency in Noida can act as a bridge, ensuring confidentiality while delivering outstanding candidates."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": true,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-12T07:50:21.349Z",
+  "enhanced_description": "Alp Consulting is a leading ISO 9001:2000 certified recruitment and staffing company in India, a subsidiary of Japan's multi-billion-dollar Outsourcing Inc. They provide customized talent solutions, aiming for 'Happy People, Better Productivity'. Established in 1996, Alp has partnered with over 400 enterprise clients, including 20 Fortune 500 companies and most leading Indian IT firms. With over 500 experienced recruiters, they operate from 8 locations in India and 1 in Sri Lanka, servicing over 750 client locations in India and reaching more than 21 countries globally via their parent company in Asia, Europe, Americas, and Oceania. Their services encompass Search & Recruitment, Staffing, HR Outsourcing, Compliance Solutions, and Apprenticeship Management & Training, along with providing HRMS & Payroll software. They specialize in manpower solutions for sectors including IT & ITES, Ecommerce & Retail, Pharma & Healthcare, Electronics & Semiconductor, Manufacturing, and Energy & Infrastructure. Alp Consulting prides itself on unparalleled expertise, efficiency and speed in delivering quality candidates promptly, and maintaining confidentiality.",
+  "target_industries": [
+    "IT & ITES",
+    "Ecommerce and Retail",
+    "Pharma & Healthcare",
+    "Electronics & Semiconductor",
+    "Manufacturing",
+    "Energy & Infrastructure"
+  ],
+  "ideal_company_sizes": [
+    "Enterprise",
+    "Large businesses"
+  ],
+  "key_use_cases": [
+    "Search and Recruitment Solutions",
+    "Staffing Solutions",
+    "HR Outsourcing",
+    "Compliance Solutions",
+    "Apprenticeship Management",
+    "Training Solutions",
+    "Contingency Recruitment",
+    "Permanent Recruitment",
+    "Recruitment Process Outsourcing (RPO)",
+    "Talent acquisition for open positions",
+    "Boosting hiring manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "ISO 9001:2000 certified company",
+    "Subsidiary of multi-billion-dollar global organization (Outsourcing Inc. of Japan)",
+    "Unparalleled industry expertise and insights",
+    "Ability to identify skills, experience, and cultural fit",
+    "Efficiency and speed in delivering quality candidates promptly",
+    "Confidentiality in handling sensitive positions",
+    "Customized talent solutions",
+    "Extensive experience (founded 1996)",
+    "Large client base (400+ enterprise clients, 20+ Fortune 500 companies)",
+    "Broad geographical reach (India, Sri Lanka, and 21+ countries via parent company)"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Staffing",
+    "HR Outsourcing",
+    "Compliance Management",
+    "Apprenticeship Management",
+    "Training",
+    "Payroll",
+    "HRMS / HCM",
+    "Talent Sourcing",
+    "Human Capital Management"
+  ],
+  "roi_benefits": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Fill Open Positions More Quickly",
+    "Faster role fulfillment without compromising quality"
+  ],
+  "searchable_keywords": [
+    "Alp Consulting",
+    "HR Outsourcing",
+    "Contingency Recruitment",
+    "HRMS",
+    "Payroll software",
+    "Permanent Recruitment",
+    "Recruitment Process Outsourcing",
+    "RPO",
+    "Hiring",
+    "Recruiting",
+    "Quality of Hire",
+    "Talent sourcing",
+    "Hiring best practices",
+    "Talent solutions",
+    "Human capital",
+    "Staffing services",
+    "Manpower solutions",
+    "Compliance solutions",
+    "Apprenticeship management",
+    "Training solutions",
+    "India recruitment",
+    "Global recruitment",
+    "Enterprise recruitment",
+    "Fortune 500 recruitment",
+    "ISO 9001:2000 certified",
+    "Human Resource Management Systems",
+    "Staffing management software",
+    "Payroll services providers",
+    "Noida recruitment firms"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Departments",
+    "Enterprise clients",
+    "Large businesses"
+  ],
+  "compliance_features": [
+    "ISO 9001:2000 certified",
+    "Compliance Solutions"
+  ],
+  "_weight": 1
+}

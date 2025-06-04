@@ -1,0 +1,10 @@
+services:
+  master-redis:
+    image: redis/redis-stack:latest
+    container_name: master-redis
+    ports:
+      - "6392:6379"
+    volumes:
+      - ./master-redis:/data
+    environment:
+      - REDIS_ARGS=--save 1 1 --bind 0.0.0.0 --requirepass o55dfYJB7K44bc18TfJu

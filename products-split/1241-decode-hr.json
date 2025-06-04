@@ -1,0 +1,227 @@
+{
+  "id": 1241,
+  "name": "Decode HR",
+  "description": "complete transformation of your HR practices or a specific area that needs addressing immediately, DecodeHR is committed to achieving a successful outcome. We provide strategic advice & high-impact HR solutions to clients; our forte is leveraging technology to strengthen human capital. We have a strong team of senior HR Consultants with deep experience across diverse sectors in Asia.",
+  "features": [
+    "DecodeHR brings critical HR expertise powerfully integrated with Finance and PR skills & insights to create desired outcomes pre and post integration.",
+    "Robust companies build strong foundations & one critical building block is Competency Frameworks. While the most innovative companies may be able to develop powerful & forward looking strategies, they still need PEOPLE to deliver and execute.",
+    "A strategic, well-structured and balanced C&B program takes into account a myriad of tangible & intangible rewards, and balancing the act of providing what's desired versus costs can be a reality",
+    "dcHR.tech Tech Space & Community"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Recruiting software",
+    "Pre-employment screening software",
+    "Background check software",
+    "Pre-employment testing software",
+    "Reference check software",
+    "Recruiting automation software",
+    "Talent acquisition suites",
+    "Applicant tracking system (ATS)",
+    "Onboarding software",
+    "Video interviewing software",
+    "Staffing services providers",
+    "Recruitment agencies",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Talent sourcing",
+    "Talent acquisition",
+    "Recruiting",
+    "Employee development",
+    "leadership development"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2011",
+  "order": 21071,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "DecodeHR Pte Ltd is a boutique Human Resources Consulting firm that thrives on working with companies that are passionate about realising the best in their people.",
+  "ProductId": null,
+  "ShortDescription": "DecodeHR is an innovative and agile strategic HR consulting firm based in Singapore.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [
+    "BERKELEY EXECUTIVE COACHING INSTITUTE",
+    "MASTER INTERNATIONAL"
+  ],
+  "Highlights": [
+    {
+      "name": "Integration of HR expertise with Finance and PR",
+      "sequence": 0,
+      "description": "DecodeHR brings critical HR expertise powerfully integrated with Finance and PR skills & insights to create desired outcomes pre and post integration. With this unique yet powerful combination, we work with our clients to develop impactful solutions that we will help to execute for maximum results, in areas of organisation transformation, engagement, retention & performance."
+    },
+    {
+      "name": "Competency Frameworks Development",
+      "sequence": 1,
+      "description": "Competency modelling enables an organisation to identify the skills, knowledge & behaviours required to deliver on its long-term strategic goals."
+    },
+    {
+      "name": "LEADERSHIP DEVELOPMENT ",
+      "sequence": 2,
+      "description": "Our company partners with internationally renowned institutions to deliver leadership assessment and development programs to ensure your leaders are equipped with the necessary skills to create a positive impact on the organisation."
+    },
+    {
+      "name": "SILEGA EXPEDITION ",
+      "sequence": 3,
+      "description": "One of the ways through which DecodeHR helps our clients develop their leaders and high potential employees is through decision-making and planning business simulation tools such as Silega Expedition"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:12:58.889Z",
+  "enhanced_description": "Decode HR is an innovative and agile strategic HR consulting firm based in Singapore, specializing in complete HR practice transformation and targeted solutions for specific HR challenges. With a strong team of senior HR Consultants, boasting deep experience across diverse sectors in Asia, Decode HR provides strategic advice and high-impact HR solutions. A key strength is leveraging technology to strengthen human capital. They uniquely integrate critical HR expertise with Finance and PR skills and insights to achieve desired outcomes pre and post integration, focusing on organization transformation, engagement, retention, and performance. DecodeHR also offers expertise in developing robust Competency Frameworks and strategic, well-structured, and balanced Compensation & Benefits programs.",
+  "target_industries": [],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Complete HR practice transformation",
+    "Addressing specific HR challenges",
+    "Strengthening human capital through technology adoption",
+    "Developing and implementing Competency Frameworks",
+    "Designing and balancing Compensation & Benefits programs",
+    "Leadership assessment and development programs",
+    "Utilizing business simulation tools (e.g., Silega Expedition) for leader and high potential employee development",
+    "Improving organizational transformation, engagement, retention, and performance",
+    "Hiring top talent faster and more efficiently",
+    "Integrating HR expertise with Finance and PR functions for holistic outcomes"
+  ],
+  "competitive_advantages": [
+    "Deep integration of critical HR expertise with Finance and PR skills and insights",
+    "Strong team of senior HR Consultants with extensive experience across diverse sectors in Asia",
+    "Partnerships with internationally renowned institutions (e.g., BERKELEY EXECUTIVE COACHING INSTITUTE, MASTER INTERNATIONAL) for leadership development",
+    "Utilization of advanced decision-making and planning business simulation tools like Silega Expedition",
+    "Focus on strategic advice combined with high-impact, executed solutions for maximum results",
+    "Commitment to leveraging technology for human capital strengthening",
+    "Innovative and agile strategic HR consulting approach"
+  ],
+  "implementation_scenarios": [
+    "Strategic HR transformations",
+    "Project-based implementation of specific HR solutions (e.g., C&B program design, competency framework development)",
+    "Advisory and execution support for organizational changes pre and post integration",
+    "Ongoing leadership assessment and development programs"
+  ],
+  "hr_functions_supported": [
+    "HR Strategy & Consulting",
+    "Talent Acquisition",
+    "Recruiting (Staffing, Pre-employment screening, Background checks, Pre-employment testing, Reference checks, ATS, Onboarding, Video interviewing, Recruitment automation)",
+    "Compensation & Benefits",
+    "Competency Management",
+    "Employee Development",
+    "Leadership Development",
+    "Organizational Transformation & Development",
+    "Performance Management",
+    "Employee Engagement & Retention",
+    "Human Capital Management"
+  ],
+  "technology_stack": [],
+  "integration_capabilities": [
+    "Functional integration of HR expertise with Finance and PR skills and insights",
+    "Partnership integrations with BERKELEY EXECUTIVE COACHING INSTITUTE",
+    "Partnership integrations with MASTER INTERNATIONAL"
+  ],
+  "roi_benefits": [
+    "Achieving successful HR outcomes and transformations",
+    "Strengthening human capital",
+    "Creating desired outcomes pre and post integration across HR, Finance, and PR functions",
+    "Developing powerful and forward-looking strategies through people",
+    "Balancing Compensation & Benefits programs to meet desires versus costs",
+    "Hiring top talent faster and more efficiently",
+    "Developing impactful solutions that are executed for maximum results",
+    "Equipping leaders with necessary skills to create a positive organizational impact",
+    "Improved organizational transformation, engagement, retention, and performance"
+  ],
+  "searchable_keywords": [
+    "Decode HR",
+    "HR consulting",
+    "HR transformation",
+    "strategic HR",
+    "human capital",
+    "HR technology",
+    "Asia HR consultants",
+    "senior HR consultants",
+    "HR practices",
+    "Finance HR integration",
+    "PR HR integration",
+    "Competency Frameworks",
+    "Competency modelling",
+    "Compensation & Benefits",
+    "C&B program",
+    "dcHR.tech",
+    "Tech Space & Community",
+    "Talent sourcing",
+    "Talent acquisition",
+    "Recruiting",
+    "Employee development",
+    "leadership development",
+    "HR solutions",
+    "Singapore HR",
+    "HR advisory",
+    "staffing management software",
+    "recruiting software",
+    "pre-employment screening software",
+    "background check software",
+    "pre-employment testing software",
+    "reference check software",
+    "recruiting automation software",
+    "talent acquisition suites",
+    "applicant tracking system",
+    "ATS",
+    "onboarding software",
+    "video interviewing software",
+    "staffing services providers",
+    "recruitment agencies",
+    "HR consulting providers",
+    "leadership assessment",
+    "Silega Expedition",
+    "business simulation",
+    "organisation transformation",
+    "engagement",
+    "retention",
+    "performance",
+    "BERKELEY EXECUTIVE COACHING INSTITUTE",
+    "MASTER INTERNATIONAL"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "HR Managers",
+    "HR Professionals",
+    "Business Leaders",
+    "Executives",
+    "Finance Professionals",
+    "Public Relations (PR) Professionals",
+    "High Potential Employees"
+  ],
+  "deployment_options": [],
+  "compliance_features": [],
+  "scalability_features": [],
+  "security_features": [],
+  "_weight": 1
+}

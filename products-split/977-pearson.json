@@ -1,0 +1,168 @@
+{
+  "id": 977,
+  "name": "Pearson",
+  "description": "Learning is no longer just a stage of life but a lifelong journey. More than 160 million users worldwide trust Pearson products and services. Whether it\u2019s upskilling in the workplace, getting ahead in school, making the grade at university, or learning a new language, our products and services help people realize the life they imagine every day.",
+  "features": [
+    "We spark curiosity to innovate new possibilities for everyone.",
+    "We hold our customers and consumers in the highest regard, and our work to the highest standards.",
+    "We execute with speed and agility to leave lasting impact on everyone we serve."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised learning",
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning"
+  ],
+  "headquarter": "Bloomington, MN",
+  "launch_date": "1996",
+  "order": 3,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Learning is a Lifelong Journey",
+  "ProductId": null,
+  "ShortDescription": "Pearson create vibrant and enriching learning experiences designed for real-life impact.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Focus on Learners of All Ages",
+      "sequence": 0,
+      "description": "Pearson offers educational products and services for learners from pre-K all the way through to career development."
+    },
+    {
+      "name": "Digital and Traditional Learning Solutions",
+      "sequence": 1,
+      "description": "They provide a mix of resources including eTextbooks, online learning platforms, and traditional textbooks to cater to different learning styles and preferences."
+    },
+    {
+      "name": "Supporting Educators and Students",
+      "sequence": 2,
+      "description": "Pearson offers specific products and tools designed to empower educators and help students succeed in their academic journeys."
+    }
+  ],
+  "Approved": true,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:38:04.959Z",
+  "enhanced_description": "Pearson is a global leader in learning products and services, trusted by over 160 million users worldwide. They cater to a lifelong learning journey, offering solutions for learners from pre-K through to career development, including upskilling in the workplace, academic advancement in schools and universities, and language acquisition. Pearson provides a versatile mix of digital and traditional learning solutions, such as eTextbooks, online learning platforms, and physical textbooks. Their offerings in Learning and Development encompass Training eLearning software, Corporate LMS, Training Management Systems, and Learning Experience Systems (LXPs). Pearson's products are designed to accelerate skill development and learning efficiency, focusing on personalized, adaptive, and continuous learning, supported by learning analytics for impactful real-life application.",
+  "target_industries": [
+    "Education",
+    "Corporate"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Workplace upskilling and reskilling",
+    "Academic learning and achievement (K-12, Higher Education)",
+    "Language learning",
+    "Corporate training and development",
+    "Skill acquisition and development",
+    "Improving learning efficiency and speed",
+    "Supporting educators in content delivery"
+  ],
+  "competitive_advantages": [
+    "Extensive global user base (160+ million users)",
+    "Comprehensive coverage of learning stages (pre-K to career development)",
+    "Diverse learning formats (digital and traditional solutions)",
+    "Commitment to innovation and high standards",
+    "Support for both learners and educators"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Training"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Enhanced training effectiveness",
+    "Optimized learning outcomes",
+    "Increased learning retention"
+  ],
+  "searchable_keywords": [
+    "Pearson",
+    "Learning",
+    "Education",
+    "Lifelong learning",
+    "Upskilling",
+    "Workplace training",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems",
+    "LXP",
+    "eLearning software",
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised learning",
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning",
+    "eTextbooks",
+    "Online learning platforms",
+    "Traditional textbooks",
+    "Educator support",
+    "Student success",
+    "Career development",
+    "Bloomington",
+    "MN"
+  ],
+  "primary_users": [
+    "Learners",
+    "Students",
+    "Employees",
+    "Educators",
+    "Trainers"
+  ],
+  "deployment_options": [
+    "Cloud-based / SaaS"
+  ],
+  "scalability_features": [
+    "Supports over 160 million users worldwide"
+  ],
+  "_weight": 1
+}

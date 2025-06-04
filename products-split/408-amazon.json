@@ -1,0 +1,125 @@
+{
+  "id": 408,
+  "name": "Amazon",
+  "description": "Amazon.com, Inc., is an American multinational technology company, engaged in e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. It is considered one of the Big Five American technology companies; the other four are Alphabet (parent company of Google), Apple, Meta (parent company of Facebook), and Microsoft. Together, Amazonians research and develop new technologies from Amazon Web Services to Alexa on behalf of our customers: shoppers, sellers, content creators, and developers around the world.",
+  "features": [
+    "Customer obsession rather than competitor focus",
+    "Passion for invention",
+    "Commitment to operational excellence"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Internet of things"
+  ],
+  "tags": [
+    "Employee engagement"
+  ],
+  "headquarter": "Seattle, WA",
+  "launch_date": "1994",
+  "order": 20369,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Amazon's \"Day 1\" mentality embodies a new organization's energetic and entrepreneurial spirit",
+  "ProductId": null,
+  "ShortDescription": "Leading American multinational technology company ",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Amazon Store",
+      "sequence": 0,
+      "description": "We work every day to earn and keep customers\u2019 trust. "
+    },
+    {
+      "name": "Devices and Services",
+      "sequence": 1,
+      "description": "Customers use Amazon's devices like Alexa, Echo, Fire TV, Fire Tablets, and more to simplify and enhance their daily lives."
+    },
+    {
+      "name": "Amazon Web Services",
+      "sequence": 2,
+      "description": "AWS is the world\u2019s leading cloud platform, offering over 200 fully featured services from global data centers."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:26:30.206Z",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "E-commerce",
+    "Cloud computing",
+    "Online advertising",
+    "Digital streaming",
+    "Artificial intelligence"
+  ],
+  "competitive_advantages": [
+    "Customer obsession rather than competitor focus",
+    "Passion for invention",
+    "Commitment to operational excellence"
+  ],
+  "technology_stack": [
+    "Artificial intelligence (AI)",
+    "Internet of things (IoT)",
+    "Amazon Web Services (AWS)"
+  ],
+  "searchable_keywords": [
+    "Amazon",
+    "technology",
+    "e-commerce",
+    "cloud computing",
+    "online advertising",
+    "digital streaming",
+    "artificial intelligence",
+    "AI",
+    "Internet of things",
+    "IoT",
+    "AWS",
+    "Alexa",
+    "customer obsession",
+    "invention",
+    "operational excellence",
+    "employee engagement"
+  ],
+  "primary_users": [
+    "Shoppers",
+    "Sellers",
+    "Content creators",
+    "Developers"
+  ],
+  "deployment_options": [
+    "Cloud"
+  ],
+  "scalability_features": [
+    "Global data centers"
+  ],
+  "_weight": 1
+}

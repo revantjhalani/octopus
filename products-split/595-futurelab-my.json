@@ -1,0 +1,119 @@
+{
+  "id": 595,
+  "name": "Futurelab.my",
+  "description": "FutureLab is a social enterprise that connects youth to industry mentors across Southeast Asia to help them pursue their dream career. They offer a platform that connects mentors and mentees seeking a path of personal growth and career advancements. FutureLab\u2019s vision is to empower and enable the youth to achieve a purposeful life through mentorship and community support. They have over 3000 mentors joining them on their mission to empower youth across Southeast Asia in discovering and propelling their careers.",
+  "features": [
+    "Provide a ladder to career",
+    "Session-wise coaching available",
+    "Build micro-entrepreneurs"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency",
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Training methodologies",
+    "Learning efficiency",
+    "Talent sourcing"
+  ],
+  "headquarter": "Kuala Lumpur",
+  "launch_date": "2015",
+  "order": 20553,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Fast track your carrer growth with mentorship",
+  "ProductId": null,
+  "ShortDescription": "FutureLab.my is an online mentoring platform and community that aims to make mentorship accessible for all. We are HRD Corp Certified Training Provider.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:30:41.587Z",
+  "enhanced_description": "FutureLab.my is an online mentoring platform and social enterprise designed to connect youth across Southeast Asia with over 3000 industry mentors. The platform facilitates personal growth and career advancement through mentorship and community support, empowering youth to achieve purposeful lives and careers. As an HRD Corp Certified Training Provider, FutureLab.my makes mentorship accessible for all, offering session-wise coaching and aiming to build micro-entrepreneurs.",
+  "key_use_cases": [
+    "Career development and guidance for youth",
+    "Personal growth facilitated by mentorship",
+    "Skill acceleration and learning efficiency through coaching",
+    "Support for aspiring micro-entrepreneurs",
+    "Connecting mentees with industry professionals for career advancement"
+  ],
+  "competitive_advantages": [
+    "Large network of over 3000 industry mentors",
+    "Focus on youth empowerment and career development in Southeast Asia",
+    "Accreditation as an HRD Corp Certified Training Provider",
+    "Social enterprise model",
+    "Aims to make mentorship accessible for all"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Training",
+    "Career Development",
+    "Talent Acquisition"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development and learning efficiency for mentees",
+    "Improved career trajectory and personal growth for youth",
+    "Potential for faster and more efficient talent sourcing (for employers accessing developed talent from the platform)",
+    "Economic empowerment through fostering micro-entrepreneurs"
+  ],
+  "searchable_keywords": [
+    "mentorship",
+    "career development",
+    "youth empowerment",
+    "skill development",
+    "learning",
+    "training",
+    "eLearning",
+    "recruiting",
+    "talent sourcing",
+    "career growth",
+    "personal growth",
+    "Southeast Asia",
+    "HRD Corp Certified",
+    "online mentoring",
+    "coaching",
+    "micro-entrepreneurs",
+    "social enterprise"
+  ],
+  "primary_users": [
+    "Youth (mentees)",
+    "Industry professionals (mentors)",
+    "Aspiring micro-entrepreneurs",
+    "HR professionals (for talent sourcing/development)"
+  ],
+  "deployment_options": [
+    "Cloud-based / SaaS"
+  ],
+  "compliance_features": [
+    "HRD Corp Certified Training Provider standards"
+  ],
+  "_weight": 1
+}

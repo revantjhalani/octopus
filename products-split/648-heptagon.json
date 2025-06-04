@@ -1,0 +1,143 @@
+{
+  "id": 648,
+  "name": "Heptagon",
+  "description": "Heptagon is the digital catalyst for your business growth. Founded in 2017, we are a Digital Consulting and Product Engineering company providing end-to-end technology solutions enabling companies to leapfrog their digital transformation journey. We go beyond traditional IT services by providing an entire gamut of design-led engineering services including creative solutions, user experience design, web, mobile & hybrid application development, DevOps, quality assurance to cloud & infrastructure management. We design and build customized enterprise software and also provide ready-to-deploy solutions.",
+  "features": [
+    "Digital Transformation",
+    "Digital Consulting, Intelligent Automation",
+    "Managed Services"
+  ],
+  "founders": [
+    "Vignesh Rengasamy"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Internet of things"
+  ],
+  "tags": [
+    "Employee engagement"
+  ],
+  "headquarter": "Bengaluru, Karnataka",
+  "launch_date": "2015",
+  "order": 20602,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Heptagon - A Quess Corp Company, is a Digital Consulting and Product Engineering Powerhouse",
+  "ProductId": null,
+  "ShortDescription": "Heptagon is the digital catalyst and Digital Consulting and Product Engineering company providing end-to-end technology solutions .",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:31:47.280Z",
+  "enhanced_description": "Heptagon, a Quess Corp Company, is a digital consulting and product engineering powerhouse providing end-to-end technology solutions. Founded in 2017, they act as a digital catalyst for business growth, guiding companies through their digital transformation journey. Their services span design-led engineering, including creative solutions, user experience design, web, mobile, and hybrid application development, DevOps, quality assurance, and cloud & infrastructure management. They also specialize in intelligent automation and leverage Internet of Things (IoT) technologies. Heptagon designs and builds customized enterprise software and offers ready-to-deploy solutions, with a stated business objective of improving employee happiness and engagement.",
+  "key_use_cases": [
+    "Digital transformation initiatives",
+    "Custom enterprise software development",
+    "Web, mobile, and hybrid application development",
+    "Implementation of intelligent automation solutions",
+    "Development of Internet of Things (IoT) solutions",
+    "Cloud and IT infrastructure management",
+    "Quality assurance for digital products",
+    "Enhancing employee engagement and happiness through technology solutions"
+  ],
+  "competitive_advantages": [
+    "End-to-end digital consulting and product engineering services",
+    "Design-led engineering approach",
+    "Ability to develop both customized enterprise software and provide ready-to-deploy solutions",
+    "Specialization in intelligent automation and Internet of Things (IoT)",
+    "Focus on improving employee happiness and engagement as a core business objective",
+    "Capability to go beyond traditional IT services"
+  ],
+  "implementation_scenarios": [
+    "Custom software development and implementation",
+    "Deployment of ready-to-use digital solutions",
+    "Digital transformation project execution",
+    "Managed services for IT infrastructure and applications"
+  ],
+  "hr_functions_supported": [
+    "Employee engagement"
+  ],
+  "technology_stack": [
+    "Web application development technologies",
+    "Mobile application development technologies",
+    "Hybrid application development technologies",
+    "DevOps methodologies and tools",
+    "Cloud computing platforms",
+    "Infrastructure management technologies",
+    "Internet of Things (IoT) technologies"
+  ],
+  "roi_benefits": [
+    "Accelerated digital transformation",
+    "Business growth enablement",
+    "Improved employee happiness and engagement",
+    "Enhanced operational efficiency through intelligent automation and robust IT infrastructure"
+  ],
+  "searchable_keywords": [
+    "Heptagon",
+    "digital consulting",
+    "product engineering",
+    "technology solutions",
+    "digital transformation",
+    "creative solutions",
+    "user experience design",
+    "UX design",
+    "web development",
+    "mobile application development",
+    "hybrid application development",
+    "DevOps",
+    "quality assurance",
+    "QA",
+    "cloud management",
+    "infrastructure management",
+    "customized enterprise software",
+    "ready-to-deploy solutions",
+    "intelligent automation",
+    "managed services",
+    "Internet of Things",
+    "IoT",
+    "employee engagement",
+    "employee happiness",
+    "business growth",
+    "IT services",
+    "Quess Corp",
+    "Bengaluru",
+    "Karnataka"
+  ],
+  "primary_users": [
+    "Business leaders",
+    "IT departments",
+    "HR leaders (for employee engagement solutions)",
+    "Product teams",
+    "Development teams",
+    "Operations teams"
+  ],
+  "deployment_options": [
+    "Cloud-based deployments (as they provide cloud & infrastructure management services)"
+  ],
+  "_weight": 1
+}

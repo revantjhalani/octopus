@@ -1,0 +1,172 @@
+{
+  "id": 879,
+  "name": "Millionlights",
+  "description": "Workforce Development Programs at Scale. We run programs in a hybrid model in the UK and in India for large enterprise clients for their workforce development. Our focus is to make our learner more employable and also bridge the gap between the skills needed by the industry and what is available. Millionlights creates scalable talent pipelines for our partners and helps them focus on their core areas of competency - we take care of all the talent creation and recruitment needs.",
+  "features": [
+    "Our online academy for tech training. We are Microsoft partners and work with tech companies to skill their talent through our academies. We have global clients who work with with us to create sustainable talent pipelines   ",
+    "Our new platform for upskilling engineering teams using AI. A new way for personalised training delivered online.",
+    "Our B2B SaaS Platform to hire tech talent from. Candidates from our Bootcamps get hired via this platform"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Course authoring",
+    "Learning Experience Systems (LXPs)",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Learning efficiency",
+    "Continuous learning",
+    "Adaptive learning",
+    "Employee engagement"
+  ],
+  "headquarter": "London, England",
+  "launch_date": "2018",
+  "order": 20832,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Helping Bridge the Skills Gap\n Upskilling engineers using a blend of online training and AI Models",
+  "ProductId": null,
+  "ShortDescription": "Workforce Development Programs at Scale. We run programs in a hybrid model in the UK and in India for large enterprise clients for their workforce development",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Skill Development for the Tech Industry",
+      "sequence": 0,
+      "description": "The document talks about a company named Skilld that helps businesses train their staff in tech skills [1]. Skilld uses a combination of online training and AI models to upskill engineers, which can be beneficial for companies looking to improve the technical skillset of their workforce"
+    },
+    {
+      "name": "AI-powered Interview Practice Tool",
+      "sequence": 1,
+      "description": "In addition to upskilling employees, Skilld also offers a free AI tool called InterviewHero that helps individuals practice their interviewing skills [1]. This can be a valuable resource for people who are preparing for job interviews."
+    },
+    {
+      "name": "Focus on Online Learning",
+      "sequence": 2,
+      "description": "The article mentions that Skilld uses a blend of online training to deliver its courses [1]. This can be convenient for learners, as it allows them to complete the training at their own pace and schedule."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:36:14.442Z",
+  "enhanced_description": "Millionlights specializes in scalable workforce development programs designed to bridge the skills gap, particularly within the tech industry. Operating in a hybrid model across the UK and India, the company partners with large enterprise clients to enhance their workforce's technical capabilities. This includes an online academy providing tech training, and a new AI-powered platform for personalized upskilling of engineering teams. As a Microsoft partner, Millionlights also facilitates talent creation and recruitment through a dedicated B2B SaaS platform for hiring tech talent emerging from their bootcamps, enabling partners to focus on core competencies while addressing their talent needs.",
+  "target_industries": [
+    "Technology"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Workforce upskilling and reskilling (specifically for tech roles and engineers)",
+    "Bridging industry-specific skill gaps",
+    "Creating scalable and sustainable talent pipelines",
+    "Recruitment and hiring of tech talent (from internal bootcamps)",
+    "Personalized learning and development for engineering teams",
+    "Enhancing employee employability",
+    "Interview preparation for job seekers (via AI-powered tool)"
+  ],
+  "competitive_advantages": [
+    "Scalability in workforce development programs",
+    "Hybrid delivery model (online and blended) across UK and India",
+    "Strategic partnerships (e.g., Microsoft)",
+    "AI-powered personalized training for engineers",
+    "Integrated talent pipeline creation and recruitment platform",
+    "Focus on employability and bridging industry skill gaps",
+    "AI-powered interview practice tool (InterviewHero)"
+  ],
+  "implementation_scenarios": [
+    "Online learning platform deployment",
+    "B2B SaaS platform for talent acquisition",
+    "Hybrid training programs combining online and potentially other modalities"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Talent Acquisition",
+    "Skill Management",
+    "Talent Management",
+    "Employee Engagement"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "SaaS (Software as a Service)"
+  ],
+  "roi_benefits": [
+    "Reduced skill gaps within the workforce",
+    "Accelerated skill development and improved learning efficiency",
+    "Enhanced employee employability and career readiness",
+    "Creation of scalable and sustainable talent pipelines",
+    "Streamlined recruitment process for tech talent",
+    "Improved employee engagement and happiness",
+    "Allows enterprises to focus on their core competencies by outsourcing talent creation and recruitment"
+  ],
+  "searchable_keywords": [
+    "Workforce Development",
+    "Skill Development",
+    "Skills Gap",
+    "Upskilling",
+    "Reskilling",
+    "Tech Training",
+    "Engineering Teams",
+    "AI Training",
+    "Personalized Learning",
+    "Online Academy",
+    "e-learning",
+    "Learning Experience Platform",
+    "LXP",
+    "Talent Acquisition",
+    "Tech Talent Recruitment",
+    "Talent Pipeline",
+    "Employee Engagement",
+    "Continuous Learning",
+    "Adaptive Learning",
+    "Hybrid Training",
+    "Corporate Training",
+    "Microsoft Partner",
+    "InterviewHero",
+    "HR Tech"
+  ],
+  "primary_users": [
+    "L&D Managers",
+    "HR Leaders",
+    "Engineering Managers",
+    "Employees (specifically Engineers in tech roles)",
+    "Job Seekers (candidates utilizing the hiring platform or InterviewHero)"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)",
+    "Hybrid (Online learning combined with other components)"
+  ],
+  "scalability_features": [
+    "Designed for large-scale workforce development programs",
+    "Enables creation of scalable talent pipelines"
+  ],
+  "_weight": 1
+}

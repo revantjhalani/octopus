@@ -1,0 +1,184 @@
+{
+  "id": 1269,
+  "name": "ELMO Software",
+  "description": "ELMO Software is the key to unlocking HR's strategic potential. We empower HR professionals across organizations to become data-driven partners in business success. Our comprehensive HRIS (Human Resources Information System) scales with you, automating tasks and offering a flexible, one-stop solution for the entire employee lifecycle. Fueled by powerful analytics, ELMO transforms HR from data keeper to strategic decision-maker.",
+  "features": [
+    "Flexible and Scalable",
+    "End-to-End HR Solutions, from hire to retire ",
+    "Local support round the clock "
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Talent Management",
+    "Total Rewards",
+    "Learning and Development",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Resource Information Systems (HRIS)",
+    "Talent management software",
+    "HR management suites",
+    "Corporate LMS",
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Talent acquisition",
+    "Hiring",
+    "Recruiting",
+    "Quick Hiring",
+    "Hiring Speed"
+  ],
+  "headquarter": "Sydney, NSW",
+  "launch_date": "2002",
+  "order": 21097,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Releasing HR's Full Potential",
+  "ProductId": null,
+  "ShortDescription": "ELMO Software is the trusted provider of HR technology solutions to 3,000+ organisations and two million end users across Australia, New Zealand and the UK.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Simplify & Scale",
+      "sequence": 0,
+      "description": "ELMO's cloud-based HRIS adapts to your needs, automating tasks & managing your workforce. Focus on growth, not paperwork."
+    },
+    {
+      "name": "Local Expertise",
+      "sequence": 1,
+      "description": "Our deep understanding of the Australian & New Zealand HR environment ensures ELMO solutions are compliant and meet your specific needs. "
+    },
+    {
+      "name": " Unleash HR's Potential",
+      "sequence": 2,
+      "description": "ELMO automates routine tasks, freeing HR professionals to become strategic partners. Drive employee engagement & business success."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:13:38.543Z",
+  "enhanced_description": "ELMO Software empowers HR professionals to become data-driven strategic partners by providing a comprehensive, flexible, and scalable cloud-based HRIS that automates tasks across the entire employee lifecycle, from hire to retire. Trusted by over 3,000 organizations and two million end users across Australia, New Zealand, and the UK, ELMO offers deep local expertise and compliance understanding for these regions. Its powerful analytics transform HR from a data keeper to a strategic decision-maker, simplifying workforce management, reducing paperwork, and driving employee engagement and business success. The solution is designed to adapt to an organization's evolving needs, supporting growth while freeing HR to focus on strategic initiatives.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Comprehensive HR management across the entire employee lifecycle (hire to retire)",
+    "Automating routine HR tasks",
+    "Enabling data-driven HR decision making and strategy",
+    "Workforce management and scaling",
+    "Improving employee happiness and engagement",
+    "Talent acquisition, recruiting, and hiring",
+    "Talent management",
+    "Total rewards administration, including payroll",
+    "Learning and development management",
+    "Ensuring HR compliance"
+  ],
+  "competitive_advantages": [
+    "Comprehensive, end-to-end HR solution covering the entire employee lifecycle",
+    "High flexibility and scalability to adapt to various company sizes and needs",
+    "Deep local expertise and compliance focus for Australia, New Zealand, and the UK",
+    "24/7 local support",
+    "Established and trusted provider with a significant customer and user base (3,000+ organizations, 2M+ end users)",
+    "Cloud-based HRIS for modern, accessible workforce management",
+    "Robust analytics for data-driven HR strategy and decision-making",
+    "Automation of routine HR tasks to enable strategic HR focus and reduce paperwork"
+  ],
+  "hr_functions_supported": [
+    "Human Resources Information Systems (HRIS)",
+    "Core HR Management",
+    "Talent Management",
+    "Talent Acquisition",
+    "Recruiting",
+    "Hiring",
+    "Employee Lifecycle Management",
+    "Total Rewards Management",
+    "Payroll",
+    "Learning and Development",
+    "Corporate LMS",
+    "Employee Engagement",
+    "Workforce Management",
+    "HR Analytics and Reporting",
+    "HR Compliance"
+  ],
+  "roi_benefits": [
+    "Increased HR efficiency and productivity through automation",
+    "Enhanced strategic contribution of HR to business success via data-driven insights",
+    "Reduced administrative burden and paperwork",
+    "Improved employee engagement and happiness, leading to better retention and productivity",
+    "Scalability that supports long-term organizational growth, reducing future IT costs",
+    "Streamlined HR operations with a comprehensive, one-stop solution",
+    "Enhanced compliance, particularly in Australia, New Zealand, and the UK, reducing risk"
+  ],
+  "searchable_keywords": [
+    "ELMO Software",
+    "HRIS",
+    "HCM",
+    "HR Software",
+    "Human Resources Information System",
+    "HR Technology",
+    "HR Management",
+    "Talent Management",
+    "Learning and Development",
+    "Total Rewards",
+    "Payroll",
+    "Employee Engagement",
+    "Talent Acquisition",
+    "Recruiting",
+    "Hiring",
+    "HR Automation",
+    "HR Analytics",
+    "Cloud HR Software",
+    "Employee Lifecycle Management",
+    "Workforce Management",
+    "Australian HR Software",
+    "New Zealand HR Software",
+    "UK HR Software",
+    "Strategic HR"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "Employees"
+  ],
+  "deployment_options": [
+    "Cloud",
+    "SaaS"
+  ],
+  "compliance_features": [
+    "Australian HR compliance",
+    "New Zealand HR compliance",
+    "UK HR compliance"
+  ],
+  "scalability_features": [
+    "Flexible architecture",
+    "Cloud-based scalability",
+    "Adapts to organizational needs and growth"
+  ],
+  "_weight": 1
+}

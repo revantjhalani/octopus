@@ -1,0 +1,146 @@
+{
+  "id": 350,
+  "name": "Wurkr",
+  "description": "Our founders, Annil and Tim both UK based from London (England) have been a solid team for over three decades before this project came alive. Their realisation that there was no collaboration software, let alone a high tech one, that could help them work together from different geographies made them conceptualise Wurkr. When separated by distances, Annil and Tim experienced the impact of disconnected and isolated teams on business goals, employee health, creativity and productivity. And thus, they set on a mission to optimise the morale and productivity of distributed workforces. And that\u2019s what we are all about!",
+  "features": [
+    "Wurkr is the new disruptive, collaborative, online workspace that replicates your physical office ecosystem online.",
+    "enabling employee well-being",
+    "greater flexibility, and achieving improved productivity"
+  ],
+  "founders": [
+    "Prasanna Vaidya"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "VR and AR Software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee happiness",
+    "Employee well being",
+    "Employee happiness programs"
+  ],
+  "headquarter": "London, England",
+  "launch_date": "2018",
+  "order": 20312,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "An online workspace to gather, and better cultivate culture and spontaneous communication in Hybrid and Remote Teams.",
+  "ProductId": null,
+  "ShortDescription": "An online workspace to gather, and better cultivate culture and spontaneous communication in Hybrid and Remote Teams.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Virtual offices",
+      "sequence": 0,
+      "description": "Collaborating on Wurkr is as simple as entering a room with open doors. You just  join a room where your teams are seated virtually and start! "
+    },
+    {
+      "name": "Real-time communication",
+      "sequence": 1,
+      "description": "Real-time chats, multi screen sharing, video and audio conferencing. Everything you need for virtual team building in your remote office. "
+    },
+    {
+      "name": "Collaborate",
+      "sequence": 2,
+      "description": "With multiple screen-sharing, superior audio-video, and chat tools that enable a spontaneous human touch, your team\u2019s happiness improves considerably.  Collaboration plays a significant role in virtual team building, employee experience and creating a healthy work environment."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:54.710Z",
+  "enhanced_description": "Wurkr is a disruptive, high-tech online workspace designed to replicate the physical office ecosystem, specifically catering to the needs of hybrid and remote teams. Founded by Annil and Tim, who recognized the impact of disconnected teams on business goals, employee health, creativity, and productivity, Wurkr aims to optimize the morale and productivity of distributed workforces. It facilitates collaboration through virtual offices, where users can easily join rooms for spontaneous interaction. The platform offers real-time communication tools including chats, multi-screen sharing, and superior video and audio conferencing capabilities, fostering a 'human touch' that enhances team happiness, virtual team building, and overall employee experience in a remote environment. Wurkr focuses on enabling employee well-being, greater flexibility, and achieving improved productivity for geographically dispersed teams.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Facilitating collaboration for distributed workforces",
+    "Cultivating team culture and spontaneous communication in hybrid and remote teams",
+    "Replicating the physical office environment online",
+    "Enabling real-time communication through chat, video, audio, and multi-screen sharing",
+    "Improving employee well-being and happiness in remote settings",
+    "Supporting virtual team building initiatives"
+  ],
+  "competitive_advantages": [
+    "Replicates the physical office ecosystem online for a more immersive experience",
+    "Emphasizes fostering spontaneous communication and team culture",
+    "Focuses on improving employee well-being, happiness, and morale",
+    "Designed specifically for overcoming challenges of geographically separated teams with high-tech solutions",
+    "Offers superior audio-video and multiple screen-sharing capabilities for enhanced collaboration"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Employee Well-being",
+    "Internal Communications",
+    "Remote Work Management",
+    "Virtual Team Building"
+  ],
+  "technology_stack": [
+    "VR and AR Software"
+  ],
+  "roi_benefits": [
+    "Optimized morale of distributed workforces",
+    "Improved productivity for remote and hybrid teams",
+    "Increased employee happiness",
+    "Creation of a healthier work environment"
+  ],
+  "searchable_keywords": [
+    "Wurkr",
+    "online workspace",
+    "collaboration software",
+    "virtual office",
+    "remote teams",
+    "hybrid teams",
+    "distributed workforce",
+    "employee engagement",
+    "employee happiness",
+    "employee well-being",
+    "productivity",
+    "real-time communication",
+    "video conferencing",
+    "audio conferencing",
+    "screen sharing",
+    "virtual team building",
+    "employee experience",
+    "work flexibility",
+    "VR and AR Software",
+    "team culture",
+    "spontaneous communication"
+  ],
+  "primary_users": [
+    "Employees",
+    "Remote Teams",
+    "Hybrid Teams",
+    "Distributed Workforces"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "SaaS"
+  ],
+  "_weight": 1
+}

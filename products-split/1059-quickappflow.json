@@ -1,0 +1,127 @@
+{
+  "id": 1059,
+  "name": "QuickAppFlow",
+  "description": "QuickAppFlow was founded by a strong team of experts with over 55 years of combined experience in IT and Low-Code No-Code platforms. We come from a diverse background of technology enthusiasts and business consultants. with 55+ man years of experience delivering Business value in customer success stories. Over the years we started building tools and libraries of re-usability to accelerate customer projects. QuickAppFlow is a culmination of decades of hard problem solving for our customers.",
+  "features": [
+    "No code Business process automation   ",
+    "Enterprise Class Governance",
+    "Third Party Integrations"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce",
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Artificial intelligence",
+    "Internet of things"
+  ],
+  "tags": [
+    "Workforce diversity",
+    "Workplace diversity",
+    "Skill development",
+    "Learning efficiency"
+  ],
+  "headquarter": "Nagpur, Maharashtra",
+  "launch_date": "2020",
+  "order": 21002,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Launch Your Vertical-Focused Enterprise SaaS Products in Weeks at Zero Dev Cost",
+  "ProductId": null,
+  "ShortDescription": "QuickAppFlow empowers you to build your vertical-focused B2B enterprise SaaS products at $0 development cost in 30 days.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:39:46.721Z",
+  "enhanced_description": "QuickAppFlow is a no-code business process automation platform founded by experts with over 55 years of combined experience in IT and Low-Code No-Code platforms. It empowers users to launch vertical-focused B2B enterprise SaaS products at zero development cost within weeks, or typically 30 days. The platform emphasizes enterprise-class governance and supports third-party integrations, built upon decades of experience in solving complex customer challenges and accelerating project delivery through reusable tools and libraries.",
+  "ideal_company_sizes": [
+    "Enterprise"
+  ],
+  "key_use_cases": [
+    "Building vertical-focused B2B enterprise SaaS products",
+    "No-code business process automation",
+    "Accelerating skill development and learning efficiency initiatives",
+    "Supporting diversity and inclusion initiatives"
+  ],
+  "competitive_advantages": [
+    "Zero development cost for building SaaS products",
+    "Rapid time-to-market (weeks/30 days) for SaaS product launches",
+    "No-code platform for business process automation",
+    "Deep expertise in Low-Code No-Code platforms and IT"
+  ],
+  "implementation_scenarios": [
+    "Building custom business applications",
+    "Creating vertical-specific SaaS solutions",
+    "Automating internal business processes"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Diversity & Inclusion",
+    "Skill Management"
+  ],
+  "technology_stack": [
+    "Low-Code No-Code"
+  ],
+  "integration_capabilities": [
+    "Third-party integrations"
+  ],
+  "roi_benefits": [
+    "Reduced development costs (zero development cost for products)",
+    "Accelerated time-to-market (launch in weeks/30 days)",
+    "Improved skill development efficiency",
+    "Improved learning efficiency"
+  ],
+  "searchable_keywords": [
+    "QuickAppFlow",
+    "No-code",
+    "Low-code",
+    "Business process automation",
+    "Enterprise SaaS",
+    "Zero development cost",
+    "Rapid development",
+    "Third party integrations",
+    "Learning and Development",
+    "Training eLearning software",
+    "Artificial intelligence",
+    "Internet of things",
+    "Workforce diversity",
+    "Workplace diversity",
+    "Skill development",
+    "Learning efficiency",
+    "Business value",
+    "Enterprise Class Governance"
+  ],
+  "primary_users": [
+    "Business users",
+    "SaaS product developers/builders",
+    "Business process owners",
+    "HR professionals (L&D, D&I)"
+  ],
+  "_weight": 1
+}

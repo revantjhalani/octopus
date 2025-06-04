@@ -1,0 +1,132 @@
+{
+  "id": 830,
+  "name": "Lexly Health",
+  "description": "Lexly's algorithm creates a 5 mins physiotherapy programme to treat chronic back pain. Our easy to do programme reduces the inertia for users to get started and aids in compliance with exercises. Lexly's algorithm creates a 5 mins physiotherapy programme to treat chronic back pain. Our easy to do programme reduces the inertia for users to get started and aids in compliance with exercises.",
+  "features": [
+    "Receive a personalised physiotherapy programme",
+    "Get real-time feedback for your exercise posture with AI",
+    "Get matched with our in-house Health Coach and Physiotherapist for a 1-to-1 tele-consultation"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee benefits"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2021",
+  "order": 20783,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Back pain relief in 5 mins with AI",
+  "ProductId": null,
+  "ShortDescription": "Lexly's algorithm creates a 5 mins physiotherapy programme to treat chronic back pain. Our easy to do programme reduces the inertia for users to get started and aids in compliance with exercises.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "1. Bite sized exercises to navigate your busy schedule",
+      "sequence": 0,
+      "description": "Get an exercise programme which is curated by our Physiotherapist. Only less than 5 minutes everyday"
+    },
+    {
+      "name": "2. AI motion tracking technology for your safety",
+      "sequence": 1,
+      "description": "Be accompanied with our AI 24/7 as you receive instantaneous corrective feedback while you do your exercises"
+    },
+    {
+      "name": "3. Assigned Physiotherapist and Health Coach at every step",
+      "sequence": 2,
+      "description": "Get matched with professionals to join you in your health journey. Celebrate goals and incorporate the exercise programme into your lifestyle."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:18.342Z",
+  "enhanced_description": "Lexly Health offers an AI-powered physiotherapy program designed to treat chronic back pain, creating personalized 5-minute exercise routines. The platform reduces barriers to adoption and enhances user compliance through its bite-sized programs. It features real-time AI motion tracking for immediate posture feedback, ensuring user safety and exercise effectiveness. Additionally, users receive 1-to-1 tele-consultations and continuous support from in-house Health Coaches and Physiotherapists, guiding them through their health journey.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Treating chronic back pain for employees",
+    "Implementing corporate wellness programs focused on physical health",
+    "Providing accessible and compliant physiotherapy solutions",
+    "Enhancing employee well-being and health & safety initiatives",
+    "Offering personalized health coaching and professional support"
+  ],
+  "competitive_advantages": [
+    "Specialized focus on chronic back pain relief",
+    "Bite-sized 5-minute daily exercise programs to reduce inertia and improve compliance",
+    "AI motion tracking for real-time, instantaneous corrective feedback on exercise posture",
+    "Personalized physiotherapy programs curated by professionals",
+    "Dedicated 1-to-1 tele-consultations with in-house Health Coaches and Physiotherapists"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards",
+    "Corporate wellness",
+    "Health & Safety",
+    "Employee Benefits",
+    "Employee Well-being"
+  ],
+  "technology_stack": [
+    "AI (Algorithm)",
+    "AI (Motion tracking technology)"
+  ],
+  "roi_benefits": [
+    "Reduces chronic back pain symptoms for users",
+    "Increases user compliance with physiotherapy exercises",
+    "Reduces the barrier for users to start and maintain physical therapy",
+    "Enhances overall employee well-being and health",
+    "Provides a convenient and accessible solution for back pain management"
+  ],
+  "searchable_keywords": [
+    "Lexly Health",
+    "physiotherapy program",
+    "chronic back pain",
+    "AI",
+    "corporate wellness",
+    "employee well-being",
+    "employee benefits",
+    "health coach",
+    "physiotherapist",
+    "tele-consultation",
+    "motion tracking",
+    "exercise program",
+    "posture correction",
+    "digital health",
+    "physical therapy"
+  ],
+  "primary_users": [
+    "Employees suffering from chronic back pain",
+    "HR professionals managing employee well-being and benefits",
+    "Health Coaches (platform providers)",
+    "Physiotherapists (platform providers)"
+  ],
+  "_weight": 1
+}

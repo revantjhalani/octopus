@@ -1,0 +1,154 @@
+{
+  "id": 614,
+  "name": "Globaltalex Private Limited [Global Talent Exchange]",
+  "description": "Globa;l talent exchange platform enables businesses of all sizes to access highly skilled tech talent from around the world, which helps them scale and compete internationally. With a specialized focus on emerging technology roles, our customer-centric approach to recruitment and rich community network has empowered several organizations to pursue innovation and achieve their goals seamlessly.",
+  "features": [
+    "Work on Saas and PaaS model",
+    "Ai ecosystem",
+    "Business consulting"
+  ],
+  "founders": [
+    "Avinash Bichali"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Workforce management",
+    "HR management suites",
+    "Recruitment agencies",
+    "HR consulting providers",
+    "Recruiting automation software",
+    "Software and Services Related to HR Software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Workforce diversity",
+    "Employee diversity"
+  ],
+  "headquarter": "Bengaluru",
+  "launch_date": "2020",
+  "order": 20571,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Mobilizing talent, elevating nation",
+  "ProductId": null,
+  "ShortDescription": "Launched in 2020, Global Talent Exchange is a fast-growing next-generation tech recruitment platform.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:31:09.351Z",
+  "enhanced_description": "Globaltalex Private Limited, operating as Global Talent Exchange, is a fast-growing, next-generation tech recruitment platform launched in 2020. This global talent exchange platform is designed to enable businesses of all sizes to access highly skilled tech talent from around the world, with a specialized focus on emerging technology roles. Leveraging an AI ecosystem and operating on SaaS and PaaS models, Globaltalex also offers business consulting to empower organizations to scale, compete internationally, pursue innovation, and seamlessly achieve their goals. With a customer-centric approach to recruitment and a rich community network, the platform supports key business objectives such as building a more diverse and inclusive workforce by addressing workforce and employee diversity initiatives. It functions as a comprehensive solution encompassing aspects of recruitment agencies, HR consulting providers, recruiting automation software, and broader talent and workforce management.",
+  "target_industries": [
+    "Technology"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Enterprise"
+  ],
+  "key_use_cases": [
+    "Global tech talent acquisition",
+    "Recruitment for emerging technology roles",
+    "Workforce scaling support",
+    "International expansion talent acquisition",
+    "Diversity and inclusion hiring initiatives",
+    "Recruitment process automation",
+    "HR consulting for talent strategies"
+  ],
+  "competitive_advantages": [
+    "Global access to highly skilled tech talent",
+    "Specialization in emerging technology roles",
+    "AI-powered recruitment capabilities",
+    "Leveraging a rich community network for talent",
+    "Customer-centric recruitment approach",
+    "Support for building diverse and inclusive workforces"
+  ],
+  "implementation_scenarios": [
+    "SaaS deployment",
+    "PaaS utilization",
+    "Hybrid (combining software with recruitment agency services)",
+    "Hybrid (combining software with HR consulting services)"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Recruitment",
+    "Workforce Management",
+    "Diversity & Inclusion",
+    "HR Consulting"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)"
+  ],
+  "roi_benefits": [
+    "Enhanced ability to scale business operations",
+    "Improved international competitiveness",
+    "Access to specialized and emerging tech talent",
+    "Accelerated innovation capabilities",
+    "Streamlined achievement of business goals",
+    "Improved workforce diversity and inclusion metrics"
+  ],
+  "searchable_keywords": [
+    "Globaltalex",
+    "Global Talent Exchange",
+    "Tech talent",
+    "Global talent",
+    "Emerging tech roles",
+    "Recruitment platform",
+    "Talent acquisition",
+    "AI recruitment",
+    "SaaS HR",
+    "PaaS HR",
+    "HR consulting",
+    "Talent management",
+    "Workforce management",
+    "Diversity hiring",
+    "Inclusion hiring",
+    "Employee diversity",
+    "International talent",
+    "Workforce scaling",
+    "Innovation in hiring",
+    "Recruiting automation"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Recruiters",
+    "Hiring Managers",
+    "Business Leaders",
+    "Executives"
+  ],
+  "deployment_options": [
+    "SaaS (Software as a Service)",
+    "PaaS (Platform as a Service)"
+  ],
+  "scalability_features": [
+    "Cloud-native architecture (SaaS/PaaS) supporting business growth and workforce scaling"
+  ],
+  "_weight": 1
+}

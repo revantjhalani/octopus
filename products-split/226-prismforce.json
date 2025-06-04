@@ -1,0 +1,155 @@
+{
+  "id": 226,
+  "name": "Prismforce",
+  "description": "Prismforce is the only vertical SaaS for IT services companies, enabling them to build a digital-first, agile talent supply chain for accelerating profitable growth. Prismforce\u2019s talent supply chain software suite for skill management, talent marketplace and forecasting helps technology businesses efficiently plan, staff and deliver projects while providing compelling career progression for its employees, driving  sustainable, profitable growth for enterprises and better employee engagement.",
+  "features": [
+    "Productized deep domain knowledge",
+    "Cloud first, modular & easily customisable",
+    "AI/ML first , actionable intelligence"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Learning Experience Systems (LXPs)"
+  ],
+  "tags": [
+    "Skill development",
+    "Skill acquisition"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2021",
+  "order": 20192,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "AI-Powered Talent Supply Chain Software for Tech Services",
+  "ProductId": null,
+  "ShortDescription": "Prismforce aims to be the pre-eminent vertical SaaS for tech services and talent organizations",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "SkillPrism",
+      "sequence": 0,
+      "description": "Build accurate, dynamic talent snapshot and reskill them with SkillPrism"
+    },
+    {
+      "name": "IntelliPrism",
+      "sequence": 1,
+      "description": "Create an AI-powered marketplace for talent with IntelliPrism"
+    },
+    {
+      "name": "OutlookPrism",
+      "sequence": 2,
+      "description": "Plan ahead and fulfill skill-needs with AI-driven OutlookPrism"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:44.678Z",
+  "enhanced_description": "Prismforce is a vertical SaaS solution specifically designed for IT services companies and technology businesses. It provides an AI-powered talent supply chain software suite that includes modules for skill management (SkillPrism), talent marketplace (IntelliPrism), and forecasting (OutlookPrism). This enables organizations to build a digital-first, agile talent supply chain, accelerating profitable growth by efficiently planning, staffing, and delivering projects. The platform also aims to drive compelling career progression for employees and enhance employee engagement, leading to sustainable, profitable growth for enterprises. Key features include productized deep domain knowledge, cloud-first architecture, modularity, easy customization, and AI/ML-first actionable intelligence.",
+  "target_industries": [
+    "IT Services",
+    "Technology"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Skill Management",
+    "Talent Marketplace Creation",
+    "Workforce Planning and Forecasting (Skill Needs)",
+    "Project Staffing and Delivery",
+    "Employee Career Progression",
+    "Reskilling Programs"
+  ],
+  "competitive_advantages": [
+    "Vertical SaaS specializing in IT services companies",
+    "Productized deep domain knowledge",
+    "Cloud-first architecture",
+    "Modular and easily customizable",
+    "AI/ML-first approach providing actionable intelligence"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Skill Management",
+    "Workforce Planning",
+    "Learning & Development",
+    "Employee Engagement",
+    "Internal Mobility"
+  ],
+  "technology_stack": [
+    "Cloud",
+    "AI/ML"
+  ],
+  "roi_benefits": [
+    "Accelerated profitable growth",
+    "Improved project planning, staffing, and delivery efficiency",
+    "Enhanced employee career progression",
+    "Increased employee engagement",
+    "Sustainable business growth"
+  ],
+  "searchable_keywords": [
+    "Prismforce",
+    "Talent supply chain",
+    "IT services",
+    "Technology businesses",
+    "Skill management",
+    "Talent marketplace",
+    "Forecasting",
+    "Workforce planning",
+    "Project staffing",
+    "Career progression",
+    "Employee engagement",
+    "Vertical SaaS",
+    "Cloud-first",
+    "AI/ML",
+    "Artificial intelligence",
+    "Machine learning",
+    "Skill development",
+    "Skill acquisition",
+    "Learning and Development",
+    "Learning Experience Systems",
+    "SkillPrism",
+    "IntelliPrism",
+    "OutlookPrism",
+    "Reskilling",
+    "Agile talent supply chain"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Project Managers",
+    "Business Leaders",
+    "Employees",
+    "IT Services Management"
+  ],
+  "deployment_options": [
+    "Cloud"
+  ],
+  "_weight": 1
+}

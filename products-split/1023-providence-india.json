@@ -1,0 +1,159 @@
+{
+  "id": 1023,
+  "name": "Providence India",
+  "description": "we are working on re-imagining the future of care with cutting-edge technologies such as big data, machine learning, artificial intelligence, IoT, and blockchain to enhance patient outcomes and experience and more importantly, drive a lasting social impact.",
+  "features": [
+    "Reimagining healthcare with technology",
+    "AI Powered Chatbots",
+    "Predictive Analytics"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee satisfaction",
+    "Employee benefits"
+  ],
+  "headquarter": "Hyderabad ",
+  "launch_date": "2019",
+  "order": 20966,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Health for a Better World",
+  "ProductId": null,
+  "ShortDescription": "Providence India aims to lead the way in modernizing the world of healthcare by enabling a digitally enabled health system, with caregivers and patients at the heart of our transformation.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Focus on Digital Health",
+      "sequence": 0,
+      "description": "Providence India emphasizes using cloud-first technology, AI, and ML to modernize healthcare systems. This suggests they are a leader in digital health solutions for improving patient care and operational efficiency."
+    },
+    {
+      "name": "Improved Patient and Caregiver Experiences:",
+      "sequence": 1,
+      "description": "By utilizing technology, they aim to enhance both patient experiences (better outcomes) and caregiver experiences (increased efficiency)."
+    },
+    {
+      "name": "Global Healthcare Specialist",
+      "sequence": 2,
+      "description": "Providence India is a specialized center established by a prominent US healthcare system (Providence). This highlights their expertise in global healthcare operations and engineering"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:39:01.165Z",
+  "enhanced_description": "Providence India is dedicated to re-imagining and modernizing the future of care and healthcare systems using cutting-edge technologies, including big data, machine learning, artificial intelligence (AI), IoT, and blockchain. This focus aims to enhance patient outcomes and experience, improve caregiver efficiency, and drive lasting social impact. As a specialized center established by a prominent US healthcare system, Providence India leverages its expertise in global healthcare operations and engineering. Beyond patient care, the organization also extends its technological solutions to HR functions, specifically targeting the improvement of employee happiness and engagement through offerings categorized under Total Rewards, corporate wellness software, and health & safety providers.",
+  "target_industries": [
+    "Healthcare"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Modernizing healthcare systems with digital technology",
+    "Enhancing patient outcomes and experience",
+    "Improving caregiver efficiency and experience",
+    "Driving social impact within healthcare",
+    "Improving employee happiness and engagement",
+    "Implementing corporate wellness programs",
+    "Managing health and safety initiatives",
+    "Providing AI-powered chatbot support and interaction",
+    "Utilizing predictive analytics for healthcare insights and operational efficiency"
+  ],
+  "competitive_advantages": [
+    "Utilizes cutting-edge technologies: big data, machine learning, artificial intelligence, IoT, and blockchain",
+    "Focus on cloud-first technology for digital health solutions",
+    "Expertise as a specialized center of a prominent US healthcare system",
+    "Global healthcare operations and engineering capabilities",
+    "Offers AI-powered chatbots",
+    "Provides predictive analytics capabilities"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards",
+    "Corporate Wellness",
+    "Health & Safety",
+    "Employee Engagement",
+    "Employee Well-being",
+    "Employee Benefits"
+  ],
+  "technology_stack": [
+    "Big Data",
+    "Machine Learning (ML)",
+    "Artificial Intelligence (AI)",
+    "Internet of Things (IoT)",
+    "Blockchain",
+    "Cloud-first technology"
+  ],
+  "roi_benefits": [
+    "Enhanced patient outcomes",
+    "Improved patient experience",
+    "Increased caregiver efficiency",
+    "Improved caregiver experience",
+    "Higher employee happiness and engagement",
+    "Enhanced operational efficiency",
+    "Driving social impact"
+  ],
+  "searchable_keywords": [
+    "Providence India",
+    "healthcare technology",
+    "digital health",
+    "AI",
+    "machine learning",
+    "predictive analytics",
+    "chatbots",
+    "big data",
+    "IoT",
+    "blockchain",
+    "patient outcomes",
+    "patient experience",
+    "caregiver experience",
+    "operational efficiency",
+    "employee well-being",
+    "corporate wellness",
+    "health and safety",
+    "employee benefits",
+    "employee engagement",
+    "total rewards",
+    "global healthcare"
+  ],
+  "primary_users": [
+    "Patients",
+    "Caregivers",
+    "Employees",
+    "HR Professionals"
+  ],
+  "deployment_options": [
+    "Cloud"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,149 @@
+{
+  "id": 381,
+  "name": "ACS Solutions",
+  "description": "Founded in 1998 and headquartered in Atlanta (Duluth), Georgia, Innova Solutions along with its subsidiaries employs over 50,000 professionals worldwide and reports an annual revenue approaching $3.0B. Through global delivery centers across North America, Asia, and Europe, Innova Solutions delivers strategic technology and business transformation solutions to its clients, enabling them to operate as leaders within their fields. Whether it is onboarding a new service, embracing a new consumer device or rolling out a Business Innovation, Innova Solutions will empower your Enterprise to transition to new technologies, embrace new service delivery models and enhance the business value provided by IT. Innova provides a full spectrum of services to plan, prep, and execute a data center migration and the development of workloads that can be moved to\u2026 or in-between, cloud service providers.",
+  "features": [
+    "Disruptions to business operations can be costly, so we design our services and solutions to be integrated without interference with your existing business or working model.",
+    "Our team\u2019s extensive experience managing complex projects means that we can adeptly handle every detail and all vendor coordination, giving you the confidence that your project will be completed on time and on budget.",
+    "Our innovative development and testing frameworks enable you to gain independence while managing critical client expectations and needs."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    ""
+  ],
+  "headquarter": "",
+  "launch_date": "1998",
+  "order": 20342,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "The Innova Foundation - Empowering Lives, Inspiring Change",
+  "ProductId": null,
+  "ShortDescription": "Accelerating client success through digital innovation",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": [],
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": false,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:25:45.183Z",
+  "enhanced_description": "ACS Solutions, a subsidiary of Innova Solutions (founded 1998, headquartered in Atlanta, Georgia, with over 50,000 professionals globally and approximately $3.0B in annual revenue), delivers strategic technology and business transformation solutions. While the parent company offers broad IT services including data center migration and cloud integration, ACS Solutions specifically focuses on empowering enterprises with digital innovation to accelerate client success. This includes supporting HR functions to hire top talent faster and more efficiently, and boosting hiring manager confidence and productivity. Their services are designed for seamless integration without disrupting existing business operations, managing complex projects on time and within budget, and providing innovative development and testing frameworks to enhance business value from IT.",
+  "key_use_cases": [
+    "Strategic technology and business transformation",
+    "Onboarding new services or business innovations",
+    "Transitioning to new technologies and service delivery models",
+    "Planning, preparing, and executing data center migrations",
+    "Developing and migrating workloads to/between cloud service providers",
+    "Accelerating talent acquisition and hiring processes",
+    "Improving hiring manager productivity and confidence",
+    "Managing complex IT and business projects",
+    "Developing and testing new business solutions"
+  ],
+  "competitive_advantages": [
+    "Seamless integration with existing business and IT models",
+    "Minimal disruption to ongoing business operations",
+    "Extensive experience in managing complex technology projects",
+    "Ability to complete projects on time and within budget",
+    "Comprehensive vendor coordination",
+    "Innovative development and testing frameworks",
+    "Enables client independence in managing critical systems",
+    "Global delivery capabilities with centers across North America, Asia, and Europe",
+    "Backed by a large professional workforce (50,000+ professionals)",
+    "Supported by significant financial resources (approx. $3.0B annual revenue)",
+    "Focus on accelerating client success through digital innovation"
+  ],
+  "implementation_scenarios": [
+    "Integration with existing business and IT infrastructure",
+    "Data center migration projects",
+    "Cloud service provider transitions and integrations",
+    "Rollout of new business innovations or services",
+    "Technology transition and adoption projects"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Hiring",
+    "Talent Sourcing",
+    "Talent Acquisition",
+    "Hiring Manager Productivity"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence",
+    "Cloud Technologies"
+  ],
+  "integration_capabilities": [
+    "Integration with existing business systems",
+    "Integration with cloud service providers",
+    "Integration with existing HR software"
+  ],
+  "roi_benefits": [
+    "Faster talent acquisition",
+    "Improved efficiency in hiring processes",
+    "Increased hiring manager confidence",
+    "Enhanced hiring manager productivity",
+    "On-time project completion",
+    "On-budget project completion",
+    "Enhanced business value from IT investments",
+    "Increased operational independence"
+  ],
+  "searchable_keywords": [
+    "ACS Solutions",
+    "Innova Solutions",
+    "HR Technology",
+    "Recruiting",
+    "Hiring",
+    "Talent Sourcing",
+    "Talent Acquisition",
+    "Hiring Manager Productivity",
+    "Digital Innovation",
+    "Business Transformation",
+    "IT Services",
+    "Data Center Migration",
+    "Cloud Services",
+    "Artificial Intelligence",
+    "Project Management",
+    "Vendor Management",
+    "Technology Solutions",
+    "HR Software Integration",
+    "Enterprise Solutions"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Recruiting Teams",
+    "Hiring Managers",
+    "IT Leadership",
+    "Business Leadership"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "Hybrid (implied by data center migration capabilities)"
+  ],
+  "_weight": 1
+}

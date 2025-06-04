@@ -1,0 +1,156 @@
+{
+  "id": 1358,
+  "name": "BI Worldwide",
+  "description": "BI WORLDWIDE is a global engagement agency that uses the principles of behavioral economics to produce measurable business results by designing and delivering solutions that engage employees, channel partners and customers. ",
+  "features": [
+    "Employee Recognition",
+    "Employee Rewards",
+    "eLearning",
+    "Employee Engagement",
+    "Travel & Sales Incentives",
+    "Coalition Marketing"
+  ],
+  "founders": [],
+  "price": [
+    {
+      "name": "",
+      "type": "",
+      "price": "",
+      "description": ""
+    }
+  ],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Employee engagement software",
+    "Benefits administration software",
+    "Compensation management software",
+    "Employee recognition software",
+    "Benefits administration services",
+    "Sales compensation software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee benefits",
+    "Employee recognition",
+    "Employee Engagement strategies"
+  ],
+  "headquarter": "Minneapolis, IN",
+  "launch_date": "1950",
+  "order": 50,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Inspiring people. Delivering results.",
+  "ProductId": null,
+  "ShortDescription": "Attract, engage and retain employees, run effective sales contests and incentives, build dynamic customer loyalty programs.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Employee Engagement",
+      "sequence": 0,
+      "description": "Let's create a powerful employee engagement and rewards program that inspires your employees to love what they do and the brand they do it for."
+    },
+    {
+      "name": "Channel Sales Solutions",
+      "sequence": 1,
+      "description": "Our platforms and solutions help you build strong, lasting channel partner relationships to support incremental sales"
+    },
+    {
+      "name": "Customer Loyalty",
+      "sequence": 2,
+      "description": "We focus on driving desired behaviors, optimizing each phase and cultivating real emotional loyalty \u2014 no matter what lifecycle stage your customers are in."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": true,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-12T07:31:05.869Z",
+  "enhanced_description": "BI WORLDWIDE is a global engagement agency leveraging behavioral economics principles to drive measurable business results across employees, channel partners, and customers. They design and deliver comprehensive solutions including employee recognition, rewards, eLearning, and employee engagement programs. Additionally, they offer travel & sales incentives and coalition marketing, aiming to attract, engage, and retain employees, facilitate effective sales contests, and build dynamic customer loyalty programs. Their services focus on inspiring employee engagement, strengthening channel partner relationships to support incremental sales, and cultivating deep customer loyalty.",
+  "ideal_company_sizes": [
+    "Small Enterprise"
+  ],
+  "key_use_cases": [
+    "Improving employee engagement and retention",
+    "Designing and implementing employee recognition and rewards programs",
+    "Facilitating learning and development through eLearning",
+    "Running effective sales contests and incentive programs",
+    "Building and nurturing channel partner relationships to drive sales",
+    "Developing and managing customer loyalty programs"
+  ],
+  "competitive_advantages": [
+    "Application of behavioral economics principles to drive measurable business results",
+    "Holistic engagement solutions covering employees, channel partners, and customers",
+    "Focus on achieving tangible business outcomes and incremental sales"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Employee Recognition",
+    "Rewards Management",
+    "Benefits Administration",
+    "Compensation Management (specifically Sales Compensation)",
+    "Learning & Development",
+    "Talent Management"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Increased employee retention",
+    "Enhanced sales performance through incentives (incremental sales)",
+    "Stronger channel partner relationships",
+    "Improved customer loyalty",
+    "Measurable business results"
+  ],
+  "searchable_keywords": [
+    "BI Worldwide",
+    "Employee Engagement",
+    "Employee Recognition",
+    "Employee Rewards",
+    "Total Rewards",
+    "Talent Management",
+    "Behavioral Economics",
+    "Channel Partner Engagement",
+    "Customer Loyalty",
+    "Sales Incentives",
+    "Travel Incentives",
+    "eLearning",
+    "Benefits Administration",
+    "Compensation Management",
+    "Sales Compensation",
+    "Employee Benefits",
+    "Engagement Strategies",
+    "Employee Retention",
+    "Sales Contests",
+    "Global Engagement Agency",
+    "Business Results"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Sales Leaders",
+    "Marketing Professionals",
+    "Employees",
+    "Channel Partners",
+    "Customers"
+  ],
+  "_weight": 1
+}

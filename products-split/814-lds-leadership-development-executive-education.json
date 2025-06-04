@@ -1,0 +1,153 @@
+{
+  "id": 814,
+  "name": "LDS Leadership Development & Executive Education",
+  "description": "Design and delivery of customised leadership development and executive education programs, topic driven workshops or short speaking engagements. Facilitation of strategy, business model and innovation projects.",
+  "features": [
+    "Cross culture collaboration",
+    "Deliver executive education training",
+    "CEO fire-side chats"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Course authoring",
+    "Learning Experience Systems (LXPs)",
+    "Training management system"
+  ],
+  "tags": [
+    "Learning efficiency",
+    "Continuous learning",
+    "Adaptive learning",
+    "Employee engagement"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2020",
+  "order": 20767,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Helping people and business do better",
+  "ProductId": null,
+  "ShortDescription": "Our goal is to drive business growth through people development.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Leadership Development for Business Growth",
+      "sequence": 0,
+      "description": "This article is about a leadership development company that helps businesses grow through people development."
+    },
+    {
+      "name": "Customized Programs Based on Client Needs",
+      "sequence": 1,
+      "description": "The company achieves its goal by understanding the client's goals and designing programs specifically for them."
+    },
+    {
+      "name": "Variety of Programs Offered",
+      "sequence": 2,
+      "description": "The company offers a variety of programs including design thinking, strategic thinking and sustainability."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:59.454Z",
+  "enhanced_description": "LDS Leadership Development & Executive Education specializes in the design and delivery of customized leadership development and executive education programs. They offer a variety of formats including topic-driven workshops and short speaking engagements. The service also includes facilitation of strategy, business model, and innovation projects. Their core objective is to drive business growth through people development, achieving this by understanding client goals and designing programs specifically for their needs. The programs cover a variety of topics such as design thinking, strategic thinking, and sustainability. They also offer training in cross-cultural collaboration, deliver executive education, and provide unique insights through CEO fire-side chats.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Customized leadership development for all organizational levels",
+    "Delivery of executive education and training programs",
+    "Facilitation of strategy development initiatives",
+    "Facilitation of business model innovation projects",
+    "Facilitation of general innovation projects",
+    "Enhancing cross-cultural collaboration skills within an organization",
+    "Providing executive insights and learning through CEO fire-side chats",
+    "Developing specialized skills such as design thinking, strategic thinking, and sustainability",
+    "Accelerating overall skill development and learning efficiency",
+    "Improving employee happiness and engagement through targeted development"
+  ],
+  "competitive_advantages": [
+    "Highly customized program design and delivery tailored to specific client needs and goals",
+    "Broad range of program topics offered, including design thinking, strategic thinking, and sustainability",
+    "Expertise in facilitating core business areas like strategy, business model, and innovation",
+    "Specialized focus on cross-cultural collaboration",
+    "Unique offering of CEO fire-side chats for executive insights"
+  ],
+  "implementation_scenarios": [
+    "Direct consultative engagement to design bespoke leadership and executive development programs",
+    "On-demand delivery of workshops, speaking engagements, or facilitation sessions"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Talent Management",
+    "Employee Engagement",
+    "Training Management"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Enhanced employee happiness",
+    "Increased employee engagement",
+    "Contribution to overall business growth through people development"
+  ],
+  "searchable_keywords": [
+    "leadership development",
+    "executive education",
+    "corporate training",
+    "customized programs",
+    "skill development",
+    "learning and development",
+    "employee engagement",
+    "business growth",
+    "cross-cultural collaboration",
+    "CEO insights",
+    "strategy facilitation",
+    "business model innovation",
+    "design thinking",
+    "strategic thinking",
+    "sustainability",
+    "continuous learning",
+    "adaptive learning",
+    "workshops",
+    "speaking engagements",
+    "training management",
+    "course authoring",
+    "LXP",
+    "eLearning"
+  ],
+  "primary_users": [
+    "Employees (program participants)",
+    "Managers (program participants)",
+    "Executives (program participants)",
+    "HR/L&D Professionals (client-side decision makers)",
+    "Business Leaders (client-side decision makers)"
+  ],
+  "_weight": 1
+}

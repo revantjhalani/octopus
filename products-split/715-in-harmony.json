@@ -1,0 +1,147 @@
+{
+  "id": 715,
+  "name": "in.harmony",
+  "description": "inHarmony work includes conducting surveys on current feel of diversity in the company; designing & implementing interventions based on these surveys; POSH related support; Women empowerment programs etc. We do cutting chai sessions, transition support, parenting counselling and so much more.",
+  "features": [
+    "Gender Sensitization",
+    "ADISHAKTI: Women Empowerment Series",
+    "Collaborative contents"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Benefits administration services",
+    "Employee recognition software",
+    "Employee engagement software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee happiness",
+    "Employee well being",
+    "Employee happiness programs",
+    "Employee benefits"
+  ],
+  "headquarter": "Mumbai",
+  "launch_date": "2013",
+  "order": 20669,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Diversity Consulting | Training",
+  "ProductId": null,
+  "ShortDescription": "in.harmony Consultancy provides companies customized diversity and inclusion solutions.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Organization Diagnostics ",
+      "sequence": 0,
+      "description": "Just like every individual is different, so is every organization. Within a sector, one of the differentiating factors of organizations is their culture"
+    },
+    {
+      "name": "Gender Sensitisation ",
+      "sequence": 1,
+      "description": "An organization can effectively leverage its gender diversity only when the genders understand each other\u2019s language"
+    },
+    {
+      "name": "Prevention of Sexual Harassment ",
+      "sequence": 2,
+      "description": "Creating and enabling a work environment that is fair and harassment free"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:03.327Z",
+  "enhanced_description": "in.harmony is a specialized HR consultancy providing customized diversity and inclusion solutions. Their services encompass conducting organizational diagnostics and surveys to assess the current state of diversity and culture, designing and implementing targeted interventions, and offering comprehensive support related to the Prevention of Sexual Harassment (POSH). Key offerings include Gender Sensitization training, bespoke Women Empowerment Series (e.g., ADISHAKTI), and broader employee well-being initiatives such as transition support and parenting counseling. The primary goal is to improve employee happiness and engagement by fostering a fair, harassment-free, and inclusive work environment.",
+  "key_use_cases": [
+    "Assessing organizational diversity and culture through surveys and diagnostics",
+    "Developing and deploying tailored Diversity & Inclusion (D&I) interventions",
+    "Ensuring compliance and support for Prevention of Sexual Harassment (POSH)",
+    "Delivering Gender Sensitization training",
+    "Implementing Women Empowerment programs",
+    "Providing employee well-being and support services like transition support and parenting counseling",
+    "Boosting employee engagement and happiness"
+  ],
+  "competitive_advantages": [
+    "Offers customized diversity and inclusion solutions",
+    "Provides holistic support beyond training, including surveys, interventions, and counseling",
+    "Specialization in POSH-related support and women empowerment programs",
+    "Consultancy model allows for tailored, direct engagement services"
+  ],
+  "implementation_scenarios": [
+    "Project-based consultancy engagement for D&I initiatives",
+    "Training workshops (e.g., Gender Sensitization)",
+    "Ongoing support services for POSH and employee well-being",
+    "Survey design and deployment followed by intervention implementation"
+  ],
+  "hr_functions_supported": [
+    "Diversity, Equity, and Inclusion (DEI)",
+    "Employee Engagement",
+    "Employee Well-being",
+    "HR Compliance",
+    "Training & Development"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Enhanced ability to leverage gender diversity within the organization",
+    "Creation of a fair and harassment-free work environment"
+  ],
+  "searchable_keywords": [
+    "in.harmony",
+    "Diversity consulting",
+    "Inclusion solutions",
+    "HR consultancy",
+    "Diversity surveys",
+    "D&I interventions",
+    "POSH support",
+    "Prevention of Sexual Harassment",
+    "Women empowerment",
+    "Gender sensitization",
+    "Employee happiness",
+    "Employee engagement",
+    "Employee well-being",
+    "Corporate wellness",
+    "Talent management",
+    "Employee benefits",
+    "Parenting counseling",
+    "Transition support",
+    "Organizational diagnostics",
+    "Workplace culture",
+    "Training",
+    "ADISHAKTI"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Diversity & Inclusion Specialists",
+    "Organizational Development Teams",
+    "Employees"
+  ],
+  "compliance_features": [
+    "POSH (Prevention of Sexual Harassment) compliance support"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,154 @@
+{
+  "id": 664,
+  "name": "HireWire",
+  "description": "We work with our clients to design optimal Recruitment Solutions. We help them hire the right people and advise them on Behavioural Patterns and Engagement through Platform from offer to Joining as they navigate and advance their careers. We develop the relationships that underpin the next phase in your organisation\u2019s growth. We do this by discerning the people and that platforms where interests converge.",
+  "features": [
+    "On-the-job training & classroom training.",
+    "Develop your decision-making skills \u2013 through involvement in projects as well as in day-to-day business.",
+    "Build a broad network within the company, from which you will reap lasting benefit."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Recruitment agencies",
+    "Training eLearning software",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Talent acquisition",
+    "Learning efficiency",
+    "Learning analytics"
+  ],
+  "headquarter": "Pune, Maharashtra",
+  "launch_date": "2023",
+  "order": 20618,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Plug-In to Recruitment Innovation",
+  "ProductId": null,
+  "ShortDescription": "HireWire 3.O is an Innovative Recruitment Product Development, Training & Consulting firm.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Services Offered",
+      "sequence": 0,
+      "description": "The company offers a variety of services including training, coaching, and certification. They help clients find the right people and advise them on behavioral patterns and engagement."
+    },
+    {
+      "name": "Training Program For Campus Graduates",
+      "sequence": 1,
+      "description": "Bachelor\u2019s degree, check. So what next? Practical application of that knowledge? Our Graduate Apprentice Program will help you \u2018learn by doing\u2019 at HireWire 3.O."
+    },
+    {
+      "name": "Training & Coaching for TA Professionals",
+      "sequence": 2,
+      "description": "A recruitment process is a series of steps an organisation takes for finding, attracting, and hiring new employees. The steps typically include identifying vacant positions, analyzing job requirements, creating job descriptions, receiving and reviewing applications, shortlisting candidates, conducting interviews, and hiring the selected candidates"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:04.385Z",
+  "enhanced_description": "HireWire, also known as HireWire 3.O, is an innovative firm specializing in Recruitment Product Development, Training, and Consulting. They collaborate with clients to design optimal recruitment solutions, focusing on helping them hire the right people. HireWire provides advisory services on behavioral patterns and candidate engagement through a platform that spans from the job offer stage to the candidate's joining. Their goal is to foster relationships that support organizational growth by aligning talent and platform interests. Beyond recruitment, HireWire offers a variety of services, including training, coaching, and certification, with specialized programs for campus graduates and professional development for Talent Acquisition professionals.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Recruitment process optimization",
+    "Talent acquisition and hiring",
+    "Candidate engagement from offer to joining",
+    "On-the-job training for employees",
+    "Classroom training for employees",
+    "Professional skill development (e.g., decision-making)",
+    "Building internal professional networks",
+    "Graduate apprentice programs",
+    "Training and coaching for Talent Acquisition professionals"
+  ],
+  "competitive_advantages": [
+    "Integrated approach combining recruitment solutions, product development, training, and consulting services",
+    "Specialized focus on behavioral patterns and candidate engagement through a platform from offer acceptance to joining",
+    "Offers targeted training programs for specific audiences, including campus graduates and Talent Acquisition professionals"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Learning & Development",
+    "Candidate Engagement",
+    "Pre-boarding"
+  ],
+  "roi_benefits": [
+    "Boosted Hiring Manager Confidence and Productivity",
+    "Improved quality of hires",
+    "Enhanced candidate engagement (offer to join)",
+    "Support for organizational growth through strategic talent solutions",
+    "Development of employee decision-making skills",
+    "Facilitation of internal networking and collaboration"
+  ],
+  "searchable_keywords": [
+    "HireWire",
+    "HireWire 3.O",
+    "Recruitment Innovation",
+    "Recruitment Product Development",
+    "Recruitment Training",
+    "Recruitment Consulting",
+    "Recruiting Solutions",
+    "Hiring Solutions",
+    "Talent Acquisition",
+    "Behavioural Patterns",
+    "Candidate Engagement",
+    "Offer to Joining",
+    "On-the-job training",
+    "Classroom training",
+    "Decision-making skills",
+    "Internal networking",
+    "Graduate Apprentice Program",
+    "Campus Graduates training",
+    "TA Professionals training",
+    "Recruitment process",
+    "Learning and Development",
+    "Learning efficiency",
+    "Learning analytics",
+    "Recruiting software",
+    "Recruitment agencies",
+    "Training eLearning software",
+    "Training & development companies"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "Candidates",
+    "Campus Graduates",
+    "Talent Acquisition (TA) Professionals",
+    "Recruitment Teams",
+    "HR Professionals"
+  ],
+  "_weight": 1
+}

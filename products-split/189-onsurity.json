@@ -1,0 +1,148 @@
+{
+  "id": 189,
+  "name": "Onsurity",
+  "description": "Onsurity is India\u2019s only healthtech company offering monthly, comprehensive employee healthcare to SMEs, MSMEs, startups, and growing businesses. We democratize technology, providing affordable products to ensure teams access top-notch healthcare. Onsurity empowers SMEs and enterprises to solve the major issue of affordable employee healthcare and benefits, increasing retention, productivity, attracting talent, and fostering a happier workforce.",
+  "features": [
+    "Discounted Health Check-ups",
+    "Group Health Insurance",
+    "Pay monthly, not annually"
+  ],
+  "founders": [
+    "Kulin Shah"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration software",
+    "Corporate wellness software"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee benefits"
+  ],
+  "headquarter": "Bangalore, Karnataka",
+  "launch_date": "2020",
+  "order": 20156,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Healthy employees, Healthy business!",
+  "ProductId": null,
+  "ShortDescription": "Get the best of insurance, healthcare, and wellness benefits, all in one place.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Health membership",
+      "sequence": 0,
+      "description": "In-app health check-ups, free doctor consultations, gym membership and more."
+    },
+    {
+      "name": "Comprehensive Benefits",
+      "sequence": 1,
+      "description": "Complete health plans where members can opt for group health, group term life insurance benefits."
+    },
+    {
+      "name": "Digital & Paperless",
+      "sequence": 2,
+      "description": "Members can contact Good Doctors \u2013 our dedicated concierge team during hospitalisation."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:11.086Z",
+  "enhanced_description": "Onsurity is an India-based healthtech company, launched in 2020, that specializes in providing monthly, comprehensive employee healthcare, insurance, and wellness benefits. It aims to democratize access to top-notch healthcare by offering affordable products primarily to SMEs, MSMEs, startups, and growing businesses. The platform helps organizations address the significant challenge of affordable employee healthcare and benefits, thereby contributing to increased employee retention, improved productivity, enhanced talent attraction, and a happier workforce. Onsurity provides a digital and paperless experience, featuring in-app health check-ups, free doctor consultations, gym memberships, discounted health check-ups, and complete health plans that include options for group health and group term life insurance. Members also have access to 'Good Doctors', a dedicated concierge team, for support during hospitalization.",
+  "ideal_company_sizes": [
+    "Small and medium-sized enterprises (SMEs)",
+    "Micro, small and medium enterprises (MSMEs)",
+    "Startups",
+    "Growing businesses",
+    "Enterprises (globally relevant for their specified target market)"
+  ],
+  "key_use_cases": [
+    "Providing comprehensive employee healthcare and benefits",
+    "Administering group health insurance plans",
+    "Administering group term life insurance benefits",
+    "Facilitating employee wellness programs (e.g., gym memberships, health check-ups)",
+    "Offering virtual and in-person doctor consultations",
+    "Providing support during employee hospitalization via a concierge service",
+    "Improving employee retention and productivity",
+    "Attracting and retaining talent",
+    "Enhancing employee happiness and engagement"
+  ],
+  "competitive_advantages": [
+    "India's only healthtech company offering monthly, comprehensive employee healthcare to SMEs, MSMEs, startups, and growing businesses (as per product data)",
+    "Monthly payment model instead of annual payments",
+    "Affordable products designed to democratize access to healthcare for businesses",
+    "Comprehensive benefits covering insurance, healthcare, and wellness in one platform",
+    "Digital and paperless user experience",
+    "Dedicated concierge team for hospitalization support"
+  ],
+  "hr_functions_supported": [
+    "Benefits administration",
+    "Corporate wellness",
+    "Employee well-being",
+    "Total rewards"
+  ],
+  "roi_benefits": [
+    "Increased employee retention",
+    "Improved employee productivity",
+    "Enhanced ability to attract talent",
+    "Fostering a happier workforce"
+  ],
+  "searchable_keywords": [
+    "Onsurity",
+    "Healthtech",
+    "Employee healthcare",
+    "Employee benefits",
+    "Corporate wellness",
+    "Benefits administration software",
+    "Group health insurance",
+    "Group term life insurance",
+    "Health check-ups",
+    "Doctor consultations",
+    "Gym membership",
+    "Monthly payment healthcare",
+    "SME healthcare",
+    "MSME healthcare",
+    "Startup healthcare",
+    "Digital healthcare",
+    "Paperless benefits",
+    "Employee well-being",
+    "Total rewards",
+    "Affordable healthcare",
+    "Employee retention",
+    "Workforce productivity"
+  ],
+  "primary_users": [
+    "HR teams (for benefits administration)",
+    "Employees (as recipients of healthcare and wellness benefits)",
+    "Company management (for improving workforce well-being and productivity)"
+  ],
+  "deployment_options": [
+    "Cloud-based / SaaS",
+    "Mobile application (implied by 'in-app' features)"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,103 @@
+{
+  "id": 257,
+  "name": "Risq Group",
+  "description": "Founded in 2010, RISQ has grown organically by identifying and capturing opportunities in alternative and emerging markets.\n We began by trading structured finance products with professional sports teams and commercial sponsors, expanded into the gaming industry to provide insurance against large payouts and now we're trading digital assets and new energy markets.\n We build flexible technology and structures. When we identify new opportunities, we leverage existing infrastructure and supplement it with domain knowledge to keep growing.",
+  "features": [
+    "Proprietary Trading",
+    "Liquidity Provision",
+    "Trading Partnerships"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration services"
+  ],
+  "tags": [
+    "Employee happiness",
+    "Employee empowerment"
+  ],
+  "headquarter": "London, United Kingdom",
+  "launch_date": "2009",
+  "order": 20222,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "A diversified trading firm, driven by technology",
+  "ProductId": null,
+  "ShortDescription": "A technology-driven principal trading firm with a focus on alternative and emerging asset classes",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Talent",
+      "sequence": 0,
+      "description": "Attracting and empowering exceptional individuals to foster growth."
+    },
+    {
+      "name": "Technology",
+      "sequence": 1,
+      "description": "Innovating bespoke trading systems for efficiency and automation."
+    },
+    {
+      "name": "Execution",
+      "sequence": 2,
+      "description": "Ensuring flawless performance from quotes to high-frequency trading."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:12.301Z",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Managing employee benefits programs",
+    "Improving employee engagement through total rewards",
+    "Enhancing employee happiness via benefits administration"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards",
+    "Benefits Administration"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness",
+    "Increased Employee Engagement"
+  ],
+  "searchable_keywords": [
+    "Risq Group",
+    "Total Rewards",
+    "Benefits administration services",
+    "Employee happiness",
+    "Employee empowerment",
+    "Employee engagement"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "Benefits administrators"
+  ],
+  "_weight": 1
+}

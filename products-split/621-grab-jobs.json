@@ -1,0 +1,149 @@
+{
+  "id": 621,
+  "name": "Grab Jobs",
+  "description": "We develop technology that helps companies automate the repetitive and time-consuming stages of the recruitment process.GrabJobs caters for entry to mid-level jobs across companies of all sizes in all industries.",
+  "features": [
+    "AI-Powered Job Search",
+    "Provide all types of job options",
+    "Work in multiple countries"
+  ],
+  "founders": [
+    "Emmanuel Crouy"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Job boards",
+    "Recruitment marketing platforms"
+  ],
+  "tags": [
+    "Hiring Speed",
+    "Hiring efficiency",
+    "Recruiting efficiency"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2016",
+  "order": 20578,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Save time. Save cost",
+  "ProductId": null,
+  "ShortDescription": "GrabJobs is an end-to-end Hiring Automation platform enabling employers and job seekers to connect seamlessly.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Wide Marketplace ",
+      "sequence": 0,
+      "description": "There are currently over 57,000 remote job openings."
+    },
+    {
+      "name": "Wide Variety",
+      "sequence": 1,
+      "description": "Some of the most popular remote jobs are customer service, administrative, marketing, sales, and software developer jobs"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:31:17.934Z",
+  "enhanced_description": "GrabJobs is an end-to-end Hiring Automation platform designed to help companies automate repetitive and time-consuming stages of the recruitment process, ultimately enabling employers and job seekers to connect seamlessly. It caters to entry to mid-level jobs across companies of all sizes and industries globally, supporting operations in multiple countries. The platform leverages AI-powered job search to enhance hiring speed and efficiency, aiming to save time and cost for employers. It features a wide marketplace for various job options, including over 57,000 remote job openings across popular roles like customer service, administrative, marketing, sales, and software developer.",
+  "target_industries": [
+    "All industries"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Automating repetitive recruitment stages",
+    "Connecting employers with job seekers",
+    "AI-powered job search for candidates",
+    "Finding and hiring for entry to mid-level positions",
+    "Streamlining the hiring process",
+    "Reducing recruitment time and cost",
+    "Improving hiring speed and efficiency",
+    "Hiring for remote job openings"
+  ],
+  "competitive_advantages": [
+    "End-to-end Hiring Automation platform",
+    "AI-Powered Job Search capabilities",
+    "Supports companies of all sizes and industries",
+    "Operates in multiple countries for global reach",
+    "Specialization in entry to mid-level jobs",
+    "Focus on automating repetitive recruitment tasks",
+    "Wide marketplace with extensive remote job openings"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Recruitment Marketing",
+    "Hiring Automation"
+  ],
+  "technology_stack": [
+    "AI"
+  ],
+  "roi_benefits": [
+    "Save time in recruitment",
+    "Save cost in recruitment",
+    "Hire top talent faster",
+    "Hire top talent more efficiently",
+    "Improve hiring speed",
+    "Improve hiring efficiency",
+    "Automate repetitive recruitment stages"
+  ],
+  "searchable_keywords": [
+    "Grab Jobs",
+    "Hiring Automation",
+    "Recruiting",
+    "Job boards",
+    "Recruitment marketing platforms",
+    "AI-Powered Job Search",
+    "Hiring Speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Entry-level jobs",
+    "Mid-level jobs",
+    "Remote jobs",
+    "Customer service jobs",
+    "Administrative jobs",
+    "Marketing jobs",
+    "Sales jobs",
+    "Software developer jobs",
+    "Talent acquisition",
+    "HR Tech",
+    "Save time",
+    "Save cost",
+    "Employer platform",
+    "Job seeker platform",
+    "Global hiring",
+    "Cross-industry hiring"
+  ],
+  "primary_users": [
+    "Employers",
+    "Job seekers"
+  ],
+  "_weight": 1
+}

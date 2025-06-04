@@ -1,0 +1,186 @@
+{
+  "id": 171,
+  "name": "Neurowyzr",
+  "description": "Neurowyzr protect the quality of life and optimise personal potential by enabling early detection, diagnosis, therapy, monitoring and prevention of brain decline. We build services and products based on clinical evidence and powered by advanced analytics and AI. We provide a complete suite of gamified digital assessments and omni-platform care to bring brain health and mental wellbeing to everyone.",
+  "features": [
+    "Solve complex problems with greater mental agility and collaborate better.",
+    "Maintain a healthy body and mind to face challenges.",
+    "Improve brain performance and stay highly motivated to learn."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Skill acquisition",
+    "Personalised learning"
+  ],
+  "headquarter": "Singapore, Singapore",
+  "launch_date": "2019",
+  "order": 20138,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Healthy Brains, Happier Lives, For Everyone",
+  "ProductId": null,
+  "ShortDescription": "Your Clinical Neuroscience Partner for Brain Health and Brain Performance",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Digital Brain Function Screen",
+      "sequence": 0,
+      "description": "Detect early brain decline with medical grade brain games, and take action to improve brain health and personal effectiveness."
+    },
+    {
+      "name": " Nhyre",
+      "sequence": 1,
+      "description": "Identify and place the right candidates into the right roles, using tools built on neuroscience."
+    },
+    {
+      "name": " Attycus",
+      "sequence": 2,
+      "description": "Maximise staff productivity and employee well-being in attention critical industries using gamified brain tests."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:52.445Z",
+  "enhanced_description": "Neurowyzr is a clinical neuroscience partner offering services and products focused on brain health and performance. It aims to protect quality of life and optimize personal potential by enabling early detection, diagnosis, therapy, monitoring, and prevention of brain decline. The solutions are built on clinical evidence and powered by advanced analytics and AI, providing a complete suite of gamified digital assessments and omni-platform care. Key offerings include the Digital Brain Function Screen for early detection of brain decline using medical-grade brain games, Nhyre for identifying and placing the right candidates into roles using neuroscience-based tools, and Attycus for maximizing staff productivity and employee well-being in attention-critical industries through gamified brain tests.",
+  "target_industries": [
+    "Attention critical industries"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Early detection of brain decline",
+    "Diagnosis of brain decline",
+    "Therapy for brain decline",
+    "Monitoring of brain health",
+    "Prevention of brain decline",
+    "Optimizing personal potential",
+    "Improving brain performance",
+    "Enhancing mental agility for problem-solving",
+    "Improving collaboration",
+    "Maintaining mental wellbeing",
+    "Accelerating skill development",
+    "Improving learning efficiency",
+    "Identifying suitable candidates for roles",
+    "Placing candidates into the right roles",
+    "Maximizing staff productivity",
+    "Improving employee well-being",
+    "Brain function screening",
+    "Personalized learning",
+    "Skill acquisition"
+  ],
+  "competitive_advantages": [
+    "Built on clinical evidence",
+    "Powered by advanced analytics and AI",
+    "Offers gamified digital assessments",
+    "Provides omni-platform care",
+    "Utilizes medical-grade brain games",
+    "Tools built on neuroscience"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Candidate Assessment",
+    "Workforce Management",
+    "Employee Well-being",
+    "Learning & Development",
+    "Skill Management"
+  ],
+  "technology_stack": [
+    "Advanced analytics",
+    "AI"
+  ],
+  "roi_benefits": [
+    "Optimized personal potential",
+    "Early detection and prevention of brain decline",
+    "Improved mental agility",
+    "Enhanced collaboration",
+    "Increased brain performance",
+    "Higher motivation to learn",
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Better candidate identification and placement leading to right-fit roles",
+    "Maximized staff productivity",
+    "Improved employee well-being",
+    "Enhanced personal effectiveness"
+  ],
+  "searchable_keywords": [
+    "Neurowyzr",
+    "brain health",
+    "brain performance",
+    "brain decline",
+    "detection",
+    "diagnosis",
+    "therapy",
+    "monitoring",
+    "prevention",
+    "clinical evidence",
+    "advanced analytics",
+    "AI",
+    "artificial intelligence",
+    "gamified",
+    "digital assessments",
+    "omni-platform",
+    "mental wellbeing",
+    "mental agility",
+    "collaboration",
+    "productivity",
+    "learning",
+    "motivation",
+    "skill development",
+    "learning efficiency",
+    "technology",
+    "skill acquisition",
+    "personalised learning",
+    "healthy brains",
+    "happier lives",
+    "clinical neuroscience partner",
+    "brain function screen",
+    "medical grade brain games",
+    "Nhyre",
+    "Attycus",
+    "candidate assessment",
+    "talent acquisition",
+    "employee well-being",
+    "staff productivity",
+    "neuroscience tools"
+  ],
+  "primary_users": [
+    "Individuals",
+    "Candidates",
+    "Employees",
+    "HR Professionals",
+    "Employers"
+  ],
+  "_weight": 1
+}

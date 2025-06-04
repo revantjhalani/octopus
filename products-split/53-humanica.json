@@ -1,0 +1,160 @@
+{
+  "id": 53,
+  "name": "Humanica",
+  "description": "Humanica provides comprehensive business solutions tailored for modern organizations in Southeast Asia. Offering advanced software and exceptional services, we support your transformation journey with HR management, finance, and accounting solutions. By collaborating closely, Humanica aims to create lasting value and prepare you for future growth and success.",
+  "features": [
+    "Supporting Your Workforce",
+    "Regulation and Management",
+    "Flexible & Intergrated"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Employee satisfaction",
+    "Employee well being",
+    "Company culture",
+    "Employee benefits",
+    "Employee recognition",
+    "Employee development",
+    "Employee empowerment"
+  ],
+  "headquarter": "Pathumwan District, Bangkok",
+  "launch_date": "2003",
+  "order": 20030,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Your trusted HR Solutions Provider of SOUTHEAST ASIA Region",
+  "ProductId": null,
+  "ShortDescription": "Build, Grow, and Transform your business with Humanica",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Proven",
+      "sequence": 0,
+      "description": "Our solutions have gained the trust of 2000 companies and 1.2 million users, boasting a remarkable 98% customer satisfaction rate."
+    },
+    {
+      "name": "Mobile",
+      "sequence": 1,
+      "description": "With 98% of sessions taking place on phones, our entire solution is optimized for mobile access."
+    },
+    {
+      "name": "Competence",
+      "sequence": 2,
+      "description": "Our two decades of experience in HR sets us apart from our competitor as we are able to bring unparalleled support for a wide range of HR processes."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-15T12:55:41.438Z",
+  "enhanced_description": "Humanica provides comprehensive business solutions tailored for modern organizations across Southeast Asia, specializing in HR management, finance, and accounting. Leveraging over two decades of HR expertise, their advanced software and exceptional services support business transformation, focusing on workforce support, regulation, and management. The solution is designed to be flexible and integrated, aiming to improve employee happiness and engagement. With a proven track record, Humanica serves a wide range of companies, from small to large and global enterprises, having gained the trust of 2000 companies and 1.2 million users with a remarkable 98% customer satisfaction rate. The entire solution is optimized for mobile access, with 98% of sessions occurring on phones.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "HR Management",
+    "Payroll Processing",
+    "Finance Management",
+    "Accounting Solutions",
+    "Workforce Support",
+    "Regulatory Compliance",
+    "Employee Engagement",
+    "Employee Benefits Management",
+    "Employee Recognition",
+    "Employee Development",
+    "Employee Empowerment"
+  ],
+  "competitive_advantages": [
+    "Extensive HR domain expertise (20+ years)",
+    "Comprehensive support for a wide range of HR processes",
+    "Mobile-optimized solution",
+    "High customer satisfaction (98%)",
+    "Proven track record (trusted by 2000 companies and 1.2 million users)",
+    "Regional specialization (Southeast Asia focus)"
+  ],
+  "hr_functions_supported": [
+    "HR Management",
+    "Payroll",
+    "Benefits Administration",
+    "Employee Engagement",
+    "Employee Recognition",
+    "Learning & Development (Employee Development)",
+    "Workforce Management",
+    "HR Compliance",
+    "Employee Well-being",
+    "Company Culture Management"
+  ],
+  "roi_benefits": [
+    "Supports business transformation and future growth",
+    "Improves employee happiness and engagement"
+  ],
+  "searchable_keywords": [
+    "Humanica",
+    "HR Management",
+    "Payroll",
+    "Finance Solutions",
+    "Accounting Solutions",
+    "Total Rewards",
+    "Workforce Management",
+    "Employee Engagement",
+    "Employee Benefits",
+    "Employee Recognition",
+    "Employee Development",
+    "HR Technology",
+    "HR Software",
+    "Southeast Asia HR",
+    "Thailand HR",
+    "Mobile HR",
+    "HR Compliance",
+    "Small Business HR",
+    "Large Enterprise HR",
+    "Global HR Solutions",
+    "Employee satisfaction",
+    "Employee well being",
+    "Company culture",
+    "Employee empowerment"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Finance Teams",
+    "Accounting Teams",
+    "Employees (via mobile access)"
+  ],
+  "compliance_features": [
+    "Regulatory Compliance Management"
+  ],
+  "scalability_features": [
+    "Designed to scale from small businesses to global enterprises",
+    "Supports large user bases (1.2 million users proven)"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,125 @@
+{
+  "id": 1301,
+  "name": "Bhyve",
+  "description": "Harvest your organization's collective knowledge in realtime! Get employees to discover the right information from the right source at the right time with BHyve's AI. Your employees will never need handholding, troubleshooting, or retraining. \r\n\r\nBHyve's AI is your organization's brain, where employees can create, curate, and discover tacit knowledge of your organization in minutes. The AI maps FAQs, documents, mentors, and employees to the collective knowledge graph of your organization. So when employees leave, their knowledge stays!\r\n\r\nBHyve's AI is the rocket fuel to your organization's growth! Chat with us on www.bhyve.io to know how BHyve can turn your organization's untapped tacit knowledge into a long-term asset!\r\n\r\nThe future of work is remote, collaborative, and social. With BHyve, employee wisdom is diffused within the workforce to increase productivity, decrease time spent looking for information, and enhance employee learning and engagement. \r\n\r\nBHyve is the go-to platform for enhanced Remote Workforce Productivity. ",
+  "features": [
+    "Generative AI",
+    "AI powered knowledge management",
+    "Workflow management"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Talent Management",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Software and Services Related to HR Software",
+    "Employee engagement software",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Employee engagement"
+  ],
+  "headquarter": "Fremont, California",
+  "launch_date": "2010",
+  "order": 21125,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Turn your teams into Centres of Excellence!",
+  "ProductId": null,
+  "ShortDescription": "BHyve's AI is your organization's brain, where employees can create, curate, and discover tacit knowledge of your organization in minutes.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:24.182Z",
+  "key_use_cases": [
+    "Real-time knowledge discovery and access for employees",
+    "Creation, curation, and discovery of organizational tacit knowledge",
+    "Mapping of FAQs, documents, mentors, and employees to a collective knowledge graph",
+    "Retention of institutional knowledge when employees leave an organization",
+    "Enhancing remote workforce productivity",
+    "Increasing overall employee productivity",
+    "Decreasing time spent by employees searching for information",
+    "Enhancing employee learning",
+    "Improving employee engagement",
+    "Workflow management"
+  ],
+  "competitive_advantages": [
+    "AI-powered knowledge management solution",
+    "Utilizes Generative AI for knowledge discovery and management",
+    "Enables real-time harvest and diffusion of collective organizational knowledge",
+    "Reduces the need for employee handholding, troubleshooting, or retraining due to self-service knowledge access",
+    "Maps various knowledge assets (FAQs, documents, mentors, employees) to a collective knowledge graph",
+    "Facilitates knowledge retention, ensuring organizational knowledge persists even after employee departure",
+    "Serves as a platform specifically designed for enhanced Remote Workforce Productivity"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Employee Engagement",
+    "Employee Learning & Development",
+    "Knowledge Management",
+    "Workforce Productivity"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Generative AI",
+    "Knowledge Graph"
+  ],
+  "roi_benefits": [
+    "Transforms untapped tacit knowledge into a long-term organizational asset",
+    "Increases employee productivity by enabling quick access to information",
+    "Decreases time spent by employees looking for information, leading to efficiency gains",
+    "Enhances employee learning and engagement, potentially improving retention and performance",
+    "Preserves critical organizational knowledge, mitigating loss when employees leave",
+    "Reduces operational costs by minimizing the need for repetitive handholding, troubleshooting, or retraining"
+  ],
+  "searchable_keywords": [
+    "Bhyve",
+    "knowledge management",
+    "AI",
+    "Artificial Intelligence",
+    "Generative AI",
+    "tacit knowledge",
+    "knowledge retention",
+    "employee productivity",
+    "remote work",
+    "employee engagement",
+    "employee learning",
+    "workflow management",
+    "talent management",
+    "knowledge sharing",
+    "information discovery",
+    "organizational knowledge",
+    "FAQs",
+    "documents",
+    "mentors",
+    "knowledge graph",
+    "centres of excellence"
+  ],
+  "primary_users": [
+    "Employees",
+    "Teams"
+  ],
+  "_weight": 1
+}

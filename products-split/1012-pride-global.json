@@ -1,0 +1,148 @@
+{
+  "id": 1012,
+  "name": "Pride Global",
+  "description": "Pride Global is a minority-owned integrated human capital solutions & advisory firm headquartered in New York with operating companies throughout the United States, United Kingdom, Ireland, Netherlands, Canada, India, Brazil, Philippines, and Singapore.",
+  "features": [
+    "Work for Minority",
+    "Work at global level",
+    "Audit-Proof Documentation"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Staffing services providers",
+    "HR consulting providers",
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    ""
+  ],
+  "headquarter": "New york",
+  "launch_date": "1983",
+  "order": 20955,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Helping the world work",
+  "ProductId": null,
+  "ShortDescription": "Pride Global is Human Capital Business Management company.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Comprehensive Services",
+      "sequence": 0,
+      "description": "They offer a wide range of human capital solutions, suggesting a one-stop shop for businesses seeking assistance with recruitment, staffing, and other HR needs."
+    },
+    {
+      "name": "International Presence",
+      "sequence": 1,
+      "description": "Pride Global has a presence across the globe with operating companies in the United States, United Kingdom, Ireland, Netherlands, Canada, India, Brazil, Philippines, and Singapore. "
+    },
+    {
+      "name": "Over 40 Years of Experience",
+      "sequence": 2,
+      "description": "Pride Global boasts over 40 years of experience in the human capital industry, indicating a well-established company with a proven track record."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:38:46.778Z",
+  "enhanced_description": "Pride Global is a minority-owned integrated human capital solutions and advisory firm with over 40 years of experience, headquartered in New York. Operating globally across the United States, United Kingdom, Ireland, Netherlands, Canada, India, Brazil, Philippines, and Singapore, they offer comprehensive human capital business management services. These services, which include staffing, HR consulting, and payroll, are designed to boost hiring manager confidence and productivity and enable faster, more efficient hiring of top talent, including support for minority groups and global work initiatives, all with audit-proof documentation.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Global talent acquisition and staffing",
+    "HR compliance and audit documentation",
+    "Optimizing hiring processes for speed and efficiency",
+    "Providing human capital advisory services",
+    "Managing payroll services",
+    "Supporting diversity and inclusion initiatives through minority hiring"
+  ],
+  "competitive_advantages": [
+    "Minority-owned firm",
+    "Extensive global presence and operational capabilities",
+    "Comprehensive suite of human capital solutions (one-stop shop)",
+    "Over 40 years of industry experience and a proven track record",
+    "Focus on audit-proof documentation for compliance"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Staffing",
+    "HR Consulting",
+    "Payroll",
+    "Total Rewards",
+    "Talent Sourcing",
+    "Hiring"
+  ],
+  "roi_benefits": [
+    "Increased hiring manager confidence",
+    "Improved hiring manager productivity",
+    "Faster talent acquisition",
+    "More efficient talent acquisition"
+  ],
+  "searchable_keywords": [
+    "Pride Global",
+    "human capital solutions",
+    "HR advisory",
+    "staffing services",
+    "HR consulting",
+    "payroll services",
+    "recruiting",
+    "hiring",
+    "talent sourcing",
+    "total rewards",
+    "global HR",
+    "minority-owned",
+    "audit-proof documentation",
+    "talent acquisition",
+    "human capital management",
+    "global staffing",
+    "international HR"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Professionals",
+    "Payroll Teams",
+    "Finance Teams"
+  ],
+  "compliance_features": [
+    "Audit-Proof Documentation"
+  ],
+  "scalability_features": [
+    "Scalable to support businesses of all sizes (Small, Large, Global Enterprise)",
+    "International presence enabling geographical scalability across multiple countries"
+  ],
+  "_weight": 1
+}

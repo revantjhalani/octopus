@@ -1,0 +1,151 @@
+{
+  "id": 823,
+  "name": "Learned Guru",
+  "description": "learnEd's teaching approach highly effective and transformative because it targets their problem areas through detailed needs assessment and contextualized practice. learnEd employs highly-qualified English language educators from around the world who deliver carefully designed learning experiences to fit the needs of our participants.",
+  "features": [
+    "Teach Employable English",
+    "Offer Communication",
+    "Provide service teacher development"
+  ],
+  "founders": [
+    "Ravi"
+  ],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Course authoring"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning optimisation",
+    "Skill acquisition"
+  ],
+  "headquarter": "Ahmadabad",
+  "launch_date": "2011",
+  "order": 20776,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Experience -explore-engage",
+  "ProductId": null,
+  "ShortDescription": "learnEd's training programs aim at developing effective communication skills in English for experienced professionals as well as those just beginning a career",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Coaching ",
+      "sequence": 0,
+      "description": "Our mentoring services are designed to achieve different goals, to gather one\u2019s thoughts, look for solutions to current problems, re-focus and plan vision for the future. We specialize in offering solutions through one-to-one, private and confidential discussions."
+    },
+    {
+      "name": "Flexible",
+      "sequence": 1,
+      "description": "There are both live and online classes available."
+    },
+    {
+      "name": "Well Established",
+      "sequence": 2,
+      "description": "The company offers courses that are aligned with international standards, and students from Dubai, the USA, and India attend classes Learn Guru."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:09.330Z",
+  "enhanced_description": "Learned Guru, under the learnEd brand, offers highly effective and transformative English language and communication skill development programs. Its approach targets individual problem areas through detailed needs assessment and contextualized practice, delivered by highly-qualified English language educators from around the world. The platform provides training programs specifically designed for both experienced professionals and those just beginning their careers, aiming to develop effective communication skills in English. Beyond core language training, Learned Guru offers specialized mentoring services designed for one-to-one, private, and confidential discussions to help participants gather thoughts, find solutions to current problems, refocus, and plan for the future. The learning experiences are flexible, with both live and online classes available, and are well-established, adhering to international standards, attracting participants from diverse global locations including Dubai, the USA, and India. The service also includes development programs for teachers, positioning it as a comprehensive solution for skill development and learning optimization within the Learning and Development sector, functioning as a Corporate LMS and course authoring tool.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Developing effective English communication skills for professionals",
+    "Enhancing employability through targeted English language training",
+    "Providing one-to-one coaching and mentoring for professional development and problem-solving",
+    "Supporting professional development for service teachers",
+    "Implementing corporate learning management for skill acquisition and optimization"
+  ],
+  "competitive_advantages": [
+    "Personalized learning approach through detailed needs assessment and contextualized practice",
+    "Global reach with courses aligned to international standards and participants from diverse regions (Dubai, USA, India)",
+    "Flexibility in delivery with both live and online classes available",
+    "Access to highly-qualified English language educators from around the world",
+    "Dedicated one-to-one, private, and confidential coaching/mentoring services"
+  ],
+  "implementation_scenarios": [
+    "Corporate learning platform deployment (LMS)",
+    "Blended learning programs (combining live and online classes)",
+    "Online-only learning programs",
+    "Direct service delivery for individual or group coaching/training"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Training Management",
+    "Skill Management",
+    "Coaching and Mentoring"
+  ],
+  "roi_benefits": [
+    "Improved communication skills for employees and professionals",
+    "Enhanced employability and career progression opportunities",
+    "Effective problem-solving and strategic planning through coaching",
+    "Optimized skill acquisition and development within the workforce",
+    "Professional growth and development for educators"
+  ],
+  "searchable_keywords": [
+    "Learned Guru",
+    "learnEd",
+    "English language training",
+    "communication skills",
+    "skill development",
+    "learning optimization",
+    "skill acquisition",
+    "corporate LMS",
+    "course authoring",
+    "professional development",
+    "coaching",
+    "mentoring",
+    "online classes",
+    "live classes",
+    "employable English",
+    "teacher development",
+    "corporate training",
+    "language training",
+    "executive coaching"
+  ],
+  "primary_users": [
+    "Experienced professionals",
+    "New career starters",
+    "English language educators",
+    "Employees seeking skill enhancement",
+    "Participants in corporate training programs"
+  ],
+  "deployment_options": [
+    "Cloud-based (for online classes/LMS)",
+    "Blended Learning"
+  ],
+  "scalability_features": [
+    "Supports Small, Large, and Global Enterprises",
+    "International reach with students from multiple countries",
+    "Online class delivery model facilitates broader reach"
+  ],
+  "_weight": 1
+}

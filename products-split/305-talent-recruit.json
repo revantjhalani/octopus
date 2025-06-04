@@ -1,0 +1,151 @@
+{
+  "id": 305,
+  "name": "Talent Recruit",
+  "description": "Talent Recruit was started in 2014 by recruitment & staffing industry veterans Alok Gupta and Shalini Gupta. The company has rapidly grown over the past few years, building a highly successful business that is marked by intelligence-driven technology, automation, and analytics. We help companies manage their human capital better through several services including hiring, recruitment, onboarding, talent management, and employee engagement.",
+  "features": [
+    "Highly Configurable",
+    "Scalable Platform",
+    "Accelerated recruitment"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Onboarding software",
+    "Machine learning HR"
+  ],
+  "tags": [
+    "Talent sourcing",
+    "Data-driven hiring"
+  ],
+  "headquarter": "Bangalore, Karnataka",
+  "launch_date": "2014",
+  "order": 20267,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Enhancing the Recruitment Experience with Artificial Intelligence",
+  "ProductId": null,
+  "ShortDescription": "TalentRecruit is an AI-powered platform that is highly configurable & scalable with end-to-end recruitment capabilities.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Virtual Recruiter",
+      "sequence": 0,
+      "description": "ERIKA - A Virtual Assistant powered by Machine Learning algorithms, helps you find the best-matched candidates by analyzing each candidate's data point."
+    },
+    {
+      "name": "Automated Interview Scheduler",
+      "sequence": 1,
+      "description": "Adopt a collaborative approach towards the interview scheduling process that allows candidates, hiring managers & interview panelists to share convenient time slots with each other to eliminate recruiter intervention in the interview scheduling process."
+    },
+    {
+      "name": "seamless recruiting experience",
+      "sequence": 2,
+      "description": "Engage candidates easily via their mobile devices and increase engagement by improving their mobile hiring experience."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:56.386Z",
+  "enhanced_description": "Talent Recruit, launched in 2014 by recruitment and staffing industry veterans, is an AI-powered, highly configurable, and scalable platform. It offers end-to-end recruitment capabilities, leveraging intelligence-driven technology, automation, and analytics to accelerate the hiring process. The platform features ERIKA, a virtual recruiter powered by Machine Learning algorithms for best-matched candidate identification, an automated interview scheduler for collaborative scheduling, and tools for seamless mobile candidate engagement to enhance the overall hiring experience. Beyond core recruitment, Talent Recruit also supports onboarding, talent management, and employee engagement.",
+  "key_use_cases": [
+    "Accelerated recruitment",
+    "End-to-end recruitment management",
+    "Automated candidate sourcing and matching",
+    "Virtual assistant for candidate identification",
+    "Automated interview scheduling",
+    "Mobile-first candidate engagement",
+    "Talent management",
+    "Employee onboarding",
+    "Employee engagement"
+  ],
+  "competitive_advantages": [
+    "AI-powered platform",
+    "Machine Learning-driven candidate matching (Virtual Recruiter ERIKA)",
+    "Intelligence-driven technology, automation, and analytics",
+    "Highly configurable for diverse needs",
+    "Scalable platform for growth",
+    "Accelerated recruitment capabilities",
+    "Automated interview scheduling to reduce recruiter intervention",
+    "Seamless mobile candidate engagement for improved experience",
+    "Data-driven hiring"
+  ],
+  "hr_functions_supported": [
+    "Hiring",
+    "Recruitment",
+    "Onboarding",
+    "Talent Management",
+    "Employee Engagement"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Machine Learning (ML)",
+    "Automation",
+    "Analytics"
+  ],
+  "roi_benefits": [
+    "Hire top talent faster and more efficiently",
+    "Increased efficiency by eliminating recruiter intervention in interview scheduling",
+    "Improved candidate engagement and mobile hiring experience",
+    "Better quality of hire through best-matched candidate identification"
+  ],
+  "searchable_keywords": [
+    "Talent Recruit",
+    "recruitment software",
+    "AI recruitment",
+    "machine learning HR",
+    "HR technology",
+    "talent sourcing",
+    "data-driven hiring",
+    "automated recruiting",
+    "candidate matching",
+    "interview scheduling",
+    "mobile hiring",
+    "candidate engagement",
+    "onboarding software",
+    "talent management",
+    "employee engagement",
+    "hiring",
+    "recruiting",
+    "configurable HR software",
+    "scalable HR platform",
+    "virtual recruiter",
+    "ERIKA",
+    "analytics-driven HR"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Hiring Managers",
+    "Interview Panelists",
+    "Candidates"
+  ],
+  "scalability_features": [
+    "Scalable Platform"
+  ],
+  "_weight": 1
+}

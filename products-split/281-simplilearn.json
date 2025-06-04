@@ -1,0 +1,153 @@
+{
+  "id": 281,
+  "name": "Simplilearn",
+  "description": "We provide rigorous online training in disciplines such as Cyber Security, Cloud Computing, Project Management, Digital Marketing, and Data Science, among others.",
+  "features": [
+    "Develop skills for real career growth\n",
+    "Learn from experts active in their field, not out-of-touch trainers",
+    "Learn by working on real-world problems",
+    "Structured guidance ensuring learning never stops"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised learning",
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning"
+  ],
+  "headquarter": "San Francisco, California",
+  "launch_date": "2009",
+  "order": 20246,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Simplilearn is the world\u2019s leading digital skills provider, enabling learners across the globe.",
+  "ProductId": null,
+  "ShortDescription": "The world's #1 online bootcamp providing digital skills training to help individuals acquire the skills",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Unlock innovation and growth through talent transformation",
+      "sequence": 0,
+      "description": "A world-class learning experience for your employees built on cutting-edge digital skills, custom pathways, industry-designed projects, and high-touch mentoring."
+    },
+    {
+      "name": "Real Learning. Real Career Impact",
+      "sequence": 1,
+      "description": "Countless professionals from across the globe have benefitted from our programs. Know our learners and their journeys; and script YOUR success story, with Simplilearn."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:33.352Z",
+  "enhanced_description": "Simplilearn is a leading global provider of digital skills training, offering rigorous online bootcamps and structured guidance. It specializes in disciplines such as Cyber Security, Cloud Computing, Project Management, Digital Marketing, and Data Science. The platform aims to accelerate skill development and learning efficiency for individuals and employees by providing a world-class learning experience built on cutting-edge digital skills, custom pathways, industry-designed projects, and high-touch mentoring, taught by experts active in their respective fields.",
+  "key_use_cases": [
+    "Individual career growth and advancement through digital skill acquisition",
+    "Corporate talent transformation and employee skill development",
+    "Upskilling and reskilling workforces in cutting-edge digital disciplines",
+    "Implementing structured online learning programs for continuous employee development",
+    "Project-based learning and practical application of skills for real-world problem-solving"
+  ],
+  "competitive_advantages": [
+    "Instruction from experts active in their field",
+    "Learning through real-world problems and industry-designed projects",
+    "Structured guidance ensuring continuous learning",
+    "Custom learning pathways and high-touch mentoring",
+    "Claimed market leadership as the world's #1 online bootcamp"
+  ],
+  "implementation_scenarios": [
+    "Online learning platform deployment",
+    "Integration as a corporate learning management system (LMS)"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Training Management",
+    "Skill Development",
+    "Talent Transformation"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development and learning efficiency",
+    "Improved learning retention",
+    "Enhanced career growth and impact for learners",
+    "Unlocking innovation and growth through talent transformation",
+    "Optimized learning outcomes"
+  ],
+  "searchable_keywords": [
+    "Simplilearn",
+    "online training",
+    "digital skills",
+    "Cyber Security training",
+    "Cloud Computing training",
+    "Project Management training",
+    "Digital Marketing training",
+    "Data Science training",
+    "skill development",
+    "learning efficiency",
+    "corporate training",
+    "eLearning software",
+    "LMS",
+    "Learning Experience Systems",
+    "LXPs",
+    "bootcamp",
+    "skill acquisition",
+    "training effectiveness",
+    "adaptive learning",
+    "personalised learning",
+    "learning analytics",
+    "continuous learning",
+    "talent transformation",
+    "expert-led training",
+    "real-world projects",
+    "career growth",
+    "online courses",
+    "professional development"
+  ],
+  "primary_users": [
+    "Individuals seeking skill development",
+    "Professionals seeking career advancement",
+    "Employees (corporate learners)"
+  ],
+  "deployment_options": [
+    "Cloud-based (online platform)"
+  ],
+  "_weight": 1
+}

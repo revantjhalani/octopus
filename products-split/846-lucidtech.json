@@ -1,0 +1,164 @@
+{
+  "id": 846,
+  "name": "Lucidtech",
+  "description": "Lucid products are designed with visibility, collaboration & integrated-functionality built-in. Every Lucid application is passionately-designed for best user experience with state-of-the-art technical capabilities. Our patent-pending weblive technology enables us to deliver highly dynamic browser interface on top of highly capable backend to deliver best value to you. Lucid products have been deployed to manage operations at a very large scale across diverse and distributed userbase. The intuitiveness and ease-of-access of Lucid applications ensures the quickest user adoption.",
+  "features": [
+    "Forget endless implementations",
+    "In-depth & highly-configurable",
+    "Based on real-time insights"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Corporate wellness software"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee engagement"
+  ],
+  "headquarter": "Gurgaon, HR",
+  "launch_date": "2006",
+  "order": 20799,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Achieve your vision and go beyond with the most robust, in-depth, and collaborative enterprise software on the planet",
+  "ProductId": null,
+  "ShortDescription": "Lucid products are designed with visibility, collaboration & integrated-functionality built-in. Every Lucid application is passionately-designed for best user experience with state-of-the-art technical capabilities.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Secure Access",
+      "sequence": 0,
+      "description": "Everything from secure passwords, multi-factor authentications, IP white-listing to fine-grained and heirarchy compliant data access is part of the package."
+    },
+    {
+      "name": "Flexibility",
+      "sequence": 1,
+      "description": "Each of our products is highly comprehensive, in-depth yet designed to adapt to your requirements precisely with all its intricacies. Not just in the beginning, but down the line too."
+    },
+    {
+      "name": "Amazing Team Experience",
+      "sequence": 2,
+      "description": "Teams are more productive and effective when they can collaborate seamlessly irrespective of where everyone is. Go beyond chats and messages, experience true team-connect and in-context collaboration, hard to find anywhere else."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:35.391Z",
+  "enhanced_description": "Lucidtech offers robust, in-depth, and collaborative enterprise software designed for visibility, integrated-functionality, and exceptional user experience. Leveraging patent-pending weblive technology for a highly dynamic browser interface and a capable backend, Lucidtech supports large-scale operations and diverse, distributed user bases, ensuring quick user adoption through intuitiveness and ease-of-access. The platform emphasizes real-time insights and is highly configurable, aiming to streamline implementations. It supports HR functions like Total Rewards, Corporate Wellness, Employee Well-being, and Engagement, potentially utilizing Artificial Intelligence. Key features include comprehensive secure access (secure passwords, multi-factor authentication, IP white-listing, fine-grained data access), high flexibility to adapt to intricate requirements, and an 'Amazing Team Experience' facilitating seamless, in-context collaboration.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Managing large-scale enterprise operations",
+    "Improving employee happiness and engagement",
+    "Supporting corporate wellness programs",
+    "Enhancing employee well-being initiatives",
+    "Facilitating real-time insights for decision-making",
+    "Enabling seamless team collaboration for distributed workforces"
+  ],
+  "competitive_advantages": [
+    "Rapid implementation and user adoption",
+    "Proprietary patent-pending weblive technology for dynamic interfaces",
+    "State-of-the-art technical capabilities and robust backend",
+    "Emphasis on best user experience",
+    "Comprehensive and in-depth functionality",
+    "High configurability and adaptability to complex requirements",
+    "Real-time insights for data-driven decisions",
+    "Advanced security features (MFA, IP white-listing, fine-grained access)",
+    "Unique and seamless in-context team collaboration capabilities"
+  ],
+  "implementation_scenarios": [
+    "Large-scale enterprise deployments",
+    "Deployments across diverse and distributed user bases",
+    "Streamlined and efficient implementations"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards management",
+    "Corporate Wellness program management",
+    "Employee Well-being initiatives",
+    "Employee Engagement programs",
+    "Team Collaboration and Productivity enhancement"
+  ],
+  "technology_stack": [
+    "Patent-pending weblive technology",
+    "Artificial Intelligence (AI) capabilities",
+    "Dynamic browser interface technology",
+    "Robust backend infrastructure"
+  ],
+  "roi_benefits": [
+    "Faster user adoption and reduced training costs",
+    "Increased team productivity and effectiveness through seamless collaboration",
+    "Improved employee happiness and engagement (potential benefits like retention, performance)"
+  ],
+  "searchable_keywords": [
+    "Lucidtech",
+    "HR Technology",
+    "Enterprise Software",
+    "Total Rewards",
+    "Corporate Wellness",
+    "Employee Well-being",
+    "Employee Engagement",
+    "Artificial Intelligence",
+    "AI",
+    "Collaboration Software",
+    "Visibility",
+    "Real-time Insights",
+    "Configurable Software",
+    "Secure Access",
+    "Multi-factor Authentication",
+    "Distributed Workforce",
+    "User Experience",
+    "Team Productivity",
+    "HR software",
+    "HR tech"
+  ],
+  "primary_users": [
+    "Employees (for wellness and engagement features)",
+    "HR Professionals",
+    "Team Leaders",
+    "Operations Management (for large-scale operational management)"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "scalability_features": [
+    "Designed for very large-scale operations",
+    "Supports global enterprise deployments"
+  ],
+  "security_features": [
+    "Secure passwords",
+    "Multi-factor authentication (MFA)",
+    "IP white-listing",
+    "Fine-grained data access control",
+    "Hierarchy-compliant data access"
+  ],
+  "_weight": 1
+}

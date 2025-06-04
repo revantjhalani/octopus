@@ -1,0 +1,128 @@
+{
+  "id": 517,
+  "name": "Creative Web Mall India",
+  "description": "Creative Web Mall India Pvt Ltd is a Mumbai-based software development and web solutions company that has been providing comprehensive business solutions and services since 2004. They offer a wide range of services including web design, application development, ecommerce, CMS, SEO, SMO, intranet, and more. The company has a team of professionals who are dedicated to enhancing client operational capability. They help companies manage change, reduce costs, and improve service and process quality. Creative Web Mall has served over 5000 clients in 30 countries and has completed over 3000 custom development projects 1",
+  "features": [
+    "Provide social meadi marketing for app",
+    "Provide content management system",
+    "Email and server hosting support"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Other / technology",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Internet of things",
+    "Training eLearning software"
+  ],
+  "tags": [
+    "Skill development"
+  ],
+  "headquarter": "Mumbai",
+  "launch_date": "2004",
+  "order": 20477,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Web Designing and IT enabled Services",
+  "ProductId": null,
+  "ShortDescription": "Creative individuals for mobile and web applications.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:29:08.447Z",
+  "enhanced_description": "Creative Web Mall India Pvt Ltd is a Mumbai-based software development and web solutions company established in 2004. They offer a comprehensive suite of services including web design, mobile and web application development, e-commerce solutions, Content Management Systems (CMS), Search Engine Optimization (SEO), Social Media Optimization (SMO), intranet development, and email/server hosting support. With over 5000 clients across 30 countries and 3000+ completed custom development projects, they focus on enhancing client operational capability, managing change, reducing costs, and improving service and process quality. Notably, they also specialize in developing custom training and eLearning software, contributing to accelerating skill development and learning efficiency for their clients.",
+  "key_use_cases": [
+    "Custom web application development",
+    "Custom mobile application development",
+    "E-commerce platform development",
+    "Content Management System (CMS) implementation",
+    "Search Engine Optimization (SEO) services",
+    "Social Media Optimization (SMO) for applications",
+    "Intranet solution development",
+    "Email and server hosting support",
+    "Custom training and eLearning software development",
+    "Enhancing operational capability through custom software solutions",
+    "Reducing costs through optimized digital solutions",
+    "Improving service and process quality through custom development"
+  ],
+  "competitive_advantages": [
+    "Extensive experience with over 5000 clients in 30 countries and 3000+ custom development projects",
+    "Comprehensive service offering covering web design, application development, e-commerce, CMS, SEO, SMO, intranet, and hosting",
+    "Focus on enhancing client operational capability, managing change, reducing costs, and improving service and process quality"
+  ],
+  "implementation_scenarios": [
+    "Custom development projects"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development (L&D)",
+    "Skill Development"
+  ],
+  "roi_benefits": [
+    "Reduce costs",
+    "Improve service and process quality",
+    "Enhance client operational capability",
+    "Manage change",
+    "Accelerate skill development and learning efficiency"
+  ],
+  "searchable_keywords": [
+    "Creative Web Mall India",
+    "software development",
+    "web solutions",
+    "web design",
+    "application development",
+    "ecommerce",
+    "CMS",
+    "SEO",
+    "SMO",
+    "intranet",
+    "email hosting",
+    "server hosting",
+    "business solutions",
+    "custom development",
+    "social media marketing",
+    "content management system",
+    "skill development",
+    "learning efficiency",
+    "learning and development",
+    "technology",
+    "training eLearning software",
+    "mobile applications",
+    "web applications"
+  ],
+  "primary_users": [
+    "Organizations seeking custom software development and web solutions",
+    "Marketing departments (for SEO/SMO services)",
+    "IT departments (for application development, hosting, intranet)",
+    "Human Resources (HR) and Learning & Development (L&D) departments (for custom training/eLearning software)"
+  ],
+  "deployment_options": [
+    "Web-based (for web applications, e-commerce, CMS)",
+    "Intranet-based (for intranet solutions)",
+    "Server-hosted (implied by email and server hosting support)"
+  ],
+  "_weight": 1
+}

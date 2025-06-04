@@ -1,0 +1,140 @@
+{
+  "id": 236,
+  "name": "PwC",
+  "description": "PwC are a network of firms in 151 countries with over 360,000 people who are committed to delivering quality in assurance, advisory and tax services. n India, our highly qualified and experienced professionals listen to different points of view to help you solve business issues and identify and maximise the opportunities you seek. Our industry specialisation allows us to help co-create solutions with our clients for their sector of interest.",
+  "features": [
+    "Taxation framework of virtual digital assets",
+    "Build trust in society and solve important problems",
+    "Derisking the future "
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Employee engagement software",
+    "Talent management software"
+  ],
+  "tags": [
+    "Hiring manager confidence",
+    "Hiring manager productivity"
+  ],
+  "headquarter": "Kolkata, West Bengal",
+  "launch_date": "1998",
+  "order": 20202,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Building trust in society and solving important problems",
+  "ProductId": null,
+  "ShortDescription": "We are committed to delivering quality in assurance, advisory and tax services.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Transformation",
+      "sequence": 0,
+      "description": "Supporting international trade for the digital age"
+    },
+    {
+      "name": "Sustainability",
+      "sequence": 1,
+      "description": "Tracking your environmental footprint"
+    },
+    {
+      "name": "Trust ",
+      "sequence": 2,
+      "description": "Becoming fit for purpose"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:53.149Z",
+  "enhanced_description": "PwC is a global network operating in 151 countries with over 360,000 professionals, committed to delivering quality assurance, advisory, and tax services. Within the HR technology domain, PwC offers solutions focused on Talent Management, including employee engagement and talent management software. Their offerings aim to boost hiring manager confidence and productivity, leveraging their expertise in areas such as taxation frameworks for virtual digital assets, derisking future business operations, and fostering trust. They also support clients in broader transformation initiatives, sustainability tracking, and becoming 'fit for purpose' in the digital age, particularly in India where they co-create solutions with industry-specific expertise.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Boosting hiring manager confidence and productivity",
+    "Talent management and optimization",
+    "Employee engagement enhancement",
+    "Strategic business issue resolution",
+    "Risk management (derisking the future)",
+    "Advisory on taxation frameworks for virtual digital assets"
+  ],
+  "competitive_advantages": [
+    "Global reach and extensive network (151 countries, 360,000+ people)",
+    "Deep expertise in assurance, advisory, and tax services",
+    "Ability to co-create industry-specific solutions",
+    "Focus on building trust and solving complex problems",
+    "Proactive approach to derisking future business operations"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Employee Engagement",
+    "Recruitment (Hiring Manager Enablement)",
+    "Compliance (Taxation)"
+  ],
+  "roi_benefits": [
+    "Increased hiring manager confidence",
+    "Improved hiring manager productivity",
+    "Resolution of business issues",
+    "Identification and maximization of business opportunities",
+    "Future risk mitigation"
+  ],
+  "searchable_keywords": [
+    "PwC",
+    "assurance",
+    "advisory",
+    "tax services",
+    "talent management",
+    "employee engagement",
+    "talent management software",
+    "hiring manager confidence",
+    "hiring manager productivity",
+    "virtual digital assets",
+    "taxation framework",
+    "derisking",
+    "trust",
+    "transformation",
+    "sustainability",
+    "international trade",
+    "digital age",
+    "environmental footprint",
+    "business issues",
+    "global enterprise",
+    "large enterprise",
+    "small enterprise"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Professionals",
+    "Business Leaders"
+  ],
+  "compliance_features": [
+    "Advisory on taxation framework of virtual digital assets"
+  ],
+  "_weight": 1
+}

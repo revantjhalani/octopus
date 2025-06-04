@@ -1,0 +1,216 @@
+{
+  "id": 327,
+  "name": "Tydy",
+  "description": "The relationship between employee and employer is changing.\n With Tydy's Employee Data Platform, People Teams can manage and route data and documents, orchestrate data across HR, IT, and Vendor apps, segment & target employees with persona-based journeys, and deliver a better employee experience - from onboarding to offboarding.",
+  "features": [
+    "Collaborative Working Space",
+    "Flexible Working Location",
+    "Virtual Team Events",
+    "Employee Engagement",
+    "Attrition Management",
+    " Workflow Automation"
+  ],
+  "founders": [
+    "Kiran Menon",
+    "Nikhil Gurjer",
+    "Gaurabh Mathure"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "HR management suites",
+    "Software and Services Related to HR Software",
+    "Workforce management"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Hiring efficiency",
+    "Workplace diversity",
+    "Talent acquisition costs"
+  ],
+  "headquarter": "New York, NY",
+  "launch_date": "2017",
+  "order": 20289,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "One place for Employee Experience, New Hire Onboarding",
+  "ProductId": null,
+  "ShortDescription": "Tydy consolidate and clean employee data to seamlessly connect every workplace interface. ",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Data and document capture",
+      "sequence": 0,
+      "description": "Easily capture all the data you need, in the format you need it in."
+    },
+    {
+      "name": "Put your people data to work",
+      "sequence": 1,
+      "description": "Reduce your operational overheads by doing more with less. Built-in and customizable automation for onboarding, compliance, vendor management, HR-IT sync, etc. will save you time and resources."
+    },
+    {
+      "name": "Scale and personalize, seamlessly",
+      "sequence": 2,
+      "description": "Move faster with standardized processes across teams, business units and locations. But keep the personal touch with persona-based segmentation and targeting."
+    },
+    {
+      "name": "One-app experience",
+      "sequence": 3,
+      "description": "Give your people all the information they need in one place. Whether it\u2019s your employee handbook, company policy, training modules, get your people productive faster."
+    },
+    {
+      "name": "Onboarding journeys",
+      "sequence": 4,
+      "description": "Create one-and-done journeys for new hires. Get your onboarding checklist done, and more."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:20.397Z",
+  "enhanced_description": "Tydy is an Employee Data Platform designed for People Teams to manage, route, and orchestrate employee data and documents across HR, IT, and vendor applications. It consolidates and cleans employee data to seamlessly connect various workplace interfaces, delivering a comprehensive employee experience from onboarding to offboarding. The platform facilitates data and document capture, automates processes like onboarding, compliance, and vendor management, and enables persona-based segmentation and targeting for personalized employee journeys. It offers a 'one-app experience' for employees to access essential information like handbooks, policies, and training modules, significantly streamlining new hire onboarding processes and reducing operational overheads.",
+  "target_industries": [],
+  "ideal_company_sizes": [],
+  "key_use_cases": [
+    "Employee data and document management",
+    "Data orchestration across HR, IT, and Vendor applications",
+    "Employee experience management (from onboarding to offboarding)",
+    "New hire onboarding journey creation and management",
+    "Employee engagement",
+    "Attrition management",
+    "Workflow automation for HR processes",
+    "Compliance management automation",
+    "Vendor management automation (HR-related)",
+    "HR-IT data synchronization",
+    "Standardizing HR processes across the organization",
+    "Personalizing employee journeys through segmentation and targeting",
+    "Providing a centralized information hub for employees"
+  ],
+  "competitive_advantages": [
+    "Centralized Employee Data Platform for consolidation and cleanliness",
+    "Seamless data orchestration across disparate HR, IT, and Vendor applications",
+    "Comprehensive employee experience management from onboarding to offboarding",
+    "Customizable workflow automation for key HR processes (onboarding, compliance, vendor management, HR-IT sync)",
+    "Persona-based segmentation and targeting for personalized employee journeys",
+    "Scalability through standardized processes across diverse organizational structures (teams, business units, locations)",
+    "Consolidated 'one-app' experience for unified employee information access",
+    "Reduction in operational overheads through automation"
+  ],
+  "implementation_scenarios": [
+    "Integration with existing HR, IT, and vendor systems",
+    "Deployment across multiple teams, business units, and geographical locations"
+  ],
+  "hr_functions_supported": [
+    "Employee Data Management",
+    "Employee Document Management",
+    "Employee Experience Management",
+    "Onboarding",
+    "Offboarding",
+    "Employee Engagement",
+    "Attrition Management",
+    "Workflow Automation",
+    "Compliance Management",
+    "Vendor Management (HR-related)",
+    "HR-IT Synchronization",
+    "Talent Management",
+    "Recruiting",
+    "Workforce Management",
+    "Diversity & Inclusion initiatives support"
+  ],
+  "technology_stack": [],
+  "integration_capabilities": [
+    "HR applications integration",
+    "IT applications integration",
+    "Vendor applications integration"
+  ],
+  "roi_benefits": [
+    "Reduced operational overheads",
+    "Time and resource savings for People Teams",
+    "Faster employee productivity",
+    "Increased hiring manager confidence",
+    "Improved hiring manager productivity",
+    "Faster talent acquisition speed",
+    "Enhanced hiring efficiency",
+    "Reduced talent acquisition costs",
+    "Support for building a more diverse and inclusive workforce"
+  ],
+  "searchable_keywords": [
+    "Tydy",
+    "Employee Data Platform",
+    "HR Tech",
+    "Employee Experience",
+    "Onboarding software",
+    "Offboarding software",
+    "Employee data management",
+    "Document management",
+    "HR workflow automation",
+    "HR automation",
+    "IT automation",
+    "Vendor management automation",
+    "HR integration",
+    "Data orchestration",
+    "Persona-based journeys",
+    "Employee segmentation",
+    "Talent management",
+    "Recruiting software",
+    "HR management suites",
+    "Workforce management",
+    "Employee engagement",
+    "Attrition management",
+    "Hiring speed",
+    "Hiring efficiency",
+    "Talent acquisition costs",
+    "Workplace diversity",
+    "New hire onboarding",
+    "HR compliance",
+    "Centralized HR platform",
+    "Employee portal",
+    "HR-IT sync",
+    "Employee handbook",
+    "Company policy management",
+    "Training module management",
+    "Collaborative working space",
+    "Flexible working location",
+    "Virtual team events"
+  ],
+  "primary_users": [
+    "People Teams (HR teams)",
+    "Hiring Managers",
+    "Employees"
+  ],
+  "deployment_options": [],
+  "compliance_features": [
+    "Customizable compliance automation"
+  ],
+  "scalability_features": [
+    "Standardized processes across teams, business units, and locations"
+  ],
+  "security_features": [],
+  "_weight": 1
+}

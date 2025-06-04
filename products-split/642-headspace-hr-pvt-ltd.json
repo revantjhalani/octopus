@@ -1,0 +1,174 @@
+{
+  "id": 642,
+  "name": "HeadSpace HR Pvt Ltd",
+  "description": "HeadSpace HR is a talent advisory services firm, started by executive search industry leaders. The firm combines a research driven talent acquisition model with vast experience in pan India search across Industries & functions \u2013 all geared to providing unparalleled client satisfaction and fulfillment. Today, success in the market place for an organization is not just dependent on its ability to find, attract and retain the best talent available. \u2018Glocalisation\u2019 demands leaders to be innovative yet contextual and disruptive, yet relevant. The best talent today can be outdated tomorrow. Hence, talent scouting for leadership has to balance risk with result, potential with performance.",
+  "features": [
+    "We prioritize making the right connections and nurturing long-term relationships with all stakeholders.",
+    "We foster trusted partnerships and embrace a solutions-oriented approach that drives collective success.",
+    "We ensure timely and efficient delivery of our solutions, honoring our promises with unwavering dedication."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Recruiting software",
+    "Pre-employment screening software",
+    "Background check software",
+    "Pre-employment testing software",
+    "Reference check software",
+    "Recruiting automation software",
+    "Talent acquisition suites",
+    "Applicant tracking system (ATS)",
+    "Onboarding software",
+    "Recruitment marketing platforms",
+    "Staffing services providers",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Talent acquisition",
+    "Talent sourcing",
+    "Candidate screening",
+    "Interview scheduling",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Hiring best practices",
+    "Talent pipeline"
+  ],
+  "headquarter": "Delhi, India",
+  "launch_date": "2018",
+  "order": 20596,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "HeadSpace HR\n MAKING\n THE\n RIGHT CONNECTIONS",
+  "ProductId": null,
+  "ShortDescription": "HeadSpace HR is a talent advisory services firm, started by executive search industry leaders.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Executive Search & Assessment",
+      "sequence": 0,
+      "description": "HeadSpace HR helps organizations identify and attract top-level executive talent. They use a meticulous and research-driven approach to locate individuals who possess the right skills, experience, and cultural fit for executive roles."
+    },
+    {
+      "name": "Performance Leadership Recruitment",
+      "sequence": 1,
+      "description": "HeadSpace HR focuses on identifying and attracting high-performing leaders who can drive exceptional results within organizations. They evaluate candidates based on their track record of performance, strategic thinking, and ability to inspire and motivate teams."
+    },
+    {
+      "name": "HR Consulting",
+      "sequence": 2,
+      "description": "HeadSpace HR offers organizations expert guidance and support in navigating the complexities of human resources. They tailor customized solutions to address the client's specific needs."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:31:40.686Z",
+  "enhanced_description": "HeadSpace HR is a talent advisory services firm, founded by executive search industry leaders in 2018. The firm employs a research-driven talent acquisition model with extensive experience in pan-India search across various industries and functions. They specialize in leadership talent scouting, meticulously balancing risk with results and potential with performance, to help organizations find, attract, and retain top-level executive and high-performing leaders. HeadSpace HR is dedicated to providing unparalleled client satisfaction and fulfillment, fostering trusted partnerships, and ensuring timely and efficient delivery of their solutions.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Executive Search & Assessment (identifying and attracting top-level executive talent)",
+    "Performance Leadership Recruitment (identifying and attracting high-performing leaders)",
+    "HR Consulting (expert guidance and support in human resources complexities)",
+    "Strategic Talent Acquisition for leadership roles",
+    "Talent scouting for leadership positions"
+  ],
+  "competitive_advantages": [
+    "Started by executive search industry leaders",
+    "Combines a research-driven talent acquisition model with vast experience",
+    "Extensive experience in pan India search across industries & functions",
+    "Prioritizes making the right connections and nurturing long-term relationships with all stakeholders",
+    "Fosters trusted partnerships and embraces a solutions-oriented approach",
+    "Ensures timely and efficient delivery of solutions",
+    "Focuses on balancing risk with result, potential with performance in leadership scouting",
+    "Geared towards providing unparalleled client satisfaction and fulfillment"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Recruiting",
+    "Executive Search",
+    "HR Consulting",
+    "Performance Leadership Recruitment",
+    "Talent Assessment",
+    "Candidate Screening",
+    "Background Checks",
+    "Pre-employment Testing",
+    "Reference Checks"
+  ],
+  "roi_benefits": [
+    "Hire Top Talent Faster",
+    "Hire Top Talent More Efficiently",
+    "Improved recruiting efficiency"
+  ],
+  "searchable_keywords": [
+    "HeadSpace HR",
+    "Talent advisory services",
+    "Executive search",
+    "Leadership recruitment",
+    "HR consulting",
+    "Talent acquisition",
+    "Hiring speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Talent sourcing",
+    "Candidate screening",
+    "Interview scheduling",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Hiring best practices",
+    "Talent pipeline",
+    "Pan India search",
+    "Talent assessment",
+    "Performance leadership",
+    "Glocalisation",
+    "Recruiting",
+    "Staffing services providers",
+    "Pre-employment screening",
+    "Background check",
+    "Pre-employment testing",
+    "Reference check",
+    "Applicant tracking system (ATS)",
+    "Onboarding",
+    "Recruitment marketing",
+    "Staffing & management",
+    "Talent acquisition suites"
+  ],
+  "primary_users": [
+    "Organizations seeking executive talent",
+    "Companies in need of leadership recruitment services",
+    "Businesses requiring HR consulting",
+    "Hiring managers",
+    "HR departments",
+    "Business leaders"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,177 @@
+{
+  "id": 1254,
+  "name": "e2i",
+  "description": "e2i serves as a bridge between workers and employers, connecting with workers to offer job security through job-matching, career guidance and skills upgrading services, and partnering employers to address their manpower needs through recruitment, training and job redesign solutions. e2i is a tripartite initiative of the National Trades Union Congress set up to support nation-wide manpower and skills upgrading initiatives.",
+  "features": [
+    "The Career Trial Programme is part of the suite of career services offered by Workforce Singapore (WSG) and e2i to strengthen the employability of locals, through a short-term stint with an employer",
+    "Providing One-Stop, Personalised Services for Your Manpower and Training Needs",
+    "e2i works with businesses to create customised professional development programmes which can range from one-off half day masterclasses to in-house training modules and week-long courses for their employees and other select participants."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Workforce management",
+    "HR management suites",
+    "Staffing services providers",
+    "Job boards",
+    "Recruitment agencies",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Quick Hiring",
+    "Hiring speed",
+    "Recruiting efficiency"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2008",
+  "order": 21082,
+  "weightage": true,
+  "HCM": null,
+  "Headline": "Career Guidance for Singaporeans. Professional Development and Productivity Solutions for Companies. Connect with us!",
+  "ProductId": null,
+  "ShortDescription": "e2i is the empowering network for workers and employers seeking employment and employability solutions.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [
+    "Institute Of Singapore Chartered Accountants",
+    "Accounting and Corporate Regulatory Authority",
+    "Society of Tourist Guide Singapore"
+  ],
+  "Highlights": [
+    {
+      "name": "Career Conversion Programmes",
+      "sequence": 0,
+      "description": "Career Conversion Programmes (CCPs) are placement programmes targeted at mid-career switchers, to undergo skills conversion and move into new occupations or sectors that have good prospects and opportunities for progression. Trainees will undergo structured on-the-job training to transit into the new job role."
+    },
+    {
+      "name": "Place and Train without Conversion Programmes",
+      "sequence": 1,
+      "description": "Trainees will undergo structured on-the-job training of up to three months to be upskilled into their new job roles.  e2i works with our partners to develop such programmes to help address manpower shortages in many industries and to tackle skills-gaps among job seekers interested in taking on the available jobs."
+    },
+    {
+      "name": "Professional Development Programmes",
+      "sequence": 2,
+      "description": "e2i works with businesses to create customised professional development programmes which can range from one-off half day masterclasses to in-house training modules and week-long courses for their employees and other select participants. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": true,
+  "PublishedAt": "2024-03-05T11:13:19.350Z",
+  "enhanced_description": "e2i is a tripartite initiative of the National Trades Union Congress, established in 2008 in Singapore, focused on supporting nation-wide manpower and skills upgrading initiatives. As an empowering network for workers and employers, e2i serves as a bridge, connecting workers with job security through job-matching, comprehensive career guidance, and skills upgrading services. For employers, e2i partners to address manpower needs via recruitment, training, and job redesign solutions. They offer one-stop, personalized services for manpower and training needs, including customized professional development programs such as masterclasses, in-house modules, and week-long courses. Key programs include the Career Trial Programme (in partnership with Workforce Singapore) for short-term stints, Career Conversion Programmes (CCPs) for mid-career switchers to undergo skills conversion and transition into new roles, and Place and Train programs to upskill trainees and address industry manpower shortages and skills gaps. The overarching goal is to boost hiring manager confidence and productivity.",
+  "target_industries": [
+    "Accounting",
+    "Tourism"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Global"
+  ],
+  "key_use_cases": [
+    "Job matching for workers",
+    "Career guidance for job seekers",
+    "Skills upgrading for workforce",
+    "Recruitment solutions for employers",
+    "Workforce training and development",
+    "Job redesign solutions",
+    "Strengthening employability of local talent",
+    "Addressing manpower shortages for businesses",
+    "Creating customized professional development programs",
+    "Facilitating mid-career skills conversion",
+    "Upskilling employees for new job roles",
+    "Tackling skills gaps among job seekers"
+  ],
+  "competitive_advantages": [
+    "Tripartite initiative with national backing (National Trades Union Congress)",
+    "Provides a bridge between workers and employers",
+    "Offers one-stop, personalized services for manpower and training needs",
+    "Delivers customized professional development programs",
+    "Focus on strengthening employability of locals"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Development",
+    "Workforce Planning",
+    "HR Consulting",
+    "Staffing",
+    "Career Management"
+  ],
+  "roi_benefits": [
+    "Improved hiring speed and efficiency",
+    "Boosted hiring manager confidence",
+    "Increased hiring manager productivity",
+    "Reduced manpower shortages",
+    "Enhanced workforce skills and employability",
+    "Effective addressing of skills gaps"
+  ],
+  "searchable_keywords": [
+    "e2i",
+    "Career Guidance",
+    "Professional Development",
+    "Productivity Solutions",
+    "Employment Solutions",
+    "Employability Solutions",
+    "Job Matching",
+    "Skills Upgrading",
+    "Recruitment",
+    "Training",
+    "Job Redesign",
+    "Manpower Needs",
+    "Workforce Singapore",
+    "Career Trial Programme",
+    "One-Stop Services",
+    "Personalised Services",
+    "Customised Training",
+    "Masterclasses",
+    "In-house Training",
+    "Career Conversion Programmes",
+    "CCPs",
+    "Mid-career Switchers",
+    "On-the-job Training",
+    "Place and Train",
+    "Manpower Shortages",
+    "Skills Gaps",
+    "Talent Management",
+    "Workforce Management",
+    "HR Management Suites",
+    "Staffing Services",
+    "Job Boards",
+    "Recruitment Agencies",
+    "HR Consulting",
+    "Quick Hiring",
+    "Hiring Speed",
+    "Recruiting Efficiency",
+    "Singapore"
+  ],
+  "primary_users": [
+    "Workers",
+    "Employers",
+    "Hiring Managers",
+    "Job Seekers",
+    "Mid-career Switchers",
+    "Trainees"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,159 @@
+{
+  "id": 696,
+  "name": "ICube Consortium Pte Ltd.",
+  "description": "SolveCube is an AI talent platform with a Human touch. Inclusion of diverse talent is at the core of Solvecube's purpose- remote working, mature experts, Solopreneurs, boutique firms and boundaryless talent available full-time, part-time, short-term, or turnkey. We work with business leaders of small, big and large enterprises to revolutionize talent sourcing. We use technology to enable talent discovery backed by a tailor-made people strategy.",
+  "features": [
+    "Independent Mid to senior level domain experts with global experience",
+    "Source mid to senior level talent for permanent roles",
+    "Access to SolveCube super aggregated skills and capability pool and AI matching engine"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Talent Management",
+    "Other / technology",
+    "Recruiting",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Employee scheduling software",
+    "Time tracking",
+    "Software and Services Related to HR Software",
+    "Staffing & management software",
+    "Payroll services providers",
+    "Staffing services providers",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2019",
+  "order": 20650,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "AI Talent Market platform with millions of experts, short or full time Multi-domain",
+  "ProductId": null,
+  "ShortDescription": "Scaling a business is directly proportional to the People strategy & timely acquisition of fit-for-purpose talent. Our vision is to create a Super App for People and talent solutions.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Large Pool of Talent",
+      "sequence": 0,
+      "description": "SolveCube offers access to a large pool of talent . This means that they can help businesses find the qualified employees they need."
+    },
+    {
+      "name": "AI-powered Matching Engine",
+      "sequence": 1,
+      "description": "SolveCube uses an AI-powered matching engine to connect businesses with the best candidates for the job [1]. This can help businesses save time and money by filtering out unqualified candidates."
+    },
+    {
+      "name": "Expertise on Demand",
+      "sequence": 2,
+      "description": "SolveCube provides expertise on demand . This means that businesses can access the skills and knowledge of a network of experts without having to hire them full-time."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:43.583Z",
+  "enhanced_description": "SolveCube is an AI talent platform designed to revolutionize talent sourcing and discovery for enterprises. It combines advanced AI matching with a human touch to connect businesses with diverse talent, including remote workers, mature experts, solopreneurs, and boutique firms, available across various engagement models such as full-time, part-time, short-term, and turnkey projects. The platform provides access to a large, global pool of independent mid to senior-level domain experts and offers expertise on demand, enabling the timely acquisition of fit-for-purpose talent and boosting hiring manager productivity.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Talent sourcing and discovery",
+    "Hiring mid to senior-level talent for permanent roles",
+    "Accessing on-demand expertise",
+    "Acquiring diverse and flexible talent (remote, short-term, part-time)",
+    "Boosting hiring manager productivity"
+  ],
+  "competitive_advantages": [
+    "AI-powered matching engine for efficient candidate selection",
+    "Access to a large, super aggregated pool of diverse talent (remote, mature, solopreneurs, boutique firms)",
+    "Offering flexible talent engagement models (full-time, part-time, short-term, turnkey)",
+    "Focus on independent mid to senior level domain experts with global experience",
+    "Provides \"Expertise on Demand\"",
+    "Combines AI with a human touch"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Sourcing",
+    "Staffing",
+    "Talent Management (related to acquisition and discovery)",
+    "Hiring"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)"
+  ],
+  "roi_benefits": [
+    "Increased hiring manager confidence and productivity",
+    "Time and cost savings through efficient candidate filtering",
+    "Timely acquisition of fit-for-purpose talent, supporting business scaling",
+    "Access to expertise without the need for full-time hiring, offering cost flexibility"
+  ],
+  "searchable_keywords": [
+    "AI talent platform",
+    "Talent sourcing",
+    "Talent discovery",
+    "Recruiting",
+    "Hiring",
+    "Independent experts",
+    "Mid-senior level talent",
+    "Global experience",
+    "Permanent roles",
+    "Part-time",
+    "Full-time",
+    "Short-term",
+    "Turnkey projects",
+    "Remote working",
+    "Mature experts",
+    "Solopreneurs",
+    "Boutique firms",
+    "Boundaryless talent",
+    "AI matching engine",
+    "Talent pool",
+    "Expertise on demand",
+    "Staffing services",
+    "Talent management",
+    "People strategy",
+    "HR technology",
+    "Enterprise talent",
+    "Diverse talent"
+  ],
+  "primary_users": [
+    "Business leaders",
+    "Hiring managers",
+    "Enterprises",
+    "Independent domain experts"
+  ],
+  "scalability_features": [
+    "Access to a large pool of talent",
+    "Designed to support business scaling"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,149 @@
+{
+  "id": 730,
+  "name": "Inmoment",
+  "description": "We believe experiences shape the world we live in. Experiences are a culmination of moments filled with emotions, judgments, learnings, and much, much more. Therefore, every moment presents an opportunity to make a positive impact; to leave a mark. With good data, the right technology, and human expertise, businesses today can solve hard problems and change the world for the better. Our goal is to deliver technology and use our years of expertise to unlock a comprehensive understanding of not only the actions people are taking, but also the emotion driving what they do and why.",
+  "features": [
+    "Customer Experience",
+    "Reputation Management",
+    "Strategic Services"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Benefits administration software"
+  ],
+  "tags": [
+    "Employee satisfaction",
+    "Employee benefits"
+  ],
+  "headquarter": "South Jordan, Utah",
+  "launch_date": "2002",
+  "order": 20683,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Experiences Shape the World",
+  "ProductId": null,
+  "ShortDescription": "InMoment, the leader in improving experiences and the highest recommended CX platform and services company in the world is renowned for helping clients collect and integrate customer experience data to uncover the insights that enable the smartest actions.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Capture and Connect Data",
+      "sequence": 0,
+      "description": "Make disconnected experience data a thing of the past. InMoment helps you capture and connect unstructured and structured experience data in every format."
+    },
+    {
+      "name": "Identify the Richest Insights",
+      "sequence": 1,
+      "description": "Experience data comes in all shapes and sizes, and without the right technology it\u2019s near impossible to understand. InMoment\u2019s award-winning AI helps you generate richer insights."
+    },
+    {
+      "name": "Unlock the Smartest Actions",
+      "sequence": 2,
+      "description": "Every team knows something about your customer, but decisions are often based on a limited vantage point of the customer journey. Align your teams to take deliberate actions that resolve cases."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:24.583Z",
+  "enhanced_description": "InMoment is a leading experience improvement platform that leverages good data, advanced technology, and human expertise to help businesses understand not only the actions people take, but also the underlying emotions and motivations. Primarily recognized as a highly recommended Customer Experience (CX) platform, InMoment also extends its capabilities to improve Employee Happiness and Engagement. The platform specializes in capturing and connecting both unstructured and structured experience data in various formats. Utilizing its award-winning Artificial Intelligence, InMoment is designed to identify richer insights from this diverse data, enabling organizations to unlock smarter, more deliberate actions that resolve cases and align teams across the customer and employee journeys.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Customer Experience Management",
+    "Reputation Management",
+    "Employee Experience Improvement",
+    "Employee Happiness and Engagement Measurement",
+    "Benefits Administration",
+    "Employee Satisfaction Tracking",
+    "Experience Data Collection and Analysis",
+    "AI-driven Insight Generation",
+    "Strategic Decision Making based on Experience Data",
+    "Cross-functional Team Alignment for Actionable Insights"
+  ],
+  "competitive_advantages": [
+    "Recognized as a highly recommended CX platform and services company globally",
+    "Utilizes award-winning AI for generating rich insights from experience data",
+    "Ability to capture and connect both unstructured and structured experience data in various formats",
+    "Combines technology with human expertise to solve complex business problems"
+  ],
+  "hr_functions_supported": [
+    "Employee Experience Management",
+    "Employee Engagement",
+    "Employee Satisfaction",
+    "Benefits Administration",
+    "Total Rewards Management"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness and Engagement",
+    "Enhanced Customer Experience",
+    "Better informed decision-making through richer insights",
+    "Increased ability to resolve customer and employee cases effectively",
+    "Improved team alignment leading to more deliberate and smart actions"
+  ],
+  "searchable_keywords": [
+    "Inmoment",
+    "Experiences",
+    "Customer Experience",
+    "Reputation Management",
+    "Strategic Services",
+    "Employee Happiness",
+    "Employee Engagement",
+    "Total Rewards",
+    "Technology",
+    "Artificial Intelligence",
+    "AI",
+    "Benefits administration software",
+    "Employee satisfaction",
+    "Employee benefits",
+    "CX platform",
+    "Experience data",
+    "Insights",
+    "Actions",
+    "Data capture",
+    "Data connection",
+    "Unstructured data",
+    "Structured data",
+    "Team alignment",
+    "Case resolution"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Customer Experience Teams",
+    "Marketing Teams",
+    "Public Relations (PR) Teams",
+    "Business Leaders",
+    "Benefits Administrators"
+  ],
+  "_weight": 1
+}

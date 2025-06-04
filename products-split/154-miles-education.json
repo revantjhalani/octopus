@@ -1,0 +1,150 @@
+{
+  "id": 154,
+  "name": "Miles Education",
+  "description": "Miles Education is committed to revolutionizing the accounting industry! Our impactful initiatives bridge the global skills gap, showcasing the exceptional talent of Indian accountants on a worldwide stage. Through strategic partnerships with renowned institutions, public accounting firms, and corporations, we empower our professionals to work in India and the US, serving as flagbearer of Indian accounting talent and making significant contributions to the global accounting landscape.",
+  "features": [
+    "700 professionals across India",
+    "partnerships with more than 100 universities",
+    "600+ MNCs and corporations"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training management system",
+    "Training eLearning software"
+  ],
+  "tags": [
+    "Learning efficiency",
+    "Adaptive learning",
+    "Personalised learning"
+  ],
+  "headquarter": "Bengaluru, Karnataka",
+  "launch_date": "2011",
+  "order": 20121,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The Flagbearer for Accountants",
+  "ProductId": null,
+  "ShortDescription": "Upskilling professionals in high-demand domains to help them become future-ready India",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Accounting",
+      "sequence": 0,
+      "description": "Through Miles Talent Hub, we address the accountant shortage in the U.S. by creating unique pathways for talent from both India and the U.S. "
+    },
+    {
+      "name": "Business ",
+      "sequence": 1,
+      "description": "We revolutionize traditional education by integrating essential liberal arts as well as tech skills to develop well-rounded, future-ready business leaders."
+    },
+    {
+      "name": "Healthcare",
+      "sequence": 2,
+      "description": "Leveraging the capabilities of Miles Talent Hub, we tackle the shortage of nurses and healthcare professionals in the U.S. by developing innovative pathways for global talent."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:31.633Z",
+  "enhanced_description": "Miles Education is an HR technology provider specializing in learning and development, committed to bridging the global skills gap and revolutionizing industries. Operating as a training management and eLearning software, they focus on accelerating skill development and learning efficiency through adaptive and personalized learning experiences. Miles Education empowers professionals, particularly from India, to become future-ready in high-demand domains such as Accounting, Business, and Healthcare, serving as a flagbearer for global talent. Through strategic partnerships with over 100 universities and 600+ MNCs and corporations, they create unique pathways to address talent shortages and facilitate professional contributions to the global workforce, especially in the US.",
+  "target_industries": [
+    "Accounting",
+    "Healthcare",
+    "Business"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Bridging global skills gaps",
+    "Addressing talent shortages (e.g., US accountants, nurses, healthcare professionals)",
+    "Upskilling and reskilling professionals in high-demand domains",
+    "Accelerating skill development and learning efficiency",
+    "Developing future-ready business leaders",
+    "Creating pathways for cross-border talent mobility (India-US)"
+  ],
+  "competitive_advantages": [
+    "Extensive network of strategic partnerships with over 100 universities and 600+ MNCs and corporations",
+    "Specialization in bridging global skills and talent gaps, particularly between India and the US",
+    "Focus on high-demand industry domains including Accounting, Business, and Healthcare",
+    "Creation of unique pathways for talent acquisition and mobility",
+    "Emphasis on adaptive and personalized learning methodologies",
+    "Integration of liberal arts and tech skills for well-rounded professional development"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Training Management",
+    "Talent Development",
+    "Talent Acquisition"
+  ],
+  "roi_benefits": [
+    "Reduced skill gaps within organizations",
+    "Accelerated professional development and learning efficiency",
+    "Access to a global talent pool, mitigating critical talent shortages",
+    "Empowerment of professionals to be future-ready in high-demand domains",
+    "Enhanced global workforce contributions"
+  ],
+  "searchable_keywords": [
+    "Miles Education",
+    "HR Tech",
+    "Learning and Development",
+    "Training management system",
+    "Training eLearning software",
+    "Skill Development",
+    "Learning efficiency",
+    "Adaptive learning",
+    "Personalised learning",
+    "Upskilling",
+    "Reskilling",
+    "Professional development",
+    "Accounting",
+    "Healthcare",
+    "Business",
+    "Global talent",
+    "India",
+    "US",
+    "Skills gap",
+    "Talent shortage",
+    "Corporate training",
+    "University partnerships",
+    "MNC partnerships",
+    "Future-ready professionals",
+    "Accountant training",
+    "Healthcare professional training",
+    "Business leader development",
+    "Cross-border talent"
+  ],
+  "primary_users": [
+    "Individuals seeking professional development and upskilling (accountants, business leaders, nurses, healthcare professionals)",
+    "HR and Learning & Development teams within corporations",
+    "Recruitment teams seeking global talent"
+  ],
+  "_weight": 1
+}

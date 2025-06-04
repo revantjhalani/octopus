@@ -1,0 +1,130 @@
+{
+  "id": 290,
+  "name": "SmartWinnr",
+  "description": "SmartWinnr is the #1 highest rated sales gamification app in the world. Our ease of use makes it easy for sales teams to roll-out sales contests faster. Europe\u2019s leading insurance provider have utilized SmartWinnr to run contests for their agents and managers with high engagement, very successful games, huge amount of collaboration. Create different leaderboards to make the contest fun and exciting - by sales reps, by regions, by zones, by headquarters, by teams. Sales reps check their rankings from their mobile phones on-the-go.",
+  "features": [
+    "Scalable Architecture",
+    "Security",
+    "Integrations"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Recruiting",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Capital Management",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Workforce diversity",
+    "Employee diversity"
+  ],
+  "headquarter": "Walnut, California",
+  "launch_date": "2014",
+  "order": 20254,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "World\u2019s #1 mobile-first Sales Productivity Platform",
+  "ProductId": null,
+  "ShortDescription": "SmartWInnr is a comprehensive mobile-based platform to drive contests, learning and coaching for remote sales teams.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:42.151Z",
+  "enhanced_description": "SmartWinnr is globally recognized as the #1 highest-rated sales gamification application and the World's #1 mobile-first Sales Productivity Platform. It offers a comprehensive, mobile-based platform designed to facilitate contests, learning, and coaching specifically for remote sales teams. Its user-friendly design allows sales teams to rapidly deploy sales contests, fostering high engagement, successful games, and extensive collaboration. The platform supports the creation of diverse leaderboards, segmentable by sales reps, regions, zones, headquarters, and teams, enabling sales professionals to conveniently monitor their rankings from their mobile devices on-the-go. Proven by Europe\u2019s leading insurance providers, SmartWinnr is effective for engaging agents and managers.",
+  "target_industries": [
+    "Insurance"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Running sales contests for agents and managers",
+    "Creating and managing sales leaderboards",
+    "Driving learning initiatives for sales teams",
+    "Providing coaching for remote sales teams",
+    "Enhancing overall sales productivity"
+  ],
+  "competitive_advantages": [
+    "Ranked as the #1 highest-rated sales gamification app globally",
+    "Mobile-first design for on-the-go access and remote teams",
+    "Ease of use facilitating faster sales contest roll-outs",
+    "Proven ability to drive high engagement and collaboration",
+    "Comprehensive platform for contests, learning, and coaching"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Performance Management",
+    "Learning & Development",
+    "Diversity & Inclusion",
+    "Workforce Analytics"
+  ],
+  "integration_capabilities": [
+    "Third-party system integrations"
+  ],
+  "roi_benefits": [
+    "Increased sales team engagement",
+    "Faster deployment of sales contests",
+    "Enhanced collaboration among sales teams",
+    "Improved sales productivity and performance",
+    "Contribution to building a more diverse and inclusive workforce"
+  ],
+  "searchable_keywords": [
+    "SmartWinnr",
+    "Sales Gamification",
+    "Sales Contests",
+    "Sales Productivity",
+    "Mobile-First",
+    "Mobile-Based",
+    "Sales Teams",
+    "Leaderboards",
+    "Learning",
+    "Coaching",
+    "Remote Sales",
+    "Employee Engagement",
+    "Workforce Diversity",
+    "Employee Diversity",
+    "Performance Management",
+    "HRMS",
+    "HCM"
+  ],
+  "primary_users": [
+    "Sales teams",
+    "Sales representatives",
+    "Sales agents",
+    "Sales managers"
+  ],
+  "scalability_features": [
+    "Scalable Architecture"
+  ],
+  "security_features": [
+    "Security"
+  ],
+  "_weight": 1
+}

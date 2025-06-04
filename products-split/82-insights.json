@@ -1,0 +1,143 @@
+{
+  "id": 82,
+  "name": "Insights",
+  "description": "Insights Discovery is our transformational experience for learners all over the world. It brings psychology to life in an accessible, practical model that shows people how understanding themselves better can make a positive difference in the workplace and beyond. ",
+  "features": [
+    " Teamwork",
+    "Employee Engagement",
+    "Leadership Development",
+    "Change Management"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Personalised learning"
+  ],
+  "headquarter": "Dundee, Scotland",
+  "launch_date": "1993",
+  "order": 161,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Improving employee engagement",
+  "ProductId": null,
+  "ShortDescription": "\r\nData that proves your instincts right",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-22T12:15:34.181Z",
+  "enhanced_description": "Insights Discovery is a comprehensive, psychology-based program designed to deliver a transformational learning experience globally. It translates psychological principles into an accessible and practical model, empowering individuals to deepen their self-understanding. This enhanced self-awareness is directly applied to foster positive impacts in the workplace, specifically addressing areas such as improving employee engagement, enhancing teamwork, developing leadership capabilities, and facilitating effective change management. The program aims to accelerate skill development and learning efficiency through personalized learning paths, ultimately leading to improved training effectiveness, faster skill acquisition, and optimized learning outcomes.",
+  "key_use_cases": [
+    "Improving employee engagement",
+    "Enhancing teamwork dynamics",
+    "Facilitating leadership development programs",
+    "Supporting organizational change management initiatives",
+    "Accelerating skill development and learning efficiency",
+    "Providing personalized learning for self-understanding and workplace improvement"
+  ],
+  "competitive_advantages": [
+    "Leverages an accessible and practical psychology-based model for self-understanding.",
+    "Established presence and proven methodology since 1993, indicating significant market experience.",
+    "Provides data-driven insights to validate and inform HR and organizational strategies.",
+    "Focuses on accelerating skill development and optimizing learning efficiency.",
+    "Delivers a transformational experience for learners on a global scale.",
+    "Highly searched, indicating strong market interest and recognition."
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Employee Engagement",
+    "Leadership Development",
+    "Talent Development",
+    "Organizational Development",
+    "Training Management"
+  ],
+  "integration_capabilities": [
+    "Compatible with Corporate LMS (Learning Management Systems)",
+    "Compatible with Learning Experience Systems (LXPs)"
+  ],
+  "roi_benefits": [
+    "Improved employee engagement",
+    "Accelerated skill development",
+    "Enhanced learning efficiency and speed",
+    "Increased training effectiveness",
+    "Better decision-making through data-validated insights",
+    "Positive impact on teamwork and leadership capabilities"
+  ],
+  "searchable_keywords": [
+    "Insights Discovery",
+    "Insights",
+    "Teamwork",
+    "Employee Engagement",
+    "Leadership Development",
+    "Change Management",
+    "Learning and Development",
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems",
+    "LXPs",
+    "Training & development companies",
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Personalised learning",
+    "Psychology",
+    "Self-understanding",
+    "Workplace improvement",
+    "Data insights",
+    "Organisational development"
+  ],
+  "primary_users": [
+    "Employees (at all levels)",
+    "Leaders/Managers",
+    "HR Professionals",
+    "Learners"
+  ],
+  "deployment_options": [
+    "Online/eLearning (as implied by sub-categories like 'Training eLearning software' and 'Learning Experience Systems')"
+  ],
+  "scalability_features": [
+    "Global reach (designed for 'learners all over the world')"
+  ],
+  "_weight": 1
+}

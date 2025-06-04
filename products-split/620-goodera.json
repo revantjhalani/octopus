@@ -1,0 +1,107 @@
+{
+  "id": 620,
+  "name": "Goodera",
+  "description": "Goodera\u2019s physical, hybrid and virtual volunteering activities benefit a global network of 50,000+ nonprofit partners across 50+ cause areas.We make volunteering frictionless, engaging, and impactful by leveraging our state-of-the-art technology.",
+  "features": [
+    "Non-profit partnership",
+    "Global supply chain",
+    "Champion onboarding & training"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Employee engagement software",
+    "Corporate wellness software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee satisfaction"
+  ],
+  "headquarter": "Salt Lake City",
+  "launch_date": "2014",
+  "order": 20577,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Powering the World of Good",
+  "ProductId": null,
+  "ShortDescription": "Goodera helps companies enable their employees to volunteer with thousands of nonprofits in 100+ countries.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:31:16.781Z",
+  "enhanced_description": "Goodera provides a comprehensive platform for companies to facilitate employee volunteering initiatives. It supports various volunteering formats including physical, hybrid, and virtual activities. The platform connects employees with an extensive global network of over 50,000 nonprofit partners across more than 50 cause areas in over 100 countries, leveraging state-of-the-art technology to ensure volunteering experiences are frictionless, engaging, and impactful.",
+  "key_use_cases": [
+    "Facilitating and managing global employee volunteering programs",
+    "Connecting employees with a diverse network of non-profit organizations",
+    "Enabling physical, hybrid, and virtual employee volunteering activities",
+    "Improving employee engagement and happiness through structured volunteering opportunities",
+    "Onboarding and training internal volunteering champions"
+  ],
+  "competitive_advantages": [
+    "Extensive global network of 50,000+ nonprofit partners across 50+ cause areas in 100+ countries",
+    "Support for multiple volunteering formats: physical, hybrid, and virtual",
+    "Leveraging state-of-the-art technology for frictionless, engaging, and impactful volunteering",
+    "Dedicated features for 'Champion onboarding & training' to scale volunteering programs"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Corporate Social Responsibility (CSR)",
+    "Employee Well-being",
+    "Talent Management (specifically related to engagement and retention)",
+    "Total Rewards (as a non-monetary benefit)"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness and Engagement",
+    "Enhanced Corporate Social Responsibility (CSR) impact and program effectiveness"
+  ],
+  "searchable_keywords": [
+    "Goodera",
+    "employee volunteering",
+    "corporate volunteering",
+    "volunteering platform",
+    "non-profit partnership",
+    "global volunteering",
+    "virtual volunteering",
+    "hybrid volunteering",
+    "employee engagement software",
+    "employee satisfaction",
+    "corporate wellness software",
+    "Talent Management",
+    "Total Rewards",
+    "CSR software",
+    "volunteer programs"
+  ],
+  "primary_users": [
+    "HR Leaders and Managers",
+    "CSR Leaders and Managers",
+    "Employees (as volunteers)",
+    "Internal Program Champions"
+  ],
+  "_weight": 1
+}

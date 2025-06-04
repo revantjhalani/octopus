@@ -1,0 +1,157 @@
+{
+  "id": 138,
+  "name": "Maq AI",
+  "description": "\nChatGPT\nMaq AI is dedicated to promoting happiness through intelligent machines. By mimicking human cognitive intelligence, Maq collaborates with people in innovative ways to enhance well-being. It listens attentively, continuously learns, and refines communication skills. Tailoring its role to each organization, Maq offers precise answers to individual queries, aiming to boost responsiveness and foster meaningful dialogues that contribute to a happier world.",
+  "features": [
+    "HR Assistant",
+    "Engagement Models",
+    "HR Bot"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Other / technology",
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "HR management suites",
+    "Machine learning HR",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "Hyderabad, Telangana ",
+  "launch_date": "2020",
+  "order": 20105,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Spreading Joy with Machine Intelligence",
+  "ProductId": null,
+  "ShortDescription": "Maq AI helps manage the workplace with use of AI.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Amyeo",
+      "sequence": 0,
+      "description": "Amyeo is a conversational bot designed to empathetically interact with employees and learn about their well-being."
+    },
+    {
+      "name": "Apmaq LMS",
+      "sequence": 1,
+      "description": "Apmaq LMS is a comprehensive learning platform with all the updated features to enhance the learning process."
+    },
+    {
+      "name": "Maquina",
+      "sequence": 2,
+      "description": "Maquina is a trained HR assistant to converse with the employees in a meaningful manner and provide an appropriate response."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:08.105Z",
+  "enhanced_description": "Maq AI is an intelligent platform leveraging AI to enhance well-being and productivity in the workplace by mimicking human cognitive intelligence. It listens attentively, continuously learns, and refines communication skills, tailoring its role to each organization. Maq AI offers precise answers to individual queries, aiming to boost responsiveness and foster meaningful dialogues. The product includes key modules such as Amyeo, an empathetic conversational bot for employee well-being; Apmaq LMS, a comprehensive learning platform for enhanced learning processes; and Maquina, a trained HR assistant bot designed for meaningful employee conversations and appropriate response delivery.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Automated HR support and inquiry handling",
+    "Employee well-being monitoring and support",
+    "Learning and development management",
+    "Employee engagement initiatives",
+    "Recruiting and talent acquisition efficiency",
+    "HR self-service for employees",
+    "Data-driven hiring processes"
+  ],
+  "competitive_advantages": [
+    "Mimics human cognitive intelligence for nuanced interactions",
+    "Continuously learns and refines communication skills",
+    "Tailors its functionality to specific organizational needs",
+    "Dedicated focus on promoting employee happiness and well-being",
+    "Includes specialized modules for empathetic well-being checks (Amyeo) and comprehensive learning (Apmaq LMS)"
+  ],
+  "hr_functions_supported": [
+    "HR Service Delivery",
+    "Employee Engagement",
+    "Talent Acquisition",
+    "Talent Management",
+    "Learning & Development",
+    "Employee Well-being",
+    "HR Self-Service",
+    "Employee Communications"
+  ],
+  "technology_stack": [
+    "AI",
+    "Machine Learning",
+    "ChatGPT (potential underlying model/capability)"
+  ],
+  "roi_benefits": [
+    "Improved employee well-being and morale",
+    "Increased organizational responsiveness and efficiency",
+    "Enhanced employee communication and satisfaction",
+    "Faster and more efficient talent acquisition processes",
+    "Potential cost savings in HR operations through automation",
+    "Improved employee skills and productivity through enhanced learning experiences",
+    "Reduced HR workload via self-service and automated responses"
+  ],
+  "searchable_keywords": [
+    "Maq AI",
+    "AI HR",
+    "Intelligent machines",
+    "Cognitive intelligence",
+    "Employee well-being",
+    "HR Assistant",
+    "HR Bot",
+    "Engagement Models",
+    "Recruiting software",
+    "Talent Management",
+    "HR management suites",
+    "Machine learning HR",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Workplace AI",
+    "Automated HR",
+    "Conversational bot",
+    "Employee engagement",
+    "Learning management system",
+    "LMS",
+    "HR automation",
+    "Employee support",
+    "HR technology",
+    "Digital HR",
+    "HR chatbot",
+    "AI for HR"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Professionals",
+    "Recruiters / Talent Acquisition Teams",
+    "Learning & Development Professionals"
+  ],
+  "_weight": 1
+}

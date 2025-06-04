@@ -1,0 +1,168 @@
+{
+  "id": 79,
+  "name": "Interview Desk",
+  "description": "We\u2019re the pioneers of the Interview as a service, helping organizations find the perfect fit for their team by matching skills with job requirements. Our team of professional interviewers and seasoned software developers are experts at conducting in-depth interviews, analyzing data, and providing valuable insights that drive success.",
+  "features": [
+    "AI Powered Tools",
+    "Recruiter\u2019s Goldmine",
+    "IDesk Hiring Tools"
+  ],
+  "founders": [
+    "Pichumani Durairaj ",
+    "Vasundhara Pichumani "
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Video interviewing software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Candidate screening",
+    "Interview scheduling",
+    "Hiring automation",
+    "Hiring best practices"
+  ],
+  "headquarter": "Wilmington, Delaware",
+  "launch_date": "2017",
+  "order": 20055,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Source Smarter To Hire Faster with Resume-as-a-Service",
+  "ProductId": null,
+  "ShortDescription": "On-Demand Interviewer Platform.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Matching Leads",
+      "sequence": 0,
+      "description": "Choose and build a pipeline of potential hires that align with your job requirements effortlessly."
+    },
+    {
+      "name": "Qualified Leads",
+      "sequence": 1,
+      "description": "Get ready, willing, and qualified leads who will not only fit the bill but are eager to join your team"
+    },
+    {
+      "name": "Interns Leads Pack",
+      "sequence": 2,
+      "description": "Unlock the potential of our Interns Pack, providing you with access to a dynamic pool of interns from prestigious universities."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-20T07:08:34.476Z",
+  "enhanced_description": "Interview Desk is a pioneer in the 'Interview as a Service' and 'On-Demand Interviewer Platform' model, complemented by a 'Resume-as-a-Service' offering for intelligent sourcing. The service leverages a team of professional interviewers and seasoned software developers to conduct in-depth interviews, analyze candidate data, and provide valuable insights, aiming to help organizations find the perfect talent faster and more efficiently. Key offerings include 'Matching Leads' for building pipelines of potential hires aligned with job requirements, 'Qualified Leads' for delivering ready, willing, and qualified candidates eager to join, and an 'Interns Leads Pack' providing access to a dynamic pool of interns from prestigious universities. The platform integrates 'AI Powered Tools', functions as a 'Recruiter\u2019s Goldmine', and utilizes proprietary 'IDesk Hiring Tools' to streamline the entire hiring process.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Interview as a service",
+    "On-demand interviewer platform",
+    "Matching skills with job requirements",
+    "Conducting in-depth interviews",
+    "Analyzing interview data and providing insights",
+    "Hiring top talent faster and more efficiently",
+    "Sourcing smarter with resume-as-a-service",
+    "Building pipelines of potential hires (Matching Leads)",
+    "Obtaining pre-qualified and eager candidates (Qualified Leads)",
+    "Accessing a pool of university interns (Interns Leads Pack)",
+    "Candidate screening",
+    "Interview scheduling",
+    "Hiring automation"
+  ],
+  "competitive_advantages": [
+    "Pioneering 'Interview as a Service' model",
+    "Leveraging a team of professional interviewers and seasoned software developers for expert interviews",
+    "Providing valuable insights from interview data that drive success",
+    "Utilizing AI Powered Tools for enhanced hiring processes",
+    "Offers a 'Recruiter\u2019s Goldmine' for valuable candidate insights",
+    "Proprietary 'IDesk Hiring Tools'",
+    "Unique 'Resume-as-a-Service' for smarter sourcing",
+    "Specialized offerings for 'Matching Leads', 'Qualified Leads', and 'Interns Leads Pack'"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Sourcing",
+    "Candidate Screening",
+    "Interviewing",
+    "Hiring",
+    "Talent Acquisition"
+  ],
+  "roi_benefits": [
+    "Helping organizations find the perfect fit for their team",
+    "Driving success through valuable insights",
+    "Hiring top talent faster",
+    "Hiring more efficiently",
+    "Increasing hiring speed",
+    "Improving hiring efficiency",
+    "Enhancing recruiting efficiency",
+    "Sourcing smarter"
+  ],
+  "searchable_keywords": [
+    "Interview Desk",
+    "Interview as a service",
+    "On-Demand Interviewer Platform",
+    "Resume-as-a-Service",
+    "Professional interviewers",
+    "Software developers",
+    "In-depth interviews",
+    "Data analysis",
+    "Valuable insights",
+    "AI Powered Tools",
+    "Recruiter\u2019s Goldmine",
+    "IDesk Hiring Tools",
+    "Recruiting",
+    "Video interviewing software",
+    "Recruiting software",
+    "Hiring speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Candidate screening",
+    "Interview scheduling",
+    "Hiring automation",
+    "Hiring best practices",
+    "Source smarter",
+    "Hire faster",
+    "Matching Leads",
+    "Qualified Leads",
+    "Interns Leads Pack",
+    "Pipeline of potential hires",
+    "Talent sourcing"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "HR Teams",
+    "Hiring Managers",
+    "Organizations (General)"
+  ],
+  "_weight": 1
+}

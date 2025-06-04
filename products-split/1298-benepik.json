@@ -1,0 +1,172 @@
+{
+  "id": 1298,
+  "name": "Benepik",
+  "description": "Benepik is Your Partner for Loyalty, Rewards and Engagement. Our Award-Winning Solution focuses on Personalized Rewards, Power of Choice and creating a sense of belonging among your people.\n\nWe provide an end-to-end solution for all Rewards, Incentive & Gifting needs. Benepik takes pride in offering your people Power of Choice with 300+ options, global catalogue, flexible denominations & instant gratification. ",
+  "features": [
+    "Recognition & Reward",
+    "Employee Benefits",
+    "Corporate Gifting",
+    "Onboarding",
+    "Employee Health & Wellness",
+    "Channel Partner Loyalty"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration services",
+    "Employee recognition software",
+    "Benefits administration software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee hapiness",
+    "Employee satisfaction",
+    "Employee well being",
+    "Employee benefits",
+    "Company culture",
+    "Employee recognition",
+    "Employee happiness programs",
+    "Employee happiness metrics"
+  ],
+  "headquarter": "Gurgaon, Haryana",
+  "launch_date": "2016",
+  "order": 21122,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Rewards. Payouts. Loyalty. Engagement. ",
+  "ProductId": null,
+  "ShortDescription": "Drive Performance and Retention with our Rewards, Engagement and Loyalty Gateway!",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Plug & Play Solution",
+      "sequence": 0,
+      "description": "Easy setup, scalable and personalised integration"
+    },
+    {
+      "name": "WhatsApp Integration",
+      "sequence": 1,
+      "description": "Ease of access, high adoptability, alerts & notifications. Other apps not required"
+    },
+    {
+      "name": "Real-Time Analytics",
+      "sequence": 2,
+      "description": "Budget tracking, performance trend analysis, customizable live reports with immediate feedback"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:20.046Z",
+  "enhanced_description": "Benepik is an award-winning, end-to-end HR technology solution specializing in loyalty, rewards, and engagement. It helps organizations improve employee happiness, drive performance, and enhance retention through personalized reward programs that offer power of choice from over 300 global options, flexible denominations, and instant gratification. The platform supports various HR functions including employee recognition, benefits administration, corporate gifting, onboarding, and employee health & wellness, extending to channel partner loyalty. It features a plug-and-play setup, WhatsApp integration for high adoptability and ease of access, and real-time analytics for comprehensive budget tracking and performance trend analysis.",
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee recognition and rewards management",
+    "Employee benefits administration",
+    "Corporate gifting",
+    "Employee onboarding support",
+    "Employee health and wellness program management",
+    "Channel partner loyalty programs",
+    "Driving employee engagement",
+    "Improving employee happiness",
+    "Boosting employee retention",
+    "Incentive program management"
+  ],
+  "competitive_advantages": [
+    "Award-winning solution",
+    "Extensive reward options (300+ options, global catalogue, flexible denominations)",
+    "Instant gratification for rewards",
+    "Personalized reward experiences",
+    "Plug-and-play solution for easy setup and integration",
+    "WhatsApp integration for high adoptability and ease of access (no other apps required)",
+    "Real-time analytics for budget tracking and performance trend analysis",
+    "Comprehensive end-to-end solution for all rewards, incentive, and gifting needs"
+  ],
+  "implementation_scenarios": [
+    "Rapid deployment via a plug-and-play model"
+  ],
+  "hr_functions_supported": [
+    "Employee Recognition",
+    "Rewards Management",
+    "Benefits Administration",
+    "Onboarding",
+    "Employee Wellness Management",
+    "Employee Engagement"
+  ],
+  "integration_capabilities": [
+    "WhatsApp"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Enhanced employee retention",
+    "Increased employee performance",
+    "Better budget tracking for reward programs",
+    "Data-driven insights into recognition and reward program effectiveness"
+  ],
+  "searchable_keywords": [
+    "Benepik",
+    "Loyalty",
+    "Rewards",
+    "Engagement",
+    "Employee Recognition",
+    "Employee Benefits",
+    "Corporate Gifting",
+    "Onboarding",
+    "Employee Health & Wellness",
+    "Channel Partner Loyalty",
+    "Employee Happiness",
+    "Employee Satisfaction",
+    "Employee Well-being",
+    "Company Culture",
+    "Total Rewards",
+    "Benefits Administration Software",
+    "Employee Recognition Software",
+    "Payouts",
+    "Incentives",
+    "Retention",
+    "Performance",
+    "Plug & Play",
+    "WhatsApp Integration",
+    "Real-Time Analytics",
+    "Budget Tracking",
+    "Live Reports",
+    "Global Catalogue",
+    "Instant Gratification",
+    "Personalized Rewards",
+    "Power of Choice"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "Employees (as reward recipients)",
+    "Channel Partners"
+  ],
+  "scalability_features": [
+    "Scalable architecture"
+  ],
+  "_weight": 1
+}

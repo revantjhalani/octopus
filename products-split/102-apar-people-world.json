@@ -1,0 +1,171 @@
+{
+  "id": 102,
+  "name": "Apar People World",
+  "description": "By combining cutting-edge technologies with industry best practices, Apar delivers solutions that optimize efficiency, drive innovation, and unlock new growth opportunities.\n\nFrom small businesses to large enterprises, Apar's services are designed to scale and adapt to ever-changing business requirements.",
+  "features": [
+    "Permanent & Contract Hiring",
+    "Recruitment Process Outsourcing",
+    "Hire-Train-Deploy",
+    "Talent Screening Solutions"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Recruiting software",
+    "Staffing services providers",
+    "HR consulting providers",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Quality of Hire",
+    "Hiring Tools",
+    "Candidate screening",
+    "Hiring best practices",
+    "Interview scheduling"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2014",
+  "order": 20072,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Connecting people...Connecting Businesses",
+  "ProductId": null,
+  "ShortDescription": "Apar PeopleWorld has transformed the staffing practices with the new edge technologies of Artificial Intelligence. They have been able to effectively build the bridge between Employment provider and Seeker.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Our Sourcing Bot",
+      "sequence": 0,
+      "description": " Our bot sources from over 200+ platforms and identifies the ideal candidates in just under 3 minutes."
+    },
+    {
+      "name": "Assessment Engine",
+      "sequence": 1,
+      "description": "A powerful technical assessment platform that can assess for quality, performance and scalability of code in over 65+ different programming languages."
+    },
+    {
+      "name": "Inhouse ATS",
+      "sequence": 2,
+      "description": "An intuitive applicant tracking system simplifies collaboration and standardizes the recruitment process end-to-end."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-26T12:20:23.873Z",
+  "enhanced_description": "Apar People World leverages cutting-edge Artificial Intelligence (AI) to transform staffing practices, effectively bridging the gap between employment providers and job seekers. Their solutions are designed to optimize efficiency, drive innovation, and unlock new growth opportunities for businesses. Key components include an AI-powered Sourcing Bot that identifies ideal candidates from over 200+ platforms in under 3 minutes, a powerful technical Assessment Engine capable of evaluating code quality, performance, and scalability across 65+ programming languages, and an intuitive in-house Applicant Tracking System (ATS) that simplifies collaboration and standardizes the end-to-end recruitment process. Apar's services are built to scale and adapt to the evolving requirements of large and global enterprises.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Permanent Hiring",
+    "Contract Hiring",
+    "Recruitment Process Outsourcing (RPO)",
+    "Hire-Train-Deploy Programs",
+    "Talent Screening and Assessment",
+    "Candidate Sourcing",
+    "Technical Skill Assessment",
+    "Applicant Tracking and Management",
+    "Standardized Recruitment Process Management"
+  ],
+  "competitive_advantages": [
+    "AI-powered sourcing bot that identifies candidates from over 200+ platforms rapidly (under 3 minutes)",
+    "Comprehensive technical assessment engine supporting 65+ programming languages for code quality, performance, and scalability evaluation",
+    "Intuitive in-house Applicant Tracking System (ATS) for streamlined collaboration and end-to-end process standardization",
+    "Designed to scale and adapt to ever-changing business requirements",
+    "Utilizes Artificial Intelligence to transform staffing practices"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Staffing (Permanent & Contract)",
+    "Talent Acquisition",
+    "Candidate Assessment",
+    "Applicant Tracking",
+    "HR Consulting (as a provider type)"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)",
+    "Bot Technology (Sourcing Bot)",
+    "Assessment Platform Technology",
+    "Applicant Tracking System (ATS) Technology"
+  ],
+  "roi_benefits": [
+    "Hire Top Talent Faster",
+    "More Efficient Hiring",
+    "Optimize efficiency in recruitment",
+    "Drive innovation in staffing practices",
+    "Unlock new growth opportunities",
+    "Improve quality of hire through advanced assessment",
+    "Streamline recruitment processes"
+  ],
+  "searchable_keywords": [
+    "Apar People World",
+    "Apar PeopleWorld",
+    "Hiring",
+    "Recruiting",
+    "Recruitment",
+    "Staffing",
+    "Permanent Hiring",
+    "Contract Hiring",
+    "RPO",
+    "Recruitment Process Outsourcing",
+    "Hire-Train-Deploy",
+    "Talent Screening Solutions",
+    "Candidate Screening",
+    "Talent Acquisition",
+    "Quality of Hire",
+    "Hiring Tools",
+    "Hiring Best Practices",
+    "Interview Scheduling",
+    "Artificial Intelligence",
+    "AI",
+    "Sourcing Bot",
+    "Assessment Engine",
+    "Technical Assessment",
+    "Coding Assessment",
+    "Programming Language Assessment",
+    "Inhouse ATS",
+    "Applicant Tracking System",
+    "HR Tech",
+    "HR Technology",
+    "Singapore"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "HR Professionals",
+    "Hiring Managers",
+    "Staffing Agencies"
+  ],
+  "scalability_features": [
+    "Designed to scale and adapt to ever-changing business requirements"
+  ],
+  "_weight": 1
+}

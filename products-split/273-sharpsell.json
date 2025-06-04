@@ -1,0 +1,118 @@
+{
+  "id": 273,
+  "name": "Sharpsell",
+  "description": "Sharpsell.ai is India's leading field-tested Sales Playbook Automation Platform built for high-velocity sales teams. Trusted by enterprises to replicate deal-winning behaviour and create sales champions at scale. Currently being used by over 550,000+ sales reps across leading BFSI and Pharma companies like Bajaj Allianz, Axis Bank, TATA Capital, IDFC First Bank, HDFC Life, Kotak Life Insurance, Aditya Birla Capital, Torrent Pharma, JB Pharma and more. The Sharpsell.ai platform was developed from the ground up after shadowing hundreds of salespeople in the field for more than 6 months. One of our co-founders worked as a field sales agent in financial services to understand the challenges first-hand. What culminated was a pioneering approach to sales tooling, that combined the principles of learning & real-time enablement through features like ready-to-use sales pitches, dynamic personalized content and AI-powered sales coaching.",
+  "features": [
+    "Replicate best practices and winning behaviour",
+    "Dynamic presentation engines",
+    "Out-of-box integrations"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Employee satisfaction",
+    "Employee recognition"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2017",
+  "order": 20238,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Build and automate your sales playbooks",
+  "ProductId": null,
+  "ShortDescription": "We are India's leading field-tested Sales Playbook Automation Platform for high-velocity sales teams.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:26.832Z",
+  "enhanced_description": "Sharpsell.ai is India's premier Sales Playbook Automation Platform, specifically designed for high-velocity sales teams within large enterprises. It empowers organizations to build, automate, and deploy sales playbooks, thereby replicating deal-winning behaviors and developing sales champions at scale. The platform provides real-time enablement through features such as ready-to-use sales pitches, dynamic personalized content, and AI-powered sales coaching. Its development was informed by extensive field research, including direct experience as a sales agent, ensuring a practical and pioneering approach to sales tooling. Sharpsell.ai is widely adopted, serving over 550,000 sales representatives across leading BFSI (Banking, Financial Services, and Insurance) and Pharmaceutical companies, with a stated objective to improve employee happiness and engagement.",
+  "target_industries": [
+    "BFSI (Banking, Financial Services, and Insurance)",
+    "Pharmaceuticals"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Sales Playbook Automation",
+    "Sales Enablement",
+    "Sales Coaching",
+    "Dynamic Content Generation for Sales",
+    "Replication of Sales Best Practices"
+  ],
+  "competitive_advantages": [
+    "India's leading field-tested platform",
+    "Developed with deep understanding of field sales challenges through direct experience",
+    "Pioneering approach to sales tooling",
+    "Specialized for high-velocity sales teams",
+    "Proven at scale, currently serving over 550,000+ sales reps"
+  ],
+  "integration_capabilities": [
+    "Out-of-box integrations"
+  ],
+  "roi_benefits": [
+    "Increased sales efficiency and velocity",
+    "Improved sales performance and win rates",
+    "Scalable development of sales champions",
+    "Enhanced sales force learning and real-time enablement",
+    "Improved employee happiness and engagement (indirectly via performance improvement)"
+  ],
+  "searchable_keywords": [
+    "Sharpsell",
+    "Sales Playbook Automation",
+    "Sales Enablement",
+    "Sales Coaching",
+    "Sales Training",
+    "Sales Content",
+    "Dynamic Presentations",
+    "Field Sales",
+    "High-Velocity Sales",
+    "Enterprise Sales",
+    "BFSI Sales",
+    "Pharma Sales",
+    "Sales Best Practices",
+    "Sales Performance",
+    "Employee Engagement",
+    "Employee Satisfaction",
+    "Sales Champion Development",
+    "India"
+  ],
+  "primary_users": [
+    "Sales Representatives",
+    "Sales Managers",
+    "Sales Leaders"
+  ],
+  "scalability_features": [
+    "Supports large-scale deployment (550,000+ sales reps)",
+    "Designed for creating sales champions at scale"
+  ],
+  "_weight": 1
+}

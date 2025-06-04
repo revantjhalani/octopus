@@ -1,0 +1,135 @@
+{
+  "id": 247,
+  "name": "RECEX",
+  "description": "Recex are building RECRUITMENT EXCHANGE- a 3 way marketplace, to help companies find quality jobseekers through AI based tools and Franchise Partner Network .The Team has already handled agency business since 2013, through SMVA Consultants, and we can proudly claim that we have grown our client-base to 850+ corporates because of our relentless drive to meet the clients\u2019 needs. RECEX also has 40 offices all across the country, so that we can provide you the best of the resources from anywhere in the country.",
+  "features": [
+    "125+ Years Team Experience",
+    "1090+ Global Companies",
+    "2000+ Impacted Job Seekers"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Job boards"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting"
+  ],
+  "headquarter": "Kolkata, West Bengal",
+  "launch_date": "2022",
+  "order": 20212,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "New Age Recruitment Exchange ",
+  "ProductId": null,
+  "ShortDescription": "Your Reliable Employment Consultant & Recruitment Partner",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Under promise Overdeliver",
+      "sequence": 0,
+      "description": "For all stake holders--Jobseekers, Recruiters/ERs, Partners."
+    },
+    {
+      "name": "Create more opportunities ",
+      "sequence": 1,
+      "description": "More money either as a Franchise or a better job opportunity."
+    },
+    {
+      "name": "Operational Excellence",
+      "sequence": 2,
+      "description": "Enhance productivity and Create network value through the network effects."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:03.320Z",
+  "enhanced_description": "RECEX is a New Age Recruitment Exchange, operating as a 3-way marketplace designed to help companies find quality jobseekers by leveraging AI-based tools and an extensive Franchise Partner Network. Positioned as a reliable employment consultant and recruitment partner, RECEX draws on its team's prior experience in agency business through SMVA Consultants since 2013, having successfully served over 850 corporate clients. With 40 offices spread across India, RECEX is equipped to provide comprehensive recruitment resources nationwide. The platform's core objectives include boosting hiring manager confidence and productivity, creating more opportunities for job seekers and franchise partners, and achieving operational excellence to enhance productivity and network value for all stakeholders.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Companies finding quality jobseekers",
+    "Jobseekers finding better employment opportunities",
+    "Franchise partners generating income through recruitment services",
+    "Boosting hiring manager confidence and productivity in the recruitment process"
+  ],
+  "competitive_advantages": [
+    "Utilizes AI-based tools for recruitment processes",
+    "Leverages a proprietary Franchise Partner Network for broad reach and resource provision",
+    "Extensive experience in agency business since 2013 (via SMVA Consultants) with a client base of 850+ corporates",
+    "Nationwide presence with 40 offices across the country",
+    "Commitment to operational excellence to enhance productivity and network value"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Job Posting",
+    "Talent Management"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)"
+  ],
+  "roi_benefits": [
+    "Improved efficiency in finding quality jobseekers",
+    "Increased hiring manager confidence and productivity",
+    "Creation of more opportunities for job seekers (better jobs)",
+    "Creation of more opportunities for franchise partners (more income)",
+    "Enhanced operational productivity through network effects"
+  ],
+  "searchable_keywords": [
+    "RECEX",
+    "RECRUITMENT EXCHANGE",
+    "recruitment",
+    "hiring",
+    "job board",
+    "talent acquisition",
+    "AI recruitment",
+    "employment consultant",
+    "recruitment partner",
+    "talent management",
+    "marketplace",
+    "job seekers",
+    "franchise network",
+    "corporate hiring"
+  ],
+  "primary_users": [
+    "Companies (Employers)",
+    "Hiring Managers",
+    "Job Seekers",
+    "Recruiters (Internal/External)",
+    "Franchise Partners"
+  ],
+  "scalability_features": [
+    "Designed to support a wide range of company sizes from small to global enterprises"
+  ],
+  "_weight": 1
+}

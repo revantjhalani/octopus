@@ -1,0 +1,156 @@
+{
+  "id": 1317,
+  "name": "entomo",
+  "description": "entomo is a people experience platform built for the digital world of work. Powering 30mn+ users across organizations world-wide, entomo unleashes digital experiences that transform engagement, performance and talent development using hyper personalized insights and nudges. entomo\u2019s clients include Global fortune 500 and large enterprises and Governments across Asia and MEA. entomo is also voted as a leader in G2 software marketplace across multiple categories",
+  "features": [
+    "Everyday alignment of organizational, team, and individual goals",
+    "Personalized insights and nudges to drive powerful performance behaviors",
+    "Engage and empower talent development and skills"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Performance management solutions",
+    "Employee engagement software",
+    "Talent management software"
+  ],
+  "tags": [
+    "Employee engagement"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2008",
+  "order": 21136,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "unleash people experiences that transform performance, engagement and talent ",
+  "ProductId": null,
+  "ShortDescription": "people experience platform built for the digital world of work",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "achieve peak employee performance",
+      "sequence": 0,
+      "description": "Empower your people with Generative AI to perform by intelligently aligning goals, and AI driven nudges and insights"
+    },
+    {
+      "name": "prioritize your people's wellness",
+      "sequence": 1,
+      "description": "Transform employee wellbeing with AI driven anonymized sentiment analysis, and wellness interventions "
+    },
+    {
+      "name": "unlock employee skills and potential",
+      "sequence": 2,
+      "description": " Transform talent with AI driven personalized learning interventions, career progression, succession planning, individual development plans, HiPo identification and more"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:47.882Z",
+  "enhanced_description": "entomo is a comprehensive people experience platform designed for the digital world of work, empowering over 30 million users globally. It transforms employee engagement, performance, and talent development through hyper-personalized AI-driven insights and nudges. The platform facilitates everyday alignment of organizational, team, and individual goals, and leverages Generative AI for peak employee performance. It also prioritizes employee well-being through AI-driven anonymized sentiment analysis and wellness interventions. Furthermore, entomo unlocks employee potential by providing AI-driven personalized learning interventions, career progression, succession planning, individual development plans, and HiPo identification. Its clientele includes Global Fortune 500 companies, large enterprises, and governments across Asia and MEA, and it has been recognized as a leader in multiple G2 software marketplace categories.",
+  "target_industries": [
+    "Government"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise",
+    "Government"
+  ],
+  "key_use_cases": [
+    "Everyday alignment of organizational, team, and individual goals",
+    "Driving powerful performance behaviors",
+    "Engaging and empowering talent development and skills",
+    "Personalized learning interventions",
+    "Career progression management",
+    "Succession planning",
+    "Individual development plans (IDPs)",
+    "High Potential (HiPo) identification",
+    "Employee well-being transformation",
+    "AI-driven anonymized sentiment analysis"
+  ],
+  "competitive_advantages": [
+    "Hyper-personalized insights and nudges",
+    "Generative AI capabilities for performance",
+    "AI-driven anonymized sentiment analysis and wellness interventions",
+    "AI-driven personalized learning interventions",
+    "Proven scalability (powering 30mn+ users worldwide)",
+    "Serves Global Fortune 500, large enterprises, and governments",
+    "Voted as a leader in G2 software marketplace across multiple categories"
+  ],
+  "hr_functions_supported": [
+    "Performance Management",
+    "Employee Engagement",
+    "Talent Development",
+    "Employee Wellness",
+    "Learning & Development",
+    "Succession Planning"
+  ],
+  "technology_stack": [
+    "Generative AI",
+    "Artificial Intelligence (AI)",
+    "Sentiment Analysis"
+  ],
+  "roi_benefits": [
+    "Transform engagement",
+    "Transform performance",
+    "Transform talent development",
+    "Improve employee happiness and engagement",
+    "Achieve peak employee performance",
+    "Prioritize people's wellness",
+    "Unlock employee skills and potential"
+  ],
+  "searchable_keywords": [
+    "entomo",
+    "people experience platform",
+    "digital world of work",
+    "employee engagement",
+    "performance management",
+    "talent development",
+    "hyper personalized insights",
+    "AI nudges",
+    "goal alignment",
+    "performance behaviors",
+    "talent development software",
+    "employee engagement software",
+    "performance management solutions",
+    "employee wellness",
+    "sentiment analysis",
+    "personalized learning",
+    "career progression",
+    "succession planning",
+    "individual development plans",
+    "HiPo identification",
+    "Generative AI"
+  ],
+  "primary_users": [
+    "Employees"
+  ],
+  "scalability_features": [
+    "Designed to power 30mn+ users across organizations worldwide"
+  ],
+  "_weight": 1
+}

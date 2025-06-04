@@ -1,0 +1,176 @@
+{
+  "id": 1751,
+  "name": "Dock.io",
+  "description": "In 2017, Dock was established to solve the problems inherent in existing data solutions. We are a Verifiable Credentials company that provides Dock Certs, a user-friendly, no-code platform, a developer solution that enable organizations to issue, manage and verify fraud-proof credentials efficiently, securely, and at a lower cost. Dock allows organizations and individuals to create and share verified data. We do this for organizations in diverse sectors.",
+  "features": [
+    "Reduce verification friction without sacrificing security",
+    "Verify once, reuse everywhere",
+    "Launch 6 times faster"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting",
+    "Other / technology",
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Artificial intelligence",
+    "Blockchain",
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Data driven Hiring",
+    "Hiring Analytics",
+    "Hiring process optimization"
+  ],
+  "headquarter": " Zug, Switzerland",
+  "launch_date": "2017",
+  "order": null,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Redefining TRUST Through Verified Data",
+  "ProductId": null,
+  "ShortDescription": "Accelerate customer onboarding with Reusable ID",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Accelerate customer onboarding",
+      "sequence": 0,
+      "description": "Improve conversion rates by allowing customers to bypass repeated data entry and physical document submission to verify their identity faster."
+    },
+    {
+      "name": "Create a new ecosystem of verifiers",
+      "sequence": 1,
+      "description": "Enable companies to issue ID credentials and expand your market reach by generating demand for that high-quality, verified ID data from a new market of verifiers."
+    },
+    {
+      "name": "Lead the way with eIDAS and mDLs",
+      "sequence": 2,
+      "description": "The emergence of digital ID wallets and documents, underpinned by the eIDAS and mobile driver's licenses (mDLs), is redefining how we manage our identities."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-07-11T05:55:14.154Z",
+  "enhanced_description": "Dock.io, established in 2017, is a verifiable credentials company offering Dock Certs. It provides a user-friendly, no-code platform and a developer solution that enables organizations to issue, manage, and verify fraud-proof credentials efficiently, securely, and at a lower cost. Redefining trust through verified data, Dock allows organizations and individuals to create and share verified data. This solution helps in hiring top talent faster and more efficiently within HR, and also accelerates customer onboarding with reusable IDs, improving conversion rates by allowing customers to bypass repeated data entry. Dock facilitates the creation of new ecosystems of verifiers and leads the way in digital identity management by supporting standards like eIDAS and mobile driver's licenses (mDLs).",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Issuing, managing, and verifying fraud-proof credentials",
+    "Creating and sharing verified data",
+    "Accelerating talent acquisition and hiring processes",
+    "Expediting customer onboarding with reusable IDs",
+    "Building and expanding ecosystems of verifiers for verified data"
+  ],
+  "competitive_advantages": [
+    "Fraud-proof credential verification",
+    "Reduced verification friction",
+    "Enhanced security during verification",
+    "Reusable verified data ('Verify once, reuse everywhere')",
+    "Faster deployment/launch (6 times faster)",
+    "Cost-effective credential management",
+    "User-friendly, no-code platform",
+    "Ability to create new ecosystems of verifiers",
+    "Compliance with eIDAS and mDL standards"
+  ],
+  "implementation_scenarios": [
+    "Direct implementation via no-code platform",
+    "Custom integration via developer solution"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Hiring Process Optimization",
+    "HRMS/HCM (for managing verified employee data)",
+    "Hiring Analytics",
+    "Data-driven Hiring"
+  ],
+  "technology_stack": [
+    "Blockchain",
+    "Verifiable Credentials",
+    "No-code platform",
+    "Developer APIs/SDKs",
+    "Artificial intelligence"
+  ],
+  "integration_capabilities": [
+    "API-based integrations (via developer solution)"
+  ],
+  "roi_benefits": [
+    "Reduced operational costs",
+    "Increased efficiency in verification processes",
+    "Faster time-to-value (6x faster launch)",
+    "Accelerated talent acquisition",
+    "Improved hiring efficiency",
+    "Faster customer onboarding",
+    "Improved conversion rates (for customer onboarding)"
+  ],
+  "searchable_keywords": [
+    "Dock.io",
+    "Dock",
+    "Verifiable credentials",
+    "Blockchain",
+    "Digital identity",
+    "Identity verification",
+    "Fraud prevention",
+    "HR technology",
+    "Recruiting",
+    "Hiring optimization",
+    "Data-driven hiring",
+    "Hiring analytics",
+    "Customer onboarding",
+    "Reusable ID",
+    "No-code platform",
+    "eIDAS",
+    "mDLs",
+    "Secure data",
+    "Credential management",
+    "Trust",
+    "HRMS",
+    "HCM",
+    "AI HR"
+  ],
+  "primary_users": [
+    "Organizations (issuers and verifiers)",
+    "Individuals (credential holders)",
+    "Developers",
+    "HR Professionals",
+    "Recruiting Teams"
+  ],
+  "compliance_features": [
+    "eIDAS compliance",
+    "Support for mobile driver's licenses (mDLs) standards"
+  ],
+  "security_features": [
+    "Fraud-proof credential verification",
+    "Secure data management and verification",
+    "Digital ID wallets and documents (for secure identity management)"
+  ],
+  "_weight": 1
+}

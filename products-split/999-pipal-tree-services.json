@@ -1,0 +1,155 @@
+{
+  "id": 999,
+  "name": "Pipal Tree Services",
+  "description": "We bring the \"human factor\"",
+  "features": [
+    " MARKET & TALENT MAPPING",
+    "Offer Supplu chain, Logistics Support ",
+    "Provide service in differnt industries"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Talent Management",
+    "Recruiting",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software",
+    "Talent management software",
+    "Recruiting software",
+    "Staffing & management software",
+    "Onboarding software"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Talent sourcing",
+    "Candidate screening",
+    "Quick Hiring"
+  ],
+  "headquarter": "New Delhi",
+  "launch_date": "2018",
+  "order": 20942,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "THE FUTURE IS IN THE HANDS OF THOSE YOU HIRE TODAY",
+  "ProductId": null,
+  "ShortDescription": "Pipal Tree Services, we are more than a regular headhunter or executive recruiter, but a true partner to our clients.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "EXECUTIVE SEARCH SERVICES",
+      "sequence": 0,
+      "description": "Executive search is our core expertise and the foundations of our business: we have the ability to find, attract and develop the best executive talent in the world."
+    },
+    {
+      "name": "MARKET & TALENT MAPPING",
+      "sequence": 1,
+      "description": "Our Market & Talent Mapping service helps clients understand the quality of talent available both within and outside their corporate boundaries and how specific functions are structured across the competitor landscape."
+    },
+    {
+      "name": "ASSESSMENT & ONBOARDING",
+      "sequence": 2,
+      "description": "How effective are your leaders? We support you in answering these questions confidently, providing you with information needed to make the right leadership decisions, at the right times."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:38:32.528Z",
+  "enhanced_description": "Pipal Tree Services is an HR service provider specializing in executive search, market and talent mapping, and assessment and onboarding services. They act as a strategic partner to clients, going beyond traditional headhunting and executive recruiting to help large and global enterprises identify, attract, and develop top executive talent.",
+  "target_industries": [
+    "Supply Chain",
+    "Logistics"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Executive talent acquisition",
+    "Strategic talent intelligence (market and talent mapping)",
+    "Leadership assessment",
+    "Improving hiring speed and efficiency",
+    "Boosting hiring manager confidence",
+    "Filling open positions quickly"
+  ],
+  "competitive_advantages": [
+    "Strategic partnership approach (beyond traditional headhunting)",
+    "Specialized expertise in global executive search",
+    "Comprehensive talent intelligence through market and talent mapping",
+    "Support for leadership assessment and decision-making",
+    "Ability to find, attract, and develop top executive talent"
+  ],
+  "hr_functions_supported": [
+    "Executive Recruitment",
+    "Talent Acquisition",
+    "Talent Strategy",
+    "Leadership Assessment",
+    "Onboarding (support)"
+  ],
+  "roi_benefits": [
+    "Faster time-to-hire for critical roles",
+    "Increased efficiency in talent acquisition",
+    "Improved hiring manager confidence",
+    "Access to top executive talent",
+    "Enhanced strategic talent decisions",
+    "Better leadership outcomes"
+  ],
+  "searchable_keywords": [
+    "Pipal Tree Services",
+    "HR services",
+    "Executive Search",
+    "Talent Mapping",
+    "Market Mapping",
+    "Talent Acquisition",
+    "Recruiting",
+    "Headhunting",
+    "Executive Recruiter",
+    "Staffing",
+    "Talent Sourcing",
+    "Candidate Screening",
+    "Onboarding",
+    "Leadership Assessment",
+    "HR Consulting",
+    "Global Recruiting",
+    "Large Enterprise Recruitment",
+    "Supply Chain Recruitment",
+    "Logistics Recruitment",
+    "Quick Hiring",
+    "Human Factor"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "Talent Acquisition Leaders",
+    "Hiring Managers",
+    "Senior Management",
+    "C-suite Executives"
+  ],
+  "_weight": 1
+}

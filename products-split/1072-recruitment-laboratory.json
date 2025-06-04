@@ -1,0 +1,154 @@
+{
+  "id": 1072,
+  "name": "Recruitment Laboratory",
+  "description": "Growing your recruitment firm isn't easy. We want to take this strain off your hands. Let us focus on growing your firm, while you run the day-to-day. Whether you need help with business development or candidate outreach, we are here to be your dedicated growth partner.",
+  "features": [
+    "We scrape job or candidate data & build lead lists accordingly   We scrape job or candidate data & build lead lists accordingly   ",
+    "We automate your sales and or candidate outreach",
+    "You get hot leads (or candidates) delivered straight to your inbox"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Employee recognition software",
+    "Sales compensation software",
+    "Compensation management software",
+    "Corporate wellness software"
+  ],
+  "tags": [
+    "Employee benefits",
+    "Employee recognition",
+    "Employee happiness",
+    "Employee well being"
+  ],
+  "headquarter": "Markham, Ontario",
+  "launch_date": "2019",
+  "order": 21015,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Eliminate time spent prospecting - Automatically reach out to actively hiring companies - Grow your Recruitment Firm",
+  "ProductId": null,
+  "ShortDescription": "Growing your recruitment firm isn't easy. We want to take this strain off your hands. Let us focus on growing your firm, while you run the day-to-day.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Focus on Data and Analytics",
+      "sequence": 0,
+      "description": "The website emphasizes \"Data-Driven Recruitment\" and mentions \"evidence-based hiring\" throughout the content. This suggests they utilize data analysis and insights to inform their recruitment strategies, likely leading to more effective candidate selection."
+    },
+    {
+      "name": "Improved Hiring Decisions",
+      "sequence": 1,
+      "description": " By using data-driven methods, Recruitment Laboratory might help businesses make better hiring decisions that align with their specific needs and goals."
+    },
+    {
+      "name": "Focus on International Placements: ",
+      "sequence": 2,
+      "description": "The website showcases experience in recruitment across various industries and locations. This suggests they have a strong understanding of global hiring practices and can assist companies with international talent acquisition."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:40:01.814Z",
+  "enhanced_description": "Recruitment Laboratory serves as a dedicated growth partner for recruitment firms, aiming to alleviate the strain of business expansion. They eliminate the time-consuming process of prospecting by scraping extensive job and candidate data to build targeted lead lists. The service automates both sales and candidate outreach, delivering hot leads and candidates directly to the client's inbox. Leveraging a data-driven approach, the product focuses on providing evidence-based hiring strategies, which leads to improved hiring decisions and more effective candidate selection. Their expertise extends to supporting international placements, demonstrating a strong understanding of global hiring practices.",
+  "target_industries": [
+    "Recruitment Services",
+    "Staffing Agencies"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Growing recruitment firms",
+    "Business development for recruitment firms",
+    "Candidate outreach automation",
+    "Job data scraping for lead generation",
+    "Candidate data scraping for sourcing",
+    "Automated sales outreach for recruitment services",
+    "Prospecting for actively hiring companies",
+    "Generating qualified leads for recruitment firms",
+    "Delivering hot candidates to recruitment firms",
+    "Data-driven recruitment strategy development",
+    "Supporting international talent acquisition"
+  ],
+  "competitive_advantages": [
+    "Eliminates time spent on manual prospecting",
+    "Automates sales and candidate outreach for efficiency",
+    "Provides data-driven recruitment insights",
+    "Supports improved hiring decisions through evidence-based methods",
+    "Specialization in international placements and global hiring practices"
+  ],
+  "implementation_scenarios": [
+    "Managed Service"
+  ],
+  "hr_functions_supported": [
+    "Talent Sourcing",
+    "Recruitment Lead Generation"
+  ],
+  "roi_benefits": [
+    "Enables recruitment firms to focus on core operations by offloading growth efforts",
+    "Reduces time spent on prospecting and outreach",
+    "Increases efficiency in lead and candidate generation",
+    "Delivers high-quality leads and candidates directly to inbox",
+    "Improves the effectiveness of candidate selection",
+    "Facilitates better overall hiring decisions"
+  ],
+  "searchable_keywords": [
+    "Recruitment Laboratory",
+    "Recruitment firm growth",
+    "Staffing agency growth",
+    "Business development for recruiters",
+    "Candidate outreach automation",
+    "Recruiter lead generation",
+    "Job data scraping",
+    "Candidate data scraping",
+    "Automated sales outreach",
+    "Hot leads for recruitment",
+    "Prospecting automation",
+    "Data-driven recruitment",
+    "Evidence-based hiring",
+    "International talent acquisition support",
+    "Global recruitment support"
+  ],
+  "primary_users": [
+    "Owners of recruitment firms",
+    "Partners at recruitment firms",
+    "Business development teams within recruitment firms",
+    "Candidate sourcing teams within recruitment firms"
+  ],
+  "deployment_options": [
+    "Service-based"
+  ],
+  "scalability_features": [
+    "Designed to support the growth of recruitment firms",
+    "Capable of supporting large enterprises",
+    "Capable of supporting global enterprises",
+    "Expertise in international placements supports global expansion"
+  ],
+  "_weight": 1
+}

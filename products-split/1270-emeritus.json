@@ -1,0 +1,158 @@
+{
+  "id": 1270,
+  "name": "Emeritus",
+  "description": "Empower your workforce and transform your business with Emeritus. Partnering with 80+ top universities, we offer a range of online courses \u2013 from bite-sized certifications to accredited degrees. Our innovative platform combines cutting-edge tech with world-class instructors. This unique approach empowers individuals to gain new skills, driving transformative results for your company. Join over 250,000 learners who've chosen Emeritus to unlock their potential.",
+  "features": [
+    "Top-Tier University Network",
+    "Diverse Learning Options",
+    "Streamlined Administration"
+  ],
+  "founders": [
+    "Ashwin Damera ",
+    "Chaitanya Kalipatnapu"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised learning",
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2015",
+  "order": 21098,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Learn. From the world\u2019s best.",
+  "ProductId": null,
+  "ShortDescription": "Emeritus offers professional education courses in collaboration with top-ranked global universities.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Upskill Your Workforce",
+      "sequence": 0,
+      "description": "Empower your team with in-demand skills through world-class online courses from top universities."
+    },
+    {
+      "name": "Transform Your Business",
+      "sequence": 1,
+      "description": "Drive innovation and growth with tailored learning programs designed to meet your specific goals."
+    },
+    {
+      "name": "Flexible Learning",
+      "sequence": 2,
+      "description": "Choose from a variety of formats, including short courses, certificates, and degrees, to fit your busy schedules."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:13:39.766Z",
+  "enhanced_description": "Emeritus empowers workforces and transforms businesses by offering professional education courses in collaboration with over 80 top-ranked global universities. Their innovative platform combines cutting-edge technology with world-class instructors to provide a diverse range of online learning options, from bite-sized certifications to accredited degrees. This unique approach enables individuals to gain new, in-demand skills, driving transformative results, innovation, and growth for companies. With flexible learning formats designed to fit busy schedules, Emeritus supports skill development and learning efficiency, leveraging a top-tier university network and streamlined administration.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Workforce skill development",
+    "Business transformation through learning",
+    "Accelerating learning efficiency",
+    "Driving innovation and growth",
+    "Providing professional education and training",
+    "Offering flexible and diverse learning options"
+  ],
+  "competitive_advantages": [
+    "Extensive network of 80+ top global universities",
+    "Diverse range of learning formats (certifications, degrees, short courses)",
+    "Innovative platform with cutting-edge technology and world-class instructors",
+    "Streamlined administration for learning programs"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Training Management",
+    "Skill Management"
+  ],
+  "roi_benefits": [
+    "Improved workforce skill sets",
+    "Business transformation and growth",
+    "Accelerated skill development and learning efficiency",
+    "Enhanced innovation capabilities"
+  ],
+  "searchable_keywords": [
+    "Emeritus",
+    "online learning",
+    "professional education",
+    "corporate training",
+    "skill development",
+    "workforce upskilling",
+    "executive education",
+    "university courses",
+    "accredited degrees",
+    "certifications",
+    "eLearning",
+    "learning platform",
+    "talent development",
+    "L&D",
+    "learning and development",
+    "training management",
+    "learning experience platform",
+    "LXP",
+    "continuous learning",
+    "adaptive learning",
+    "personalized learning",
+    "learning analytics",
+    "workforce transformation",
+    "business transformation",
+    "employee training"
+  ],
+  "primary_users": [
+    "Employees",
+    "Professionals",
+    "HR Leaders",
+    "L&D Managers",
+    "Business Executives"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "SaaS"
+  ],
+  "_weight": 1
+}

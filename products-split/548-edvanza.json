@@ -1,0 +1,120 @@
+{
+  "id": 548,
+  "name": "Edvanza",
+  "description": "Edvanza is an AI-powered career advancement platform that helps students and professionals stay ahead of the curve. Its advanced AI-powered features such as Career Map, Learning, Jobs and Social are expertly tailored and personalised to cater to each user\u2019s interests, aspirations and career goals.",
+  "features": [
+    "AI Powered Career advancement Learning",
+    "International Business management",
+    "Business management with Data science and AI"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Course authoring",
+    "Corporate LMS",
+    "Training management system",
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Learning optimisation",
+    "Continuous learning",
+    "Skill development",
+    "Training effectiveness"
+  ],
+  "headquarter": "Hyderabad",
+  "launch_date": "2021",
+  "order": 20508,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Your AI-powered career advancement partner.",
+  "ProductId": null,
+  "ShortDescription": "Edvanza is an AI-powered career advancement platform that helps students and professionals stay ahead of the curve",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:29:40.166Z",
+  "enhanced_description": "Edvanza is an AI-powered career advancement platform designed to help students and professionals stay ahead of the curve. Positioned as 'Your AI-powered career advancement partner,' its advanced AI-powered features, including Career Map, Learning, Jobs, and Social, are expertly tailored and personalized to cater to each user\u2019s individual interests, aspirations, and career goals.",
+  "key_use_cases": [
+    "Personalized career pathing and planning",
+    "AI-powered learning for skill development and career advancement",
+    "Corporate learning management and delivery",
+    "Training content creation (Course authoring)",
+    "Specialized training in International Business Management",
+    "Specialized training in Business Management with Data Science and AI",
+    "Job readiness and career goal alignment"
+  ],
+  "competitive_advantages": [
+    "AI-powered personalization for career advancement",
+    "Integrated platform features: Career Map, Learning, Jobs, and Social",
+    "Tailored learning paths based on individual interests and aspirations",
+    "Expertise in specialized business management domains (International Business, Data Science, AI)"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Training Management",
+    "Skill Development",
+    "Career Planning & Development"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Enhanced continuous learning",
+    "Increased training effectiveness",
+    "Facilitates career advancement",
+    "Helps users stay competitive and current with industry trends"
+  ],
+  "searchable_keywords": [
+    "Edvanza",
+    "AI-powered platform",
+    "Career advancement",
+    "Learning and Development",
+    "Corporate LMS",
+    "Training management system",
+    "Skill development",
+    "Continuous learning",
+    "Learning optimization",
+    "Training effectiveness",
+    "Career mapping",
+    "Job readiness",
+    "Business management training",
+    "Data science education",
+    "AI in education",
+    "Course authoring",
+    "Personalized learning",
+    "Professional development"
+  ],
+  "primary_users": [
+    "Students",
+    "Professionals"
+  ],
+  "_weight": 1
+}

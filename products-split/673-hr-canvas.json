@@ -1,0 +1,180 @@
+{
+  "id": 673,
+  "name": "HR Canvas",
+  "description": "At the Academy to Innovate HR (AIHR), it is our mission to future-proof HR by offering world-class, online training programs for HR Professionals. Any HR Professional who is committed to lifelong learning can expand their skill set with modern and in-demand HR skills. AIHR is the place to learn the skills you need to advance your career and secure a job at the forefront of HR. Like many of our customers, the people at AIHR all have one thing in common: an unstoppable hunger to grow. In our quest for excellence, we continuously try new things, seek opportunities to grow, and propel the HR profession forward. A craving for pushing beyond the status quo and focus on teaching innovative HR practices is what makes us the Academy to Innovate HR.",
+  "features": [
+    "We pursue excellence. We continuously strive to improve the quality of our work and always seek to overdeliver.",
+    "We believe in the power of data. We leverage data when making decisions and falsify our gut feelings.",
+    "We trust our colleagues. We make bold decisions, take calculated risks, and act in the best interest of our learners."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Talent Management",
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "HR analytics software",
+    "HR management suites",
+    "Career management software",
+    "Employee engagement software",
+    "Experience Software",
+    "Employee scheduling software",
+    "Talent management software",
+    "Workforce management",
+    "Learning Experience Systems (LXPs)"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "Hiring efficiency",
+    "Quality of hire",
+    "Talent acquisition"
+  ],
+  "headquarter": "Rotterdam, South Holland",
+  "launch_date": "2016",
+  "order": 20627,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Skills For Your HR Future",
+  "ProductId": null,
+  "ShortDescription": "At the Academy to Innovate HR (AIHR), it is our mission to make HR future-proof by offering world-class, online education programs available anywhere, anytime.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "The HR Canvas",
+      "sequence": 0,
+      "description": "More specifically, the HR canvas helps provide a clear strategic overview of the HR organization, its customers, value proposition, activities, strategic differentiators, and cost drivers. Taking the time and effort to clarify all of these elements will help HR professionals define their service delivery while articulating HR\u2019s strategic impact and value."
+    },
+    {
+      "name": " Customer relationships",
+      "sequence": 1,
+      "description": "This focuses on the management of customer relationships and helps to inquire if the HR department is investing in the right relationships and managing them adequately. "
+    },
+    {
+      "name": "HR Value Drivers",
+      "sequence": 2,
+      "description": "This is arguably the most challenging part of the HR canvas to complete as it is one of HR\u2019s weak spots. Don\u2019t just list your HR activities; ask line managers and senior executives how HR contributes to the organization\u2019s competitive advantage. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:13.688Z",
+  "enhanced_description": "HR Canvas, offered by the Academy to Innovate HR (AIHR), is an online education program and strategic framework designed to future-proof HR professionals and propel the HR function forward. It provides a clear strategic overview of the HR organization, its customers, value proposition, activities, strategic differentiators, and cost drivers. The HR Canvas helps HR professionals define their service delivery, articulate HR\u2019s strategic impact and value, manage customer relationships effectively, and identify HR\u2019s specific contributions to the organization\u2019s competitive advantage. AIHR aims to expand HR professionals' skill sets with modern, in-demand HR skills, fostering lifelong learning and career advancement.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Developing a clear strategic overview of the HR organization",
+    "Defining HR service delivery models and frameworks",
+    "Articulating HR\u2019s strategic impact and value within the organization",
+    "Managing and enhancing HR's customer relationships",
+    "Identifying and articulating HR\u2019s value drivers and contribution to competitive advantage",
+    "Boosting hiring manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "Provides a structured framework (HR Canvas) for strategic HR planning and value articulation.",
+    "Helps HR professionals define service delivery and articulate HR\u2019s strategic impact and value.",
+    "Focuses on identifying HR\u2019s contribution to the organization\u2019s competitive advantage.",
+    "Emphasizes data-driven decision-making in HR strategies and practices.",
+    "Offers world-class, online education programs for skill expansion and career advancement.",
+    "Committed to teaching innovative HR practices and continuous improvement."
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Learning and Development",
+    "HR Analytics",
+    "HR Management",
+    "Career Management",
+    "Employee Engagement",
+    "Workforce Management",
+    "Talent Acquisition",
+    "Strategic HR Planning"
+  ],
+  "roi_benefits": [
+    "Future-proofs HR capabilities and strategies within an organization",
+    "Advances HR professionals' skills and careers",
+    "Enhances HR's strategic impact and value",
+    "Improves hiring manager confidence and productivity",
+    "Increases hiring efficiency",
+    "Contributes to higher quality of hire"
+  ],
+  "searchable_keywords": [
+    "HR Canvas",
+    "AIHR",
+    "Academy to Innovate HR",
+    "HR professionals",
+    "online training",
+    "HR education",
+    "HR skills",
+    "career advancement",
+    "future-proof HR",
+    "innovative HR practices",
+    "strategic HR",
+    "data-driven HR",
+    "Talent Management",
+    "Learning and Development",
+    "HR analytics software",
+    "HR management suites",
+    "Career management software",
+    "Employee engagement software",
+    "Experience Software",
+    "Employee scheduling software",
+    "Workforce management",
+    "Learning Experience Systems (LXPs)",
+    "Hiring",
+    "Recruiting",
+    "Hiring manager confidence",
+    "Hiring manager productivity",
+    "Hiring efficiency",
+    "Quality of hire",
+    "Talent acquisition",
+    "HR strategic overview",
+    "HR organization strategy",
+    "HR value proposition",
+    "HR activities",
+    "HR strategic differentiators",
+    "HR cost drivers",
+    "HR service delivery",
+    "HR strategic impact",
+    "HR value articulation",
+    "HR customer relationships",
+    "HR value drivers",
+    "competitive advantage HR"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "HR Leaders",
+    "Senior Executives",
+    "Hiring Managers"
+  ],
+  "deployment_options": [
+    "Cloud-based",
+    "Web-based"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,139 @@
+{
+  "id": 848,
+  "name": "Lumos Learning",
+  "description": "Lumos Learning is a learning company committed to creating empathetic learning experiences, helping learners from all walks of life achieve their true potential..Our journey started in 2007, and today, we serve 49,800+ schools, 134,600+ teachers, 1,088,300+ students, and hundreds of public libraries and enterprises with personalized learning solutions, including high-quality content, assessments, and empathetic programs, delivering measurable outcomes.",
+  "features": [
+    "Empathetic learning tools that enrich and support deeper learning.",
+    "Our success depends upon the collective energy, intelligence, and contributions of all our stakeholders.",
+    "It allows us to learn; from it, we iterate, adapt, and generate new ideas."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Course authoring"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning optimisation",
+    "Skill acquisition"
+  ],
+  "headquarter": "Piscataway, New Jersey",
+  "launch_date": "2007",
+  "order": 20801,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Step Up Your Skills",
+  "ProductId": null,
+  "ShortDescription": "Lumos Learning is a learning company committed to creating empathetic learning experiences, helping learners from all walks of life achieve their true potential..",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Breaks Down Complex Concepts",
+      "sequence": 0,
+      "description": "Guides students step-by-step through problems, simplifying tricky questions."
+    },
+    {
+      "name": "Boosts Confidence and Skills",
+      "sequence": 1,
+      "description": "Instant feedback and explanations help students solve questions independently."
+    },
+    {
+      "name": "Reduces Test Anxiety",
+      "sequence": 2,
+      "description": "Mastering concepts and practicing strategies builds confidence for test day."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:37.577Z",
+  "enhanced_description": "Lumos Learning, established in 2007, is a learning company dedicated to fostering empathetic learning experiences to help individuals achieve their full potential. They provide personalized learning solutions, including high-quality content, assessments, and empathetic programs, delivering measurable outcomes. Lumos Learning currently serves a vast client base, including over 49,800 schools, 134,600 teachers, 1,088,300 students, and hundreds of public libraries and enterprises.",
+  "target_industries": [
+    "Education",
+    "Corporate"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Personalized learning",
+    "Skill development",
+    "Learning efficiency improvement",
+    "Content delivery",
+    "Assessments and evaluations",
+    "Course authoring",
+    "Deeper learning support",
+    "Concept mastery and practice strategies"
+  ],
+  "competitive_advantages": [
+    "Empathetic learning tools for deeper engagement",
+    "Ability to break down complex concepts step-by-step",
+    "Instant feedback and explanations for independent problem-solving",
+    "Programs designed to boost confidence and skills",
+    "Strategies to reduce test anxiety through concept mastery"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Training Management",
+    "Skill Management"
+  ],
+  "roi_benefits": [
+    "Deliver measurable learning outcomes",
+    "Accelerate skill development",
+    "Improve learning efficiency",
+    "Boost learner confidence",
+    "Enhance mastery of concepts"
+  ],
+  "searchable_keywords": [
+    "Lumos Learning",
+    "learning and development",
+    "corporate LMS",
+    "course authoring",
+    "skill development",
+    "learning optimization",
+    "skill acquisition",
+    "empathetic learning",
+    "personalized learning",
+    "assessments",
+    "training solutions",
+    "education technology",
+    "enterprise learning",
+    "student learning",
+    "teacher training"
+  ],
+  "primary_users": [
+    "Learners",
+    "Students",
+    "Teachers",
+    "Trainers",
+    "L&D Professionals",
+    "Employees (in an enterprise context)"
+  ],
+  "_weight": 1
+}

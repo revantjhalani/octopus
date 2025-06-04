@@ -1,0 +1,111 @@
+{
+  "id": 558,
+  "name": "Engage Fitness",
+  "description": "Engage Fitness Collective offers a variety of LIVE virtual fitness classes with a team of professional instructors. You may be the only one in your room, but you\u2019ve got a LIVE coach and a community supporting you on your screen. Offering 90+ weekly classes with 24 instructors across the world. Come check us out. First class free!",
+  "features": [
+    "Live means real-time instruction. Even if you choose to have your video off, you\u2019ll hear and feel our support.",
+    "When you join EFC, you\u2019re investing in yourself, you\u2019re investing in your favorite instructor, and you\u2019re investing in our planet.",
+    "As a member, you\u2019ll have access to all instructors and classes! Finding a class to fit your needs and your schedule has never been easier."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Health & safety providers",
+    "Corporate wellness software"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee happiness programs"
+  ],
+  "headquarter": "Selangor, Malaysia",
+  "launch_date": "2020",
+  "order": 20518,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Real time. Real people. Real fun.",
+  "ProductId": null,
+  "ShortDescription": "Engage Fitness Collective offers a variety of LIVE virtual fitness classes with a team of professional instructors.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:29:56.928Z",
+  "enhanced_description": "Engage Fitness Collective provides a wide range of LIVE virtual fitness classes, delivered in real-time by a team of professional instructors globally. Members benefit from direct live coaching and a supportive community, even when training individually. With over 90 weekly classes and 24 instructors available, finding a suitable class is made easy, and members gain access to all offerings. The service emphasizes real-time instruction, fostering engagement and supporting personal well-being for employees within corporate wellness programs.",
+  "key_use_cases": [
+    "Employee wellness programs",
+    "Employee engagement initiatives",
+    "Virtual fitness for workforce",
+    "Corporate health and safety support"
+  ],
+  "competitive_advantages": [
+    "Real-time instruction with live coaches",
+    "Supportive community environment",
+    "Extensive class variety (90+ weekly classes)",
+    "Large global instructor base (24 instructors)",
+    "Unlimited access to all instructors and classes for members",
+    "Free trial class offered",
+    "Emphasis on investment in self, instructors, and the planet"
+  ],
+  "hr_functions_supported": [
+    "Employee Wellness",
+    "Employee Engagement",
+    "Total Rewards (Wellness Component)",
+    "Health and Safety"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness",
+    "Enhanced employee engagement",
+    "Support for employee well-being"
+  ],
+  "searchable_keywords": [
+    "Engage Fitness",
+    "Engage Fitness Collective",
+    "virtual fitness",
+    "live fitness",
+    "corporate wellness",
+    "employee well-being",
+    "employee happiness",
+    "employee engagement",
+    "online fitness classes",
+    "professional instructors",
+    "health and safety providers",
+    "total rewards",
+    "real-time instruction",
+    "virtual workout",
+    "workplace wellness programs",
+    "group fitness"
+  ],
+  "primary_users": [
+    "Employees (as beneficiaries of corporate wellness programs)",
+    "Members (individual users of the service)",
+    "Professional Fitness Instructors"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "_weight": 1
+}

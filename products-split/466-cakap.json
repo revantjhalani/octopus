@@ -1,0 +1,108 @@
+{
+  "id": 466,
+  "name": "Cakap",
+  "description": "cakap aim to provide high-quality educational skills enhancement opportunities to improve the lives of Indonesians and elevate their lives.Cakap learning offerings include courses for foreign language improvement and vocational training, catering to individuals, whether they are kids or adults, as well as companies.",
+  "features": [
+    "Provide learning for kids to comapnies",
+    "Train empployees in various feild",
+    "All in one platform with multiple device support"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Learning efficiency",
+    "Adaptive learning",
+    "Personalised learning"
+  ],
+  "headquarter": "Jakarta Barat",
+  "launch_date": "2013",
+  "order": 20426,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Elevate people\u2019s lives through high-quality education",
+  "ProductId": null,
+  "ShortDescription": "Cakap is an upskilling platform in Indonesia with more than 4 million users spread throughout the country.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": [],
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": false,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:27:57.106Z",
+  "enhanced_description": "Cakap is a prominent upskilling platform based in Indonesia, serving over 4 million users across the country. It is dedicated to providing high-quality educational skill enhancement opportunities, aiming to improve and elevate the lives of Indonesians. The platform offers comprehensive learning solutions, including foreign language improvement courses and vocational training. Cakap caters to a diverse audience, from individuals (kids and adults) to companies, offering an all-in-one platform with multi-device support for efficient employee training in various fields.",
+  "key_use_cases": [
+    "Employee Skill Development",
+    "Vocational Training",
+    "Foreign Language Learning",
+    "Upskilling Programs",
+    "Learning Efficiency Improvement"
+  ],
+  "competitive_advantages": [
+    "All-in-one learning platform",
+    "Multi-device support",
+    "Adaptive learning capabilities",
+    "Personalized learning paths",
+    "Extensive user base in Indonesia (4M+ users)"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Employee Training",
+    "Skill Management"
+  ],
+  "roi_benefits": [
+    "Accelerated Skill Development",
+    "Improved Learning Efficiency",
+    "Enhanced Employee Capabilities"
+  ],
+  "searchable_keywords": [
+    "Cakap",
+    "Learning and Development",
+    "LXP",
+    "Learning Experience Platform",
+    "Training Software",
+    "Skill Development",
+    "Upskilling Platform",
+    "Vocational Training",
+    "Foreign Language Learning",
+    "Employee Training",
+    "Corporate Training",
+    "Adaptive Learning",
+    "Personalized Learning",
+    "Learning Efficiency",
+    "Indonesia Training",
+    "Online Learning",
+    "Skill Enhancement"
+  ],
+  "primary_users": [
+    "Individual Learners (Kids & Adults)",
+    "Corporate L&D Teams",
+    "Employees"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,102 @@
+{
+  "id": 678,
+  "name": "HR Shapers",
+  "description": "We are a network of Companies that have joined their forces and competencies to shape the world of work together.",
+  "features": [
+    "Wide network of companies",
+    "Excellent Services"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing services providers",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    ""
+  ],
+  "headquarter": "MUMBAI, MH",
+  "launch_date": "2014",
+  "order": 20632,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "We Shape the World of Work for the Better.",
+  "ProductId": null,
+  "ShortDescription": "We believe that HR will have an increasingly important role to play in order shape our organizations as we exit from COVID-19.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:20.458Z",
+  "enhanced_description": "HR Shapers is a Mumbai-based network of companies established in 2014, collaborating to reshape the world of work. They specifically focus on the evolving and increasingly important role of HR, especially in a post-COVID-19 environment. The primary aim is to boost hiring manager confidence and productivity. The services offered fall under recruiting, including staffing services and HR consulting, leveraging their wide network and excellent services.",
+  "key_use_cases": [
+    "Boosting Hiring Manager Confidence",
+    "Increasing Hiring Manager Productivity",
+    "Talent Sourcing",
+    "Recruitment Process Support",
+    "HR Consulting Services",
+    "Staffing Services"
+  ],
+  "competitive_advantages": [
+    "Wide network of companies",
+    "Excellent Services"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "HR Consulting",
+    "Staffing"
+  ],
+  "roi_benefits": [
+    "Boost Hiring Manager Confidence",
+    "Increase Hiring Manager Productivity",
+    "Potential reduction in Recruiting costs"
+  ],
+  "searchable_keywords": [
+    "HR Shapers",
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    "Staffing services",
+    "HR consulting",
+    "Hiring Manager Confidence",
+    "Hiring Manager Productivity",
+    "World of Work",
+    "HR network",
+    "Talent acquisition"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Professionals"
+  ],
+  "_weight": 1
+}

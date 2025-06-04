@@ -1,0 +1,109 @@
+{
+  "id": 26,
+  "name": "HCL Healthcare",
+  "description": "We help progressive organizations promote a culture of positive health and well-being among their employees through innovative and effective wellness solutions.",
+  "features": [
+    "Clinical Compliance & Analytics ",
+    " Quality",
+    "Customized Solutions",
+    "Experienced In-House Team"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee happiness programs",
+    "Employee happiness metrics"
+  ],
+  "headquarter": "Noida, Uttar Pradesh,India",
+  "launch_date": "2013",
+  "order": 20004,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Delivering Quality and Personalised Healthcare.",
+  "ProductId": null,
+  "ShortDescription": "Bringing Differentiated Values",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": true,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-01-10T07:19:27.622Z",
+  "enhanced_description": "HCL Healthcare offers innovative and effective wellness solutions designed to foster a culture of positive health and well-being among employees within progressive organizations. As both a corporate wellness software provider and a health & safety provider, they deliver customized solutions, supported by an experienced in-house team. The platform emphasizes clinical compliance and analytics, aiming to improve employee happiness and engagement, including the measurement of key happiness metrics.",
+  "key_use_cases": [
+    "Promoting positive employee health and well-being",
+    "Implementing and managing corporate wellness programs",
+    "Ensuring clinical compliance related to employee health initiatives",
+    "Analyzing employee health, well-being, and happiness data",
+    "Enhancing overall employee happiness and engagement",
+    "Providing tailored wellness and health solutions to organizations"
+  ],
+  "competitive_advantages": [
+    "Customized solutions tailored to client needs",
+    "Expertise from an experienced in-house team",
+    "Focus on clinical compliance and data analytics",
+    "Commitment to quality and personalized healthcare"
+  ],
+  "hr_functions_supported": [
+    "Employee Wellness",
+    "Health & Safety",
+    "Total Rewards (Wellness component)",
+    "Employee Engagement",
+    "HR Analytics (related to compliance and well-being metrics)"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Promotion of a positive health and well-being culture",
+    "Ensuring clinical compliance in wellness programs"
+  ],
+  "searchable_keywords": [
+    "HCL Healthcare",
+    "employee health",
+    "employee well-being",
+    "wellness solutions",
+    "corporate wellness software",
+    "health & safety providers",
+    "clinical compliance",
+    "wellness analytics",
+    "customized wellness solutions",
+    "employee happiness programs",
+    "employee happiness metrics",
+    "total rewards",
+    "employee engagement"
+  ],
+  "primary_users": [
+    "HR professionals (Wellness, Total Rewards, Health & Safety, Employee Engagement)",
+    "Employees (recipients of wellness programs)"
+  ],
+  "compliance_features": [
+    "Clinical Compliance & Analytics"
+  ],
+  "_weight": 1
+}

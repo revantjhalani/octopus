@@ -1,0 +1,138 @@
+{
+  "id": 975,
+  "name": "paylocity",
+  "description": "At Paylocity, caring is in our makeup. It\u2019s who we are. We\u2019re more than a cutting-edge HR and payroll tech company with crazy good reviews (just sayin'). We're people. Because people matter most. And people have always been at the heart of our business. Since our founding in 1997, this is the thing that's stayed the same, from our employees to the millions of users nationwide that access our platform every month. We pride ourselves on partnering with our clients to build the workplace you and your employees crave. That's us, in a nutshell. It's nice to meet you. Let's go forward together.",
+  "features": [
+    "Milkstork program for moms who travel on business to ship breastmilk and get fully reimbursed ",
+    "Volunteers In Action program for paid time off to volunteer",
+    "Health and wellness programs ranging from Naturally Slim to Ovia Health to Hinge Health"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "Recruiting",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Staffing services providers",
+    "HR consulting providers",
+    "Payroll services providers"
+  ],
+  "tags": [
+    "Employee empowerment",
+    "Employee engagement",
+    "Recruiting",
+    "Data-driven hiring",
+    ""
+  ],
+  "headquarter": "Schaumburg, Illinois",
+  "launch_date": "1997",
+  "order": 20922,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Simplify processes, break down barriers, and create purpose with connected HR software.",
+  "ProductId": null,
+  "ShortDescription": "Paylocity is an industry-leading provider of cloud-based HR and Payroll solutions. We prioritize the needs of the modern workforce with an intuitive and comprehensive platform, aiming to automate and streamline HR processes, attract and retain talent, and enhance workplace culture.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:38:02.907Z",
+  "enhanced_description": "Paylocity is an industry-leading cloud-based HR and Payroll solutions provider, founded in 1997. It offers an intuitive and comprehensive platform designed to simplify processes, break down barriers, and create purpose within organizations. The platform aims to automate and streamline HR processes, attract and retain talent, and enhance workplace culture, catering to the needs of the modern workforce. With millions of users nationwide, Paylocity prides itself on partnering with clients to foster an optimal employee experience.",
+  "key_use_cases": [
+    "Payroll processing and management",
+    "HR process automation and streamlining",
+    "Talent acquisition and recruiting management",
+    "Talent retention strategies",
+    "Employee engagement initiatives",
+    "Total rewards management (including benefits)",
+    "Employee well-being and wellness program management",
+    "Facilitating work-life balance for employees (e.g., breastmilk shipping for traveling moms)",
+    "Supporting corporate social responsibility through volunteer programs"
+  ],
+  "competitive_advantages": [
+    "Long-standing industry experience (founded in 1997)",
+    "Extensive user base (millions of users nationwide)",
+    "Comprehensive and intuitive cloud-based platform covering HR and Payroll",
+    "Focus on modern workforce needs and workplace culture enhancement",
+    "Client-partnership approach to building desired workplaces",
+    "Specific employee-centric programs (e.g., Milkstork, Volunteers In Action, Health and Wellness)"
+  ],
+  "hr_functions_supported": [
+    "Payroll",
+    "Recruiting",
+    "Total Rewards (including compensation, benefits, and wellness programs)",
+    "HR Process Automation",
+    "Talent Management (attraction and retention)",
+    "Employee Engagement",
+    "Workplace Culture Enhancement"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness and Engagement",
+    "Boosted Hiring Manager Confidence and Productivity",
+    "Faster time to fill open positions",
+    "Streamlined HR processes",
+    "Enhanced talent attraction and retention"
+  ],
+  "searchable_keywords": [
+    "paylocity",
+    "HR",
+    "Payroll",
+    "cloud-based HR",
+    "cloud-based payroll",
+    "HR solutions",
+    "Payroll solutions",
+    "HR technology",
+    "HR software",
+    "connected HR",
+    "recruiting",
+    "total rewards",
+    "employee happiness",
+    "employee engagement",
+    "talent management",
+    "workplace culture",
+    "HR processes",
+    "employee empowerment",
+    "data-driven hiring",
+    "employee benefits",
+    "wellness programs",
+    "breastmilk shipping",
+    "paid time off",
+    "volunteering",
+    "talent acquisition",
+    "employee well-being"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "Payroll administrators",
+    "Employees",
+    "Hiring Managers"
+  ],
+  "deployment_options": [
+    "Cloud"
+  ],
+  "_weight": 1
+}

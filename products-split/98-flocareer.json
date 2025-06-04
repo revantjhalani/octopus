@@ -1,0 +1,157 @@
+{
+  "id": 98,
+  "name": "FloCareer",
+  "description": "FloCareer is an Interview as a Service (IaaS) platform that simplifies candidate selection. Our cutting-edge hiring tools help brands quickly select top candidates from their pool of highly qualified talent. We conduct the candidate\u2019s interview with our team of 5,500+ global interview experts utilizing our library of over 50,000+ skills-based interview questions.",
+  "features": [
+    "Allows users to search for open positions across various industries and locations. ",
+    "Monitor and analyze your key hiring metrics with customisable dashboards helping hiring managers.",
+    "Manage resume screening, interest checks, assessment workflow, scheduling, and follow-up/reminders."
+  ],
+  "founders": [
+    "Mehul Bhatt"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Recruiting automation software",
+    "Recruitment agencies"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Talent acquisition",
+    "Talent sourcing",
+    "Interview scheduling"
+  ],
+  "headquarter": "Burlington",
+  "launch_date": "2018",
+  "order": 20068,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "\nHire Marketing Managers 10x faster, smarter at scale.",
+  "ProductId": null,
+  "ShortDescription": "Simplify Your Job Search with Powerful Tools and Expert Advice.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Unlock the Potential of Your Hiring Process\u200b.",
+      "sequence": 0,
+      "description": "Hiring the right candidates is a critical component of any business\u2019s success. However, traditional hiring processes can be time-consuming, expensive, and often yield suboptimal results. Fortunately, FloCareer offers innovative solutions that can revolutionize your recruitment strategy."
+    },
+    {
+      "name": "Transform the Way You Hire with FloCareer's Intelligent Interview-as-a-Service Platform.",
+      "sequence": 1,
+      "description": "Say goodbye to outdated recruitment methods and hello to a smarter, more efficient approach with FloCareer's Interview-as-a-Service platform.We conduct technical interviews with proven senior developers."
+    },
+    {
+      "name": "Interactive Live Video Interview Platform.",
+      "sequence": 2,
+      "description": "Streamlines your entire hiring process with FloCareer interview platform, providing a hassle-free and more efficient way to schedule, conduct and evaluate interviews."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-26T12:02:33.448Z",
+  "enhanced_description": "FloCareer is an Interview as a Service (IaaS) platform designed to simplify candidate selection and accelerate the hiring process. It leverages a global network of over 5,500 interview experts who conduct technical and skills-based interviews utilizing a library of over 50,000 interview questions. The platform features an interactive live video interview capability and provides tools to manage the entire hiring workflow, including resume screening, interest checks, assessment workflows, scheduling, and follow-up reminders. FloCareer aims to help brands quickly select top candidates by offering a smarter, more efficient approach to recruitment, supported by customizable dashboards for monitoring key hiring metrics.",
+  "key_use_cases": [
+    "Conducting skills-based and technical interviews",
+    "Streamlining interview scheduling, execution, and evaluation",
+    "Managing resume screening and candidate interest checks",
+    "Automating assessment workflows and follow-ups",
+    "Monitoring and analyzing key hiring metrics",
+    "Rapidly selecting top candidates from a talent pool"
+  ],
+  "competitive_advantages": [
+    "Access to a vast network of 5,500+ global interview experts",
+    "Extensive library of over 50,000+ skills-based interview questions",
+    "Interview-as-a-Service (IaaS) delivery model",
+    "Capability to conduct technical interviews with proven senior developers",
+    "Interactive live video interview platform for efficient interview management",
+    "Customizable dashboards for hiring analytics"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based service consumption (Interview as a Service)"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Candidate Screening",
+    "Interview Management",
+    "Hiring Analytics",
+    "Assessment Management"
+  ],
+  "roi_benefits": [
+    "Accelerated time-to-hire",
+    "Improved hiring efficiency",
+    "Enhanced candidate quality and selection accuracy",
+    "Streamlined recruitment operations",
+    "Data-driven hiring decisions through metric analysis",
+    "Potential cost reduction in the hiring process"
+  ],
+  "searchable_keywords": [
+    "FloCareer",
+    "Interview as a Service",
+    "IaaS",
+    "candidate selection",
+    "hiring tools",
+    "talent acquisition",
+    "interview experts",
+    "skills-based interviews",
+    "hiring metrics",
+    "customizable dashboards",
+    "resume screening",
+    "interest checks",
+    "assessment workflow",
+    "interview scheduling",
+    "follow-up reminders",
+    "recruiting software",
+    "recruiting automation",
+    "recruitment agencies",
+    "hiring speed",
+    "hiring efficiency",
+    "talent sourcing",
+    "technical interviews",
+    "live video interview platform",
+    "evaluate interviews",
+    "marketing managers hiring",
+    "senior developers hiring"
+  ],
+  "primary_users": [
+    "Hiring managers",
+    "Recruiters",
+    "Brands (companies)"
+  ],
+  "deployment_options": [
+    "Cloud (SaaS)"
+  ],
+  "scalability_features": [
+    "Supports hiring 'at scale'",
+    "Leverages a large team of 5,500+ global interview experts for high volume capacity"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,163 @@
+{
+  "id": 243,
+  "name": "Rainmaker Online Training Solutions",
+  "description": "Founded in 2016, Rainmaker is India\u2019s top culture and compliance learning solutions company. We specialize in crafting entertaining, impactful short films based on real-life scenarios. Our solutions cover PoSH, DEI, DPP, ABAC, CoC, PIT, Leadership Development, and more, fostering organizational excellence in culture and compliance. We aim to transform learning in organizations, enabling high performance through engaging and dramatized learning experiences.",
+  "features": [
+    "Dramatized E-modules",
+    "Facilitator-Led Workshops",
+    "External Member Empanelment"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Learning Experience Systems (LXPs)"
+  ],
+  "tags": [
+    "Diversity hiring",
+    "Diversity training"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2016",
+  "order": 20209,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Creating ethical and compliance training programs for leading corporates in India",
+  "ProductId": null,
+  "ShortDescription": "Premium Dramatized E-Modules & Instructor-Led Training Solutions",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Unparalleled Expertise",
+      "sequence": 0,
+      "description": "Rainmaker excels in subject-matter expertise, crafting impactful short films based on real-life scenarios to ensure your message resonates effectively."
+    },
+    {
+      "name": "Immersive Engagement",
+      "sequence": 1,
+      "description": "We enhance engagement with interactive content that deeply connects teams, fostering better absorption and behavioral change."
+    },
+    {
+      "name": "Holistic Approach",
+      "sequence": 2,
+      "description": "Rainmaker uniquely integrates compliance and culture learning, creating a safe and ethical workplace environment."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:59.821Z",
+  "enhanced_description": "Rainmaker Online Training Solutions, founded in 2016, is a leading culture and compliance learning solutions company based in India. They specialize in crafting entertaining and impactful short films based on real-life scenarios to transform organizational learning. Their premium offerings include dramatized e-modules and facilitator-led workshops, covering critical topics such as PoSH, DEI, DPP, ABAC, CoC, PIT, and Leadership Development. The company aims to foster organizational excellence in culture and compliance, enabling high performance through engaging and dramatized learning experiences. Rainmaker stands out for its unparalleled subject-matter expertise, immersive engagement strategies that lead to better absorption and behavioral change, and a holistic approach that uniquely integrates compliance and culture learning to create a safe and ethical workplace environment. They also offer external member empanelment services.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Compliance Training (e.g., PoSH, DEI, DPP, ABAC, CoC, PIT)",
+    "Culture Building and Transformation",
+    "Leadership Development",
+    "Diversity and Inclusion Initiatives",
+    "Employee Engagement through immersive learning"
+  ],
+  "competitive_advantages": [
+    "India's top culture and compliance learning solutions company (as claimed)",
+    "Specialization in crafting entertaining, impactful short films based on real-life scenarios",
+    "Unparalleled subject-matter expertise",
+    "Immersive engagement with interactive content for better absorption and behavioral change",
+    "Holistic approach integrating compliance and culture learning",
+    "Offers both dramatized e-modules and facilitator-led workshops"
+  ],
+  "implementation_scenarios": [
+    "Online/eLearning (Dramatized E-modules)",
+    "Blended Learning (combining e-modules with Facilitator-Led Workshops)",
+    "Instructor-Led Training (Facilitator-Led Workshops)"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "HR Compliance",
+    "Diversity, Equity, and Inclusion (DEI)",
+    "Employee Relations"
+  ],
+  "roi_benefits": [
+    "Fosters organizational excellence in culture and compliance",
+    "Enables high performance through engaging learning experiences",
+    "Promotes better absorption and behavioral change among employees",
+    "Contributes to creating a safe and ethical workplace environment",
+    "Supports building a more diverse and inclusive workforce"
+  ],
+  "searchable_keywords": [
+    "Rainmaker Online Training Solutions",
+    "culture learning solutions",
+    "compliance learning solutions",
+    "PoSH training",
+    "DEI training",
+    "DPP training",
+    "ABAC training",
+    "CoC training",
+    "PIT training",
+    "Leadership Development",
+    "dramatized e-modules",
+    "facilitator-led workshops",
+    "online training",
+    "eLearning software",
+    "learning experience systems",
+    "LXP",
+    "diversity training",
+    "ethical training programs",
+    "instructor-led training",
+    "short films training",
+    "real-life scenarios training",
+    "corporate training India"
+  ],
+  "primary_users": [
+    "Employees (all levels)",
+    "Managers",
+    "Leaders",
+    "HR/L&D Professionals",
+    "Compliance Officers",
+    "External Committee Members (for empanelment services)"
+  ],
+  "deployment_options": [
+    "Cloud-based (for E-modules)",
+    "On-site / Virtual (for Facilitator-Led Workshops)"
+  ],
+  "compliance_features": [
+    "PoSH (Prevention of Sexual Harassment) training modules",
+    "DEI (Diversity, Equity, and Inclusion) training modules",
+    "DPP (Data Privacy Protection) training modules",
+    "ABAC (Anti-Bribery and Anti-Corruption) training modules",
+    "CoC (Code of Conduct) training modules",
+    "PIT training modules",
+    "General ethical and compliance training programs",
+    "Supports creation of a safe and ethical workplace environment"
+  ],
+  "scalability_features": [
+    "Supports various company sizes (small, large, global enterprises)",
+    "Online delivery of content via E-modules for wide reach and scalability"
+  ],
+  "_weight": 1
+}

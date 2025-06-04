@@ -1,0 +1,156 @@
+{
+  "id": 829,
+  "name": "Lewis Glanz Consulting",
+  "description": "Lewis Glanz Consulting was founded in the year 2010 in the United Kingdom by Oliver Lewis. In the year 2015, LGC expanded its market and began establishing in the Philippines. Starting from two employees, we are now over 80 employees strong, and we are still continuing to grow. Over the years, LGC ensures that we give the best services both to our clients and candidates, and up until now, we continue to give this service to every individual that we engage with.",
+  "features": [
+    "PAYROLL AND EMPLOYER OF RECORD",
+    "OUTSOURCING SERVICES",
+    "STAFF AUGMENTATION OR CONTRACTING"
+  ],
+  "founders": [
+    "Oliver Lewis"
+  ],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Recruiting",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Onboarding software",
+    "Payroll services providers",
+    "HR management suites"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Employee engagement",
+    "Employee satisfaction"
+  ],
+  "headquarter": "Makati City, Metro Manila",
+  "launch_date": "2015",
+  "order": 20782,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "LGC is a global recruitment solutions partner who helps companies build and scale their teams.",
+  "ProductId": null,
+  "ShortDescription": "Lewis Glanz Consulting was founded in the year 2010 in the United Kingdom by Oliver Lewis.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Recruitment",
+      "sequence": 0,
+      "description": "Lewis Glanz Consulting is a firm that specializes in recruitment solutions and the placement of top-level professionals. Our clients trust us to identify, attract, and recruit talented individuals who will help them achieve their business goals."
+    },
+    {
+      "name": "Payroll And Employer Of Record",
+      "sequence": 1,
+      "description": "Want to save on operational costs and maintain productivity? Our Staff Augmentation service is an ideal solution for clients who need to temporarily fill in a specific role in their organization."
+    },
+    {
+      "name": "Outsourcing Services",
+      "sequence": 2,
+      "description": "Our team of experts will help you manage your company\u2019s payroll, taxes, and benefits so you can focus on growing your business. We handle all the nitty-gritty stuff so you can focus on what matters most: your clients and their needs."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:17.489Z",
+  "enhanced_description": "Lewis Glanz Consulting (LGC) is a global HR solutions partner founded in the United Kingdom in 2010 and expanded to the Philippines in 2015. With over 80 employees, LGC specializes in helping companies build and scale their teams by offering comprehensive recruitment solutions and the placement of top-level professionals. LGC also provides staff augmentation and contracting services to temporarily fill specific roles. Furthermore, LGC offers extensive outsourcing services, including payroll, tax, and benefits management, and acts as an Employer of Record, allowing clients to streamline operations and focus on their core business.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Recruitment and placement of top-level professionals",
+    "Staff augmentation and temporary staffing",
+    "Outsourcing payroll, tax, and benefits management",
+    "Managing legal employment responsibilities as an Employer of Record",
+    "Building and scaling organizational teams",
+    "Achieving business goals through talent acquisition"
+  ],
+  "competitive_advantages": [
+    "Global presence with operations in the UK and Philippines",
+    "Specialization in recruitment and talent placement for top-level professionals",
+    "Comprehensive service offering including payroll, EOR, and staff augmentation",
+    "Demonstrated growth and experience since 2010",
+    "Commitment to providing excellent service to both clients and candidates"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Staffing",
+    "Payroll Management",
+    "Employer of Record",
+    "Benefits Administration",
+    "Tax Compliance",
+    "Workforce Planning",
+    "HR Management"
+  ],
+  "roi_benefits": [
+    "Save on operational costs",
+    "Maintain productivity",
+    "Focus on growing core business",
+    "Achieve business goals through effective talent acquisition",
+    "Ability to build and scale teams efficiently"
+  ],
+  "searchable_keywords": [
+    "Lewis Glanz Consulting",
+    "LGC",
+    "Recruitment",
+    "Talent Acquisition",
+    "Hiring",
+    "Staffing",
+    "Staff Augmentation",
+    "Contracting",
+    "Outsourcing",
+    "Payroll Services",
+    "Employer of Record",
+    "EOR",
+    "HR Consulting",
+    "Talent Management",
+    "Employee Engagement",
+    "Employee Satisfaction",
+    "Global Recruitment",
+    "UK Recruitment",
+    "Philippines Recruitment",
+    "HR Services",
+    "Recruiting software",
+    "Onboarding software",
+    "HR management suites"
+  ],
+  "primary_users": [
+    "HR Managers",
+    "Recruiting Managers",
+    "Business Owners",
+    "Executives (seeking to scale teams)",
+    "Talent Acquisition Teams"
+  ],
+  "compliance_features": [
+    "Compliance with local labor laws and tax regulations (implied by Payroll and Employer of Record services)"
+  ],
+  "scalability_features": [
+    "Supports building and scaling teams",
+    "Offers staff augmentation for flexible workforce scaling"
+  ],
+  "_weight": 1
+}

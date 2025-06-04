@@ -1,0 +1,130 @@
+{
+  "id": 300,
+  "name": "Synergo",
+  "description": "Synergo products are easy to set up, fun to use and, most importantly, directly impacts your human capital's productivity, - wherever, whenever. Connect Workflows to Chat & get real time updates from all your processes directly in your work Groups. Reduce the need for follow ups & redundant internal emails when information is readily accessible & actionable.",
+  "features": [
+    "Transparent Communication",
+    "Collaborative Approach",
+    "Learning flexibility"
+  ],
+  "founders": [
+    "Domenico Tukiman"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Total Rewards",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Payroll services providers",
+    "Machine learning HR"
+  ],
+  "tags": [
+    "Training methodologies"
+  ],
+  "headquarter": "Jakarta, Jakarta Selatan",
+  "launch_date": "2017",
+  "order": 20262,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "The All-in-one Virtual Workplace",
+  "ProductId": null,
+  "ShortDescription": "Synergo combines messaging, collaboration and workflow management all in one app to help organizations of all sizes #DoMore",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:51.306Z",
+  "enhanced_description": "Synergo is an all-in-one virtual workplace solution designed to enhance human capital productivity by combining messaging, collaboration, and workflow management within a single application. It enables real-time updates from various processes directly within work groups by connecting workflows to chat, thereby reducing the need for follow-ups and redundant internal emails. This approach ensures information is readily accessible and actionable, making Synergo an easy-to-set-up and fun-to-use tool for organizations aiming to do more.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Enterprise"
+  ],
+  "key_use_cases": [
+    "Real-time workflow updates",
+    "Internal communication streamlining",
+    "Collaborative work facilitation",
+    "Human capital productivity enhancement",
+    "Skill development acceleration",
+    "Learning efficiency improvement",
+    "Messaging for work groups",
+    "Workflow management"
+  ],
+  "competitive_advantages": [
+    "All-in-one platform for messaging, collaboration, and workflow management",
+    "Streamlined internal communication",
+    "Real-time process updates via chat",
+    "Enhanced human capital productivity",
+    "Ease of setup and use",
+    "Reduced need for follow-ups and redundant internal emails",
+    "Information readily accessible and actionable"
+  ],
+  "hr_functions_supported": [
+    "Payroll",
+    "Learning & Development",
+    "Workforce Productivity Management"
+  ],
+  "technology_stack": [
+    "Machine Learning"
+  ],
+  "roi_benefits": [
+    "Increased human capital productivity",
+    "Reduced internal communication overhead",
+    "Time savings from fewer follow-ups and emails",
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Enhanced organizational efficiency"
+  ],
+  "searchable_keywords": [
+    "Synergo",
+    "virtual workplace",
+    "all-in-one",
+    "messaging",
+    "collaboration",
+    "workflow management",
+    "human capital productivity",
+    "real-time updates",
+    "internal communication",
+    "skill development",
+    "learning efficiency",
+    "HR technology",
+    "payroll services",
+    "machine learning HR",
+    "training methodologies",
+    "productivity software",
+    "workforce management",
+    "chat workflows",
+    "transparent communication",
+    "learning flexibility"
+  ],
+  "primary_users": [
+    "Employees",
+    "Managers",
+    "Teams",
+    "HR professionals"
+  ],
+  "_weight": 1
+}

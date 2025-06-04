@@ -1,0 +1,173 @@
+{
+  "id": 214,
+  "name": "Peoplehum",
+  "description": "A Human Capital Platform, built for the next decade, we're on a mission to transform \"The Future of Work\". The winner of the 2019 Global Codie award, used by organizations around the world. PeopleHum is an intuitive, agile and integrated platform built for a complete multi- generational employee experience, from hiring to performance, engagement and HRMS, with the power of machine learning and automation.",
+  "features": [
+    "Single Sign-On (SSO)",
+    "Hybrid-work friendly",
+    "AI and Automation\n"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Capital Management",
+    "Core HR Software"
+  ],
+  "tags": [
+    "Candidate screening",
+    "Interview scheduling",
+    "Talent acquisition"
+  ],
+  "headquarter": "Union City, California",
+  "launch_date": "2016",
+  "order": 20180,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "A people management platform built for people",
+  "ProductId": null,
+  "ShortDescription": "HRMS platform designed to simplify your employee experience",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Automated hiring to get the best talent",
+      "sequence": 0,
+      "description": "Enhance your talent pool and streamline candidate experiences with peopleHum\u2019s Applicant Tracking System."
+    },
+    {
+      "name": "Say goodbye to filing cabinets with our HRIS",
+      "sequence": 1,
+      "description": "Easily handle employee information, leaves, time & attendance, and shifts with self-service tools."
+    },
+    {
+      "name": "Less time on payroll, more time for people",
+      "sequence": 2,
+      "description": "Discover a system that automates it all\u2014processing, payments, and compliance made easy."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:35.147Z",
+  "enhanced_description": "Peoplehum is an award-winning Human Capital Platform, recognized with the 2019 Global Codie award, designed for a complete multi-generational employee experience across the entire employee lifecycle, from hiring to performance, engagement, and HRMS. This intuitive, agile, and integrated platform is powered by machine learning and automation, offering features such as Single Sign-On (SSO) and support for hybrid work models. Key functionalities include an Applicant Tracking System (ATS) for automated hiring and streamlined candidate experiences, a comprehensive HRIS to manage employee information, leaves, time & attendance, and shifts with self-service tools, and an automated payroll system that simplifies processing, payments, and compliance.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Talent Acquisition",
+    "Employee Information Management",
+    "Leave Management",
+    "Time & Attendance Tracking",
+    "Shift Management",
+    "Payroll Processing",
+    "Performance Management",
+    "Employee Engagement",
+    "HR Self-Service"
+  ],
+  "competitive_advantages": [
+    "Award-winning platform (2019 Global Codie award)",
+    "Integrated platform for complete employee experience (Hiring to HRMS)",
+    "Leverages AI, Machine Learning, and Automation for efficiency",
+    "Supports hybrid work models",
+    "Intuitive and agile user experience",
+    "Streamlined and automated HR processes (e.g., hiring, payroll)"
+  ],
+  "hr_functions_supported": [
+    "Applicant Tracking (ATS)",
+    "Candidate Screening",
+    "Interview Scheduling",
+    "Talent Acquisition",
+    "Core HR (HRIS)",
+    "Employee Information Management",
+    "Leave Management",
+    "Time & Attendance",
+    "Shift Management",
+    "Payroll Management",
+    "Performance Management",
+    "Employee Engagement"
+  ],
+  "technology_stack": [
+    "AI",
+    "Machine Learning",
+    "Automation"
+  ],
+  "integration_capabilities": [
+    "Single Sign-On (SSO)"
+  ],
+  "roi_benefits": [
+    "Faster and more efficient talent acquisition",
+    "Streamlined candidate experiences",
+    "Reduced administrative burden for HR operations",
+    "Improved HR compliance management (payroll)",
+    "Enhanced employee experience across the lifecycle",
+    "Increased HR efficiency through automation"
+  ],
+  "searchable_keywords": [
+    "Peoplehum",
+    "Human Capital Platform",
+    "HRMS",
+    "HCM",
+    "Core HR Software",
+    "Talent Acquisition",
+    "Applicant Tracking System",
+    "ATS",
+    "Candidate Screening",
+    "Interview Scheduling",
+    "Employee Information Management",
+    "Leave Management",
+    "Time & Attendance",
+    "Shift Management",
+    "HRIS",
+    "Payroll Management",
+    "Performance Management",
+    "Employee Engagement",
+    "HR Self-Service",
+    "AI",
+    "Automation",
+    "Machine Learning",
+    "Single Sign-On",
+    "SSO",
+    "Hybrid Work",
+    "People Management"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Recruiters",
+    "Hiring Managers",
+    "Payroll Administrators",
+    "Employees (via self-service)"
+  ],
+  "compliance_features": [
+    "Payroll Compliance"
+  ],
+  "security_features": [
+    "Single Sign-On (SSO)"
+  ],
+  "_weight": 1
+}

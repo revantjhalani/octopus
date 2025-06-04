@@ -1,0 +1,150 @@
+{
+  "id": 238,
+  "name": "Qapita",
+  "description": "Qapita, based in India, Singapore, and Indonesia, revolutionizes global private capital markets with automated equity management for startups. Their software simplifies Cap Tables, ESOPs, and transactions. Qapita's marketplace boosts liquidity through structured programs and secondary transactions, empowering ESOP holders and shareholders. Founded by three co-founders with extensive backgrounds in investment banking and technology, Qapita enables effective ownership management.",
+  "features": [
+    "Easy to Set Up with Concierge Assist",
+    "Accurate & Secure",
+    "Comprehensive & Configurable"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Employee recognition software"
+  ],
+  "tags": [
+    "Employee happiness",
+    "Company culture"
+  ],
+  "headquarter": "Singapore, Singapore  ",
+  "launch_date": "2019",
+  "order": 20204,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "One Unified Platform.\n All Equity Matters.",
+  "ProductId": null,
+  "ShortDescription": "We simplify management of ownership in companies",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "CapTable Management",
+      "sequence": 0,
+      "description": "Manage all your stakeholders, securities & transactions easily."
+    },
+    {
+      "name": "Equity Awards & Employee Engagement",
+      "sequence": 1,
+      "description": "Create plans, grant ESOPs easily and digitally."
+    },
+    {
+      "name": "ESOP Design",
+      "sequence": 2,
+      "description": "One stop advisory and administration platform."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:55.358Z",
+  "enhanced_description": "Qapita is a unified platform for automated equity management, designed to revolutionize global private capital markets. Based in India, Singapore, and Indonesia, it simplifies the management of company ownership by streamlining Cap Tables, ESOPs, and related transactions. The platform offers features like easy setup with concierge assist, accurate and secure data management, and comprehensive, configurable tools for CapTable management, equity awards, employee engagement, and ESOP design. Qapita also provides a marketplace to boost liquidity for ESOP holders and shareholders through structured programs and secondary transactions, empowering effective ownership management for startups.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Automated equity management for startups",
+    "Simplifying Cap Table management",
+    "Streamlining ESOP creation, granting, and administration",
+    "Managing equity awards for employee engagement",
+    "Facilitating secondary transactions and liquidity for shareholders and ESOP holders",
+    "Stakeholder, securities, and transaction management"
+  ],
+  "competitive_advantages": [
+    "Automation in equity management processes",
+    "Simplification of complex Cap Table, ESOP, and transaction management",
+    "Dedicated marketplace for boosting liquidity through structured programs and secondary transactions",
+    "Concierge assist for easy setup",
+    "High accuracy and security of data",
+    "Comprehensive and configurable platform for diverse equity needs",
+    "Unified platform for all equity matters"
+  ],
+  "hr_functions_supported": [
+    "Equity Compensation Management (ESOPs, Equity Awards)",
+    "Employee Engagement (linked to equity)",
+    "Total Rewards Management",
+    "Employee Recognition (specifically equity-based)"
+  ],
+  "roi_benefits": [
+    "Increased efficiency and reduced administrative burden in equity management",
+    "Enhanced liquidity and financial flexibility for shareholders and ESOP holders",
+    "Improved employee happiness and engagement through effective equity management",
+    "Reduced risk and improved data integrity through accurate and secure systems"
+  ],
+  "searchable_keywords": [
+    "Qapita",
+    "equity management",
+    "Cap Table",
+    "ESOP",
+    "employee stock option",
+    "private capital",
+    "startups",
+    "liquidity",
+    "secondary transactions",
+    "shareholder management",
+    "ownership management",
+    "total rewards",
+    "employee engagement",
+    "equity awards",
+    "stock options",
+    "share management",
+    "company ownership",
+    "stock plan administration",
+    "employee happiness",
+    "company culture",
+    "equity compensation",
+    "cap table software",
+    "ESOP software",
+    "equity platform",
+    "unified platform",
+    "digital equity",
+    "investment banking",
+    "securities management"
+  ],
+  "primary_users": [
+    "Startup founders",
+    "Company management",
+    "HR teams",
+    "Finance teams",
+    "ESOP holders",
+    "Shareholders"
+  ],
+  "security_features": [
+    "Accurate & Secure"
+  ],
+  "_weight": 1
+}

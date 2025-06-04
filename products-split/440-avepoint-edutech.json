@@ -1,0 +1,150 @@
+{
+  "id": 440,
+  "name": "AvePoint EduTech",
+  "description": "In 2001, our founders were busy preparing to bring our first product to market \u2014 a backup solution for Microsoft's email service, Exchange. Shortly after, their focus quickly turned to providing a backup solution for a new Microsoft product that offered site-based collaboration: SharePoint 2001. Today, our platform to optimize SaaS operations and secure collaboration is hosted across 14 global datacenters for unmatched scalability, and to support data sovereignty requirements. Our cloud platform is certified against leading security accreditations and boasts one of the largest SaaS userbases in the Microsoft 365 ecosystem. We have pushed the boundaries of enterprise digital collaboration with first-to-market technologies for two decades. More than half of our workforce \u2013 including our senior leadership team \u2013 are technologists.",
+  "features": [
+    "We value quick, informed decision-making to meet and exceed customer expectations. We subscribe to a growth mindset, which contributes to our entrepreneurial and learning spirit.",
+    "Drive and energy are contagious here; we are not just going through the motions. We do things that are impactful and as a result, amplify our customers\u2019 success.",
+    "We are invested in the success of our colleagues, partners, customers, and community. We do this by promoting global collaboration and taking pride in helping, sharing, mentoring, and coaching each other."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Artificial intelligence",
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Learning speed"
+  ],
+  "headquarter": "Jersey City, New Jersey",
+  "launch_date": "2001",
+  "order": 20400,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Collaborate with confidence",
+  "ProductId": null,
+  "ShortDescription": "AvePoint provides the most advanced platform to optimize SaaS operations and secure collaboration. More than 17,000 customers worldwide rely on our solutions to make them more productive, compliant and secure.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": [],
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": false,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:27:23.952Z",
+  "enhanced_description": "AvePoint EduTech provides a specialized platform focused on accelerating skill development and learning efficiency, leveraging AvePoint's two decades of expertise in optimizing SaaS operations and securing enterprise digital collaboration. Originally known for pioneering backup solutions for Microsoft Exchange and SharePoint, AvePoint's cloud platform now supports over 17,000 customers worldwide. It is hosted across 14 global datacenters, ensuring unmatched scalability and compliance with data sovereignty requirements. The platform is certified against leading security accreditations and is a significant player in the Microsoft 365 ecosystem, empowering organizations to enhance productivity, compliance, and security within their learning and development initiatives through advanced training management systems and learning experience platforms (LXPs).",
+  "ideal_company_sizes": [
+    "Enterprise"
+  ],
+  "key_use_cases": [
+    "Training management",
+    "Learning experience delivery",
+    "Skill development facilitation",
+    "Optimizing learning efficiency",
+    "Securing digital collaboration in learning environments",
+    "Ensuring compliance in L&D operations"
+  ],
+  "competitive_advantages": [
+    "Pioneering history with first-to-market technologies in enterprise digital collaboration",
+    "Extensive experience and large userbase within the Microsoft 365 ecosystem",
+    "Unmatched scalability supported by 14 global datacenters",
+    "Support for data sovereignty requirements",
+    "Certified against leading security accreditations",
+    "Deep technological expertise within workforce and leadership (more than half are technologists)",
+    "Customer-centric approach focused on impactful solutions and customer success"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Training Management",
+    "Learning Experience Management"
+  ],
+  "technology_stack": [
+    "SaaS/Cloud Platform",
+    "Microsoft 365 Ecosystem",
+    "Artificial Intelligence"
+  ],
+  "integration_capabilities": [
+    "Microsoft 365 ecosystem"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Increased learning efficiency",
+    "Improved training effectiveness",
+    "Enhanced productivity",
+    "Strengthened compliance",
+    "Improved security for collaboration and learning data"
+  ],
+  "searchable_keywords": [
+    "AvePoint",
+    "EduTech",
+    "Learning and Development",
+    "L&D",
+    "Training management system",
+    "LXP",
+    "Learning Experience Platform",
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Learning speed",
+    "Artificial Intelligence",
+    "AI",
+    "HR technology",
+    "HR software",
+    "SaaS operations",
+    "Secure collaboration",
+    "Microsoft 365",
+    "SharePoint",
+    "Cloud platform",
+    "Data sovereignty",
+    "Security compliance",
+    "Enterprise collaboration",
+    "Productivity",
+    "Compliance",
+    "Security"
+  ],
+  "primary_users": [
+    "HR Professionals (specifically L&D teams)",
+    "Training Managers",
+    "Learning Administrators",
+    "Employees/Learners"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "compliance_features": [
+    "Support for data sovereignty requirements",
+    "Certified against leading security accreditations"
+  ],
+  "scalability_features": [
+    "Hosted across 14 global datacenters for unmatched scalability"
+  ],
+  "security_features": [
+    "Secure collaboration capabilities",
+    "Certified against leading security accreditations"
+  ],
+  "_weight": 1
+}

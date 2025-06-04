@@ -1,0 +1,130 @@
+{
+  "id": 747,
+  "name": "International HR Institute",
+  "description": "IHRI is a leadind professional organization for professional development and lifelong learning for the HR management profession. HR to be south east Asia's center of excellence in shaping the future of the HR management profession.",
+  "features": [
+    "Leading by example",
+    "Putting people first",
+    "Service with collective purpose"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Training management system"
+  ],
+  "tags": [
+    "Learning efficiency",
+    "Adaptive learning",
+    "Training effectiveness"
+  ],
+  "headquarter": "Manila, PH",
+  "launch_date": "2012",
+  "order": 20700,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Future thinking, now.",
+  "ProductId": null,
+  "ShortDescription": "IHRI is a leadind professional organization for professional development and lifelong learning for the HR management profession.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Focus on Professional Development",
+      "sequence": 0,
+      "description": "The article discusses professional development and lifelong learning. IHRI offers certifications, courses, and degrees to help professionals stay competitive in the job market. This highlights IHRI's commitment to helping people advance their careers."
+    },
+    {
+      "name": "Importance of Continuous Learning",
+      "sequence": 1,
+      "description": "The document emphasizes the importance of staying up-to-date on the latest technologies and best practices. This suggests that IHRI's programs are designed to equip learners with the latest knowledge and skills needed to succeed in their fields."
+    },
+    {
+      "name": "Variety of Learning Options",
+      "sequence": 2,
+      "description": "IHRI offers certifications, courses, and degrees, providing a variety of learning options to cater to different needs and preferences. This flexible approach allows learners to choose the program that best suits their goals and schedules."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:33:41.086Z",
+  "enhanced_description": "The International HR Institute (IHRI) is a leading professional organization established in 2012 and headquartered in Manila, Philippines. Dedicated to professional development and lifelong learning, IHRI aims to be Southeast Asia's center of excellence in shaping the future of the HR management profession. Through its programs, which include certifications, courses, and degrees, IHRI focuses on accelerating skill development, enhancing learning efficiency, and ensuring training effectiveness for HR professionals. The institute emphasizes continuous learning to equip individuals with the latest knowledge and skills needed to stay competitive and succeed in the evolving HR landscape.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Professional development for HR professionals",
+    "Lifelong learning for the HR management profession",
+    "Accelerating HR skill development",
+    "Enhancing learning efficiency for HR professionals",
+    "Improving training effectiveness in HR",
+    "Obtaining HR certifications, courses, and degrees",
+    "Staying current with HR technologies and best practices"
+  ],
+  "competitive_advantages": [
+    "Positioned as a leading professional organization for HR professional development and lifelong learning",
+    "Aspiration to be Southeast Asia's center of excellence in shaping the future of HR management",
+    "Offers a variety of learning options including certifications, courses, and degrees",
+    "Programs designed to equip learners with the latest knowledge and skills needed for career advancement"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Enhanced learning efficiency",
+    "Improved training effectiveness",
+    "Increased competitiveness in the HR job market",
+    "Equipping learners with up-to-date knowledge and skills",
+    "Career advancement for HR professionals"
+  ],
+  "searchable_keywords": [
+    "International HR Institute",
+    "IHRI",
+    "HR professional development",
+    "lifelong learning HR",
+    "HR management profession",
+    "Learning and Development",
+    "Training eLearning software",
+    "Training management system",
+    "Learning efficiency",
+    "Adaptive learning",
+    "Training effectiveness",
+    "HR certifications",
+    "HR courses",
+    "HR degrees",
+    "Continuous learning HR",
+    "Skill development HR",
+    "HR best practices",
+    "HR technology"
+  ],
+  "primary_users": [
+    "HR professionals",
+    "HR learners"
+  ],
+  "_weight": 1
+}

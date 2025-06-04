@@ -1,0 +1,155 @@
+{
+  "id": 1293,
+  "name": "Amaha",
+  "description": "Amaha's services include self-care, peer support, therapy, psychiatric care, and much more, available both in-person at our centres in Mumbai, Bangalore, and Delhi, and online through call or video.\n\nAt Amaha, our teams consists of 110+ psychiatrists, and therapists, who provide support in 15+ Indian languages. In the last 2 years alone, we have completed over 50,000 therapy sessions and supported over 4.5 million people across 300+ Indian cities through our digital resource bank and self-help app.\n\nWe're proud to have partnered with over 50+ leading organisations to help build mentally healthy and resilient workforces through our Workplace Emotional Well-being Programmes. Our approach empowers employees with high-quality mental healthcare, so they have the tools they need to thrive.\n\nWe know everyone is different - and so are their needs, which is why we offer a range of personalisations to tailor our solutions to your unique needs. Whether you need therapy, psychiatry support, or access to self-care resources, we're here to support you. No matter where you are in your mental health journey, we will meet you there and partner with you. ",
+  "features": [
+    "Psychiatry",
+    "Therapy",
+    "Psychometric Assessments",
+    "Workplace Emotional Wellbeing Programmes"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee happiness",
+    "Employee happiness programs"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2016",
+  "order": 21118,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Your Mental Health Partner",
+  "ProductId": null,
+  "ShortDescription": "Amaha's services include self-care, peer support, therapy, psychiatric care, and much more, available both in-person at their centres in Mumbai, Bangalore, and Delhi, and online through call or video.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Community",
+      "sequence": 0,
+      "description": "The Amaha Mental Health community is a safe space to share your struggles & get peer support."
+    },
+    {
+      "name": "Self-Care",
+      "sequence": 1,
+      "description": "The Amaha app is a digital powerhouse of mental health resources. Get access to a personalised plan with 600+ tools, activities, articles & daily reminders to make mental healthcare a part of your routine."
+    },
+    {
+      "name": "Therapy & Psychiatry",
+      "sequence": 2,
+      "description": "Our in-house team of mental health therapist and psychiatrists is highly qualified and trained to deliver quality and compassionate clinical treatment."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:12.171Z",
+  "enhanced_description": "Amaha offers a comprehensive mental health and emotional well-being solution for individuals and organizations. For businesses, Amaha provides Workplace Emotional Well-being Programmes designed to build mentally healthy and resilient workforces. These programs empower employees with high-quality mental healthcare, including access to a large in-house team of 110+ psychiatrists and therapists supporting over 15 Indian languages. Services are delivered both online (via call/video and a self-help app with 600+ tools, activities, and articles) and in-person at centers in Mumbai, Bangalore, and Delhi. With a proven track record of over 50,000 therapy sessions and supporting over 4.5 million people across 300+ Indian cities, Amaha provides personalized mental health support tailored to individual needs, encompassing self-care, peer support, therapy, and psychiatric care. The platform also offers psychometric assessments and a safe peer support community.",
+  "key_use_cases": [
+    "Providing comprehensive mental health support to employees",
+    "Offering individual therapy and psychiatric care sessions",
+    "Facilitating employee self-care through digital resources and personalized plans",
+    "Enabling peer support communities for employee well-being",
+    "Conducting psychometric assessments for mental health insights",
+    "Implementing tailored workplace emotional well-being programs for organizations"
+  ],
+  "competitive_advantages": [
+    "Extensive in-house team of 110+ psychiatrists and therapists",
+    "Support available in 15+ Indian languages",
+    "Hybrid service delivery model: in-person centers in major Indian cities (Mumbai, Bangalore, Delhi) and online (call/video)",
+    "Proven track record with over 50,000 therapy sessions completed",
+    "Broad reach, having supported over 4.5 million people across 300+ Indian cities digitally",
+    "Established partnerships with 50+ leading organizations for workplace programs",
+    "Comprehensive self-care app with 600+ tools, activities, articles, and daily reminders"
+  ],
+  "implementation_scenarios": [
+    "Employer-sponsored mental health and well-being programs for employees",
+    "Integration into existing corporate wellness initiatives",
+    "Direct access for employees to services via online platforms (app, call, video)",
+    "Access to in-person mental healthcare services at designated centers for employees"
+  ],
+  "hr_functions_supported": [
+    "Employee Well-being Management",
+    "Benefits Administration (as part of Total Rewards)",
+    "Employee Assistance Programs (EAP)",
+    "Occupational Health & Safety"
+  ],
+  "roi_benefits": [
+    "Improved employee mental health and emotional well-being",
+    "Increased employee resilience and productivity within the workforce",
+    "Potential for reduced absenteeism and presenteeism due to mental health concerns",
+    "Enhanced employee morale and retention through comprehensive support"
+  ],
+  "searchable_keywords": [
+    "Amaha",
+    "Mental Health",
+    "Well-being",
+    "Emotional Well-being",
+    "Employee Well-being",
+    "Workplace Wellness",
+    "Corporate Wellness",
+    "Psychiatry",
+    "Therapy",
+    "Counseling",
+    "Psychometric Assessments",
+    "Self-care",
+    "Peer Support",
+    "Employee Happiness",
+    "Employee Assistance Programs",
+    "EAP",
+    "Digital Mental Health",
+    "Telehealth",
+    "Online Therapy",
+    "In-person Therapy",
+    "Corporate Programs",
+    "HR Tech",
+    "Total Rewards",
+    "Health & Safety",
+    "Workforce Resilience",
+    "Employee Support App"
+  ],
+  "primary_users": [
+    "HR Leaders and Managers",
+    "Benefits Administrators",
+    "Wellness Program Managers",
+    "Employees (as recipients of mental health services)"
+  ],
+  "deployment_options": [
+    "Online (web/mobile app for self-care and digital resources)",
+    "Telehealth (call or video for therapy and psychiatric care)",
+    "In-person (at Amaha's centers in Mumbai, Bangalore, and Delhi)"
+  ],
+  "scalability_features": [
+    "Extensive digital resource bank and self-help app supports a large user base concurrently",
+    "Telehealth model allows for scalable delivery of therapy and psychiatric care across geographies",
+    "Large in-house team of 110+ professionals provides significant service capacity",
+    "Proven ability to support millions of individuals (4.5 million) and thousands of sessions (50,000) across numerous cities (300+)"
+  ],
+  "_weight": 1
+}

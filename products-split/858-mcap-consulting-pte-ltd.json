@@ -1,0 +1,152 @@
+{
+  "id": 858,
+  "name": "MCAP Consulting Pte Ltd",
+  "description": "MCAP Consulting, headquartered in Singapore, is a search & recruitment business that takes pride in winning businesses through vast networks and relationship building. We work with multiple clients across domains, including Financial Services, Consulting, Sales & Marketing, Shipping & Logistics, FMCG, and Technology \u2013 customizing our recruitment solutions based on our Client Partner\u2019s needs. At MCAP Consulting, we cover Permanent and Executive Search Recruitment, working on both retained and contingent searches across industries",
+  "features": [
+    "Contingency Searches",
+    "Talent Mapping",
+    "Project-Based Engagements"
+  ],
+  "founders": [
+    "Leon Cutler"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting",
+    "Learning and Development",
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Training & development companies",
+    "Human Capital Management"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    "Skill development"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2020",
+  "order": 20811,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "People. Opportunities. Connected.",
+  "ProductId": null,
+  "ShortDescription": "MCAP Consulting, headquartered in Singapore, is a search & recruitment business.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Specialization in Industry Recruitment",
+      "sequence": 0,
+      "description": "MCAP Consulting is a search and recruitment business that specializes in recruiting industry professionals [1]. This suggests that they have a deep understanding of the specific needs of different industries and can help businesses find the qualified candidates they need."
+    },
+    {
+      "name": "Focus on Various Domains",
+      "sequence": 1,
+      "description": "They work with clients across various domains including Financial Services, Consulting, Sales & Marketing, Shipping & Logistics, FMCG, and Technology [1]. This means that they can help businesses in a wide range of industries find the right talent."
+    },
+    {
+      "name": "Permanent and Executive Search",
+      "sequence": 2,
+      "description": "They offer both Permanent and Executive Search Recruitment services [1]. This means that they can help businesses fill both permanent and temporary positions."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:49.215Z",
+  "enhanced_description": "MCAP Consulting is a Singapore-headquartered search and recruitment business specializing in connecting people with opportunities. They pride themselves on building vast networks and strong relationships to win business. MCAP Consulting provides customized recruitment solutions for clients across diverse domains, including Financial Services, Consulting, Sales & Marketing, Shipping & Logistics, FMCG, and Technology. Their services encompass both Permanent and Executive Search Recruitment, operating on both retained and contingent search models. Key offerings include contingency searches, talent mapping, and project-based engagements, all aimed at boosting hiring manager confidence and productivity.",
+  "target_industries": [
+    "Financial Services",
+    "Consulting",
+    "Sales & Marketing",
+    "Shipping & Logistics",
+    "FMCG",
+    "Technology"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Permanent Recruitment",
+    "Executive Search",
+    "Contingency Recruitment",
+    "Talent Mapping Services",
+    "Project-Based Hiring Engagements"
+  ],
+  "competitive_advantages": [
+    "Extensive networks and relationship-building approach",
+    "Customized recruitment solutions tailored to client needs",
+    "Specialization in diverse industry domains",
+    "Ability to conduct both retained and contingent searches",
+    "Expertise in Permanent and Executive Search recruitment"
+  ],
+  "implementation_scenarios": [
+    "Retained Search Engagements",
+    "Contingent Search Engagements",
+    "Project-Based Engagements"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Talent Sourcing"
+  ],
+  "roi_benefits": [
+    "Boosted Hiring Manager Confidence",
+    "Increased Hiring Manager Productivity",
+    "Access to specialized industry talent",
+    "Efficient filling of permanent and executive positions"
+  ],
+  "searchable_keywords": [
+    "MCAP Consulting",
+    "recruitment",
+    "hiring",
+    "talent sourcing",
+    "executive search",
+    "permanent recruitment",
+    "contingency searches",
+    "talent mapping",
+    "project-based engagements",
+    "Singapore recruitment",
+    "Financial Services recruitment",
+    "Consulting recruitment",
+    "Sales & Marketing recruitment",
+    "Shipping & Logistics recruitment",
+    "FMCG recruitment",
+    "Technology recruitment",
+    "HR consulting",
+    "talent acquisition"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Leaders",
+    "Talent Acquisition Teams"
+  ],
+  "_weight": 1
+}

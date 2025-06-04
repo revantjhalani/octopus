@@ -1,0 +1,144 @@
+{
+  "id": 865,
+  "name": "MentorMind",
+  "description": "Inspired through various diverse academic & professional experiences, it has been the MentorMind team\u2019s long standing mission to improve the practicality of undergraduate education in India & other emerging economies. Hence, was born MentorMind. With a lot of emerging economies undergoing a severe skill crunch, a focused emphasis on practical professional skills is the need of the hour. With multiple iterations made to the initial value proposition, MentorMind was built to be the platform it is today over a a period of 15 months of validation from the Indian undergraduate student market. MentorMind is an online platform where students & young professionals can access & work on real-time work situations in the form of Menternship. These Menternships are procured in collaboration with organisations from various industrial & functional backgrounds. A Simple user interface coupled with game concepts facilitates an engaging experience.",
+  "features": [
+    "Gain Real-time work experience, online.",
+    "Multiple job functions from multiple industries.",
+    "Certifications from partner companies, adding to your professional profile."
+  ],
+  "founders": [
+    "Luvieen Alva",
+    "Megha Gajjala"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Training management system"
+  ],
+  "tags": [
+    "Skill development",
+    "Skill acquisition",
+    "Adaptive learning"
+  ],
+  "headquarter": "Hyderabad, Telangana",
+  "launch_date": "2017",
+  "order": 20818,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Online Mentored Work Experiences - Certified by Top Companies - For the Workforce of Tomorrow!",
+  "ProductId": null,
+  "ShortDescription": "MentorMind is on a mission to build equitable access to opportunity for all. We are bridging the skills gap through experiential learning.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Virtual, Mentored Work Experiences",
+      "sequence": 0,
+      "description": "MentorMind offers virtual, mentored work experiences that are co-created with top companies [1]. This means that you can gain real-world experience working on real projects with guidance from experienced mentors."
+    },
+    {
+      "name": "Build Skills in High-Demand Careers",
+      "sequence": 1,
+      "description": "MentorMind's programs are designed to help you build skills in careers that are in high demand [1]. They partner with a variety of companies across different industries, so you can find a program that aligns with your interests."
+    },
+    {
+      "name": "Co-Created Programs with Top Companies",
+      "sequence": 2,
+      "description": "MentorMind's work experiences are co-created with top companies, such as Uber and BlueYonder [1]. This means that the programs are relevant to the current needs of the industry and will help you develop the skills that employers are looking for."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:56.546Z",
+  "enhanced_description": "MentorMind is an online platform established in 2017 with a mission to improve the practicality of undergraduate education and bridge the severe skill crunch in India and other emerging economies. It offers 'Menternships,' which are virtual, mentored work experiences providing students and young professionals with access to real-time work situations. These programs are co-created in collaboration with top companies from various industrial and functional backgrounds, such as Uber and BlueYonder, ensuring relevance to high-demand careers. The platform features a simple user interface coupled with game concepts to facilitate an engaging learning experience and provides certifications from partner companies to enhance professional profiles. MentorMind aims to accelerate skill development and learning efficiency through experiential learning, ultimately building equitable access to opportunity for all.",
+  "target_industries": [
+    "Multiple industries (for program co-creation and skill development)"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Gaining real-time, online work experience for students and young professionals",
+    "Skill development and acquisition in high-demand careers",
+    "Bridging the skills gap through experiential learning",
+    "Improving the practicality of undergraduate education",
+    "Obtaining industry-recognized certifications from partner companies",
+    "Providing virtual, mentored work experiences"
+  ],
+  "competitive_advantages": [
+    "Online platform for 'Menternships' offering real-time work situations",
+    "Programs co-created with and certified by top companies (e.g., Uber, BlueYonder)",
+    "Focus on improving undergraduate education practicality in India and emerging economies",
+    "Experiential learning model to bridge the skills gap",
+    "Engaging user experience facilitated by game concepts",
+    "Virtual and mentored work experiences"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Training Management",
+    "eLearning"
+  ],
+  "roi_benefits": [
+    "Enhanced professional profiles for students/young professionals through certifications and real-time experience",
+    "Accelerated skill development and learning efficiency for users",
+    "Improved readiness of the future workforce for partner companies through skill development",
+    "Equitable access to opportunities for students and young professionals"
+  ],
+  "searchable_keywords": [
+    "MentorMind",
+    "Skill development",
+    "Skill acquisition",
+    "Adaptive learning",
+    "Learning and Development",
+    "Training eLearning software",
+    "Training management system",
+    "Real-time work experience",
+    "Online work experience",
+    "Menternship",
+    "Virtual work experience",
+    "Mentored experiences",
+    "Experiential learning",
+    "Skills gap",
+    "High-demand careers",
+    "Certifications",
+    "Professional profile",
+    "Undergraduate education",
+    "Young professionals",
+    "India",
+    "Emerging economies"
+  ],
+  "primary_users": [
+    "Undergraduate students",
+    "Students",
+    "Young professionals"
+  ],
+  "deployment_options": [
+    "Cloud-based (Online Platform)"
+  ],
+  "_weight": 1
+}

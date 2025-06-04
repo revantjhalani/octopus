@@ -1,0 +1,151 @@
+{
+  "id": 307,
+  "name": "Talkpush",
+  "description": "Talkpush automates the repetitive parts of sourcing, screening and hiring talent, using various technologies such as chatbots, artificial intelligence, automated workflows, robotic process automation and optical character recognition to do in a fraction of a second what would normally take days or week to do manually. We talk with candidates on any channel their prefer, including SMS and email, as well as messaging platforms like Facebook Messenger, WhatsApp or Telegram, to make candidates more accessible to our customers.",
+  "features": [
+    "Targeted Reach",
+    "Authentic Employer Branding",
+    "Data-Driven Recruitment"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting automation software"
+  ],
+  "tags": [
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "Hong Kong",
+  "launch_date": "2014",
+  "order": 20269,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Recruitment Automation you Can Control",
+  "ProductId": null,
+  "ShortDescription": "Talkpush is the leading automated recruiting solution that helps you engage, nurture and hire talents faster.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Candidate Engagement ",
+      "sequence": 0,
+      "description": "nstantly engage with candidates through their preferred communication channels, all from a singular platform. Save time and ensure consistent and personalized interaction."
+    },
+    {
+      "name": "Behavioral-Driven Workflows",
+      "sequence": 1,
+      "description": "Use Talkpush\u2019s adaptive workflows designed around candidate behaviors and boost your application completion rates."
+    },
+    {
+      "name": "Wide Reach",
+      "sequence": 2,
+      "description": "Connect with an advertising expert that will generate the best formula to help you find the ideal candidates that will generate a cost efficient formula to for your positions."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:58.182Z",
+  "enhanced_description": "Talkpush is an automated recruiting solution designed to streamline and accelerate the sourcing, screening, and hiring processes. It leverages advanced technologies including chatbots, artificial intelligence (AI), automated workflows, robotic process automation (RPA), and optical character recognition (OCR) to perform tasks in a fraction of the time traditionally required. The platform facilitates instant and personalized candidate engagement across their preferred communication channels, such as SMS, email, Facebook Messenger, WhatsApp, and Telegram, all from a single platform. Talkpush features behavioral-driven workflows to adapt to candidate actions and boost application completion rates. It supports targeted candidate reach and authentic employer branding, underpinned by a data-driven approach to recruitment, aiming to help organizations hire top talent faster and more efficiently. The 'Wide Reach' highlight also suggests a capability to connect with advertising experts for cost-efficient candidate generation.",
+  "key_use_cases": [
+    "Automating repetitive parts of sourcing talent",
+    "Automating repetitive parts of screening talent",
+    "Automating repetitive parts of hiring talent",
+    "Engaging candidates instantly through preferred communication channels",
+    "Nurturing talent throughout the recruitment process",
+    "Boosting application completion rates through behavioral-driven workflows",
+    "Implementing data-driven recruitment strategies",
+    "Achieving targeted candidate reach",
+    "Maintaining authentic employer branding during recruitment",
+    "Generating cost-efficient candidate pools"
+  ],
+  "competitive_advantages": [
+    "Significant time savings through automation (from days/weeks to seconds)",
+    "Multi-channel candidate engagement (SMS, email, Facebook Messenger, WhatsApp, Telegram)",
+    "Leveraging advanced technologies like chatbots, AI, RPA, and OCR for efficiency",
+    "Behavioral-driven workflows that adapt to candidate behavior to improve completion rates",
+    "Data-driven recruitment insights for better decision-making",
+    "Ability to control recruitment automation processes",
+    "Support for authentic employer branding during the hiring process"
+  ],
+  "hr_functions_supported": [
+    "Recruitment (Sourcing)",
+    "Recruitment (Screening)",
+    "Recruitment (Hiring)",
+    "Candidate Relationship Management (CRM)",
+    "Employer Branding",
+    "Recruitment Analytics"
+  ],
+  "technology_stack": [
+    "Chatbots",
+    "Artificial Intelligence (AI)",
+    "Automated Workflows",
+    "Robotic Process Automation (RPA)",
+    "Optical Character Recognition (OCR)"
+  ],
+  "integration_capabilities": [
+    "SMS communication",
+    "Email communication",
+    "Facebook Messenger integration",
+    "WhatsApp integration",
+    "Telegram integration"
+  ],
+  "roi_benefits": [
+    "Faster talent acquisition",
+    "More efficient talent acquisition",
+    "Reduced manual effort and time spent on repetitive tasks",
+    "Improved candidate engagement and personalized interaction",
+    "Increased application completion rates",
+    "Cost-efficient candidate generation"
+  ],
+  "searchable_keywords": [
+    "Talkpush",
+    "Recruitment automation",
+    "Hiring automation",
+    "Automated recruiting solution",
+    "Sourcing automation",
+    "Screening automation",
+    "AI in recruitment",
+    "Chatbot recruiting",
+    "RPA in HR",
+    "OCR in HR",
+    "Candidate engagement platform",
+    "Multi-channel communication",
+    "SMS recruiting",
+    "WhatsApp recruiting",
+    "Facebook Messenger recruiting",
+    "Telegram recruiting",
+    "Data-driven hiring",
+    "Talent acquisition automation",
+    "Behavioral workflows",
+    "Employer branding recruitment"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Talent Acquisition teams"
+  ],
+  "_weight": 1
+}

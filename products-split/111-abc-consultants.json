@@ -1,0 +1,135 @@
+{
+  "id": 111,
+  "name": "ABC Consultants",
+  "description": "ABC Consultants is India's leading executive search and talent advisory firm, proudly shaping the future of multinationals and Indian businesses for over 50 years. \r\n\r\nTheir team of 150 consultants spans 22 industry verticals and brings an agile mind-set, an empathetic perspective and an entrepreneurial spirit to every client engagement. We have helped our clients hire top-tier leadership talent, driving success stories across diverse industries.",
+  "features": [
+    "Executive Search",
+    "Leadership Hiring",
+    "Independent Reference Checks",
+    "Leadership Outplacement",
+    "HR Consulting Services"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing services providers",
+    "Recruitment agencies",
+    "HR consulting providers"
+  ],
+  "tags": [
+    "Talent pipeline",
+    "Talent acquisition",
+    "Hiring best practices"
+  ],
+  "headquarter": "New Delhi, India",
+  "launch_date": "1969",
+  "order": 20081,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Building Careers. Building Organisations.",
+  "ProductId": null,
+  "ShortDescription": "ABC Consultants is India's leading executive search and talent advisory firm, proudly shaping the future of multinationals and Indian businesses for over 50 years.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Leaders in Executive Search:",
+      "sequence": 0,
+      "description": "ABC Consultants positions itself as a leading recruitment firm specializing in executive search and talent advisory for senior roles."
+    },
+    {
+      "name": "Over 50 Years of Experience",
+      "sequence": 1,
+      "description": "The company emphasizes its extensive experience in the industry, suggesting a strong track record and established network."
+    },
+    {
+      "name": "Building Successful Careers & Businesses",
+      "sequence": 2,
+      "description": "ABC Consultants highlights its focus on achieving positive outcomes for both candidates and companies they serve."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-26T12:47:47.518Z",
+  "enhanced_description": "ABC Consultants is India's premier executive search and talent advisory firm, boasting over 50 years of experience in shaping the future of multinational and Indian businesses. With a dedicated team of 150 consultants operating across 22 diverse industry verticals, the firm brings an agile mindset, empathetic perspective, and entrepreneurial spirit to every client engagement. They specialize in identifying and hiring top-tier leadership talent and senior roles, providing services such as executive search, leadership hiring, independent reference checks, leadership outplacement, and general HR consulting services, ultimately helping organizations drive success and build strong careers.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Executive Search for senior roles",
+    "Leadership Hiring initiatives",
+    "Independent Reference Checks for candidates",
+    "Leadership Outplacement support",
+    "General HR Consulting Services"
+  ],
+  "competitive_advantages": [
+    "Market leader in executive search and talent advisory in India",
+    "Over 50 years of extensive industry experience and established network",
+    "Team of 150 consultants spanning 22 industry verticals",
+    "Focus on achieving positive outcomes for both candidates and companies",
+    "Agile, empathetic, and entrepreneurial approach to client engagement"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Staffing",
+    "HR Consulting",
+    "Outplacement Services"
+  ],
+  "roi_benefits": [
+    "Access to top-tier leadership talent",
+    "Improved quality of hires for senior roles",
+    "Strategic guidance in talent acquisition and HR",
+    "Support for successful career transitions during outplacement"
+  ],
+  "searchable_keywords": [
+    "ABC Consultants",
+    "India",
+    "Executive Search",
+    "Talent Advisory",
+    "Leadership Hiring",
+    "HR Consulting",
+    "Recruitment Agency",
+    "Staffing Services",
+    "Independent Reference Checks",
+    "Leadership Outplacement",
+    "Talent Pipeline",
+    "Talent Acquisition",
+    "Hiring Best Practices",
+    "New Delhi",
+    "Consultants",
+    "Senior Roles",
+    "Multinational Businesses",
+    "Indian Businesses"
+  ],
+  "primary_users": [
+    "HR Leaders",
+    "Talent Acquisition Leaders",
+    "Business Leaders",
+    "Senior Executives (seeking outplacement services)"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,145 @@
+{
+  "id": 545,
+  "name": "Edstellar Solutions",
+  "description": "Edstellar is a strategic training delivery partner for organizations as an all-in one platform for Instructor-led training, delivered onsite or virtually, for global teams. With an extensive catalog of over 1000 tailored programs across various disciplines (Technical, Behavioural, Functional, Compliance, Leadership and Social Impact). Edstellar simplifies training management through features such as customizable scheduling, trainer selection, HRMS integration, and AI-driven training suggestions. The platform also offers valuable tools like a skill matrix for skill gap analysis, training completion reports, certificate and attendance management, easing the reporting process for L&D teams.",
+  "features": [
+    "Access our network of industry experts",
+    "Industry standard training programs",
+    "Best in class training methodology"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Course authoring",
+    "Corporate LMS",
+    "Training management system"
+  ],
+  "tags": [
+    "Learning optimisation",
+    "Continuous learning",
+    "Skill development",
+    "Training effectiveness"
+  ],
+  "headquarter": "Bengaluru South, Karnataka",
+  "launch_date": "2021",
+  "order": 20505,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Instructor-led Managed Training SaaS Platform",
+  "ProductId": null,
+  "ShortDescription": "Edstellar is a strategic training delivery partner for organizations as an all-in one platform for Instructor-led training, delivered onsite or virtually, for global teams.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:29:36.637Z",
+  "enhanced_description": "Edstellar Solutions is an all-in-one, managed SaaS platform designed to be a strategic training delivery partner for organizations. It specializes in Instructor-led training, delivered both onsite and virtually, catering to global teams. The platform offers an extensive catalog of over 1000 tailored programs across various disciplines, including Technical, Behavioural, Functional, Compliance, Leadership, and Social Impact. Edstellar simplifies comprehensive training management with features like customizable scheduling, trainer selection, HRMS integration, and AI-driven training suggestions. As a Corporate LMS and Training Management System, it also provides valuable tools such as a skill matrix for skill gap analysis, training completion reports, and certificate and attendance management, significantly easing the reporting processes for L&D teams and supporting continuous learning and skill development.",
+  "key_use_cases": [
+    "Delivering instructor-led training (onsite and virtual) for global teams",
+    "Managing end-to-end training logistics, including scheduling and trainer selection",
+    "Identifying and addressing skill gaps through skill matrix analysis",
+    "Generating comprehensive training reports (completion, attendance, certificates) for L&D teams",
+    "Facilitating continuous learning and skill development initiatives",
+    "Managing corporate learning and development programs",
+    "Leveraging AI for personalized training suggestions"
+  ],
+  "competitive_advantages": [
+    "Extensive catalog of over 1000 tailored programs across diverse disciplines",
+    "AI-driven training suggestions for personalized learning paths",
+    "Access to a network of industry experts for training delivery",
+    "Offers best-in-class training methodology",
+    "Provides industry-standard training programs",
+    "All-in-one platform for instructor-led training management"
+  ],
+  "implementation_scenarios": [],
+  "hr_functions_supported": [
+    "Learning and Development (L&D)",
+    "Training Management",
+    "Skill Management / Skill Gap Analysis"
+  ],
+  "technology_stack": [
+    "AI (for training suggestions)"
+  ],
+  "integration_capabilities": [
+    "HRMS integration"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development and improved learning efficiency",
+    "Simplified and streamlined training management processes",
+    "Reduced administrative burden for L&D teams through automated reporting and management",
+    "Enhanced training effectiveness through tailored programs and expert delivery",
+    "Optimization of learning outcomes through continuous learning focus"
+  ],
+  "searchable_keywords": [
+    "Edstellar Solutions",
+    "Edstellar",
+    "training delivery partner",
+    "all-in-one platform",
+    "Instructor-led training",
+    "onsite training",
+    "virtual training",
+    "global teams",
+    "tailored programs",
+    "Technical training",
+    "Behavioural training",
+    "Functional training",
+    "Compliance training",
+    "Leadership training",
+    "Social Impact training",
+    "training management",
+    "customizable scheduling",
+    "trainer selection",
+    "HRMS integration",
+    "AI-driven training suggestions",
+    "skill matrix",
+    "skill gap analysis",
+    "training completion reports",
+    "certificate management",
+    "attendance management",
+    "L&D teams",
+    "Learning and Development",
+    "Course authoring",
+    "Corporate LMS",
+    "Training management system",
+    "Learning optimisation",
+    "Continuous learning",
+    "Skill development",
+    "Training effectiveness",
+    "Managed Training",
+    "SaaS Platform"
+  ],
+  "primary_users": [
+    "L&D teams within organizations",
+    "HR departments managing training initiatives",
+    "Trainers/Industry Experts (leveraged through the platform)",
+    "Employees/Global teams (as training participants)"
+  ],
+  "deployment_options": [
+    "SaaS (Software as a Service) / Cloud-based"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,104 @@
+{
+  "id": 78,
+  "name": "Intuit",
+  "description": " Intuit has been on India's Best Companies to Work For list by the Great Place to Work. This year, we\u2019re #15! At Intuit India our employees do the best work of their lives and focus on disruptive, bold and meaningful innovation that powers prosperity approximately 100 million customers around the world.",
+  "features": [
+    "#15 On India's Best Place to Work list",
+    "1000+ Engineers who are building Intuit",
+    "4.5MN QuickBooks users globally trust Intuit"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee satisfaction",
+    "Employee well being",
+    "Employee benefits",
+    "Employee recognition"
+  ],
+  "headquarter": "Mountain View, California\r",
+  "launch_date": "1983",
+  "order": 20054,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The global financial technology platform that powers prosperity.",
+  "ProductId": null,
+  "ShortDescription": "At Intuit, we are powering prosperity around the world.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "AI-Driven Innovation",
+      "sequence": 0,
+      "description": "  Intuit leverages artificial intelligence to offer smarter and more efficient financial solutions."
+    },
+    {
+      "name": "Financial Literacy Focus",
+      "sequence": 1,
+      "description": "Intuit goes beyond software, offering initiatives to educate individuals and students about personal finance."
+    },
+    {
+      "name": "Commitment to Sustainability",
+      "sequence": 2,
+      "description": " Intuit addresses climate change through partnerships and focuses on building a sustainable future."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-06-28T04:45:51.976Z",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Global Enterprise"
+  ],
+  "competitive_advantages": [
+    "AI-Driven Innovation (for financial solutions)",
+    "Established global user base (4.5M QuickBooks users)"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence"
+  ],
+  "searchable_keywords": [
+    "Intuit",
+    "financial technology",
+    "global financial platform",
+    "QuickBooks",
+    "AI",
+    "HR software",
+    "employee engagement",
+    "employee satisfaction",
+    "employee well being",
+    "employee benefits",
+    "employee recognition",
+    "financial literacy",
+    "sustainability",
+    "small enterprise",
+    "global enterprise"
+  ],
+  "_weight": 1
+}

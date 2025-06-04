@@ -1,0 +1,156 @@
+{
+  "id": 159,
+  "name": "Quess",
+  "description": "Quess passion for delivering exceptional services, augmented by proprietary digital platforms, has strongly established our credentials as India\u2019s largest employer in the private sector and the biggest integrated business services provider in the country. With 500,000+ employees spread across 9 countries, we serve over 3,000 clients. We are proud to achieve this success as a 15-year old start-up. Quess offers managed outsourcing for sales, customer care, back office, telecom, manufacturing, facilities, security, HR, IT, and more.",
+  "features": [
+    "Extensive Staffing & Outsourcing Solutions",
+    "Large Workforce & Geographic Reach",
+    "Focus on Productivity & Positive Workplace Culture"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting automation software",
+    "Recruiting software",
+    "Onboarding software"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Hiring tools"
+  ],
+  "headquarter": "Bangalore, Karnataka",
+  "launch_date": "2007",
+  "order": 20126,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "India's leading business services company",
+  "ProductId": null,
+  "ShortDescription": "Enhancing client productivity through digital products & domain expertise.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Workforce Management",
+      "sequence": 0,
+      "description": "We provide advanced solutions for end-to-end recruitment, general staffing, executive hiring, and more."
+    },
+    {
+      "name": " Operating Asset Management",
+      "sequence": 1,
+      "description": "We offer quality, enhanced productivity, and efficiency through our comprehensive asset management services."
+    },
+    {
+      "name": " Global Technology Solutions",
+      "sequence": 2,
+      "description": "We equip your business with the best of technology to support customization, growth, and future-readiness."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:38.601Z",
+  "enhanced_description": "Quess is India's largest private sector employer and the biggest integrated business services provider, operating across 9 countries and serving over 3,000 clients with 500,000+ employees. Leveraging proprietary digital platforms and domain expertise, Quess enhances client productivity through managed outsourcing services. These services encompass a broad range of areas including sales, customer care, back office, telecom, manufacturing, facilities, security, HR, and IT. Specifically within HR, Quess provides end-to-end recruitment, general staffing, executive hiring, and onboarding solutions, underpinned by their focus on workforce management and global technology solutions for customization and future-readiness. The company aims to boost hiring manager confidence and productivity.",
+  "target_industries": [
+    "Telecom",
+    "Manufacturing",
+    "Facilities Management",
+    "Security Services",
+    "IT Services"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "End-to-end recruitment solutions",
+    "General staffing solutions",
+    "Executive hiring solutions",
+    "Recruiting automation",
+    "Onboarding management",
+    "Managed outsourcing for HR functions",
+    "Managed outsourcing for sales and customer care operations",
+    "Managed outsourcing for back office operations",
+    "Managed outsourcing for IT services",
+    "Managed outsourcing for facilities management",
+    "Managed outsourcing for security services"
+  ],
+  "competitive_advantages": [
+    "India's largest private sector employer and integrated business services provider",
+    "Extensive global reach (9 countries)",
+    "Large workforce (500,000+ employees) and client base (3,000+ clients)",
+    "Leverages proprietary digital platforms and products",
+    "Deep domain expertise across various sectors",
+    "Strong focus on enhancing client productivity and efficiency"
+  ],
+  "implementation_scenarios": [
+    "Managed outsourcing of HR functions",
+    "Managed outsourcing of various business processes (e.g., sales, customer care, back office, IT, facilities, security)"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Staffing (General Staffing, Executive Hiring)",
+    "Onboarding",
+    "Workforce Management"
+  ],
+  "roi_benefits": [
+    "Increased hiring manager confidence",
+    "Improved hiring manager productivity",
+    "Enhanced client productivity",
+    "Improved operational efficiency through managed services"
+  ],
+  "searchable_keywords": [
+    "Quess",
+    "HR Outsourcing",
+    "Staffing Solutions",
+    "Recruitment Services",
+    "Managed Services",
+    "Business Process Outsourcing (BPO)",
+    "Talent Acquisition",
+    "Workforce Management",
+    "Executive Search",
+    "General Staffing",
+    "Recruiting Software",
+    "Onboarding Software",
+    "HR Technology",
+    "India HR Services",
+    "Global Staffing",
+    "Productivity Enhancement",
+    "Digital Platforms",
+    "Hiring Tools",
+    "Recruiting Automation"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Departments",
+    "Business Leaders/Clients utilizing outsourcing services"
+  ],
+  "scalability_features": [
+    "Capacity to manage a large and distributed workforce (500,000+ employees across 9 countries)",
+    "Technology solutions designed to support business growth and future-readiness for clients"
+  ],
+  "_weight": 1
+}

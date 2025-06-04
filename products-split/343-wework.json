@@ -1,0 +1,159 @@
+{
+  "id": 343,
+  "name": "Wework",
+  "description": "Whether you\u2019re an established enterprise or a growing startup, discover flexible spaces and solutions to move your business forward with WeWork. Welcome to the workplace of tomorrow. Optimize your office footprint with WeWork and save on your real estate costs while expanding your team\u2019s access to best-in-class office space. Empower your teams to work wherever they are with WeWork\u2019s global locations and suite of innovative solutions.",
+  "features": [
+    "A global portfolio that works for you",
+    "Spaces for productivity and collaboration",
+    "The flexibility to adapt"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration services"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee happiness",
+    "Employee well being",
+    "Employee happiness programs"
+  ],
+  "headquarter": "New York, NY",
+  "launch_date": "2010",
+  "order": 20305,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Reimagine your workspace.",
+  "ProductId": null,
+  "ShortDescription": "Flexible office is a powerful part of workplace strategy",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "A global portfolio that works for you",
+      "sequence": 0,
+      "description": "WeWork offers a range of enterprise workspace solutions from coworking memberships to private offices and full-floors at hundreds of locations across 30+ countries."
+    },
+    {
+      "name": "Spaces for productivity and collaboration",
+      "sequence": 1,
+      "description": "Our move-in ready spaces are designed leveraging our insights and best practices to bring teams together and do their best work."
+    },
+    {
+      "name": "The flexibility to adapt",
+      "sequence": 2,
+      "description": "Future-proof your business with flexible options designed for your unique needs. Choose from a selection of personalized options to make the space your own."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:45.207Z",
+  "enhanced_description": "WeWork provides flexible workspace solutions, including coworking memberships, private offices, and full-floors, across hundreds of global locations in 30+ countries. Designed for both established enterprises and growing startups, these move-in ready spaces are optimized for productivity and collaboration, allowing businesses to save on real estate costs and efficiently expand their office footprint. Positioned as a key component of Total Rewards, WeWork empowers teams to work wherever they are, contributing to employee well-being, happiness, and engagement by offering flexible options to adapt to unique business needs and future-proof workplace strategies.",
+  "ideal_company_sizes": [
+    "Small Business",
+    "Mid-market",
+    "Enterprise"
+  ],
+  "key_use_cases": [
+    "Workplace strategy optimization",
+    "Real estate cost reduction",
+    "Support for flexible and hybrid work models",
+    "Enhancing employee experience and well-being",
+    "Facilitating team collaboration and productivity",
+    "Rapid team expansion and global market entry",
+    "Providing employee benefits related to workspace"
+  ],
+  "competitive_advantages": [
+    "Extensive global portfolio across 30+ countries",
+    "Variety of flexible space solutions (coworking, private offices, full-floors)",
+    "Move-in ready spaces designed for productivity and collaboration",
+    "Ability to optimize office footprint and reduce real estate costs",
+    "Supports employee well-being and engagement through flexible work options"
+  ],
+  "implementation_scenarios": [
+    "Coworking memberships",
+    "Private office solutions",
+    "Full-floor office leases",
+    "Move-in ready workspace setups"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards Management",
+    "Benefits Administration",
+    "Employee Engagement",
+    "Employee Well-being",
+    "Workplace Experience Management",
+    "Workforce Planning (flexible space management)"
+  ],
+  "roi_benefits": [
+    "Savings on real estate costs",
+    "Optimized office footprint and utilization",
+    "Enhanced access to best-in-class office spaces for teams",
+    "Improved employee productivity and collaboration",
+    "Increased employee satisfaction and engagement",
+    "Business agility through flexible space options",
+    "Future-proofing workplace strategy against changing needs"
+  ],
+  "searchable_keywords": [
+    "Wework",
+    "flexible office",
+    "coworking",
+    "private offices",
+    "full-floors",
+    "workspace",
+    "workplace solutions",
+    "office space",
+    "real estate",
+    "office footprint",
+    "global locations",
+    "hybrid work",
+    "remote work",
+    "employee well-being",
+    "employee happiness",
+    "employee engagement",
+    "total rewards",
+    "benefits",
+    "benefits administration",
+    "productivity",
+    "collaboration",
+    "workplace strategy",
+    "adaptability",
+    "future-proof"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Business Leaders",
+    "Facilities Managers",
+    "Real Estate Managers",
+    "Employees"
+  ],
+  "deployment_options": [
+    "On-site (physical locations provided by WeWork)"
+  ],
+  "scalability_features": [
+    "Flexible options for changing business needs",
+    "Range of workspace solutions from individual memberships to full floors",
+    "Global portfolio to support expansion across countries"
+  ],
+  "_weight": 1
+}

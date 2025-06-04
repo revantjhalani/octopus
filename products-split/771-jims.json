@@ -1,0 +1,142 @@
+{
+  "id": 771,
+  "name": "JIMS",
+  "description": "Students at JIMS are introduced with diverse industry-to industry working styles. ",
+  "features": [
+    "Offer International business PGDM",
+    "Offer retail business PGDM",
+    "Assocaite with NBA"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Course authoring",
+    "Corporate LMS"
+  ],
+  "tags": [
+    "Learning optimisation",
+    "Continuous learning"
+  ],
+  "headquarter": "Rohini , Delhi",
+  "launch_date": "1993",
+  "order": 20724,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Devloping capabilities for business Leadership",
+  "ProductId": null,
+  "ShortDescription": "Jims offer professional education at post graduate and graduate levels in the fields of Management and Information Technology.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Placemets",
+      "sequence": 0,
+      "description": "JIMS is involved in rigorous placement and pre-placement activities for broadening the job opportunities for its students. Alumni interaction sessions are organized on regular basis to mentor the students for industry and career perspectives."
+    },
+    {
+      "name": "Exposure",
+      "sequence": 1,
+      "description": "Students at JIMS are introduced with diverse industry-to industry working styles. This helps students in mastering the concepts of end-to-end delivery of the commodities."
+    },
+    {
+      "name": "Research",
+      "sequence": 2,
+      "description": "Students under non-university subjects are galvanized to innovate a conceptual solution in the form of research papers and consultancy projects."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:08.321Z",
+  "enhanced_description": "JIMS (Jagannath International Management School) is an established educational institution launched in 1993, offering professional education at post-graduate and graduate levels in the fields of Management and Information Technology. Positioned to develop capabilities for business leadership, JIMS provides specialized PGDM programs, including International Business and Retail Business. The curriculum introduces students to diverse industry working styles, focusing on mastering concepts of end-to-end delivery. JIMS is associated with NBA (likely National Board of Accreditation), signifying adherence to quality standards. The institution prioritizes skill development and learning efficiency, offering rigorous placement and pre-placement activities, alumni interaction sessions for mentorship, and opportunities for students to innovate through research papers and consultancy projects.",
+  "target_industries": [
+    "Retail",
+    "International Business"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerating skill development for professionals",
+    "Developing capabilities for business leadership",
+    "Providing professional education in Management and Information Technology",
+    "Enhancing career readiness and placement opportunities for students",
+    "Fostering industry-specific knowledge in International and Retail Business",
+    "Promoting research and practical problem-solving through consultancy projects"
+  ],
+  "competitive_advantages": [
+    "Association with NBA (likely accreditation/quality assurance)",
+    "Rigorous placement and pre-placement activities for career support",
+    "Regular alumni interaction for mentorship and industry perspectives",
+    "Focus on diverse industry working styles and end-to-end delivery for practical exposure",
+    "Emphasis on research and conceptual solution innovation"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Talent Management"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development and learning efficiency for individuals",
+    "Development of business leadership capabilities",
+    "Improved career opportunities and placement rates for talent",
+    "Enhanced practical industry exposure for future workforce",
+    "Contribution to innovation through research and consultancy"
+  ],
+  "searchable_keywords": [
+    "JIMS",
+    "professional education",
+    "post graduate",
+    "graduate",
+    "Management",
+    "Information Technology",
+    "business leadership",
+    "skill development",
+    "learning efficiency",
+    "International business PGDM",
+    "retail business PGDM",
+    "NBA accreditation",
+    "Learning and Development",
+    "Corporate LMS",
+    "Course authoring",
+    "Learning optimisation",
+    "Continuous learning",
+    "Placements",
+    "career development",
+    "alumni interaction",
+    "industry exposure",
+    "research",
+    "consultancy projects",
+    "executive education"
+  ],
+  "primary_users": [
+    "Students",
+    "Professionals seeking higher education"
+  ],
+  "compliance_features": [
+    "NBA association (implies adherence to national educational standards/accreditation)"
+  ],
+  "_weight": 1
+}

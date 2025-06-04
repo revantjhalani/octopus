@@ -1,0 +1,115 @@
+{
+  "id": 967,
+  "name": "Parent Circle",
+  "description": "ParentCircle empowers parents to raise successful children through holistic parenting. \u2018Success\u2019 can mean different things to different parents and different children. It may be about the successes in everyday life, or success in sports, academics or any other endeavor, or success in a career, or success in life. At ParentCircle our goal is to support parents as they strive to set up their children for success and ensuing happiness. As they say it takes a village to raise a child. Our mission is to bring together parents, educators, health specialists, child experts and professionals to share their knowledge and experiences to support the physical, emotional, social and intellectual development of children to ensure their success across all fields of endeavour. In India, we are pioneers in providing holistic parenting content in English and in a regional language, Tamil. We reach out to all segments of parents - from parents of infants to parents of teens through our magazines, online portal and apps.",
+  "features": [
+    "positive parenting skills",
+    "building trust parent-child relationships",
+    "Children's education & Children's activities"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Training management system",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Skill development",
+    "Skill acquisition",
+    "Employee well being",
+    "Employee benefits"
+  ],
+  "headquarter": "Chennai, TamilNadu",
+  "launch_date": "2010",
+  "order": 20914,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Confident Parent, Confident Child",
+  "ProductId": null,
+  "ShortDescription": "Every child needs a circle of love and security to grow and thrive. We at ParentCircle are building that circle of connected caring parents and experts to raise happy, healthy confident children.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:37:52.743Z",
+  "enhanced_description": "ParentCircle is a comprehensive holistic parenting platform designed to empower employees who are parents, supporting them in raising successful and happy children. Delivered through magazines, an online portal, and mobile applications, it provides expert content and resources on positive parenting skills, building parent-child trust, and managing children's education and activities, from infancy through teenage years. Positioned within an organization's Total Rewards and Learning & Development strategy, ParentCircle serves as an employee benefit aimed at improving employee happiness and engagement, and indirectly accelerating skill development and learning efficiency by fostering a supportive work-life balance.",
+  "key_use_cases": [
+    "Providing employee benefits focused on family and parenting support",
+    "Enhancing employee well-being and engagement by addressing family needs",
+    "Supporting employees' work-life balance",
+    "Offering resources for parenting challenges and child development"
+  ],
+  "competitive_advantages": [
+    "Pioneering holistic parenting content in English and Tamil (India specific)",
+    "Comprehensive coverage for parents of infants to teens",
+    "Multi-channel content delivery via magazines, online portal, and apps"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards",
+    "Employee Benefits",
+    "Employee Well-being",
+    "Employee Engagement",
+    "Learning and Development (indirectly, through improved employee focus and morale)"
+  ],
+  "roi_benefits": [
+    "Improved Employee Happiness and Engagement",
+    "Accelerated Employee Skill Development and Learning Efficiency",
+    "Enhanced Employee Well-being"
+  ],
+  "searchable_keywords": [
+    "Parenting",
+    "Holistic Parenting",
+    "Child Development",
+    "Parent-Child Relationships",
+    "Children's Education",
+    "Children's Activities",
+    "Positive Parenting",
+    "Employee Benefits",
+    "Employee Well-being",
+    "Employee Engagement",
+    "Family Support",
+    "Total Rewards",
+    "Work-Life Balance",
+    "Skill Development",
+    "Skill Acquisition"
+  ],
+  "primary_users": [
+    "Employees (who are parents)",
+    "HR Professionals (for managing and offering the benefit)",
+    "Parents (direct end-users)",
+    "Educators",
+    "Health Specialists",
+    "Child Experts",
+    "Professionals (who contribute content)"
+  ],
+  "deployment_options": [
+    "Cloud/SaaS (online portal and apps)"
+  ],
+  "_weight": 1
+}

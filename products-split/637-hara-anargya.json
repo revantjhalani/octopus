@@ -1,0 +1,150 @@
+{
+  "id": 637,
+  "name": "Hara Anargya",
+  "description": "PT Hara Anargya is a leading organization in providing end to end human resources consulting services that form the basic building blocks required for implementing the Human Resources Management. This includes training, workshop, talent recruitment & selection, methodology development, tools implementation, and other services in HR. Hara Anargya has been a strategic partner for companies and institutions through talent technology. Innovation plays a considerable role in the success of our client solution, to 'go digital' with many layer, from custom software to web and mobile apps development.",
+  "features": [
+    "Test results in the form of a results report are available immediately after the participant has finished taking them, greatly helping time efficiency.",
+    "To prevent fraud, supervision is carried out in accordance with the provisions of supervision standards and verification is carried out from the start before testing.",
+    "With accurate and reliable test measuring equipment, we guarantee that the report results you get can be trusted."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Talent Management",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "HR management suites",
+    "Human Resource Information Systems (HRIS)"
+  ],
+  "tags": [
+    "Hiring",
+    "Hiring automation",
+    "Hiring efficiency",
+    "Candidate screening",
+    "Hiring costs",
+    "Talent acquisition costs"
+  ],
+  "headquarter": "Bandung, Jawa Barat",
+  "launch_date": "2020",
+  "order": 20594,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "HR Management Solutions \u2015Effective, Reliable, Leading!",
+  "ProductId": null,
+  "ShortDescription": "PT Hara Anargya is a leading organization in providing end to end human resources consulting services.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:31:35.203Z",
+  "enhanced_description": "PT Hara Anargya provides comprehensive end-to-end human resources consulting services, forming the foundational elements for effective Human Resources Management. Their offerings include HR training, workshops, talent recruitment & selection, methodology development, and tools implementation. As a strategic partner, Hara Anargya leverages talent technology to facilitate digital transformation for companies and institutions, encompassing custom software, web, and mobile application development. A key aspect of their talent technology is their digital assessment platform, designed for efficiency with immediate result reports, robust fraud prevention through supervision and pre-test verification, and a guarantee of accurate and reliable test outcomes.",
+  "key_use_cases": [
+    "Digital talent assessment",
+    "Online candidate screening",
+    "Custom HR software development (web and mobile applications)",
+    "HR methodology development and implementation",
+    "Talent recruitment and selection consulting",
+    "Implementation of HR management tools"
+  ],
+  "competitive_advantages": [
+    "Immediate availability of test results for enhanced time efficiency in recruitment processes",
+    "Robust fraud prevention measures and pre-test verification ensure assessment integrity",
+    "Guaranteed accuracy and reliability of test results for confident decision-making",
+    "Offers end-to-end human resources consulting services",
+    "Focus on innovation and digital transformation in HR through custom software development",
+    "Strategic partnership approach to client solutions"
+  ],
+  "implementation_scenarios": [
+    "Custom HR software development and deployment",
+    "Integration and implementation of third-party HR tools",
+    "Consulting and implementation of HR methodologies"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition (Recruitment, Selection, Candidate Screening)",
+    "Talent Management",
+    "HR Management (HRIS/HRMS/HCM related services)",
+    "Training and Development",
+    "HR Consulting"
+  ],
+  "roi_benefits": [
+    "Improved time efficiency in candidate screening",
+    "Increased hiring manager confidence in talent assessment outcomes",
+    "Enhanced hiring manager productivity",
+    "Potential reduction in overall hiring costs",
+    "Potential reduction in talent acquisition costs",
+    "More reliable and accurate data for hiring decisions"
+  ],
+  "searchable_keywords": [
+    "Hara Anargya",
+    "HR consulting",
+    "human resources management",
+    "HR training",
+    "HR workshops",
+    "talent recruitment",
+    "talent selection",
+    "HR methodology development",
+    "HR tools implementation",
+    "talent technology",
+    "custom HR software",
+    "web apps development",
+    "mobile apps development",
+    "digital HR solutions",
+    "HR digital transformation",
+    "online assessments",
+    "candidate testing",
+    "immediate test results",
+    "hiring efficiency",
+    "fraud prevention in testing",
+    "accurate talent assessment",
+    "reliable HR reporting",
+    "HRMS",
+    "HCM",
+    "Talent Management",
+    "HR management suites",
+    "HRIS",
+    "Hiring automation",
+    "candidate screening",
+    "HR costs reduction",
+    "talent acquisition costs reduction",
+    "HR management solutions"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Recruiters",
+    "Hiring Managers",
+    "Company Leadership"
+  ],
+  "compliance_features": [
+    "Adherence to supervision standards to prevent fraud during assessments"
+  ],
+  "security_features": [
+    "Fraud prevention during candidate testing",
+    "Participant verification conducted before testing",
+    "Supervised testing environment"
+  ],
+  "_weight": 1
+}

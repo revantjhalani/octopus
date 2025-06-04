@@ -1,0 +1,170 @@
+{
+  "id": 47,
+  "name": "HR Easily",
+  "description": "HReasily, part of the HR Innovations Group, is a leading HR-Tech company in Asia, serving over 68,000 businesses across multiple countries. Our cloud-based suite includes payroll, leave, claims, time & attendance, and employee onboarding solutions. More than just a platform, we're your partners, offering seamless and efficient business operations with features like facial recognition and scheduling.",
+  "features": [
+    "Full-service payroll",
+    "Facial recognition",
+    "Mobile app on the go"
+  ],
+  "founders": [
+    "Theo Marshal Silalahi "
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee satisfaction",
+    "Company culture"
+  ],
+  "headquarter": "Singapore",
+  "launch_date": "2015",
+  "order": 20024,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Automate your HR processes anytime, anywhere.",
+  "ProductId": null,
+  "ShortDescription": "The one-stop HR software you need",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Seamless integration",
+      "sequence": 0,
+      "description": "Automating processes with seamless integration to your software and hardware."
+    },
+    {
+      "name": "Multi-country coverage",
+      "sequence": 1,
+      "description": "Available in Thailand, Singapore, Hong Kong, Malaysia, Indonesia, and Cambodia."
+    },
+    {
+      "name": "Self-service platform",
+      "sequence": 2,
+      "description": "Apply and approve leaves, claims, receive payslips, and clock in and out anytime, anywhere."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-30T10:18:30.224Z",
+  "enhanced_description": "HReasily, part of the HR Innovations Group, is a leading cloud-based HR-Tech company in Asia, serving over 68,000 businesses across multiple countries, including Thailand, Singapore, Hong Kong, Malaysia, Indonesia, and Cambodia. It offers a comprehensive, one-stop HR software suite designed to automate HR processes anytime, anywhere. This suite includes core HR functions such as full-service payroll, leave management, claims processing, time & attendance, and employee onboarding solutions. Key features include facial recognition for time tracking, a mobile app for on-the-go access, and a self-service platform enabling employees to apply for and approve leaves, submit claims, receive payslips, and clock in/out. HReasily aims to provide seamless integration with existing software and hardware for efficient business operations.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Payroll management",
+    "Leave management",
+    "Claims processing",
+    "Time and attendance tracking",
+    "Employee onboarding",
+    "Employee self-service for HR tasks",
+    "HR process automation"
+  ],
+  "competitive_advantages": [
+    "Leading HR-Tech presence in Asia",
+    "Extensive customer base (over 68,000 businesses)",
+    "Cloud-based HR suite",
+    "Multi-country support (e.g., Thailand, Singapore, Hong Kong, Malaysia, Indonesia, Cambodia)",
+    "Employee self-service capabilities",
+    "Seamless integration with software and hardware",
+    "Facial recognition for time & attendance",
+    "Mobile accessibility"
+  ],
+  "implementation_scenarios": [
+    "Integration with existing software systems",
+    "Integration with existing hardware systems",
+    "Cloud-based deployment"
+  ],
+  "hr_functions_supported": [
+    "Payroll",
+    "Leave Management",
+    "Claims Management",
+    "Time & Attendance",
+    "Employee Onboarding",
+    "Core HR"
+  ],
+  "technology_stack": [
+    "Cloud-based",
+    "Mobile",
+    "Facial Recognition Technology"
+  ],
+  "integration_capabilities": [
+    "Seamless integration with existing software",
+    "Seamless integration with existing hardware"
+  ],
+  "roi_benefits": [
+    "Improved operational efficiency",
+    "Automation of HR processes",
+    "Enhanced employee happiness and engagement",
+    "Reduced administrative burden"
+  ],
+  "searchable_keywords": [
+    "HR Easily",
+    "HReasily",
+    "HR-Tech",
+    "cloud-based HR",
+    "payroll software",
+    "leave management",
+    "claims management",
+    "time & attendance",
+    "employee onboarding",
+    "facial recognition",
+    "mobile app",
+    "HRMS",
+    "HCM",
+    "Core HR software",
+    "employee engagement",
+    "employee satisfaction",
+    "company culture",
+    "Asia HR software",
+    "Singapore HR",
+    "Thailand HR",
+    "Hong Kong HR",
+    "Malaysia HR",
+    "Indonesia HR",
+    "Cambodia HR",
+    "HR process automation",
+    "one-stop HR software",
+    "self-service HR",
+    "HR innovations group"
+  ],
+  "primary_users": [
+    "HR Administrators",
+    "HR Managers",
+    "Employees",
+    "Team Leaders/Managers"
+  ],
+  "deployment_options": [
+    "Cloud-based"
+  ],
+  "_weight": 1
+}

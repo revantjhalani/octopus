@@ -1,0 +1,150 @@
+{
+  "id": 80,
+  "name": "Interview Bit",
+  "description": "InterviewBit is a platform to learn skills that you need for technology jobs. We help you polish your skills and get ready for the job, whether you are a fresh college graduate or a working professional.We also get you connected with the right companies worldwide based on your skills and preferences, and do everything needed to make sure you get your dream job.",
+  "features": [
+    "Personalized Peer Matching",
+    "Complete Interview Questions",
+    " Interactive 1-on-1 Session"
+  ],
+  "founders": [
+    "Anshuman Singh",
+    "Abhimanyu Saxena"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Video interviewing software"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Candidate screening",
+    "Interview scheduling",
+    "Hiring automation",
+    "Hiring best practices"
+  ],
+  "headquarter": "Bangalore, Karnataka",
+  "launch_date": "2014",
+  "order": 20056,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Tech interview preparations made easy.",
+  "ProductId": null,
+  "ShortDescription": "Everything you need to crack your\nNext Tech Interview",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Fast Track Courses",
+      "sequence": 0,
+      "description": "Increase your pace of learning & even get certified with our to the point byte size fast track courses."
+    },
+    {
+      "name": "Anonymous Mock Interviews",
+      "sequence": 1,
+      "description": "Take your interview preparation to the next level with completely free and real-time mock interviews."
+    },
+    {
+      "name": "No.1 coding environment",
+      "sequence": 2,
+      "description": " Created by experts our video solutions will make you more structured and confident with your reasoning"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-20T07:11:09.037Z",
+  "enhanced_description": "InterviewBit is a comprehensive platform designed to empower individuals with the necessary skills to secure technology jobs. It offers tailored interview preparation through features like personalized peer matching, interactive 1-on-1 sessions, and a vast repository of complete interview questions. The platform also provides byte-sized fast track courses for accelerated learning and certification, alongside free, real-time anonymous mock interviews. With an expert-created coding environment and video solutions, InterviewBit aims to enhance a candidate's structured reasoning and confidence for tech interviews. Beyond preparation, it connects skilled candidates with suitable companies worldwide, supporting businesses in hiring top tech talent faster and more efficiently.",
+  "target_industries": [
+    "Technology"
+  ],
+  "ideal_company_sizes": [
+    "Small Business",
+    "Mid-Market",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Tech interview preparation for candidates",
+    "Skill development for technology roles",
+    "Mock interview practice and feedback",
+    "Candidate-company matching and job placement",
+    "Accelerated learning and certification in tech skills",
+    "Talent acquisition and recruitment efficiency for tech roles"
+  ],
+  "competitive_advantages": [
+    "Personalized Peer Matching",
+    "Interactive 1-on-1 Sessions",
+    "Free, real-time Anonymous Mock Interviews",
+    "Expert-created coding environment with video solutions",
+    "Byte-sized fast track courses for certifications"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Candidate Sourcing",
+    "Candidate Screening",
+    "Interview Management"
+  ],
+  "roi_benefits": [
+    "Faster hiring of top talent",
+    "Increased efficiency in talent acquisition",
+    "Improved candidate job readiness and interview performance",
+    "Access to a pool of skilled tech candidates"
+  ],
+  "searchable_keywords": [
+    "Interview Bit",
+    "tech interview",
+    "technology jobs",
+    "skill development",
+    "job readiness",
+    "personalized peer matching",
+    "complete interview questions",
+    "interactive 1-on-1 session",
+    "fast track courses",
+    "anonymous mock interviews",
+    "coding environment",
+    "video solutions",
+    "recruiting",
+    "video interviewing software",
+    "hiring speed",
+    "hiring efficiency",
+    "recruiting efficiency",
+    "candidate screening",
+    "interview scheduling",
+    "hiring automation",
+    "hiring best practices",
+    "tech interview preparation",
+    "crack tech interview",
+    "mock interviews"
+  ],
+  "primary_users": [
+    "Job seekers (fresh college graduates, working professionals)",
+    "Recruiters",
+    "Hiring Managers"
+  ],
+  "_weight": 1
+}

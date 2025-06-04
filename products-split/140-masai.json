@@ -1,0 +1,153 @@
+{
+  "id": 140,
+  "name": "Masai",
+  "description": "Masai is an outcome driven career school. Our mission is to skill India\u2019s untapped & underutilized talent, and to train them for some of the most in-demand jobs in the world. We are introducing a new model of higher education in which we, Masai, invest in our students\u2019 future and success. As India\u2019s fastest growing career institute, Masai has one goal: unlocking the human potential of India by making our education system outcome driven.",
+  "features": [
+    "P.A.P. (Pay-After-Placement) model",
+    "Focus On Learning Agility",
+    "Industry Ready In Just\n25 - 35 Weeks"
+  ],
+  "founders": [
+    "Nrupul Dev"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Personalised learning"
+  ],
+  "headquarter": "Bangalore, Karnataka",
+  "launch_date": "2019",
+  "order": 20107,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Driven By Outcomes To Launch Your Career In Tech",
+  "ProductId": null,
+  "ShortDescription": "India\u2019s only outcome-based career institute. Enter the tech workforce industry-ready.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "100% Live Distance Learning",
+      "sequence": 0,
+      "description": "India\u2019s Only Live Tech-Learning Course With Tier 1 Instructors."
+    },
+    {
+      "name": "Generative AI Integrated Program",
+      "sequence": 1,
+      "description": "Harness & Implement The Power Of AI In Coding & Data Analytics."
+    },
+    {
+      "name": "Industry Ready Curriculum",
+      "sequence": 2,
+      "description": "Our Curriculum Is Regularly Updated Through Industry Feedback. "
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:21:10.241Z",
+  "enhanced_description": "Masai is an outcome-driven career school based in Bangalore, India, established in 2019. Its core mission is to skill India\u2019s untapped and underutilized talent, preparing them for highly in-demand jobs globally, particularly within the tech workforce. The institution operates on a unique Pay-After-Placement (P.A.P.) model, signifying its commitment to student success. Programs are delivered via 100% live distance learning with Tier 1 instructors and are designed to make students industry-ready in just 25-35 weeks. The curriculum is regularly updated based on industry feedback and includes a Generative AI integrated program to harness and implement the power of AI in coding and data analytics.",
+  "target_industries": [
+    "Technology"
+  ],
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerating skill development for individuals",
+    "Training untapped talent for in-demand tech jobs",
+    "Enabling career transformation into the tech workforce",
+    "Providing outcome-based higher education",
+    "Bridging the tech skill gap",
+    "Upskilling in Generative AI for coding and data analytics"
+  ],
+  "competitive_advantages": [
+    "P.A.P. (Pay-After-Placement) model",
+    "India's only outcome-based career institute",
+    "India's only live tech-learning course with Tier 1 instructors",
+    "Generative AI integrated program",
+    "Industry-ready curriculum updated through feedback",
+    "Rapid industry readiness in 25-35 weeks"
+  ],
+  "implementation_scenarios": [
+    "100% Live Distance Learning (Online Education)"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Talent Acquisition (indirectly, by providing skilled candidates)",
+    "Talent Development (for individuals)"
+  ],
+  "technology_stack": [
+    "AI",
+    "Generative AI"
+  ],
+  "integration_capabilities": [
+    "Generative AI (integrated into curriculum)"
+  ],
+  "roi_benefits": [
+    "Reduced financial risk for students due to Pay-After-Placement model",
+    "Faster entry into the tech workforce (25-35 weeks)",
+    "Higher likelihood of successful job placement due to outcome-driven model",
+    "Access to industry-ready talent for companies",
+    "Addresses skill gaps in the tech industry"
+  ],
+  "searchable_keywords": [
+    "Masai",
+    "outcome driven",
+    "career school",
+    "skill development",
+    "talent training",
+    "in-demand jobs",
+    "higher education",
+    "tech workforce",
+    "industry-ready",
+    "P.A.P. model",
+    "Pay-After-Placement",
+    "learning agility",
+    "live distance learning",
+    "Generative AI",
+    "AI in coding",
+    "data analytics",
+    "industry curriculum",
+    "personalised learning",
+    "training & development",
+    "India",
+    "Bangalore"
+  ],
+  "primary_users": [
+    "Students",
+    "Individuals seeking career transformation in tech",
+    "Untapped and underutilized talent in India"
+  ],
+  "deployment_options": [
+    "Cloud-based (Online Learning Platform)"
+  ],
+  "_weight": 1
+}

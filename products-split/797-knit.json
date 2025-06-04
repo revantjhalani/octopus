@@ -1,0 +1,100 @@
+{
+  "id": 797,
+  "name": "Knit",
+  "description": "KNIT was initially established as the Faculty of Technology in the year 1976 by Kamla Nehru Memorial Trust. It was taken over by the Government. of Uttar Pradesh in 1979 with a view to developing a full-fledged Engineering Institute in the Eastern UP region better known as the Awadh region. Later, in the year 1983 it was registered as a separate society and renamed as the Kamla Nehru Institute of Technology.The Institute is one of the leading technical Institutions of the region and is responsible for producing top-grade engineers with skill sets comparable with the best in the world. Being fully aware of its social responsibilities and the addressing the issue of application of technology to industry, it also renders the testing and consultancy services to the neighboring industries and various other agencies. The Institute is presently Autonomous College Of Dr. A.P.J. Abdul Kalam Technical University, Formerly known as Uttar Pradesh Technical University, Lucknow.",
+  "features": [
+    "Striving for the excellence in teaching-learning process",
+    "Nurturing personality development; encouraging research",
+    "Innovation, entrepreneurship and training to students to uphold the highest ethical standards in all activities"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Course authoring",
+    "Corporate LMS"
+  ],
+  "tags": [
+    "Learning optimisation",
+    "Continuous learning",
+    "Skill development"
+  ],
+  "headquarter": "Sultanpur, Uttar Pradesh",
+  "launch_date": "1976",
+  "order": 20750,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "To be among the finest institutions providing technical education empowered with research, innovation and entrepreneurship.",
+  "ProductId": null,
+  "ShortDescription": "KNIT was initially established as the Faculty of Technology in the year 1976 by Kamla Nehru Memorial Trust",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:38.050Z",
+  "ideal_company_sizes": [
+    "Small",
+    "Mid-market",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Creating and managing digital learning content (Course authoring)",
+    "Delivering and tracking corporate training programs (Corporate LMS)",
+    "Accelerating employee skill development",
+    "Improving organizational learning efficiency",
+    "Optimizing learning processes within an organization",
+    "Facilitating continuous learning initiatives",
+    "Enhancing employee skill sets"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Optimized learning processes",
+    "Facilitated continuous learning"
+  ],
+  "searchable_keywords": [
+    "Knit",
+    "Learning and Development",
+    "Course authoring",
+    "Corporate LMS",
+    "Learning optimisation",
+    "Continuous learning",
+    "Skill development",
+    "Accelerate Skill Development",
+    "Learning Efficiency",
+    "Training"
+  ],
+  "primary_users": [
+    "HR/L&D administrators",
+    "Corporate learners/employees",
+    "Content creators/Course authors"
+  ],
+  "_weight": 1
+}

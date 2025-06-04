@@ -1,0 +1,175 @@
+{
+  "id": 1233,
+  "name": "Culture Cord",
+  "description": "CultureCord- Saas application being holistic growth culture system measures the impact of work culture on business growth in real-time. Keeping everyone on the same page, it helps you to know the gaps and take actions in real-time to achieve the desired growth.",
+  "features": [
+    "Help organisations by providing HR Services such as recruitment, employee engagement",
+    "Helps organisations aligning employees with organisational values and goals"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration software",
+    "Corporate wellness software",
+    "Compensation management software",
+    "Employee recognition software",
+    "Performance management system",
+    "Benefits administration services",
+    "Performance management solutions",
+    "Performance Review software",
+    "Sales compensation software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Company culture",
+    "Employee benefits",
+    "Employee development"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2016",
+  "order": 21064,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "CultureCord: Build a Resilient Culture for Sustainable Growth",
+  "ProductId": null,
+  "ShortDescription": "CultureCord is the innovative growth culture system.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Sustainable Growth Culture",
+      "sequence": 0,
+      "description": "CultureCord focuses on helping organizations develop a long-term, positive work environment that fosters continuous improvement and success."
+    },
+    {
+      "name": "Improved Performance & Engagement",
+      "sequence": 1,
+      "description": "Their system aims to boost employee performance, satisfaction, and collaboration, leading to better overall results."
+    },
+    {
+      "name": "Hybrid Workplace Support",
+      "sequence": 2,
+      "description": "CultureCord caters to the needs of modern workplaces, including hybrid models with remote and in-office teams."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:12:42.914Z",
+  "enhanced_description": "CultureCord is an innovative SaaS application that functions as a holistic growth culture system. It is designed to measure the real-time impact of work culture on business growth, helping organizations identify cultural gaps and take immediate actions to achieve desired growth. By keeping everyone aligned with organizational values and goals, CultureCord aims to foster a long-term, positive work environment that promotes continuous improvement and success. The system also focuses on boosting overall employee performance, satisfaction, and collaboration, and is specifically built to support the needs of modern hybrid workplaces, including both remote and in-office teams.",
+  "target_industries": [],
+  "ideal_company_sizes": [
+    "Small Enterprise"
+  ],
+  "key_use_cases": [
+    "Real-time work culture measurement and analysis",
+    "Identification and actionable insights for cultural gaps",
+    "Employee alignment with organizational values and goals",
+    "Improving employee engagement and happiness",
+    "Boosting employee performance and collaboration",
+    "Supporting hybrid and remote workplace models",
+    "Recruitment services",
+    "Employee engagement initiatives"
+  ],
+  "competitive_advantages": [
+    "Holistic growth culture system approach",
+    "Real-time measurement of work culture impact on business growth",
+    "Real-time identification of cultural gaps with actionable insights",
+    "Focus on sustainable growth culture and continuous improvement",
+    "Designed to improve employee performance, satisfaction, and engagement",
+    "Specific support for hybrid workplace environments"
+  ],
+  "implementation_scenarios": [],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Employee Engagement",
+    "Benefits Administration",
+    "Corporate Wellness",
+    "Compensation Management",
+    "Employee Recognition",
+    "Performance Management",
+    "Performance Review",
+    "Sales Compensation",
+    "Employee Development"
+  ],
+  "technology_stack": [],
+  "integration_capabilities": [],
+  "roi_benefits": [
+    "Improved business growth",
+    "Enhanced employee happiness and engagement",
+    "Boosted employee performance",
+    "Increased employee collaboration",
+    "Better overall business results",
+    "Fostering continuous improvement and success"
+  ],
+  "searchable_keywords": [
+    "Culture Cord",
+    "work culture",
+    "business growth",
+    "real-time culture measurement",
+    "culture gaps",
+    "HR services",
+    "recruitment",
+    "employee engagement",
+    "employee alignment",
+    "organizational values",
+    "employee happiness",
+    "Total Rewards",
+    "benefits administration software",
+    "corporate wellness software",
+    "compensation management software",
+    "employee recognition software",
+    "performance management system",
+    "performance review software",
+    "sales compensation software",
+    "employee benefits",
+    "employee development",
+    "company culture",
+    "resilient culture",
+    "sustainable growth",
+    "growth culture system",
+    "positive work environment",
+    "continuous improvement",
+    "employee performance",
+    "employee satisfaction",
+    "collaboration",
+    "hybrid workplace support",
+    "remote teams",
+    "in-office teams"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Employees",
+    "Managers",
+    "Organizational Leadership"
+  ],
+  "deployment_options": [
+    "SaaS (Software as a Service)"
+  ],
+  "compliance_features": [],
+  "scalability_features": [],
+  "security_features": [],
+  "_weight": 1
+}

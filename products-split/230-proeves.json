@@ -1,0 +1,140 @@
+{
+  "id": 230,
+  "name": "ProEves",
+  "description": "On the Corporate side ProEves are the largest childcare benefit provider that works with corporates by way of our tech product Procare that provides their employees access to daycares, decision and payment support. We list 7000+ centres across India, and also are building efficiency in the network through our flagship ProEves Edge Centres where we provide Sales, Software & Curriculum partnership to preschool/daycare centres. discovery efficiency, parent counselling, booking support for preschools & daycares.",
+  "features": [
+    "7000+ centres to choose from a single platform",
+    "In-depth information on features, amenities & parent reviews",
+    "Access to fee information and exclusive offers"
+  ],
+  "founders": [
+    "Ketika Kapoor",
+    "Divya Agarwal "
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Training management system"
+  ],
+  "tags": [
+    "Skill development",
+    "Skill acquisition"
+  ],
+  "headquarter": "Mumbai, Maharashtra",
+  "launch_date": "2016",
+  "order": 20196,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Proeves is the leading platform for early childhood care and education (ECCE) ",
+  "ProductId": null,
+  "ShortDescription": "Discover and book the best preschool or daycare near you for your child",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Accessibility",
+      "sequence": 0,
+      "description": "discovery efficiency, parent counselling, booking support for preschools & daycares."
+    },
+    {
+      "name": "Credibility",
+      "sequence": 1,
+      "description": "standardisation, safety / quality verification, parent references across ProEves Edge centres."
+    },
+    {
+      "name": "Flexibility",
+      "sequence": 2,
+      "description": "multiformat phygital support (physical centre, digital and at home support)."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:48.089Z",
+  "enhanced_description": "ProEves is a leading platform for early childhood care and education (ECCE) and is identified as the largest childcare benefit provider for corporates in India. Through its tech product Procare, it offers employees access to a network of over 7000 daycares and preschools across India, providing decision and payment support. The platform facilitates discovery efficiency, parent counselling, and booking support for preschools and daycares. ProEves also builds efficiency in its network via its flagship ProEves Edge Centres, which offer Sales, Software & Curriculum partnerships to childcare centres, enhancing standardisation, safety, and quality verification. The platform aims to accelerate skill development and learning efficiency.",
+  "ideal_company_sizes": [
+    "Small",
+    "Mid-market",
+    "Enterprise"
+  ],
+  "key_use_cases": [
+    "Providing childcare benefits to employees",
+    "Employee access to a network of daycares and preschools",
+    "Decision support for selecting childcare (via in-depth information, amenities, and parent reviews)",
+    "Payment support for childcare services, including access to fee information and exclusive offers",
+    "Parent counselling for childcare selection",
+    "Booking support for preschools and daycares",
+    "Standardization, safety, and quality verification of childcare centers (via ProEves Edge Centres)",
+    "Accelerating skill development and learning efficiency"
+  ],
+  "competitive_advantages": [
+    "Largest childcare benefit provider (in India)",
+    "Extensive network of over 7000 childcare centres across India",
+    "Comprehensive information on features, amenities, and parent reviews for informed decision-making",
+    "Access to fee information and exclusive offers for users",
+    "ProEves Edge Centres offering Sales, Software & Curriculum partnerships to childcare centres, fostering standardization and quality",
+    "Multiformat phygital support, including physical centres, digital resources, and at-home support",
+    "Streamlined discovery efficiency, parent counselling, and booking support"
+  ],
+  "hr_functions_supported": [
+    "Employee Benefits",
+    "Learning and Development"
+  ],
+  "roi_benefits": [
+    "Enhanced employee satisfaction and retention through comprehensive childcare benefits",
+    "Improved employee productivity by facilitating easy access to childcare solutions",
+    "Increased efficiency in childcare discovery and booking processes for employees",
+    "Access to standardized and quality-verified childcare options for employees",
+    "Contribution to accelerating skill development and learning efficiency within the workforce (as per stated business objective)"
+  ],
+  "searchable_keywords": [
+    "ProEves",
+    "Childcare benefits",
+    "Daycare",
+    "Preschool",
+    "Early childhood care and education",
+    "ECCE",
+    "Corporate childcare",
+    "Employee benefits",
+    "Parent counselling",
+    "Childcare booking",
+    "Skill development",
+    "Learning efficiency",
+    "Corporate LMS",
+    "Training management system",
+    "Childcare network India",
+    "Procare"
+  ],
+  "primary_users": [
+    "HR departments (for managing employee benefits)",
+    "Employees (seeking childcare services)",
+    "Parents (seeking childcare for their children)",
+    "Preschool/daycare centres (as partners of ProEves Edge)"
+  ],
+  "scalability_features": [
+    "Supports an extensive network of 7000+ childcare centres across India, accessible from a single platform"
+  ],
+  "_weight": 1
+}

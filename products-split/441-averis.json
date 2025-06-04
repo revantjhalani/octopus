@@ -1,0 +1,188 @@
+{
+  "id": 441,
+  "name": "Averis",
+  "description": "Founded in 2006 with an MSC Malaysia status, Averis Sdn Bhd is one of the pioneers in Malaysia to offer Global Business Services (GBS). We provide best-in-class services in Finance and Accounting, Human Resources, Information Technology, Shipping Documentation, Data Security and Business Information Protection. We are guided by our T.O.P.I.C.C Core Values: Complementary Team, Ownership, People, Integrity, Customer and Continuous Improvement. We provide our customers with highly-scalable and cost-effective business services, from back-office operations to business support solutions. Averis is one of the leading Global Business Services providers in Malaysia. We have over 15 years of experience serving customers in the resource-based manufacturing industry. Today, we serve over 300 companies across a diverse range of industries with a special focus on commodities including palm oil, pulp and paper, oil and gas, viscose fibre and specialty cellulose. Our daily operations serve a combined workforce of over 60,000 people across 32 different locations globally.",
+  "features": [
+    "Averis\u2019s Finance and Accounting (FA) Team is trusted by customers to help their businesses maximise productivity and reduce expenditure.",
+    "Like all other services offered by Averis, our HR Team leverages RPA to help customers drive economies of scale through reduced manual workload, centralised and better-controlled processes which improves visibility and reduces costs at the same time.",
+    "Information Technology (IT) is a fundamental enabler for our customers\u2019 businesses. We help businesses to run by providing IT infrastructure and solutions such as conventional workspace, virtual workspace solutions, local and cloud storage, data centre management and cyber security among the list."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Reduce the Cost of Hiring Qualified Employees",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management",
+    "Learning and Development",
+    "Recruiting",
+    "Total Rewards",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Benefits administration services",
+    "Employee engagement software",
+    "Onboarding software",
+    "Training eLearning software",
+    "Staffing services providers",
+    "Software and Services Related to HR Software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Employee engagement"
+  ],
+  "headquarter": "Kuala Lumpur",
+  "launch_date": "2007",
+  "order": 20401,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "building conectedness",
+  "ProductId": null,
+  "ShortDescription": "Averis was founded in 2006 and provides shared services and solutions in various expertise such as Finance and Accounting, Human Resources, IT Operations and Project Services, Digital Services, Shipping Documentation, Corporate Function Services, Recruitment Process Outsourcing, and Change Management.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:27:26.347Z",
+  "enhanced_description": "Averis Sdn Bhd, founded in 2006 with MSC Malaysia status, is a pioneering Global Business Services (GBS) provider based in Kuala Lumpur, Malaysia. They offer comprehensive shared services and solutions across various domains including Finance and Accounting, Human Resources, Information Technology, Shipping Documentation, Data Security, Business Information Protection, IT Operations and Project Services, Digital Services, Corporate Function Services, Recruitment Process Outsourcing, and Change Management. Guided by their T.O.P.I.C.C Core Values, Averis provides highly-scalable and cost-effective business services, ranging from back-office operations to business support solutions. With over 15 years of experience, Averis serves over 300 companies globally, with a special focus on the resource-based manufacturing industry and commodities such as palm oil, pulp and paper, oil and gas, viscose fibre, and specialty cellulose, supporting a combined workforce of over 60,000 people across 32 different locations worldwide.",
+  "target_industries": [
+    "Resource-based manufacturing",
+    "Commodities (palm oil, pulp and paper, oil and gas, viscose fibre, specialty cellulose)"
+  ],
+  "key_use_cases": [
+    "Outsourcing Finance and Accounting operations for productivity and cost reduction",
+    "Streamlining HR processes and driving economies of scale through Robotic Process Automation (RPA)",
+    "Establishing and managing IT infrastructure, including conventional and virtual workspace solutions, local and cloud storage, data center management, and cybersecurity",
+    "Supporting back-office operations and business support solutions",
+    "Recruitment process outsourcing",
+    "Managing organizational change"
+  ],
+  "competitive_advantages": [
+    "Pioneer in Global Business Services (GBS) in Malaysia",
+    "Over 15 years of GBS experience serving diverse industries",
+    "Leverages Robotic Process Automation (RPA) in HR services to drive economies of scale and efficiency",
+    "Offers highly-scalable and cost-effective business services",
+    "Provides best-in-class services across various domains"
+  ],
+  "implementation_scenarios": [
+    "Outsourced Global Business Services (GBS) adoption",
+    "Business Process Outsourcing (BPO) for HR, Finance, and IT functions"
+  ],
+  "hr_functions_supported": [
+    "Human Resources (general)",
+    "Recruiting",
+    "Talent Management",
+    "Learning and Development",
+    "Total Rewards",
+    "Corporate wellness",
+    "Benefits administration",
+    "Employee engagement",
+    "Onboarding",
+    "Training eLearning",
+    "Staffing services",
+    "Recruitment Process Outsourcing"
+  ],
+  "technology_stack": [
+    "Robotic Process Automation (RPA)"
+  ],
+  "roi_benefits": [
+    "Maximized productivity in Finance and Accounting",
+    "Reduced operational expenditure across various business functions",
+    "Achieved economies of scale in HR operations through automation",
+    "Reduced manual workload in HR processes",
+    "Centralized and better-controlled HR processes",
+    "Improved visibility in HR operations",
+    "Reduced costs in HR operations",
+    "Boosted Hiring Manager Confidence and Productivity",
+    "Faster and more efficient talent acquisition",
+    "Reduced cost of hiring qualified employees",
+    "Improved employee happiness and engagement"
+  ],
+  "searchable_keywords": [
+    "Averis",
+    "Global Business Services",
+    "GBS",
+    "Shared Services",
+    "HR Outsourcing",
+    "Human Resources",
+    "Finance and Accounting Outsourcing",
+    "IT Outsourcing",
+    "IT Infrastructure",
+    "Data Security",
+    "Business Information Protection",
+    "Shipping Documentation",
+    "Corporate Function Services",
+    "Recruitment Process Outsourcing",
+    "Change Management",
+    "Robotic Process Automation",
+    "RPA",
+    "Talent Management",
+    "Learning and Development",
+    "Recruiting",
+    "Total Rewards",
+    "Corporate wellness software",
+    "Benefits administration services",
+    "Employee engagement software",
+    "Onboarding software",
+    "Training eLearning software",
+    "Staffing services providers",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring",
+    "Employee engagement",
+    "Scalable business services",
+    "Cost-effective business services",
+    "Back-office operations",
+    "Business support solutions",
+    "Kuala Lumpur",
+    "Malaysia"
+  ],
+  "primary_users": [
+    "Client organizations",
+    "HR departments",
+    "Finance departments",
+    "IT departments",
+    "Hiring Managers",
+    "Employees (as beneficiaries of services)"
+  ],
+  "scalability_features": [
+    "Highly-scalable business services",
+    "Drives economies of scale through RPA"
+  ],
+  "security_features": [
+    "Data Security",
+    "Business Information Protection",
+    "Cyber security"
+  ],
+  "_weight": 1
+}

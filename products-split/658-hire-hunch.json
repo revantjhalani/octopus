@@ -1,0 +1,143 @@
+{
+  "id": 658,
+  "name": "Hire Hunch",
+  "description": "Nawal Mishra, our founder had been extensively involved in software development for almost a decade and a half. In the past five years, he\u2019s built strong engineering teams and shipped scalable products for early-stage and high-growth startups. One challenge that consistently arose throughout his leadership roles was the allocation of the limited bandwidth of software engineers to the various business needs. Over the past 3 years him and his dedicated team have come up with a revolutionary product that provides Skill Assessment, a Video Interview Platform, and our core offering of Interviewing services together in one single, super hiring platform, HireHunch. And this is just the beginning...",
+  "features": [
+    "It can always be better. It can always be simpler.",
+    "We win only if our clients win. Till they don\u2019t, we keep at it.",
+    "At the end of the day, listen to your inner voice. It knows."
+  ],
+  "founders": [
+    "Anjulika Pandey"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Video interviewing software",
+    "Pre-employment screening software",
+    "Pre-employment testing software"
+  ],
+  "tags": [
+    "Interview scheduling",
+    "Hiring automation",
+    "Candidate screening"
+  ],
+  "headquarter": "Bangalore, Karnataka",
+  "launch_date": "2020",
+  "order": 20612,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We help companies build their dream tech team  quickly and with ease.",
+  "ProductId": null,
+  "ShortDescription": "HireHunch is a revolutionary full stack technical assessment platform that provides Skill Assessment, a Video Interview Platform, and our core offering of Interview As A Service together in one single, super hiring platform. And this is just the beginning...",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Full Stack Solution",
+      "sequence": 0,
+      "description": "Seamlessly integrate all aspects of your tech hiring process, from skill assessments to interviews, in one comprehensive platform."
+    },
+    {
+      "name": "Save Time",
+      "sequence": 1,
+      "description": "Supercharge your hiring efficiency: Say goodbye to time-consuming tasks. Automate, Streamline, and Invest your time to focus on what truly matters."
+    },
+    {
+      "name": "Higher Conversion Ratio",
+      "sequence": 2,
+      "description": "Our cutting-edge technology and intuitive workflows optimize your tech hiring funnel, ensuring a higher rate of successful conversions in securing top talent."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:31:57.204Z",
+  "enhanced_description": "Hire Hunch, launched in 2020, is a full-stack technical assessment platform designed to help companies build their dream tech teams quickly and with ease. It integrates Skill Assessment, a Video Interview Platform, and Interview As A Service into a single, comprehensive hiring solution. This revolutionary platform aims to streamline all aspects of the tech hiring process, from candidate screening and skill testing to video interviews and specialized interviewing services. By providing a super hiring platform, Hire Hunch supercharges hiring efficiency, saves valuable time, and optimizes the tech hiring funnel to ensure a higher rate of successful conversions in securing top talent.",
+  "target_industries": [
+    "Technology"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Skill Assessment",
+    "Video Interviewing",
+    "Interview As A Service",
+    "Pre-employment screening",
+    "Pre-employment testing",
+    "Interview scheduling",
+    "Candidate screening",
+    "Hiring automation",
+    "Building tech teams",
+    "Optimizing tech hiring funnel"
+  ],
+  "competitive_advantages": [
+    "Full Stack Solution: Seamlessly integrates skill assessments and interviews in one comprehensive platform, reducing reliance on multiple tools.",
+    "Specialized Interviewing Services (Interview As A Service): Addresses the challenge of limited bandwidth of internal software engineers by providing dedicated interviewing expertise.",
+    "Efficiency and Speed: Designed to help companies build tech teams quickly and with ease by automating and streamlining hiring tasks.",
+    "Improved Conversion Ratio: Optimizes the tech hiring funnel to increase the rate of successful conversions in securing top talent."
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Candidate Management"
+  ],
+  "roi_benefits": [
+    "Save time in hiring process",
+    "Supercharge hiring efficiency",
+    "Achieve higher conversion ratio in securing top talent",
+    "Hire top talent faster and more efficiently",
+    "Ease of building tech teams"
+  ],
+  "searchable_keywords": [
+    "Hire Hunch",
+    "recruiting",
+    "video interviewing",
+    "pre-employment screening",
+    "pre-employment testing",
+    "interview scheduling",
+    "hiring automation",
+    "candidate screening",
+    "skill assessment",
+    "video interview platform",
+    "interview as a service",
+    "full stack",
+    "technical assessment",
+    "tech hiring",
+    "talent acquisition",
+    "engineering teams",
+    "hiring efficiency",
+    "hiring platform"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "Talent Acquisition Specialists",
+    "Hiring Managers (for technical roles)",
+    "HR Professionals (involved in technical recruitment)"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,152 @@
+{
+  "id": 1344,
+  "name": "Unberry",
+  "description": "Unberry is the most modern talent assessment stack that helps companies make better, smarter & faster hiring decisions. \n",
+  "features": [
+    "Genrative AI based assesment",
+    "Applicable in hiring for all the domain",
+    "Game based assesment"
+  ],
+  "founders": [
+    "Aakaar Gandhi",
+    "Vini Khabya "
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency",
+    "Improve Employee Happiness and Engagement",
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Total Rewards",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Workforce management",
+    "Performance management solutions",
+    "Performance Review software",
+    "Training eLearning software"
+  ],
+  "tags": [
+    "Skill acquisition",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Learning speed",
+    "Workforce diversity"
+  ],
+  "headquarter": "Gurgaon",
+  "launch_date": "2020",
+  "order": 20000,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Transforming the future of hiring and developing talent.",
+  "ProductId": null,
+  "ShortDescription": "Unberry help companies make better smarter & faster talent decisions.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Mapping the holistic workplace footprint of a candidate",
+      "sequence": 0,
+      "description": "We create a comprehensive candidate footprint - covering functional skills, communication, and critical cognitive & behavioural competencies."
+    },
+    {
+      "name": "How Generative AI is shaping the landscape of Talent Intelligence and Future of Work",
+      "sequence": 1,
+      "description": "We take out archaic and unuseful markers of evaluating talent - leveraging latest technology like generative AI, game tech, ML, data science to generate objective and accurate markers."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-11T13:46:07.764Z",
+  "enhanced_description": "Unberry is a modern talent assessment stack designed to transform hiring and talent development by enabling companies to make better, smarter, and faster decisions. It leverages cutting-edge technologies like Generative AI, game technology, Machine Learning, and data science to generate objective and accurate candidate evaluations. Unberry's assessments go beyond traditional methods, mapping a comprehensive candidate footprint that includes functional skills, communication, and critical cognitive & behavioral competencies. It is applicable for hiring across all domains and aims to accelerate skill development, improve learning efficiency, and contribute to building a more diverse and inclusive workforce.",
+  "key_use_cases": [
+    "Accelerating hiring decisions",
+    "Comprehensive candidate evaluation (functional, communication, cognitive, behavioral skills)",
+    "Skill assessment for development",
+    "Improving learning efficiency",
+    "Building a diverse and inclusive workforce through objective assessment"
+  ],
+  "competitive_advantages": [
+    "Leverages Generative AI, game technology, ML, and data science for assessments",
+    "Provides objective and accurate talent markers, moving away from archaic evaluation methods",
+    "Offers game-based assessments",
+    "Maps a holistic candidate workplace footprint (functional skills, communication, cognitive, behavioral competencies)",
+    "Applicable for hiring across all domains"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Learning & Development",
+    "Talent Management",
+    "Performance Management",
+    "Workforce Management"
+  ],
+  "technology_stack": [
+    "Generative AI",
+    "Game Technology",
+    "Machine Learning (ML)",
+    "Data Science"
+  ],
+  "roi_benefits": [
+    "Better, smarter, and faster hiring decisions",
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Increased training effectiveness",
+    "Improved employee happiness and engagement",
+    "Support for building a more diverse and inclusive workforce"
+  ],
+  "searchable_keywords": [
+    "talent assessment",
+    "hiring decisions",
+    "talent intelligence",
+    "talent development",
+    "generative AI assessment",
+    "game-based assessment",
+    "skill development",
+    "learning efficiency",
+    "training effectiveness",
+    "workforce diversity",
+    "talent management",
+    "learning and development",
+    "performance management",
+    "workforce management",
+    "training software",
+    "eLearning",
+    "LXP",
+    "candidate evaluation",
+    "cognitive assessment",
+    "behavioral assessment",
+    "skills assessment",
+    "modern HR tech",
+    "recruitment technology",
+    "competency assessment"
+  ],
+  "primary_users": [
+    "HR Managers",
+    "Recruiters",
+    "Talent Acquisition Specialists",
+    "Learning & Development Professionals",
+    "HR Business Partners"
+  ],
+  "_weight": 1
+}

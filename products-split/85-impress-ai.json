@@ -1,0 +1,192 @@
+{
+  "id": 85,
+  "name": "Impress.ai",
+  "description": "Launched in 2017, impress.ai (registered as ideatory Pte. Ltd.) is a no-code, self-service platform that is highly focused on simplifying and accelerating various parts of the recruitment workflow. Its co-founders observed problems in hiring processes at several companies before even starting impress.ai.",
+  "features": [
+    "Personalised candidate engagement at every touchpoint.",
+    "AI/ML-powered assessments and evaluations for accurate hiring.",
+    "Navigate effortlessly with minimal technical knowledge and training."
+  ],
+  "founders": [
+    "Amrith D."
+  ],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Pre-employment screening software",
+    "Background check software",
+    "Pre-employment testing software",
+    "Applicant tracking system (ATS)",
+    "Onboarding software",
+    "Video interviewing software"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Hiring efficiency",
+    "Recruiting efficiency",
+    "Talent acquisition",
+    "Talent sourcing",
+    "Candidate screening",
+    "Interview scheduling",
+    "Hiring automation"
+  ],
+  "headquarter": "Central Business District, Singapore",
+  "launch_date": "2017",
+  "order": 20060,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The complete talent platform: simple, accessible, responsive, and always on!",
+  "ProductId": null,
+  "ShortDescription": "Make accurate hiring decisions",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": " Faster screening time",
+      "sequence": 0,
+      "description": "Self-serve, automated candidate screening solutions that save recruiters\u2019 time and effort."
+    },
+    {
+      "name": "Diversity, equity, and inclusion",
+      "sequence": 1,
+      "description": "Unbiased hiring decisions to achieve DEI hiring objectives."
+    },
+    {
+      "name": "Seamless integrations",
+      "sequence": 2,
+      "description": "Integrates seamlessly with your ATS, Assessments, Analytics tools and more."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-06-28T04:29:06.565Z",
+  "enhanced_description": "Launched in 2017, Impress.ai (registered as ideatory Pte. Ltd.) is a no-code, self-service platform designed to simplify and accelerate various parts of the recruitment workflow. It functions as a complete talent platform, focusing on making accurate hiring decisions. The platform provides personalized candidate engagement at every touchpoint and utilizes AI/ML-powered assessments and evaluations for accurate hiring. It is built for effortless navigation, requiring minimal technical knowledge and training, and integrates seamlessly with existing ATS, assessments, and analytics tools. Key benefits include faster screening times through automated solutions and supporting unbiased hiring decisions to achieve Diversity, Equity, and Inclusion (DEI) objectives.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Simplifying and accelerating recruitment workflows",
+    "Personalized candidate engagement",
+    "AI/ML-powered candidate assessments and evaluations",
+    "Automated candidate screening",
+    "Making accurate hiring decisions",
+    "Achieving Diversity, Equity, and Inclusion (DEI) hiring objectives",
+    "Talent acquisition",
+    "Talent sourcing",
+    "Candidate screening",
+    "Interview scheduling",
+    "Hiring automation",
+    "Pre-employment screening",
+    "Pre-employment testing",
+    "Applicant tracking system (ATS) functionality",
+    "Onboarding process support",
+    "Video interviewing"
+  ],
+  "competitive_advantages": [
+    "No-code, self-service platform",
+    "AI/ML-powered assessments and evaluations for accurate hiring",
+    "Effortless navigation with minimal technical knowledge and training",
+    "Faster screening time through automated solutions",
+    "Supports unbiased hiring decisions for Diversity, Equity, and Inclusion (DEI)",
+    "Seamless integrations with ATS, Assessments, and Analytics tools"
+  ],
+  "implementation_scenarios": [
+    "Self-service deployment and management",
+    "Integration into existing HR technology stacks (ATS, assessment tools, analytics tools)"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Pre-employment screening",
+    "Pre-employment testing",
+    "Applicant Tracking",
+    "Onboarding",
+    "Video Interviewing",
+    "Candidate Engagement",
+    "Interview Scheduling"
+  ],
+  "technology_stack": [
+    "AI/ML",
+    "No-code platform"
+  ],
+  "integration_capabilities": [
+    "ATS (Applicant Tracking System)",
+    "Assessment tools",
+    "Analytics tools"
+  ],
+  "roi_benefits": [
+    "Simplified recruitment workflow",
+    "Accelerated recruitment workflow",
+    "Improved hiring speed",
+    "Increased hiring efficiency",
+    "Accurate hiring decisions",
+    "Reduced recruiter time and effort (faster screening)",
+    "Achievement of Diversity, Equity, and Inclusion (DEI) hiring objectives"
+  ],
+  "searchable_keywords": [
+    "Impress.ai",
+    "ideatory Pte. Ltd.",
+    "recruitment",
+    "hiring",
+    "talent acquisition",
+    "AI",
+    "ML",
+    "assessments",
+    "evaluations",
+    "candidate engagement",
+    "no-code",
+    "self-service",
+    "ATS",
+    "pre-employment screening",
+    "background check",
+    "pre-employment testing",
+    "onboarding",
+    "video interviewing",
+    "hiring speed",
+    "hiring efficiency",
+    "recruiting efficiency",
+    "talent sourcing",
+    "candidate screening",
+    "interview scheduling",
+    "hiring automation",
+    "unbiased hiring",
+    "diversity",
+    "equity",
+    "inclusion",
+    "talent platform"
+  ],
+  "primary_users": [
+    "Recruiters",
+    "HR Professionals",
+    "Hiring Managers"
+  ],
+  "compliance_features": [
+    "Support for Diversity, Equity, and Inclusion (DEI) hiring objectives through unbiased decision-making"
+  ],
+  "_weight": 1
+}

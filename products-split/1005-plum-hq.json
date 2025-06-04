@@ -1,0 +1,140 @@
+{
+  "id": 1005,
+  "name": "Plum HQ",
+  "description": "We eliminate the complexities associated with insurance and make it easy for employees to understand their policies, use their insurance & benefits, and initiate claims.Plum is backed by Tiger Global & Peak XV Partners (formerly Sequoia Capital).",
+  "features": [
+    "A fully digital platform",
+    "24*7 support",
+    "Highest claims NPS"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Corporate wellness software",
+    "Health & safety providers"
+  ],
+  "tags": [
+    "Employee well being",
+    "Employee satisfaction",
+    "Employee benefits"
+  ],
+  "headquarter": "Bengaluru ",
+  "launch_date": "2019",
+  "order": 20948,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Live the Plum life",
+  "ProductId": null,
+  "ShortDescription": "Plum helps companies care better for their employees by offering insurance and health benefits that are simple, inclusive, and accessible.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Simplified Health Insurance for Businesses:",
+      "sequence": 0,
+      "description": "Plum emphasizes simplifying health insurance for businesses. Their platform aims to streamline the process of buying, managing, and claiming health insurance for employees"
+    },
+    {
+      "name": "Comprehensive Employee Health Insurance Solutions",
+      "sequence": 1,
+      "description": "Plum offers group health insurance plans, group personal accident insurance, and group term life insurance. This caters to a range of employee health and financial protection needs."
+    },
+    {
+      "name": "Technology-Driven Approach:",
+      "sequence": 2,
+      "description": " Plum offers an online platform for businesses to manage their employee health insurance. This allows for easy enrollment, claims processing, and communication."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:38:38.977Z",
+  "enhanced_description": "Plum HQ is a fully digital platform designed to simplify employee insurance and health benefits management for businesses. It offers comprehensive solutions including group health insurance plans, group personal accident insurance, and group term life insurance, ensuring accessibility and inclusivity for employees. The platform streamlines the process of buying, managing policies, understanding benefits, and initiating claims, making it easier for employees to utilize their insurance. Plum HQ provides 24*7 support and boasts the highest claims NPS, indicating high employee satisfaction with the claims process. It is backed by prominent investors Tiger Global & Peak XV Partners (formerly Sequoia Capital).",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee health insurance management",
+    "Group insurance plan administration (health, personal accident, term life)",
+    "Digital claims initiation and processing for employees",
+    "Employee benefits understanding and utilization",
+    "Streamlined employee enrollment in insurance plans"
+  ],
+  "competitive_advantages": [
+    "Fully digital platform for insurance management",
+    "24/7 customer support",
+    "Highest claims NPS (Net Promoter Score)",
+    "Simplified and accessible insurance for employees",
+    "Comprehensive group insurance solutions (health, personal accident, term life)",
+    "Backed by leading investors (Tiger Global & Peak XV Partners)"
+  ],
+  "hr_functions_supported": [
+    "Benefits Administration",
+    "Employee Wellness",
+    "Total Rewards Management",
+    "Health & Safety Compliance"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Streamlined insurance and benefits administration for businesses",
+    "Enhanced employee understanding and utilization of benefits",
+    "Reduced administrative complexities related to insurance",
+    "Higher employee satisfaction with claims processes"
+  ],
+  "searchable_keywords": [
+    "Plum HQ",
+    "Plum",
+    "Employee benefits",
+    "Health insurance",
+    "Group insurance",
+    "Corporate wellness software",
+    "Health & safety providers",
+    "Total Rewards",
+    "Employee well-being",
+    "Employee satisfaction",
+    "Insurance claims",
+    "Digital insurance platform",
+    "Benefits administration",
+    "HR technology",
+    "Employee care",
+    "Personal accident insurance",
+    "Term life insurance",
+    "Online benefits management"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Administrators",
+    "Business Leaders"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "scalability_features": [
+    "Supports Large Enterprises",
+    "Supports Global Enterprises"
+  ],
+  "_weight": 1
+}

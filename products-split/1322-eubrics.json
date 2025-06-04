@@ -1,0 +1,175 @@
+{
+  "id": 1322,
+  "name": "Eubrics",
+  "description": "Eubrics is a workplace upskilling platform enabled by Gen-AI. It offers gamified development journeys customized for each employee's job, personality. With real-time job actions and feedback nudges created daily, Eubrics help employees acquire high performing work skills in a measurable and sustainable way.",
+  "features": [
+    "AI Mentorship: Cutting-edge guidance to navigate your learning journey.",
+    "Daily Motivational Nudges: Keep your motivation high with daily prompts.",
+    "Actionable Insights: Real-time feedback to guide your next steps.",
+    "Learning Repository: A wealth of materials for both theory and practice."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Corporate LMS",
+    "Training management system",
+    "Learning Experience Systems (LXPs)",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Skill acquisition",
+    "Learning speed",
+    "Learning optimisation",
+    "Training methodologies",
+    "Adaptive learning",
+    "Personalised learning",
+    "Learning analytics",
+    "Learning retention",
+    "Continuous learning",
+    "Employee engagement"
+  ],
+  "headquarter": "Gurgaon, India",
+  "launch_date": "2021",
+  "order": 21141,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Building capabilities and outlook of the workforce with smart nudges.",
+  "ProductId": null,
+  "ShortDescription": "Nudge your organization towards better performance, daily",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Role Profiler & Readiness",
+      "sequence": 0,
+      "description": "Simulated tests for clarity on role requirements and capability gaps"
+    },
+    {
+      "name": "Habit Salon",
+      "sequence": 1,
+      "description": "A curated environment designed for action. Gamified path unique to every user's preferences and needs"
+    },
+    {
+      "name": "Flow of Work",
+      "sequence": 2,
+      "description": "Seamless integration into everyday work"
+    },
+    {
+      "name": "70% Adoption Rate",
+      "sequence": 3,
+      "description": ": A testament to our platform's effectiveness and appeal."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:14:50.809Z",
+  "enhanced_description": "Eubrics is a Gen-AI enabled workplace upskilling platform designed to accelerate skill development and learning efficiency within organizations. It delivers gamified, personalized development journeys meticulously customized for each employee's specific job role and personality. The platform leverages real-time job actions and daily feedback nudges to help employees acquire high-performing work skills in a measurable and sustainable manner. Key features include AI Mentorship for cutting-edge guidance, daily motivational nudges, actionable insights for immediate guidance, and a comprehensive learning repository for both theoretical knowledge and practical application. Eubrics also offers a 'Role Profiler & Readiness' tool, providing simulated tests to clarify role requirements and identify capability gaps, and a 'Habit Salon' for a curated, gamified path unique to every user's preferences and needs. Its focus on 'Flow of Work' ensures seamless integration into everyday tasks, contributing to its reported 70% adoption rate.",
+  "ideal_company_sizes": [
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Workplace upskilling",
+    "Accelerated skill development",
+    "Personalized learning journeys",
+    "Identifying capability gaps through simulated tests",
+    "Continuous employee development",
+    "Improving learning efficiency and retention",
+    "Employee engagement in learning programs",
+    "Acquisition of high-performing work skills"
+  ],
+  "competitive_advantages": [
+    "Gen-AI enabled for customization and AI Mentorship",
+    "Gamified development journeys (e.g., Habit Salon)",
+    "Personalization for individual's job and personality",
+    "Real-time job actions and feedback nudges",
+    "Focus on measurable and sustainable skill acquisition",
+    "Seamless integration into the flow of everyday work",
+    "Demonstrated high adoption rate (70%)",
+    "Includes a Role Profiler & Readiness tool for capability assessment"
+  ],
+  "implementation_scenarios": [
+    "Embedded learning directly within daily work processes (Flow of Work)"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Training",
+    "Talent Development",
+    "Employee Engagement",
+    "Performance Management (through skill enhancement)"
+  ],
+  "technology_stack": [
+    "Generative AI"
+  ],
+  "roi_benefits": [
+    "Accelerated skill development and learning efficiency",
+    "Acquisition of high-performing work skills in a measurable and sustainable way",
+    "Increased employee engagement and adoption of learning initiatives (70% adoption rate)",
+    "Improved training effectiveness and learning retention",
+    "Enhanced workforce capabilities and outlook",
+    "Better organizational performance through continuous skill improvement"
+  ],
+  "searchable_keywords": [
+    "Eubrics",
+    "workplace upskilling",
+    "Gen-AI",
+    "gamified learning",
+    "employee development",
+    "skill acquisition",
+    "AI Mentorship",
+    "learning platform",
+    "corporate learning",
+    "training software",
+    "eLearning",
+    "LMS",
+    "LXP",
+    "skill development",
+    "learning efficiency",
+    "training effectiveness",
+    "adaptive learning",
+    "personalised learning",
+    "learning analytics",
+    "learning retention",
+    "continuous learning",
+    "employee engagement",
+    "Role Profiler",
+    "Habit Salon",
+    "Flow of Work",
+    "talent development",
+    "daily nudges",
+    "motivational nudges",
+    "actionable insights"
+  ],
+  "primary_users": [
+    "Employees (learners)",
+    "HR Professionals",
+    "Learning & Development (L&D) Professionals"
+  ],
+  "_weight": 1
+}

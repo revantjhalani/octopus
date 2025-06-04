@@ -1,0 +1,127 @@
+{
+  "id": 317,
+  "name": "Thoughtworks",
+  "description": "Founded in 1993, Thoughtworks grown from a small team in Chicago to a leading technology consultancy of more than 11,000 Thoughtworkers across 51 offices in 18 countries. Our cross-functional teams of strategists, developers, data engineers and designers bring more than 30 years of global experience to every partnership. Thoughtworks invented the concept of distributed agile and we know how to harness the power of global teams to deliver software excellence at scale. Today, we help our clients create their own path to digital fluency and to build organizational resilience to navigate the future.",
+  "features": [
+    "Continuous Learning ",
+    "Supporting inclusion, equity and diversity",
+    "Work-from-home support "
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Artificial intelligence"
+  ],
+  "tags": [
+    "Employee engagement"
+  ],
+  "headquarter": "Chicago, IL",
+  "launch_date": "1993",
+  "order": 20279,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Thoughtworks recognized\n as a Visionary",
+  "ProductId": null,
+  "ShortDescription": "Thoughtworks is a global technology consultancy that integrates strategy, design and engineering to drive digital innovation. For 28+ years, our clients have trusted our autonomous teams to build solutions that look past the obvious.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Digital Transformation Experts:",
+      "sequence": 0,
+      "description": "Thoughtworks positions itself as a leading global technology consultancy that integrates strategy, design, and software engineering to help clients thrive in today's digital landscape."
+    },
+    {
+      "name": "Focus on Innovation",
+      "sequence": 1,
+      "description": " They emphasize their 30+ years of experience at the forefront of digital innovation, which translates to expertise in creating adaptable technology platforms, designing user-centric digital products, and leveraging data and AI for maximum value"
+    },
+    {
+      "name": "Knowledge Sharing",
+      "sequence": 2,
+      "description": "The website highlights their Thoughtworks Technology Radar, a unique tool that shares insights and recommendations on the latest tech trends. This radar, updated twice a year, helps clients stay informed about the evolving tech landscape."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:07.382Z",
+  "enhanced_description": "Thoughtworks, founded in 1993, is a leading global technology consultancy with over 11,000 Thoughtworkers across 51 offices in 18 countries. Integrating strategy, design, and software engineering, they drive digital innovation and help clients build organizational resilience. With over 30 years of global experience, they are recognized as digital transformation experts, specializing in creating adaptable technology platforms, designing user-centric digital products, and leveraging data and AI for maximum value. Thoughtworks invented distributed agile, excelling at delivering software excellence at scale. They also offer the Thoughtworks Technology Radar, a unique tool sharing insights and recommendations on the latest tech trends, updated twice a year.",
+  "key_use_cases": [
+    "Digital transformation strategy and implementation",
+    "Development of adaptable technology platforms",
+    "Design and engineering of user-centric digital products",
+    "Leveraging data and AI for business value",
+    "Scaling software excellence",
+    "Building organizational resilience"
+  ],
+  "competitive_advantages": [
+    "Pioneering expertise in distributed agile",
+    "Over 30 years of global experience in digital innovation",
+    "Cross-functional teams (strategists, developers, data engineers, designers)",
+    "Proprietary Thoughtworks Technology Radar for tech trend insights",
+    "Recognition as a 'Visionary' in the field",
+    "Autonomous team approach"
+  ],
+  "implementation_scenarios": [
+    "Strategic technology consulting engagements",
+    "End-to-end digital product development projects",
+    "Large-scale software engineering initiatives",
+    "Collaborative team augmentation with client teams"
+  ],
+  "roi_benefits": [
+    "Accelerated digital transformation",
+    "Enhanced organizational resilience and adaptability",
+    "Improved competitive advantage through innovation",
+    "Maximized value from data and AI investments",
+    "Delivery of high-quality, scalable software solutions"
+  ],
+  "searchable_keywords": [
+    "Thoughtworks",
+    "technology consultancy",
+    "digital innovation",
+    "strategy",
+    "design",
+    "engineering",
+    "digital transformation",
+    "distributed agile",
+    "software excellence",
+    "data",
+    "AI",
+    "artificial intelligence",
+    "technology radar",
+    "organizational resilience",
+    "digital fluency",
+    "user-centric products",
+    "employee engagement"
+  ],
+  "primary_users": [
+    "Organizations seeking digital transformation",
+    "Companies requiring strategic technology consulting",
+    "Businesses looking to develop or scale digital products",
+    "Teams needing specialized expertise in data, AI, or software engineering"
+  ],
+  "_weight": 1
+}

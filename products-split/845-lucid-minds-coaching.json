@@ -1,0 +1,134 @@
+{
+  "id": 845,
+  "name": "Lucid Minds Coaching",
+  "description": "Peak Performers make things happen. Peak Performers are action takers, they are clear about what is required, they plan well, get things done and the world loves them for it.The fastest, smartest way to become a Peak Performer and succeed in your life is by working with a professional coach. Lucid Minds Coaching helps individuals, business owners and corporate teams become highly effective, productive and successful.",
+  "features": [
+    "Focus on bringing out the best in others",
+    "Improved listening skills",
+    "Open and honest conversations"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Course authoring",
+    "Training management system"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning optimisation",
+    "Skill acquisition"
+  ],
+  "headquarter": "Bengaluru, Karnataka",
+  "launch_date": "2011",
+  "order": 20798,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Unleash Your Greatness",
+  "ProductId": null,
+  "ShortDescription": "Peak Performers make things happen. Peak Performers are action takers, they are clear about what is required, they plan well, get things done and the world loves them for it.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Executive Coaching Explained",
+      "sequence": 0,
+      "description": "This section defines executive coaching and its benefits. It highlights how executive coaching can help with leadership development, communication skills, and stress management."
+    },
+    {
+      "name": "Benefits",
+      "sequence": 1,
+      "description": "Executive coaching is beneficial for professionals seeking to improve their leadership skills, communication abilities, and stress management techniques."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:34.239Z",
+  "enhanced_description": "Lucid Minds Coaching is a professional coaching service designed to develop 'Peak Performers' within individuals, business owners, and corporate teams. The service aims to accelerate skill development and learning efficiency, empowering clients to become highly effective, productive, and successful. Specializing in executive coaching, Lucid Minds focuses on improving leadership development, communication skills, and stress management. The coaching methodology emphasizes bringing out the best in others, improved listening skills, and fostering open, honest conversations.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerate skill development",
+    "Improve learning efficiency",
+    "Enhance leadership development",
+    "Develop communication skills",
+    "Manage stress effectively",
+    "Increase individual and team effectiveness",
+    "Boost productivity and success"
+  ],
+  "roi_benefits": [
+    "Increased effectiveness",
+    "Improved productivity",
+    "Enhanced success in life and business",
+    "Accelerated skill development",
+    "Improved learning efficiency",
+    "Better leadership skills",
+    "Stronger communication abilities",
+    "Improved stress management"
+  ],
+  "searchable_keywords": [
+    "Lucid Minds Coaching",
+    "Peak Performers",
+    "Professional coach",
+    "Coaching",
+    "Individuals coaching",
+    "Business owners coaching",
+    "Corporate teams coaching",
+    "Highly effective",
+    "Productive",
+    "Successful",
+    "Skill development",
+    "Learning optimisation",
+    "Skill acquisition",
+    "Unleash Your Greatness",
+    "Executive Coaching",
+    "Leadership development",
+    "Communication skills",
+    "Stress management",
+    "Learning and Development",
+    "Corporate LMS",
+    "Course authoring",
+    "Training management system",
+    "Bring out the best",
+    "Improved listening skills",
+    "Open conversations",
+    "Honest conversations"
+  ],
+  "primary_users": [
+    "Individuals",
+    "Business owners",
+    "Corporate teams",
+    "Professionals",
+    "Peak Performers"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Talent Management"
+  ],
+  "_weight": 1
+}

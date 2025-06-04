@@ -1,0 +1,150 @@
+{
+  "id": 442,
+  "name": "Axelerant",
+  "description": "Axelerant help digital changemakers make change. Our clients include other agencies, enterprises, and organizations of different shapes and sizes. Our integrated services include Drupal, Acquia, DevOps, Frontend, Quality Engineering, and Consulting. Success management as our service framework operationally is part of who we are at Axelerant. All of our processes and practices are driven by this core, continuously iterated method. What this means is success management teams and success journey mapping for our partners.",
+  "features": [
+    "Digital Experience Platforms",
+    "Intelligent Automation",
+    "Customer Experience Management"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Software and Services Related to HR Software"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "Gurgaon, Haryana, India",
+  "launch_date": "2012",
+  "order": 20402,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "If you\u2019re a digital change maker, we\u2019re your team.",
+  "ProductId": null,
+  "ShortDescription": "We help digital changemakers make change.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Strategy",
+      "sequence": 0,
+      "description": "We define and implement digital business strategies to navigate industry disruption."
+    },
+    {
+      "name": "Design + Build",
+      "sequence": 1,
+      "description": "Combining human-centered design with software engineering to create aligned products and experiences."
+    },
+    {
+      "name": "Grow",
+      "sequence": 2,
+      "description": "Empowering businesses with insightful content, data-driven decisions, personalized campaigns, and enhanced touchpoints for market growth."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:27:27.822Z",
+  "enhanced_description": "Axelerant is a technology consulting firm that partners with 'digital changemakers,' including various agencies, enterprises, and organizations, to facilitate digital transformation. Their comprehensive suite of integrated services encompasses digital strategy definition and implementation, human-centered design combined with software engineering for product and experience creation, and strategies for market growth through insightful content, data-driven decisions, and personalized campaigns. Axelerant's technical expertise specifically includes Drupal, Acquia, DevOps, Frontend development, Quality Engineering, and general consulting. A distinguishing aspect of their service delivery is a core, continuously iterated 'success management' framework, which involves dedicated success management teams and success journey mapping for their partners. While providing broad digital transformation services, Axelerant also explicitly addresses HR-related challenges and objectives, such as boosting hiring manager confidence and productivity, accelerating the acquisition of top talent, reducing the overall cost of hiring qualified employees, and optimizing the hiring process through automation and data-driven approaches.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Defining and implementing digital business strategies",
+    "Designing and building digital products and experiences",
+    "Driving market growth through digital initiatives",
+    "Optimizing talent acquisition processes",
+    "Improving hiring manager productivity and confidence",
+    "Accelerating time-to-hire for top talent",
+    "Reducing recruitment costs",
+    "Implementing hiring automation",
+    "Leveraging data for strategic hiring decisions"
+  ],
+  "competitive_advantages": [
+    "Integrated service offering covering strategy, design, build, and growth, with expertise in platforms like Drupal and Acquia, DevOps, Frontend, and Quality Engineering",
+    "Differentiated 'success management' service framework with continuous iteration and partner journey mapping"
+  ],
+  "implementation_scenarios": [
+    "Consulting-led implementation of digital business strategies",
+    "Software engineering and human-centered design for product and experience development"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Hiring Management"
+  ],
+  "technology_stack": [
+    "Drupal",
+    "Acquia"
+  ],
+  "roi_benefits": [
+    "Increased hiring manager confidence and productivity",
+    "Faster and more efficient hiring of top talent",
+    "Reduced cost of hiring qualified employees",
+    "Enhanced market growth for client businesses"
+  ],
+  "searchable_keywords": [
+    "Axelerant",
+    "Digital Experience Platforms",
+    "Intelligent Automation",
+    "Customer Experience Management",
+    "Other technology",
+    "Software and Services Related to HR Software",
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring",
+    "digital changemakers",
+    "Drupal",
+    "Acquia",
+    "DevOps",
+    "Frontend",
+    "Quality Engineering",
+    "Consulting",
+    "Success management",
+    "digital business strategies",
+    "human-centered design",
+    "software engineering",
+    "market growth"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Professionals",
+    "Talent Acquisition Teams",
+    "Digital Business Leaders"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,174 @@
+{
+  "id": 1364,
+  "name": "Akrivia",
+  "description": "Akrivia HCM is a unified HRMS SaaS platform that packs in everything you need to manage your entire employee lifecycle. With 9 HR products and 40+ modules \u2013 from recruitment & learning to performance, payroll & offboarding , the Akrivia HCM suite is powered by AI to automate all your  mundane tasks and give you a strategic edge. Akrivia's digital solution is designed for change agility and creating a captivating employee value proposition",
+  "features": [
+    "Digital Transformation",
+    "HCM",
+    "Employee Engagement",
+    "HRMS"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Talent Management",
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software",
+    "Human Resource Information Systems (HRIS)",
+    "Human Capital Management",
+    "Human Resource Management Systems (HRMS)",
+    "HR management suites",
+    "Workforce management",
+    "Talent management software",
+    "Employee engagement software",
+    "Experience Software"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Talent sourcing"
+  ],
+  "headquarter": "Visakhapatnam, Andhra Pradesh",
+  "launch_date": "2018",
+  "order": 17,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "One Powerful HCM for your Employee Operations",
+  "ProductId": null,
+  "ShortDescription": "Akrivia HCM Everything you need to manage your employee lifecycle!",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Recruitment Management",
+      "sequence": 0,
+      "description": "Attract and Hire the Best Talent for your Workplace"
+    },
+    {
+      "name": "Performance Management",
+      "sequence": 1,
+      "description": "Analyze Your Team\u2019s Performance Now"
+    },
+    {
+      "name": "Employee Engagement",
+      "sequence": 2,
+      "description": "Create a Positive Work Culture by Driving Employee Engagement"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-12T08:01:39.380Z",
+  "ideal_company_sizes": [
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Managing the entire employee lifecycle",
+    "Automating mundane HR tasks",
+    "Recruitment and talent acquisition",
+    "Learning management",
+    "Performance analysis and management",
+    "Payroll processing",
+    "Employee offboarding",
+    "Driving employee engagement",
+    "Hiring top talent faster and more efficiently"
+  ],
+  "competitive_advantages": [
+    "Unified HRMS SaaS platform with 9 HR products and 40+ modules",
+    "AI-powered automation for mundane tasks",
+    "Provides a strategic edge through HR automation",
+    "Digital solution designed for change agility",
+    "Focus on creating a captivating employee value proposition"
+  ],
+  "hr_functions_supported": [
+    "Recruitment Management",
+    "Learning Management",
+    "Performance Management",
+    "Payroll",
+    "Offboarding",
+    "Employee Engagement",
+    "Core HR",
+    "Human Resource Information Systems (HRIS)",
+    "Human Capital Management (HCM)",
+    "Human Resource Management Systems (HRMS)",
+    "Workforce Management",
+    "Talent Management"
+  ],
+  "technology_stack": [
+    "AI",
+    "SaaS"
+  ],
+  "roi_benefits": [
+    "Increased efficiency through automation of mundane tasks",
+    "Strategic advantage for HR operations",
+    "Enhanced organizational adaptability through change agility",
+    "Improved employee attraction and retention via a captivating EVP",
+    "Faster and more efficient talent acquisition",
+    "Improved team performance through data analysis",
+    "Creation of a positive work culture leading to increased employee engagement"
+  ],
+  "searchable_keywords": [
+    "Akrivia",
+    "HCM",
+    "HRMS",
+    "SaaS platform",
+    "employee lifecycle management",
+    "HR products",
+    "HR modules",
+    "recruitment",
+    "learning",
+    "performance management",
+    "payroll",
+    "offboarding",
+    "AI-powered HR",
+    "HR automation",
+    "strategic HR",
+    "digital HR solution",
+    "change agility",
+    "employee value proposition",
+    "digital transformation",
+    "employee engagement",
+    "talent management",
+    "core HR software",
+    "HRIS",
+    "human capital management",
+    "human resource management systems",
+    "HR management suites",
+    "workforce management",
+    "talent management software",
+    "experience software",
+    "talent acquisition",
+    "talent sourcing",
+    "employee operations"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Managers"
+  ],
+  "deployment_options": [
+    "Cloud (SaaS)"
+  ],
+  "_weight": 1
+}

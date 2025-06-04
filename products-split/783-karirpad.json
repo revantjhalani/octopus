@@ -1,0 +1,144 @@
+{
+  "id": 783,
+  "name": "Karirpad",
+  "description": "Effective June 1, 2022, Karirpad (the first Applicant Tracking System in Indonesia) joins Jobseeker Company, becoming Jobseeker Software. With Jobseeker Software, stop using other job portals and start building your own job portal.",
+  "features": [
+    "HR Consultation & Improvement",
+    "Improved Website Development",
+    "Addition of Talent"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Recruiting automation software",
+    "Job boards"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Talent sourcing",
+    "Candidate screening",
+    "Job boards"
+  ],
+  "headquarter": "Jakarta, DKI Jakarta",
+  "launch_date": "2021",
+  "order": 20736,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Karirpad (the first ATS in Indonesia) joins Jobseeker Company, becoming Jobseeker Software.",
+  "ProductId": null,
+  "ShortDescription": "Effective June 1, 2022, Karirpad (the first Applicant Tracking System in Indonesia) joins Jobseeker Company, becoming Jobseeker Software.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Executive Search",
+      "sequence": 0,
+      "description": "At our executive search service, we excel as proficient headhunters, specializing in swiftly connecting your company with top-tier professionals who not only meet but exceed your expectations. Backed by a proven track record, we ensure a seamless hiring process, promptly delivering high-caliber candidates tailored to your unique needs."
+    },
+    {
+      "name": "Talent Augmentation",
+      "sequence": 1,
+      "description": "Augment your team with proficient professionals for specified durations and utilize our skilled talent for particular projects without making long-term commitments."
+    },
+    {
+      "name": "Software Development Augmentation",
+      "sequence": 2,
+      "description": "We are experts in designing responsive websites for medium to complex projects and turning your ideas into dynamic mobile apps with advanced features."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:24.014Z",
+  "enhanced_description": "Karirpad, now operating as Jobseeker Software since June 1, 2022, is recognized as the first Applicant Tracking System (ATS) in Indonesia. It empowers large and global enterprises to move beyond traditional job portals by building their own custom, branded job portals. This is supported by services including comprehensive website and mobile app development tailored for recruitment. The platform also offers specialized HR services such as executive search for top-tier professionals, and talent augmentation to provide proficient staff for specified durations or projects. Additionally, it provides HR consultation and improvement services. Its primary objective is to help companies fill open positions more quickly.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Streamlining applicant tracking and recruitment processes",
+    "Establishing a proprietary corporate job portal",
+    "Sourcing and recruiting top-tier executive talent",
+    "Securing temporary or project-based skilled professionals through talent augmentation",
+    "Enhancing overall HR and recruitment operations through expert consultation",
+    "Developing custom recruitment-focused websites and mobile applications"
+  ],
+  "competitive_advantages": [
+    "Positioned as the first Applicant Tracking System (ATS) in Indonesia",
+    "Enables companies to build custom, branded job portals to reduce reliance on third-party job boards",
+    "Offers a comprehensive suite of HR services including executive search and talent augmentation alongside core ATS functionalities",
+    "Provides integrated software development services for recruitment-specific web and mobile platforms"
+  ],
+  "implementation_scenarios": [
+    "Custom job portal development projects",
+    "Service-led HR technology adoption and process improvement",
+    "Project-based talent augmentation for specific business needs"
+  ],
+  "hr_functions_supported": [
+    "Recruitment (Applicant Tracking System, Candidate Sourcing, Candidate Screening)",
+    "Staffing (Executive Search, Talent Augmentation)",
+    "Recruitment Automation",
+    "HR Consulting",
+    "Talent Acquisition Strategy"
+  ],
+  "roi_benefits": [
+    "Reduced time-to-hire for open positions",
+    "Improved quality of candidates through specialized sourcing and executive search",
+    "Potential reduction in reliance on and spend with external job boards",
+    "Increased flexibility in workforce management through temporary talent augmentation"
+  ],
+  "searchable_keywords": [
+    "Karirpad",
+    "Jobseeker Software",
+    "Applicant Tracking System",
+    "ATS",
+    "Indonesia ATS",
+    "Recruiting software",
+    "Talent acquisition",
+    "HR technology",
+    "Job portal builder",
+    "Custom job board",
+    "Talent sourcing",
+    "Candidate screening",
+    "Hiring speed",
+    "HR consulting",
+    "Executive search",
+    "Headhunting",
+    "Talent augmentation",
+    "Contract staffing",
+    "Temporary staffing",
+    "Website development for recruitment",
+    "Mobile app development for recruitment"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Recruitment Managers",
+    "Talent Acquisition Teams",
+    "Hiring Managers",
+    "Executives (for executive search services)"
+  ],
+  "_weight": 1
+}

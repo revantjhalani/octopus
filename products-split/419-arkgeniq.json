@@ -1,0 +1,138 @@
+{
+  "id": 419,
+  "name": "ARKGENIQ",
+  "description": "ARKGENIQ is a company that provides employee engagement and well-being solutions. Their platform, Uniify, aims to empower employees with modern workplace tools and boost their productivity. Uniify delivers company updates through news, alerts, reminders, and announcements.",
+  "features": [
+    "Tailored Engagement Solutions",
+    "Holistic Wellbeing",
+    "Streamlined Internal Comms"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Employee recognition software",
+    "Employee engagement software"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee happiness",
+    "Employee well being",
+    "Employee happiness programs",
+    "Employee benefits"
+  ],
+  "headquarter": "Chennai",
+  "launch_date": "2021",
+  "order": 20379,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The Perfect Solution For Your Employees",
+  "ProductId": null,
+  "ShortDescription": "Powering the World's best Employee Engagement Platform",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "INFORM",
+      "sequence": 0,
+      "description": "Deliver the latest company updates through news, alerts, reminders & announcements."
+    },
+    {
+      "name": "CONNECT ",
+      "sequence": 1,
+      "description": "Establish the Connect between employees in the virtual world so that they don\u2019t feel lost in the real world."
+    },
+    {
+      "name": "ENGAGE ",
+      "sequence": 2,
+      "description": "Empower the employees right where they are, with the modern workplace tools and boost their productivity."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:26:49.509Z",
+  "enhanced_description": "ARKGENIQ provides employee engagement and well-being solutions through its platform, Uniify. This platform is designed to empower employees with modern workplace tools and boost their productivity. Uniify streamlines internal communications by delivering company updates through news, alerts, reminders, and announcements. It offers tailored engagement solutions and focuses on holistic well-being, aiming to improve employee happiness and foster connection among employees, especially in a virtual environment.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Employee engagement management",
+    "Employee well-being support",
+    "Streamlined internal communications (news, alerts, reminders, announcements)",
+    "Boosting employee productivity",
+    "Fostering employee connection in virtual environments"
+  ],
+  "competitive_advantages": [
+    "Tailored engagement solutions",
+    "Holistic well-being approach",
+    "Comprehensive internal communication features",
+    "Focus on fostering virtual employee connection"
+  ],
+  "hr_functions_supported": [
+    "Employee Engagement",
+    "Employee Well-being",
+    "Internal Communications",
+    "Employee Happiness Management"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness",
+    "Increased employee engagement",
+    "Boosted employee productivity"
+  ],
+  "searchable_keywords": [
+    "ARKGENIQ",
+    "Uniify",
+    "Employee engagement",
+    "Employee well-being",
+    "Employee happiness",
+    "Internal communications",
+    "Workplace tools",
+    "Productivity",
+    "HR technology",
+    "Total Rewards",
+    "Talent Management",
+    "Employee recognition software",
+    "Employee engagement software",
+    "Company updates",
+    "News alerts",
+    "Reminders announcements",
+    "Employee connection",
+    "Inform",
+    "Connect",
+    "Engage",
+    "Employee happiness programs",
+    "Virtual work",
+    "Modern workplace"
+  ],
+  "primary_users": [
+    "Employees",
+    "HR Professionals",
+    "Internal Communications Teams"
+  ],
+  "_weight": 1
+}

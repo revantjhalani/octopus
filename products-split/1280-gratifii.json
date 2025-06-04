@@ -1,0 +1,155 @@
+{
+  "id": 1280,
+  "name": "Gratifii",
+  "description": "Gratifii is ASX-listed technology company that enables businesses to create and drive customer engagement with loyalty and rewards programs. Our core product, Mosaic\u2122, is a customer enterprise engagement platform that is modular, scalable and globally portable.Our services are a complete solution offering affordable market-leading functionality and configurability. Over 60 top brands rely on Gratifii for their loyalty and rewards across Australia, New Zealand, Singapore and UAE.",
+  "features": [
+    "Deliver Memorable Experiences",
+    "State Of The Art Technology"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration software",
+    "Employee recognition software"
+  ],
+  "tags": [
+    "Employee happiness programs",
+    "Employee hapiness",
+    "Employee well being",
+    "Employee satisfaction"
+  ],
+  "headquarter": "Surry Hills, New South Wales",
+  "launch_date": "2008",
+  "order": 37,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Unlock the Potential in your People",
+  "ProductId": null,
+  "ShortDescription": "Powering loyalty success",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Surprise and Delight",
+      "sequence": 0,
+      "description": "Deliver greater engagement and retention with enticing employee rewards."
+    },
+    {
+      "name": "High Impact Strategy And Creative Concepts",
+      "sequence": 1,
+      "description": "We create employee engagement content that\u2019s memorable \u2013 both in its creativity and results."
+    },
+    {
+      "name": "Create Connection and Purpose",
+      "sequence": 2,
+      "description": "Connect employees to your organisation through recognition and rewards."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-03-05T11:13:54.716Z",
+  "enhanced_description": "Gratifii, an ASX-listed technology company, offers Mosaic\u2122, a modular, scalable, and globally portable enterprise engagement platform. While its core capabilities extend to customer loyalty and rewards programs, the platform is also specifically designed to significantly improve employee happiness, engagement, and retention through comprehensive loyalty and rewards initiatives, recognition programs, and benefits administration functionalities. Trusted by over 60 top brands across Australia, New Zealand, Singapore, and UAE, Gratifii provides a complete solution for delivering memorable employee experiences and fostering connection and purpose within organizations through state-of-the-art technology and high-impact strategic concepts.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Creating and driving customer engagement with loyalty and rewards programs",
+    "Improving employee happiness and engagement",
+    "Administering employee benefits",
+    "Implementing employee recognition programs",
+    "Delivering enticing employee rewards",
+    "Developing high-impact employee engagement content",
+    "Enhancing employee retention through engagement and rewards",
+    "Fostering employee connection and purpose within the organization"
+  ],
+  "competitive_advantages": [
+    "Modular platform architecture",
+    "Scalable platform capabilities (Mosaic\u2122)",
+    "Globally portable platform (Mosaic\u2122)",
+    "Affordable market-leading functionality",
+    "High configurability",
+    "Established market presence with over 60 top brands",
+    "Focus on state-of-the-art technology",
+    "Expertise in high-impact strategy and creative concepts for engagement"
+  ],
+  "hr_functions_supported": [
+    "Total Rewards",
+    "Benefits Administration",
+    "Employee Recognition",
+    "Employee Engagement",
+    "Employee Retention",
+    "Employee Well-being",
+    "Employee Satisfaction"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness",
+    "Increased employee engagement",
+    "Enhanced employee retention",
+    "Stronger employee connection to the organization",
+    "Potential for unlocking employee potential",
+    "Greater employee productivity (inferred from 'Unlock the Potential in your People')",
+    "Improved brand loyalty for customers (inferred from original description)"
+  ],
+  "searchable_keywords": [
+    "Gratifii",
+    "Mosaic",
+    "loyalty programs",
+    "rewards programs",
+    "customer engagement",
+    "employee engagement",
+    "employee recognition",
+    "employee rewards",
+    "total rewards",
+    "benefits administration",
+    "employee happiness",
+    "employee wellbeing",
+    "employee satisfaction",
+    "employee retention",
+    "enterprise engagement platform",
+    "modular HR tech",
+    "scalable HR tech",
+    "globally portable HR tech",
+    "engagement platform",
+    "recognition software",
+    "employee benefits software",
+    "HR technology",
+    "employee experience",
+    "employee connection",
+    "employee purpose"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Business Leaders",
+    "Employees"
+  ],
+  "scalability_features": [
+    "Modular architecture",
+    "Scalable platform"
+  ],
+  "_weight": 1
+}

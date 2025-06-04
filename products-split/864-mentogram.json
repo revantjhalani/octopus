@@ -1,0 +1,170 @@
+{
+  "id": 864,
+  "name": "Mentogram",
+  "description": "Mentogram is a Mentor-led Workforce Accelerator. Our mission is to make college accessible for millions. We partner with universities to launch accelerator-style degrees and certification programs for students and corporates to drive engagement, retention and addressing critical skill gaps in Business Education, Gen AI, Digital Skills, and Soft Skills. Our platform supports personalized upskilling pathways, tokenized gamification, mentoring circles, networking corner and AI-driven career assessments.",
+  "features": [
+    "Ready to deploy next-gen mentorship programme templates",
+    "First in kind leadership training centered along mentoring and coaching skills",
+    "Customized solutions to strengthen the learning and development initiatives of the company"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training eLearning software",
+    "Training management system"
+  ],
+  "tags": [
+    "Skill development",
+    "Skill acquisition",
+    "Adaptive learning"
+  ],
+  "headquarter": "Menlo Park, California",
+  "launch_date": "2021",
+  "order": 20817,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Build a future-ready\n workforce through next-gen mentoring",
+  "ProductId": null,
+  "ShortDescription": "Mentogram is a Mentor-led Workforce Accelerator. Our mission is to make college accessible for millions.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Industry-Embedded Learning",
+      "sequence": 0,
+      "description": "Mentogram offers industry-embedded learning programs [1]. This means that their programs are designed to give you the skills and experience you need to succeed in the real world. The programs are developed in collaboration with industry professionals, so you can be sure that you are learning the latest in-demand skills."
+    },
+    {
+      "name": "Bridging the Skills Gap",
+      "sequence": 1,
+      "description": "Mentogram helps to bridge the gap between what is taught in academia and what is required in the workplace [1]. Their programs are taught by experienced practitioners who can provide you with real-world insights and guidance."
+    },
+    {
+      "name": "Comprehensive Learning Platform",
+      "sequence": 2,
+      "description": "Mentogram's platform offers a variety of features to support your learning, such as mentor-mentee matching, peer-to-peer networking, learning pathways, and Zoom integration [1]. This means that you can connect with mentors and peers, track your progress, and learn at your own pace."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:35:55.590Z",
+  "enhanced_description": "Mentogram is a Mentor-led Workforce Accelerator designed to make education and career advancement accessible. It partners with universities to launch accelerator-style degrees and certification programs for students, and with corporates to drive engagement, retention, and address critical skill gaps in areas like Business Education, Gen AI, Digital Skills, and Soft Skills. Its comprehensive platform supports personalized upskilling pathways, tokenized gamification, mentoring circles, a networking corner, and AI-driven career assessments. Emphasizing industry-embedded learning, Mentogram bridges the gap between academic knowledge and workplace requirements, offering ready-to-deploy mentorship program templates and leadership training centered on mentoring and coaching skills to build a future-ready workforce.",
+  "ideal_company_sizes": [
+    "Global Enterprise",
+    "Large Enterprise"
+  ],
+  "key_use_cases": [
+    "Accelerate skill development",
+    "Improve learning efficiency",
+    "Address critical skill gaps (e.g., Business Education, Gen AI, Digital Skills, Soft Skills)",
+    "Launch accelerator-style degrees and certification programs (for universities and corporates)",
+    "Drive employee engagement and retention",
+    "Implement next-gen mentorship programs",
+    "Provide leadership training focused on mentoring and coaching skills",
+    "Strengthen corporate learning and development initiatives",
+    "Enable personalized upskilling pathways",
+    "Bridge academic knowledge with workplace requirements",
+    "Workforce upskilling and reskilling"
+  ],
+  "competitive_advantages": [
+    "First-in-kind leadership training centered along mentoring and coaching skills",
+    "Ready-to-deploy next-gen mentorship program templates",
+    "Industry-embedded learning programs designed with industry professionals",
+    "Explicitly bridges the skills gap between academia and workplace",
+    "Comprehensive platform featuring tokenized gamification, mentoring circles, networking corner, and AI-driven career assessments",
+    "Mentor-led approach to workforce acceleration"
+  ],
+  "implementation_scenarios": [
+    "Customized solutions for corporate learning and development initiatives",
+    "Partnerships with universities for degree and certification programs",
+    "Rapid deployment of mentorship programs using templates"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Talent Management (specifically skill development and upskilling)",
+    "Employee Engagement",
+    "Employee Retention",
+    "Training Management",
+    "Career Development",
+    "Workforce Planning (by addressing skill gaps)"
+  ],
+  "technology_stack": [
+    "AI (for career assessments)",
+    "Zoom (for integration)"
+  ],
+  "integration_capabilities": [
+    "Zoom integration"
+  ],
+  "roi_benefits": [
+    "Drives engagement and retention",
+    "Accelerates skill development and learning efficiency",
+    "Addresses critical skill gaps in the workforce",
+    "Strengthens overall learning and development initiatives",
+    "Contributes to building a future-ready workforce",
+    "Provides real-world insights and guidance to learners"
+  ],
+  "searchable_keywords": [
+    "Mentogram",
+    "mentor-led workforce accelerator",
+    "skill development",
+    "learning and development",
+    "L&D",
+    "corporate training",
+    "upskilling",
+    "reskilling",
+    "critical skill gaps",
+    "Business Education",
+    "Gen AI skills",
+    "Digital Skills",
+    "Soft Skills",
+    "personalized upskilling pathways",
+    "tokenized gamification",
+    "mentoring circles",
+    "networking corner",
+    "AI-driven career assessments",
+    "mentorship programs",
+    "leadership training",
+    "coaching skills",
+    "industry-embedded learning",
+    "employee engagement",
+    "employee retention",
+    "training eLearning software",
+    "training management system",
+    "adaptive learning",
+    "future-ready workforce",
+    "skill acquisition",
+    "education accessibility",
+    "certification programs"
+  ],
+  "primary_users": [
+    "Corporate employees",
+    "University students",
+    "Mentors",
+    "HR professionals (specifically L&D teams)",
+    "Learning & Development managers"
+  ],
+  "_weight": 1
+}

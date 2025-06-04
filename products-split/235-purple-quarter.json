@@ -1,0 +1,135 @@
+{
+  "id": 235,
+  "name": "Purple Quarter",
+  "description": "Purple Quarter do leadership consulting and hiring to ease Tech Executive Search \u2013 we are a Bespoke CTO Search firm committed to building sustainable leadership teams across technology and product companies. We have set out on this journey with a proven and methodical approach, creating a story of synergy in every leadership search, ensuring a lasting relationship between a Tech head and the organization. We are globally placed, with offices across the globe.",
+  "features": [
+    "Assess client culture, vision, goals, and people-centric roadmap.",
+    "Utilize Purple Quarter\u2019s Behavioral Metrics Model for candidate aspirations and career insights.",
+    "Align candidate aspirations with client goals to foster sustainable relationships."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Recruitment agencies"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring"
+  ],
+  "headquarter": "Bengaluru, Karnataka",
+  "launch_date": "2017",
+  "order": 20201,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Finding Visionary Tech Leaders for Next-Gen Startups and Enterprises",
+  "ProductId": null,
+  "ShortDescription": "Bridging the gap between technology leaders and growing businesses",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Fast Paced",
+      "sequence": 0,
+      "description": "We\u2019re quick on our feet but not that superfast where we might miss the tiniest of details."
+    },
+    {
+      "name": "Striving For Excellence",
+      "sequence": 1,
+      "description": "The mindset to achieve excellence becomes a practice once you join, and a habit over time."
+    },
+    {
+      "name": "Open Minded",
+      "sequence": 2,
+      "description": "We lend our ears and open minds to everyone \u2013 from senior leaders to new joiners."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:52.232Z",
+  "enhanced_description": "Purple Quarter is a specialized global leadership consulting and hiring firm dedicated to Tech Executive Search. They operate as a bespoke CTO Search firm, committed to building sustainable leadership teams for technology and product companies. Utilizing a proven and methodical approach, including their proprietary Behavioral Metrics Model, they align candidate aspirations with client goals to foster lasting relationships between tech leaders and organizations. With offices located across the globe, they bridge the gap between visionary tech leaders and growing businesses, from next-gen startups to enterprises.",
+  "target_industries": [
+    "Technology",
+    "Product Development"
+  ],
+  "key_use_cases": [
+    "Tech Executive Search (e.g., CTO search)",
+    "Building sustainable tech leadership teams",
+    "Leadership consulting for technology and product companies"
+  ],
+  "competitive_advantages": [
+    "Bespoke and tailored approach to executive search",
+    "Specialization in Tech Executive Search, particularly CTO roles",
+    "Utilizes a proprietary Behavioral Metrics Model for in-depth candidate assessment",
+    "Focus on fostering sustainable, long-term relationships between leaders and organizations",
+    "Employs a proven and methodical search approach",
+    "Global presence with offices worldwide",
+    "Commitment to excellence and quality in service delivery",
+    "Operates with a fast-paced yet detail-oriented process",
+    "Embraces an open-minded and collaborative approach with clients and candidates"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Executive Search",
+    "Leadership Hiring",
+    "Talent Acquisition Consulting"
+  ],
+  "roi_benefits": [
+    "Boosts Hiring Manager Confidence",
+    "Increases Hiring Manager Productivity",
+    "Ensures lasting relationships between tech leaders and organizations",
+    "Facilitates the building of sustainable leadership teams",
+    "Provides access to visionary tech leaders"
+  ],
+  "searchable_keywords": [
+    "Purple Quarter",
+    "Leadership consulting",
+    "Tech Executive Search",
+    "CTO Search",
+    "Recruiting",
+    "Hiring",
+    "Technology leadership",
+    "Product leadership",
+    "Executive recruitment",
+    "Tech headhunting",
+    "Sustainable leadership teams",
+    "Behavioral Metrics Model",
+    "Global recruitment",
+    "Startup recruitment",
+    "Enterprise recruitment",
+    "Visionary leaders"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "CEOs/Founders (seeking executive tech talent)",
+    "HR Leaders (managing executive hiring strategy)",
+    "Technology Companies",
+    "Product Companies",
+    "Next-Gen Startups",
+    "Enterprises (seeking tech leadership)"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,149 @@
+{
+  "id": 643,
+  "name": "Health Carousel Philippines, Inc",
+  "description": "Health Carousel, Philippines is a POEA licensed recruitment agency that provides service exclusively for PassportUSA, a division of Health Carousel, U.S. HCPI is a high quality company that gives high regards to Excellence, Integrity, and Professionalism. HCPI continues to transform itself to improve the services that it gives to its clients, partners, and candidates. HCPI is a leader in the recruitment of Filipino Healthcare Professionals bound to the U.S. It has been in existence for 15 years. HCPI is a rapidly growing organization. Its staff has doubled and continues to hire A-players. Has a headquarter in Metro Manila and a satellite office in Cebu, and it continuous to identify key cities in the country to establish additional satellite offices to better serve its candidates",
+  "features": [
+    "Medical Technologists",
+    "Physical Therapists",
+    "Occupational Therapists"
+  ],
+  "founders": [
+    "Nyra Colinares, RN",
+    "Connie Dela Cruz"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing & management software"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Candidate screening",
+    "Interview scheduling"
+  ],
+  "headquarter": "Pasig, National Capital Region",
+  "launch_date": "2002",
+  "order": 20597,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Changing the Lives of Filipino Healthcare Professionals and Helping them",
+  "ProductId": null,
+  "ShortDescription": "Health Carousel, Philippines is a POEA licensed recruitment agency that provides service exclusively for PassportUSA, a division of Health Carousel, U.S.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Helping Filipino Nurses Achieve the American Dream",
+      "sequence": 0,
+      "description": "Health Carousel Philippines is a POEA-licensed recruitment agency that helps Filipino healthcare professionals achieve their American dream."
+    },
+    {
+      "name": "PassportUSA Program",
+      "sequence": 1,
+      "description": "The company offers the PassportUSA program, which has helped thousands of Filipino healthcare professionals work in the United States."
+    },
+    {
+      "name": "Supports Throughout the Process",
+      "sequence": 2,
+      "description": "The company provides support throughout the application process, including helping with the NCLEX exam and finding a job in the US."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:31:41.971Z",
+  "enhanced_description": "Health Carousel Philippines, Inc. (HCPI) is a POEA-licensed recruitment agency specializing in the overseas placement of Filipino Healthcare Professionals, including Medical Technologists, Physical Therapists, Occupational Therapists, and Nurses, for employment in the United States. Operating exclusively as a division of Health Carousel, U.S., through its PassportUSA program, HCPI provides comprehensive support throughout the application process, assisting candidates with critical steps such as the NCLEX exam and U.S. job placement. Established in 2002, HCPI has been a leader in its field for 15 years, boasting a rapidly growing organization with headquarters in Metro Manila and a satellite office in Cebu, continuously expanding its presence across key Philippine cities to better serve its candidates. The company is recognized for its high standards of excellence, integrity, and professionalism, aiming to transform the lives of Filipino healthcare professionals by helping them achieve their American Dream.",
+  "target_industries": [
+    "Healthcare"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Enterprise"
+  ],
+  "key_use_cases": [
+    "International recruitment of healthcare professionals",
+    "Overseas job placement for Filipino healthcare professionals",
+    "Support for professional licensure exams (e.g., NCLEX) for U.S. employment",
+    "Staffing solutions for U.S. healthcare facilities seeking international talent"
+  ],
+  "competitive_advantages": [
+    "POEA licensed recruitment agency, ensuring regulatory compliance",
+    "Exclusive partnership with PassportUSA, a division of Health Carousel, U.S.",
+    "Specialized focus on Filipino healthcare professionals for U.S. placement",
+    "Over 15 years of established experience in the field",
+    "Comprehensive support for candidates, including NCLEX preparation and job finding assistance",
+    "Geographic expansion within the Philippines with multiple offices to enhance candidate service",
+    "Strong organizational growth and commitment to hiring high-quality staff"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Candidate sourcing",
+    "Candidate screening",
+    "Interview scheduling",
+    "International talent acquisition",
+    "Workforce planning (for client organizations via staffing)"
+  ],
+  "roi_benefits": [
+    "Access to a specialized pool of qualified Filipino healthcare professionals for U.S. employers",
+    "Streamlined international recruitment and placement processes for healthcare facilities",
+    "Support for candidates in achieving U.S. licensure and securing employment",
+    "Increased hiring manager confidence and productivity by simplifying international staffing",
+    "Enables Filipino healthcare professionals to pursue international career opportunities"
+  ],
+  "searchable_keywords": [
+    "Health Carousel Philippines",
+    "POEA licensed recruitment agency",
+    "PassportUSA",
+    "Filipino healthcare professionals",
+    "US recruitment",
+    "Medical Technologists",
+    "Physical Therapists",
+    "Occupational Therapists",
+    "Nurses",
+    "NCLEX exam support",
+    "International job placement",
+    "Overseas employment",
+    "Healthcare staffing",
+    "Global recruitment",
+    "Candidate screening",
+    "Hiring"
+  ],
+  "primary_users": [
+    "Filipino Healthcare Professionals (candidates)",
+    "U.S. Healthcare Facilities (hiring organizations/clients)"
+  ],
+  "compliance_features": [
+    "POEA licensed"
+  ],
+  "scalability_features": [
+    "Rapidly growing organization",
+    "Doubled staff count",
+    "Continuous hiring of A-players",
+    "Establishing additional satellite offices in key cities"
+  ],
+  "_weight": 1
+}

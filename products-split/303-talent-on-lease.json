@@ -1,0 +1,144 @@
+{
+  "id": 303,
+  "name": "Talent on Lease",
+  "description": "TalentOnLease has access to a wide range of clients across the country who have urgent IT requirements for critical projects on a regular basis. TalentOnLease works with a wide range of partners (IT Services/Solution firms) to fulfil these requirements. All the IT partners we have on the platform have been on-boarded after careful verification and vetting. TalentOnLease is aimed at addressing the problem faced by the industry by bringing together Clients and Partners on a single platform to collaborate for mutual gains. The platform here acts as a responsible medium to not just provide means to transact for its tenants but also ensuring the trust building between them with the help of strong policy framework as well as strict audit mechanism.",
+  "features": [
+    "Active bench of 6190 Professionals",
+    "Verified and vetted IT professionals",
+    "Available Within 24 to 48 hours"
+  ],
+  "founders": [
+    "Pervesh Dhingra"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software",
+    "Recruitment marketing platforms",
+    "Job boards",
+    "Recruitment agencies"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Quality of hire",
+    "Hiring tools",
+    "Hiring Analytics",
+    "Data-driven hiring",
+    "Hiring best practices",
+    "Talent acquisition",
+    "Talent sourcing",
+    "Candidate screening",
+    "Hiring automation",
+    "Talent pipeline",
+    "Employee referral program"
+  ],
+  "headquarter": "Noida, Uttar Pradesh",
+  "launch_date": "2018",
+  "order": 20265,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Making available the Right Resources at the Right Time and at Right Cost",
+  "ProductId": null,
+  "ShortDescription": "TalentOnLease is a new age online platform backed by who\u2019s who of IT industry, created by industry veterans with a single motto \u201cMaking available Right Resources at Right Time and at Right Cost\u201d.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:54.417Z",
+  "enhanced_description": "TalentOnLease is a modern online platform designed to connect clients with urgent IT requirements for critical projects with a wide network of verified and vetted IT Services/Solution firms (partners). Launched in 2018 by industry veterans, the platform operates with the core motto of \"Making available Right Resources at the Right Time and at Right Cost.\" It addresses the industry's challenge of efficient IT talent acquisition by serving as a responsible marketplace that facilitates transactions and builds trust through a robust policy framework and strict audit mechanisms. Key features include access to an active bench of over 6,190 IT professionals, ensuring all listed professionals are thoroughly verified and vetted, and enabling rapid talent deployment within 24 to 48 hours for critical project needs.",
+  "target_industries": [
+    "Information Technology (IT)"
+  ],
+  "key_use_cases": [
+    "Fulfilling urgent IT resource requirements for critical projects",
+    "Rapid IT staff augmentation and contract staffing",
+    "Streamlining the talent acquisition process for IT roles",
+    "Sourcing verified and vetted IT professionals efficiently",
+    "Ensuring quality and trust in IT talent engagements"
+  ],
+  "competitive_advantages": [
+    "Extensive active talent bench of over 6,190 IT professionals",
+    "Thorough verification and vetting process for IT professionals and partners",
+    "Extremely rapid talent availability (within 24-48 hours)",
+    "Centralized online platform connecting clients and IT partners",
+    "Strong policy framework and audit mechanism for trust building and governance",
+    "Focus on providing the 'Right Resources at the Right Time and at Right Cost'",
+    "Backed by IT industry veterans"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based/SaaS platform for connecting clients and IT service/solution partners",
+    "Online marketplace for IT talent acquisition"
+  ],
+  "hr_functions_supported": [
+    "Talent Acquisition",
+    "Recruitment",
+    "Candidate Sourcing",
+    "Candidate Screening",
+    "Hiring Automation",
+    "Talent Pipeline Management"
+  ],
+  "roi_benefits": [
+    "Faster time-to-hire for critical IT roles",
+    "Increased efficiency in talent acquisition processes",
+    "Reduced project delays due to rapid talent availability",
+    "Improved quality of hire through verified and vetted professionals",
+    "Cost optimization in IT resource procurement",
+    "Mitigation of hiring risks via robust policy and audit frameworks"
+  ],
+  "searchable_keywords": [
+    "Talent on Lease",
+    "IT talent",
+    "IT professionals",
+    "IT services",
+    "IT solutions",
+    "Recruiting",
+    "Hiring",
+    "Talent acquisition",
+    "Staff augmentation",
+    "Contract staffing",
+    "Online platform",
+    "Recruitment software",
+    "Recruitment agencies",
+    "Job boards",
+    "Talent sourcing",
+    "Candidate screening",
+    "Hiring automation",
+    "Talent pipeline",
+    "Quality of hire",
+    "Urgent hiring",
+    "Right resources",
+    "Fast hiring"
+  ],
+  "primary_users": [
+    "Clients requiring IT professionals for projects (e.g., IT departments, project managers, HR/Talent Acquisition teams)",
+    "IT Services/Solution Firms (Partners) providing IT professionals"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "_weight": 1
+}

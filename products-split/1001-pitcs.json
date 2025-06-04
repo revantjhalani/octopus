@@ -1,0 +1,165 @@
+{
+  "id": 1001,
+  "name": "PITCS",
+  "description": "global provider of Staffing, Recruitment Solutions, Payroll Services, Flexi Staffing and HR Consulting Services over  more than 2 decades of expertise in the field and headquarter in Bangalore and having branch offices across different cities of India and around the globe. We are a technology backed up Company providing the Complete advice and support on Recruitment & Payroll Services to the Organizations with a quick turnaround time in their Hiring Process .",
+  "features": [
+    "Offer Flexi Staffing",
+    "Provide consulting ",
+    "High ROI with low cost"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Talent Management",
+    "Recruiting",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Core HR Software",
+    "Talent management software",
+    "Recruiting software",
+    "Staffing & management software",
+    "Onboarding software"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Talent sourcing",
+    "Candidate screening",
+    "Quick Hiring"
+  ],
+  "headquarter": "Bangalore ",
+  "launch_date": "2006",
+  "order": 20944,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Inspired || Innovation || Empowered",
+  "ProductId": null,
+  "ShortDescription": "Poonam IT Consulting Services, abbreviated as PITCS is an ISO 27001:2013 certified company",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "HR Consulting",
+      "sequence": 0,
+      "description": "Effective HR Management is based on strong, simple and effective HR Processes."
+    },
+    {
+      "name": "Professional Staffing and Recruitment",
+      "sequence": 1,
+      "description": "Finding the right person for the right role is crucial to your organization\u2019s performance."
+    },
+    {
+      "name": "Flexi Staffing",
+      "sequence": 2,
+      "description": "The requirement for flexibility, improvement in productivity and legal compliance"
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:38:35.151Z",
+  "enhanced_description": "PITCS, also known as Poonam IT Consulting Services, is an ISO 27001:2013 certified global provider of Staffing, Recruitment Solutions, Payroll Services, Flexi Staffing, and HR Consulting Services. Established in 2006, the company leverages over two decades of expertise, operating from its headquarters in Bangalore with branch offices across various cities in India and globally. As a technology-backed firm, PITCS offers comprehensive advice and support for Recruitment & Payroll Services, aiming for quick turnaround times in the hiring process for organizations worldwide.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Flexible workforce deployment (Flexi Staffing)",
+    "Professional staffing and recruitment for specialized roles",
+    "Payroll management and administration",
+    "Strategic HR process optimization and consulting",
+    "Accelerating the hiring process for open positions",
+    "Improving hiring manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "Over two decades of industry expertise",
+    "Global presence with branches across India and internationally",
+    "Technology-backed service delivery",
+    "Proven track record of quick turnaround time in hiring processes",
+    "ISO 27001:2013 certification demonstrating commitment to information security",
+    "Claimed high ROI with low cost"
+  ],
+  "hr_functions_supported": [
+    "Staffing",
+    "Recruitment",
+    "Payroll",
+    "HR Consulting",
+    "Flexi Staffing",
+    "Talent Management",
+    "Core HR",
+    "Onboarding",
+    "Talent Sourcing",
+    "Candidate Screening"
+  ],
+  "roi_benefits": [
+    "High ROI with low cost",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Hire Top Talent Faster and More Efficiently",
+    "Fill Open Positions More Quickly",
+    "Quick turnaround time in hiring processes"
+  ],
+  "searchable_keywords": [
+    "PITCS",
+    "Poonam IT Consulting Services",
+    "Staffing",
+    "Recruitment",
+    "Recruiting Solutions",
+    "Payroll Services",
+    "Flexi Staffing",
+    "HR Consulting",
+    "HR Management",
+    "Talent Management",
+    "Core HR Software",
+    "Recruiting Software",
+    "Staffing Management Software",
+    "Onboarding Software",
+    "Hiring",
+    "Talent Sourcing",
+    "Candidate Screening",
+    "Quick Hiring",
+    "Global HR",
+    "India HR",
+    "ISO 27001",
+    "Professional Staffing",
+    "HR Process Optimization"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Departments",
+    "Organizational Leadership"
+  ],
+  "compliance_features": [
+    "ISO 27001:2013 certified"
+  ],
+  "scalability_features": [
+    "Global provider with branch offices across different cities of India and around the globe"
+  ],
+  "security_features": [
+    "ISO 27001:2013 certified company"
+  ],
+  "_weight": 1
+}

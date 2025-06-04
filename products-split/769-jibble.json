@@ -1,0 +1,108 @@
+{
+  "id": 769,
+  "name": "Jibble",
+  "description": "Jibble is the new standard in time tracking software used by companies all over the world. PayrollPanda is Malaysia's most popular cloud payroll software, helping thousands of SMEs do their payroll without the stress.",
+  "features": [
+    "Powerful insights at your fingertips",
+    "Easy leave management",
+    "Provide chrome extension"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Time tracking",
+    "Workforce management"
+  ],
+  "tags": [
+    "Employee engagement",
+    "Employee empowerment",
+    "Employee satisfaction"
+  ],
+  "headquarter": "California",
+  "launch_date": "2016",
+  "order": 20722,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Time tracking made easy",
+  "ProductId": null,
+  "ShortDescription": "Jibble Group builds HR SaaS products. We are a 100% remote company.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:06.561Z",
+  "enhanced_description": "Jibble is a cloud-based time tracking software designed to be a new standard for companies globally. It offers features like easy leave management and powerful insights for workforce management. Jibble is part of the Jibble Group, an entirely remote company that builds various HR SaaS products, including PayrollPanda, a popular cloud payroll software in Malaysia for SMEs.",
+  "key_use_cases": [
+    "Employee time tracking",
+    "Leave management",
+    "Workforce data analysis and insights"
+  ],
+  "competitive_advantages": [
+    "Ease of use for time and leave management",
+    "Provision of powerful analytical insights",
+    "Cloud-based accessibility",
+    "Browser extension availability"
+  ],
+  "hr_functions_supported": [
+    "Time Tracking",
+    "Leave Management",
+    "Workforce Management",
+    "Employee Engagement"
+  ],
+  "technology_stack": [
+    "Cloud-based platform",
+    "Browser Extension technology (Chrome Extension)"
+  ],
+  "roi_benefits": [
+    "Improved employee happiness and engagement",
+    "Reduced administrative burden for time and leave management",
+    "Enhanced decision-making through data insights"
+  ],
+  "searchable_keywords": [
+    "Jibble",
+    "time tracking",
+    "leave management",
+    "workforce management",
+    "employee engagement",
+    "employee empowerment",
+    "employee satisfaction",
+    "HR software",
+    "HR SaaS",
+    "cloud time tracking",
+    "chrome extension",
+    "talent management"
+  ],
+  "primary_users": [
+    "Employees",
+    "Managers",
+    "HR Administrators"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,161 @@
+{
+  "id": 562,
+  "name": "Enigma Camp",
+  "description": "Enigma Camp Specializing in IT Bootcamp and IT Talent Management, providing well-known enterprises with the best talents and support. There is an unemployment problem in Indonesia Within 135 Million workers in Indonesia Indonesia's Employment Occupation Rate in Technology related jobs is only 0.81%",
+  "features": [
+    "Remote Development Center",
+    "Talent Acquisition",
+    "Talent Coaching And Mentoring"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Improve Employee Happiness and Engagement",
+    "Build a More Diverse and Inclusive Workforce",
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Talent Management",
+    "Learning and Development",
+    "Recruiting",
+    "Total Rewards"
+  ],
+  "sub_categories": [
+    "Benefits administration services",
+    "Employee engagement software",
+    "Onboarding software",
+    "Training eLearning software",
+    "Staffing services providers",
+    "Recruitment agencies",
+    "Training management system",
+    "HR analytics software",
+    "Recruiting software"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Learning speed",
+    "Workforce diversity",
+    "Hiring analytics",
+    "Recruiting"
+  ],
+  "headquarter": "Jakarta Selatan, DKI Jakarta",
+  "launch_date": "2017",
+  "order": 20521,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Minimizing the gap between education institutions graduates with the industries.",
+  "ProductId": null,
+  "ShortDescription": "Enigma Camp specialize in the business of IT Bootcamp and talent management for the last five years with a list of well-known clients and companies.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:30:04.899Z",
+  "enhanced_description": "Enigma Camp specializes in IT Bootcamp and IT Talent Management, addressing the significant unemployment problem in Indonesia's technology sector by minimizing the skill gap between education institution graduates and industry demands. The company provides well-known enterprises with highly skilled IT talents and ongoing support, leveraging its five years of experience and established client relationships. Services include establishing Remote Development Centers, comprehensive Talent Acquisition, and continuous Talent Coaching and Mentoring to ensure optimal performance and integration.",
+  "target_industries": [
+    "Technology",
+    "Any industry requiring IT talent"
+  ],
+  "ideal_company_sizes": [
+    "Mid-market",
+    "Enterprise"
+  ],
+  "key_use_cases": [
+    "IT skill development and training for new graduates and existing professionals",
+    "Sourcing and placement of IT talent for enterprises",
+    "Improving the capabilities and productivity of IT teams",
+    "Establishing and managing remote IT development centers",
+    "Minimizing the talent gap between academic institutions and industry needs"
+  ],
+  "competitive_advantages": [
+    "Specialization in IT Bootcamp and IT Talent Management services",
+    "Directly addresses a critical IT talent gap and unemployment issue in Indonesia",
+    "Provision of Remote Development Centers for flexible talent deployment",
+    "Established track record with a list of well-known clients and companies",
+    "Focus on providing 'best talents and support'"
+  ],
+  "implementation_scenarios": [
+    "On-demand talent sourcing for specific IT projects or roles",
+    "Strategic partnership for continuous IT talent pipeline development",
+    "Establishing off-site or remote IT development teams",
+    "Upskilling and reskilling existing IT workforce through coaching and mentoring"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Learning and Development",
+    "Recruiting",
+    "Total Rewards",
+    "Benefits administration",
+    "Employee engagement",
+    "Onboarding",
+    "HR analytics"
+  ],
+  "roi_benefits": [
+    "Boosted Hiring Manager Confidence and Productivity through skilled talent acquisition",
+    "Improved Employee Happiness and Engagement for placed talents",
+    "Contribution to Building a More Diverse and Inclusive Workforce",
+    "Accelerated Skill Development and Learning Efficiency for IT professionals",
+    "Reduced time-to-hire for critical IT roles",
+    "Access to a trained and industry-ready IT talent pool"
+  ],
+  "searchable_keywords": [
+    "Enigma Camp",
+    "IT Bootcamp",
+    "IT Talent Management",
+    "Talent Acquisition",
+    "Talent Coaching And Mentoring",
+    "Remote Development Center",
+    "Skill development",
+    "Learning efficiency",
+    "Training effectiveness",
+    "Learning speed",
+    "Workforce diversity",
+    "Hiring analytics",
+    "Recruiting",
+    "Indonesia IT talent",
+    "Tech employment solutions",
+    "Graduate employment",
+    "Skill gap",
+    "Staffing services",
+    "Recruitment agencies",
+    "Training management system",
+    "HR analytics software",
+    "Recruiting software",
+    "Employee engagement software",
+    "Onboarding software",
+    "Training eLearning software",
+    "Benefits administration services"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Professionals",
+    "Company Employees (IT Professionals)",
+    "Enterprises seeking IT talent",
+    "Graduates seeking IT employment"
+  ],
+  "deployment_options": [
+    "Remote talent deployment (e.g., Remote Development Center)"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,192 @@
+{
+  "id": 420,
+  "name": "Asanify",
+  "description": "Asanify, a Techstars portfolio company, provides cutting edge AI-based HRMS, Payroll, and Sales Enablement Engine that helps Startups/ SMEs enhance revenues and save costs. Its industry-leading AI Tech engages employees through Whatsapp, Slack, and other platforms of your choice. Through our proprietary salary structuring and automated sales onboarding solution, we transform employee onboarding and improve motivation and retention.",
+  "features": [
+    "The world\u2019s largest business transformation program",
+    "Launching India\u2019s first 4G network ",
+    "Building a global video streaming platform with 300 MN+ users. "
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity",
+    "Reduce the Cost of Hiring Qualified Employees"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting",
+    "Total Rewards",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Payroll services providers",
+    "HR management suites",
+    "Workforce management",
+    "Time tracking",
+    "Talent management software",
+    "Recruiting software",
+    "Software and Services Related to HR Software",
+    "Talent acquisition suites"
+  ],
+  "tags": [
+    "Talent acquisition",
+    "Hiring best practices",
+    "Hiring process optimization",
+    "Talent acquisition costs",
+    "Hiring automation",
+    "Data-driven hiring"
+  ],
+  "headquarter": "Kolkata, WEST BENGAL",
+  "launch_date": "2019",
+  "order": 20380,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "A payroll and employee administration solution tailored for SMBs, easing management burdens",
+  "ProductId": null,
+  "ShortDescription": "Asanify is India's #1 Ranked HR and Payroll Solution for Startups and SMEs",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Agile",
+      "sequence": 0,
+      "description": "We wish to eliminate waste in people processes. Employees should be able to focus on creating value not waste time in non-core operations."
+    },
+    {
+      "name": "WorkIsWonderful",
+      "sequence": 1,
+      "description": "Employees should love to come to work on Monday and every day. Or at least happily log in during their work from home! "
+    },
+    {
+      "name": "Engage",
+      "sequence": 2,
+      "description": "Engaged employees outperform others by several multiples. We help companies with 10-10,000 employees become more engaged with a chat interface via Slack, Microsoft Teams, and Whatsapp."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": false,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:26:51.762Z",
+  "enhanced_description": "Asanify, an Indian Techstars portfolio company, offers an AI-based HRMS, Payroll, and Sales Enablement solution primarily for Startups and SMEs. It aims to help businesses enhance revenues, save costs, and ease management burdens. The platform leverages cutting-edge AI technology to engage employees through popular chat interfaces like Whatsapp, Slack, and Microsoft Teams. Key features include proprietary salary structuring and an automated sales onboarding solution designed to transform employee onboarding, improve motivation, and boost retention. Asanify is positioned as a comprehensive HR and payroll solution, supporting a range of HR functions from talent acquisition and management to workforce administration and total rewards.",
+  "ideal_company_sizes": [
+    "Startups",
+    "SMEs",
+    "SMBs",
+    "10-10,000 employees"
+  ],
+  "key_use_cases": [
+    "HR Management",
+    "Payroll Processing",
+    "Sales Enablement",
+    "Employee Engagement",
+    "Salary Structuring",
+    "Automated Sales Onboarding",
+    "Employee Onboarding",
+    "Workforce Management",
+    "Time Tracking",
+    "Talent Acquisition",
+    "Employee Motivation and Retention"
+  ],
+  "competitive_advantages": [
+    "AI-based HRMS, Payroll, and Sales Enablement Engine",
+    "Industry-leading AI Tech for employee engagement",
+    "Employee engagement via Whatsapp, Slack, and Microsoft Teams",
+    "Proprietary salary structuring solution",
+    "Automated sales onboarding solution",
+    "Helps enhance revenues and save costs",
+    "Aims to eliminate waste in HR processes",
+    "Focuses on improving employee work experience and engagement",
+    "India's #1 Ranked HR and Payroll Solution for Startups and SMEs"
+  ],
+  "hr_functions_supported": [
+    "HR Management Suites",
+    "Payroll Services",
+    "Talent Management",
+    "Recruiting / Talent Acquisition",
+    "Total Rewards (specifically salary structuring)",
+    "Workforce Management",
+    "Time Tracking",
+    "Employee Onboarding",
+    "Employee Engagement"
+  ],
+  "technology_stack": [
+    "AI (Artificial Intelligence)"
+  ],
+  "integration_capabilities": [
+    "Whatsapp",
+    "Slack",
+    "Microsoft Teams"
+  ],
+  "roi_benefits": [
+    "Enhance revenues",
+    "Save costs",
+    "Improve motivation",
+    "Improve retention",
+    "Hire top talent faster and more efficiently",
+    "Boost hiring manager confidence and productivity",
+    "Reduce the cost of hiring qualified employees",
+    "Eliminate waste in people processes",
+    "Employees can focus on creating value",
+    "Engaged employees outperform others",
+    "Eases management burdens"
+  ],
+  "searchable_keywords": [
+    "Asanify",
+    "HRMS",
+    "Payroll",
+    "Sales Enablement",
+    "AI HRMS",
+    "AI Payroll",
+    "Startups HR",
+    "SMEs HR",
+    "SMBs HR",
+    "India HR",
+    "Talent Management Software",
+    "Recruiting Software",
+    "Total Rewards Software",
+    "Workforce Management",
+    "Time Tracking Software",
+    "Talent Acquisition",
+    "Hiring Automation",
+    "Employee Engagement",
+    "Automated Onboarding",
+    "Salary Structuring",
+    "Whatsapp HR",
+    "Slack HR",
+    "Microsoft Teams HR",
+    "HR Software",
+    "Employee Administration",
+    "Cost Saving HR",
+    "Revenue Enhancement HR",
+    "Employee Motivation",
+    "Employee Retention",
+    "Hiring Optimization",
+    "Data-driven Hiring",
+    "Agile HR"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Hiring Managers",
+    "Employees",
+    "Sales Teams (for enablement/onboarding)"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,122 @@
+{
+  "id": 72,
+  "name": "Eteki",
+  "description": "eTeki is where the world goes to qualify talent. Our award winning technical interviews-as-a-service platform enables organizations across the globe hire the best tech talent, fast. eTeki is poised to disrupt the way IT candidates are hired by giving any company the ability to screen large numbers of tech talent quickly.",
+  "features": [
+    "Take 5 minutes to scope the technical skills you need to assess.",
+    "Get your candidate technically validated by a human not a machine.",
+    "Watch your candidate and an IT expert talk in a Virtual Interview Studio",
+    "The technical interviewer scores the candidate & sends you a report."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Recruiting software"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring manager confidence",
+    "Hiring manager productivity"
+  ],
+  "headquarter": "Florida",
+  "launch_date": "2014",
+  "order": 20048,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "The Only Global Marketplace for Technical Interviews",
+  "ProductId": null,
+  "ShortDescription": "eTeki is on a mission to supply the world with interviews-as-a-service to scale and optimize technical hiring.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": [],
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": false,
+  "Most_Searched": true,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-16T14:26:57.550Z",
+  "enhanced_description": "eTeki is an award-winning technical interviews-as-a-service platform and a global marketplace designed to qualify and hire the best tech talent quickly. It addresses the challenge of screening large numbers of IT candidates by providing human-led technical validations. The platform enables organizations to define required technical skills, connect candidates with IT experts in a Virtual Interview Studio for a live technical discussion, and receive detailed scores and reports from the technical interviewer.",
+  "target_industries": [
+    "Technology",
+    "Information Technology (IT)"
+  ],
+  "key_use_cases": [
+    "Technical skill assessment of candidates",
+    "Pre-screening of technical candidates",
+    "Scaling technical hiring processes",
+    "Optimizing technical hiring speed and quality",
+    "Technical interviews-as-a-service"
+  ],
+  "competitive_advantages": [
+    "Human-led technical validation (not machine-based)",
+    "Speed in technical talent acquisition",
+    "Ability to screen large volumes of tech talent efficiently",
+    "Global marketplace for technical interviews",
+    "Interviews-as-a-service model"
+  ],
+  "implementation_scenarios": [
+    "Cloud-based (as-a-service)"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Talent Acquisition",
+    "Technical Assessment",
+    "Candidate Screening"
+  ],
+  "roi_benefits": [
+    "Faster hiring of technical talent",
+    "Improved quality of technical hires",
+    "Increased hiring manager confidence",
+    "Enhanced hiring manager productivity",
+    "Efficient screening of high volumes of candidates"
+  ],
+  "searchable_keywords": [
+    "Eteki",
+    "technical interviews",
+    "interviews-as-a-service",
+    "tech talent",
+    "IT candidates",
+    "hiring",
+    "recruiting",
+    "technical assessment",
+    "talent qualification",
+    "screening",
+    "virtual interview studio",
+    "global marketplace",
+    "human validation",
+    "recruiting software",
+    "hiring manager confidence",
+    "hiring manager productivity",
+    "scale hiring",
+    "optimize hiring"
+  ],
+  "primary_users": [
+    "Recruiting teams",
+    "Hiring Managers (specifically for technical roles)"
+  ],
+  "deployment_options": [
+    "Cloud-based (as-a-service)"
+  ],
+  "scalability_features": [
+    "Ability to screen large numbers of tech talent quickly",
+    "Designed to scale technical hiring",
+    "Global marketplace for interviews"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,124 @@
+{
+  "id": 298,
+  "name": "Sunstone Eduversity",
+  "description": "Sunstone offers career oriented training interventions for undergraduate and postgraduate students at 30+ institutions across 25 cities. \n Sunstone\u2019s training programs are industry endorsed to enhance employability. These programs are designed for hybrid delivery with unparalleled focus on soft skills and personality development. Sunstone\u2019s focus is to provide students with holistic educational experience.",
+  "features": [
+    "Flat culture to encourage open communication",
+    "Ensuring healthcare with Medical insurance",
+    "Events to support socio-economic causes"
+  ],
+  "founders": [
+    "ASHISH MUNJAL",
+    "Piyush Nangru"
+  ],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Training & development companies"
+  ],
+  "tags": [
+    "Skill development",
+    "Learning optimisation",
+    "Skill acquisition",
+    "Personalised learning",
+    "Continuous learning",
+    "Training methodologies"
+  ],
+  "headquarter": "Gurgaon, Haryana",
+  "launch_date": "2019",
+  "order": 20260,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Celebrating Success!",
+  "ProductId": null,
+  "ShortDescription": "Sunstone is a leading higher education service provider that works with academic institutions in up-skilling students for employability.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:49.477Z",
+  "enhanced_description": "Sunstone Eduversity is a leading higher education service provider that offers career-oriented training interventions for undergraduate and postgraduate students. Their programs are designed for hybrid delivery with an unparalleled focus on soft skills and personality development, aiming to provide students with a holistic educational experience. Sunstone partners with academic institutions across 30+ institutions in 25 cities to deliver industry-endorsed training programs that enhance student employability.",
+  "target_industries": [
+    "Education"
+  ],
+  "key_use_cases": [
+    "Providing career-oriented training interventions for higher education students",
+    "Enhancing student employability through industry-endorsed programs",
+    "Developing soft skills and personality for career readiness among students",
+    "Accelerating skill development and learning efficiency for undergraduate and postgraduate students",
+    "Delivering holistic educational experiences to students"
+  ],
+  "competitive_advantages": [
+    "Industry-endorsed training programs",
+    "Hybrid delivery model for training",
+    "Strong focus on soft skills and personality development",
+    "Extensive reach through partnerships with 30+ institutions across 25 cities",
+    "Commitment to providing a holistic educational experience"
+  ],
+  "implementation_scenarios": [
+    "Integration with academic institutions to deliver career-oriented training programs",
+    "Deployment of hybrid learning environments for student skill development within educational settings"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development"
+  ],
+  "roi_benefits": [
+    "Increased student employability",
+    "Accelerated skill development for students",
+    "Improved learning efficiency for students",
+    "Enhanced holistic development of students",
+    "Better graduate outcomes for partnering academic institutions"
+  ],
+  "searchable_keywords": [
+    "Sunstone",
+    "Eduversity",
+    "higher education",
+    "career-oriented training",
+    "undergraduate training",
+    "postgraduate training",
+    "employability skills",
+    "soft skills development",
+    "personality development",
+    "skill development",
+    "learning optimization",
+    "skill acquisition",
+    "continuous learning",
+    "training methodologies",
+    "hybrid learning",
+    "student up-skilling",
+    "academic partnerships",
+    "learning efficiency"
+  ],
+  "primary_users": [
+    "Undergraduate students",
+    "Postgraduate students",
+    "Academic institutions"
+  ],
+  "deployment_options": [
+    "Hybrid (combining online and in-person delivery)"
+  ],
+  "_weight": 1
+}

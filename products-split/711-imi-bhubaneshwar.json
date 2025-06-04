@@ -1,0 +1,161 @@
+{
+  "id": 711,
+  "name": "IMI Bhubaneshwar",
+  "description": "IMI follows international standard curricula, which has been enriched in the past, by its academic collaborations with erstwhile International Management Institute, Geneva; Faculty of Management, McGill University, Montreal, and Manchester Business School, U.K.",
+  "features": [
+    "Offer fellow program",
+    "Offer online post-graduation program",
+    "Provide corporate training with courses"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Learning and Development",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Training & development companies",
+    "Machine learning HR"
+  ],
+  "tags": [
+    "Diversity and inclusion",
+    "Learning analytics"
+  ],
+  "headquarter": "Bhubaneswar, IN",
+  "launch_date": "1981",
+  "order": 20665,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Shaping global leaders for tomorrow",
+  "ProductId": null,
+  "ShortDescription": "IMI is India's first corporate-sponsored Business School",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Training ",
+      "sequence": 0,
+      "description": "Executive education is one of the key offerings at the International Management Institute, Bhubaneswar. The main focus of executive education through Management Development Programmes (MDP) at IMI-Bhubaneswar is to improve management systems and enable the executives to take on leadership roles. IMI-Bhubaneswar conducts a wide range of MDPs in various functional areas of management. The programmes, conducted by well experienced faculty, are well designed to provide experiential learning to the participants."
+    },
+    {
+      "name": "Consulting",
+      "sequence": 1,
+      "description": "Though IMI, Bhubaneswar is a relatively new institute, yet it has created a mark for itself in various fields including consulting activities. Faculty members of IMI Bhubaneswar are engaged with various multilateral agencies, government agencies and industries as consultants. Our faculty members have been consultants to organizations such as Indian Oil, SAP Inc., FNST (Germany), UNICEF Odisha, Adam Smith Institute (UK), Baird & Associates (Canada)"
+    },
+    {
+      "name": "Research",
+      "sequence": 2,
+      "description": "Very early thought leaders at IMI realized that research plays an important role in teaching learning environment therefor since inception the faculty members have been involved in quality research work. More than 220 publications since beginning of the institution, the faculty members at IMI Bhubaneswar produce around 30 different types of publications every year. Prominent amongst them are Journal Articles, Books, chapter in books etc. The faculty members have written many award winning case studies which are now featured in case repositories across the globe. The average research output of IMI Bhubaneswar faculty is around 2.7 research publication per year which is considered as high in academic world."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:58.555Z",
+  "enhanced_description": "IMI Bhubaneshwar is India's first corporate-sponsored Business School, established in 1981, dedicated to shaping global leaders for tomorrow. It offers international standard curricula, enriched by academic collaborations with prestigious institutions like the International Management Institute, Geneva; Faculty of Management, McGill University, Montreal; and Manchester Business School, U.K. Core offerings include executive education, corporate training, online post-graduation programs, and a fellow program. IMI also provides management consulting services and conducts extensive research, contributing to thought leadership in management. A key business objective is to help organizations build a more diverse and inclusive workforce.",
+  "target_industries": [
+    "Oil & Gas",
+    "Technology",
+    "Non-profit",
+    "Government",
+    "Multilateral Agencies"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Executive education and leadership development for management professionals",
+    "Corporate training to improve management systems and enhance executive capabilities",
+    "Upskilling and reskilling individuals through online post-graduation programs",
+    "Advanced academic and research pursuits via fellow programs",
+    "Strategic management consulting and advisory services for organizations",
+    "Supporting initiatives aimed at building a more diverse and inclusive workforce",
+    "Knowledge creation and thought leadership in management through research"
+  ],
+  "competitive_advantages": [
+    "Status as India's first corporate-sponsored Business School with strong corporate connections",
+    "Adherence to international standard curricula and prestigious academic collaborations",
+    "Focus on experiential learning in executive education programs",
+    "Robust research output and recognized thought leadership in the academic world",
+    "Faculty engagement in consulting activities with diverse and prominent organizations (e.g., Indian Oil, SAP Inc., UNICEF)",
+    "Offers a variety of learning formats, including online post-graduation programs"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Training and Development",
+    "Diversity and Inclusion",
+    "Talent Development"
+  ],
+  "roi_benefits": [
+    "Improved management systems within organizations",
+    "Enhanced leadership capabilities among executives",
+    "Development of a more diverse and inclusive workforce",
+    "Access to experiential learning for practical application of management concepts",
+    "Benefit from cutting-edge research and thought leadership in management",
+    "Strategic guidance through management consulting"
+  ],
+  "searchable_keywords": [
+    "IMI Bhubaneshwar",
+    "IMI",
+    "Corporate Business School",
+    "India",
+    "International curriculum",
+    "Academic collaboration",
+    "Learning and Development",
+    "L&D",
+    "Corporate LMS",
+    "Training & Development",
+    "Corporate training",
+    "Executive education",
+    "Management Development Programmes",
+    "MDP",
+    "Online post-graduation program",
+    "Fellow program",
+    "Management consulting",
+    "Research",
+    "Global leaders",
+    "Leadership development",
+    "Diversity and inclusion",
+    "D&I",
+    "Learning analytics",
+    "Experiential learning",
+    "HR technology",
+    "Machine learning HR"
+  ],
+  "primary_users": [
+    "Executives",
+    "Managers",
+    "Working professionals",
+    "Post-graduate students",
+    "Organizations",
+    "Companies",
+    "HR professionals"
+  ],
+  "deployment_options": [
+    "Online",
+    "On-site"
+  ],
+  "_weight": 1
+}

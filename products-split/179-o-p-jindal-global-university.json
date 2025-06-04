@@ -1,0 +1,140 @@
+{
+  "id": 179,
+  "name": "O.P. Jindal Global University",
+  "description": "O.P. Jindal Global University (JGU), founded in 2009 as a philanthropic initiative by Naveen Jindal, offers a multi-disciplinary, research-oriented education. With over 12,500 students, 1,200+ faculty, and 2,800+ staff, JGU maintains a 1:9 faculty-student ratio and recruits globally. JGU has been India's top private university for three years (QS World University Rankings 2023), ranked among the top 150 globally for universities under 50, and recognized in the top 500 for graduate employability.",
+  "features": [
+    "\n1200+ Full Time Faculty Members",
+    "\n200 +Faculty & Student Exchange Collaborations",
+    "\n70+ Countries Represented by Students"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Accelerate Skill Development and Learning Efficiency"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Course authoring",
+    "Corporate LMS"
+  ],
+  "tags": [
+    "Learning optimisation",
+    "Continuous learning"
+  ],
+  "headquarter": "Sonipat, NCR of India, Haryana",
+  "launch_date": "2009",
+  "order": 20146,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Discover Your Calling at Our Schools",
+  "ProductId": null,
+  "ShortDescription": "Fostering curriculum, research, and collaborations of the highest standards, with a global perspective.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Study Abroad Opportunities",
+      "sequence": 0,
+      "description": "We offer students global exposure through study abroad programs, international interactions, and cultural exchanges, fostering a multicultural perspective."
+    },
+    {
+      "name": "Interdisciplinary Curriculum",
+      "sequence": 1,
+      "description": "Our institution offers a well-rounded, interdisciplinary education, preparing students for the ever-changing global landscape."
+    },
+    {
+      "name": "World-class Infrastructure",
+      "sequence": 2,
+      "description": "From well-equipped classrooms and libraries to research centers, JGU offers an ideal setting for academic excellence."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:22:00.514Z",
+  "enhanced_description": "O.P. Jindal Global University (JGU), established in 2009 as a philanthropic initiative, delivers a multi-disciplinary, research-oriented education with a core focus on accelerating skill development and learning efficiency. Consistently recognized among India's top private universities by QS World University Rankings 2023, and globally for graduate employability (top 500), JGU functions as a provider of advanced learning solutions. It leverages a substantial full-time faculty (1200+), over 200 faculty and student exchange collaborations, and a student body representing 70+ countries to foster a dynamic environment for continuous learning and optimization. Its offerings, encompassing elements of course authoring and corporate LMS, emphasize a global perspective, interdisciplinary curriculum, and world-class infrastructure to prepare individuals and organizations for the evolving global landscape.",
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Corporate learning and development program delivery",
+    "Custom course content development",
+    "Skill acceleration and efficiency improvement initiatives",
+    "Continuous learning and professional development programs"
+  ],
+  "competitive_advantages": [
+    "Consistently high global and national university rankings (QS World University Rankings, Graduate Employability)",
+    "Strong faculty-student ratio (1:9) enabling personalized learning",
+    "Extensive global collaborations and a diverse international student body",
+    "Focus on interdisciplinary and research-oriented education with a global perspective",
+    "Commitment to accelerating skill development and learning efficiency",
+    "World-class infrastructure supporting advanced learning environments"
+  ],
+  "hr_functions_supported": [
+    "Learning and Development",
+    "Skill Development",
+    "Talent Development"
+  ],
+  "roi_benefits": [
+    "Improved workforce skill sets and capabilities",
+    "Enhanced learning efficiency and speed within organizations",
+    "Access to highly employable talent (for organizations recruiting JGU graduates)",
+    "Optimized continuous professional development outcomes"
+  ],
+  "searchable_keywords": [
+    "JGU",
+    "O.P. Jindal Global University",
+    "Learning and Development",
+    "Corporate LMS",
+    "Course Authoring",
+    "Skill Development",
+    "Learning Efficiency",
+    "Continuous Learning",
+    "Learning Optimisation",
+    "Multi-disciplinary Education",
+    "Research-oriented",
+    "Global Education",
+    "International Collaborations",
+    "Study Abroad",
+    "Interdisciplinary Curriculum",
+    "Graduate Employability",
+    "Higher Education",
+    "University Rankings",
+    "Talent Development",
+    "Professional Development",
+    "Global Perspective"
+  ],
+  "primary_users": [
+    "Corporate learners",
+    "HR professionals",
+    "Learning and Development specialists",
+    "Trainers/Educators"
+  ],
+  "scalability_features": [
+    "Proven capability to manage a large user base (12,500+ students, 2,800+ staff)",
+    "Extensive global collaborations supporting international reach for learning programs",
+    "Infrastructure designed for large-scale academic and learning programs"
+  ],
+  "_weight": 1
+}

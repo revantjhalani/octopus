@@ -1,0 +1,144 @@
+{
+  "id": 781,
+  "name": "Kalibrr Technology Access",
+  "description": "Kalibrr is a technology company that transforms the way companies hire the best talents and candidates find meaningful careers. By placing the candidate experience at the center of everything we do, we attract the best talents from all over \u2013 ultimately connecting companies with their next generation of leaders.",
+  "features": [
+    "hire the best talents and candidates find meaningful careers",
+    "HR Software",
+    "Executive Search"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Recruiting automation software",
+    "Job boards"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Talent sourcing",
+    "Candidate screening",
+    "Job boards"
+  ],
+  "headquarter": "Makati, National Capital Region, PH",
+  "launch_date": "2013",
+  "order": 20734,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Transforming the way companies hire the best talents and candidates find meaningful careers,",
+  "ProductId": null,
+  "ShortDescription": "We transform the way candidates find jobs and companies hire talent.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "AI-powered Job Matching",
+      "sequence": 0,
+      "description": "Kalibrr uses AI technology to match job seekers with relevant opportunities. This personalized approach goes beyond just keywords on a resume, aiming to connect individuals with jobs that truly suit their skills and interests."
+    },
+    {
+      "name": "Streamlined Job Search Experience",
+      "sequence": 1,
+      "description": "The platform offers features like downloadable resumes and direct contact with employers through email. This eliminates unnecessary steps and helps job seekers efficiently apply for positions."
+    },
+    {
+      "name": "Fastest-Growing Jobs Platform in the Philippines",
+      "sequence": 2,
+      "description": "The website highlights Kalibrr's position as the fastest-growing jobs platform in the Philippines, suggesting a strong reputation and a large user base for both job seekers and employers."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:21.096Z",
+  "enhanced_description": "Kalibrr is an HR technology company specializing in recruiting, offering a platform that transforms how companies find top talent and candidates secure meaningful careers. It leverages AI technology for advanced job matching, personalizing connections beyond simple keyword matching to align with job seekers' skills and interests. The platform streamlines the candidate experience through features like downloadable resumes and direct communication with employers. Recognized as the fastest-growing jobs platform in the Philippines, Kalibrr provides comprehensive recruiting solutions, including talent sourcing, candidate screening, executive search capabilities, and tools to accelerate hiring speed.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Talent Acquisition",
+    "Expedited Hiring",
+    "Executive Recruitment",
+    "Intelligent Candidate-Job Matching",
+    "Candidate Experience Enhancement",
+    "Talent Sourcing",
+    "Candidate Screening",
+    "Job Posting & Discovery"
+  ],
+  "competitive_advantages": [
+    "AI-powered job matching and personalization",
+    "Streamlined candidate experience with direct employer contact",
+    "Leading market position as the fastest-growing jobs platform in the Philippines",
+    "Candidate-centric approach to recruiting"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Staffing Management",
+    "Executive Search",
+    "Candidate Sourcing",
+    "Candidate Screening"
+  ],
+  "technology_stack": [
+    "Artificial Intelligence (AI)"
+  ],
+  "roi_benefits": [
+    "Faster time-to-hire",
+    "Improved quality of hire",
+    "Enhanced talent attraction",
+    "Better candidate-job fit",
+    "Streamlined recruitment process efficiency"
+  ],
+  "searchable_keywords": [
+    "Kalibrr",
+    "HR technology",
+    "Recruiting software",
+    "Talent acquisition",
+    "Job board",
+    "AI job matching",
+    "Candidate experience",
+    "Talent sourcing",
+    "Candidate screening",
+    "Hiring speed",
+    "Executive search",
+    "Staffing management software",
+    "Recruitment automation",
+    "Philippines jobs",
+    "Career matching",
+    "HR software"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Recruiters",
+    "Hiring Managers",
+    "Job Seekers"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "_weight": 1
+}

@@ -1,0 +1,131 @@
+{
+  "id": 706,
+  "name": "IIM Kashipur",
+  "description": "The institute commenced operations in July 2011 with a vision to become, over the next 10 years, one of the top business schools in India developing leaders who can perform globally. The fraternity diligently follows the core values of mutual respect, lifelong learning, the pursuit of excellence, transparency, and integrity.",
+  "features": [
+    "Weekend executive MBA program",
+    "Doctoral programs",
+    "Best mix of academic and industrial experiences"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Learning and Development"
+  ],
+  "sub_categories": [
+    "Corporate LMS",
+    "Training & development companies"
+  ],
+  "tags": [
+    "Diversity and inclusion",
+    "Learning analytics"
+  ],
+  "headquarter": "Kashipur",
+  "launch_date": "2011",
+  "order": 20660,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We aspire to achieve excellence in management education by using innovative teaching methods.",
+  "ProductId": null,
+  "ShortDescription": "The Indian Institute of Management Kashipur is set up with the mission to drive academic excellence using innovative teaching methods, promoting research and practice of sustainable leadership.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Core Values",
+      "sequence": 0,
+      "description": "The institute's core values are collegiality, transparency, green consciousness, and pro-active engagement with all stakeholders [1]. This suggests that IIM Kashipur is committed to creating a collaborative and supportive learning environment, being open and accountable in its operations, and promoting environmental sustainability."
+    },
+    {
+      "name": "Strategic Goals",
+      "sequence": 1,
+      "description": "IIM Kashipur's strategic goals include improvement of the academic ecosystem, synergy between educational theory, practice and research, and promotion of innovation, entrepreneurship and public service [1]. This suggests that the institute is focused on providing a high-quality education that is both theoretical and practical, and that prepares students to be successful in the business world."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:53.455Z",
+  "enhanced_description": "IIM Kashipur, established in July 2011, is a leading Indian business school focused on management education and developing global leaders through innovative teaching methods. Its mission emphasizes academic excellence, research promotion, and sustainable leadership practices. The institute is guided by core values such as mutual respect, lifelong learning, pursuit of excellence, transparency, integrity, collegiality, green consciousness, and pro-active stakeholder engagement. Strategic goals include enhancing its academic ecosystem, ensuring synergy between educational theory, practice, and research, and fostering innovation, entrepreneurship, and public service.",
+  "ideal_company_sizes": [
+    "Small",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Executive education for working professionals",
+    "Leadership development",
+    "Doctoral research and academic talent development",
+    "Enhancing diversity and inclusion in the workforce",
+    "Fostering global leadership capabilities",
+    "Developing sustainable leadership practices",
+    "Promoting innovation and entrepreneurship"
+  ],
+  "competitive_advantages": [
+    "Strong blend of academic theory and practical industrial experience",
+    "Focus on developing global leaders",
+    "Utilization of innovative teaching methodologies",
+    "Commitment to sustainable leadership practices",
+    "Emphasis on research, innovation, entrepreneurship, and public service"
+  ],
+  "hr_functions_supported": [
+    "Learning & Development",
+    "Leadership Development",
+    "Diversity & Inclusion"
+  ],
+  "roi_benefits": [
+    "Improved organizational leadership capabilities",
+    "Enhanced workforce diversity and inclusion",
+    "Development of global talent",
+    "Cultivation of sustainable business practices",
+    "Application of innovative management theories to real-world challenges"
+  ],
+  "searchable_keywords": [
+    "IIM Kashipur",
+    "management education",
+    "business school",
+    "executive MBA",
+    "doctoral programs",
+    "leadership development",
+    "corporate training",
+    "learning and development",
+    "diversity and inclusion",
+    "sustainable leadership",
+    "global leaders",
+    "innovation",
+    "entrepreneurship",
+    "academic excellence",
+    "learning analytics",
+    "corporate LMS",
+    "training companies",
+    "India business school"
+  ],
+  "primary_users": [
+    "Working professionals",
+    "Executives",
+    "Aspiring academics",
+    "Senior professionals",
+    "HR Leaders",
+    "Learning & Development Managers"
+  ],
+  "_weight": 1
+}

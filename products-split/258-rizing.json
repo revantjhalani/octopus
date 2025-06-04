@@ -1,0 +1,198 @@
+{
+  "id": 258,
+  "name": "Rizing",
+  "description": "Rizing enables businesses to achieve a truly intelligent enterprise. We do this for Human Capital Management, Enterprise Asset Management, Consumer Industries, and Geospatial solutions with leading SAP technologies, our own solutions, and our own deep industry experience.\n Rizing provides services and our proprietary apps leveraging the SAP Business Technology Platform to Fortune 500 and small/medium enterprises.\n Our mission is always to propel your organization along the transformation journey.",
+  "features": [
+    "Elevate your SAP vision with Rizing + Wipro strategic advisory",
+    "Transform with a clean core, agile cloud, and industry-tailored solutions",
+    "Unleash human potential with AI, automation, and talent intelligence"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "HRMS / HCM",
+    "Talent Management",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Resource Management Systems (HRMS)",
+    "HR management suites"
+  ],
+  "tags": [
+    "Hiring efficiency",
+    "Hiring speed",
+    "Hiring tools"
+  ],
+  "headquarter": "Stamford, Connecticut",
+  "launch_date": "2006",
+  "order": 20223,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Every great relationship begins with a conversation. Let's talk.",
+  "ProductId": null,
+  "ShortDescription": "Rizing enables businesses to achieve a truly intelligent enterprise. ",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Human Capital Management",
+      "sequence": 0,
+      "description": "SAP HCM modernizes HR with payroll, employee engagement, skill analysis, and training. Rizing leads your HR transformation."
+    },
+    {
+      "name": "Enterprise Asset Management",
+      "sequence": 1,
+      "description": "SAP EAM optimizes equipment assessment, downtime prevention, and cost insights. Rizing tailors systems to fit your needs."
+    },
+    {
+      "name": "Fashion, Grocery, Retail Industries",
+      "sequence": 2,
+      "description": "Rizing excels in SAP S/4HANA, offering transformative consulting for retail business outcomes."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:23:13.377Z",
+  "enhanced_description": "Rizing is an expert SAP-focused consultancy and solutions provider, dedicated to enabling businesses to achieve a truly intelligent enterprise. They specialize in core functional areas including Human Capital Management (HCM), Enterprise Asset Management (EAM), Consumer Industries (spanning Fashion, Grocery, and Retail), and Geospatial solutions. Rizing leverages leading SAP technologies, notably SAP S/4HANA and the SAP Business Technology Platform, complemented by their own proprietary applications and deep industry-specific experience. Their service offerings encompass strategic advisory, including a partnership with Wipro, and comprehensive transformation initiatives focused on achieving a clean core and agile cloud infrastructure. Rizing aims to unleash human potential through the application of AI, automation, and talent intelligence, while also modernizing HR processes such as payroll, employee engagement, skill analysis, and training. For Enterprise Asset Management, they optimize equipment assessment, prevent downtime, and provide critical cost insights. Rizing serves a broad spectrum of clients, from Fortune 500 companies to small and medium-sized enterprises globally, guiding them through their digital transformation journey.",
+  "target_industries": [
+    "Consumer Industries",
+    "Fashion",
+    "Grocery",
+    "Retail"
+  ],
+  "ideal_company_sizes": [
+    "Small",
+    "Medium",
+    "Large",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "SAP HCM transformation",
+    "Enterprise Asset Management optimization",
+    "HR modernization (payroll, employee engagement, skill analysis, training)",
+    "Talent acquisition improvement",
+    "Achieving an intelligent enterprise",
+    "Cloud transformation with clean core architecture",
+    "Industry-tailored SAP solution implementation"
+  ],
+  "competitive_advantages": [
+    "Deep expertise in SAP technologies",
+    "Proprietary applications leveraging SAP Business Technology Platform",
+    "Strategic advisory through partnership with Wipro",
+    "Focus on clean core and agile cloud transformation",
+    "Industry-tailored solutions and deep industry experience",
+    "Integration of AI, automation, and talent intelligence in solutions",
+    "Comprehensive HR and EAM modernization capabilities"
+  ],
+  "implementation_scenarios": [
+    "Cloud transformation",
+    "SAP S/4HANA implementation",
+    "HR system modernization projects",
+    "Enterprise Asset Management system deployment",
+    "Industry-specific SAP solution deployment"
+  ],
+  "hr_functions_supported": [
+    "Human Capital Management (HCM)",
+    "Human Resource Management Systems (HRMS)",
+    "Talent Management",
+    "Payroll",
+    "Employee Engagement",
+    "Skill Analysis",
+    "Training Management",
+    "Talent Intelligence",
+    "Recruitment / Talent Acquisition"
+  ],
+  "technology_stack": [
+    "SAP technologies",
+    "SAP Business Technology Platform",
+    "SAP S/4HANA"
+  ],
+  "integration_capabilities": [
+    "Integration within the SAP ecosystem (leveraging SAP Business Technology Platform)"
+  ],
+  "roi_benefits": [
+    "Faster and more efficient talent acquisition",
+    "Increased hiring manager confidence and productivity",
+    "Modernized HR processes",
+    "Optimized enterprise asset management",
+    "Reduced equipment downtime",
+    "Improved cost insights for assets",
+    "Enhanced employee engagement",
+    "Improved skill analysis and training effectiveness",
+    "Achievement of an intelligent enterprise"
+  ],
+  "searchable_keywords": [
+    "Rizing",
+    "SAP",
+    "Human Capital Management",
+    "HCM",
+    "Enterprise Asset Management",
+    "EAM",
+    "Consumer Industries",
+    "Geospatial solutions",
+    "SAP Business Technology Platform",
+    "Proprietary apps",
+    "Intelligent enterprise",
+    "HRMS",
+    "Talent Management",
+    "Hiring efficiency",
+    "Hiring speed",
+    "Hiring tools",
+    "SAP vision",
+    "Clean core",
+    "Agile cloud",
+    "Industry-tailored solutions",
+    "AI",
+    "Automation",
+    "Talent intelligence",
+    "Wipro",
+    "HR transformation",
+    "Payroll",
+    "Employee engagement",
+    "Skill analysis",
+    "Training",
+    "Equipment assessment",
+    "Downtime prevention",
+    "Cost insights",
+    "SAP S/4HANA",
+    "Fashion retail",
+    "Grocery retail"
+  ],
+  "primary_users": [
+    "Hiring Managers",
+    "HR Professionals",
+    "HR Leaders",
+    "Asset Managers",
+    "Operations Managers"
+  ],
+  "deployment_options": [
+    "Cloud"
+  ],
+  "scalability_features": [
+    "Supports small, medium, large, and global enterprises",
+    "Leverages scalable SAP platforms (SAP Business Technology Platform)"
+  ],
+  "_weight": 1
+}

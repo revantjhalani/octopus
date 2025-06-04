@@ -1,0 +1,169 @@
+{
+  "id": 681,
+  "name": "Hudson RPO",
+  "description": "Since 1999, we\u2019ve delivered innovative, customized recruitment outsourcing and talent solutions to organizations worldwide. We are your trusted partner from the outset, working with you to develop creative, flexible, and cost-effective talent solutions that drive your business forward. Discover advanced, innovative talent strategies and processes that allow you to remain focused on your core business. Be confident you\u2019ll have outstanding people in place \u2014 where and when you need them.",
+  "features": [
+    "Reduce recruitment costs, with a significant reduction in the use of third-party agencies.",
+    "Build a range of talent pools of skilled, 'at-the-ready' candidates to meet your future talent needs.",
+    "Elevate your performance metrics, like time to fill, while significantly increasing the quality of hire and new hire retention."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "categories": [
+    "Talent Management",
+    "Recruiting",
+    "Total Rewards",
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Payroll services providers",
+    "HR management suites",
+    "Workforce management",
+    "Time tracking",
+    "Talent management software",
+    "Recruiting software",
+    "Software and Services Related to HR Software",
+    "Talent acquisition suites"
+  ],
+  "tags": [
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    ""
+  ],
+  "headquarter": "Old Greenwich, CT",
+  "launch_date": "1999",
+  "order": 20635,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "The mission of our business is to fuel yours",
+  "ProductId": null,
+  "ShortDescription": "From recruitment process outsourcing (RPO) to employer branding, and across the complete life cycle of your recruitment requirements, we thrive in delivering world-class customer experiences.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Cost Savings",
+      "sequence": 0,
+      "description": "Reduce recruitment costs, with a significant reduction in the use of third-party agencies."
+    },
+    {
+      "name": "Quality Candidates",
+      "sequence": 1,
+      "description": "Build a range of talent pools of skilled, 'at-the-ready' candidates to meet your future talent needs."
+    },
+    {
+      "name": "Faster Hiring",
+      "sequence": 2,
+      "description": "Elevate your performance metrics, like time to fill, while significantly increasing the quality of hire and new hire retention."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:32:25.159Z",
+  "enhanced_description": "Hudson RPO specializes in comprehensive recruitment process outsourcing (RPO) and talent solutions, including employer branding, covering the complete recruitment lifecycle. Since 1999, they have partnered with organizations globally to deliver innovative, customized, flexible, and cost-effective strategies aimed at providing outstanding talent while allowing clients to remain focused on their core business functions.",
+  "ideal_company_sizes": [
+    "Small Enterprise",
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Reducing overall recruitment costs and reliance on third-party agencies",
+    "Building strategic talent pools for future talent needs",
+    "Improving key hiring performance metrics such as time to fill, quality of hire, and new hire retention",
+    "Boosting hiring manager confidence and productivity",
+    "Outsourcing complete recruitment requirements",
+    "Enhancing employer brand"
+  ],
+  "competitive_advantages": [
+    "Significant reduction in recruitment costs and third-party agency usage",
+    "Ability to build and manage 'at-the-ready' talent pools",
+    "Proven improvement in hiring performance metrics (time to fill, quality of hire, new hire retention)",
+    "Offers customized, flexible, and cost-effective talent solutions",
+    "Extensive experience in recruitment outsourcing since 1999",
+    "Delivers world-class customer experiences",
+    "Enables client organizations to focus on their core business activities"
+  ],
+  "implementation_scenarios": [
+    "Customized recruitment outsourcing partnership",
+    "Flexible talent solution deployment tailored to organizational needs"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Talent Acquisition",
+    "Talent Sourcing",
+    "Employer Branding",
+    "Workforce Planning",
+    "HR Metrics & Analytics (specific to recruitment)"
+  ],
+  "roi_benefits": [
+    "Reduced recruitment costs",
+    "Significant reduction in third-party agency spend",
+    "Faster time to fill positions",
+    "Increased quality of hire",
+    "Improved new hire retention rates",
+    "Boosted hiring manager confidence",
+    "Increased hiring manager productivity",
+    "Allows organizations to remain focused on their core business"
+  ],
+  "searchable_keywords": [
+    "Hudson RPO",
+    "Recruitment Process Outsourcing",
+    "RPO",
+    "Recruitment outsourcing",
+    "Talent solutions",
+    "Employer branding",
+    "Talent acquisition",
+    "Recruiting",
+    "Hiring",
+    "Talent sourcing",
+    "Recruiting costs",
+    "Cost reduction",
+    "Talent pools",
+    "Quality of hire",
+    "Time to fill",
+    "New hire retention",
+    "Hiring manager productivity",
+    "Global recruitment",
+    "Customized recruitment",
+    "Flexible talent solutions",
+    "Strategic talent",
+    "HR technology services",
+    "Recruitment services",
+    "HR outsourcing",
+    "Managed recruitment services"
+  ],
+  "primary_users": [
+    "Organizations (clients)",
+    "Hiring Managers",
+    "HR Leadership",
+    "Talent Acquisition Leaders"
+  ],
+  "scalability_features": [
+    "Customized solutions for organizations worldwide",
+    "Flexible talent solutions",
+    "Capable of serving global enterprise clients"
+  ],
+  "_weight": 1
+}

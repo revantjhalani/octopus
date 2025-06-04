@@ -1,0 +1,167 @@
+{
+  "id": 578,
+  "name": "WorkSent",
+  "description": "WorkSent, formerly known as Eynetech, is a trusted Support partner to Managed Service Providers, Managed Security Service Providers, Internet Service Providers, Datacenters, and SaaS companies. Our journey began in 2015, driven by the mission \"Empowering service providers\". We combine strategic location advantages, exceptional technological expertise, and a dedicated team of skilled technicians to offer you a cost-efficient service package that ensures the smooth operation of your business. Our commitment to excellence has earned us the trust of over 60+ satisfied and growing clients worldwide.",
+  "features": [
+    "End to End execution",
+    "On-time delivery of projects",
+    "Best practice implementation"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Other / technology"
+  ],
+  "sub_categories": [
+    "Internet of things",
+    "Blockchain"
+  ],
+  "tags": [
+    "Employee empowerment"
+  ],
+  "headquarter": "Middletown, Delaware",
+  "launch_date": "2015",
+  "order": 20536,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Empowering Managed Service Providers with HelpDesk, NOC & SOC services, Cyber Security and dedicated teams.",
+  "ProductId": null,
+  "ShortDescription": "WorkSent, formerly known as Eynetech, is a trusted Support partner to Managed Service Providers, Managed Security Service Providers, Internet Service Providers, Datacenters, and SaaS companies. Our journey began in 2015, driven by the mission \"Empowering service providers\".",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "NO HIDDEN FEES AND BINDING CONTRACTS",
+      "sequence": 0,
+      "description": "Transparent pricing and flexible terms mean you can trust us to deliver without unexpected costs or long-term commitments."
+    },
+    {
+      "name": "OUR TECHS AS YOUR REMOTE TEAM",
+      "sequence": 1,
+      "description": "Our techs seamlessly integrate with your process and operations, providing expertise and support like your in-house team at a fraction of the local cost."
+    },
+    {
+      "name": "QUICKER ONBOARDING",
+      "sequence": 2,
+      "description": "Our streamlined onboarding process and ready-to-deploy techs help you start knowledge transfer, transition and support in just two weeks."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:30:23.522Z",
+  "enhanced_description": "WorkSent, formerly known as Eynetech, is a trusted support partner for Managed Service Providers (MSPs), Managed Security Service Providers (MSSPs), Internet Service Providers (ISPs), Datacenters, and SaaS companies. Established in 2015 with the mission to \"Empower service providers\", WorkSent offers a cost-efficient service package encompassing HelpDesk, Network Operations Center (NOC) services, Security Operations Center (SOC) services, and Cyber Security. These services are delivered by dedicated teams of skilled technicians who are designed to seamlessly integrate as a remote extension of clients' operations, providing expertise and support at a fraction of local costs. WorkSent emphasizes transparent pricing with no hidden fees or binding contracts and offers a streamlined onboarding process, enabling knowledge transfer and support to commence in as little as two weeks. Their commitment to excellence has earned the trust of over 60+ satisfied and growing clients worldwide, ensuring smooth business operations through end-to-end execution, on-time project delivery, and best practice implementation.",
+  "target_industries": [
+    "Managed Service Providers",
+    "Managed Security Service Providers",
+    "Internet Service Providers",
+    "Datacenters",
+    "SaaS companies"
+  ],
+  "ideal_company_sizes": [
+    "Global_Enterprise",
+    "Large_Enterprise"
+  ],
+  "key_use_cases": [
+    "HelpDesk support",
+    "Network Operations Center (NOC) services",
+    "Security Operations Center (SOC) services",
+    "Cyber Security services",
+    "Provision of dedicated remote technical teams",
+    "End-to-end project execution"
+  ],
+  "competitive_advantages": [
+    "Cost-efficient service package",
+    "Strategic location advantages",
+    "Exceptional technological expertise",
+    "Dedicated team of skilled technicians",
+    "Transparent pricing with no hidden fees and flexible terms (no binding contracts)",
+    "Seamless integration of remote technical teams with client processes and operations",
+    "Provision of expertise and support at a fraction of local costs",
+    "Quick onboarding process (support in two weeks)",
+    "Ready-to-deploy technicians for rapid knowledge transfer and transition"
+  ],
+  "implementation_scenarios": [
+    "Seamless integration of WorkSent's technical teams as a remote extension of client operations"
+  ],
+  "roi_benefits": [
+    "Cost-efficient service package",
+    "Reduced operational costs (fraction of local cost)",
+    "Predictable costs due to transparent pricing and no hidden fees",
+    "Faster time-to-value and rapid scaling of support operations through quick onboarding"
+  ],
+  "searchable_keywords": [
+    "WorkSent",
+    "Eynetech",
+    "Support partner",
+    "Managed Service Providers",
+    "MSP",
+    "Managed Security Service Providers",
+    "MSSP",
+    "Internet Service Providers",
+    "ISP",
+    "Datacenters",
+    "SaaS companies",
+    "HelpDesk services",
+    "NOC services",
+    "SOC services",
+    "Cyber Security",
+    "Dedicated teams",
+    "Remote team",
+    "Skilled technicians",
+    "Cost-efficient service",
+    "End to End execution",
+    "On-time delivery",
+    "Best practice implementation",
+    "Transparent pricing",
+    "No hidden fees",
+    "Flexible terms",
+    "No binding contracts",
+    "Quicker onboarding",
+    "Knowledge transfer",
+    "Employee empowerment",
+    "Technology support",
+    "Outsourced IT support",
+    "IT operations",
+    "Security operations"
+  ],
+  "primary_users": [
+    "Managed Service Providers",
+    "Managed Security Service Providers",
+    "Internet Service Providers",
+    "Datacenters",
+    "SaaS companies"
+  ],
+  "deployment_options": [
+    "Remote service delivery"
+  ],
+  "scalability_features": [
+    "Rapid deployment of ready-to-deploy technical teams",
+    "Streamlined onboarding process for quick expansion of support capacity",
+    "Ability to support growing client base globally"
+  ],
+  "security_features": [
+    "Cyber Security services offered",
+    "Security Operations Center (SOC) services offered"
+  ],
+  "_weight": 1
+}

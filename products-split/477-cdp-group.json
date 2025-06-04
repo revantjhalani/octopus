@@ -1,0 +1,148 @@
+{
+  "id": 477,
+  "name": "CDP Group",
+  "description": "CDP Group is HCM SaaS+ platform leader in China providing the most comprehensive scenario-based offering\uff0cfounded in 2004, our HCM SaaS+ business model and strong industry adaptability have enabled us to build a diverse and high-quality customer base with recurring revenue. We had over 900 Customers spanning across 45 key industry verticals such as healthcare, technology and retail. We pioneered the next generation HCM SaaS+ business model in China, fully integrating our cloud-based value-added services. Our employee-centric WorkLife application, built for future work-and-life style, offers one-stop access to a full spectrum of HCM services including payroll, benefits, talent acquisition, talent development and workforce management. We established our global HCM business in 2017 to tap into the overseas HCM market, and we are the No. 1 HCM SaaS+ service provider in China in terms of revenue generated from HCM SaaS+ services provided to Chinese companies\u2019 overseas business. We owned five registered patents and over 200 software copyrights.",
+  "features": [
+    "Talent incentives and recognition",
+    "Insurance and benefits for employees",
+    "Brand building for employers"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [],
+  "categories": [
+    "HRMS / HCM",
+    "Talent Management",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Human Resource Information Systems (HRIS)",
+    "Time tracking",
+    "Employee scheduling software"
+  ],
+  "tags": [
+    "Hire Top Talent Faster and More Efficiently",
+    "Boost Hiring Manager Confidence and Productivity"
+  ],
+  "headquarter": "Shanghai, Shanghai ",
+  "launch_date": "2004",
+  "order": 20437,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Enabling the future.",
+  "ProductId": null,
+  "ShortDescription": "CDP Group is HCM SaaS+ platform leader in China providing the most comprehensive scenario-based offering.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": [],
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": false,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:28:11.518Z",
+  "enhanced_description": "CDP Group, founded in 2004, is a leading HCM SaaS+ platform provider in China, known for its comprehensive, scenario-based offerings. Its HCM SaaS+ business model and strong industry adaptability have attracted over 900 customers across 45 key industry verticals, including healthcare, technology, and retail, ensuring recurring revenue. CDP Group pioneered the next-generation HCM SaaS+ model in China by fully integrating cloud-based value-added services. Their employee-centric 'WorkLife' application provides one-stop access to a full spectrum of HCM services, encompassing payroll, benefits, talent acquisition, talent development, and workforce management. Since establishing its global HCM business in 2017, CDP Group has become the No. 1 HCM SaaS+ service provider in China for Chinese companies' overseas operations. The company holds five registered patents and over 200 software copyrights.",
+  "target_industries": [
+    "Healthcare",
+    "Technology",
+    "Retail",
+    "All key industry verticals"
+  ],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Managing comprehensive Human Capital Management (HCM) operations",
+    "Streamlining payroll and benefits administration",
+    "Facilitating talent acquisition processes",
+    "Supporting employee talent development and growth",
+    "Optimizing workforce management and scheduling",
+    "Implementing talent incentives and recognition programs",
+    "Managing insurance and benefits for employees",
+    "Enhancing employer brand through strategic initiatives",
+    "Improving hiring efficiency and speed",
+    "Increasing hiring manager confidence and productivity"
+  ],
+  "competitive_advantages": [
+    "Leader in China's HCM SaaS+ platform market",
+    "No. 1 HCM SaaS+ service provider in China for Chinese companies' overseas business",
+    "Pioneered the next-generation HCM SaaS+ business model in China",
+    "Comprehensive scenario-based offering",
+    "Strong industry adaptability",
+    "Cloud-based value-added services fully integrated",
+    "Employee-centric WorkLife application for a full spectrum of HCM services",
+    "Established global HCM business",
+    "Proprietary technology with five registered patents and over 200 software copyrights"
+  ],
+  "hr_functions_supported": [
+    "Payroll",
+    "Benefits Administration",
+    "Talent Acquisition",
+    "Talent Development",
+    "Workforce Management",
+    "Time Tracking",
+    "Employee Scheduling",
+    "Talent Incentives and Recognition",
+    "Employer Branding"
+  ],
+  "roi_benefits": [
+    "Faster and more efficient talent acquisition",
+    "Increased hiring manager confidence and productivity",
+    "Improved employee experience through a comprehensive WorkLife application",
+    "Enhanced employer brand building",
+    "Streamlined HR operations through a one-stop HCM platform"
+  ],
+  "searchable_keywords": [
+    "CDP Group",
+    "HCM SaaS+",
+    "Human Capital Management",
+    "HRMS",
+    "HRIS",
+    "Talent Management",
+    "Workforce Management",
+    "Payroll",
+    "Benefits",
+    "Talent Acquisition",
+    "Talent Development",
+    "WorkLife application",
+    "Cloud HR",
+    "China HR Tech",
+    "Global HCM",
+    "Overseas business HR",
+    "Employee incentives",
+    "Employee recognition",
+    "Insurance for employees",
+    "Employer brand building",
+    "Hiring efficiency",
+    "Hiring manager productivity",
+    "Time tracking software",
+    "Employee scheduling software"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Payroll Administrators",
+    "Benefits Administrators",
+    "Talent Acquisition Teams",
+    "Learning & Development Teams",
+    "Workforce Managers",
+    "Hiring Managers",
+    "Employees"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "_weight": 1
+}

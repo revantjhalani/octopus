@@ -1,0 +1,148 @@
+{
+  "id": 784,
+  "name": "Karmaa Solutions",
+  "description": "Karmaa Solutions is a total service provider for all your scenarios ranging from Database selection, Advertised Selection to Recruitment Process Outsourcing. Our Philosophy Great vision without right people is irrelevant. We bring the Right People Together to ensure a company and candidate long-term success. Why Karmaa \u2013 The Difference The team in Karmaa is perfectly placed to provide expert advice when it comes to matching the right person to the right position with our global",
+  "features": [
+    "We have solutions for scenarios ranging from Database selection, Advertised Selection to Recruitment Process Outsourcing.",
+    "We have various divisions dedicated to researching and recruiting specific industry niches.",
+    "In order to provide superior service in various disciplines, we have multiple divisions to help serve you better."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Fill Open Positions More Quickly"
+  ],
+  "categories": [
+    "Recruiting"
+  ],
+  "sub_categories": [
+    "Staffing & management software",
+    "Recruiting automation software",
+    "Job boards"
+  ],
+  "tags": [
+    "Hiring speed",
+    "Talent sourcing",
+    "Candidate screening",
+    "Job boards"
+  ],
+  "headquarter": "Vadodara, Gujarat",
+  "launch_date": "2011",
+  "order": 20737,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "We are your success partner",
+  "ProductId": null,
+  "ShortDescription": "Karmaa Solutions is a total service provider for all your scenarios ranging from Database selection, Advertised Selection to Recruitment Process Outsourcing.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Global Recruitment with Personalized Approach: ",
+      "sequence": 0,
+      "description": " The company emphasizes their ability to connect qualified candidates with top opportunities on a global scale. They achieve this through a combination of services like database selection, advertised selection, and recruitment process outsourcing (RPO). "
+    },
+    {
+      "name": "Experienced Leadership and Diverse Expertise",
+      "sequence": 1,
+      "description": "The article mentions Ms. Shetal Bhatnagar, the Founder and Managing Director, with over 20 years of experience in HR recruitment and development."
+    },
+    {
+      "name": "Focus on Client and Candidate Satisfaction",
+      "sequence": 2,
+      "description": "Karmaa Solutions emphasizes high levels of client and candidate satisfaction. Their focus on \"Quality with Agility\" suggests they prioritize both efficiency and quality in the recruitment process, leading to positive outcomes for both parties."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:34:25.178Z",
+  "enhanced_description": "Karmaa Solutions is a comprehensive service provider specializing in recruitment solutions, encompassing Database selection, Advertised Selection, and Recruitment Process Outsourcing (RPO). The company excels in connecting qualified candidates with optimal opportunities on a global scale, prioritizing both efficiency and quality through a philosophy of \"Quality with Agility\" to ensure positive outcomes and long-term success for both clients and candidates.",
+  "target_industries": [],
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Database selection for candidates",
+    "Advertised selection campaigns",
+    "Recruitment Process Outsourcing (RPO)",
+    "Matching candidates to open positions",
+    "Talent sourcing",
+    "Candidate screening",
+    "Management and utilization of job boards for recruitment"
+  ],
+  "competitive_advantages": [
+    "Global recruitment capabilities with a personalized approach",
+    "Experienced leadership and diverse expertise in HR recruitment and development (20+ years of experience from founder)",
+    "Strong focus on client and candidate satisfaction, emphasizing quality with agility",
+    "Expert advice in matching the right person to the right position",
+    "Service-oriented approach as a total service provider"
+  ],
+  "implementation_scenarios": [
+    "Recruitment Process Outsourcing (RPO)",
+    "Service-based recruitment support"
+  ],
+  "hr_functions_supported": [
+    "Recruiting",
+    "Staffing",
+    "Talent Sourcing",
+    "Candidate Screening"
+  ],
+  "roi_benefits": [
+    "Faster fill times for open positions (Hiring speed)",
+    "Ensuring long-term success for both company and candidate",
+    "Improved efficiency in the recruitment process",
+    "Enhanced quality in candidate selection",
+    "Positive outcomes for both hiring organizations and job seekers"
+  ],
+  "searchable_keywords": [
+    "Karmaa Solutions",
+    "Recruitment",
+    "Staffing",
+    "Hiring",
+    "Talent Sourcing",
+    "Candidate Screening",
+    "Job Boards",
+    "Database Selection",
+    "Advertised Selection",
+    "Recruitment Process Outsourcing",
+    "RPO",
+    "Global Recruitment",
+    "Enterprise Recruitment",
+    "Hiring Speed",
+    "Talent Acquisition",
+    "HR Services",
+    "Recruitment Service Provider",
+    "Success Partner",
+    "Quality Recruitment",
+    "Agile Recruitment",
+    "HR recruitment and development"
+  ],
+  "primary_users": [
+    "Companies seeking recruitment services",
+    "HR Departments",
+    "Hiring Managers"
+  ],
+  "scalability_features": [
+    "Capable of handling global recruitment operations",
+    "Supports large enterprise clients"
+  ],
+  "_weight": 1
+}

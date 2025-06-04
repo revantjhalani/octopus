@@ -1,0 +1,141 @@
+{
+  "id": 594,
+  "name": "Freespace",
+  "description": "Companies worldwide are adapting their workspaces to evolving hybrid working patterns while keeping employee preferences at the forefront. They often end up trying to build on technology from a pre-pandemic world or through painful incremental integrations on archaic platforms to respond to the shifting requirements of the changing work environment. Freespace was founded in 2015 to support flexible working for companies intending to go free-address and evolved into a suite of fully integrated solutions supporting the transition to hybrid over the pandemic. We understand the nuanced balance between business objectives and people-driven goals, and we are uniquely positioned to simplify workspace management, planning, and utilization into a single comprehensive ecosystem. For over seven years, Freespace has provided \"live\" data and actionable insights to globally recognized brands, with over 150,000 app users and 140,000 sensors in 150 cities across the globe.",
+  "features": [
+    "Commercial Real Estate Technology",
+    "Integrated Workplace Management Solutions",
+    "Space Management Software"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Build a More Diverse and Inclusive Workforce"
+  ],
+  "categories": [
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Experience Software",
+    "Employee engagement software"
+  ],
+  "tags": [
+    "Workforce diversity",
+    "Workplace diversity"
+  ],
+  "headquarter": "Maple Cross, England",
+  "launch_date": "2015",
+  "order": 20552,
+  "weightage": null,
+  "HCM": null,
+  "Headline": "Unlock the value in your real estate and workforce with workplace optimisation solutions from Freespace",
+  "ProductId": null,
+  "ShortDescription": "Companies worldwide are adapting their workspaces to evolving hybrid working patterns while keeping employee preferences at the forefront.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": false,
+  "Claimed": false,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:30:40.507Z",
+  "enhanced_description": "Freespace, founded in 2015, offers a comprehensive suite of integrated solutions for workspace management, planning, and utilization, designed to support companies transitioning to and managing hybrid and free-address working models. It provides 'live' data and actionable insights to optimize real estate and workforce operations globally, helping organizations adapt to evolving work patterns while prioritizing employee preferences and fostering diversity. With over 150,000 app users and 140,000 sensors deployed across 150 cities, Freespace is a proven solution for globally recognized brands looking to unlock the value in their real estate and workforce.",
+  "ideal_company_sizes": [
+    "Large Enterprise",
+    "Global Enterprise"
+  ],
+  "key_use_cases": [
+    "Workspace management",
+    "Workspace planning",
+    "Workspace utilization analysis",
+    "Supporting hybrid work models",
+    "Enabling free-address policies",
+    "Real estate optimization",
+    "Employee experience management related to workspace",
+    "Promoting workplace diversity and inclusion through workspace design and management"
+  ],
+  "competitive_advantages": [
+    "Fully integrated solution ecosystem",
+    "Provides real-time ('live') data and actionable insights",
+    "Proven global deployment and scale (150,000+ app users, 140,000+ sensors across 150 cities)",
+    "Specialized expertise in hybrid and free-address workspace management",
+    "Balances business objectives with people-driven goals (employee preferences)"
+  ],
+  "implementation_scenarios": [
+    "Transitioning to hybrid work models",
+    "Implementing free-address workspace strategies",
+    "Optimizing existing office space for flexible use"
+  ],
+  "hr_functions_supported": [
+    "Employee Experience",
+    "Employee Engagement",
+    "Workplace Diversity & Inclusion",
+    "Workforce Planning"
+  ],
+  "technology_stack": [
+    "IoT (Internet of Things) for sensors",
+    "Mobile applications"
+  ],
+  "roi_benefits": [
+    "Optimized real estate utilization",
+    "Improved workforce productivity and value",
+    "Potential cost savings in real estate management",
+    "Enhanced employee experience and engagement",
+    "Support for diversity and inclusion initiatives",
+    "Simplified workspace management and planning"
+  ],
+  "searchable_keywords": [
+    "Freespace",
+    "hybrid working",
+    "flexible working",
+    "free-address",
+    "workspace management",
+    "space planning",
+    "space utilization",
+    "real estate optimization",
+    "workplace optimization",
+    "live data",
+    "actionable insights",
+    "employee preferences",
+    "comprehensive ecosystem",
+    "Commercial Real Estate Technology",
+    "Integrated Workplace Management Solutions",
+    "Space Management Software",
+    "Talent Management",
+    "Experience Software",
+    "Employee engagement software",
+    "Workforce diversity",
+    "Workplace diversity",
+    "real estate",
+    "workforce"
+  ],
+  "primary_users": [
+    "Employees (via app)",
+    "Facilities Management teams",
+    "Corporate Real Estate teams",
+    "HR Leaders",
+    "Company Leadership / Executives"
+  ],
+  "deployment_options": [
+    "Cloud-based (SaaS)"
+  ],
+  "scalability_features": [
+    "Proven scalability for large-scale deployments, supporting global operations across 150 cities, with a high number of app users (150,000+) and sensor installations (140,000+)."
+  ],
+  "_weight": 1
+}

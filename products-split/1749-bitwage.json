@@ -1,0 +1,171 @@
+{
+  "id": 1749,
+  "name": "Bitwage",
+  "description": "My apologies for that oversight. Let me revise it to fit within 65 words:\n\nEstablished in 2014, Bitwage optimizes global team management by integrating Bitcoin, cryptocurrencies, and stablecoins into payroll and HR systems. It offers flexibility in currency choice, ensuring efficient compensation for remote workers worldwide. Ideal for businesses seeking cost-effective and streamlined payroll solutions, Bitwage simplifies the process of hiring, managing, and compensating a global workforce.",
+  "features": [
+    "Automated invoicing and expenses",
+    "Compliant reporting",
+    "Integrate with your payroll system"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Hire Top Talent Faster and More Efficiently"
+  ],
+  "categories": [
+    "Total Rewards",
+    "Recruiting",
+    "HRMS / HCM",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Compensation management software",
+    "Benefits administration services",
+    "Corporate wellness software"
+  ],
+  "tags": [
+    "Hiring automation",
+    "Employee benefits",
+    "Talent acquisition"
+  ],
+  "headquarter": "San Francisco, California",
+  "launch_date": "2014",
+  "order": 21338,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Making payroll frictionless and a delight",
+  "ProductId": null,
+  "ShortDescription": "The world\u2019s pioneer and leading provider of Bitcoin, Cryptocurrency, and Stablecoin payroll solutions",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "Deposit direct to your wallet on payday",
+      "sequence": 0,
+      "description": "Connect up to 3 wallets and bank accounts for direct deposit on payday."
+    },
+    {
+      "name": "Dollar Cost Average",
+      "sequence": 1,
+      "description": "Getting your paycheck in cryptocurrency is the easiest way to dollar cost average. "
+    },
+    {
+      "name": "World Class Security",
+      "sequence": 2,
+      "description": "Zero breaches since 2014. Aligned with ISO and NISO standards."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": true,
+  "Large_Enterprise": true,
+  "Small_Enterprise": true,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-07-11T04:19:57.398Z",
+  "enhanced_description": "Established in 2014, Bitwage is a pioneer and leading provider of Bitcoin, cryptocurrency, and stablecoin payroll solutions, optimizing global team management. It seamlessly integrates with existing payroll and HR systems, offering unparalleled flexibility in currency choice and ensuring efficient compensation for remote workers worldwide. The platform enables direct deposits to up to three wallets and bank accounts on payday and supports financial strategies like dollar-cost averaging for crypto paychecks. Bitwage also includes features such as automated invoicing, expense management, and compliant reporting. It simplifies the process of hiring, managing, and compensating a global workforce, providing a cost-effective and streamlined payroll solution with world-class security, evidenced by zero breaches since 2014 and alignment with ISO and NISO standards.",
+  "ideal_company_sizes": [
+    "Small_Enterprise",
+    "Large_Enterprise",
+    "Global_Enterprise"
+  ],
+  "key_use_cases": [
+    "Global payroll for remote workers",
+    "Cryptocurrency and stablecoin compensation for employees",
+    "Automated invoicing and expense management",
+    "Streamlined international payments for global teams",
+    "Compliant reporting for crypto payroll",
+    "Facilitating dollar-cost averaging for employee crypto holdings"
+  ],
+  "competitive_advantages": [
+    "Pioneer and leading provider of Bitcoin/cryptocurrency/stablecoin payroll solutions",
+    "Flexibility in currency choice for global compensation",
+    "Cost-effective and streamlined payroll processes",
+    "World-class security with zero breaches since 2014",
+    "Ability to deposit direct to multiple wallets/bank accounts on payday",
+    "Supports dollar-cost averaging for crypto paychecks"
+  ],
+  "implementation_scenarios": [
+    "Integration with existing payroll systems",
+    "Integration with existing HR systems"
+  ],
+  "hr_functions_supported": [
+    "Compensation Management",
+    "Payroll",
+    "Global Workforce Management",
+    "Recruiting (hiring and compensating global talent)",
+    "HR Operations (managing global teams)"
+  ],
+  "integration_capabilities": [
+    "Payroll system integration",
+    "HR system integration"
+  ],
+  "roi_benefits": [
+    "Optimized global team management",
+    "Efficient compensation for remote workers worldwide",
+    "Cost-effective payroll solutions",
+    "Streamlined payroll processes",
+    "Simplified global hiring, management, and compensation",
+    "Frictionless payroll experience"
+  ],
+  "searchable_keywords": [
+    "Bitwage",
+    "Bitcoin payroll",
+    "Cryptocurrency payroll",
+    "Stablecoin payroll",
+    "Global payroll",
+    "Remote worker compensation",
+    "International payroll",
+    "Crypto payments",
+    "HR systems integration",
+    "Payroll system integration",
+    "Automated invoicing",
+    "Expense management",
+    "Compliant reporting",
+    "Digital currency payroll",
+    "Direct deposit crypto",
+    "Dollar Cost Averaging",
+    "Total Rewards",
+    "Compensation management software",
+    "Hiring automation",
+    "Employee benefits",
+    "Talent acquisition",
+    "Global enterprise payroll",
+    "HRMS",
+    "HCM",
+    "Workforce management",
+    "Blockchain payroll"
+  ],
+  "primary_users": [
+    "HR Professionals",
+    "Payroll Managers",
+    "Finance Departments",
+    "Business Owners",
+    "Remote Employees (recipients of payroll)"
+  ],
+  "compliance_features": [
+    "Compliant reporting",
+    "Alignment with ISO standards",
+    "Alignment with NISO standards"
+  ],
+  "security_features": [
+    "World Class Security",
+    "Zero breaches since 2014",
+    "Aligned with ISO standards",
+    "Aligned with NISO standards"
+  ],
+  "_weight": 1
+}

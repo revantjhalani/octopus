@@ -1,0 +1,118 @@
+{
+  "id": 338,
+  "name": "Verimployee",
+  "description": "Verimployee replicates the reputation mechanism that has worked effectively to create social accountability for thousands of years and still does in smaller communities.",
+  "features": [
+    "Online Recruitment Solutions",
+    "Ethical Recruitment Solutions",
+    "Trust and Accountability Mechanism"
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Boost Hiring Manager Confidence and Productivity",
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Total Rewards",
+    "Talent Management"
+  ],
+  "sub_categories": [
+    "Performance management system",
+    "Employee recognition software",
+    "Performance Review software",
+    "Employee engagement software"
+  ],
+  "tags": [
+    "Hiring",
+    "Recruiting",
+    "Hiring efficiency"
+  ],
+  "headquarter": "Gurgaon, Haryana",
+  "launch_date": "2018",
+  "order": 20300,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Emsuring Promises, Promoting Trust",
+  "ProductId": null,
+  "ShortDescription": "Verimployee is an \u201cAccountability-Mechanism\u201d that records promises employees and employers.",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:24:36.709Z",
+  "enhanced_description": "Verimployee is an accountability mechanism designed to foster trust and social accountability by recording promises between employees and employers. It replicates a reputation system to ensure commitments are met, thereby promoting trust within an organization. This system aims to improve overall employee-employer relations and contribute to a more trustworthy work environment.",
+  "key_use_cases": [
+    "Establishing trust in recruitment processes",
+    "Fostering accountability between employees and employers",
+    "Improving hiring manager confidence in candidates",
+    "Enhancing employee happiness and engagement through trust and accountability"
+  ],
+  "competitive_advantages": [
+    "Replicates a traditional reputation mechanism for social accountability",
+    "Focus on ethical recruitment solutions",
+    "Directly addresses trust and accountability as core features"
+  ],
+  "hr_functions_supported": [
+    "Recruitment",
+    "Hiring",
+    "Talent Management",
+    "Performance Management",
+    "Employee Recognition",
+    "Employee Engagement"
+  ],
+  "roi_benefits": [
+    "Boosted Hiring Manager Confidence",
+    "Improved Hiring Efficiency",
+    "Enhanced Employee Happiness",
+    "Increased Employee Engagement",
+    "Promotion of Trust and Accountability within the organization"
+  ],
+  "searchable_keywords": [
+    "Verimployee",
+    "accountability mechanism",
+    "reputation system",
+    "trust",
+    "promises",
+    "employers",
+    "employees",
+    "social accountability",
+    "Online Recruitment",
+    "Ethical Recruitment",
+    "Total Rewards",
+    "Talent Management",
+    "Performance management system",
+    "Employee recognition software",
+    "Performance Review software",
+    "Employee engagement software",
+    "Hiring",
+    "Recruiting",
+    "Hiring efficiency",
+    "Ensuring Promises",
+    "Promoting Trust"
+  ],
+  "primary_users": [
+    "Employees",
+    "Employers",
+    "Hiring Managers"
+  ],
+  "_weight": 1
+}

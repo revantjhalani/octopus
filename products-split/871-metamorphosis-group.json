@@ -1,0 +1,145 @@
+{
+  "id": 871,
+  "name": "Metamorphosis Group",
+  "description": "Metamorphosis Group (MG) is a tech-enabled career coaching EdTech startup company. We are dedicated to providing access to holistic career development programs to Filipino talents across the globe. Through career coaching, we aim to help the global economy escalate to the next industrial revolution. We serve to empower Filipino talents to develop meaningful careers; provide businesses with goal-oriented and mission-driven talents to meet corporate goals; and create a healthy ecosystem of talents and businesses working together to create new groundbreaking and progressive solutions to solve world problems.",
+  "features": [
+    "We believe that doing our job with high standards can help the business meet its corporate vision. We see how selling is more than just a way to earn money but a metric of success for impact.  ",
+    " We feel passionate, purposeful, and blessed to see where all of our efforts directly go to and strongly believe that it will all lead the world into an entirely new industrial revolution.",
+    "We are sincere about our core competences but also transparent about our limitations. But we are proud of our ability to always get the answers we need so it can help everyone better align and meet goals."
+  ],
+  "founders": [],
+  "price": [],
+  "business_objectives": [
+    "Improve Employee Happiness and Engagement"
+  ],
+  "categories": [
+    "Talent Management",
+    "HRMS / HCM",
+    "Total Rewards",
+    "HRMS",
+    "HCM"
+  ],
+  "sub_categories": [
+    "Career management software",
+    "Human Resource Information Systems (HRIS)",
+    "Employee recognition software"
+  ],
+  "tags": [
+    "Employee engagement surveys"
+  ],
+  "headquarter": "Quezon City, PH",
+  "launch_date": "2002",
+  "order": 20824,
+  "weightage": false,
+  "HCM": null,
+  "Headline": "Building Your Life Starting with Your Care",
+  "ProductId": null,
+  "ShortDescription": "Metamorphosis Group is a life coaching service that aims to achieve clients'",
+  "Company": [],
+  "CrossSells": [],
+  "DemoDetails": {
+    "title": "",
+    "videos": []
+  },
+  "HCM_INTEGRATION": [],
+  "Highlights": [
+    {
+      "name": "HOLISTIC CAREER AND LIFE COACHING",
+      "sequence": 0,
+      "description": "Compassion is healing, and we are offering to energize you with emotional capital. We firmly believe that compassion is healing, and we aim to provide that to our clients through our holistic approach to career and life coaching. Our tagline, \"Building your life starting with your career,\" reflects our understanding that a person's career, business, or academics can have a significant impact on their overall life"
+    },
+    {
+      "name": "COMMUNITY DEVELOPMENT",
+      "sequence": 1,
+      "description": "Belongingness is healing, and we are offering to energize you with social capital. Our mission goes beyond just providing career coaching services to our clients; it's about building a community that fosters a sense of belongingness and social capital. Over the years, we've created an ecosystem that brings together coaches, employers, and talents who share our values and beliefs. We believe that through this community, we can create a culture of openness, empathy, and collaboration, where everyone can contribute to meeting common goals"
+    },
+    {
+      "name": "THOUGHT LEADERSHIP",
+      "sequence": 2,
+      "description": "Learning is healing, and we are offering to energize you with intellectual capital. We strongly believe that learning from our thought leadership can be a healing experience, providing valuable intellectual capital. Our content is our biggest value proposition, and we are proud to share it widely in the form of thought leadership on LinkedIn and other social media channels."
+    }
+  ],
+  "Approved": null,
+  "Claimed": true,
+  "Demo_Available": false,
+  "Global_Enterprise": false,
+  "Large_Enterprise": false,
+  "Small_Enterprise": false,
+  "Main_Home": null,
+  "Most_Searched": false,
+  "New_Arrival": false,
+  "Normal": true,
+  "Pricing_Available": false,
+  "Saved": false,
+  "Sponsored": false,
+  "Spotlight": false,
+  "PublishedAt": "2024-02-28T06:36:04.098Z",
+  "enhanced_description": "Metamorphosis Group (MG) is a tech-enabled career coaching EdTech startup company. They specialize in providing holistic career development programs to Filipino talents globally, aiming to empower individuals to build meaningful careers. For businesses, MG provides goal-oriented and mission-driven talents to help meet corporate objectives and improve employee happiness and engagement. Their offerings include holistic career and life coaching, emphasizing compassion and the significant impact of a person's career on their overall well-being. MG also focuses on community development, fostering a supportive ecosystem of coaches, employers, and talents to build social capital and collaboration. Furthermore, the company offers valuable intellectual capital through thought leadership content shared on platforms like LinkedIn.",
+  "key_use_cases": [
+    "Career development for individuals",
+    "Life coaching tied to career progression",
+    "Talent provision and alignment for businesses",
+    "Improving employee happiness and engagement",
+    "Building professional communities for talent and businesses",
+    "Leveraging thought leadership for learning and intellectual growth",
+    "Career management",
+    "Employee recognition programs"
+  ],
+  "competitive_advantages": [
+    "Niche focus on Filipino talents globally",
+    "Holistic approach to career and life coaching",
+    "Emphasis on community development and fostering belongingness/social capital",
+    "Strong focus on thought leadership and intellectual capital as a value proposition",
+    "Ability to always get answers for alignment and goal achievement",
+    "Tech-enabled service delivery"
+  ],
+  "hr_functions_supported": [
+    "Talent Management",
+    "Career Management",
+    "Employee Engagement",
+    "Employee Recognition",
+    "Human Resource Information Systems (HRIS)"
+  ],
+  "roi_benefits": [
+    "Empowerment of Filipino talents for meaningful careers",
+    "Provision of goal-oriented and mission-driven talents to businesses",
+    "Achievement of corporate goals through talent alignment",
+    "Improved employee happiness and engagement",
+    "Creation of a healthy ecosystem of talents and businesses"
+  ],
+  "searchable_keywords": [
+    "Metamorphosis Group",
+    "MG",
+    "Career coaching",
+    "Life coaching",
+    "EdTech",
+    "Tech-enabled",
+    "Career development programs",
+    "Holistic career development",
+    "Filipino talents",
+    "Global talent",
+    "Talent management",
+    "HRMS",
+    "HCM",
+    "HRIS",
+    "Employee engagement",
+    "Employee happiness",
+    "Employee recognition software",
+    "Employee recognition",
+    "Career management software",
+    "Thought leadership",
+    "Intellectual capital",
+    "Community development",
+    "Social capital",
+    "Talent acquisition",
+    "Corporate goals",
+    "Talent ecosystem",
+    "Professional development"
+  ],
+  "primary_users": [
+    "Individual Filipino talents seeking career and life development",
+    "Businesses/Employers (e.g., HR departments, hiring managers) seeking talent and aiming to improve employee engagement",
+    "Career coaches (as participants within the Metamorphosis Group ecosystem)"
+  ],
+  "_weight": 1
+}
